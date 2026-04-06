@@ -1,4 +1,5 @@
 import os
+import re
 import requests
 import json
 from datetime import datetime
@@ -82,6 +83,76 @@ Return ONLY a valid JSON object (no markdown, no backticks):
     return json.loads(raw)
 
 
+# ── Fetch latest Bundestag session number ────────────────────────────────────
+def get_latest_bundestag_session() -> tuple[int, int]:
+    """Returns (wahlperiode, sitzung) of the most recent available session."""
+    # Current Wahlperiode is 21
+    wahlperiode = 21
+    # Try sessions counting down from a high number to find the latest
+    for sitzung in range(120, 0, -1):
+        url = f"https://dserver.bundestag.de/btp/{wahlperiode}/{wahlperiode:02d}{sitzung:03d}.pdf"
+        try:
+            resp = requests.head(url, timeout=5)
+            if resp.status_code == 200:
+                return wahlperiode, sitzung
+        except Exception:
+            continue
+    return wahlperiode, 1
+
+
+# ── Fetch and summarize latest Bundestag session ──────────────────────────────
+def fetch_bundestag_summary() -> dict:
+    print("  -> Fetching latest Bundestag session...")
+    try:
+        wahlperiode, sitzung = get_latest_bundestag_session()
+        pdf_url = f"https://dserver.bundestag.de/btp/{wahlperiode}/{wahlperiode:02d}{sitzung:03d}.pdf"
+        print(f"     Found: {wahlperiode}. Wahlperiode, {sitzung}. Sitzung")
+
+        resp = requests.get(pdf_url, timeout=30)
+        resp.raise_for_status()
+
+        # Extract text from PDF using pdfminer if available, else use raw bytes hint
+        try:
+            import io
+            from pdfminer.high_level import extract_text
+            text = extract_text(io.BytesIO(resp.content))
+        except ImportError:
+            # Fallback: decode raw PDF text (works for simple PDFs)
+            text = resp.content.decode("latin-1", errors="ignore")
+
+        # Trim to first 8000 chars to stay within token limits
+        text_trimmed = text[:8000]
+
+        client = genai.Client(api_key=GEMINI_API_KEY)
+        prompt = f"""The following is the transcript of the {sitzung}. Sitzung of the {wahlperiode}. Wahlperiode of the German Bundestag.
+
+{text_trimmed}
+
+Write a concise English summary of this session covering:
+1. The date and session number
+2. The main agenda topics discussed
+3. Key debates or decisions made
+4. Any notable statements from ministers or MPs
+
+Keep it to 5-8 sentences total. Be factual and neutral."""
+
+        response = client.models.generate_content(
+            model="gemini-2.5-flash-lite",
+            contents=prompt,
+        )
+
+        return {
+            "wahlperiode": wahlperiode,
+            "sitzung":     sitzung,
+            "url":         pdf_url,
+            "summary":     response.text.strip(),
+        }
+
+    except Exception as e:
+        print(f"     Warning: Bundestag summary failed ({e})")
+        return None
+
+
 # ── Build full briefing ───────────────────────────────────────────────────────
 def build_briefing() -> dict:
     today = datetime.now().strftime("%A, %B %d %Y")
@@ -122,7 +193,10 @@ def build_briefing() -> dict:
             "topics":   topics,
         })
 
-    return {"date": today, "sections": sections}
+    # Fetch Bundestag summary
+    bundestag = fetch_bundestag_summary()
+
+    return {"date": today, "sections": sections, "bundestag": bundestag}
 
 
 # ── Format as plain text ──────────────────────────────────────────────────────
@@ -132,6 +206,7 @@ def format_telegram(data: dict) -> str:
         f"📅 {data['date']}",
         "─────────────────────────",
     ]
+
     for section in data["sections"]:
         lines.append(f"\n{section['emoji']} {section['category'].upper()}")
         for topic in section["topics"]:
@@ -142,6 +217,16 @@ def format_telegram(data: dict) -> str:
                 lines.append(f"  🔗 {link['title']}")
                 lines.append(f"     {link['url']}")
         lines.append("─────────────────────────")
+
+    # Add Bundestag section
+    bt = data.get("bundestag")
+    if bt:
+        lines.append(f"\n🏛️ BUNDESTAG — {bt['wahlperiode']}. WAHLPERIODE, {bt['sitzung']}. SITZUNG")
+        lines.append(bt["summary"])
+        lines.append(f"  🔗 Vollständiges Protokoll (PDF)")
+        lines.append(f"     {bt['url']}")
+        lines.append("─────────────────────────")
+
     return "\n".join(lines)
 
 
