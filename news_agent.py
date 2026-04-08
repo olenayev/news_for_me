@@ -179,7 +179,43 @@ Keep it to 5-8 sentences. Be factual and neutral."""
         print(f"     Warning: Bundestag summary failed ({e})")
         return None
 
+# ── Step 4: Fetch 2 historical facts with sources ────────────────────────────
+def fetch_historical_facts() -> list:
+    print("  -> Fetching historical facts...")
+    try:
+        client = genai.Client(api_key=GEMINI_API_KEY)
+        prompt = """Generate exactly 2 interesting historical facts about fashion, religion, politics, or worldwide traditions.
 
+For each fact you MUST provide a real, verifiable source URL (Wikipedia, BBC, Smithsonian, National Geographic, britannica.com, history.com, etc.).
+
+Return ONLY a valid JSON array (no markdown, no backticks):
+[
+  {
+    "fact": "<interesting historical fact, 2-3 sentences>",
+    "category": "<Fashion / Religion / Politics / Traditions>",
+    "source_title": "<name of the source>",
+    "source_url": "<real URL>"
+  },
+  {
+    "fact": "<interesting historical fact, 2-3 sentences>",
+    "category": "<Fashion / Religion / Politics / Traditions>",
+    "source_title": "<name of the source>",
+    "source_url": "<real URL>"
+  }
+]
+
+Make the facts genuinely surprising and educational. Vary the categories each time."""
+
+        response = client.models.generate_content(
+            model="gemini-2.5-flash-lite",
+            contents=prompt,
+        )
+        raw = response.text.strip().replace("```json", "").replace("```", "").strip()
+        return json.loads(raw)
+    except Exception as e:
+        print(f"     Warning: Historical facts failed ({e})")
+        return []
+    
 # ── Step 4: Build full briefing ───────────────────────────────────────────────
 def build_briefing() -> dict:
     today = datetime.now().strftime("%A, %B %d %Y")
@@ -210,8 +246,10 @@ def build_briefing() -> dict:
     ]
 
     bundestag = fetch_bundestag_summary()
+    # Fetch historical facts (uses existing Gemini client, no extra API call cost)
+    facts = fetch_historical_facts()
 
-    return {"date": today, "sections": sections, "bundestag": bundestag}
+    return {"date": today, "sections": sections, "bundestag": bundestag, "facts": facts}
 
 
 # ── Format as plain text ──────────────────────────────────────────────────────
@@ -238,6 +276,17 @@ def format_telegram(data: dict) -> str:
                 if link.get("title") and link.get("url"):
                     lines.append(f"  🔗 {link['title']}")
                     lines.append(f"     {link['url']}")
+        lines.append("─────────────────────────")
+        
+# Historical facts section
+    facts = data.get("facts", [])
+    if facts:
+        lines.append("\n💡 HISTORICAL FACTS OF THE DAY")
+        for i, fact in enumerate(facts, 1):
+            lines.append(f"\n  {i}. {fact['category'].upper()}")
+            lines.append(f"  {fact['fact']}")
+            lines.append(f"  🔗 {fact['source_title']}")
+            lines.append(f"     {fact['source_url']}")
         lines.append("─────────────────────────")
 
     bt = data.get("bundestag")
