@@ -1,9 +1,11 @@
 import os
+import io
 import requests
 import json
 from datetime import datetime
 from dotenv import load_dotenv
 from google import genai
+from gtts import gTTS
 
 # ── Load environment variables from .env file ─────────────────────────────────
 load_dotenv()
@@ -45,7 +47,6 @@ EMOJI_TYPE = {
 
 # ── Step 1: Fetch all headlines from NewsAPI ──────────────────────────────────
 def fetch_all_headlines() -> dict:
-    """Fetch headlines for all category/type combos. Returns nested dict."""
     all_headlines = {}
     for category in CATEGORIES:
         all_headlines[category] = {}
@@ -74,11 +75,9 @@ def fetch_all_headlines() -> dict:
 
 # ── Step 2: Summarize ALL headlines in ONE Gemini call ───────────────────────
 def summarize_all_with_gemini(all_headlines: dict) -> dict:
-    """Send all headlines to Gemini in one prompt. Returns structured summaries."""
     print("  -> Summarizing all headlines with Gemini (1 call)...")
     client = genai.Client(api_key=GEMINI_API_KEY)
 
-    # Build a compact text block of all headlines
     headlines_block = ""
     for category in CATEGORIES:
         for news_type in NEWS_TYPES:
@@ -144,7 +143,6 @@ def fetch_bundestag_summary() -> dict:
         resp.raise_for_status()
 
         try:
-            import io
             from pdfminer.high_level import extract_text
             text = extract_text(io.BytesIO(resp.content))
         except ImportError:
@@ -186,13 +184,9 @@ Keep it to 5-8 sentences. Be factual and neutral."""
 def build_briefing() -> dict:
     today = datetime.now().strftime("%A, %B %d %Y")
 
-    # Fetch all headlines (NewsAPI — many calls but free)
     all_headlines = fetch_all_headlines()
-
-    # Summarize all in ONE Gemini call
     gemini_result = summarize_all_with_gemini(all_headlines)
 
-    # Organize into sections
     section_map = {}
     for item in gemini_result.get("sections", []):
         cat = item["category"]
@@ -215,7 +209,6 @@ def build_briefing() -> dict:
         for cat in CATEGORIES
     ]
 
-    # Fetch Bundestag summary (1 Gemini call)
     bundestag = fetch_bundestag_summary()
 
     return {"date": today, "sections": sections, "bundestag": bundestag}
@@ -240,7 +233,6 @@ def format_telegram(data: dict) -> str:
                 lines.append(f"     {link['url']}")
         lines.append("─────────────────────────")
 
-    # Bundestag section
     bt = data.get("bundestag")
     if bt:
         lines.append(f"\n🏛️ BUNDESTAG — {bt['wahlperiode']}. WAHLPERIODE, {bt['sitzung']}. SITZUNG")
@@ -252,7 +244,32 @@ def format_telegram(data: dict) -> str:
     return "\n".join(lines)
 
 
-# ── Send to Telegram ──────────────────────────────────────────────────────────
+# ── Generate voice message from Bundestag summary ────────────────────────────
+def generate_voice(text: str) -> bytes:
+    """Convert text to MP3 audio bytes using gTTS (free, no API key needed)."""
+    print("  -> Generating voice message...")
+    tts = gTTS(text=text, lang="en", slow=False)
+    audio_buffer = io.BytesIO()
+    tts.write_to_fp(audio_buffer)
+    audio_buffer.seek(0)
+    return audio_buffer.read()
+
+
+# ── Send voice message to Telegram ───────────────────────────────────────────
+def send_telegram_voice(audio_bytes: bytes, caption: str):
+    """Send an MP3 voice note to Telegram."""
+    print("  -> Sending voice message to Telegram...")
+    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendVoice"
+    resp = requests.post(url, data={
+        "chat_id": TELEGRAM_CHAT_ID,
+        "caption": caption,
+    }, files={
+        "voice": ("bundestag_summary.mp3", audio_bytes, "audio/mpeg"),
+    })
+    resp.raise_for_status()
+
+
+# ── Send text message to Telegram ────────────────────────────────────────────
 def send_telegram(text: str):
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
     chunks = [text[i:i+4000] for i in range(0, len(text), 4000)]
@@ -269,7 +286,24 @@ def send_telegram(text: str):
 if __name__ == "__main__":
     print(f"[{datetime.now().strftime('%H:%M:%S')}] Building news briefing...")
     data = build_briefing()
-    print(f"[{datetime.now().strftime('%H:%M:%S')}] Sending to Telegram...")
+
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] Sending text briefing to Telegram...")
     msg = format_telegram(data)
     send_telegram(msg)
-    print(f"[{datetime.now().strftime('%H:%M:%S')}] Done! Briefing sent.")
+
+    # Generate and send voice message for Bundestag summary
+    bt = data.get("bundestag")
+    if bt:
+        print(f"[{datetime.now().strftime('%H:%M:%S')}] Generating Bundestag voice summary...")
+        voice_text = (
+            f"Hello beauty, here is Bundestag Summary for you. "
+            f"{bt['wahlperiode']}th Wahlperiode, {bt['sitzung']}th Sitzung. "
+            f"{bt['summary']}"
+        )
+        audio = generate_voice(voice_text)
+        send_telegram_voice(
+            audio,
+            caption=f"🏛️ Bundestag {bt['wahlperiode']}. WP / {bt['sitzung']}. Sitzung — Audio Summary"
+        )
+
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] Done! Briefing and voice note sent.")
