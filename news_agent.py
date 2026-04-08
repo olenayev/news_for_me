@@ -1,5 +1,4 @@
 import os
-import re
 import requests
 import json
 from datetime import datetime
@@ -34,46 +33,83 @@ NEWSTYPE_QUERIES = {
     "Technology":       "technology OR AI OR tech",
 }
 
-# ── Fetch headlines from NewsAPI ──────────────────────────────────────────────
-def fetch_headlines(category: str, news_type: str) -> list:
-    query = f"{CATEGORY_QUERIES[category]} {NEWSTYPE_QUERIES[news_type]}"
-    resp = requests.get("https://newsapi.org/v2/everything", params={
-        "q":        query,
-        "language": "en",
-        "sortBy":   "publishedAt",
-        "pageSize": 5,
-        "apiKey":   NEWSAPI_KEY,
-    })
-    resp.raise_for_status()
-    articles = resp.json().get("articles", [])
-    return [
-        {"title": a["title"], "description": a.get("description", ""), "url": a["url"]}
-        for a in articles if a.get("title") and a.get("url")
-    ]
+EMOJI_CATEGORY = {
+    "Germany": "🇩🇪", "Europe": "🇪🇺", "US": "🇺🇸",
+    "Asia": "🌏", "World": "🌍"
+}
+EMOJI_TYPE = {
+    "Culture": "🎭", "Business": "💼", "War": "⚔️",
+    "Stocks & Markets": "📈", "Technology": "💻"
+}
 
 
-# ── Summarize with Gemini ─────────────────────────────────────────────────────
-def summarize_with_gemini(category: str, news_type: str, articles: list) -> dict:
+# ── Step 1: Fetch all headlines from NewsAPI ──────────────────────────────────
+def fetch_all_headlines() -> dict:
+    """Fetch headlines for all category/type combos. Returns nested dict."""
+    all_headlines = {}
+    for category in CATEGORIES:
+        all_headlines[category] = {}
+        for news_type in NEWS_TYPES:
+            print(f"  -> Fetching: {category} / {news_type}...")
+            try:
+                query = f"{CATEGORY_QUERIES[category]} {NEWSTYPE_QUERIES[news_type]}"
+                resp = requests.get("https://newsapi.org/v2/everything", params={
+                    "q":        query,
+                    "language": "en",
+                    "sortBy":   "publishedAt",
+                    "pageSize": 3,
+                    "apiKey":   NEWSAPI_KEY,
+                })
+                resp.raise_for_status()
+                articles = resp.json().get("articles", [])
+                all_headlines[category][news_type] = [
+                    {"title": a["title"], "description": a.get("description", ""), "url": a["url"]}
+                    for a in articles if a.get("title") and a.get("url")
+                ]
+            except Exception as e:
+                print(f"     Warning: NewsAPI failed ({e})")
+                all_headlines[category][news_type] = []
+    return all_headlines
+
+
+# ── Step 2: Summarize ALL headlines in ONE Gemini call ───────────────────────
+def summarize_all_with_gemini(all_headlines: dict) -> dict:
+    """Send all headlines to Gemini in one prompt. Returns structured summaries."""
+    print("  -> Summarizing all headlines with Gemini (1 call)...")
     client = genai.Client(api_key=GEMINI_API_KEY)
 
-    articles_text = "\n".join(
-        f"- {a['title']}: {a['description']} ({a['url']})"
-        for a in articles
-    )
+    # Build a compact text block of all headlines
+    headlines_block = ""
+    for category in CATEGORIES:
+        for news_type in NEWS_TYPES:
+            articles = all_headlines[category][news_type]
+            if not articles:
+                continue
+            headlines_block += f"\n[{category} / {news_type}]\n"
+            for a in articles:
+                headlines_block += f"  - {a['title']} | {a['url']}\n"
 
-    prompt = f"""You are a professional news editor. Based on these headlines about {news_type} in {category}:
+    prompt = f"""You are a professional news editor. Below are headlines grouped by region and topic.
 
-{articles_text}
+{headlines_block}
 
-Return ONLY a valid JSON object (no markdown, no backticks):
+For EACH [Region / Topic] group, write a summary. Return ONLY a valid JSON object (no markdown, no backticks) in this exact structure:
 {{
-  "headline": "<single most important headline, concise>",
-  "summary": "<2-3 sentence summary of the key story>",
-  "links": [
-    {{"title": "<article title>", "url": "<url>"}},
-    {{"title": "<article title>", "url": "<url>"}}
+  "sections": [
+    {{
+      "category": "<region>",
+      "news_type": "<topic>",
+      "headline": "<single most important headline, concise>",
+      "summary": "<2-3 sentence summary>",
+      "links": [
+        {{"title": "<article title>", "url": "<url>"}},
+        {{"title": "<article title>", "url": "<url>"}}
+      ]
+    }}
   ]
-}}"""
+}}
+
+Cover every [Region / Topic] group that has at least one headline. Be factual and concise."""
 
     response = client.models.generate_content(
         model="gemini-2.5-flash-lite",
@@ -83,12 +119,9 @@ Return ONLY a valid JSON object (no markdown, no backticks):
     return json.loads(raw)
 
 
-# ── Fetch latest Bundestag session number ────────────────────────────────────
-def get_latest_bundestag_session() -> tuple[int, int]:
-    """Returns (wahlperiode, sitzung) of the most recent available session."""
-    # Current Wahlperiode is 21
+# ── Step 3: Fetch latest Bundestag session ────────────────────────────────────
+def get_latest_bundestag_session() -> tuple:
     wahlperiode = 21
-    # Try sessions counting down from a high number to find the latest
     for sitzung in range(120, 0, -1):
         url = f"https://dserver.bundestag.de/btp/{wahlperiode}/{wahlperiode:02d}{sitzung:03d}.pdf"
         try:
@@ -100,7 +133,6 @@ def get_latest_bundestag_session() -> tuple[int, int]:
     return wahlperiode, 1
 
 
-# ── Fetch and summarize latest Bundestag session ──────────────────────────────
 def fetch_bundestag_summary() -> dict:
     print("  -> Fetching latest Bundestag session...")
     try:
@@ -111,16 +143,13 @@ def fetch_bundestag_summary() -> dict:
         resp = requests.get(pdf_url, timeout=30)
         resp.raise_for_status()
 
-        # Extract text from PDF using pdfminer if available, else use raw bytes hint
         try:
             import io
             from pdfminer.high_level import extract_text
             text = extract_text(io.BytesIO(resp.content))
         except ImportError:
-            # Fallback: decode raw PDF text (works for simple PDFs)
             text = resp.content.decode("latin-1", errors="ignore")
 
-        # Trim to first 8000 chars to stay within token limits
         text_trimmed = text[:8000]
 
         client = genai.Client(api_key=GEMINI_API_KEY)
@@ -128,13 +157,13 @@ def fetch_bundestag_summary() -> dict:
 
 {text_trimmed}
 
-Write a concise English summary of this session covering:
+Write a concise English summary covering:
 1. The date and session number
-2. The main agenda topics discussed
-3. Key debates or decisions made
-4. Any notable statements from ministers or MPs
+2. Main agenda topics
+3. Key debates or decisions
+4. Notable statements from ministers or MPs
 
-Keep it to 5-8 sentences total. Be factual and neutral."""
+Keep it to 5-8 sentences. Be factual and neutral."""
 
         response = client.models.generate_content(
             model="gemini-2.5-flash-lite",
@@ -153,47 +182,40 @@ Keep it to 5-8 sentences total. Be factual and neutral."""
         return None
 
 
-# ── Build full briefing ───────────────────────────────────────────────────────
+# ── Step 4: Build full briefing ───────────────────────────────────────────────
 def build_briefing() -> dict:
     today = datetime.now().strftime("%A, %B %d %Y")
-    sections = []
 
-    EMOJI_CATEGORY = {
-        "Germany": "🇩🇪", "Europe": "🇪🇺", "US": "🇺🇸",
-        "Asia": "🌏", "World": "🌍"
-    }
-    EMOJI_TYPE = {
-        "Culture": "🎭", "Business": "💼", "War": "⚔️",
-        "Stocks & Markets": "📈", "Technology": "💻"
-    }
+    # Fetch all headlines (NewsAPI — many calls but free)
+    all_headlines = fetch_all_headlines()
 
-    for category in CATEGORIES:
-        topics = []
-        for news_type in NEWS_TYPES:
-            print(f"  -> {category} / {news_type}...")
-            try:
-                articles = fetch_headlines(category, news_type)
-                if not articles:
-                    print(f"     No articles found, skipping.")
-                    continue
-                summary = summarize_with_gemini(category, news_type, articles)
-                topics.append({
-                    "type":     news_type,
-                    "emoji":    EMOJI_TYPE.get(news_type, "📰"),
-                    "headline": summary["headline"],
-                    "summary":  summary["summary"],
-                    "links":    summary.get("links", [])[:2],
-                })
-            except Exception as e:
-                print(f"     Warning: Skipped ({e})")
+    # Summarize all in ONE Gemini call
+    gemini_result = summarize_all_with_gemini(all_headlines)
 
-        sections.append({
-            "category": category,
-            "emoji":    EMOJI_CATEGORY.get(category, "🌐"),
-            "topics":   topics,
+    # Organize into sections
+    section_map = {}
+    for item in gemini_result.get("sections", []):
+        cat = item["category"]
+        if cat not in section_map:
+            section_map[cat] = []
+        section_map[cat].append({
+            "type":     item["news_type"],
+            "emoji":    EMOJI_TYPE.get(item["news_type"], "📰"),
+            "headline": item["headline"],
+            "summary":  item["summary"],
+            "links":    item.get("links", [])[:2],
         })
 
-    # Fetch Bundestag summary
+    sections = [
+        {
+            "category": cat,
+            "emoji":    EMOJI_CATEGORY.get(cat, "🌐"),
+            "topics":   section_map.get(cat, []),
+        }
+        for cat in CATEGORIES
+    ]
+
+    # Fetch Bundestag summary (1 Gemini call)
     bundestag = fetch_bundestag_summary()
 
     return {"date": today, "sections": sections, "bundestag": bundestag}
@@ -218,7 +240,7 @@ def format_telegram(data: dict) -> str:
                 lines.append(f"     {link['url']}")
         lines.append("─────────────────────────")
 
-    # Add Bundestag section
+    # Bundestag section
     bt = data.get("bundestag")
     if bt:
         lines.append(f"\n🏛️ BUNDESTAG — {bt['wahlperiode']}. WAHLPERIODE, {bt['sitzung']}. SITZUNG")
