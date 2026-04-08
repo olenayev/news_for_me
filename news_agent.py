@@ -223,14 +223,21 @@ def format_telegram(data: dict) -> str:
     ]
 
     for section in data["sections"]:
+        # Skip sections with no topics
+        if not section.get("topics"):
+            continue
         lines.append(f"\n{section['emoji']} {section['category'].upper()}")
         for topic in section["topics"]:
+            # Skip topics missing headline or summary
+            if not topic.get("headline") or not topic.get("summary"):
+                continue
             lines.append(f"\n  {topic['emoji']} {topic['type'].upper()}")
             lines.append(f"  {topic['headline']}")
             lines.append(f"  {topic['summary']}")
             for link in topic.get("links", []):
-                lines.append(f"  🔗 {link['title']}")
-                lines.append(f"     {link['url']}")
+                if link.get("title") and link.get("url"):
+                    lines.append(f"  🔗 {link['title']}")
+                    lines.append(f"     {link['url']}")
         lines.append("─────────────────────────")
 
     bt = data.get("bundestag")
