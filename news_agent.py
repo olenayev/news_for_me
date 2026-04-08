@@ -1,5 +1,6 @@
 import os
 import io
+import time
 import requests
 import json
 from datetime import datetime
@@ -43,6 +44,24 @@ EMOJI_TYPE = {
     "Culture": "🎭", "Business": "💼", "War": "⚔️",
     "Stocks & Markets": "📈", "Technology": "💻"
 }
+
+
+# ── Gemini call with retry ────────────────────────────────────────────────────
+def gemini_generate(client, prompt: str) -> str:
+    """Call Gemini with up to 3 retries on 503 errors."""
+    for attempt in range(3):
+        try:
+            response = client.models.generate_content(
+                model="gemini-2.5-flash-lite",
+                contents=prompt,
+            )
+            return response.text.strip()
+        except Exception as e:
+            if attempt < 2:
+                print(f"     Gemini attempt {attempt + 1} failed ({e}), retrying in 30s...")
+                time.sleep(30)
+            else:
+                raise
 
 
 # ── Step 1: Fetch all headlines from NewsAPI ──────────────────────────────────
@@ -110,11 +129,8 @@ For EACH [Region / Topic] group, write a summary. Return ONLY a valid JSON objec
 
 Cover every [Region / Topic] group that has at least one headline. Be factual and concise."""
 
-    response = client.models.generate_content(
-        model="gemini-2.5-flash-lite",
-        contents=prompt,
-    )
-    raw = response.text.strip().replace("```json", "").replace("```", "").strip()
+    raw = gemini_generate(client, prompt)
+    raw = raw.replace("```json", "").replace("```", "").strip()
     return json.loads(raw)
 
 
@@ -149,8 +165,8 @@ def fetch_bundestag_summary() -> dict:
             text = resp.content.decode("latin-1", errors="ignore")
 
         text_trimmed = text[:8000]
-
         client = genai.Client(api_key=GEMINI_API_KEY)
+
         prompt = f"""The following is the transcript of the {sitzung}. Sitzung of the {wahlperiode}. Wahlperiode of the German Bundestag.
 
 {text_trimmed}
@@ -163,23 +179,21 @@ Write a concise English summary covering:
 
 Keep it to 5-8 sentences. Be factual and neutral."""
 
-        response = client.models.generate_content(
-            model="gemini-2.5-flash-lite",
-            contents=prompt,
-        )
+        summary = gemini_generate(client, prompt)
 
         return {
             "wahlperiode": wahlperiode,
             "sitzung":     sitzung,
             "url":         pdf_url,
-            "summary":     response.text.strip(),
+            "summary":     summary,
         }
 
     except Exception as e:
         print(f"     Warning: Bundestag summary failed ({e})")
         return None
 
-# ── Step 4: Fetch 2 historical facts with sources ────────────────────────────
+
+# ── Step 4: Fetch 2 historical facts with sources ─────────────────────────────
 def fetch_historical_facts() -> list:
     print("  -> Fetching historical facts...")
     try:
@@ -206,17 +220,16 @@ Return ONLY a valid JSON array (no markdown, no backticks):
 
 Make the facts genuinely surprising and educational. Vary the categories each time."""
 
-        response = client.models.generate_content(
-            model="gemini-2.5-flash-lite",
-            contents=prompt,
-        )
-        raw = response.text.strip().replace("```json", "").replace("```", "").strip()
+        raw = gemini_generate(client, prompt)
+        raw = raw.replace("```json", "").replace("```", "").strip()
         return json.loads(raw)
+
     except Exception as e:
         print(f"     Warning: Historical facts failed ({e})")
         return []
-    
-# ── Step 4: Build full briefing ───────────────────────────────────────────────
+
+
+# ── Step 5: Build full briefing ───────────────────────────────────────────────
 def build_briefing() -> dict:
     today = datetime.now().strftime("%A, %B %d %Y")
 
@@ -246,8 +259,7 @@ def build_briefing() -> dict:
     ]
 
     bundestag = fetch_bundestag_summary()
-    # Fetch historical facts (uses existing Gemini client, no extra API call cost)
-    facts = fetch_historical_facts()
+    facts     = fetch_historical_facts()
 
     return {"date": today, "sections": sections, "bundestag": bundestag, "facts": facts}
 
@@ -261,12 +273,10 @@ def format_telegram(data: dict) -> str:
     ]
 
     for section in data["sections"]:
-        # Skip sections with no topics
         if not section.get("topics"):
             continue
         lines.append(f"\n{section['emoji']} {section['category'].upper()}")
         for topic in section["topics"]:
-            # Skip topics missing headline or summary
             if not topic.get("headline") or not topic.get("summary"):
                 continue
             lines.append(f"\n  {topic['emoji']} {topic['type'].upper()}")
@@ -277,8 +287,8 @@ def format_telegram(data: dict) -> str:
                     lines.append(f"  🔗 {link['title']}")
                     lines.append(f"     {link['url']}")
         lines.append("─────────────────────────")
-        
-# Historical facts section
+
+    # Historical facts section
     facts = data.get("facts", [])
     if facts:
         lines.append("\n💡 HISTORICAL FACTS OF THE DAY")
@@ -289,6 +299,7 @@ def format_telegram(data: dict) -> str:
             lines.append(f"     {fact['source_url']}")
         lines.append("─────────────────────────")
 
+    # Bundestag section
     bt = data.get("bundestag")
     if bt:
         lines.append(f"\n🏛️ BUNDESTAG — {bt['wahlperiode']}. WAHLPERIODE, {bt['sitzung']}. SITZUNG")
@@ -302,7 +313,6 @@ def format_telegram(data: dict) -> str:
 
 # ── Generate voice message from Bundestag summary ────────────────────────────
 def generate_voice(text: str) -> bytes:
-    """Convert text to MP3 audio bytes using gTTS (free, no API key needed)."""
     print("  -> Generating voice message...")
     tts = gTTS(text=text, lang="en", slow=False)
     audio_buffer = io.BytesIO()
@@ -313,7 +323,6 @@ def generate_voice(text: str) -> bytes:
 
 # ── Send voice message to Telegram ───────────────────────────────────────────
 def send_telegram_voice(audio_bytes: bytes, caption: str):
-    """Send an MP3 voice note to Telegram."""
     print("  -> Sending voice message to Telegram...")
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendVoice"
     resp = requests.post(url, data={
