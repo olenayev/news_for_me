@@ -18,7 +18,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install google-genai requests python-dotenv
+        run: pip install google-genai requests python-dotenv pdfminer.six gtts
 
       - name: Run news agent
         run: python news_agent.py
