@@ -127,7 +127,12 @@ For EACH [Region / Topic] group, write a summary. Return ONLY a valid JSON objec
   ]
 }}
 
-Cover every [Region / Topic] group that has at least one headline. Be factual and concise."""
+Cover every [Region / Topic] group that has at least one headline. Be factual and concise.
+
+IMPORTANT DEDUPLICATION RULES:
+- Each article URL must appear in ONLY ONE section — the most relevant one.
+- If an article could fit multiple sections, assign it to the single best match and do not repeat it elsewhere.
+- If after deduplication a section has no unique articles left, omit that section entirely from the response."""""
 
     raw = gemini_generate(client, prompt)
     raw = raw.replace("```json", "").replace("```", "").strip()
@@ -248,7 +253,20 @@ def build_briefing() -> dict:
             "summary":  item["summary"],
             "links":    item.get("links", [])[:2],
         })
-
+# Safety net: remove any duplicate URLs across all sections
+    seen_urls = set()
+    for cat in section_map:
+        for topic in section_map[cat]:
+            unique_links = []
+            for link in topic.get("links", []):
+                url = link.get("url", "")
+                if url and url not in seen_urls:
+                    seen_urls.add(url)
+                    unique_links.append(link)
+            topic["links"] = unique_links
+        # Remove topics that now have no links
+        section_map[cat] = [t for t in section_map[cat] if t.get("links")]
+        
     sections = [
         {
             "category": cat,
