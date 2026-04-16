@@ -174,15 +174,37 @@ def fetch_bundestag_summary() -> dict:
 
         prompt = f"""The following is the transcript of the {sitzung}. Sitzung of the {wahlperiode}. Wahlperiode of the German Bundestag.
 
-{text_trimmed}
+        {text_trimmed}
 
-Write a concise English summary covering:
-1. The date and session number
-2. Main agenda topics
-3. Key debates or decisions
-4. Notable statements from ministers or MPs
+        Do the following TWO tasks:
 
-Keep it to 5-8 sentences. Be factual and neutral."""
+        TASK 1 - DETAILED SUMMARY:
+        Write a detailed English summary covering:
+        1. The date and session number
+        2. Every agenda topic discussed (list all of them)
+        3. Key debates, votes and decisions with specific details (who said what, which parties agreed or opposed)
+        4. Specific quotes or strong statements from ministers or MPs
+        5. Any voting results with numbers if mentioned
+
+        Be specific and detailed — at least 10-12 sentences.
+
+        TASK 2 - UKRAINIAN MEN SEARCH:
+        Search the transcript for any mentions of: "ukrainische Männer", "ukrainischen Männer", "ukrainische Männer", "Ukrainer", "ukrainische Flüchtlinge", "wehrpflichtige Ukrainer", or any discussion about Ukrainian men, Ukrainian refugees, or Ukrainian conscription/military service obligations.
+
+        If found:
+        - Quote the relevant passage(s) in the original German
+        - Name the speaker (MP or minister)
+        - State the page number if visible nearby in the text
+
+        If not found: state clearly "No discussion about Ukrainian men found in this session."
+
+        Format your response as:
+
+        SUMMARY:
+        <your detailed summary>
+
+        UKRAINIAN MEN:
+        <findings or not found message>"""
 
         summary = gemini_generate(client, prompt)
 
