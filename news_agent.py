@@ -15,7 +15,7 @@ GEMINI_API_KEY     = os.environ["GEMINI_API_KEY"]
 NEWSAPI_KEY        = os.environ["NEWSAPI_KEY"]
 TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 TELEGRAM_CHAT_ID   = os.environ["TELEGRAM_CHAT_ID"]
-
+ELEVENLABS_API_KEY = os.environ["ELEVENLABS_API_KEY"]
 # ── Config ────────────────────────────────────────────────────────────────────
 CATEGORIES = ["Germany", "Europe", "US", "Asia", "World"]
 NEWS_TYPES  = ["Culture", "Business", "War", "Stocks & Markets", "Technology"]
@@ -361,7 +361,7 @@ def generate_voice(text: str) -> bytes:
         client = ElevenLabs(api_key=ELEVENLABS_API_KEY)
 
         audio = client.text_to_speech.convert(
-            voice_id="cgSgspJ2msm6clMCkdW9",  # Jessica — warm, expressive female voice
+            voice_id="si0svtk05vPEuvwAW93c",  # Jessica — warm, expressive female voice
             text=text,
             model_id="eleven_turbo_v2_5",
             voice_settings=VoiceSettings(
