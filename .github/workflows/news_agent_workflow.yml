@@ -18,7 +18,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install google-genai requests python-dotenv pdfminer.six gtts
+        run: pip install google-genai requests python-dotenv pdfminer.six gtts elevenlabs
 
       - name: Run news agent
         run: python news_agent.py
@@ -27,3 +27,4 @@ jobs:
           NEWSAPI_KEY:        ${{ secrets.NEWSAPI_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
