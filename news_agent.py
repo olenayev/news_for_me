@@ -353,12 +353,36 @@ def format_telegram(data: dict) -> str:
 
 # ── Generate voice message from Bundestag summary ────────────────────────────
 def generate_voice(text: str) -> bytes:
-    print("  -> Generating voice message...")
-    tts = gTTS(text=text, lang="en", slow=False)
-    audio_buffer = io.BytesIO()
-    tts.write_to_fp(audio_buffer)
-    audio_buffer.seek(0)
-    return audio_buffer.read()
+    print("  -> Generating voice message with ElevenLabs...")
+    try:
+        from elevenlabs.client import ElevenLabs
+        from elevenlabs import VoiceSettings
+
+        client = ElevenLabs(api_key=ELEVENLABS_API_KEY)
+
+        audio = client.text_to_speech.convert(
+            voice_id="cgSgspJ2msm6clMCkdW9",  # Jessica — warm, expressive female voice
+            text=text,
+            model_id="eleven_turbo_v2_5",
+            voice_settings=VoiceSettings(
+                stability=0.35,           # lower = more expressive/emotional
+                similarity_boost=0.80,
+                style=0.45,               # adds dramatic emphasis on key points
+                use_speaker_boost=True,
+            ),
+        )
+        # audio is a generator — collect all bytes
+        audio_bytes = b"".join(audio)
+        return audio_bytes
+
+    except Exception as e:
+        print(f"     ElevenLabs failed ({e}), falling back to gTTS...")
+        # Fallback to gTTS if ElevenLabs fails
+        tts = gTTS(text=text, lang="en", slow=False)
+        audio_buffer = io.BytesIO()
+        tts.write_to_fp(audio_buffer)
+        audio_buffer.seek(0)
+        return audio_buffer.read()
 
 
 # ── Send voice message to Telegram ───────────────────────────────────────────
