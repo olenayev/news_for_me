@@ -361,7 +361,7 @@ def generate_voice(text: str) -> bytes:
         client = ElevenLabs(api_key=ELEVENLABS_API_KEY)
 
         audio = client.text_to_speech.convert(
-            voice_id="fATgBRI8wg5KkDFg8vBd",  # Jessica — warm, expressive female voice
+            voice_id="pNInz6obpgDQGcFmaJgB",  # Jessica — warm, expressive female voice
             text=text,
             model_id="eleven_turbo_v2_5",
             voice_settings=VoiceSettings(
