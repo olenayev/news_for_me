@@ -350,6 +350,20 @@ def format_telegram(data: dict) -> str:
 
     return "\n".join(lines)
 
+# ── Save output as JSON for website ──────────────────────────────────────────
+def save_json(data: dict):
+    os.makedirs("docs", exist_ok=True)
+    # Save today's briefing
+    with open("docs/data.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    print("  -> Saved docs/data.json")
+
+    # Save to archive (one file per day)
+    date_slug = datetime.now().strftime("%Y-%m-%d")
+    os.makedirs("docs/archive", exist_ok=True)
+    with open(f"docs/archive/{date_slug}.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    print(f"  -> Saved docs/archive/{date_slug}.json")
 
 # ── Generate voice message from Bundestag summary ────────────────────────────
 def generate_voice(text: str) -> bytes:
@@ -415,6 +429,13 @@ def send_telegram(text: str):
 if __name__ == "__main__":
     print(f"[{datetime.now().strftime('%H:%M:%S')}] Building news briefing...")
     data = build_briefing()
+
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] Saving JSON output...")
+    save_json(data)                                               # ← ADD THIS
+
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] Sending text briefing to Telegram...")
+    msg = format_telegram(data)
+    send_telegram(msg)
 
     print(f"[{datetime.now().strftime('%H:%M:%S')}] Sending text briefing to Telegram...")
     msg = format_telegram(data)
