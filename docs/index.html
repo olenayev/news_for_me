@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Daily Briefing</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@300;400;500&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --ink:        #0f0e0c;
+      --paper:      #f5f0e8;
+      --cream:      #ede8dc;
+      --accent:     #b5282a;
+      --gold:       #c89a2e;
+      --muted:      #7a7060;
+      --rule:       #d4cfc4;
+      --col-width:  680px;
+    }
+
+    html { font-size: 16px; }
+
+    body {
+      background: var(--paper);
+      color: var(--ink);
+      font-family: 'DM Sans', sans-serif;
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* ── Noise texture overlay ── */
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.04'/%3E%3C/svg%3E");
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    /* ── Masthead ── */
+    .masthead {
+      border-bottom: 3px double var(--ink);
+      padding: 2rem 2rem 1.2rem;
+      text-align: center;
+      position: relative;
+    }
+
+    .masthead-rule {
+      height: 1px;
+      background: var(--ink);
+      margin-bottom: 0.6rem;
+    }
+
+    .masthead h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(2.4rem, 6vw, 4.5rem);
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      line-height: 1;
+      text-transform: uppercase;
+    }
+
+    .masthead-sub {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.7rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-top: 0.4rem;
+    }
+
+    .masthead-date {
+      font-family: 'Playfair Display', serif;
+      font-style: italic;
+      font-size: 1rem;
+      color: var(--accent);
+      margin-top: 0.5rem;
+    }
+
+    /* ── Navigation tabs ── */
+    .nav-bar {
+      border-bottom: 1px solid var(--rule);
+      background: var(--cream);
+      padding: 0 2rem;
+      display: flex;
+      gap: 0;
+      overflow-x: auto;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .nav-tab {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.65rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      padding: 0.8rem 1.2rem;
+      cursor: pointer;
+      border: none;
+      background: none;
+      color: var(--muted);
+      border-bottom: 2px solid transparent;
+      transition: all 0.2s;
+      white-space: nowrap;
+    }
+
+    .nav-tab:hover { color: var(--ink); }
+    .nav-tab.active {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
+    }
+
+    /* ── Main layout ── */
+    .page {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2rem;
+      position: relative;
+      z-index: 1;
+    }
+
+    /* ── Section display ── */
+    .section-panel { display: none; }
+    .section-panel.active { display: block; }
+
+    /* ── Category header ── */
+    .category-header {
+      display: flex;
+      align-items: baseline;
+      gap: 1rem;
+      border-top: 2px solid var(--ink);
+      padding-top: 1rem;
+      margin: 2.5rem 0 1.5rem;
+    }
+
+    .category-flag { font-size: 1.6rem; line-height: 1; }
+
+    .category-name {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.6rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    /* ── Topic grid ── */
+    .topics-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 1.5px;
+      background: var(--rule);
+      border: 1.5px solid var(--rule);
+    }
+
+    .topic-card {
+      background: var(--paper);
+      padding: 1.4rem;
+      transition: background 0.15s;
+    }
+
+    .topic-card:hover { background: var(--cream); }
+
+    .topic-type {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.6rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 0.5rem;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+
+    .topic-headline {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.05rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 0.7rem;
+    }
+
+    .topic-summary {
+      font-size: 0.82rem;
+      line-height: 1.65;
+      color: #3a3530;
+      margin-bottom: 0.9rem;
+    }
+
+    .topic-links { display: flex; flex-direction: column; gap: 0.3rem; }
+
+    .topic-link {
+      font-size: 0.72rem;
+      color: var(--gold);
+      text-decoration: none;
+      font-family: 'DM Mono', monospace;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+
+    .topic-link:hover { color: var(--accent); text-decoration: underline; }
+    .topic-link::before { content: '↗'; font-size: 0.65rem; flex-shrink: 0; }
+
+    /* ── Bundestag section ── */
+    .bundestag-wrap {
+      border: 2px solid var(--ink);
+      padding: 2rem;
+      margin-top: 2rem;
+      position: relative;
+    }
+
+    .bundestag-wrap::before {
+      content: '🏛️ BUNDESTAG';
+      position: absolute;
+      top: -0.7rem;
+      left: 1.5rem;
+      background: var(--paper);
+      padding: 0 0.6rem;
+      font-family: 'DM Mono', monospace;
+      font-size: 0.65rem;
+      letter-spacing: 0.15em;
+      color: var(--muted);
+    }
+
+    .bundestag-session {
+      font-family: 'Playfair Display', serif;
+      font-style: italic;
+      font-size: 1.1rem;
+      color: var(--muted);
+      margin-bottom: 1rem;
+    }
+
+    .bundestag-summary {
+      font-size: 0.88rem;
+      line-height: 1.8;
+      margin-bottom: 1.2rem;
+    }
+
+    .bundestag-ukraine {
+      border-left: 3px solid var(--accent);
+      padding-left: 1rem;
+      margin-top: 1.2rem;
+    }
+
+    .bundestag-ukraine h4 {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.65rem;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 0.5rem;
+    }
+
+    .bundestag-ukraine p {
+      font-size: 0.85rem;
+      line-height: 1.7;
+    }
+
+    .pdf-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      margin-top: 1rem;
+      font-family: 'DM Mono', monospace;
+      font-size: 0.7rem;
+      color: var(--gold);
+      text-decoration: none;
+      letter-spacing: 0.05em;
+    }
+
+    .pdf-link:hover { color: var(--accent); }
+
+    /* ── Historical facts ── */
+    .facts-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 1.5rem;
+      margin-top: 1.5rem;
+    }
+
+    .fact-card {
+      border: 1px solid var(--rule);
+      padding: 1.5rem;
+      position: relative;
+      background: var(--cream);
+    }
+
+    .fact-number {
+      font-family: 'Playfair Display', serif;
+      font-size: 3rem;
+      font-weight: 700;
+      color: var(--rule);
+      position: absolute;
+      top: 0.5rem;
+      right: 1rem;
+      line-height: 1;
+      user-select: none;
+    }
+
+    .fact-category {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.6rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 0.6rem;
+    }
+
+    .fact-text {
+      font-size: 0.88rem;
+      line-height: 1.75;
+      margin-bottom: 0.8rem;
+    }
+
+    .fact-source {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.68rem;
+      color: var(--gold);
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+    }
+
+    .fact-source:hover { color: var(--accent); }
+
+    /* ── Archive section ── */
+    .archive-list {
+      margin-top: 1.5rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .archive-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0.8rem 1rem;
+      border: 1px solid var(--rule);
+      background: var(--cream);
+      cursor: pointer;
+      transition: background 0.15s;
+      font-family: 'DM Mono', monospace;
+      font-size: 0.78rem;
+    }
+
+    .archive-item:hover { background: var(--paper); border-color: var(--ink); }
+    .archive-item-date { color: var(--ink); font-weight: 500; }
+    .archive-item-arrow { color: var(--muted); }
+
+    /* ── Section title ── */
+    .section-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 2rem;
+      font-weight: 700;
+      border-bottom: 1px solid var(--rule);
+      padding-bottom: 0.8rem;
+      margin-bottom: 1.5rem;
+    }
+
+    /* ── Loading & error ── */
+    .loading {
+      text-align: center;
+      padding: 4rem;
+      font-family: 'DM Mono', monospace;
+      font-size: 0.75rem;
+      letter-spacing: 0.15em;
+      color: var(--muted);
+    }
+
+    .loading::after {
+      content: '';
+      display: block;
+      width: 24px;
+      height: 24px;
+      border: 2px solid var(--rule);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      margin: 1rem auto 0;
+      animation: spin 0.8s linear infinite;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── Footer ── */
+    .footer {
+      text-align: center;
+      padding: 2rem;
+      border-top: 1px solid var(--rule);
+      font-family: 'DM Mono', monospace;
+      font-size: 0.65rem;
+      letter-spacing: 0.1em;
+      color: var(--muted);
+      margin-top: 4rem;
+    }
+
+    /* ── Animations ── */
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(12px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .topic-card, .fact-card, .archive-item {
+      animation: fadeIn 0.4s ease both;
+    }
+
+    @media (max-width: 600px) {
+      .page { padding: 1rem; }
+      .topics-grid { grid-template-columns: 1fr; }
+      .facts-grid  { grid-template-columns: 1fr; }
+      .masthead h1 { font-size: 2.2rem; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- Masthead -->
+<header class="masthead">
+  <div class="masthead-rule"></div>
+  <h1>The Daily Briefing</h1>
+  <div class="masthead-sub">Powered by AI &nbsp;·&nbsp; Delivered every morning at 7:00</div>
+  <div class="masthead-date" id="masthead-date">Loading…</div>
+  <div class="masthead-rule" style="margin-top:0.8rem;"></div>
+</header>
+
+<!-- Navigation -->
+<nav class="nav-bar" id="nav-bar">
+  <button class="nav-tab active" data-panel="news">World News</button>
+  <button class="nav-tab" data-panel="bundestag">Bundestag</button>
+  <button class="nav-tab" data-panel="facts">Historical Facts</button>
+  <button class="nav-tab" data-panel="archive">Archive</button>
+</nav>
+
+<!-- Main content -->
+<main class="page">
+
+  <!-- News panel -->
+  <div class="section-panel active" id="panel-news">
+    <div class="loading" id="news-loading">LOADING TODAY'S BRIEFING</div>
+    <div id="news-content"></div>
+  </div>
+
+  <!-- Bundestag panel -->
+  <div class="section-panel" id="panel-bundestag">
+    <div class="loading" id="bundestag-loading">LOADING BUNDESTAG SESSION</div>
+    <div id="bundestag-content"></div>
+  </div>
+
+  <!-- Historical facts panel -->
+  <div class="section-panel" id="panel-facts">
+    <div class="loading" id="facts-loading">LOADING HISTORICAL FACTS</div>
+    <div id="facts-content"></div>
+  </div>
+
+  <!-- Archive panel -->
+  <div class="section-panel" id="panel-archive">
+    <h2 class="section-title">Archive</h2>
+    <div class="archive-list" id="archive-list">
+      <div class="loading" id="archive-loading">LOADING ARCHIVE</div>
+    </div>
+  </div>
+
+</main>
+
+<footer class="footer">
+  THE DAILY BRIEFING &nbsp;·&nbsp; GENERATED AUTOMATICALLY EVERY MORNING &nbsp;·&nbsp; ALL TIMES CET
+</footer>
+
+<script>
+  // ── Tab navigation ────────────────────────────────────────────────────────
+  document.querySelectorAll('.nav-tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+      document.querySelectorAll('.section-panel').forEach(p => p.classList.remove('active'));
+      tab.classList.add('active');
+      document.getElementById('panel-' + tab.dataset.panel).classList.add('active');
+    });
+  });
+
+  // ── Fetch today's data ────────────────────────────────────────────────────
+  async function loadToday() {
+    try {
+      const resp = await fetch('data.json?v=' + Date.now());
+      if (!resp.ok) throw new Error('Not found');
+      const data = await resp.json();
+      renderNews(data);
+      renderBundestag(data);
+      renderFacts(data);
+      document.getElementById('masthead-date').textContent = data.date || '';
+    } catch (e) {
+      document.getElementById('news-loading').textContent = 'No briefing available yet. Check back tomorrow!';
+    }
+  }
+
+  // ── Render news sections ──────────────────────────────────────────────────
+  function renderNews(data) {
+    document.getElementById('news-loading').style.display = 'none';
+    const container = document.getElementById('news-content');
+
+    (data.sections || []).forEach(section => {
+      if (!section.topics || section.topics.length === 0) return;
+
+      const catEl = document.createElement('div');
+      catEl.innerHTML = `
+        <div class="category-header">
+          <span class="category-flag">${section.emoji || ''}</span>
+          <span class="category-name">${section.category}</span>
+        </div>
+        <div class="topics-grid">
+          ${section.topics.filter(t => t.headline && t.summary).map((topic, i) => `
+            <div class="topic-card" style="animation-delay:${i * 0.05}s">
+              <div class="topic-type">${topic.emoji || '📰'} ${topic.type}</div>
+              <div class="topic-headline">${topic.headline}</div>
+              <div class="topic-summary">${topic.summary}</div>
+              <div class="topic-links">
+                ${(topic.links || []).filter(l => l.title && l.url).map(link => `
+                  <a class="topic-link" href="${link.url}" target="_blank" rel="noopener">${link.title}</a>
+                `).join('')}
+              </div>
+            </div>
+          `).join('')}
+        </div>
+      `;
+      container.appendChild(catEl);
+    });
+  }
+
+  // ── Render Bundestag ──────────────────────────────────────────────────────
+  function renderBundestag(data) {
+    document.getElementById('bundestag-loading').style.display = 'none';
+    const container = document.getElementById('bundestag-content');
+    const bt = data.bundestag;
+
+    if (!bt) {
+      container.innerHTML = '<p style="color:var(--muted);font-family:\'DM Mono\',monospace;font-size:0.8rem;">No Bundestag data available for today.</p>';
+      return;
+    }
+
+    container.innerHTML = `
+      <h2 class="section-title">Bundestag Session</h2>
+      <div class="bundestag-wrap">
+        <div class="bundestag-session">${bt.wahlperiode}. Wahlperiode &nbsp;·&nbsp; ${bt.sitzung}. Sitzung</div>
+        <div class="bundestag-summary">${bt.summary}</div>
+        ${bt.ukrainian_men ? `
+          <div class="bundestag-ukraine">
+            <h4>🇺🇦 Ukrainian Men — Search Result</h4>
+            <p>${bt.ukrainian_men}</p>
+          </div>
+        ` : ''}
+        <a class="pdf-link" href="${bt.url}" target="_blank" rel="noopener">
+          ↗ Full Protocol (PDF)
+        </a>
+      </div>
+    `;
+  }
+
+  // ── Render historical facts ───────────────────────────────────────────────
+  function renderFacts(data) {
+    document.getElementById('facts-loading').style.display = 'none';
+    const container = document.getElementById('facts-content');
+    const facts = data.facts || [];
+
+    if (facts.length === 0) {
+      container.innerHTML = '<p style="color:var(--muted);font-family:\'DM Mono\',monospace;font-size:0.8rem;">No historical facts available today.</p>';
+      return;
+    }
+
+    container.innerHTML = `
+      <h2 class="section-title">Historical Facts of the Day</h2>
+      <div class="facts-grid">
+        ${facts.map((fact, i) => `
+          <div class="fact-card" style="animation-delay:${i * 0.1}s">
+            <div class="fact-number">${i + 1}</div>
+            <div class="fact-category">${fact.category || ''}</div>
+            <div class="fact-text">${fact.fact}</div>
+            <a class="fact-source" href="${fact.source_url}" target="_blank" rel="noopener">
+              ↗ ${fact.source_title}
+            </a>
+          </div>
+        `).join('')}
+      </div>
+    `;
+  }
+
+  // ── Load archive list ─────────────────────────────────────────────────────
+  async function loadArchive() {
+    const list = document.getElementById('archive-list');
+    document.getElementById('archive-loading').style.display = 'none';
+
+    // Generate last 30 days as candidates
+    const dates = [];
+    for (let i = 1; i <= 30; i++) {
+      const d = new Date();
+      d.setDate(d.getDate() - i);
+      dates.push(d.toISOString().split('T')[0]);
+    }
+
+    // Check which archive files exist
+    const available = [];
+    await Promise.all(dates.map(async date => {
+      try {
+        const r = await fetch(`archive/${date}.json`, { method: 'HEAD' });
+        if (r.ok) available.push(date);
+      } catch {}
+    }));
+
+    available.sort((a, b) => b.localeCompare(a));
+
+    if (available.length === 0) {
+      list.innerHTML = '<p style="color:var(--muted);font-family:\'DM Mono\',monospace;font-size:0.8rem;padding:1rem;">No archive entries yet.</p>';
+      return;
+    }
+
+    list.innerHTML = available.map((date, i) => `
+      <div class="archive-item" style="animation-delay:${i * 0.03}s" onclick="loadArchiveDate('${date}')">
+        <span class="archive-item-date">${date}</span>
+        <span class="archive-item-arrow">→ View</span>
+      </div>
+    `).join('');
+  }
+
+  async function loadArchiveDate(date) {
+    try {
+      const resp = await fetch(`archive/${date}.json`);
+      const data = await resp.json();
+
+      // Switch to news panel and render
+      document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+      document.querySelectorAll('.section-panel').forEach(p => p.classList.remove('active'));
+      document.querySelector('[data-panel="news"]').classList.add('active');
+      document.getElementById('panel-news').classList.add('active');
+
+      document.getElementById('masthead-date').textContent = data.date + ' (archive)';
+      document.getElementById('news-content').innerHTML = '';
+      renderNews(data);
+      renderBundestag(data);
+      renderFacts(data);
+
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    } catch(e) {
+      alert('Could not load archive for ' + date);
+    }
+  }
+
+  // ── Init ──────────────────────────────────────────────────────────────────
+  loadToday();
+  loadArchive();
+</script>
+</body>
+</html>
