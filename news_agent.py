@@ -351,19 +351,24 @@ def format_telegram(data: dict) -> str:
     return "\n".join(lines)
 
 # ── Save output as JSON for website ──────────────────────────────────────────
-def save_json(data: dict):
+def save_json(data: dict, audio_bytes: bytes = None):
     os.makedirs("docs", exist_ok=True)
-    # Save today's briefing
     with open("docs/data.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     print("  -> Saved docs/data.json")
 
-    # Save to archive (one file per day)
     date_slug = datetime.now().strftime("%Y-%m-%d")
     os.makedirs("docs/archive", exist_ok=True)
     with open(f"docs/archive/{date_slug}.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     print(f"  -> Saved docs/archive/{date_slug}.json")
+
+    if audio_bytes:
+        with open("docs/bundestag.mp3", "wb") as f:
+            f.write(audio_bytes)
+        with open(f"docs/archive/{date_slug}.mp3", "wb") as f:
+            f.write(audio_bytes)
+        print("  -> Saved docs/bundestag.mp3")
 
 # ── Generate voice message from Bundestag summary ────────────────────────────
 def generate_voice(text: str) -> bytes:
@@ -430,19 +435,9 @@ if __name__ == "__main__":
     print(f"[{datetime.now().strftime('%H:%M:%S')}] Building news briefing...")
     data = build_briefing()
 
-    print(f"[{datetime.now().strftime('%H:%M:%S')}] Saving JSON output...")
-    save_json(data)                                               # ← ADD THIS
-
-    print(f"[{datetime.now().strftime('%H:%M:%S')}] Sending text briefing to Telegram...")
-    msg = format_telegram(data)
-    send_telegram(msg)
-
-    print(f"[{datetime.now().strftime('%H:%M:%S')}] Sending text briefing to Telegram...")
-    msg = format_telegram(data)
-    send_telegram(msg)
-
-    # Generate and send voice message for Bundestag summary
+    # Generate audio first so we can save and send it
     bt = data.get("bundestag")
+    audio = None
     if bt:
         print(f"[{datetime.now().strftime('%H:%M:%S')}] Generating Bundestag voice summary...")
         voice_text = (
@@ -451,6 +446,15 @@ if __name__ == "__main__":
             f"{bt['summary']}"
         )
         audio = generate_voice(voice_text)
+
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] Saving JSON output...")
+    save_json(data, audio_bytes=audio)
+
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] Sending text briefing to Telegram...")
+    msg = format_telegram(data)
+    send_telegram(msg)
+
+    if bt and audio:
         send_telegram_voice(
             audio,
             caption=f"🏛️ Bundestag {bt['wahlperiode']}. WP / {bt['sitzung']}. Sitzung — Audio Summary"
