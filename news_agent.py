@@ -358,10 +358,10 @@ def format_telegram(data: dict) -> str:
     if facts:
         lines.append("\n💡 HISTORICAL FACTS OF THE DAY")
         for i, fact in enumerate(facts, 1):
-            lines.append(f"\n  {i}. {fact['category'].upper()}")
-            lines.append(f"  {fact['fact']}")
-            lines.append(f"  🔗 {fact['source_title']}")
-            lines.append(f"     {fact['source_url']}")
+            lines.append(f"\n  {i}. {fact.get('category', '').upper()}")
+            lines.append(f"  {fact.get('fact_en', fact.get('fact', ''))}")
+            lines.append(f"  🔗 {fact.get('source_title', '')}")
+            lines.append(f"     {fact.get('source_url', '')}")
         lines.append("─────────────────────────")
 
     # Bundestag section
