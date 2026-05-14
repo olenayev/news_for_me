@@ -466,7 +466,7 @@ if __name__ == "__main__":
     if bt:
         print(f"[{datetime.now().strftime('%H:%M:%S')}] Generating Bundestag voice summary...")
         # Trim summary to stay within ElevenLabs free quota
-        short_summary = bt['summary'][:600]
+        short_summary = bt.get('summary_en', bt.get('summary', ''))[:600]
         voice_text = (
             f"Hello beauty, here is Bundestag Summary for you. "
             f"{short_summary}"
