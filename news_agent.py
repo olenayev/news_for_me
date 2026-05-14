@@ -342,11 +342,11 @@ def format_telegram(data: dict) -> str:
             continue
         lines.append(f"\n{section['emoji']} {section['category'].upper()}")
         for topic in section["topics"]:
-            if not topic.get("headline") or not topic.get("summary"):
+            if not topic.get("headline_en") or not topic.get("summary_en"):
                 continue
             lines.append(f"\n  {topic['emoji']} {topic['type'].upper()}")
-            lines.append(f"  {topic['headline']}")
-            lines.append(f"  {topic['summary']}")
+            lines.append(f"  {topic.get('headline_en', '')}")
+            lines.append(f"  {topic.get('summary_en', '')}")
             for link in topic.get("links", []):
                 if link.get("title") and link.get("url"):
                     lines.append(f"  🔗 {link['title']}")
@@ -368,8 +368,11 @@ def format_telegram(data: dict) -> str:
     bt = data.get("bundestag")
     if bt:
         lines.append(f"\n🏛️ BUNDESTAG — {bt['wahlperiode']}. WAHLPERIODE, {bt['sitzung']}. SITZUNG")
-        lines.append(bt["summary"])
-        lines.append(f"  🔗 Vollständiges Protokoll (PDF)")
+        lines.append(bt.get("summary_en", bt.get("summary", "")))
+        if bt.get("ukrainian_men"):
+            lines.append(f"\n🇺🇦 UKRAINIAN MEN — SEARCH RESULT")
+            lines.append(bt["ukrainian_men"])
+        lines.append(f"\n  🔗 Vollständiges Protokoll (PDF)")
         lines.append(f"     {bt['url']}")
         lines.append("─────────────────────────")
 
@@ -471,7 +474,7 @@ if __name__ == "__main__":
             f"Hello beauty, here is Bundestag Summary for you. "
             f"{short_summary}"
         )
-        audio = generate_voice(short_summary)
+        audio = generate_voice(voice_text)
 
     print(f"[{datetime.now().strftime('%H:%M:%S')}] Saving JSON output...")
     save_json(data, audio_bytes=audio)
