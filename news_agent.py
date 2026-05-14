@@ -89,7 +89,7 @@ def fetch_all_headlines() -> dict:
             except Exception as e:
                 print(f"     Warning: NewsAPI failed ({e})")
                 all_headlines[category][news_type] = []
-            time.sleep(1.5)  # avoid hitting NewsAPI rate limit
+            time.sleep(30)  # avoid hitting NewsAPI rate limit
     return all_headlines
 
 
