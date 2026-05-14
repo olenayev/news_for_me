@@ -440,12 +440,13 @@ if __name__ == "__main__":
     audio = None
     if bt:
         print(f"[{datetime.now().strftime('%H:%M:%S')}] Generating Bundestag voice summary...")
+        # Trim summary to stay within ElevenLabs free quota
+        short_summary = bt['summary'][:600]
         voice_text = (
             f"Hello beauty, here is Bundestag Summary for you. "
-            f"{bt['wahlperiode']}th Wahlperiode, {bt['sitzung']}th Sitzung. "
-            f"{bt['summary']}"
+            f"{short_summary}"
         )
-        audio = generate_voice(voice_text)
+        audio = generate_voice(short_summary)
 
     print(f"[{datetime.now().strftime('%H:%M:%S')}] Saving JSON output...")
     save_json(data, audio_bytes=audio)
