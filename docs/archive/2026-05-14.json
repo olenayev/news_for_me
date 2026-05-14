@@ -4,188 +4,54 @@
     {
       "category": "Germany",
       "emoji": "🇩🇪",
-      "topics": [
-        {
-          "type": "Culture",
-          "emoji": "🎭",
-          "headline": "Today in Germany: A roundup of the latest news on Wednesday",
-          "summary": "This is a daily roundup of news from Germany. The articles cover a variety of topics, including cultural events and business news. Samsung is also confirmed to be rolling out a second wave of its One UI 9 beta.",
-          "links": [
-            {
-              "title": "Today in Germany: A roundup of the latest news on Wednesday",
-              "url": "https://www.thelocal.de/20260513/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-120"
-            },
-            {
-              "title": "LA-Based AK Studios Launches South Asian Slate Headed By Vijay Jayapal’s ‘An Idiot’; Gothic Horror ‘The Undying’",
-              "url": "http://deadline.com/2026/05/india-us-ak-studios-vijay-jayapal-an-idiot-the-undying-1236900488/"
-            }
-          ]
-        },
-        {
-          "type": "Stocks & Markets",
-          "emoji": "📈",
-          "headline": "Alstom's Fiscal Year 2025/26 Results: Record commercial performance, Challenging execution.",
-          "summary": "Alstom has released its financial results for the 2025/26 fiscal year, noting record commercial performance but challenging execution. The company has outlined an action plan for 2026/27. Other news includes insights into power tool ownership and supply-chain stress.",
-          "links": [
-            {
-              "title": "Your Power Tools Got Worse On Purpose | Who Really Owns DeWalt, Craftsman, and Milwaukee?",
-              "url": "https://www.worseonpurpose.com/p/your-power-tools-got-worse-on-purpose"
-            },
-            {
-              "title": "Supply-Chain Stress That Peaked in COVID Heads Higher Again",
-              "url": "https://www.insurancejournal.com/news/international/2026/05/13/869618.htm"
-            }
-          ]
-        }
-      ]
+      "topics": []
     },
     {
       "category": "Europe",
       "emoji": "🇪🇺",
-      "topics": [
-        {
-          "type": "Culture",
-          "emoji": "🎭",
-          "headline": "War with Iran: The $29 billion “bill” pressures Trump and divides Congress",
-          "summary": "A significant bill related to a potential war with Iran is causing political pressure on Trump and division within Congress. Other news includes a vintage motorcycle and a North American conference for Blender.",
-          "links": [
-            {
-              "title": "War with Iran: The $29 billion “bill” pressures Trump and divides Congress",
-              "url": "https://en.protothema.gr/2026/05/13/war-with-iran-the-29-billion-bill-pressures-trump-and-divides-congress/"
-            },
-            {
-              "title": "Blender Conference North America 2026",
-              "url": "https://fontsinuse.com/uses/77116/blender-conference-north-america-2026"
-            }
-          ]
-        },
-        {
-          "type": "Stocks & Markets",
-          "emoji": "📈",
-          "headline": "Huhtamäki Oyj announces final results of voluntary tender offer for its notes maturing in 2027",
-          "summary": "Huhtamäki Oyj has announced the final results of its voluntary tender offer for notes maturing in 2027. This financial news is presented alongside an article discussing the spread of AI stock enthusiasm to Europe and a report on a rare vintage motorcycle.",
-          "links": [
-            {
-              "title": "1 Of 30 Ever Made: The Incredible “GG Duetto” From 1999",
-              "url": "https://silodrome.com/gg-duetto-motorcycle/"
-            },
-            {
-              "title": "How did AI-stock enthusiasm spread to Europe? #tech",
-              "url": "https://alltoc.com/tech/how-did-ai-stock-enthusiasm-spread-to-europe"
-            }
-          ]
-        }
-      ]
+      "topics": []
     },
     {
       "category": "US",
       "emoji": "🇺🇸",
-      "topics": [
-        {
-          "type": "Culture",
-          "emoji": "🎭",
-          "headline": "Trump vows to push Xi to 'open up' China at superpower summit",
-          "summary": "President Trump is set to pressure Chinese President Xi Jinping to open up China's economy during an upcoming superpower summit. This political development is highlighted alongside business news concerning brokers in New York.",
-          "links": [
-            {
-              "title": "Trump vows to push Xi to 'open up' China at superpower summit",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-vows-to-push-xi-to-open-up-china-at-superpower-summit/articleshow/131056132.cms"
-            },
-            {
-              "title": "Top Business Brokers in New York (2026 Update)",
-              "url": "https://themattwalshblog.com/new-york-business-brokers/"
-            }
-          ]
-        },
-        {
-          "type": "Stocks & Markets",
-          "emoji": "📈",
-          "headline": "ArcelorMittal Announces Pricing of Bond Issue",
-          "summary": "ArcelorMittal has announced the pricing of its latest bond issue, a significant event for the company's financial operations. Other financial news includes Huhtamäki Oyj's tender offer results and Alstom's fiscal performance.",
-          "links": [
-            {
-              "title": "ArcelorMittal Announces Pricing of Bond Issue",
-              "url": "https://www.globenewswire.com/news-release/2026/05/13/3293659/0/en/ArcelorMittal-Announces-Pricing-of-Bond-Issue.html"
-            },
-            {
-              "title": "Huhtamäki Oyj announces final results of voluntary tender offer for its notes maturing in 2027",
-              "url": "https://www.globenewswire.com/news-release/2026/05/13/3293666/0/en/Huhtam%C3%A4ki-Oyj-announces-final-results-of-voluntary-tender-offer-for-its-notes-maturing-in-2027.html"
-            }
-          ]
-        }
-      ]
+      "topics": []
     },
     {
       "category": "Asia",
       "emoji": "🌏",
-      "topics": [
-        {
-          "type": "Culture",
-          "emoji": "🎭",
-          "headline": "War with Iran: The $29 billion “bill” pressures Trump and divides Congress",
-          "summary": "A significant bill related to a potential conflict with Iran is causing political friction in the US, impacting both Trump and Congress. This section also includes a piece reflecting on historical alliances during the India-Pakistan war and an analysis of website fraud.",
-          "links": [
-            {
-              "title": "Payback for help during India-Pakistan war? Iran's jets at Nur Khan airbase trigger memories of 1971",
-              "url": "https://economictimes.indiatimes.com/news/defence/payback-for-help-during-india-pakistan-war-irans-jets-at-nur-khan-airbase-trigger-memories-of-1971/articleshow/131057299.cms"
-            }
-          ]
-        },
-        {
-          "type": "Stocks & Markets",
-          "emoji": "📈",
-          "headline": "CNBC Daily Open: Huang on, Nvidia is on the China trip",
-          "summary": "The daily market open report from CNBC highlights Jensen Huang's presence on a trip to China, likely related to Nvidia's business. This is alongside news on AI stock enthusiasm spreading to Europe and European market openings with Siemens' buyback announcement.",
-          "links": [
-            {
-              "title": "CNBC Daily Open: Huang on, Nvidia is on the China trip",
-              "url": "https://www.cnbc.com/2026/05/13/cnbc-daily-open-huang-on-nvidia-is-on-the-china-trip.html"
-            }
-          ]
-        }
-      ]
+      "topics": []
     },
     {
       "category": "World",
       "emoji": "🌍",
-      "topics": [
-        {
-          "type": "Culture",
-          "emoji": "🎭",
-          "headline": "Beyond the Hollywood story - what are Wrexham really building?",
-          "summary": "This article delves into the deeper ambitions and development plans of the Wrexham football club, moving beyond the popular 'Hollywood' narrative. Other cultural and technology-related news includes marketing metrics and a new graphics driver.",
-          "links": [
-            {
-              "title": "Beyond the Hollywood story - what are Wrexham really building?",
-              "url": "https://www.bbc.com/sport/football/articles/cn7pdmex35zo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"
-            },
-            {
-              "title": "Marketing Metrics: Beyond the Data What Actually Drives Success?",
-              "url": "https://www.successful-blog.com/1/marketing-metrics-drive-success/"
-            }
-          ]
-        }
-      ]
+      "topics": []
     }
   ],
   "bundestag": {
     "wahlperiode": 21,
     "sitzung": 78,
     "url": "https://dserver.bundestag.de/btp/21/21078.pdf",
-    "summary": "SUMMARY:\nThis document is the stenographic report of the 78th session of the 21st legislative period of the German Bundestag, held on Friday, May 8, 2026. The agenda covered several key topics. A significant portion of the session was dedicated to the second and third readings of a government bill to introduce electronic monitoring of offenders and perpetrator work within the Protection against Violence Act. This bill was debated alongside a recommendation from the Committee on Legal Affairs and Consumer Protection regarding a motion by Die Linke for a comprehensive strategy against domestic and gender-based violence. Debates involved representatives from SPD, AfD, CDU/CSU, and BÜNDNIS 90/DIE GRÜNEN, with specific concerns raised by Aaron Valent (Die Linke) and contributions from Carmen Wegge (SPD), Rainer Galla (AfD), Dr. Günter Krings (CDU/CSU), and Dr. Lena Gumnior (BÜNDNIS 90/DIE GRÜNEN). Federal Minister Dr. Stefanie Hubig (BMJV) also addressed the assembly.\n\nFurther agenda items included a first reading of an AfD bill to abolish the Wind Energy Area Requirement Act (WindBAG) and an AfD motion for a nationwide moratorium on wind energy expansion, leading to discussions involving Christian Reck (AfD), Dr. Maria-Lena Weiss (CDU/CSU), Katrin Uhlig (BÜNDNIS 90/DIE GRÜNEN), Dr. Paul Schmidt (AfD), and Dunja Kreiser (SPD). The Bundestag also considered a joint motion by CDU/CSU and SPD on the \"Tag der Städtebauförderung 2026\" (Urban Development Funding Day). Additionally, Die Linke introduced several motions aimed at strengthening works council rights, improving their working conditions, promoting works council formations, and expanding employee participation, with speakers like Cem Ince (Die Linke) and Peter Aumer (CDU/CSU) participating. The session also touched upon strengthening co-determination at the multinational level through reforms of European Works Councils.\n\nUKRAINIAN MEN:\nNo discussion about Ukrainian men found in this session."
+    "summary_en": "On Friday, May 8, 2026, the German Bundestag convened for its 78th session of the 21st legislative period. The agenda included several key legislative proposals and debates. A significant portion of the session was dedicated to the second and third readings of a government bill on electronic monitoring of offenders and perpetrator work within the Domestic Violence Protection Act. Speakers on this item included Carmen Wegge (SPD), Rainer Galla (AfD), Dr. Günter Krings (CDU/CSU), Dr. Lena Gumnior (BÜNDNIS 90/DIE GRÜNEN), Aaron Valent (Die Linke), Tobias Matthias Peterka (AfD), Stephan Brandner (AfD), Susanne Hierl (CDU/CSU), Marcel Emmerich (BÜNDNIS 90/DIE GRÜNEN), Ulle Schauws (BÜNDNIS 90/DIE GRÜNEN), Kathrin Gebel (Die Linke), Carsten Müller (Braunschweig) (CDU/CSU), Lisa Paus (BÜNDNIS 90/DIE GRÜNEN), Helge Limburg (BÜNDNIS 90/DIE GRÜNEN), Knuth Meyer-Soltau (AfD), Josephine Ortleb (SPD), Tijen Ataoğlu (CDU/CSU), and Axel Müller (CDU/CSU). The session also addressed a motion by Die Linke for a comprehensive strategy against domestic and gender-based violence, presented by Kathrin Gebel and supported by Aaron Valent. The AfD introduced a bill to abolish the Wind Energy Area Requirements Act (WindBAG), with Christian Reck and Leif-Erik Holm speaking against renewable energy expansion. This was countered by Dr. Maria-Lena Weiss (CDU/CSU) and Katrin Uhlig (BÜNDNIS 90/DIE GRÜNEN). Debates on renewable energy continued with an AfD motion for a nationwide moratorium on wind energy expansion, addressed by Dr. Paul Schmidt (AfD) and others. Finally, the Bundestag discussed several motions from Die Linke concerning the expansion of works council co-determination rights and the improvement of working conditions for works councils, with contributions from Cem Ince, Pascal Meiser, and Katalin Gennburg. SPD and CDU/CSU jointly proposed a 'Day of Urban Development Promotion 2026'.",
+    "summary_de": "Am Freitag, den 8. Mai 2026, trat der Deutsche Bundestag zu seiner 78. Sitzung der 21. Wahlperiode zusammen. Die Tagesordnung umfasste mehrere wichtige Gesetzesvorhaben und Debatten. Ein wesentlicher Teil der Sitzung widmete sich der zweiten und dritten Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Einführung der elektronischen Aufenthaltsüberwachung und der Täterarbeit im Gewaltschutzgesetz. Redner zu diesem Punkt waren Carmen Wegge (SPD), Rainer Galla (AfD), Dr. Günter Krings (CDU/CSU), Dr. Lena Gumnior (BÜNDNIS 90/DIE GRÜNEN), Aaron Valent (Die Linke), Tobias Matthias Peterka (AfD), Stephan Brandner (AfD), Susanne Hierl (CDU/CSU), Marcel Emmerich (BÜNDNIS 90/DIE GRÜNEN), Ulle Schauws (BÜNDNIS 90/DIE GRÜNEN), Kathrin Gebel (Die Linke), Carsten Müller (Braunschweig) (CDU/CSU), Lisa Paus (BÜNDNIS 90/DIE GRÜNEN), Helge Limburg (BÜNDNIS 90/DIE GRÜNEN), Knuth Meyer-Soltau (AfD), Josephine Ortleb (SPD), Tijen Ataoğlu (CDU/CSU) und Axel Müller (CDU/CSU). Ferner wurde ein Antrag der Linken für eine Gesamtstrategie gegen häusliche und geschlechtsspezifische Gewalt erörtert, eingebracht von Kathrin Gebel und unterstützt von Aaron Valent. Die AfD legte einen Gesetzentwurf zur Abschaffung des Windenergieflächenbedarfsgesetzes (WindBAG) vor, wobei Christian Reck und Leif-Erik Holm gegen den Ausbau erneuerbarer Energien sprachen. Diesen Ărten traten Dr. Maria-Lena Weiss (CDU/CSU) und Katrin Uhlig (BÜNDNIS 90/DIE GRÜNEN) entgegen. Die Debatten zur Energiewende setzten sich mit einem AfD-Antrag für ein bundesweites Moratorium des Windenergieausbaus fort, zu dem Dr. Paul Schmidt (AfD) und andere sprachen. Abschließend befasste sich der Bundestag mit mehreren Anträgen der Linken zur Ausweitung von Betriebsrat mitbestimmungsrechten und zur Verbesserung der Arbeitsgrundlagen von Betriebsräten, mit Beiträgen von Cem Ince, Pascal Meiser und Katalin Gennburg. CDU/CSU und SPD beantragten gemeinsam den „Tag der Städtebauförderung 2026“.",
+    "summary_easy": "Am 8. Mai 2026 fand eine Sitzung des deutschen Bundestages statt. Die Abgeordneten sprachen über wichtige Gesetze. Sie diskutierten über eine Überwachung von Tätern im häuslichen Gewaltgesetz. Viele Politiker aus verschiedenen Parteien äußerten sich dazu. Es gab auch einen Antrag für mehr Schutz bei häuslicher Gewalt. Die Partei AfD wollte ein Gesetz abschaffen, das Flächen für Windräder festlegt. Andere Parteien sprachen sich für Windkraft aus. Die AfD forderte auch, den Bau von Windrädern zu stoppen. Die Partei Die Linke wollte die Rechte von Betriebsräten stärken. Betriebsräte helfen Arbeitnehmern in Firmen. CDU und SPD wollten einen gemeinsamen Tag für Städte fördern.",
+    "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact": "During the reign of King Louis XIV of France, perfume became so essential to the court that the palace of Versailles had a dedicated 'Perfume Department.' The king bathed only once in his life, leading courtiers to douse themselves in potent scents to mask body odor, a practice that defined aristocratic fashion.",
+      "fact_en": "During the Victorian era, mourning jewelry was a popular way to remember deceased loved ones. These intricate pieces often incorporated locks of hair from the departed, woven into elaborate designs or encased in glass, serving as a tangible and deeply personal memento.",
+      "fact_de": "Während der viktorianischen Ära war Trauerschmuck eine beliebte Art, verstorbene Angehörige zu gedenken. Diese kunstvollen Stücke enthielten oft Haarsträhnen der Verstorbenen, die zu aufwendigen Designs verwoben oder in Glas eingeschlossen wurden und als greifbare und zutiefst persönliche Erinnerungsstücke dienten.",
+      "fact_easy": "Im Viktorianischen Zeitalter machten Menschen Trauerschmuck. Dieser Schmuck hatte oft Haare von toten Personen. Es war ein sehr persönliches Andenken.",
       "category": "Fashion",
-      "source_title": "History of Perfume",
-      "source_url": "https://www.history.com/news/history-of-perfume"
+      "source_title": "Mourning Jewellery",
+      "source_url": "https://www.vam.ac.uk/articles/mourning-jewellery"
     },
     {
-      "fact": "The tradition of wearing white at weddings, now a global custom, largely stems from Queen Victoria's choice of a white satin gown for her marriage to Prince Albert in 1840. Before this, brides often wore their best dress, regardless of color, as white was difficult to clean and symbolized wealth more than purity.",
+      "fact_en": "The original purpose of the Thanksgiving holiday in the United States was not solely about gratitude. Early proclamations and traditions often included elements of prayer, reflection on divine providence, and sometimes even military victories or public fasts, reflecting a broader religious and civic observance.",
+      "fact_de": "Der ursprüngliche Zweck des Thanksgiving-Feiertags in den Vereinigten Staaten war nicht nur Dankbarkeit. Frühe Proklamationen und Traditionen beinhalteten oft Elemente des Gebets, der Reflexion über göttliche Vorsehung und manchmal sogar militärische Siege oder öffentliche Fasten, was eine breitere religiöse und bürgerliche Beobachtung widerspiegelte.",
+      "fact_easy": "Thanksgiving war früher mehr als nur Dankbarkeit. Es gab auch Gebete und Reflexionen. Manchmal feierte man militärische Siege.",
       "category": "Traditions",
-      "source_title": "The Royal Wedding",
-      "source_url": "https://www.royal.uk/royal-wedding-1840"
+      "source_title": "Thanksgiving Proclamations",
+      "source_url": "https://www.pilgrimhall.org/ThanksgivingProclamations.htm"
     }
   ]
 }
