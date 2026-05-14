@@ -419,6 +419,34 @@
       .facts-grid  { grid-template-columns: 1fr; }
       .masthead h1 { font-size: 2.2rem; }
     }
+    /* ── Language switcher ── */
+    .lang-switcher {
+      display: flex;
+      justify-content: center;
+      gap: 0.5rem;
+      margin-top: 0.8rem;
+      flex-wrap: wrap;
+    }
+
+    .lang-btn {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.65rem;
+      letter-spacing: 0.1em;
+      padding: 0.4rem 1rem;
+      border: 1px solid var(--rule);
+      background: none;
+      cursor: pointer;
+      color: var(--muted);
+      border-radius: 2rem;
+      transition: all 0.2s;
+    }
+
+    .lang-btn:hover { border-color: var(--accent); color: var(--accent); }
+    .lang-btn.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: white;
+    }
 </style>
 </head>
 <body>
@@ -429,6 +457,11 @@
   <h1>The Daily Briefing</h1>
   <div class="masthead-sub">Powered by AI &nbsp;·&nbsp; Delivered every morning at 7:00</div>
   <div class="masthead-date" id="masthead-date">Loading…</div>
+  <div class="lang-switcher">
+    <button class="lang-btn active" data-lang="en">🇬🇧 English</button>
+    <button class="lang-btn" data-lang="de">🇩🇪 Deutsch</button>
+    <button class="lang-btn" data-lang="easy">🟢 Einfaches Deutsch</button>
+  </div>
   <div class="masthead-rule" style="margin-top:0.8rem;"></div>
 </header>
 
@@ -476,6 +509,25 @@
 </footer>
 
 <script>
+  // ── Language state ────────────────────────────────────────────────────────
+  let currentLang = 'en';
+  let currentData = null;
+
+  document.querySelectorAll('.lang-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.lang-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      currentLang = btn.dataset.lang;
+      if (currentData) {
+        document.getElementById('news-content').innerHTML = '';
+        document.getElementById('bundestag-content').innerHTML = '';
+        document.getElementById('facts-content').innerHTML = '';
+        renderNews(currentData);
+        renderBundestag(currentData);
+        renderFacts(currentData);
+      }
+    });
+  });
   // ── Tab navigation ────────────────────────────────────────────────────────
   document.querySelectorAll('.nav-tab').forEach(tab => {
     tab.addEventListener('click', () => {
@@ -491,11 +543,11 @@
     try {
       const resp = await fetch('data.json?v=' + Date.now());
       if (!resp.ok) throw new Error('Not found');
-      const data = await resp.json();
-      renderNews(data);
-      renderBundestag(data);
-      renderFacts(data);
-      document.getElementById('masthead-date').textContent = data.date || '';
+      currentData = await resp.json();
+      renderNews(currentData);
+      renderBundestag(currentData);
+      renderFacts(currentData);
+      document.getElementById('masthead-date').textContent = currentData.date || '';
     } catch (e) {
       document.getElementById('news-loading').textContent = 'No briefing available yet. Check back tomorrow!';
     }
@@ -519,8 +571,8 @@
           ${section.topics.filter(t => t.headline && t.summary).map((topic, i) => `
             <div class="topic-card" style="animation-delay:${i * 0.05}s">
               <div class="topic-type">${topic.emoji || '📰'} ${topic.type}</div>
-              <div class="topic-headline">${topic.headline}</div>
-              <div class="topic-summary">${topic.summary}</div>
+              <div class="topic-headline">${topic['headline_' + currentLang] || topic.headline_en || ''}</div>
+              <div class="topic-summary">${topic['summary_' + currentLang] || topic.summary_en || ''}</div>
               <div class="topic-links">
                 ${(topic.links || []).filter(l => l.title && l.url).map(link => `
                   <a class="topic-link" href="${link.url}" target="_blank" rel="noopener">${link.title}</a>
@@ -549,7 +601,7 @@
       <h2 class="section-title">Bundestag Session</h2>
       <div class="bundestag-wrap">
         <div class="bundestag-session">${bt.wahlperiode}. Wahlperiode &nbsp;·&nbsp; ${bt.sitzung}. Sitzung</div>
-        <div class="bundestag-summary">${bt.summary}</div>
+        <div class="bundestag-summary">${bt['summary_' + currentLang] || bt.summary_en || ''}</div>
         ${bt.ukrainian_men ? `
           <div class="bundestag-ukraine">
             <h4>🇺🇦 Ukrainian Men — Search Result</h4>
@@ -587,7 +639,7 @@
           <div class="fact-card" style="animation-delay:${i * 0.1}s">
             <div class="fact-number">${i + 1}</div>
             <div class="fact-category">${fact.category || ''}</div>
-            <div class="fact-text">${fact.fact}</div>
+            <div class="fact-text">${fact['fact_' + currentLang] || fact.fact_en || ''}</div>
             <a class="fact-source" href="${fact.source_url}" target="_blank" rel="noopener">
               ↗ ${fact.source_title}
             </a>
