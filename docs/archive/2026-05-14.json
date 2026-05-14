@@ -9,24 +9,7 @@
     {
       "category": "Europe",
       "emoji": "🇪🇺",
-      "topics": [
-        {
-          "type": "Economy",
-          "emoji": "📰",
-          "headline_en": "Eurozone Inflation Slows More Than Expected to 2.9% in October",
-          "headline_de": "Inflation in der Eurozone sinkt im Oktober stärker als erwartet auf 2,9 %",
-          "headline_easy": "Die Preise in der Eurozone steigen langsamer. Im Oktober war die Preissteigerung nur 2,9 Prozent.",
-          "summary_en": "Inflation in the Eurozone has decreased significantly, falling to 2.9% in October, a level lower than anticipated by economists. This slowdown is attributed to a sharp drop in energy prices, offering some relief amidst ongoing economic concerns.",
-          "summary_de": "Die Inflation in der Eurozone ist deutlich gesunken und lag im Oktober bei 2,9 %. Das ist niedriger als erwartet. Der Rückgang bei den Energiepreisen hat dazu beigetragen.",
-          "summary_easy": "Die Inflation in Europa ist gesunken. Die Preise steigen jetzt nicht mehr so schnell. Das ist gut für die Menschen und die Wirtschaft.",
-          "links": [
-            {
-              "title": "Eurozone inflation slows more than expected to 2.9% in October",
-              "url": "https://www.reuters.com/markets/europe/euro-zone-inflation-falls-faster-than-expected-october-2023-11-01/"
-            }
-          ]
-        }
-      ]
+      "topics": []
     },
     {
       "category": "US",
@@ -36,73 +19,39 @@
     {
       "category": "Asia",
       "emoji": "🌏",
-      "topics": [
-        {
-          "type": "Politics",
-          "emoji": "📰",
-          "headline_en": "China's Leader Xi Jinping Vows to Unite Taiwan with Mainland, Warns Against Independence",
-          "headline_de": "Chinas Staatschef Xi Jinping schwört, Taiwan mit dem Festland zu vereinen, und warnt vor Unabhängigkeit",
-          "headline_easy": "Chinas Chef Xi sagt: Taiwan soll zu China kommen. Er sagt auch: Taiwan soll nicht unabhängig sein.",
-          "summary_en": "Chinese President Xi Jinping has reiterated China's commitment to unifying Taiwan with the mainland, stating the issue must not be passed down through generations. He issued a stern warning against any moves towards Taiwanese independence, signaling Beijing's continued resolve on the matter.",
-          "summary_de": "Chinas Präsident Xi Jinping hat Chinas Entschlossenheit zur Wiedervereinigung Taiwans mit dem Festland bekräftigt. Er warnte eindringlich vor jeglichen Schritten zur Unabhängigkeit Taiwans und signalisierte damit Pekings anhaltende Haltung.",
-          "summary_easy": "Chinas Präsident Xi Jinping sagt: Taiwan soll zu China gehören. Er sagt auch, dass Taiwan nicht unabhängig werden darf. China will Taiwan auf jeden Fall wieder haben.",
-          "links": [
-            {
-              "title": "Xi Jinping vows to unite Taiwan with mainland, warns against independence",
-              "url": "https://www.reuters.com/world/china/xi-vows-unite-taiwan-mainland-warns-against-independence-2023-10-27/"
-            }
-          ]
-        }
-      ]
+      "topics": []
     },
     {
       "category": "World",
       "emoji": "🌍",
-      "topics": [
-        {
-          "type": "Technology",
-          "emoji": "💻",
-          "headline_en": "OpenAI Releases Latest AI Model, Promising More Advanced Capabilities",
-          "headline_de": "OpenAI veröffentlicht neuestes KI-Modell und verspricht fortschrittlichere Fähigkeiten",
-          "headline_easy": "Firma OpenAI hat ein neues Computerprogramm (KI) gemacht. Es kann mehr und ist besser.",
-          "summary_en": "Artificial intelligence company OpenAI has unveiled its newest AI model, GPT-4 Turbo, which boasts enhanced performance and a wider range of capabilities. The release marks another step forward in the development of sophisticated AI technologies.",
-          "summary_de": "Das KI-Unternehmen OpenAI hat sein neuestes KI-Modell, GPT-4 Turbo, vorgestellt. Es bietet verbesserte Leistung und erweiterte Fähigkeiten. Dies ist ein weiterer Schritt in der Entwicklung fortschrittlicher KI-Technologien.",
-          "summary_easy": "Die Firma OpenAI hat ein neues Computer-Programm. Es heißt GPT-4 Turbo. Dieses Programm kann viele neue Dinge tun und ist sehr gut. KI wird immer besser.",
-          "links": [
-            {
-              "title": "OpenAI releases latest AI model, promising more advanced capabilities",
-              "url": "https://www.theverge.com/2023/11/6/23948717/openai-dev-day-2023-gpt-4-turbo-announcement-features"
-            }
-          ]
-        }
-      ]
+      "topics": []
     }
   ],
   "bundestag": {
     "wahlperiode": 21,
     "sitzung": 78,
     "url": "https://dserver.bundestag.de/btp/21/21078.pdf",
-    "summary_en": "On Friday, May 8, 2026, the German Bundestag convened for its 78th session of the 21st legislative period. The session began with an extension of the agenda. A significant portion of the session was dedicated to the second and third reading of the \"Act on the Introduction of Electronic Residence Monitoring and Perpetrator Work in the Domestic Violence Protection Act.\" This bill, introduced by the Federal Government, was debated with contributions from various parties. Aaron Valent (Die Linke) spoke multiple times on this topic and a related motion. Carmen Wegge (SPD), Rainer Galla (AfD), Dr. Günter Krings (CDU/CSU), Dr. Lena Gumnior (BÜNDNIS 90/DIE GRÜNEN), Tobias Matthias Peterka (AfD), Stephan Brandner (AfD), Susanne Hierl (CDU/CSU), Marcel Emmerich (BÜNDNIS 90/DIE GRÜNEN), Ulle Schauws (BÜNDNIS 90/DIE GRÜNEN), Kathrin Gebel (Die Linke), Carsten Müller (Braunschweig) (CDU/CSU), Lisa Paus (BÜNDNIS 90/DIE GRÜNEN), Helge Limburg (BÜNDNIS 90/DIE GRÜNEN), Knuth Meyer-Soltau (AfD), Josephine Ortleb (SPD), Tijen Ataoğlu (CDU/CSU), and Axel Müller (CDU/CSU) also participated in the discussions. The session also addressed the AfD's draft law to abolish the Wind Energy Area Requirements Act and their motion for a nationwide moratorium on wind energy expansion. Christian Reck (AfD), Dr. Maria-Lena Weiss (CDU/CSU), Katrin Uhlig (BÜNDNIS 90/DIE GRÜNEN), Dr. Paul Schmidt (AfD), Dunja Kreiser (SPD), Lorenz Gösta Beutin (Die Linke), Michael Kießling (CDU/CSU), Leif-Erik Holm (AfD), Helmut Kleebank (SPD), Dr. Alaa Alhamwi (BÜNDNIS 90/DIE GRÜNEN), Dr. Ingo Hahn (AfD), Jörg Cezanne (Die Linke), Lars Rohwer (CDU/CSU), Carolin Bachmann (AfD), Dr. Paula Piechotta (BÜNDNIS 90/DIE GRÜNEN), Angelika Glöckner (SPD), Elisabeth Winkelmeier-Becker (CDU/CSU), and Karsten Hilse (AfD) contributed to this debate. Furthermore, the Bundestag considered a joint CDU/CSU and SPD motion on the \"Day of Urban Development Promotion 2026.\" Finally, Die Linke introduced five motions aimed at expanding employee co-determination rights, improving the working conditions of works councils, and promoting works council foundations. Cem Ince (Die Linke), Peter Aumer (CDU/CSU), Pascal Meiser (Die Linke), Hans-Jürgen Goßner (AfD), Angelika Glöckner (SPD), Ruppert Stüwe (SPD), Volker Scheurell (AfD), Jan Dieren (SPD), Dr. Katja Strauss-Köster (CDU/CSU), Sylvia Rietenberg (BÜNDNIS 90/DIE GRÜNEN), Katalin Gennburg (Die Linke), Hendrik Bollmann (SPD), and Bastian Treuheit (AfD) spoke on these matters.",
-    "summary_de": "Am Freitag, den 8. Mai 2026, trat der Deutsche Bundestag zu seiner 78. Sitzung der 21. Wahlperiode zusammen. Die Sitzung begann mit einer Erweiterung der Tagesordnung. Ein wesentlicher Teil der Sitzung war der zweiten und dritten Beratung des „Entwurfs eines Gesetzes zur Einführung der elektronischen Aufenthaltsüberwachung und der Täterarbeit im Gewaltschutzgesetz“ gewidmet. Dieser von der Bundesregierung eingebrachte Gesetzesentwurf wurde mit Beiträgen verschiedener Fraktionen erörtert. Aaron Valent (Die Linke) sprach mehrfach zu diesem Thema und einem damit verbundenen Antrag. Carmen Wegge (SPD), Rainer Galla (AfD), Dr. Günter Krings (CDU/CSU), Dr. Lena Gumnior (BÜNDNIS 90/DIE GRÜNEN), Tobias Matthias Peterka (AfD), Stephan Brandner (AfD), Susanne Hierl (CDU/CSU), Marcel Emmerich (BÜNDNIS 90/DIE GRÜNEN), Ulle Schauws (BÜNDNIS 90/DIE GRÜNEN), Kathrin Gebel (Die Linke), Carsten Müller (Braunschweig) (CDU/CSU), Lisa Paus (BÜNDNIS 90/DIE GRÜNEN), Helge Limburg (BÜNDNIS 90/DIE GRÜNEN), Knuth Meyer-Soltau (AfD), Josephine Ortleb (SPD), Tijen Ataoğlu (CDU/CSU) und Axel Müller (CDU/CSU) nahmen ebenfalls an den Beratungen teil. Des Weiteren befasste sich die Sitzung mit dem Gesetzesentwurf der AfD zur Abschaffung des Windenergieflächenbedarfsgesetzes sowie ihrem Antrag auf ein bundesweites Moratorium des Windindustrieausbaus. Christian Reck (AfD), Dr. Maria-Lena Weiss (CDU/CSU), Katrin Uhlig (BÜNDNIS 90/DIE GRÜNEN), Dr. Paul Schmidt (AfD), Dunja Kreiser (SPD), Lorenz Gösta Beutin (Die Linke), Michael Kießling (CDU/CSU), Leif-Erik Holm (AfD), Helmut Kleebank (SPD), Dr. Alaa Alhamwi (BÜNDNIS 90/DIE GRÜNEN), Dr. Ingo Hahn (AfD), Jörg Cezanne (Die Linke), Lars Rohwer (CDU/CSU), Carolin Bachmann (AfD), Dr. Paula Piechotta (BÜNDNIS 90/DIE GRÜNEN), Angelika Glöckner (SPD), Elisabeth Winkelmeier-Becker (CDU/CSU) und Karsten Hilse (AfD) trugen zu dieser Debatte bei. Darüber hinaus behandelte der Bundestag einen gemeinsamen Antrag von CDU/CSU und SPD zum „Tag der Städtebauförderung 2026“. Abschließend reichte Die Linke fünf Anträge zur Stärkung der Mitbestimmungsrechte von Arbeitnehmern, zur Verbesserung der Arbeitsgrundlagen von Betriebsräten und zur Förderung von Betriebsrat-Gründungen ein. Cem Ince (Die Linke), Peter Aumer (CDU/CSU), Pascal Meiser (Die Linke), Hans-Jürgen Goßner (AfD), Angelika Glöckner (SPD), Ruppert Stüwe (SPD), Volker Scheurell (AfD), Jan Dieren (SPD), Dr. Katja Strauss-Köster (CDU/CSU), Sylvia Rietenberg (BÜNDNIS 90/DIE GRÜNEN), Katalin Gennburg (Die Linke), Hendrik Bollmann (SPD) und Bastian Treuheit (AfD) sprachen zu diesen Themen.",
-    "summary_easy": "Am Freitag, 8. Mai 2026, gab es eine Sitzung im deutschen Bundestag. Die Abgeordneten sprachen über viele wichtige Themen. Sie berieten ein neues Gesetz zur elektronischen Überwachung von Tätern. Es geht um häusliche Gewalt. Viele Abgeordnete sprachen dazu. Die AfD wollte das Gesetz über Windkraft abschaffen. Sie forderten auch, den Ausbau von Windkraft zu stoppen. Die Linke reichte neue Anträge ein. Sie wollen mehr Rechte für Betriebsräte. Betriebsräte sind Vertreter der Arbeitnehmer. Auch die Regierungsparteien CDU/CSU und SPD hatten einen Antrag. Es ging um die Förderung von Städten und Gemeinden.",
+    "summary_en": "The 78th session of the 21st legislative period of the German Bundestag took place on Friday, May 8, 2026. The session began with an expansion of the agenda. Agenda Item 22 focused on the second and third readings of the government's draft law for electronic monitoring of residence and perpetrator work in the Protection against Violence Act. Speakers included Carmen Wegge (SPD), Rainer Galla (AfD), Dr. Günter Krings (CDU/CSU), Dr. Lena Gumnior (Greens), Aaron Valent (Die Linke), Tobias Matthias Peterka (AfD), Stephan Brandner (AfD), Susanne Hierl (CDU/CSU), Marcel Emmerich (Greens), Ulle Schauws (Greens), Kathrin Gebel (Die Linke), Carsten Müller (CDU/CSU), Lisa Paus (Greens), Helge Limburg (Greens), Knuth Meyer-Soltau (AfD), Josephine Ortleb (SPD), Tijen Ataoğlu (CDU/CSU), and Axel Müller (CDU/CSU). The debate also incorporated a recommendation from the Committee for Legal and Consumer Protection regarding an application by Die Linke for a comprehensive strategy against domestic and gender-based violence, with speakers like Kathrin Gebel (Die Linke) and Axel Müller (CDU/CSU) participating. Agenda Item 23 featured the first reading of an AfD bill to abolish the Wind Energy Area Requirements Act, with Christian Reck (AfD) and Dr. Paul Schmidt (AfD) speaking, alongside opposition from Dr. Maria-Lena Weiss (CDU/CSU) and Katrin Uhlig (Greens). Another AfD application for a nationwide moratorium on wind industry expansion was also discussed, with speakers including Carolin Bachmann (AfD) and Dr. Ingo Hahn (AfD), while Dunja Kreiser (SPD) and Lorenz Gösta Beutin (Die Linke) offered contrasting views. Agenda Item 24 concerned a joint application by CDU/CSU and SPD for the \"Day of Urban Development Funding 2026.\" Finally, Agenda Item 25 saw Die Linke introduce multiple applications aiming to strengthen works council co-determination rights, improve their working conditions, promote their establishment, and enhance employee rights in the workplace and on a multinational level, with speakers such as Cem Ince (Die Linke), Pascal Meiser (Die Linke), and Katalin Gennburg (Die Linke) presenting their case.",
+    "summary_de": "Die 78. Sitzung der 21. Wahlperiode des Deutschen Bundestages fand am Freitag, den 8. Mai 2026, statt. Die Sitzung begann mit der Erweiterung der Tagesordnung. Tagesordnungspunkt 22 befasste sich mit der zweiten und dritten Beratung des Gesetzentwurfs der Bundesregierung zur Einführung der elektronischen Aufenthaltsüberwachung und der Täterarbeit im Gewaltschutzgesetz. Redner waren unter anderem Carmen Wegge (SPD), Rainer Galla (AfD), Dr. Günter Krings (CDU/CSU), Dr. Lena Gumnior (Bündnis 90/Die Grünen), Aaron Valent (Die Linke), Tobias Matthias Peterka (AfD), Stephan Brandner (AfD), Susanne Hierl (CDU/CSU), Marcel Emmerich (Bündnis 90/Die Grünen), Ulle Schauws (Bündnis 90/Die Grünen), Kathrin Gebel (Die Linke), Carsten Müller (CDU/CSU), Lisa Paus (Bündnis 90/Die Grünen), Helge Limburg (Bündnis 90/Die Grünen), Knuth Meyer-Soltau (AfD), Josephine Ortleb (SPD), Tijen Ataoğlu (CDU/CSU) und Axel Müller (CDU/CSU). Die Debatte umfasste auch eine Beschlussempfehlung des Ausschusses für Recht und Verbraucherschutz zu einem Antrag der Linken für eine Gesamtstrategie gegen häusliche und geschlechtsspezifische Gewalt, an der unter anderem Kathrin Gebel (Die Linke) und Axel Müller (CDU/CSU) teilnahmen. Tagesordnungspunkt 23 beinhaltete die erste Beratung eines AfD-Gesetzentwurfs zur Abschaffung des Windenergieflächenbedarfsgesetzes, zu dem Christian Reck (AfD) und Dr. Paul Schmidt (AfD) sprachen, während Dr. Maria-Lena Weiss (CDU/CSU) und Katrin Uhlig (Bündnis 90/Die Grünen) dagegen argumentierten. Ein weiterer Antrag der AfD für ein bundesweites Moratorium des Windindustrieausbaus wurde ebenfalls diskutiert, mit Rednern wie Carolin Bachmann (AfD) und Dr. Ingo Hahn (AfD), während Dunja Kreiser (SPD) und Lorenz Gösta Beutin (Die Linke) gegenteilige Positionen vertraten. Tagesordnungspunkt 24 betraf einen gemeinsamen Antrag von CDU/CSU und SPD zum \"Tag der Städtebauförderung 2026\". Abschließend legte Die Linke in Tagesordnungspunkt 25 mehrere Anträge zur Stärkung der Mitbestimmungsrechte von Betriebsräten, zur Verbesserung ihrer Arbeitsgrundlagen, zur Förderung von Betriebsratgründungen und zum Ausbau von Belegschaftsrechten auf betrieblicher und multinationaler Ebene vor, präsentiert von Rednern wie Cem Ince (Die Linke), Pascal Meiser (Die Linke) und Katalin Gennburg (Die Linke).",
+    "summary_easy": "Der Bundestag hatte am 8. Mai 2026 seine 78. Sitzung. Die Abgeordneten sprachen über viele wichtige Themen. Ein Gesetz zur elektronischen Überwachung von Personen wurde beraten. Es ging um Schutz vor Gewalt. Die AfD wollte ein Gesetz für Windkraft abschaffen. Sie forderten auch, keinen neuen Windkraftausbau zu machen. Die CDU/CSU und SPD sprachen über Städteförderung. Die Linke wollte mehr Rechte für Betriebsräte. Betriebsräte helfen Arbeitnehmern in Firmen. Sie sollen mehr Einfluss bekommen. Auch auf großer internationaler Ebene sollen sie mehr Rechte haben.",
     "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact_en": "During the Edo period in Japan, the samurai class strictly adhered to sumptuary laws that dictated their clothing. For instance, they were forbidden from wearing brightly colored silk or intricate embroidery, with their attire limited to muted tones and simpler fabrics like cotton and hemp. This was to visually distinguish them from the wealthy merchant class, whose economic power had begun to rival that of the samurai.",
-      "fact_de": "Während der Edo-Zeit in Japan hielt sich die Samurai-Klasse streng an Kleiderordnungen, die ihre Kleidung vorschrieben. So war es ihnen verboten, farbenfrohe Seide oder aufwendige Stickereien zu tragen; ihre Kleidung war auf gedeckte Töne und einfachere Stoffe wie Baumwolle und Hanf beschränkt. Dies sollte sie visuell von der wohlhabenden Kaufmannsklasse unterscheiden, deren wirtschaftliche Macht begann, mit der der Samurai konkurrenzfähig zu werden.",
-      "fact_easy": "In Japan gab es früher strenge Regeln für die Kleidung von Samurai. Sie durften keine bunte Seide tragen. Ihre Kleider waren einfach und in gedeckten Farben. Das machte sie anders als reiche Händler.",
+      "fact_en": "During the Edo period in Japan (1603-1868), sumptuary laws dictated who could wear what. For example, only the samurai class and wealthy merchants were permitted to wear silk kimonos. Commoners were restricted to cotton and hemp, and even then, the colors and patterns were often regulated to signify social status and prevent ostentatious displays.",
+      "fact_de": "Während der Edo-Zeit in Japan (1603-1868) schrieben Kleiderordnungen vor, wer was tragen durfte. Zum Beispiel war nur der Samurai-Klasse und wohlhabenden Kaufleuten erlaubt, Seidenkimonos zu tragen. Bürger waren auf Baumwolle und Hanf beschränkt, und selbst dann waren Farben und Muster oft reguliert, um den sozialen Status anzuzeigen und prunkvolle Darstellungen zu verhindern.",
+      "fact_easy": "In Japan gab es früher Regeln für Kleidung. Nur reiche Leute durften teure Kimonos aus Seide tragen. Andere Leute mussten Kleidung aus Baumwolle tragen. So konnte man sehen, wer reich war.",
       "category": "Fashion",
-      "source_title": "Sumptuary Laws of the Edo Period",
-      "source_url": "https://www.metmuseum.org/toah/hd/edo/hd_edo.htm"
+      "source_title": "Sumptuary Laws",
+      "source_url": "https://www.japan-guide.com/e/e2028.html"
     },
     {
-      "fact_en": "The ancient Roman festival of Lupercalia, celebrated in February, involved a peculiar ritual where young men, dressed only in the skins of sacrificed animals, would run through the streets and playfully whip women with thongs made from the same hides. It was believed that this act would purify the city and promote fertility, especially for women.",
-      "fact_de": "Das antike römische Fest Lupercalia, das im Februar gefeiert wurde, beinhaltete ein seltsames Ritual. Junge Männer, nur mit Tierhäuten bekleidet, rannten durch die Straßen und peitschten spielerisch Frauen mit Riemen aus denselben Häuten. Es wurde geglaubt, dass diese Tat die Stadt reinigen und die Fruchtbarkeit fördern würde, besonders bei Frauen.",
-      "fact_easy": "In Rom gab es ein altes Fest namens Lupercalia. Junge Männer trugen Tierhäute. Sie rannten durch die Straßen und schlugen Frauen leicht mit Lederriemen. Das sollte Glück und Fruchtbarkeit bringen.",
+      "fact_en": "The ancient Roman festival of Saturnalia, celebrated in December, was a time of great revelry where social hierarchies were temporarily overturned. Slaves were allowed to participate in feasts, wear the clothes of their masters, and even ridicule them. It was a period of inversion, marked by feasting, gift-giving, and a general spirit of merriment.",
+      "fact_de": "Das antike römische Fest Saturnalia, das im Dezember gefeiert wurde, war eine Zeit großer Ausgelassenheit, in der soziale Hierarchien vorübergehend umgekehrt wurden. Sklaven durften an Festmählern teilnehmen, die Kleidung ihrer Herren tragen und sie sogar verspotten. Es war eine Zeit der Umkehrung, geprägt von Festen, Geschenken und einem allgemeinen Geist der Fröhlichkeit.",
+      "fact_easy": "Die Römer feierten ein Fest namens Saturnalia. In dieser Zeit durften Sklaven mit ihren Herren essen und deren Kleidung tragen. Es war ein Fest mit viel Essen und Geschenken.",
       "category": "Traditions",
-      "source_title": "Lupercalia - Ancient History Encyclopedia",
-      "source_url": "https://www.worldhistory.org/lupercalia/"
+      "source_title": "Saturnalia",
+      "source_url": "https://www.britannica.com/topic/Saturnalia"
     }
   ]
 }
