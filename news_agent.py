@@ -111,14 +111,18 @@ def summarize_all_with_gemini(all_headlines: dict) -> dict:
 
 {headlines_block}
 
-For EACH [Region / Topic] group, write a summary. Return ONLY a valid JSON object (no markdown, no backticks) in this exact structure:
+For EACH [Region / Topic] group, write a summary in THREE versions. Return ONLY a valid JSON object (no markdown, no backticks) in this exact structure:
 {{
   "sections": [
     {{
       "category": "<region>",
       "news_type": "<topic>",
-      "headline": "<single most important headline, concise>",
-      "summary": "<2-3 sentence summary>",
+      "headline_en": "<headline in English>",
+      "headline_de": "<headline in German>",
+      "headline_easy": "<headline in Easy German B1 — short simple words>",
+      "summary_en": "<2-3 sentence summary in English>",
+      "summary_de": "<2-3 sentence summary in German>",
+      "summary_easy": "<2-3 sentence summary in Easy German B1 — simple short sentences, no complex words>",
       "links": [
         {{"title": "<article title>", "url": "<url>"}},
         {{"title": "<article title>", "url": "<url>"}}
@@ -128,6 +132,7 @@ For EACH [Region / Topic] group, write a summary. Return ONLY a valid JSON objec
 }}
 
 Cover every [Region / Topic] group that has at least one headline. Be factual and concise.
+For Easy German: use B1 level vocabulary, short sentences, active voice, no jargon.
 
 IMPORTANT DEDUPLICATION RULES:
 - Each article URL must appear in ONLY ONE section — the most relevant one.
@@ -172,47 +177,59 @@ def fetch_bundestag_summary() -> dict:
         text_trimmed = text[:8000]
         client = genai.Client(api_key=GEMINI_API_KEY)
 
-        prompt = f"""The following is the transcript of the {sitzung}. Sitzung of the {wahlperiode}. Wahlperiode of the German Bundestag.
+        prompt = f"""You are an expert political analyst and German parliamentary reporter.
 
+        Below is the transcript of the {sitzung}. Sitzung, {wahlperiode}. Wahlperiode of the German Bundestag.
+
+        <transcript>
         {text_trimmed}
+        </transcript>
 
-        Do the following TWO tasks:
+        Your task is to analyze this transcript and return a JSON object with the following 4 fields.
 
-        TASK 1 - DETAILED SUMMARY:
-        Write a detailed English summary covering:
-        1. The date and session number
-        2. Every agenda topic discussed (list all of them)
-        3. Key debates, votes and decisions with specific details (who said what, which parties agreed or opposed)
-        4. Specific quotes or strong statements from ministers or MPs
-        5. Any voting results with numbers if mentioned
+        FIELD 1 — summary_en (English, 10-12 sentences):
+        - Start with the date and session number
+        - List EVERY agenda item discussed
+        - For each topic: who spoke, what position they took, which parties agreed or opposed
+        - Include specific quotes from ministers or MPs where possible
+        - Include any voting results with exact numbers if mentioned
+        - Be factual, specific, and detailed — no vague generalizations
 
-        Be specific and detailed — at least 10-12 sentences.
+        FIELD 2 — summary_de (German, 10-12 sentences):
+        - Exact same content as summary_en but written in formal German
+        - Use parliamentary language appropriate for Bundestag reporting
 
-        TASK 2 - UKRAINIAN MEN SEARCH:
-        Search the transcript for any mentions of: "ukrainische Männer", "ukrainischen Männer", "ukrainische Männer", "Ukrainer", "ukrainische Flüchtlinge", "wehrpflichtige Ukrainer", or any discussion about Ukrainian men, Ukrainian refugees, or Ukrainian conscription/military service obligations.
+        FIELD 3 — summary_easy (Einfache Sprache, B1 level, 8-10 sentences):
+        - Same key facts but written in Easy German
+        - Short sentences, maximum 15 words each
+        - No jargon, no passive voice, no complex subordinate clauses
+        - Explain any political terms in simple words
 
-        If found:
-        - Quote the relevant passage(s) in the original German
-        - Name the speaker (MP or minister)
-        - State the page number if visible nearby in the text
+        FIELD 4 — ukrainian_men:
+        - Search the transcript carefully for ANY mention of: "ukrainische Männer", "ukrainischen Männer", "Ukrainer", "ukrainische Flüchtlinge", "wehrpflichtige Ukrainer", Ukrainian men, Ukrainian refugees, or Ukrainian military/conscription obligations
+        - If found: quote the exact passage in original German, name the speaker, and state the page number if visible
+        - If multiple mentions found: include all of them
+        - If not found: write exactly "Kein Thema in dieser Sitzung."
 
-        If not found: state clearly "No discussion about Ukrainian men found in this session."
-
-        Format your response as:
-
-        SUMMARY:
-        <your detailed summary>
-
-        UKRAINIAN MEN:
-        <findings or not found message>"""
+        Return ONLY a valid JSON object — no markdown, no backticks, no extra text before or after:
+        {{
+          "summary_en": "<your detailed English summary>",
+          "summary_de": "<your detailed German summary>",
+          "summary_easy": "<your Easy German B1 summary>",
+          "ukrainian_men": "<exact quotes with speaker names and pages, or Kein Thema in dieser Sitzung.>"
+        }}"""
 
         summary = gemini_generate(client, prompt)
 
+        parsed = json.loads(summary.replace("```json", "").replace("```", "").strip())
         return {
-            "wahlperiode": wahlperiode,
-            "sitzung":     sitzung,
-            "url":         pdf_url,
-            "summary":     summary,
+            "wahlperiode":   wahlperiode,
+            "sitzung":       sitzung,
+            "url":           pdf_url,
+            "summary_en":    parsed.get("summary_en", ""),
+            "summary_de":    parsed.get("summary_de", ""),
+            "summary_easy":  parsed.get("summary_easy", ""),
+            "ukrainian_men": parsed.get("ukrainian_men", "Kein Thema in dieser Sitzung."),
         }
 
     except Exception as e:
@@ -227,25 +244,29 @@ def fetch_historical_facts() -> list:
         client = genai.Client(api_key=GEMINI_API_KEY)
         prompt = """Generate exactly 2 interesting historical facts about fashion, religion, politics, or worldwide traditions.
 
-For each fact you MUST provide a real, verifiable source URL (Wikipedia, BBC, Smithsonian, National Geographic, britannica.com, history.com, etc.).
+        For each fact provide a real, verifiable source URL.
 
-Return ONLY a valid JSON array (no markdown, no backticks):
-[
-  {
-    "fact": "<interesting historical fact, 2-3 sentences>",
-    "category": "<Fashion / Religion / Politics / Traditions>",
-    "source_title": "<name of the source>",
-    "source_url": "<real URL>"
-  },
-  {
-    "fact": "<interesting historical fact, 2-3 sentences>",
-    "category": "<Fashion / Religion / Politics / Traditions>",
-    "source_title": "<name of the source>",
-    "source_url": "<real URL>"
-  }
-]
+        Return ONLY a valid JSON array (no markdown, no backticks):
+        [
+          {
+           "fact_en": "<fact in English, 2-3 sentences>",
+           "fact_de": "<fact in German, 2-3 sentences>",
+           "fact_easy": "<fact in Easy German B1, 2-3 short simple sentences>",
+           "category": "<Fashion / Religion / Politics / Traditions>",
+           "source_title": "<name of the source>",
+           "source_url": "<real URL>"
+         },
+         {
+           "fact_en": "<fact in English, 2-3 sentences>",
+           "fact_de": "<fact in German, 2-3 sentences>",
+           "fact_easy": "<fact in Easy German B1, 2-3 short simple sentences>",
+           "category": "<Fashion / Religion / Politics / Traditions>",
+           "source_title": "<name of the source>",
+           "source_url": "<real URL>"
+         }
+        ]
 
-Make the facts genuinely surprising and educational. Vary the categories each time."""
+        Make the facts genuinely surprising and educational. Vary the categories each time."""
 
         raw = gemini_generate(client, prompt)
         raw = raw.replace("```json", "").replace("```", "").strip()
@@ -269,11 +290,15 @@ def build_briefing() -> dict:
         if cat not in section_map:
             section_map[cat] = []
         section_map[cat].append({
-            "type":     item["news_type"],
-            "emoji":    EMOJI_TYPE.get(item["news_type"], "📰"),
-            "headline": item["headline"],
-            "summary":  item["summary"],
-            "links":    item.get("links", [])[:2],
+            "type":        item["news_type"],
+            "emoji":       EMOJI_TYPE.get(item["news_type"], "📰"),
+            "headline_en": item.get("headline_en", item.get("headline", "")),
+            "headline_de": item.get("headline_de", ""),
+            "headline_easy": item.get("headline_easy", ""),
+            "summary_en":  item.get("summary_en", item.get("summary", "")),
+            "summary_de":  item.get("summary_de", ""),
+            "summary_easy": item.get("summary_easy", ""),
+            "links":       item.get("links", [])[:2],
         })
 # Safety net: remove any duplicate URLs across all sections
     seen_urls = set()
