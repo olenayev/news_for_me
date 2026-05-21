@@ -568,11 +568,11 @@
           <span class="category-name">${section.category}</span>
         </div>
         <div class="topics-grid">
-          ${section.topics.filter(t => t.headline && t.summary).map((topic, i) => `
+          ${section.topics.filter(t => (t.headline_en || t.headline) && (t.summary_en || t.summary)).map((topic, i) => `
             <div class="topic-card" style="animation-delay:${i * 0.05}s">
               <div class="topic-type">${topic.emoji || '📰'} ${topic.type}</div>
-              <div class="topic-headline">${topic['headline_' + currentLang] || topic.headline_en || ''}</div>
-              <div class="topic-summary">${topic['summary_' + currentLang] || topic.summary_en || ''}</div>
+              <div class="topic-headline">${topic['headline_' + currentLang] || topic.headline_en || topic.headline || ''}</div>
+              <div class="topic-summary">${topic['summary_' + currentLang] || topic.summary_en || topic.summary || ''}</div>
               <div class="topic-links">
                 ${(topic.links || []).filter(l => l.title && l.url).map(link => `
                   <a class="topic-link" href="${link.url}" target="_blank" rel="noopener">${link.title}</a>
@@ -618,6 +618,7 @@
             Your browser does not support audio playback.
           </audio>
         </div>
+      </div>
     `;
   }
 
