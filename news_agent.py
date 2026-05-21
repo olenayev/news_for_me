@@ -59,7 +59,7 @@ def gemini_generate(client, prompt: str) -> str:
         except Exception as e:
             if attempt < 2:
                 print(f"     Gemini attempt {attempt + 1} failed ({e}), retrying in 30s...")
-                time.sleep(30)
+                time.sleep(3)
             else:
                 raise
 
