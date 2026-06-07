@@ -538,6 +538,7 @@
 <!-- Navigation -->
 <nav class="nav-bar" id="nav-bar">
   <button class="nav-tab active" data-panel="news">World News</button>
+  <button class="nav-tab" data-panel="frankfurt">Frankfurt</button>
   <button class="nav-tab" data-panel="bundestag">Bundestag</button>
   <button class="nav-tab" data-panel="facts">Historical Facts</button>
   <button class="nav-tab" data-panel="archive">Archive</button>
@@ -551,7 +552,13 @@
     <div class="loading" id="news-loading">LOADING TODAY'S BRIEFING</div>
     <div id="news-content"></div>
   </div>
-
+  
+  <!-- Frankfurt panel -->
+  <div class="section-panel" id="panel-frankfurt">
+    <div class="loading" id="frankfurt-loading">LOADING FRANKFURT NEWS</div>
+    <div id="frankfurt-content"></div>
+  </div>
+  
   <!-- Bundestag panel -->
   <div class="section-panel" id="panel-bundestag">
     <div class="loading" id="bundestag-loading">LOADING BUNDESTAG SESSION</div>
@@ -585,6 +592,10 @@
       <span class="bottom-tab-icon">🌍</span>
       <span class="bottom-tab-label">News</span>
     </button>
+    <button class="bottom-tab" data-panel="frankfurt">
+      <span class="bottom-tab-icon">🏙️</span>
+      <span class="bottom-tab-label">Frankfurt</span>
+    </button>
     <button class="bottom-tab" data-panel="bundestag">
       <span class="bottom-tab-icon">🏛️</span>
       <span class="bottom-tab-label">Bundestag</span>
@@ -612,9 +623,11 @@
       currentLang = btn.dataset.lang;
       if (currentData) {
         document.getElementById('news-content').innerHTML = '';
+        document.getElementById('frankfurt-content').innerHTML = '';
         document.getElementById('bundestag-content').innerHTML = '';
         document.getElementById('facts-content').innerHTML = '';
         renderNews(currentData);
+        renderFrankfurt(currentData);
         renderBundestag(currentData);
         renderFacts(currentData);
       }
@@ -640,6 +653,7 @@
       if (!resp.ok) throw new Error('Not found');
       currentData = await resp.json();
       renderNews(currentData);
+      renderFrankfurt(currentData);
       renderBundestag(currentData);
       renderFacts(currentData);
       document.getElementById('masthead-date').textContent = currentData.date || '';
@@ -744,7 +758,37 @@
       </div>
     `;
   }
+  // ── Render Frankfurt ──────────────────────────────────────────────────────
+  function renderFrankfurt(data) {
+    document.getElementById('frankfurt-loading').style.display = 'none';
+    const container = document.getElementById('frankfurt-content');
+    const topics = data.frankfurt?.topics || [];
 
+    if (!topics.length) {
+      container.innerHTML = '<p style="color:var(--muted);font-family:\'DM Mono\',monospace;font-size:0.8rem;padding:1rem;">No Frankfurt news available today.</p>';
+      return;
+    }
+
+    container.innerHTML = `
+      <div class="category-header">
+        <span class="category-flag">🏙️</span>
+        <span class="category-name">Frankfurt & Hessen</span>
+      </div>
+      <div class="topics-grid">
+        ${topics.map((topic, i) => `
+          <div class="topic-card" style="animation-delay:${i * 0.05}s">
+            <div class="topic-type">${topic.emoji || '📍'} ${topic.type}</div>
+            <div class="topic-headline">${topic['headline_' + currentLang] || topic.headline_en || ''}</div>
+            <div class="topic-summary">${topic['summary_' + currentLang] || topic.summary_en || ''}</div>
+            <div class="topic-links">
+              ${(topic.links || []).filter(l => l.title && l.url).map(link => `
+                <a class="topic-link" href="${link.url}" target="_blank" rel="noopener">${link.title}</a>
+              `).join('')}
+            </div>
+          </div>
+        `).join('')}
+      </div>`;
+  }
   // ── Load archive list ─────────────────────────────────────────────────────
   async function loadArchive() {
     const list = document.getElementById('archive-list');
