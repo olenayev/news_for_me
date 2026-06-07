@@ -2,14 +2,17 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="theme-color" content="#f5f0e8" />
   <title>Daily Briefing</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@300;400;500&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet" />
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
- :root {
+:root {
       --ink:        #0f0e0c;
       --paper:      #f5f0e8;
       --cream:      #ede8dc;
@@ -18,9 +21,10 @@
       --muted:      #7a7060;
       --rule:       #d4cfc4;
       --col-width:  680px;
+      --bottom-h:   64px;
     }
 
-    html { font-size: 16px; }
+    html { font-size: 16px; -webkit-text-size-adjust: 100%; }
 
     body {
       background: var(--paper);
@@ -28,6 +32,7 @@
       font-family: 'DM Sans', sans-serif;
       min-height: 100vh;
       overflow-x: hidden;
+      padding-bottom: env(safe-area-inset-bottom);
     }
 
     /* ── Noise texture overlay ── */
@@ -91,7 +96,10 @@
       position: sticky;
       top: 0;
       z-index: 100;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
     }
+    .nav-bar::-webkit-scrollbar { display: none; }
 
     .nav-tab {
       font-family: 'DM Mono', monospace;
@@ -413,11 +421,73 @@
       animation: fadeIn 0.4s ease both;
     }
 
-    @media (max-width: 600px) {
-      .page { padding: 1rem; }
+/* ── Bottom nav for mobile ── */
+    .bottom-nav {
+      display: none;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: var(--bottom-h);
+      background: var(--cream);
+      border-top: 1px solid var(--rule);
+      z-index: 200;
+      padding-bottom: env(safe-area-inset-bottom);
+    }
+
+    .bottom-nav-inner {
+      display: flex;
+      height: var(--bottom-h);
+    }
+
+    .bottom-tab {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.2rem;
+      border: none;
+      background: none;
+      color: var(--muted);
+      cursor: pointer;
+      -webkit-tap-highlight-color: transparent;
+      touch-action: manipulation;
+      transition: color 0.2s;
+    }
+
+    .bottom-tab.active { color: var(--accent); }
+
+    .bottom-tab-icon { font-size: 1.3rem; line-height: 1; }
+
+    .bottom-tab-label {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.5rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    /* ── Mobile ── */
+    @media (max-width: 768px) {
+      .nav-bar { display: none; }
+      .bottom-nav { display: block; }
+      .page {
+        padding: 1rem;
+        padding-bottom: calc(var(--bottom-h) + 1rem + env(safe-area-inset-bottom));
+      }
+      .masthead { padding: 1rem 1rem 0.8rem; }
+      .masthead-sub { display: none; }
+      .masthead h1 { font-size: 1.8rem; }
       .topics-grid { grid-template-columns: 1fr; }
       .facts-grid  { grid-template-columns: 1fr; }
-      .masthead h1 { font-size: 2.2rem; }
+      .topic-link  { min-height: 44px; white-space: normal; }
+      .archive-item { min-height: 52px; }
+      .footer { display: none; }
+    }
+
+    /* ── Tablet ── */
+    @media (min-width: 769px) and (max-width: 1024px) {
+      .topics-grid { grid-template-columns: repeat(2, 1fr); }
     }
     /* ── Language switcher ── */
     .lang-switcher {
@@ -528,14 +598,17 @@
       }
     });
   });
-  // ── Tab navigation ────────────────────────────────────────────────────────
-  document.querySelectorAll('.nav-tab').forEach(tab => {
-    tab.addEventListener('click', () => {
-      document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
-      document.querySelectorAll('.section-panel').forEach(p => p.classList.remove('active'));
-      tab.classList.add('active');
-      document.getElementById('panel-' + tab.dataset.panel).classList.add('active');
-    });
+  // ── Tab navigation (desktop + mobile) ────────────────────────────────────
+  function switchPanel(panel) {
+    document.querySelectorAll('.nav-tab, .bottom-tab').forEach(t => t.classList.remove('active'));
+    document.querySelectorAll('.section-panel').forEach(p => p.classList.remove('active'));
+    document.querySelectorAll(`[data-panel="${panel}"]`).forEach(t => t.classList.add('active'));
+    document.getElementById('panel-' + panel).classList.add('active');
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
+  document.querySelectorAll('.nav-tab, .bottom-tab').forEach(tab => {
+    tab.addEventListener('click', () => switchPanel(tab.dataset.panel));
   });
 
   // ── Fetch today's data ────────────────────────────────────────────────────
@@ -714,5 +787,27 @@
   loadToday();
   loadArchive();
 </script>
+<!-- Mobile bottom navigation -->
+<nav class="bottom-nav">
+  <div class="bottom-nav-inner">
+    <button class="bottom-tab active" data-panel="news">
+      <span class="bottom-tab-icon">🌍</span>
+      <span class="bottom-tab-label">News</span>
+    </button>
+    <button class="bottom-tab" data-panel="bundestag">
+      <span class="bottom-tab-icon">🏛️</span>
+      <span class="bottom-tab-label">Bundestag</span>
+    </button>
+    <button class="bottom-tab" data-panel="facts">
+      <span class="bottom-tab-icon">💡</span>
+      <span class="bottom-tab-label">Facts</span>
+    </button>
+    <button class="bottom-tab" data-panel="archive">
+      <span class="bottom-tab-icon">📁</span>
+      <span class="bottom-tab-label">Archive</span>
+    </button>
+  </div>
+</nav>
+</body>
 </body>
 </html>
