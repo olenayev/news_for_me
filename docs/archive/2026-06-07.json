@@ -8,28 +8,28 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Inside Germany: World Cup Preparations and Foreigners Leaving",
-          "headline_de": "Einblick nach Deutschland: Vorbereitung auf die WM und wegziehende Ausländer",
-          "headline_easy": "Deutschland: Weltmeisterschaft beginnt bald. Manche Ausländer gehen weg.",
-          "summary_en": "Germany is preparing for the upcoming World Cup, a major sporting event. Simultaneously, the article touches upon the trend of foreigners choosing to leave the country, suggesting a complex social and economic climate.",
-          "summary_de": "Deutschland bereitet sich auf die bevorstehende Weltmeisterschaft vor, ein wichtiges Sportereignis. Gleichzeitig thematisiert der Artikel den Trend von Ausländern, die das Land verlassen möchten, was auf ein komplexes soziales und wirtschaftliches Klima hindeutet.",
-          "summary_easy": "Deutschland macht sich bereit für die Fußball-WM. Viele Ausländer verlassen das Land. Das sind zwei wichtige Themen.",
+          "headline_en": "3,300-Year-Old Gessel Gold Hoard Unearthed, Largest Bronze Age Find in Europe",
+          "headline_de": "3.300 Jahre alter Goldschatz von Gessel entdeckt, größter bronzezeitlicher Fund Europas",
+          "headline_easy": "Alter Goldschatz gefunden. Er ist 3300 Jahre alt. Das ist ein sehr großer Schatz aus der Bronzezeit.",
+          "summary_en": "A remarkable 3,300-year-old gold hoard, one of Europe's largest Bronze Age discoveries, has been unearthed in Gessel. The find offers significant insights into the period.",
+          "summary_de": "Ein bemerkenswerter 3.300 Jahre alter Goldschatz, einer der größten bronzezeitlichen Entdeckungen Europas, wurde in Gessel ausgegraben. Der Fund bietet bedeutende Einblicke in die Epoche.",
+          "summary_easy": "Ein Schatz aus Gold wurde gefunden. Er ist sehr alt, 3300 Jahre. Das ist ein großer Fund aus der Bronzezeit in Europa.",
           "links": [
             {
-              "title": "Inside Germany: Getting ready for the World Cup and the foreigners choosing to leave",
-              "url": "https://www.thelocal.de/20260606/inside-germany-getting-ready-for-the-world-cup-and-the-foreigners-choosing-to-leave"
+              "title": "Gessel gold hoard: A 3,300-year-old stash of gleaming treasures that's one of the largest Bronze Age hoards from Europe",
+              "url": "https://freerepublic.com/focus/f-chat/4382569/posts"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "SpaceX IPO Draws European Demand Amid High Risk Warnings",
-          "headline_de": "SpaceX-Börsengang zieht europäische Nachfrage an, Experten warnen vor hohen Risiken",
-          "headline_easy": "SpaceX geht an die Börse. Viele Menschen in Europa wollen Aktien kaufen. Experten sagen: Das ist riskant.",
-          "summary_en": "The initial public offering (IPO) of SpaceX is seeing significant interest from European retail investors. However, financial experts are cautioning about the high risks associated with this investment.",
-          "summary_de": "Der Börsengang von SpaceX verzeichnet eine erhebliche Nachfrage von europäischen Privatanlegern. Finanzexperten warnen jedoch vor den hohen Risiken, die mit dieser Investition verbunden sind.",
-          "summary_easy": "Die Firma SpaceX will an die Börse. Viele Europäer wollen Aktien. Die Experten sagen, dass das Geld gefährlich sein kann.",
+          "headline_en": "SpaceX IPO Sparks Strong European Retail Demand Amid High Risk Warnings",
+          "headline_de": "SpaceX-Börsengang löst starke europäische Nachfrage von Privatanlegern aus, Experten warnen vor hohen Risiken",
+          "headline_easy": "SpaceX geht an die Börse. Viele Leute in Europa wollen Aktien kaufen. Experten sagen, das ist riskant.",
+          "summary_en": "The SpaceX IPO is experiencing significant interest from European retail investors, but financial experts are cautioning about the substantial risks involved.",
+          "summary_de": "Der SpaceX-Börsengang verzeichnet ein starkes Interesse von europäischen Privatanlegern, doch Finanzexperten warnen vor den erheblichen Risiken.",
+          "summary_easy": "Die Firma SpaceX geht an die Börse. Viele Menschen in Europa wollen Aktien kaufen. Aber Experten sagen, es gibt Risiken.",
           "links": [
             {
               "title": "SpaceX IPO draws strong European retail demand but experts warn of high risks",
@@ -44,16 +44,48 @@
         {
           "type": "War",
           "emoji": "⚔️",
-          "headline_en": "Software Update for saferelay-enterprise Available on PyPI",
-          "headline_de": "Software-Update für saferelay-enterprise auf PyPI verfügbar",
-          "headline_easy": "Es gibt ein neues Update für die Software saferelay-enterprise. Man kann es auf PyPI finden.",
-          "summary_en": "A new version of the 'saferelay-enterprise' software has been released and is now available on the Python Package Index (PyPI). This indicates an update or addition to existing technology.",
-          "summary_de": "Eine neue Version der Software 'saferelay-enterprise' wurde veröffentlicht und ist nun im Python Package Index (PyPI) verfügbar. Dies deutet auf ein Update oder eine Ergänzung bestehender Technologie hin.",
-          "summary_easy": "Die Software saferelay-enterprise hat ein neues Update. Es ist jetzt zum Download bereit. Das ist gut für Computer.",
+          "headline_en": "IAEA Facilitates Local Ceasefire for Zaporizhzhia Nuclear Plant Repairs",
+          "headline_de": "IAEO vermittelt lokalen Waffenstillstand für Reparaturen am Kernkraftwerk Saporischschja",
+          "headline_easy": "Die IAEA hilft bei einem Waffenstillstand. Das ist für das Atomkraftwerk Saporischschja. Es gibt dort Reparaturen.",
+          "summary_en": "The International Atomic Energy Agency (IAEA) has successfully brokered a local ceasefire to allow for essential repairs at the Zaporizhzhia nuclear plant.",
+          "summary_de": "Die Internationale Atomenergie-Organisation (IAEO) hat erfolgreich einen lokalen Waffenstillstand vermittelt, um notwendige Reparaturen im Kernkraftwerk Saporischschja zu ermöglichen.",
+          "summary_easy": "Die IAEA hilft. Es gibt jetzt eine Pause im Kampf. Das ist gut für die Reparaturen im Atomkraftwerk Saporischschja.",
           "links": [
             {
-              "title": "saferelay-enterprise added to PyPI",
-              "url": "https://pypi.org/project/saferelay-enterprise/"
+              "title": "IAEA brokers local ceasefire for repairs at Zaporizhzhia nuclear plant",
+              "url": "https://cryptobriefing.com/iaea-ceasefire-zaporizhzhia-nuclear-plant-repairs/"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Art Deco Streamliner Hides a Surprise Royal Enfield Bike",
+          "headline_de": "Art-déco-Stromlinienfahrzeug verbirgt überraschendes Royal Enfield Motorrad",
+          "headline_easy": "Ein langes Auto im Art-déco-Stil. Darunter versteckt sich ein Motorrad. Es ist von Royal Enfield.",
+          "summary_en": "An intriguing Art Deco streamliner, measuring 3.9 meters long, conceals a unique Royal Enfield motorcycle, sparking curiosity about its design and origins.",
+          "summary_de": "Ein faszinierendes Art-déco-Stromlinienfahrzeug von 3,9 Metern Länge verbirgt ein einzigartiges Royal Enfield Motorrad, das Neugier auf sein Design und seine Herkunft weckt.",
+          "summary_easy": "Ein langes, schönes Auto versteckt ein Motorrad. Das Auto ist alt und im Art-déco-Stil. Das Motorrad ist von Royal Enfield.",
+          "links": [
+            {
+              "title": "Guess which bike hides beneath this 3.9-meter-long art deco streamliner",
+              "url": "https://newatlas.com/motorcycles/royal-enfield-art-deco-streamliner/"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "FIFA World Cup 2026 Schedule and Fixtures Announced",
+          "headline_de": "Spielplan und Termine für die FIFA Fussball-Weltmeisterschaft 2026 bekannt gegeben",
+          "headline_easy": "Die WM 2026 ist bald. Der Zeitplan ist jetzt da. Man kann sehen, wann die Spiele sind.",
+          "summary_en": "The official schedule and fixtures for the FIFA World Cup 2026 have been released, detailing match dates, times, group stages, and the final.",
+          "summary_de": "Der offizielle Spielplan und die Termine für die FIFA Fussball-Weltmeisterschaft 2026 wurden veröffentlicht und enthalten Details zu Spieltagen, Zeiten, Gruppenphasen und dem Finale.",
+          "summary_easy": "Der Plan für die Fussball-Weltmeisterschaft 2026 ist fertig. Man kann alle Spiele und Termine sehen.",
+          "links": [
+            {
+              "title": "FIFA World Cup 2026: Dates, full schedule, format, groups, fixtures and India match timings",
+              "url": "https://economictimes.indiatimes.com/news/sports/fifa-world-cup-2026-schedule-fixtures-india-match-timings-dates-check-group-stages-semi-final-and-final-dates/articleshow/131551546.cms"
             }
           ]
         }
@@ -66,52 +98,80 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Pope to Visit Spain for Meetings with Abuse Victims and Migrants",
-          "headline_de": "Papst besucht Spanien für Treffen mit Missbrauchsopfern und Migranten",
-          "headline_easy": "Der Papst reist nach Spanien. Er trifft Menschen, die missbraucht wurden. Er trifft auch Migranten.",
-          "summary_en": "Pope Leo is scheduled to visit Spain, where he will meet with individuals who have experienced abuse and with migrants. This visit highlights the Pope's engagement with sensitive social issues.",
-          "summary_de": "Papst Leo wird Spanien besuchen und dort Menschen treffen, die Missbrauch erlebt haben, sowie Migranten. Dieser Besuch unterstreicht die Beschäftigung des Papstes mit sensiblen sozialen Themen.",
-          "summary_easy": "Der Papst besucht Spanien. Er spricht mit Menschen, die Gewalt erfahren haben. Er spricht auch mit Menschen, die neu in Spanien sind.",
+          "headline_en": "Philippe Senderos Reflects on Champions League Final Aftermath, Arsenal's Squad Balance",
+          "headline_de": "Philippe Senderos blickt auf die Folgen des Champions-League-Finals und die Balance des Arsenal-Kaders zurück",
+          "headline_easy": "Philippe Senderos spricht über das Finale der Champions League. Er denkt über Arsenal nach.",
+          "summary_en": "Former Arsenal player Philippe Senderos shares his thoughts on the aftermath of the Champions League final, emphasizing Arsenal's potential focus on maintaining squad balance.",
+          "summary_de": "Der ehemalige Arsenal-Spieler Philippe Senderos teilt seine Gedanken zu den Folgen des Champions-League-Finals und betont Arsenals möglichen Fokus auf die Aufrechterhaltung der Kaderbalance.",
+          "summary_easy": "Ein Fußballspieler namens Philippe Senderos spricht über ein wichtiges Spiel. Er glaubt, dass Arsenal auf seine Spieler achten muss.",
           "links": [
             {
-              "title": "Pope Leo to meet with abuse victims and migrants during Spain visit",
-              "url": "https://www.thejournal.ie/pope-leo-to-meet-with-abuse-victims-and-migrants-during-spain-visit-7062460-Jun2026/"
-            },
-            {
-              "title": "Sound! Euphonium, The Final Movie Part 2 Streams Full English-Subtitled Trailer",
-              "url": "https://www.animenewsnetwork.com/news/2026-06-06/sound-euphonium-the-final-movie-part-2-streams-full-english-subtitled-trailer/.238216"
+              "title": "EXCLUSIVE | ‘Arsenal won’t want to unbalance squad’ – Philippe Senderos reflects on aftermath of Champions League final",
+              "url": "https://www.getfootballnewsfrance.com/2026/exclusive-arsenal-wont-want-to-unbalance-squad-philippe-senderos-reflects-on-aftermath-of-champions-league-final/"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "AI Facial Recognition Crackdown at Appleby Horse Fair Sparks Traveller Fury",
-          "headline_de": "KI-Gesichtserkennung bei Razzia auf dem Appleby Horse Fair erzürnt Reisende",
-          "headline_easy": "",
-          "summary_en": "Police have implemented an AI-driven facial recognition crackdown on criminals at Appleby Horse Fair, a move that has ignited anger among travellers. The technology's use in policing public gatherings is becoming increasingly controversial.",
-          "summary_de": "Die Polizei hat auf dem Appleby Horse Fair eine auf KI basierende Gesichtserkennung zur Verbrecherbekämpfung eingesetzt, was bei Reisenden Wut ausgelöst hat. Der Einsatz von Technologie bei öffentlichen Versammlungen wird zunehmend kontrovers diskutiert.",
-          "summary_easy": "Die Polizei benutzt neue Technik am Appleby Horse Fair. Sie suchen Kriminelle mit Kameras, die Gesichter erkennen. Die Leute dort sind sehr wütend.",
+          "headline_en": "Top Euronext Stocks for 2026: Resilience and European Exposure",
+          "headline_de": "Top-Euronext-Aktien für 2026: Resilienz und europäische Exposition",
+          "headline_easy": "Hier sind die besten Aktien für 2026. Sie sind an der Euronext. Sie sind gut für Europa.",
+          "summary_en": "Analysts highlight the top 10 Euronext stocks to consider for 2026, offering investors opportunities for European market exposure and resilience.",
+          "summary_de": "Analysten stellen die Top-10-Euronext-Aktien für 2026 vor, die Anlegern Möglichkeiten für europäische Marktpräsenz und Widerstandsfähigkeit bieten.",
+          "summary_easy": "Es gibt eine Liste der besten Aktien. Sie sind gut für das Jahr 2026. Diese Aktien sind an der Euronext Börse.",
           "links": [
             {
-              "title": "Police spark fury among travellers as they launch AI-driven facial recognition crackdown on criminals at Appleby Horse Fair",
-              "url": "https://www.dailymail.com/news/article-15878991/Police-travellers-AI-facial-recognition-Appleby-Horse-Fair.html"
+              "title": "Top 10 Euronext Stocks to Consider Buying in 2026 for European Exposure",
+              "url": "https://www.ibtimes.com.au/top-euronext-stocks-2026-resilience-1870247"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "US, Iran Exchange Military Strikes, Imperiling Shaky Cease-Fire",
+          "headline_de": "USA und Iran tauschen Militärschläge aus und gefährden fragilen Waffenstillstand",
+          "headline_easy": "Die USA und der Iran greifen sich militärisch an. Das ist schlecht für den Waffenstillstand.",
+          "summary_en": "Recent military strikes exchanged between the United States and Iran have significantly endangered an already fragile ceasefire, raising international concerns.",
+          "summary_de": "Jüngste Militärschläge zwischen den Vereinigten Staaten und dem Iran haben einen ohnehin schon fragilen Waffenstillstand erheblich gefährdet und internationale Besorgnis ausgelöst.",
+          "summary_easy": "Die USA und der Iran haben militärisch angegriffen. Das macht die Pause im Kampf unsicherer.",
+          "links": [
+            {
+              "title": "US, Iran Exchange Military Strikes, Further Imperiling Shaky Cease-Fire",
+              "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260606-rferl02.htm"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Rare 1959 Scimitar EX Sedan Available for Purchase",
-          "headline_de": "Seltenes Scimitar EX Sedan-Modell von 1959 zum Verkauf",
-          "headline_easy": "Ein altes Auto von 1959 wird verkauft. Es ist ein besonderes Modell namens Scimitar EX.",
-          "summary_en": "A rare 1959 Scimitar EX 'All-Purpose Sedan' is currently on the market. This classic vehicle represents a unique piece of automotive history.",
-          "summary_de": "Ein seltenes Scimitar EX „Allzwecklimousine“-Modell von 1959 steht zum Verkauf. Dieses klassische Fahrzeug stellt ein einzigartiges Stück Automobilgeschichte dar.",
-          "summary_easy": "Ein altes Auto, ein Scimitar EX von 1959, ist zu kaufen. Es ist ein besonderes Auto.",
+          "headline_en": "Weekend Reading: Retirement Living Standards Revisited",
+          "headline_de": "Wochenendlektüre: Ruhestands-Lebensstandards neu betrachtet",
+          "headline_easy": "Es gibt etwas zum Lesen am Wochenende. Es geht um das Leben im Ruhestand. Die Standards werden neu geprüft.",
+          "summary_en": "This weekend's reading delves into a reconsideration of retirement living standards, offering fresh perspectives on financial planning for later life.",
+          "summary_de": "Die Lektüre dieses Wochenendes befasst sich mit einer Neubetrachtung der Lebensstandards im Ruhestand und bietet neue Perspektiven für die Finanzplanung im späteren Leben.",
+          "summary_easy": "Am Wochenende kann man etwas lesen. Es geht um die Rente. Wie man gut im Alter leben kann.",
           "links": [
             {
-              "title": "The Incredible 1959 Scimitar EX “All-Purpose Sedan” Is For Sale",
-              "url": "https://silodrome.com/1959-scimitar-ex-all-purpose-sedan/"
+              "title": "Weekend reading: Retirement Living Standards revisited",
+              "url": "https://monevator.com/weekend-reading-retirement-living-standards-revisited/"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "PSG's Strategy to Sign 'Malian Messi' Aboubacar Maiga Explained",
+          "headline_de": "PSGs Strategie zur Verpflichtung des „Malischen Messi“ Aboubacar Maiga erklärt",
+          "headline_easy": "PSG will einen jungen Fußballspieler. Er heißt Aboubacar Maiga. PSG will ihn vor Manchester United haben.",
+          "summary_en": "Details emerge regarding Paris Saint-Germain's (PSG) strategy to secure the signing of young talent Aboubacar Maiga, often dubbed the 'Malian Messi', ahead of rival clubs.",
+          "summary_de": "Details werden über die Strategie von Paris Saint-Germain (PSG) bekannt, die Verpflichtung des jungen Talents Aboubacar Maiga, der oft als „Malischer Messi“ bezeichnet wird, vor rivalisierenden Vereinen zu sichern.",
+          "summary_easy": "Der Fußballclub PSG will einen jungen Spieler. Er heißt Aboubacar Maiga. PSG versucht, ihn zu bekommen.",
+          "links": [
+            {
+              "title": "Aboubacar Maiga: PSG’s plot to beat Man United to “Malian Messi” explained",
+              "url": "https://thepeoplesperson.com/2026/06/06/aboubacar-maiga-psgs-plot-to-beat-man-united-to-malian-messi-explained-311150/"
             }
           ]
         }
@@ -124,36 +184,80 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "US Intercepts Iranian Attacks as Israel Bombs Lebanon; US Reconsiders Bosnia Role",
-          "headline_de": "USA fangen iranische Angriffe ab, während Israel den Libanon bombardiert; USA erwägen Rolle in Bosnien neu",
-          "headline_easy": "Die USA fangen Angriffe aus Iran ab. Israel greift den Libanon an. Die USA denken über ihre Rolle in Bosnien nach.",
-          "summary_en": "The US has intercepted Iranian attacks amid ongoing Israeli bombings in Lebanon, escalating regional tensions. Separately, the US is threatening to reassess its involvement in Bosnia and Herzegovina due to a rift with Europe.",
-          "summary_de": "Die USA haben iranische Angriffe inmitten anhaltender israelischer Bombardierungen im Libanon abgefangen, was die regionalen Spannungen verschärft. Separat drohen die USA, ihre Beteiligung an Bosnien und Herzegowina aufgrund einer Kluft mit Europa neu zu bewerten.",
-          "summary_easy": "Die USA stoppen Angriffe aus Iran. Israel greift den Libanon an. Die USA sind unzufrieden mit Europa wegen Bosnien.",
+          "headline_en": "NBA Features 8 Sets of Brothers, Highlighting Family Legacies in the League",
+          "headline_de": "Die NBA hat 8 Brüderpaare, die Familienerbe in der Liga hervorheben",
+          "headline_easy": "In der NBA spielen 8 Paare von Brüdern. Das sind berühmte Familien im Basketball.",
+          "summary_en": "The NBA is home to eight sets of brothers, showcasing the enduring family legacies that contribute to the league's rich history and appeal.",
+          "summary_de": "Die NBA beherbergt acht Brüderpaare, die die beständigen Familienerbe zeigen, die zur reichen Geschichte und Anziehungskraft der Liga beitragen.",
+          "summary_easy": "In der NBA gibt es viele Brüder. Acht Paare von Brüdern spielen dort. Sie sind Familien, die im Basketball bekannt sind.",
           "links": [
             {
-              "title": "US intercepts Iranian attacks as Israel continues to bomb Lebanon",
-              "url": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon"
-            },
+              "title": "8 Sets of Brothers in the NBA, from the Currys to the Harpers",
+              "url": "https://people.com/sets-of-brothers-in-the-nba-11992055"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Elon Musk Poised to Become First Trillionaire; Explaining $1 Trillion Value",
+          "headline_de": "Elon Musk steht kurz davor, der erste Billionär zu werden; Erklärung des Wertes von 1 Billion Dollar",
+          "headline_easy": "Elon Musk könnte der erste Mann mit einer Billion Dollar sein. Was bedeutet eine Billion Dollar?",
+          "summary_en": "Elon Musk is on the cusp of becoming the world's first trillionaire, and this report breaks down the immense scale of $1 trillion.",
+          "summary_de": "Elon Musk steht kurz davor, der erste Billionär der Welt zu werden, und dieser Bericht erklärt die immense Größenordnung von 1 Billion Dollar.",
+          "summary_easy": "Elon Musk könnte bald eine Billion Dollar haben. Das ist sehr viel Geld. Hier wird erklärt, wie viel das ist.",
+          "links": [
             {
-              "title": "US threatens to reconsider role in Bosnia and Herzegovina amid rift with Europe",
-              "url": "https://www.irishtimes.com/world/2026/06/06/us-threatens-to-reconsider-role-in-bosnia-and-herzegovina-amid-rift-with-europe/"
+              "title": "Elon Musk is poised to become the first trillionaire. Just how much money is $1 trillion? | CNN Business",
+              "url": "https://www.cnn.com/2026/06/06/business/musk-trillionaire-how-much-is-one-trillion-dollars"
             }
           ]
         },
         {
           "type": "War",
           "emoji": "⚔️",
-          "headline_en": "US Intercepts Iranian Attacks Amidst Global Tensions; BMW Dealers Preview ALPINA Models",
-          "headline_de": "USA fangen iranische Angriffe ab; BMW-Händler sehen ALPINA-Modelle",
-          "headline_easy": "Die USA fangen Angriffe aus Iran ab. BMW-Händler sehen neue Autos von ALPINA.",
-          "summary_en": "The United States has successfully intercepted Iranian attacks, indicating involvement in international conflicts. Meanwhile, BMW dealers have been given a preview of new ALPINA models, suggesting developments in the automotive industry.",
-          "summary_de": "Die Vereinigten Staaten haben iranische Angriffe erfolgreich abgefangen, was auf eine Beteiligung an internationalen Konflikten hindeutet. Unterdessen erhielten BMW-Händler eine Vorschau auf neue ALPINA-Modelle, was auf Entwicklungen in der Automobilindustrie hindeutet.",
-          "summary_easy": "Die USA stoppen Angriffe aus Iran. Das ist wichtig für die Welt. Händler von BMW sehen neue Autos.",
+          "headline_en": "FIFA World Cup 2026 Face-Off: Teenager vs. 43-Year-Old",
+          "headline_de": "FIFA Fussball-Weltmeisterschaft 2026: Duell zwischen Teenager und 43-Jährigem",
+          "headline_easy": "Bei der WM 2026 spielt ein junger Mann gegen einen älteren Mann. Der eine ist 17, der andere 43.",
+          "summary_en": "A unique matchup is set for the FIFA World Cup 2026, pitting a 17-year-old against a 43-year-old player in an unusual intergenerational football encounter.",
+          "summary_de": "Ein einzigartiges Duell ist für die FIFA Fussball-Weltmeisterschaft 2026 angesetzt, bei dem ein 17-Jähriger gegen einen 43-Jährigen in einer ungewöhnlichen intergenerationellen Fussballbegegnung antritt.",
+          "summary_easy": "Bei der WM 2026 gibt es ein besonderes Spiel. Ein junger Spieler trifft auf einen älteren Spieler.",
           "links": [
             {
-              "title": "BMW Dealers Saw ALPINA’s New Models. Here’s What They Said",
-              "url": "https://www.bmwblog.com/2026/06/06/bmw-dealers-new-alpina-models/"
+              "title": "17-Year-Old vs 43-Year-Old in FIFA World Cup Face-Off",
+              "url": "https://www.rediff.com/sports/report/17-year-old-vs-43-year-old-in-2026-fifa-world-cup-face-off/20260606.htm"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "World Faces Largest Financial Market Bubble Since 19th Century, Warns Rosneft CEO",
+          "headline_de": "Welt steht vor größter Finanzmarktblase seit dem 19. Jahrhundert, warnt Rosneft-CEO",
+          "headline_easy": "Der Chef von Rosneft sagt: Die Welt hat eine große Blase auf dem Markt. Das ist seit dem 19. Jahrhundert nicht passiert.",
+          "summary_en": "The CEO of Rosneft has issued a stark warning, stating that the world is on the brink of experiencing the largest financial market bubble since the 19th century.",
+          "summary_de": "Der CEO von Rosneft hat eine deutliche Warnung ausgesprochen und erklärt, dass die Welt am Rande der größten Finanzmarktblase seit dem 19. Jahrhundert steht.",
+          "summary_easy": "Der Chef von Rosneft sagt, dass die Finanzmärkte gefährlich sind. Es gibt eine große Blase, wie früher im 19. Jahrhundert.",
+          "links": [
+            {
+              "title": "World on Verge of Largest Financial Market Bubble Since 19th Century - Rosneft CEO",
+              "url": "https://sputnikglobe.com/20260606/world-on-verge-of-largest-financial-market-bubble-since-19th-century---rosneft-ceo-1124276396.html"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "Disney Parks Announce New 'Toy Story' Ride Ahead of Movie Premiere",
+          "headline_de": "Disney Parks kündigen neue „Toy Story“-Fahrt vor Filmpremiere an",
+          "headline_easy": "Disney Parks bekommen eine neue Attraktion. Sie heißt 'Toy Story'. Sie öffnet bald, bevor der neue Film kommt.",
+          "summary_en": "Disney Parks has confirmed the upcoming opening of a new 'Toy Story' themed ride, set to debut just before the release of the latest film in the franchise.",
+          "summary_de": "Disney Parks hat die bevorstehende Eröffnung einer neuen Attraktion zum Thema „Toy Story“ bestätigt, die kurz vor der Veröffentlichung des neuesten Films der Reihe stattfinden soll.",
+          "summary_easy": "Disney Parks bekommt eine neue Fahrt, die auf 'Toy Story' basiert. Das ist aufregend für Fans, weil bald ein neuer Film kommt.",
+          "links": [
+            {
+              "title": "Disney Parks Confirms Next ‘Toy Story’ Ride Opening Ahead of New Movie Release",
+              "url": "https://insidethemagic.net/2026/06/disney-parks-toy-story-ride-buzz-lightyear-astro-blasters-th1/"
             }
           ]
         }
@@ -166,56 +270,64 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Asian Airlines to Raise Fuel Surcharges Amid Rising Prices",
-          "headline_de": "Asiatische Fluggesellschaften erhöhen Treibstoffzuschläge angesichts steigender Preise",
-          "headline_easy": "Fluggesellschaften in Asien erhöhen die Preise für Benzin. Die Benzinpreise steigen.",
-          "summary_en": "Major Asian airlines, including ANA and JAL, are planning to increase fuel surcharges as fuel prices reach record levels. This move will likely impact travel costs for passengers.",
-          "summary_de": "Wichtige asiatische Fluggesellschaften, darunter ANA und JAL, planen, die Treibstoffzuschläge zu erhöhen, da die Kraftstoffpreise Rekordhöhen erreichen. Dieser Schritt wird wahrscheinlich die Reisekosten für Passagiere beeinflussen.",
-          "summary_easy": "Fluggesellschaften wie ANA und JAL machen Flüge teurer. Das Benzin ist sehr teuer geworden. Reisende müssen mehr bezahlen.",
+          "headline_en": "Experts Urge Ban on Frog Poison Detox Drug After British Man's Death",
+          "headline_de": "Experten fordern Verbot des Froschgift-Entgiftungsmedikaments nach Tod eines Briten",
+          "headline_easy": "Experten sagen, ein Medikament mit Froschgift soll verboten werden. Ein Mann aus England ist damit gestorben.",
+          "summary_en": "Following the tragic death of a British man, experts are calling for a ban on a detox drug derived from frog poison, citing warnings that it could claim more lives.",
+          "summary_de": "Nach dem tragischen Tod eines Briten fordern Experten ein Verbot eines Entgiftungsmedikaments, das aus Froschgift gewonnen wird, und warnen, dass es weitere Leben fordern könnte.",
+          "summary_easy": "Ein Mann in England ist gestorben. Er hat ein Medikament genommen, das aus Froschgift gemacht wird. Experten wollen, dass es verboten wird.",
           "links": [
             {
-              "title": "ANA, JAL to raise fuel surcharges, levels likely to hit records",
-              "url": "https://japantoday.com/category/business/ana-jal-to-raise-fuel-surcharges-levels-likely-to-hit-records"
+              "title": "Experts call for frog poison detox drug that killed British man to be banned amid warnings it will claim more lives",
+              "url": "https://www.dailymail.com/news/article-15879183/Experts-frog-poison-detox-drug-killed-British-man-banned-warnings.html"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Gujarat Energy Plans Propane Terminal; Zinc Prices Soar; Asian Airlines Increase Fuel Surcharges",
-          "headline_de": "Gujarat Energy plant Propantrans-terminal; Zinkpreise steigen; Asiatische Fluggesellschaften erhöhen Treibstoffzuschläge",
-          "headline_easy": "Gujarat Energy will einen Terminal für Propan. Zink wird teurer. Fluggesellschaften in Asien erhöhen die Preise.",
-          "summary_en": "Gujarat Energy is in talks with Qatar Energy to develop a propane import terminal. Meanwhile, zinc prices have reached multi-year highs, and Asian airlines are set to raise fuel surcharges due to rising costs.",
-          "summary_de": "Gujarat Energy verhandelt mit Qatar Energy über die Entwicklung eines Propantrans-terminals. Unterdessen haben die Zinkpreise Mehrjahreshöchststände erreicht, und asiatische Fluggesellschaften werden aufgrund steigender Kosten die Treibstoffzuschläge erhöhen.",
-          "summary_easy": "Gujarat Energy will Propan importieren. Das Metall Zink ist sehr teuer. Flugzeuge in Asien werden teurer.",
+          "headline_en": "Top 10 Hong Kong Stocks on HKEX for 2026",
+          "headline_de": "Top 10 Hongkong-Aktien an der HKEX für 2026",
+          "headline_easy": "Dies sind die 10 besten Aktien aus Hongkong für das Jahr 2026. Sie sind an der HKEX Börse.",
+          "summary_en": "Investors looking for opportunities in the Asian market can consider this list of the top 10 Hong Kong stocks on the HKEX for 2026.",
+          "summary_de": "Investoren, die nach Möglichkeiten auf dem asiatischen Markt suchen, können diese Liste der Top 10 Hongkong-Aktien an der HKEX für 2026 in Betracht ziehen.",
+          "summary_easy": "Es gibt eine Liste mit den 10 besten Aktien aus Hongkong. Diese Aktien sind für das Jahr 2026. Sie können gut für Investitionen sein.",
           "links": [
             {
-              "title": "Gujarat Energy eyes propane import terminal in Gujarat; in talks with Qatar Energy",
-              "url": "https://www.thehindubusinessline.com/markets/commodities/gujarat-energy-eyes-propane-import-terminal-in-gujarat-in-talks-with-qatar-energy/article71068908.ece"
-            },
-            {
-              "title": "Zinc prices at multi-year highs: What’s driving the rally and what lies ahead?",
-              "url": "https://economictimes.indiatimes.com/markets/commodities/news/zinc-prices-at-multi-year-highs-whats-driving-the-rally-and-what-lies-ahead/articleshow/131546761.cms"
+              "title": "Top 10 Hong Kong Stocks on HKEX to Consider Buying in 2026",
+              "url": "https://www.ibtimes.com.au/top-10-hkex-stocks-2026-opportunities-1870250"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "GIFT Nifty Tumbles Amid US Market Plunge; Blackstone Raises $13.1B",
-          "headline_de": "GIFT Nifty stürzt nach US-Markteinbruch ab; Blackstone sammelt 13,1 Mrd. $",
-          "headline_easy": "GIFT Nifty fällt stark, weil die Börse in den USA fällt. Blackstone hat viel Geld gesammelt.",
-          "summary_en": "GIFT Nifty experienced a significant drop of 1.5% following a plunge in the US stock market, raising concerns about a potential downturn on the Dalal Street. In separate news, Blackstone has successfully raised $13.1 billion in the Asian market.",
-          "summary_de": "Der GIFT Nifty verzeichnete einen deutlichen Rückgang von 1,5 % nach einem Absturz an der US-Börse, was Bedenken hinsichtlich eines möglichen Abschwungs an der Dalal Street aufkommen lässt. In einer separaten Meldung hat Blackstone im asiatischen Markt erfolgreich 13,1 Milliarden US-Dollar eingesammelt.",
-          "summary_easy": "Die Börse GIFT Nifty fällt stark, weil die Börse in Amerika fällt. Man fragt sich, ob die Börse in Indien auch fällt. Blackstone hat viel Geld gesammelt.",
+          "headline_en": "Stock Pickers' Market Ahead: RBI Flags Risks, Focus on Large Caps and Banks",
+          "headline_de": "Markt für Aktienauswähler steht bevor: RBI signalisiert Risiken, Fokus auf Large Caps und Banken",
+          "headline_easy": "Die RBI warnt vor Risiken. Es wird ein Markt für Leute, die gute Aktien finden. Große Firmen und Banken sind gut.",
+          "summary_en": "With the RBI highlighting market risks, experts suggest a 'stock pickers' market' is emerging, with a focus on large-cap stocks and banks offering value.",
+          "summary_de": "Da die RBI Marktrisiken hervorhebt, deuten Experten darauf hin, dass ein „Markt für Aktienauswähler“ entsteht, mit einem Fokus auf Large-Cap-Aktien und Banken, die Wert bieten.",
+          "summary_easy": "Die Zentralbank (RBI) warnt vor Gefahren. Es wird ein Markt für Experten, die gute Aktien finden. Große Unternehmen und Banken sind gute Anlagen.",
           "links": [
             {
-              "title": "GIFT Nifty tumbles 1.5% as US stock market plunges. Will Dalal Street crash on Monday?",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/gift-nifty-tumbles-1-5-as-us-stock-market-plunges-will-dalal-street-crash-on-monday/articleshow/131545625.cms"
-            },
+              "title": "Stock pickers’ market ahead as RBI flags risks; largecaps, banks and capex plays offer value: George Thomas",
+              "url": "https://economictimes.indiatimes.com/markets/expert-view/stock-pickers-market-ahead-as-rbi-flags-risks-largecaps-banks-and-capex-plays-offer-value-george-thomas/articleshow/131549054.cms"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "Top 10 London Stock Exchange Stocks for UK Exposure in 2026",
+          "headline_de": "Top 10 London Stock Exchange Aktien für britische Exposition im Jahr 2026",
+          "headline_easy": "Hier sind 10 gute Aktien von der Londoner Börse für 2026. Sie sind gut für das Vereinigte Königreich.",
+          "summary_en": "This selection of the top 10 London Stock Exchange stocks offers investors opportunities for significant UK market exposure in 2026.",
+          "summary_de": "Diese Auswahl der Top 10 Aktien der London Stock Exchange bietet Anlegern Möglichkeiten für eine signifikante Exposition auf dem britischen Markt im Jahr 2026.",
+          "summary_easy": "Es gibt eine Liste der besten Aktien. Sie sind an der Börse in London. Sie sind gut für das Vereinigte Königreich im Jahr 2026.",
+          "links": [
             {
-              "title": "Blackstone raises $13.1 billion in key market",
-              "url": "https://www.thestreet.com/investing/stocks/blackstone-blk-stock-raises-13-billion-in-asia-market"
+              "title": "Top 10 London Stock Exchange Stocks to Consider Buying in 2026 for UK Exposure",
+              "url": "https://www.ibtimes.com.au/lse-stocks-2026-growth-opportunities-1870248"
             }
           ]
         }
@@ -228,80 +340,80 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "World Cup 2026 Stadiums Tour; Software Update Available; Sports News",
-          "headline_de": "WM 2026 Stadien-Tour; Software-Update verfügbar; Sportnachrichten",
-          "headline_easy": "Es gibt eine Tour durch die Stadien für die WM 2026. Ein Software-Update ist fertig. Es gibt Sport-Nachrichten.",
-          "summary_en": "A tour of the stadiums designated for the 2026 World Cup is available, offering a glimpse of the venues. Additionally, a software update for 'torchwm' version 0.4.1 has been released, and there are various sports updates including football and golf.",
-          "summary_de": "Eine Tour durch die für die WM 2026 vorgesehenen Stadien ist verfügbar und bietet einen Einblick in die Austragungsorte. Darüber hinaus wurde ein Software-Update für 'torchwm' Version 0.4.1 veröffentlicht, und es gibt verschiedene Sportnachrichten, darunter Fußball und Golf.",
-          "summary_easy": "Man kann die Stadien für die WM 2026 sehen. Es gibt ein neues Update für eine Software. Auch Sportnachrichten gibt es.",
+          "headline_en": "Father Battles Terminal Illness to Attend Son's Championship Game",
+          "headline_de": "Vater kämpft gegen unheilbare Krankheit, um das Meisterschaftsspiel seines Sohnes zu besuchen",
+          "headline_easy": "Ein Vater ist sehr krank. Er will trotzdem das Spiel seines Sohnes sehen. Es ist ein wichtiges Spiel.",
+          "summary_en": "A father with a terminal illness is making a courageous fight to attend his son's MHSAA championship game, demonstrating profound paternal support.",
+          "summary_de": "Ein Vater mit einer unheilbaren Krankheit kämpft mutig darum, das Meisterschaftsspiel seines Sohnes bei der MHSAA zu besuchen und zeigt damit eine tiefgreifende väterliche Unterstützung.",
+          "summary_easy": "Ein Vater ist sehr krank. Er möchte unbedingt das Spiel seines Sohnes sehen. Das ist ein wichtiges Spiel für den Sohn.",
           "links": [
             {
-              "title": "A tour of the 2026 World Cup stadiums",
-              "url": "https://onefootball.com/en/news/a-tour-of-the-2026-world-cup-stadiums-42972707"
-            },
+              "title": "Father with terminal illness fights to attend MHSAA championship to see son play",
+              "url": "https://www.djournal.com/news/local/father-with-terminal-illness-fights-to-attend-mhsaa-championship-to-see-son-play/article_ad39d98e-f284-4ffa-b0d6-96466728ecfb.html"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Berkshire Hathaway Invests Billions in AI Under Abel's Leadership",
+          "headline_de": "Berkshire Hathaway investiert Milliarden in KI unter der Führung von Abel",
+          "headline_easy": "Berkshire Hathaway investiert viel Geld in KI. Das ist eine neue Art von Technologie.",
+          "summary_en": "Under new leadership, Berkshire Hathaway is making substantial investments, including billions directed towards artificial intelligence initiatives.",
+          "summary_de": "Unter neuer Führung tätigt Berkshire Hathaway erhebliche Investitionen, darunter Milliarden, die in Initiativen zur künstlichen Intelligenz fließen.",
+          "summary_easy": "Eine große Firma namens Berkshire Hathaway investiert viel Geld. Das Geld geht in die künstliche Intelligenz, kurz KI.",
+          "links": [
             {
-              "title": "torchwm 0.4.1",
-              "url": "https://pypi.org/project/torchwm/0.4.1/"
+              "title": "Abel goes his own way with new Berkshire investments, including billions for AI",
+              "url": "https://www.cnbc.com/2026/06/06/abel-goes-his-own-way-with-new-berkshire-investments-including-billions-for-ai.html"
             }
           ]
         },
         {
           "type": "War",
           "emoji": "⚔️",
-          "headline_en": "Ferrari's F1 Driver to Skip Monaco GP Saturday; Golfers Lead US Open",
-          "headline_de": "Ferraris F1-Fahrer überspringt Samstag in Monaco; Golfer führen bei den US Open",
-          "headline_easy": "Ein Formel-1-Fahrer von Ferrari fährt am Samstag in Monaco nicht. Golfer sind vorne bei den US Open.",
-          "summary_en": "Ferrari's Fred Vasseur will be absent from the F1 Monaco GP on Saturday. In golf, Lee and Yin are sharing the lead at the US Open, while Maguire and Mehaffey have missed the cut.",
-          "summary_de": "Ferrari-Teamchef Fred Vasseur wird am Samstag beim F1-Rennen in Monaco fehlen. Im Golf teilen sich Lee und Yin die Führung bei den US Open, während Maguire und Mehaffey den Cut verpasst haben.",
-          "summary_easy": "Ein wichtiger Mann von Ferrari ist am Samstag nicht da. Zwei Golfer sind die Besten bei den US Open. Andere Golfer sind nicht mehr dabei.",
+          "headline_en": "Maxx Crosby Discusses Upcoming Fights, White House, and Olympics",
+          "headline_de": "Maxx Crosby spricht über bevorstehende Kämpfe, das Weiße Haus und die Olympischen Spiele",
+          "headline_easy": "Maxx Crosby spricht über zukünftige Kämpfe. Er spricht auch über das Weiße Haus und die Olympischen Spiele.",
+          "summary_en": "Athlete Maxx Crosby shares his plans for the America 250 UFC fight, discusses potential White House visits, and touches upon his thoughts on Fernando Mendoza, Tom Brady, and the Olympics.",
+          "summary_de": "Der Athlet Maxx Crosby teilt seine Pläne für den America 250 UFC-Kampf, spricht über mögliche Besuche im Weißen Haus und äußert sich zu Fernando Mendoza, Tom Brady und den Olympischen Spielen.",
+          "summary_easy": "Ein Sportler namens Maxx Crosby spricht über seine Pläne. Er redet über einen Kampf und die Olympischen Spiele.",
           "links": [
             {
-              "title": "Ferrari's Fred Vasseur to skip Saturday at F1 Monaco GP",
-              "url": "https://www.motorsport.com/f1/news/ferraris-fred-vasseur-to-skip-saturday-at-f1-monaco-gp/10827355/"
-            },
-            {
-              "title": "Lee & Yin share US Open lead, Maguire & Mehaffey miss cut",
-              "url": "https://www.rte.ie/sport/golf/2026/0606/1577058-lee-yin-share-us-open-lead-maguire-mehaffey-miss-cut/"
+              "title": "Maxx Crosby plans to attend America 250 UFC fight, talks White House, Fernando Mendoza, Tom Brady and Olympics",
+              "url": "https://www.foxnews.com/sports/maxx-crosby-plans-attend-america-250-ufc-fight-talks-white-house-fernando-mendoza-tom-brady-olympics"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Data Center Loan Sought; Adani Becomes Asia's Richest; Stock Manager CLI Update",
-          "headline_de": "Darlehen für Rechenzentrum gesucht; Adani wird reichster Asiate; Stock Manager CLI Update",
-          "headline_easy": "Eine Firma sucht Geld für ein Rechenzentrum. Adani ist jetzt der reichste Mann in Asien. Es gibt ein Update für Stock Manager CLI.",
-          "summary_en": "Range Intelligent is seeking a $3 billion loan for Hong Kong's largest data center. Gautam Adani has reclaimed the title of Asia's richest person. An update for 'stock-manager-cli' version 0.3.1 is also available.",
-          "summary_de": "Range Intelligent sucht ein Darlehen in Höhe von 3 Milliarden US-Dollar für das größte Rechenzentrum Hongkongs. Gautam Adani hat sich den Titel des reichsten Mannes Asiens zurückerobert. Ein Update für 'stock-manager-cli' Version 0.3.1 ist ebenfalls verfügbar.",
-          "summary_easy": "Eine Firma braucht viel Geld für ein großes Computerhaus. Adani ist jetzt der reichste Mensch in Asien. Es gibt ein neues Update für ein Computerprogramm.",
+          "headline_en": "Woman's Divórcio Dilemma: Husband Claims No Share for Career Sacrifice",
+          "headline_de": "Frauens Scheidungsdilemma: Ehemann beansprucht keinen Anteil für Karriereopfer",
+          "headline_easy": "Eine Frau hat für die Familie ihre Arbeit aufgegeben. Jetzt lassen sie sich scheiden. Ihr Mann sagt, sie bekommt kein Geld.",
+          "summary_en": "A woman faces a challenging divorce situation where her husband argues she is not entitled to a share of assets due to her career sacrifice to raise their children.",
+          "summary_de": "Eine Frau steht vor einer schwierigen Scheidungssituation, in der ihr Ehemann argumentiert, dass sie aufgrund ihres Karriereverzichts zur Kindererziehung keinen Anspruch auf Vermögensanteile hat.",
+          "summary_easy": "Eine Frau hat ihre Arbeit aufgegeben, um sich um die Kinder zu kümmern. Jetzt will sie sich scheiden lassen. Ihr Mann sagt, sie bekommt nichts.",
           "links": [
             {
-              "title": "Range Intelligent seeks $3B loan for Hong Kong’s largest data center",
-              "url": "https://cryptobriefing.com/range-intelligent-hong-kong-data-center-loan/"
-            },
-            {
-              "title": "Gautam Adani becomes Asia's richest person again; overtakes Mukesh Ambani, Softbank's Masayoshi Son",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/gautam-adani-becomes-asias-richest-person-again-overtakes-mukesh-ambani-softbanks-masayoshi-son/articleshow/131546277.cms"
+              "title": "I gave up my career to raise our kids. Now we're getting divorced and my husband says I don't deserve half: VANESSA STOYKOV",
+              "url": "https://www.dailymail.com/news/article-15876013/I-gave-career-raise-kids-getting-divorced-husband-says-dont-deserve-half-VANESSA-STOYKOV.html"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "Pump.Fun Faces Scrutiny Over Bounty Feature; World Cup 2026 Squads Ranked; Mbappe Discusses Career",
-          "headline_de": "Pump.Fun unter Beschuss wegen Kopfgeld-Funktion; WM 2026 Kader bewertet; Mbappe spricht über Karriere",
-          "headline_easy": "Die Firma Pump.Fun hat Probleme mit einer neuen Funktion. Die besten Teams für die WM 2026 werden vorgestellt. Mbappe spricht über Fußball.",
-          "summary_en": "The platform Pump.Fun is facing criticism regarding its new bounty feature. A ranking of the strongest squads for the 2026 World Cup has been released, and Kylian Mbappe has discussed his career aspirations and rivals.",
-          "summary_de": "Die Plattform Pump.Fun sieht sich wegen ihrer neuen Kopfgeld-Funktion Kritik ausgesetzt. Eine Rangliste der stärksten Kader für die WM 2026 wurde veröffentlicht, und Kylian Mbappe hat über seine Karriereziele und Rivalen gesprochen.",
-          "summary_easy": "Pump.Fun hat eine neue Funktion. Leute finden sie nicht gut. Man kann jetzt die besten Teams für die WM sehen. Mbappe spricht über seine Pläne.",
+          "headline_en": "Younger Boyfriend's Social Media Snub Humiliates Woman",
+          "headline_de": "Der Social-Media-Boykott des jüngeren Freundes demütigt Frau",
+          "headline_easy": "Eine Frau hat einen jüngeren Freund. Er postet nichts über sie in den sozialen Medien. Ihre Freundin hat den Grund erfahren.",
+          "summary_en": "A woman is left feeling foolish and humiliated after discovering the reason her younger boyfriend refuses to post about their relationship on social media.",
+          "summary_de": "Eine Frau fühlt sich töricht und gedemütigt, nachdem sie den Grund herausgefunden hat, warum sich ihr jüngerer Freund weigert, ihre Beziehung in den sozialen Medien zu posten.",
+          "summary_easy": "Eine Frau ist traurig, weil ihr Freund sie nicht auf Social Media zeigt. Sie hat den Grund dafür erfahren und ist sehr enttäuscht.",
           "links": [
             {
-              "title": "Livestream Chaos 2.0? Pump.Fun Under Fire Over New Bounty Feature",
-              "url": "http://www.newsbtc.com/news/pump-fun-under-fire-over-new-bounty-feature/"
-            },
-            {
-              "title": "World Cup 2026 rosters, ranked: The strongest squads among title favourites at 2026 finals",
-              "url": "https://www.sportingnews.com/us/soccer/news/world-cup-2026-rosters-ranked-strongest-squads-favourites-2026/83318c81646b01d307c76467"
+              "title": "My younger boyfriend won't post me online - his drunk friend revealed the humiliating reason, and I felt like an old fool: ASK JANA",
+              "url": "https://www.dailymail.com/lifestyle/article-15875641/younger-boyfriend-social-media-cougar-humiliated-Jana-Hocking.html"
             }
           ]
         }
@@ -312,27 +424,103 @@
     "wahlperiode": 21,
     "sitzung": 81,
     "url": "https://dserver.bundestag.de/btp/21/21081.pdf",
-    "summary_en": "The 81st session of the 21st legislative period of the German Bundestag took place on Friday, May 22, 2026. The primary focus was the first reading of two draft laws concerning child benefits: one from the Federal Government for the introduction of an \"application-free child benefit\" (Drucksache 21/5874), and another from the AfD faction aiming to amend existing child benefit regulations (Drucksache 21/6003). Federal Minister Lars Klingbeil (BMF) spoke in relation to the AfD's draft law. Kay Gottschalk and René Springer from the AfD presented their party's initiative, while Dr. Anja Weisgerber (CDU/CSU), Dr. Franziska Brantner (BÜNDNIS 90/DIE GRÜNEN), Doris Achelwilm (Die Linke), and Dr. Wiebke Esdar (SPD) also contributed to the debate. The session also included deliberations on ZP 8, an application by Die Linke to enshrine an eight-hour workday in EU law, debated by Anne Zerr, Ines Schwerdtner, Dr. Fabian Fahl, and Cansin Köktürk. BÜNDNIS 90/DIE GRÜNEN, represented by Ricarda Lang and Dr. Armin Grau, proposed a modern working time policy (ZP 9), with contributions from Timon Dzienus, Lisa Paus, and Dr. Paula Piechotta. The CDU/CSU was represented by Wilfried Oellers, Mechthilde Wittmann, Dr. Ottilie Klein, and Peter Aumer. ZP 27 involved the Bundestag being informed by the Federal Government on arms control, disarmament, and non-proliferation for 2025, with contributions from Angelika Glöckner (SPD), Dr. Wolfgang Stefinger (CDU/CSU), Bernd Schattner (AfD), and Dr. Maria-Lena Weiss (CDU/CSU). Finally, ZP 10 involved the second and third readings of the \"Act on the Further Development of Pharmacy Services\" (Apothekenversorgung-Weiterentwicklungsgesetz – ApoVWG), with the AfD's Martin Sichert and Die Linke's Ates Gürpinar presenting their respective motions on pharmacy provision, and contributions from Simone Borchardt (CDU/CSU), Dr. Paula Piechotta (BÜNDNIS 90/DIE GRÜNEN), Dr. Stephan Pilsinger (CDU/CSU), and Dr. Christoph Birghan (AfD).",
-    "summary_de": "Am Freitag, dem 22. Mai 2026, fand die 81. Sitzung der 21. Wahlperiode des Deutschen Bundestages statt. Ein zentraler Punkt war die erste Beratung zweier Gesetzentwürfe zum Kindergeld: eines von der Bundesregierung zur Einführung eines \"antragslosen Kindergeldes\" (Drucksache 21/5874) und eines der AfD-Fraktion zur Änderung kindermathbbicher Regelungen (Drucksache 21/6003). Bundesminister Lars Klingbeil (BMF) äußerte sich im Zusammenhang mit dem Entwurf der AfD. Kay Gottschalk und René Springer von der AfD stellten die Initiative ihrer Fraktion vor, während Dr. Anja Weisgerber (CDU/CSU), Dr. Franziska Brantner (BÜNDNIS 90/DIE GRÜNEN), Doris Achelwilm (Die Linke) und Dr. Wiebke Esdar (SPD) ebenfalls zur Debatte beitrugen. Des Weiteren wurden Zusatzpunkte behandelt: ZP 8, ein Antrag der Linken zur Verankerung des Achtstundentags im EU-Recht, diskutiert von Anne Zerr, Ines Schwerdtner, Dr. Fabian Fahl und Cansin Köktürk. BÜNDNIS 90/DIE GRÜNEN, vertreten durch Ricarda Lang und Dr. Armin Grau, brachten eine moderne Arbeitszeitpolitik (ZP 9) ein, mit Beiträgen von Timon Dzienus, Lisa Paus und Dr. Paula Piechotta. Die CDU/CSU wurde durch Wilfried Oellers, Mechthilde Wittmann, Dr. Ottilie Klein und Peter Aumer repräsentiert. ZP 27 umfasste die Unterrichtung durch die Bundesregierung über Rüstungskontrolle, Abrüstung und Nichtverbreitung für das Jahr 2025, mit Beiträgen von Angelika Glöckner (SPD), Dr. Wolfgang Stefinger (CDU/CSU), Bernd Schattner (AfD) und Dr. Maria-Lena Weiss (CDU/CSU). Abschließend befasste sich ZP 10 mit der zweiten und dritten Beratung des \"Gesetzes zur Weiterentwicklung der Apothekenversorgung\" (Apothekenversorgung-Weiterentwicklungsgesetz – ApoVWG). Martin Sichert (AfD) und Ates Gürpinar (Die Linke) stellten hierzu Anträge zur Apothekenversorgung vor, mit weiteren Beiträgen von Simone Borchardt (CDU/CSU), Dr. Paula Piechotta (BÜNDNIS 90/DIE GRÜNEN), Dr. Stephan Pilsinger (CDU/CSU) und Dr. Christoph Birghan (AfD).",
-    "summary_easy": "Der Bundestag traf sich am 22. Mai 2026. Es ging um das Kindergeld. Die Regierung will Kindergeld automatisch zahlen. Die AfD will die Regeln für Kindergeld ändern. Viele Abgeordnete sprachen über das Kindergeld. Auch die Arbeitszeit war ein Thema. Die Linke will einen Acht-Stunden-Tag im EU-Recht. Die Grünen wollen moderne Arbeitszeiten. Die CDU/CSU und die SPD haben auch gesprochen. Es gab Informationen zur Rüstungskontrolle. Das ist wichtig für den Frieden. Es ging auch um Apotheken. Die Versorgung mit Medikamenten soll besser werden. Die Abgeordneten diskutierten darüber. Die Gesetze wurden beraten.",
+    "summary_en": "On Friday, May 22, 2026, the German Bundestag convened for its 81st session of the 21st legislative period. The primary focus was the first reading of two opposing bills concerning child benefits. The federal government presented a draft law for 'application-free child benefits' (Drucksache 21/5874), which was addressed by Federal Minister Lars Klingbeil (BMF). Simultaneously, the AfD faction, led by MPs Kay Gottschalk and René Springer, introduced their own 'draft law to amend child benefit regulations' (Drucksache 21/6003), with Gottschalk and Springer themselves speaking on the matter. Representatives from CDU/CSU (Dr. Anja Weisgerber, Lukas Krieger, Dr. Markus Reichel), BÜNDNIS 90/DIE GRÜNEN (Dr. Franziska Brantner, Dr. Moritz Heuberger, Timon Dzienus), Die Linke (Doris Achelwilm, Heidi Reichinnek, Anne Zerr, Ines Schwerdtner, Dr. Fabian Fahl, Cansin Köktürk, Pascal Meiser), and SPD (Dr. Wiebke Esdar, Jürgen Coße, Jasmina Hostert, Frauke Heiligenstadt, Jan Dieren, Angelika Glöckner, Bernd Rützel, Dr. Christos Pantazis) also contributed to the debate on child benefits.  The session also included debates on several other agenda items. These included motions to anchor the eight-hour workday in EU law (Die Linke, supported by Anne Zerr, Ines Schwerdtner, Dr. Fabian Fahl, Cansin Köktürk, Pascal Meiser), and motions for a modern working time policy (BÜNDNIS 90/DIE GRÜNEN, supported by Ricarda Lang, Timon Dzienus, Dr. Armin Grau, Boris Mijatović). The CDU/CSU (Wilfried Oellers, Mechthilde Wittmann, Dr. Ottilie Klein, Peter Aumer, Dr. Wolfgang Stefinger, Nora Seitz, Johannes Volkmann) and AfD (Robert Teske, Rainer Groß, Martin Reichardt, Peter Bohnhof, Bernd Schattner, Rocco Kever, Johann Martel) also participated in these discussions. Furthermore, the Bundestag engaged in the second and third readings of the 'Pharmacy Supply Development Act – ApoVWG' (Drucksachen 21/4084, 21/6076), with contributions from Simone Borchardt (CDU/CSU), Martin Sichert (AfD), Dr. Paula Piechotta (BÜNDNIS 90/DIE GRÜNEN), Dr. Tanja Machalet (SPD), Ates Gürpinar (Die Linke), Dr. Stephan Pilsinger (CDU/CSU), Dr. Christoph Birghan (AfD), Dr. Maria-Lena Weiss (CDU/CSU), and Dr. Jan-Niclas Gesenhues (BÜNDNIS 90/DIE GRÜNEN). The session also covered an appeal for food sovereignty and combating global hunger (BÜNDNIS 90/DIE GRÜNEN, supported by Schahina Gambir), and the government's annual report on arms control, disarmament, and non-proliferation for 2025.",
+    "summary_de": "Am Freitag, dem 22. Mai 2026, trat der Deutsche Bundestag zu seiner 81. Sitzung der 21. Wahlperiode zusammen. Der Schwerpunkt lag auf der ersten Beratung zweier gegensätzlicher Gesetzentwürfe zum Kindergeld. Die Bundesregierung legte einen Entwurf zur Einführung eines „antragslosen Kindergeldes“ (Drucksache 21/5874) vor, zu dem Bundesminister Lars Klingbeil (BMF) sprach. Gleichzeitig präsentierte die AfD-Fraktion unter der Führung der Abgeordneten Kay Gottschalk und René Springer ihren „Entwurf eines Gesetzes zur Änderung kindergeldrechtlicher Regelungen“ (Drucksache 21/6003), zu dem sich Gottschalk und Springer äußerten. Auch Vertreter von CDU/CSU (Dr. Anja Weisgerber, Lukas Krieger, Dr. Markus Reichel), BÜNDNIS 90/DIE GRÜNEN (Dr. Franziska Brantner, Dr. Moritz Heuberger, Timon Dzienus), Die Linke (Doris Achelwilm, Heidi Reichinnek, Anne Zerr, Ines Schwerdtner, Dr. Fabian Fahl, Cansin Köktürk, Pascal Meiser) und SPD (Dr. Wiebke Esdar, Jürgen Coße, Jasmina Hostert, Frauke Heiligenstadt, Jan Dieren, Angelika Glöckner, Bernd Rützel, Dr. Christos Pantazis) beteiligten sich an der Debatte zum Kindergeld. Darüber hinaus wurden weitere Tagesordnungspunkte erörtert. Dazu gehörten Anträge zur Verankerung des Achtstundentags im EU-Recht (Die Linke, unterstützt von Anne Zerr, Ines Schwerdtner, Dr. Fabian Fahl, Cansin Köktürk, Pascal Meiser) und Anträge für eine moderne Arbeitszeitpolitik (BÜNDNIS 90/DIE GRÜNEN, unterstützt von Ricarda Lang, Timon Dzienus, Dr. Armin Grau, Boris Mijatović). Die CDU/CSU (Wilfried Oellers, Mechthilde Wittmann, Dr. Ottilie Klein, Peter Aumer, Dr. Wolfgang Stefinger, Nora Seitz, Johannes Volkmann) und AfD (Robert Teske, Rainer Groß, Martin Reichardt, Peter Bohnhof, Bernd Schattner, Rocco Kever, Johann Martel) nahmen ebenfalls an diesen Beratungen teil. Des Weiteren fand die zweite und dritte Beratung des „Gesetzes zur Weiterentwicklung der Apothekenversorgung – ApoVWG“ (Drucksachen 21/4084, 21/6076) statt, mit Beiträgen von Simone Borchardt (CDU/CSU), Martin Sichert (AfD), Dr. Paula Piechotta (BÜNDNIS 90/DIE GRÜNEN), Dr. Tanja Machalet (SPD), Ates Gürpinar (Die Linke), Dr. Stephan Pilsinger (CDU/CSU), Dr. Christoph Birghan (AfD), Dr. Maria-Lena Weiss (CDU/CSU) und Dr. Jan-Niclas Gesenhues (BÜNDNIS 90/DIE GRÜNEN). Ein weiterer Punkt war ein Appell zur Ernährungssouveränität und zur Bekämpfung der globalen Hungerkrise (BÜNDNIS 90/DIE GRÜNEN, unterstützt von Schahina Gambir), sowie der Jahresbericht der Bundesregierung zur Rüstungskontrolle, Abrüstung und Nichtverbreitung für 2025.",
+    "summary_easy": "Am Freitag, 22. Mai 2026, gab es eine Sitzung im Bundestag. Politiker sprachen über Kindergeld. Die Regierung möchte, dass Eltern Kindergeld automatisch bekommen. Die AfD-Partei hat einen anderen Vorschlag. Viele Politiker von verschiedenen Parteien sagten ihre Meinung. Sie sprachen auch über die Arbeitszeit. Eine Partei möchte, dass die Arbeitstage kürzer werden. Sie wollen, dass das in Europa gilt. Eine andere Partei spricht sich für eine moderne Arbeitszeit aus. Politiker diskutierten auch über Apotheken. Sie wollen die Versorgung mit Medikamenten verbessern. Es gab auch ein Thema über Essen und Hunger in der Welt. Die Politiker sprachen über Waffen und Rüstung. Die Regierung hat darüber berichtet.",
     "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact_en": "During the Tang Dynasty in China (618-907 AD), women's fashion was remarkably daring and influential. They often wore sheer or low-cut garments, with elaborate hairstyles and heavy makeup, challenging later perceptions of traditional Chinese attire as uniformly conservative.",
-      "fact_de": "Während der Tang-Dynastie in China (618-907 n. Chr.) war die Damenmode bemerkenswert gewagt und einflussreich. Sie trugen oft durchscheinende oder tief ausgeschnittene Kleidungsstücke mit aufwendigen Frisuren und starkem Make-up, was späteren Vorstellungen von traditioneller chinesischer Kleidung als einheitlich konservativ widerspricht.",
-      "fact_easy": "Frauen in China trugen früher Kleider, die man heute sehr modern findet. Sie mochten durchsichtige Stoffe und tiefe Ausschnitte. Ihre Frisuren waren auch sehr besonders.",
+      "fact_en": "In ancient Rome, the color purple was exclusively associated with royalty and the elite due to the immense cost and difficulty of producing Tyrian purple dye from sea snails. Wearing this color was a powerful status symbol, and sumptuary laws even prohibited commoners from adorning themselves in it.",
+      "fact_de": "Im antiken Rom war die Farbe Lila ausschließlich mit Königtum und Elite verbunden, da die Herstellung des purpurnen Farbstoffs aus Meeresschnecken extrem teuer und schwierig war. Das Tragen dieser Farbe war ein mächtiges Statussymbol, und Kleiderordnungen verboten sogar einfachen Leuten, sich damit zu schmücken.",
+      "fact_easy": "In alten Rom war die Farbe Lila nur für Könige und reiche Leute. Man brauchte viele Schnecken, um die Farbe zu machen. Es war sehr teuer.",
       "category": "Fashion",
-      "source_title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
-      "source_url": "https://www.metmuseum.org/toah/hd/tang/hd_tang.htm"
+      "source_title": "Tyrian Purple: The Royal Color of Antiquity",
+      "source_url": "https://www.metmuseum.org/blogs/now-at-the-met/2015/tyrian-purple"
     },
     {
-      "fact_en": "The 'Dancing Plague' of 1518 in Strasbourg saw hundreds of people compulsively dance for days, even weeks, with some reportedly dying from exhaustion or heart attacks. The exact cause remains a historical mystery, with theories ranging from mass hysteria and ergot poisoning to religious fervor.",
-      "fact_de": "Die 'Tanzwut' von 1518 in Straßburg führte dazu, dass Hunderte von Menschen tagelang, sogar wochenlang zwanghaft tanzten, wobei einige Berichten zufolge an Erschöpfung oder Herzinfarkten starben. Die genaue Ursache bleibt ein historisches Rätsel, mit Theorien, die von Massenhysterie und Mutterkornvergiftung bis hin zu religiöser Inbrunst reichen.",
-      "fact_easy": "Im Jahr 1518 tanzten in einer Stadt namens Straßburg viele Menschen ohne Grund. Sie tanzten Tage und Nächte. Manche starben davon, weil sie zu müde waren.",
+      "fact_en": "The Vatican City has its own postal service, which is distinct from the Italian postal system. It issues its own unique stamps, which are highly sought after by philatelists worldwide, and delivers mail both within the Vatican and internationally.",
+      "fact_de": "Die Vatikanstadt hat ihren eigenen Postdienst, der unabhängig vom italienischen Postsystem ist. Sie gibt eigene Briefmarken heraus, die weltweit von Philatelisten begehrt sind, und liefert Post sowohl innerhalb des Vatikans als auch international.",
+      "fact_easy": "Der Vatikan hat seine eigene Post. Sie hat eigene Briefmarken. Die Briefmarken sind wichtig für Sammler.",
       "category": "Traditions",
-      "source_title": "National Geographic - The dancing plague of 1518",
-      "source_url": "https://www.nationalgeographic.com/history/article/dancing-plague-strasbourg-1518-mystery"
+      "source_title": "Philately",
+      "source_url": "https://www.vaticanstamps.com/philately-and-its-importance-a4906"
     }
-  ]
+  ],
+  "frankfurt": {
+    "topics": [
+      {
+        "type": "Events",
+        "emoji": "🎪",
+        "headline_en": "Düsseldorf Opera Construction Halted Amidst Funding Concerns; Frankfurt Researchers Explore Societal Divisions; Handel's 'Tancredi' Resonates with Modern German Issues",
+        "headline_de": "Düsseldorfer Opern-Baustopp: Warum Faktenchecks scheitern und Händels 'Tancredi' aktuelle Themen aufgreift",
+        "headline_easy": "Die Oper in Düsseldorf wird nicht gebaut. Frankfurter Forscher untersuchen, wie man Streit in der Gesellschaft macht. Händels Oper 'Tancredi' passt gut in die heutige Zeit.",
+        "summary_en": "The planned construction of the Düsseldorf Opera has been halted due to funding issues, raising concerns about the city's financial planning. Meanwhile, Frankfurt researchers have discovered that fact-checks can sometimes worsen societal divisions, even without fake news. At the Frankfurt Opera, a production of Handel's 'Tancredi' is being presented as a reflection of contemporary German concerns.",
+        "summary_de": "Der milliardenschwere Neubau der Düsseldorfer Oper wurde wegen fehlender Gelder gestoppt, was Fragen zur Finanzplanung aufwirft. Frankfurter Forscher fanden heraus, dass Faktenchecks Konflikte verschärfen können. An der Oper Frankfurt wird Händels 'Tancredi' als Spiegel aktueller deutscher Themen inszeniert.",
+        "summary_easy": "Die Oper in Düsseldorf wird nicht gebaut, weil das Geld fehlt. Forscher aus Frankfurt haben etwas Neues entdeckt: Fakten-Checks machen manchmal schlimmeren Streit. Die Oper Frankfurt spielt 'Tancredi', das ist wie heute.",
+        "links": [
+          {
+            "title": "Was wirklich hinter dem Bau-Stopp der Düsseldorfer Oper steckt",
+            "url": "https://www.welt.de/kultur/article6a23fba48d84dbd8a4ed6caa/zu-teuer-was-wirklich-hinter-dem-bau-stopp-der-duesseldorfer-oper-steckt.html"
+          },
+          {
+            "title": "Umfrage in den USA: Was die Spaltung der Gesellschaft verstärkt",
+            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/experiment-in-usa-weshalb-faktenchecks-die-spaltung-der-gesellschaft-verstaerken-koennen-accg-200886548.html"
+          }
+        ]
+      },
+      {
+        "type": "Crime",
+        "emoji": "🚔",
+        "headline_en": "Frankfurt Cyclist Severely Injured in Tram Collision; Other Incidents Include Family Violence, Train Accident, and Counterfeit Seizures",
+        "headline_de": "Frankfurter Radfahrer bei Straßenbahn-Kollision schwer verletzt; weitere Vorfälle von Gewalt und Plagiaten",
+        "headline_easy": "Ein Radfahrer in Frankfurt ist schwer verletzt. Ein Mann hat seinen Vater mit einem Messer verletzt. Die Polizei hat gefälschte Parfums gefunden.",
+        "summary_en": "A cyclist in Frankfurt sustained serious injuries after colliding with a tram. This incident is part of a broader live report covering various events in the Rhein-Main region, including a domestic violence case where a son injured his father with a knife, a severe accident involving a train in Fritzlar, and police confiscating counterfeit perfumes and scrap metal.",
+        "summary_de": "Ein Radfahrer in Frankfurt wurde bei einer Kollision mit einer Straßenbahn schwer verletzt. Dieser Vorfall ist Teil eines aktuellen Berichts über Ereignisse in der Rhein-Main-Region, der auch häusliche Gewalt, einen Zugunfall bei Fritzlar und die Beschlagnahmung von Plagiaten durch die Polizei umfasst.",
+        "summary_easy": "Ein Radfahrer hatte einen Unfall mit einer Straßenbahn. Er ist jetzt sehr krank. Es gab auch andere schlimme Sachen: Ein Sohn hat seinen Vater verletzt. Die Polizei hat falsche Sachen gefunden.",
+        "links": [
+          {
+            "title": "Rhein-Main-Liveblog: Frankfurt: Radfahrer nach Kollision mit Straßenbahn schwer verletzt",
+            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt-radfahrer-stoesst-mit-strassenbahn-zusammen-und-verletzt-sich-schwer-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
+          }
+        ]
+      },
+      {
+        "type": "Sales & Offers",
+        "emoji": "🛍️",
+        "headline_en": "Salary Discrepancies Based on Location Highlight Economic Differences Across Germany",
+        "headline_de": "Gehaltsunterschiede je nach Wohnort bis zu 12.000 Euro: Frankfurt im Vergleich",
+        "headline_easy": "Wo man wohnt, beeinflusst das Gehalt. In Frankfurt bekommt man mehr Geld als in manchen anderen Städten.",
+        "summary_en": "New data indicates that an individual's place of residence will significantly impact their salary by 2026, with potential differences of up to €12,000 between various German states. This highlights considerable economic disparities across the country, with locations like Frankfurt offering higher earning potential compared to others.",
+        "summary_de": "Ab 2026 wird der Wohnort das Gehalt stark beeinflussen, mit Unterschieden von bis zu 12.000 Euro zwischen verschiedenen Bundesländern. Frankfurt gehört zu den Regionen mit höheren Verdienstmöglichkeiten im Vergleich.",
+        "summary_easy": "Ab 2026 ist wichtig, wo man wohnt. Dort bekommt man dann mehr oder weniger Geld. In Frankfurt ist das Gehalt höher als anderswo.",
+        "links": [
+          {
+            "title": "Frankfurt oder Leipzig, Hessen statt Mecklenburg-Vorpommern: Ihr Wohnort entscheidet über bis zu 12.000 Euro Gehalt",
+            "url": "https://www.focus.de/finanzen/news/frankfurt-oder-leipzig-hessen-statt-mecklenburg-vorpommern-ihr-wohnort-entscheidet-ueber-bis-zu-12-000-euro-gehalt_df9c5439-3ef2-4857-a911-a0238b9c54ec.html"
+          }
+        ]
+      },
+      {
+        "type": "Local News",
+        "emoji": "📍",
+        "headline_en": "Frankfurt Cyclist Injured in Tram Accident; Geographic Salary Variations and Mobile Network Improvements Reported",
+        "headline_de": "Radfahrer bei Straßenbahn-Kollision verletzt; Gehaltsunterschiede nach Wohnort und Ausbau des Mobilfunks",
+        "headline_easy": "Ein Radfahrer hatte einen Unfall mit einer Straßenbahn in Frankfurt. Wo man wohnt, macht einen Unterschied beim Gehalt. Handys werden bald besser.",
+        "summary_en": "A cyclist in Frankfurt was seriously injured following a collision with a tram. In other local news, it's reported that salary expectations can vary by up to €12,000 depending on the German state of residence by 2026. Additionally, there are ongoing efforts by mobile network providers to close coverage gaps, with more construction occurring than officially reported.",
+        "summary_de": "Ein Radfahrer in Frankfurt wurde schwer verletzt, nachdem er mit einer Straßenbahn kollidierte. Weiterhin wird berichtet, dass das Gehalt ab 2026 stark vom Wohnort abhängen wird. Netzbetreiber bauen außerdem an mehr Standorten als offiziell gemeldet, um Funklöcher zu schließen.",
+        "summary_easy": "Ein Radfahrer hatte einen Unfall in Frankfurt. Das ist eine schlimme Nachricht. Aber es gibt auch gute Nachrichten: Das Geld, das man verdient, hängt vom Wohnort ab. Und das Internet auf dem Handy wird bald besser.",
+        "links": [
+          {
+            "title": "Rhein-Main-Liveblog: Frankfurt: Radfahrer nach Kollision mit Straßenbahn schwer verletzt",
+            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt-radfahrer-stoesst-mit-strassenbahn-zusammen-und-verletzt-sich-schwer-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
+          },
+          {
+            "title": "Frankfurt oder Leipzig, Hessen statt Mecklenburg-Vorpommern: Ihr Wohnort entscheidet über bis zu 12.000 Euro Gehalt",
+            "url": "https://www.focus.de/finanzen/news/frankfurt-oder-leipzig-hessen-statt-mecklenburg-vorpommern-ihr-wohnort-entscheidet-ueber-bis-zu-12-000-euro-gehalt_df9c5439-3ef2-4857-a911-a0238b9c54ec.html"
+          }
+        ]
+      }
+    ]
+  }
 }
