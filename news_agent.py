@@ -18,6 +18,7 @@ TELEGRAM_CHAT_ID   = os.environ["TELEGRAM_CHAT_ID"]
 ELEVENLABS_API_KEY = os.environ["ELEVENLABS_API_KEY"]
 # ── Config ────────────────────────────────────────────────────────────────────
 CATEGORIES = ["Germany", "Europe", "US", "Asia", "World"]
+FRANKFURT_TYPES = ["Events", "Crime", "Sales & Offers", "Local News"]
 NEWS_TYPES  = ["Culture", "Business", "War", "Stocks & Markets", "Technology"]
 
 CATEGORY_QUERIES = {
@@ -36,6 +37,13 @@ NEWSTYPE_QUERIES = {
     "Technology":       "technology OR AI OR tech",
 }
 
+FRANKFURT_QUERIES = {
+    "Events":       "Frankfurt events OR Veranstaltungen Frankfurt",
+    "Crime":        "Frankfurt Kriminalität OR crime Frankfurt Hessen",
+    "Sales & Offers": "Frankfurt Angebote OR sales Frankfurt OR deals Hessen",
+    "Local News":   "Frankfurt Hessen news OR Nachrichten Frankfurt",
+}
+
 EMOJI_CATEGORY = {
     "Germany": "🇩🇪", "Europe": "🇪🇺", "US": "🇺🇸",
     "Asia": "🌏", "World": "🌍"
@@ -43,6 +51,10 @@ EMOJI_CATEGORY = {
 EMOJI_TYPE = {
     "Culture": "🎭", "Business": "💼", "War": "⚔️",
     "Stocks & Markets": "📈", "Technology": "💻"
+}
+
+EMOJI_FRANKFURT = {
+    "Events": "🎪", "Crime": "🚔", "Sales & Offers": "🛍️", "Local News": "📍"
 }
 
 
@@ -91,7 +103,80 @@ def fetch_all_headlines() -> dict:
                 all_headlines[category][news_type] = []
             time.sleep(30)  # avoid hitting NewsAPI rate limit
     return all_headlines
+    
+# ── Fetch Frankfurt/Hessen headlines ─────────────────────────────────────────
+def fetch_frankfurt_headlines() -> dict:
+    frankfurt_headlines = {}
+    for news_type in FRANKFURT_TYPES:
+        print(f"  -> Fetching: Frankfurt / {news_type}...")
+        try:
+            query = FRANKFURT_QUERIES[news_type]
+            resp = requests.get("https://newsapi.org/v2/everything", params={
+                "q":        query,
+                "language": "de",
+                "sortBy":   "publishedAt",
+                "pageSize": 3,
+                "apiKey":   NEWSAPI_KEY,
+            })
+            resp.raise_for_status()
+            articles = resp.json().get("articles", [])
+            frankfurt_headlines[news_type] = [
+                {"title": a["title"], "description": a.get("description", ""), "url": a["url"]}
+                for a in articles if a.get("title") and a.get("url")
+            ]
+        except Exception as e:
+            print(f"     Warning: Frankfurt NewsAPI failed ({e})")
+            frankfurt_headlines[news_type] = []
+        time.sleep(3)
+    return frankfurt_headlines
+    
+# ── Summarize Frankfurt headlines ─────────────────────────────────────────────
+def summarize_frankfurt_with_gemini(frankfurt_headlines: dict) -> list:
+    print("  -> Summarizing Frankfurt headlines with Gemini...")
+    client = genai.Client(api_key=GEMINI_API_KEY)
 
+    headlines_block = ""
+    for news_type in FRANKFURT_TYPES:
+        articles = frankfurt_headlines.get(news_type, [])
+        if not articles:
+            continue
+        headlines_block += f"\n[Frankfurt / {news_type}]\n"
+        for a in articles:
+            headlines_block += f"  - {a['title']}: {a['description']} | {a['url']}\n"
+
+    if not headlines_block.strip():
+        return []
+
+    prompt = f"""You are a local news editor for Frankfurt am Main, Germany.
+
+{headlines_block}
+
+For EACH [Frankfurt / Topic] group, write a summary in THREE versions. Return ONLY a valid JSON array (no markdown, no backticks):
+[
+  {{
+    "news_type": "<topic>",
+    "headline_en": "<headline in English>",
+    "headline_de": "<headline in German>",
+    "headline_easy": "<headline in Easy German B1>",
+    "summary_en": "<2-3 sentence summary in English>",
+    "summary_de": "<2-3 sentence summary in German>",
+    "summary_easy": "<2-3 sentence summary in Easy German B1 — short simple sentences>",
+    "links": [
+      {{"title": "<article title>", "url": "<url>"}},
+      {{"title": "<article title>", "url": "<url>"}}
+    ]
+  }}
+]
+
+Cover every [Frankfurt / Topic] group that has at least one headline. Be factual and concise."""
+
+    raw = gemini_generate(client, prompt)
+    raw = raw.replace("```json", "").replace("```", "").strip()
+    start = raw.find("[")
+    end   = raw.rfind("]") + 1
+    if start != -1 and end > start:
+        raw = raw[start:end]
+    return json.loads(raw)
 
 # ── Step 2: Summarize ALL headlines in ONE Gemini call ───────────────────────
 def summarize_all_with_gemini(all_headlines: dict) -> dict:
@@ -327,7 +412,28 @@ def build_briefing() -> dict:
     bundestag = fetch_bundestag_summary()
     facts     = fetch_historical_facts()
 
-    return {"date": today, "sections": sections, "bundestag": bundestag, "facts": facts}
+    # Frankfurt section
+    frankfurt_headlines = fetch_frankfurt_headlines()
+    frankfurt_topics    = summarize_frankfurt_with_gemini(frankfurt_headlines)
+    frankfurt = {
+        "topics": [
+            {
+                "type":          item["news_type"],
+                "emoji":         EMOJI_FRANKFURT.get(item["news_type"], "📍"),
+                "headline_en":   item.get("headline_en", ""),
+                "headline_de":   item.get("headline_de", ""),
+                "headline_easy": item.get("headline_easy", ""),
+                "summary_en":    item.get("summary_en", ""),
+                "summary_de":    item.get("summary_de", ""),
+                "summary_easy":  item.get("summary_easy", ""),
+                "links":         item.get("links", [])[:2],
+            }
+            for item in frankfurt_topics
+            if item.get("headline_en") and item.get("summary_en")
+        ]
+    }
+
+    return {"date": today, "sections": sections, "bundestag": bundestag, "facts": facts, "frankfurt": frankfurt}
 
 
 # ── Format as plain text ──────────────────────────────────────────────────────
@@ -353,7 +459,26 @@ def format_telegram(data: dict) -> str:
                     lines.append(f"  🔗 {link['title']}")
                     lines.append(f"     {link['url']}")
         lines.append("─────────────────────────")
+        
+    # Frankfurt section
+    frankfurt = data.get("frankfurt", {})
+    frankfurt_topics = frankfurt.get("topics", [])
+    if frankfurt_topics:
+        lines.append("\n🏙️ FRANKFURT & HESSEN")
+        for topic in frankfurt_topics:
+            if not topic.get("headline_en") or not topic.get("summary_en"):
+                continue
+            lines.append(f"\n  {topic['emoji']} {topic['type'].upper()}")
+            lines.append(f"  {topic.get('headline_en', '')}")
+            lines.append(f"  {topic.get('summary_en', '')}")
+            for link in topic.get("links", []):
+                if link.get("title") and link.get("url"):
+                    lines.append(f"  🔗 {link['title']}")
+                    lines.append(f"     {link['url']}")
+        lines.append("─────────────────────────")
 
+    # Historical facts section
+    facts = data.get("facts", [])
     # Historical facts section
     facts = data.get("facts", [])
     if facts:
