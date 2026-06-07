@@ -578,30 +578,8 @@
   THE DAILY BRIEFING &nbsp;·&nbsp; GENERATED AUTOMATICALLY EVERY MORNING &nbsp;·&nbsp; ALL TIMES CET
 </footer>
 
-<!-- Mobile bottom navigation -->
-<nav class="bottom-nav">
-  <div class="bottom-nav-inner">
-    <button class="bottom-tab active" data-panel="news">
-      <span class="bottom-tab-icon">🌍</span>
-      <span class="bottom-tab-label">News</span>
-    </button>
-    <button class="bottom-tab" data-panel="bundestag">
-      <span class="bottom-tab-icon">🏛️</span>
-      <span class="bottom-tab-label">Bundestag</span>
-    </button>
-    <button class="bottom-tab" data-panel="facts">
-      <span class="bottom-tab-icon">💡</span>
-      <span class="bottom-tab-label">Facts</span>
-    </button>
-    <button class="bottom-tab" data-panel="archive">
-      <span class="bottom-tab-icon">📁</span>
-      <span class="bottom-tab-label">Archive</span>
-    </button>
-  </div>
-</nav>
-
 <script>
-  // ── Language state ────────────────────────────────────────────────────────
+// ── Language state ────────────────────────────────────────────────────────
   let currentLang = 'en';
   let currentData = null;
 
@@ -809,8 +787,9 @@
   loadToday();
   loadArchive();
 </script>
-</body>
-</html>
+
+<!-- Mobile bottom navigation -->
+<nav class="bottom-nav">
   <div class="bottom-nav-inner">
     <button class="bottom-tab active" data-panel="news">
       <span class="bottom-tab-icon">🌍</span>
@@ -830,5 +809,6 @@
     </button>
   </div>
 </nav>
+
 </body>
 </html>
