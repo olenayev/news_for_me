@@ -539,6 +539,7 @@
 <nav class="nav-bar" id="nav-bar">
   <button class="nav-tab active" data-panel="news">World News</button>
   <button class="nav-tab" data-panel="frankfurt">Frankfurt</button>
+  <button class="nav-tab" data-panel="dresden">Dresden 🏠</button>
   <button class="nav-tab" data-panel="bundestag">Bundestag</button>
   <button class="nav-tab" data-panel="facts">Historical Facts</button>
   <button class="nav-tab" data-panel="archive">Archive</button>
@@ -551,6 +552,12 @@
   <div class="section-panel active" id="panel-news">
     <div class="loading" id="news-loading">LOADING TODAY'S BRIEFING</div>
     <div id="news-content"></div>
+  </div>
+
+  <!-- Dresden panel -->
+  <div class="section-panel" id="panel-dresden">
+    <div class="loading" id="dresden-loading">LOADING DRESDEN LISTINGS</div>
+    <div id="dresden-content"></div>
   </div>
   
   <!-- Frankfurt panel -->
@@ -596,6 +603,10 @@
       <span class="bottom-tab-icon">🏙️</span>
       <span class="bottom-tab-label">Frankfurt</span>
     </button>
+    <button class="bottom-tab" data-panel="dresden">
+      <span class="bottom-tab-icon">🏠</span>
+      <span class="bottom-tab-label">Dresden</span>
+    </button>
     <button class="bottom-tab" data-panel="bundestag">
       <span class="bottom-tab-icon">🏛️</span>
       <span class="bottom-tab-label">Bundestag</span>
@@ -624,10 +635,12 @@
       if (currentData) {
         document.getElementById('news-content').innerHTML = '';
         document.getElementById('frankfurt-content').innerHTML = '';
+        document.getElementById('dresden-content').innerHTML = '';
         document.getElementById('bundestag-content').innerHTML = '';
         document.getElementById('facts-content').innerHTML = '';
         renderNews(currentData);
         renderFrankfurt(currentData);
+        renderDresden(currentData);
         renderBundestag(currentData);
         renderFacts(currentData);
       }
@@ -654,6 +667,7 @@
       currentData = await resp.json();
       renderNews(currentData);
       renderFrankfurt(currentData);
+      renderDresden(currentData);
       renderBundestag(currentData);
       renderFacts(currentData);
       document.getElementById('masthead-date').textContent = currentData.date || '';
@@ -757,6 +771,50 @@
         `).join('')}
       </div>
     `;
+  }
+  // ── Render Dresden accommodation ──────────────────────────────────────────
+  function renderDresden(data) {
+    document.getElementById('dresden-loading').style.display = 'none';
+    const container = document.getElementById('dresden-content');
+    const listings = data.dresden || [];
+
+    if (!listings.length) {
+      container.innerHTML = '<p style="color:var(--muted);font-family:\'DM Mono\',monospace;font-size:0.8rem;padding:1rem;">No Dresden listings found today under 450€.</p>';
+      return;
+    }
+
+    container.innerHTML = `
+      <div class="category-header">
+        <span class="category-flag">🏠</span>
+        <span class="category-name">Dresden Accommodation</span>
+      </div>
+      <div style="font-family:'DM Mono',monospace;font-size:0.65rem;color:var(--muted);margin-bottom:1rem;letter-spacing:0.1em;">
+        BASE RENT BELOW 450€ · SORTED BY PRICE
+      </div>
+      <div style="display:flex;flex-direction:column;gap:1rem;">
+        ${listings.map((apt, i) => `
+          <div style="border:1.5px solid var(--rule);padding:1.2rem;background:var(--paper);animation:fadeIn 0.35s ease ${i * 0.06}s both;">
+            <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:1rem;flex-wrap:wrap;">
+              <div>
+                <div style="font-family:'Playfair Display',serif;font-size:1.1rem;font-weight:700;margin-bottom:0.3rem;">
+                  ${apt.price || '?'} &nbsp;·&nbsp; ${apt.address || '?'}
+                </div>
+                <div style="font-family:'DM Mono',monospace;font-size:0.62rem;color:var(--accent);letter-spacing:0.1em;text-transform:uppercase;margin-bottom:0.5rem;">
+                  ${apt.district || ''} &nbsp;·&nbsp; ${apt.size || '?'} &nbsp;·&nbsp; ${apt.rooms || '?'} rooms
+                </div>
+                <div style="font-size:0.82rem;color:var(--muted);margin-bottom:0.8rem;">${apt.title || ''}</div>
+              </div>
+              <div style="font-family:'DM Mono',monospace;font-size:0.6rem;color:var(--muted);white-space:nowrap;">
+                ${apt.source || ''}
+              </div>
+            </div>
+            <a href="${apt.url || '#'}" target="_blank" rel="noopener"
+               style="font-family:'DM Mono',monospace;font-size:0.68rem;color:var(--gold);text-decoration:none;display:inline-flex;align-items:center;gap:0.3rem;">
+              ↗ View Listing
+            </a>
+          </div>
+        `).join('')}
+      </div>`;
   }
   // ── Render Frankfurt ──────────────────────────────────────────────────────
   function renderFrankfurt(data) {
