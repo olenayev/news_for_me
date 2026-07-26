@@ -178,6 +178,64 @@ Cover every [Frankfurt / Topic] group that has at least one headline. Be factual
         raw = raw[start:end]
     return json.loads(raw)
 
+# ── Fetch Dresden accommodation listings ──────────────────────────────────────
+def fetch_dresden_accommodation() -> list:
+    print("  -> Fetching Dresden accommodation...")
+    
+    sources = [
+        "https://www.kleinanzeigen.de/s-wohnung-mieten/dresden/c203l9174",
+        "https://www.immowelt.de/liste/dresden/wohnungen/mieten?ami=450",
+        "https://www.immoscout24.de/wohnung-mieten/dresden?pricetype=rentpermonth&maxprice=450",
+        "https://www.vonovia.de/de/immobiliensuche?city=Dresden&type=rent",
+    ]
+    
+    client = genai.Client(api_key=GEMINI_API_KEY)
+    
+    prompt = f"""You are a real estate assistant. Search for apartment rental listings in Dresden, Germany with a base rent (Kaltmiete) below 450 Euros per month.
+
+Search these websites:
+- Kleinanzeigen.de
+- Immowelt.de  
+- Immoscout24.de
+- Vonovia.de
+- WG-Gesucht.de
+- Wohnungsboerse.net
+
+Return ONLY a valid JSON array (no markdown, no backticks) with up to 6 current listings:
+[
+  {{
+    "price": "<monthly base rent in Euros, e.g. 380 €>",
+    "address": "<full street address in Dresden>",
+    "district": "<Dresden district/Stadtteil>",
+    "size": "<apartment size in m²>",
+    "rooms": "<number of rooms>",
+    "title": "<short descriptive title>",
+    "url": "<direct link to the listing>",
+    "source": "<website name e.g. Kleinanzeigen>"
+  }}
+]
+
+Requirements:
+- Base rent (Kaltmiete) must be BELOW 450 Euros
+- Location must be Dresden city
+- Only include listings with real URLs
+- Sort by price ascending (cheapest first)
+- If you cannot find real current listings, return an empty array []"""
+
+    try:
+        raw = gemini_generate(client, prompt)
+        raw = raw.replace("```json", "").replace("```", "").strip()
+        start = raw.find("[")
+        end   = raw.rfind("]") + 1
+        if start != -1 and end > start:
+            raw = raw[start:end]
+        listings = json.loads(raw)
+        print(f"     Found {len(listings)} Dresden listings")
+        return listings
+    except Exception as e:
+        print(f"     Warning: Dresden accommodation failed ({e})")
+        return []
+        
 # ── Step 2: Summarize ALL headlines in ONE Gemini call ───────────────────────
 def summarize_all_with_gemini(all_headlines: dict) -> dict:
     print("  -> Summarizing all headlines with Gemini (1 call)...")
@@ -433,7 +491,10 @@ def build_briefing() -> dict:
         ]
     }
 
-    return {"date": today, "sections": sections, "bundestag": bundestag, "facts": facts, "frankfurt": frankfurt}
+    # Dresden accommodation
+    dresden = fetch_dresden_accommodation()
+
+    return {"date": today, "sections": sections, "bundestag": bundestag, "facts": facts, "frankfurt": frankfurt, "dresden": dresden}
 
 
 # ── Format as plain text ──────────────────────────────────────────────────────
@@ -458,6 +519,17 @@ def format_telegram(data: dict) -> str:
                 if link.get("title") and link.get("url"):
                     lines.append(f"  🔗 {link['title']}")
                     lines.append(f"     {link['url']}")
+        lines.append("─────────────────────────")
+
+    # Dresden accommodation section
+    dresden = data.get("dresden", [])
+    if dresden:
+        lines.append("\n🏠 DRESDEN ACCOMMODATION (under 450€)")
+        for i, apt in enumerate(dresden, 1):
+            lines.append(f"\n  {i}. {apt.get('price', '?')} — {apt.get('address', '?')}")
+            lines.append(f"  {apt.get('size', '?')} · {apt.get('rooms', '?')} rooms · {apt.get('district', '?')}")
+            lines.append(f"  {apt.get('title', '')}")
+            lines.append(f"  🔗 {apt.get('source', '')}: {apt.get('url', '')}")
         lines.append("─────────────────────────")
         
     # Frankfurt section
