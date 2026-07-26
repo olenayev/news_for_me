@@ -8,64 +8,40 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Berlin's Drag March: Protest and Pride Unite Streets",
-          "headline_de": "Berliner Drag-Marsch: Protest und Stolz vereinen die Straßen",
-          "headline_easy": "Berlin feiert mit Drag. Es gibt Protest und Stolz.",
-          "summary_en": "Berlin recently hosted its first drag march, a vibrant event that blended protest with a celebration of pride on the city's streets. The march served as a platform for expression and community.",
-          "summary_de": "Berlin hat kürzlich seinen ersten Drag-Marsch veranstaltet, ein lebendiges Ereignis, das Protest mit einer Feier des Stolzes auf den Straßen der Stadt verband. Der Marsch diente als Plattform für Ausdruck und Gemeinschaft.",
-          "summary_easy": "Berlin hatte seinen ersten Drag-Marsch. Es war ein buntes Fest. Menschen zeigten Protest und Stolz.",
+          "headline_en": "'Lucky Lu' and Football Upsets Feature in German News",
+          "headline_de": "'Lucky Lu' und Fußball-Überraschungen in deutschen Nachrichten",
+          "headline_easy": "'Lucky Lu' und Fußball-Spiele sind wichtig.",
+          "summary_en": "German news covers a range of topics including film awards, health concerns related to AI, and surprising pre-season results for football clubs Bayern and Dortmund. These stories highlight cultural events, technological anxieties, and sporting upsets.",
+          "summary_de": "Deutsche Nachrichten berichten über verschiedene Themen, darunter Filmpreise, Gesundheitsbedenken im Zusammenhang mit KI und überraschende Ergebnisse in der Vorbereitung von Bayern und Dortmund. Diese Geschichten beleuchten kulturelle Veranstaltungen, technologische Ängste und sportliche Überraschungen.",
+          "summary_easy": "Deutsche Nachrichten sind über Filme, KI und Fußball. Bayern und Dortmund haben gegen kleinere Teams verloren. Das ist eine Überraschung.",
           "links": [
             {
-              "title": "Berlin’s first drag march brings protest and pride to the streets",
-              "url": "https://abcnews.com/International/wireStory/berlins-drag-march-brings-protest-pride-flamboyant-celebration-135076111"
-            }
-          ]
-        },
-        {
-          "type": "Business",
-          "emoji": "💼",
-          "headline_en": "Oligarch Profile: The Russian Behind Aughinish Owner Rusal",
-          "headline_de": "Oligarchen-Profil: Der Russe hinter Aughinish-Besitzer Rusal",
-          "headline_easy": "Ein Russe ist der Chef von Aughinish Rusal. Wir lernen ihn kennen.",
-          "summary_en": "An in-depth profile examines the Russian oligarch at the helm of Rusal, the owner of Aughinish. The report delves into his influence and business dealings.",
-          "summary_de": "Ein ausführliches Profil untersucht den russischen Oligarchen an der Spitze von Rusal, dem Eigentümer von Aughinish. Der Bericht befasst sich mit seinem Einfluss und seinen Geschäftsaktivitäten.",
-          "summary_easy": "Ein Artikel spricht über einen reichen Russen. Er ist der Chef von Rusal. Rusal gehört Aughinish.",
-          "links": [
+              "title": "‘Lucky Lu’ Leads Winners at MIFFest’s Malaysia Golden Global Awards",
+              "url": "https://variety.com/2026/film/festivals/lucky-lu-miffest-malaysia-golden-global-awards-winners-2026-1236820969/"
+            },
             {
-              "title": "Who is the Russian oligarch behind Aughinish owner Rusal?",
-              "url": "https://www.rte.ie/news/business/2026/0725/1584795-deripaska-profile/"
+              "title": "Cancer survivor shares number one concern for people using AI for health reasons",
+              "url": "https://www.rsvplive.ie/news/irish-news/cancer-survivor-shares-number-one-37464722/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "World's Finest Car Junkyard Explored",
-          "headline_de": "Die weltbeste Autowracker-Sammlung wird erkundet",
-          "headline_easy": "Manche Autos sind alt und kaputt. Das ist eine große Sammlung.",
-          "summary_en": "This article explores what might be considered the world's finest car junkyard, showcasing an impressive collection of vehicles. It offers a unique look at automotive history.",
-          "summary_de": "Dieser Artikel untersucht, was als die beste Autowracker-Sammlung der Welt gelten könnte und zeigt eine beeindruckende Sammlung von Fahrzeugen. Er bietet einen einzigartigen Einblick in die Automobilgeschichte.",
-          "summary_easy": "Dieser Artikel zeigt eine sehr gute Sammlung von alten Autos. Autos sind kaputt. Sie sind auf einem Platz.",
+          "headline_en": "German Markets See News on Automotive Tech and Russian Oligarchs",
+          "headline_de": "Deutsche Märkte sehen Nachrichten über Automobiltechnologie und russische Oligarchen",
+          "headline_easy": "Deutsche Märkte berichten über Autos und reiche Russen.",
+          "summary_en": "German stock and market news features developments in automotive technology, such as new engine transformations, and explores the influence of Russian oligarchs in business ownership. These reports indicate a focus on industrial innovation and international business figures.",
+          "summary_de": "Deutsche Aktien- und Marktnachrichten umfassen Entwicklungen in der Automobiltechnologie, wie z. B. neue Motorumwandlungen, und beleuchten den Einfluss russischer Oligarchen im Unternehmenseigentum. Diese Berichte deuten auf einen Fokus auf industrielle Innovationen und internationale Geschäftsfiguren hin.",
+          "summary_easy": "Deutsche Märkte sprechen über neue Motoren für Autos. Ein russischer Oligarch ist auch wichtig. Das sind wichtige Themen für Geld.",
           "links": [
             {
-              "title": "Is this the world's finest car junkyard?",
-              "url": "https://www.autocar.co.uk/car-news/slideshow/worlds-finest-car-junkyard-70"
-            }
-          ]
-        },
-        {
-          "type": "Technology",
-          "emoji": "💻",
-          "headline_en": "The Age of Enlightenment: A Look at Historical Shifts",
-          "headline_de": "Das Zeitalter der Aufklärung: Ein Blick auf historische Umwälzungen",
-          "headline_easy": "Die Aufklärung war eine wichtige Zeit in der Geschichte. Sie veränderte viel.",
-          "summary_en": "This piece delves into the historical period known as the Age of Enlightenment, examining its impact and significance. It explores the intellectual and cultural shifts that defined the era.",
-          "summary_de": "Dieser Beitrag befasst sich mit der historischen Periode, die als Zeitalter der Aufklärung bekannt ist, und untersucht ihre Auswirkungen und Bedeutung. Er beleuchtet die intellektuellen und kulturellen Veränderungen, die die Ära prägten.",
-          "summary_easy": "Es gab eine Zeit, die Aufklärung. Sie war sehr wichtig. Sie brachte viele neue Ideen.",
-          "links": [
+              "title": "The cars transformed by a new engine",
+              "url": "https://www.autocar.co.uk/car-news/slideshow/cars-transformed-new-engine-2"
+            },
             {
-              "title": "The Age of Enlightenment",
-              "url": "https://everything-everywhere.com/the-age-of-enlightenment/"
+              "title": "Who is the Russian oligarch behind Aughinish owner Rusal?",
+              "url": "https://www.rte.ie/news/business/2026/0725/1584795-deripaska-profile/"
             }
           ]
         }
@@ -78,32 +54,40 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Technology's Impact on Writing Explored",
-          "headline_de": "Der Einfluss von Technologie auf das Schreiben wird untersucht",
-          "headline_easy": "Technik ändert, wie wir schreiben. Das ist ein interessanter Artikel.",
-          "summary_en": "This article discusses how technological advancements are fundamentally changing the way we write. It explores the evolving landscape of written communication.",
-          "summary_de": "Dieser Artikel erörtert, wie technologische Fortschritte die Art und Weise, wie wir schreiben, grundlegend verändern. Er untersucht die sich entwickelnde Landschaft der schriftlichen Kommunikation.",
-          "summary_easy": "Neue Technik verändert, wie wir schreiben. Wir lesen mehr über neue Wege zu schreiben.",
+          "headline_en": "European Culture News Features Personal Stories and 80s Nostalgia",
+          "headline_de": "Europäische Kultur-Nachrichten berichten über persönliche Geschichten und 80er-Jahre-Nostalgie",
+          "headline_easy": "Europäische Kultur-Nachrichten haben Geschichten und Spaß über die 80er Jahre.",
+          "summary_en": "European culture news includes compelling personal narratives and nostalgic looks back at the 1980s, focusing on pop culture trivia. These stories offer a blend of individual experiences and collective cultural memory.",
+          "summary_de": "Europäische Kultur-Nachrichten umfassen fesselnde persönliche Erzählungen und nostalgische Rückblicke auf die 1980er Jahre, die sich auf Popkultur-Trivia konzentrieren. Diese Geschichten bieten eine Mischung aus individuellen Erfahrungen und kollektivem kulturellem Gedächtnis.",
+          "summary_easy": "Kultur-Nachrichten aus Europa erzählen Geschichten. Es gibt auch Fragen zu den 1980er Jahren. Viele Leute erinnern sich gerne an diese Zeit.",
           "links": [
             {
-              "title": "How Technology Is Rewriting the Way We Write",
-              "url": "https://www.nakedcapitalism.com/2026/07/how-technology-is-rewriting-the-way-we-write.html"
+              "title": "The cockroach who won't leave: The making of Abhijeet Dipke",
+              "url": "https://economictimes.indiatimes.com/news/india/the-cockroach-who-wont-leave-the-making-of-abhijeet-dipke/articleshow/132629148.cms"
+            },
+            {
+              "title": "The Best ’80s Trivia Questions to Test Your Memory of One of Pop Culture’s Greatest Decades",
+              "url": "https://www.mentalfloss.com/nostalgia/80s/best-80s-trivia-questions-test-memory-pop-culture-greatest-decades"
             }
           ]
         },
         {
-          "type": "Business",
-          "emoji": "💼",
-          "headline_en": "NAVER Partners with Brookfield and NVIDIA for AI Factory Expansion",
-          "headline_de": "NAVER arbeitet mit Brookfield und NVIDIA zusammen, um KI-Fabrikinfrastruktur auszubauen",
-          "headline_easy": "NAVER arbeitet mit anderen Firmen zusammen. Sie bauen mehr für KI.",
-          "summary_en": "NAVER is collaborating with Brookfield and NVIDIA to expand Korea's national AI factory infrastructure. This partnership aims to significantly boost AI development capabilities.",
-          "summary_de": "NAVER arbeitet mit Brookfield und NVIDIA zusammen, um die nationale KI-Fabrikinfrastruktur Koreas auszubauen. Diese Partnerschaft zielt darauf ab, die KI-Entwicklungskapazitäten erheblich zu steigern.",
-          "summary_easy": "NAVER macht eine neue Sache mit Brookfield und NVIDIA. Sie wollen mehr für künstliche Intelligenz (KI) bauen. Das ist gut für Korea.",
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "European War News Focuses on Ukraine Conflict and International Relations",
+          "headline_de": "Europäische Kriegsnachrichten konzentrieren sich auf den Ukraine-Konflikt und internationale Beziehungen",
+          "headline_easy": "Europäische Kriegsnachrichten über Ukraine und andere Länder.",
+          "summary_en": "European war news addresses the ongoing conflict in Ukraine, with reports discussing strikes on Russian entities and the broader implications for international order. The coverage highlights geopolitical tensions and potential war crime accusations.",
+          "summary_de": "Europäische Kriegsnachrichten befassen sich mit dem anhaltenden Konflikt in der Ukraine und berichten über Angriffe auf russische Einrichtungen sowie die allgemeineren Auswirkungen auf die Weltordnung. Die Berichterstattung hebt geopolitische Spannungen und mögliche Kriegsverbrechen hervor.",
+          "summary_easy": "Kriegsnachrichten in Europa sprechen über die Ukraine. Es gibt Angriffe in Russland. Das ist eine wichtige Nachricht über Krieg.",
           "links": [
             {
-              "title": "NAVER Partners with Brookfield and NVIDIA to Expand Korea's National AI Factory Infrastructure Buildout",
-              "url": "https://www.prnewswire.com/news-releases/naver-partners-with-brookfield-and-nvidia-to-expand-koreas-national-ai-factory-infrastructure-buildout-302834577.html"
+              "title": "Why Ukraine’s strikes on Russia’s Amazon reek of war crimes",
+              "url": "https://www.rt.com/russia/643465-ukraines-strikes-russia-wildberries/"
+            },
+            {
+              "title": "The Hegemon’s Escape: Why America is blowing up its own world order",
+              "url": "https://i-epikaira.blogspot.com/2026/07/the-hegemons-escape-why-america-is.html"
             }
           ]
         }
@@ -114,50 +98,38 @@
       "emoji": "🇺🇸",
       "topics": [
         {
-          "type": "Business",
-          "emoji": "💼",
-          "headline_en": "US to Lift Ban on Mexican Cattle Imports",
-          "headline_de": "USA heben Einfuhrverbot für mexikanisches Vieh auf",
-          "headline_easy": "Die USA erlauben wieder Vieh aus Mexiko.",
-          "summary_en": "The United States has announced it will lift its ban on importing cattle from Mexico. This decision is expected to impact trade relations and the agricultural sector.",
-          "summary_de": "Die Vereinigten Staaten haben angekündigt, ihr Einfuhrverbot für Rinder aus Mexiko aufzuheben. Diese Entscheidung wird voraussichtlich Handelsbeziehungen und den Agrarsektor beeinflussen.",
-          "summary_easy": "Die USA dürfen jetzt wieder Rinder aus Mexiko kaufen. Das ist eine wichtige Nachricht für die Wirtschaft.",
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "US Culture News Centers on Political Figures, Investments, and Events",
+          "headline_de": "US-Kultur-Nachrichten drehen sich um politische Figuren, Investitionen und Veranstaltungen",
+          "headline_easy": "US-Kultur hat Nachrichten über Politik und Geld.",
+          "summary_en": "US culture news covers political commentary surrounding Donald Trump and events like the White House Correspondents' Dinner, alongside personal financial stories and significant development projects. These headlines reflect a focus on prominent figures and societal issues.",
+          "summary_de": "US-Kultur-Nachrichten decken politische Kommentare rund um Donald Trump und Veranstaltungen wie das White House Correspondents' Dinner ab, daneben persönliche Finanzgeschichten und bedeutende Entwicklungsprojekte. Diese Schlagzeilen spiegeln einen Fokus auf herausragende Persönlichkeiten und gesellschaftliche Themen wider.",
+          "summary_easy": "Kultur-Nachrichten in den USA sprechen über Donald Trump. Es gibt auch Nachrichten über Geld und Bauprojekte. Das sind wichtige Themen für viele Leute.",
           "links": [
             {
-              "title": "US says it will lift ban on imports of Mexican cattle",
-              "url": "https://www.thehindubusinessline.com/news/world/us-says-it-will-lift-ban-on-imports-of-mexican-cattle/article71265281.ece"
-            }
-          ]
-        },
-        {
-          "type": "War",
-          "emoji": "⚔️",
-          "headline_en": "US Weighs Harder Iran Strikes Amidst Houthi Attacks",
-          "headline_de": "USA erwägen härtere Angriffe auf den Iran inmitten von Houthi-Angriffen",
-          "headline_easy": "Die USA denken über stärkere Angriffe auf den Iran nach. Houthi greifen an.",
-          "summary_en": "The US is reportedly considering more forceful strikes against Iran, as Houthi forces claim responsibility for attacks on Saudi Arabia. The situation highlights regional tensions.",
-          "summary_de": "Die USA erwägen angeblich härtere Angriffe auf den Iran, während die Houthi-Kräfte Angriffe auf Saudi-Arabien für sich beanspruchen. Die Situation verdeutlicht regionale Spannungen.",
-          "summary_easy": "Houthi greifen Saudi-Arabien an. Die USA denken über harte Schläge gegen den Iran nach. Die Lage ist angespannt.",
-          "links": [
+              "title": "A Fight Over Dirt Spans Two of Trump’s Controversial D.C. Projects - WSJ",
+              "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184683036"
+            },
             {
-              "title": "Houthis say hit Saudi Arabia as Trump weighs harder Iran strikes",
-              "url": "https://www.hurriyetdailynews.com/houthis-say-hit-saudi-arabia-as-trump-weighs-harder-iran-strikes-224781"
+              "title": "I was desperate to turn my inheritance into a real fortune. But I've made a devastating investment mistake... and my family is horrified",
+              "url": "https://www.dailymail.com/yourmoney/article-15811093/invested-inheritance-mistake-family.html"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Oligarch Profile: The Russian Behind Aughinish Owner Rusal",
-          "headline_de": "Oligarchen-Profil: Der Russe hinter Aughinish-Besitzer Rusal",
-          "headline_easy": "Ein Russe ist der Chef von Aughinish Rusal. Wir lernen ihn kennen.",
-          "summary_en": "An in-depth profile examines the Russian oligarch at the helm of Rusal, the owner of Aughinish. The report delves into his influence and business dealings.",
-          "summary_de": "Ein ausführliches Profil untersucht den russischen Oligarchen an der Spitze von Rusal, dem Eigentümer von Aughinish. Der Bericht befasst sich mit seinem Einfluss und seinen Geschäftsaktivitäten.",
-          "summary_easy": "Ein Artikel spricht über einen reichen Russen. Er ist der Chef von Rusal. Rusal gehört Aughinish.",
+          "headline_en": "US Markets See AI Boom, Global Order Discussions, and Culinary Tips",
+          "headline_de": "US-Märkte sehen KI-Boom, Diskussionen über Weltordnung und kulinarische Tipps",
+          "headline_easy": "US-Märkte haben KI, Welt-Nachrichten und Essen-Tipps.",
+          "summary_en": "US stocks and markets news covers the impact of the AI boom on global wealth, discussions on America's role in the world order, and surprisingly, culinary advice on cooking lettuce. These varied reports reflect diverse economic and lifestyle trends.",
+          "summary_de": "US-Aktien- und Marktnachrichten umfassen die Auswirkungen des KI-Booms auf den globalen Wohlstand, Diskussionen über Amerikas Rolle in der Weltordnung und überraschenderweise kulinarische Ratschläge zum Kochen von Salat. Diese vielfältigen Berichte spiegeln unterschiedliche Wirtschafts- und Lifestyle-Trends wider.",
+          "summary_easy": "US-Märkte berichten über KI und die Welt. KI macht viele Länder reich. Es gibt auch Tipps zum Kochen. Das ist interessant für Geld.",
           "links": [
             {
-              "title": "Who is the Russian oligarch behind Aughinish owner Rusal?",
-              "url": "https://www.rte.ie/news/analysis-and-comment/2026/0725/1584795-deripaska-profile/"
+              "title": "Yes, you can cook your lettuce — and it’s delicious",
+              "url": "https://www.salon.com/2026/07/25/yes-you-can-cook-your-lettuce-and-its-delicious/"
             }
           ]
         }
@@ -170,48 +142,36 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "India News: Education Minister Resigns Amidst Protest",
-          "headline_de": "Indien-Nachrichten: Bildungsminister tritt nach Protest zurück",
-          "headline_easy": "Ein Minister in Indien ist zurückgetreten. Es gab Proteste.",
-          "summary_en": "Education Minister Dharmendra Pradhan has resigned following protests in India. The article touches upon various developments in the country, including economic shifts.",
-          "summary_de": "Bildungsminister Dharmendra Pradhan ist nach Protesten in Indien zurückgetreten. Der Artikel berührt verschiedene Entwicklungen im Land, darunter wirtschaftliche Veränderungen.",
-          "summary_easy": "Ein Minister in Indien ist zurückgetreten. Das ist eine wichtige Nachricht. Es gibt auch andere Nachrichten aus Indien.",
+          "headline_en": "Asian Culture News Celebrates Legacies, Space Missions, and International Politics",
+          "headline_de": "Asiatische Kultur-Nachrichten feiern Vermächtnisse, Weltraummissionen und internationale Politik",
+          "headline_easy": "Asiatische Kultur hat Nachrichten über Geburtstage, Weltraum und Politik.",
+          "summary_en": "Asian culture news spans diverse topics from celebrating significant anniversaries and advancements in space technology to political commentary on international relations. This mix reflects a broad engagement with history, innovation, and global affairs.",
+          "summary_de": "Asiatische Kultur-Nachrichten decken vielfältige Themen ab, von der Feier bedeutender Jubiläen und Fortschritte in der Weltraumtechnologie bis hin zu politischen Kommentaren zu internationalen Beziehungen. Diese Mischung spiegelt ein breites Engagement mit Geschichte, Innovation und globalen Angelegenheiten wider.",
+          "summary_easy": "Kultur-Nachrichten aus Asien sprechen über wichtige Personen und den Weltraum. Es gibt auch Nachrichten über Politik zwischen Ländern. Das sind interessante Themen.",
           "links": [
             {
-              "title": "India news: 'Cockroaches' end protest after Education Minister Dharmendra Pradhan resigns",
-              "url": "https://www.dw.com/en/india-news-cockroaches-end-protest-after-education-minister-dharmendra-pradhan-resigns/live-78108089"
-            }
-          ]
-        },
-        {
-          "type": "Business",
-          "emoji": "💼",
-          "headline_en": "Maruti Suzuki Increases Car Prices by Rs 30,000",
-          "headline_de": "Maruti Suzuki erhöht die Autopreise um 30.000 Rupien",
-          "headline_easy": "Autos von Maruti Suzuki sind jetzt teurer. Sie kosten 30.000 Rupien mehr.",
-          "summary_en": "Maruti Suzuki has announced a price hike of Rs 30,000 for its cars, explaining the reasons behind the increased costs. This impacts consumers looking to purchase vehicles.",
-          "summary_de": "Maruti Suzuki hat eine Preiserhöhung von 30.000 Rupien für seine Autos angekündigt und die Gründe für die gestiegenen Kosten erläutert. Dies wirkt sich auf Verbraucher aus, die Fahrzeuge kaufen möchten.",
-          "summary_easy": "Maruti Suzuki verkauft Autos. Die Autos sind jetzt teurer. Sie kosten 30.000 Rupien mehr.",
-          "links": [
+              "title": "Lady Keane Turns 91: “Building Tomorrow With Legacy Of Excellence”",
+              "url": "https://southasiaviews.com/featured/lady-keane-turns-91-building-tomorrow-with-legacy-of-excellence/"
+            },
             {
-              "title": "Rs 30,000 hike: Why Maruti Suzuki had to make cars costlier for you",
-              "url": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/rs-30000-hike-why-maruti-suzuki-had-to-make-cars-costlier-for-you/articleshow/132620495.cms"
+              "title": "(g+) Tech Asia: Inside Taiwan's most ambitious space mission yet",
+              "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Ftech-asia-inside-taiwan-s-most-ambitious-space-mission-yet-2607-211275.html&referer=https%3A%2F%2Ft.co%2F1fe53aa63b"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Indian Stock Market Sees Significant Drop; AI Swings Affect Funds",
-          "headline_de": "Indischer Aktienmarkt verzeichnet deutlichen Rückgang; KI-Schwankungen beeinflussen Fonds",
-          "headline_easy": "Der Aktienmarkt in Indien ist gefallen. KI macht die Märkte unsicher.",
-          "summary_en": "India's Sensex index has seen a substantial decline of over 2,000 points in five days, raising concerns about market stability. Meanwhile, big Asian stock funds are adjusting strategies due to AI-driven volatility.",
-          "summary_de": "Der Sensex-Index in Indien ist innerhalb von fünf Tagen um über 2.000 Punkte gefallen, was Bedenken hinsichtlich der Marktstabilität aufkommen lässt. Unterdessen passen große asiatische Aktienfonds ihre Strategien aufgrund KI-bedingter Volatilität an.",
-          "summary_easy": "Die Börse in Indien ist gefallen. Viele Punkte sind weg. Fonds passen auf, weil KI die Preise ändert.",
+          "headline_en": "Asian Markets Highlight Robotics, Global Order, and AI's Impact",
+          "headline_de": "Asiatische Märkte beleuchten Robotik, Weltordnung und KI-Auswirkungen",
+          "headline_easy": "Asiatische Märkte haben Roboter, die Welt und KI.",
+          "summary_en": "Asian stocks and markets news features advanced robotics in manufacturing, global power dynamics, and the profound impact of AI on wealth distribution. These reports indicate a forward-looking perspective on industrial automation and economic shifts.",
+          "summary_de": "Asiatische Aktien- und Marktnachrichten präsentieren fortschrittliche Robotik in der Fertigung, globale Machtdynamiken und die tiefgreifenden Auswirkungen von KI auf die Wohlstandsverteilung. Diese Berichte deuten auf eine zukunftsorientierte Perspektive auf industrielle Automatisierung und wirtschaftliche Veränderungen hin.",
+          "summary_easy": "Märkte in Asien sprechen über Roboter, die Welt und KI. KI hilft, dass manche Länder reicher werden. Roboter machen auch wichtige Dinge.",
           "links": [
             {
-              "title": "Sensex sinks over 2,000 points in 5 days. How scary do the charts look for next week?",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-sinks-over-2000-points-in-5-days-how-scary-do-the-charts-look-for-next-week/articleshow/132619248.cms"
+              "title": "Inside On’s tech lab, where robots build running shoes in 3 minutes and can eliminate up to 300 hours of human work",
+              "url": "https://fortune.com/article/on-running-technology-footwear-running-shoe-swiss-manufacturing/"
             }
           ]
         }
@@ -224,64 +184,60 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Animation and Pop Culture News: 'Is Nemo in Coco?' and Masters of the Universe",
-          "headline_de": "Animations- und Popkultur-Nachrichten: 'Ist Nemo in Coco?' und Masters of the Universe",
-          "headline_easy": "Es gibt Neuigkeiten über Filme und Serien. Zum Beispiel über Nemo und She-Ra.",
-          "summary_en": "This section covers diverse cultural topics, including a question about the character Nemo in the film 'Coco' and costume details from 'Masters of the Universe'. It also includes sports news about a para powerlifting event.",
-          "summary_de": "Dieser Abschnitt behandelt verschiedene kulturelle Themen, darunter eine Frage zum Charakter Nemo im Film 'Coco' und Kostümdetails aus 'Masters of the Universe'. Er enthält auch Sportnachrichten über eine Para-Powerlifting-Veranstaltung.",
-          "summary_easy": "Es gibt Nachrichten über Filme. Eine Frage ist: Ist Nemo in Coco? Es gibt auch Nachrichten über She-Ra. Und Nachrichten über Sport.",
+          "headline_en": "Global Culture News Features Sports, Politics, and Personal Adventures",
+          "headline_de": "Weltweite Kultur-Nachrichten mit Sport, Politik und persönlichen Abenteuern",
+          "headline_easy": "Weltweite Kultur hat Nachrichten über Sport, Politik und Reisen.",
+          "summary_en": "World culture news encompasses a wide array of topics, including Formula 1 racing updates, golf tournament results, and political commentary involving LeBron James and Donald Trump. Personal travel experiences, like safaris, also feature prominently.",
+          "summary_de": "Weltweite Kultur-Nachrichten umfassen eine breite Palette von Themen, darunter Updates zur Formel-1-Rennsport, Ergebnisse von Golfturnieren und politische Kommentare zu LeBron James und Donald Trump. Persönliche Reiseerlebnisse wie Safaris sind ebenfalls prominent vertreten.",
+          "summary_easy": "Kultur-Nachrichten aus der Welt handeln von Sport und Politik. Es gibt Nachrichten über Formel 1 und Golf. Auch Reisen und Donald Trump sind wichtig.",
           "links": [
             {
-              "title": "Is Nemo in Coco?",
-              "url": "https://www.lifesciencesworld.com/is-nemo-in-coco/"
-            }
-          ]
-        },
-        {
-          "type": "Business",
-          "emoji": "💼",
-          "headline_en": "Health Warning: Expanding Waistline Linked to Health Risks",
-          "headline_de": "Gesundheitswarnung: Wachsender Taillenumfang ist mit Gesundheitsrisiken verbunden",
-          "headline_easy": "Ein dicker Bauch ist schlecht für die Gesundheit. Man sollte aufpassen.",
-          "summary_en": "A health warning highlights that an expanding waistline is a significant indicator of potential health risks. The article advises on the importance of monitoring one's health.",
-          "summary_de": "Eine Gesundheitswarnung hebt hervor, dass ein wachsender Taillenumfang ein bedeutender Indikator für potenzielle Gesundheitsrisiken ist. Der Artikel rät zur Bedeutung der Gesundheitsüberwachung.",
-          "summary_easy": "Ein dicker Bauch ist ein Warnzeichen für die Gesundheit. Man muss auf seinen Körper achten. Das ist wichtig.",
-          "links": [
+              "title": "Alonso explains how the impact of Aston Martin’s upgrades go further than Hungarian GP qualifying breakthrough",
+              "url": "https://www.autosport.com/f1/news/fernando-alonso-f1-hungarian-gp-an-important-lift-for-aston-martin/10841814/"
+            },
             {
-              "title": "Your expanding waistline is health warning sign",
-              "url": "https://www.vanguardngr.com/2026/07/your-expanding-waistline-is-health-warning-sign/"
-            }
-          ]
-        },
-        {
-          "type": "War",
-          "emoji": "⚔️",
-          "headline_en": "Liverpool Eying Salah Successor; Mourinho's Real Madrid",
-          "headline_de": "Liverpool erwägt Salah-Nachfolger; Mourinhos Real Madrid",
-          "headline_easy": "Fußball: Liverpool sucht einen neuen Spieler. Trainer Mourinho ist bei Real Madrid.",
-          "summary_en": "This section features sports news, including Liverpool's potential interest in a successor for Mohamed Salah and insights into Jose Mourinho's early days at Real Madrid. It also includes a health-related article.",
-          "summary_de": "Dieser Abschnitt enthält Sportnachrichten, darunter das potenzielle Interesse von Liverpool an einem Nachfolger für Mohamed Salah und Einblicke in die frühen Tage von Jose Mourinho bei Real Madrid. Er enthält auch einen gesundheitsbezogenen Artikel.",
-          "summary_easy": "Es gibt Nachrichten über Fußball. Liverpool will einen neuen Spieler. Trainer Mourinho ist nun bei Real Madrid.",
-          "links": [
-            {
-              "title": "Liverpool eyeing move for £77m Mohamed Salah successor",
-              "url": "https://www.anfieldwatch.co.uk/liverpool-fc/news/liverpool-eyeing-move-for-ps77m-mohamed-salah-successor/"
+              "title": "Record Breaking 59 Vaults Michael Kim Into Lead At 3M Open",
+              "url": "https://www.forbes.com/sites/mikefore/2026/07/25/record-breaking-59-vaults-michael-kim-into-lead-at-3m-open/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Tencent Uses AI for Cultural Heritage; Psychedelic Rave Investigation",
-          "headline_de": "Tencent nutzt KI für Kulturerbe; Ermittlungen nach Rave",
-          "headline_easy": "Tencent nutzt Technik für alte Dinge. Auf einem Rave gab es einen Unfall.",
-          "summary_en": "Tencent is leveraging AI and games to preserve cultural heritage at a new UNESCO site, while a separate report details a police investigation following a death at a psychedelic rave in Australia.",
-          "summary_de": "Tencent nutzt KI und Spiele, um Kulturerbe an einem neuen UNESCO-Standort zu erhalten, während ein separater Bericht eine polizeiliche Untersuchung nach einem Todesfall auf einem psychedelischen Rave in Australien detailliert beschreibt.",
-          "summary_easy": "Tencent nutzt Computer für alte Sachen. Das hilft, die Kultur zu bewahren. Ein Mann ist auf einer Feier gestorben. Die Polizei untersucht das.",
+          "headline_en": "Global Markets See AI Advancements, Political Clashes, and Tech Reviews",
+          "headline_de": "Weltweite Märkte sehen KI-Fortschritte, politische Auseinandersetzungen und Tech-Reviews",
+          "headline_easy": "Weltweite Märkte haben KI, Politik und Technik.",
+          "summary_en": "Global stocks and markets news covers advancements in AI computing, political commentary from US figures, and reviews of technology like smartwatches. This mix reflects a focus on technological innovation, political discourse, and consumer tech.",
+          "summary_de": "Weltweite Aktien- und Marktnachrichten umfassen Fortschritte im KI-Computing, politische Kommentare von US-Persönlichkeiten und Testberichte über Technologie wie Smartwatches. Diese Mischung spiegelt einen Fokus auf technologische Innovation, politischen Diskurs und Verbrauchertechnologie wider.",
+          "summary_easy": "Märkte weltweit sprechen über KI und Politik. KI ist wichtig für die Technik. Es gibt auch Nachrichten über Smartwatches. Das ist gut für Geld.",
           "links": [
             {
-              "title": "Tencent Brings Together AI and Games to Help Preserve and Share Cultural Heritage of New UNESCO Site in Jingdezhen",
-              "url": "https://www.prnewswire.com/news-releases/tencent-brings-together-ai-and-games-to-help-preserve-and-share-cultural-heritage-of-new-unesco-site-in-jingdezhen-302834576.html"
+              "title": "Ilhan Omar Hits ‘Idiot’ Trump Back With 3-Sentence Burn To Correspondents' Dinner Ramble",
+              "url": "https://www.huffpost.com/entry/ilhan-omar-donald-trump-white-house-correspondents-dinner-low-iq_n_6a64d480e4b0bd608d2b95e4"
+            },
+            {
+              "title": "AMD targets physical AI computing with integrated platform for robotics and autonomous systems",
+              "url": "https://siliconangle.com/2026/07/25/physical-ai-computing-amdadvancingai/"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "Global Technology News Features Concerts, Adventures, and Boxing",
+          "headline_de": "Weltweite Technologie-Nachrichten mit Konzerten, Abenteuern und Boxen",
+          "headline_easy": "Weltweite Technik hat Nachrichten über Musik, Reisen und Sport.",
+          "summary_en": "World technology news covers diverse topics including music tours, travel adventures, and professional boxing matches. This broad scope suggests technology's integration into entertainment, leisure, and sports.",
+          "summary_de": "Weltweite Technologie-Nachrichten umfassen vielfältige Themen, darunter Musik-Tourneen, Reiseabenteuer und professionelle Boxkämpfe. Dieser breite Umfang deutet auf die Integration von Technologie in Unterhaltung, Freizeit und Sport hin.",
+          "summary_easy": "Technik-Nachrichten aus der Welt sprechen über Konzerte und Reisen. Es gibt auch Nachrichten über Boxen. Technologie ist in vielen Dingen wichtig.",
+          "links": [
+            {
+              "title": "Karol G Kicks Off “Tropitour” World Stadium Tour With Hits-Heavy Chicago Concert",
+              "url": "https://consequence.net/2026/07/karol-g-kicks-off-tropitour-tour/"
+            },
+            {
+              "title": "I took my husband on an epic safari adventure for his 50th birthday. It cost less than expected, and we had a blast",
+              "url": "https://biztoc.com/x/d48cefa06af4b3a1"
             }
           ]
         }
@@ -292,27 +248,27 @@
     "wahlperiode": 21,
     "sitzung": 90,
     "url": "https://dserver.bundestag.de/btp/21/21090.pdf",
-    "summary_en": "On Friday, July 10, 2026, the German Bundestag convened for its 90th session of the 21st legislative period. The session began with birthday greetings for MP Robin Jünger. The agenda primarily focused on health policy and economic stabilization. A key item was the second and third reading of the government's draft law to stabilize contribution rates in statutory health insurance (GKV-Beitragssatzstabilisierungsgesetz). This was followed by discussions and recommendations from the Health Committee on various AfD motions regarding the acute crisis in statutory health insurance, securing outpatient medical care, and strengthening rural healthcare. The Greens also proposed motions to relieve contributors and businesses by lowering health insurance contributions. The Left party proposed similar measures to alleviate the burden on insured individuals. The Health Committee also presented recommendations on a Green party motion to introduce a manufacturer levy on sugary drinks. Another significant discussion involved a motion by the AfD calling for genuine reforms to counter the crisis in Germany's economic Standort. Opposition parties, including the AfD, criticized the government's economic policies, while the governing parties defended their approach. The session also included debates on amendments to the Building Energy Act and related infrastructure laws.",
-    "summary_de": "Am Freitag, den 10. Juli 2026, trat der Deutsche Bundestag zur 90. Sitzung der 21. Wahlperiode zusammen. Die Sitzung begann mit Glückwünschen zum Geburtstag des Abgeordneten Robin Jünger. Die Tagesordnung konzentrierte sich hauptsächlich auf Gesundheitspolitik und Wirtschaftsstabilisierung. Ein zentraler Punkt war die zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung. Darauf folgten Beratungen und Beschlussempfehlungen des Ausschusses für Gesundheit zu verschiedenen Anträgen der AfD bezüglich der akuten Not der gesetzlichen Krankenversicherung, der Sicherung der ambulanten ärztlichen Versorgung und der Stärkung der ärztlichen Versorgung in ländlichen Regionen. Die Grünen schlugen Anträge vor, um Beitragszahlende und Betriebe durch Senkung der Krankenkassenbeiträge zu entlasten. Die Fraktion Die Linke forderte ebenfalls Entlastungen für Versicherte. Der Ausschuss für Gesundheit präsentierte zudem Beschlussempfehlungen zu einem Antrag der Grünen zur Einführung einer Herstellerabgabe auf zuckergesüßte Getränke. Eine weitere bedeutende Debatte betraf einen Antrag der AfD zur wirksamen Entgegentretung der Krise des Wirtschaftsstandorts Deutschland. Oppositionsparteien, darunter die AfD, kritisierten die Wirtschaftspolitik der Regierung, während die Regierungsparteien ihren Ansatz verteidigten. Die Sitzung beinhaltete auch Beratungen zu Gesetzesänderungen im Gebäudebereich und zugehöriger Infrastruktur.",
-    "summary_easy": "Am Freitag, den 10. Juli 2026, gab es eine Sitzung im Bundestag. Zuerst gratulierten die Abgeordneten Robin Jünger zum Geburtstag. Dann sprachen sie über die Gesundheit. Sie berieten über ein Gesetz, das die Beiträge für die Krankenkasse stabil halten soll. Die AfD stellte mehrere Anträge für die Gesundheit. Sie wollen die Krankenkassen und die Ärzte besser machen. Die Grünen wollten, dass die Krankenkassenbeiträge sinken. Die Linke stimmte dem zu. Es gab auch einen Vorschlag für eine Steuer auf zuckerhaltige Getränke. Die AfD sprach auch über die Wirtschaft in Deutschland. Sie finden, dass es der Wirtschaft nicht gut geht und wollen Änderungen. Zum Schluss wurde auch über ein Gesetz zum Heizen und zur Energie gesprochen.",
+    "summary_en": "On Friday, July 10, 2026, the German Bundestag convened for its 90th session of the 21st legislative period. The session began with birthday greetings for Member of Parliament Robin Jünger. The agenda was then expanded and organized. Several procedural points were raised, with contributions from Steffen Bilger (CDU/CSU), Marc Bernhard (AfD), Dirk Wiese (SPD), Dr. Irene Mihalic (BÜNDNIS 90/DIE GRÜNEN), and Ina Latendorf (Die Linke). A major item was the second and third reading of the government's draft bill to stabilize contribution rates in statutory health insurance (GKV-Beitragssatzstabilisierungsgesetz). This was followed by a series of debates and recommendations from the Health Committee concerning various motions. The AfD proposed motions to alleviate the acute crisis in statutory health insurance and make outpatient medical care future-proof. The Greens put forward a motion to lower health insurance contributions for contributors and businesses, while Die Linke also called for the relief of insured individuals. The Bundestag also debated a Green Party proposal to introduce a manufacturer levy on sugar-sweetened beverages. Furthermore, a motion by the Greens to structurally strengthen psychotherapeutic care was discussed. The session also included a debate on an AfD motion addressing the crisis in Germany's economic location. Finally, a draft law to amend the Building Energy Act, the Building Electromobility Infrastructure Act, and other regulations in the heating sector was addressed.",
+    "summary_de": "Am Freitag, dem 10. Juli 2026, trat der Deutsche Bundestag zu seiner 90. Sitzung der 21. Wahlperiode zusammen. Die Sitzung begann mit Glückwünschen zum Geburtstag des Abgeordneten Robin Jünger. Anschließend wurde die Tagesordnung erweitert und gegliedert. Mehrere Anträge zur Geschäftsordnung wurden von Steffen Bilger (CDU/CSU), Marc Bernhard (AfD), Dirk Wiese (SPD), Dr. Irene Mihalic (BÜNDNIS 90/DIE GRÜNEN) und Ina Latendorf (Die Linke) eingebracht. Ein zentraler Tagesordnungspunkt war die zweite und dritte Beratung des von der Bundesregierung vorgelegten Entwurfs eines Gesetzes zur Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung. Darauf folgten eine Reihe von Beratungen und Beschlussempfehlungen des Ausschusses für Gesundheit zu verschiedenen Anträgen. Die AfD legte Anträge zur Linderung der akuten Not der gesetzlichen Krankenversicherung und zur Zukunftssicherung der ambulanten ärztlichen Versorgung vor. Die Grünen brachten einen Antrag zur Senkung der Krankenkassenbeiträge für Beitragszahlende und Betriebe ein, während auch Die Linke eine Entlastung der Versicherten forderte. Des Weiteren wurde ein Antrag der Grünen zur Einführung einer Herstellerabgabe auf zuckergesüßte Getränke debattiert. Ferner stand ein Antrag der Grünen zur strukturellen Stärkung der psychotherapeutischen Versorgung zur Diskussion. Die Sitzung beinhaltete auch eine Debatte über einen Antrag der AfD zur Krise des Wirtschaftsstandorts Deutschland. Abschließend wurde ein Gesetzentwurf zur Änderung des Gebäudeenergiegesetzes, des Gebäude-Elektromobilitätsinfrastruktur-Gesetzes und weiterer Vorschriften im Wärmebereich behandelt.",
+    "summary_easy": "Am Freitag, dem 10. Juli 2026, war der Bundestag zu einer Sitzung. Zuerst gratulierte man einem Abgeordneten zum Geburtstag. Dann wurde die Liste der Themen für die Sitzung geändert. Politiker von CDU, AfD, SPD, Grünen und Linken sprachen über Regeln. Ein wichtiges Thema war ein Gesetz für die Krankenkassen. Dieses Gesetz soll die Beiträge stabil halten. Es gab viele Anträge von Parteien. Die AfD wollte die Krankenkassen und Ärzte besser machen. Die Grünen und Die Linke wollten, dass Versicherte weniger bezahlen. Auch ein Antrag für zuckerhaltige Getränke wurde besprochen. Ein weiteres Thema war die psychische Gesundheit. Es gab auch eine Debatte über Deutschlands Wirtschaft. Zum Schluss sprach man über ein Gesetz für Gebäude und Wärme.",
     "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact_en": "During the French Revolution, the fashion of wearing a red ribbon tied around the neck became a subtle but powerful symbol of solidarity with the condemned. It was a way for people to show their support for the victims of the guillotine without openly defying the revolutionary government, and it became a widespread, albeit morbid, trend.",
-      "fact_de": "Während der Französischen Revolution wurde das Tragen eines roten Bandes um den Hals zu einem subtilen, aber wirkungsvollen Symbol der Solidarität mit den Verurteilten. Es war eine Möglichkeit für die Menschen, ihre Unterstützung für die Opfer der Guillotine zu zeigen, ohne offen gegen die revolutionäre Regierung zu verstoßen, und es entwickelte sich zu einem weit verbreiteten, wenn auch makabren, Trend.",
-      "fact_easy": "Während der Französischen Revolution trugen Menschen ein rotes Band am Hals. Das war ein Zeichen für die Opfer der Guillotine. Es war eine geheime Unterstützung.",
+      "fact_en": "The iconic high heels worn by men in Persian armies were not just for show; they were practical tools for cavalry. The heels helped secure the rider's feet in stirrups, allowing for better balance and control during combat and archery from horseback.",
+      "fact_de": "Die ikonischen High Heels, die von Männern in persischen Armeen getragen wurden, waren nicht nur zur Zierde da, sondern praktische Werkzeuge für Kavallerie. Die Absätze halfen, die Füße des Reiters in Steigbügeln zu fixieren, was eine bessere Balance und Kontrolle während des Kampfes und des Bogenschießens vom Pferd aus ermöglichte.",
+      "fact_easy": "Männer in alten persischen Armeen trugen hohe Schuhe. Diese Schuhe halfen den Reitern, besser auf dem Pferd zu sitzen. Sie konnten so besser kämpfen und schießen.",
       "category": "Fashion",
-      "source_title": "The Crimson Ribbon: A Revolutionary Symbol",
-      "source_url": "https://www.napoleon.org/en/magazine/books/reviews/history/the-crimson-ribbon-a-revolutionary-symbol/"
+      "source_title": "The surprising history of high heels – and why men wore them first",
+      "source_url": "https://www.nationalgeographic.com/history/article/history-of-high-heels-mens-fashion"
     },
     {
-      "fact_en": "In the early days of the United States, it was common for politicians, especially those in the South, to wear brightly colored silk stockings. This tradition, inherited from European aristocracy, was seen as a sign of refinement and status, and even some revolutionary leaders like Thomas Jefferson were known to favor them.",
-      "fact_de": "In den frühen Tagen der Vereinigten Staaten war es für Politiker, insbesondere im Süden, üblich, bunt gefärbte Seidenstrümpfe zu tragen. Diese Tradition, die von der europäischen Aristokratie übernommen wurde, galt als Zeichen von Raffinesse und Status, und sogar einige Revolutionsführer wie Thomas Jefferson waren dafür bekannt.",
-      "fact_easy": "Früher in Amerika trugen Politiker bunte Seidenstrümpfe. Das war wie in Europa bei reichen Leuten. Thomas Jefferson mochte diese Strümpfe auch.",
+      "fact_en": "In ancient Rome, purple dye was so rare and expensive, derived from thousands of sea snails, that only the wealthiest citizens and emperors could afford it. This led to the color being strongly associated with royalty, power, and divinity, becoming a symbol of status.",
+      "fact_de": "Im antiken Rom war Purpurfarbe so selten und teuer, gewonnen aus Tausenden von Meeresschnecken, dass nur die reichsten Bürger und Kaiser sie sich leisten konnten. Dies führte dazu, dass die Farbe stark mit Königtum, Macht und Göttlichkeit assoziiert wurde und zu einem Statussymbol wurde.",
+      "fact_easy": "In alten Rom war die Farbe Purpur sehr teuer. Sie wurde aus vielen Schnecken gemacht. Nur reiche Leute und Kaiser konnten sie kaufen. Die Farbe war ein Zeichen für Macht und Reichtum.",
       "category": "Fashion",
-      "source_title": "Fashioning a Nation: Style and Politics in the Early American Republic",
-      "source_url": "https://muse.jhu.edu/article/712761"
+      "source_title": "Tyrian purple",
+      "source_url": "https://en.wikipedia.org/wiki/Tyrian_purple"
     }
   ],
   "frankfurt": {
@@ -320,83 +276,145 @@
       {
         "type": "Events",
         "emoji": "🎪",
-        "headline_en": "Digital Tip Dilemma: Impact on Service Staff and Tax Authorities",
-        "headline_de": "Digitale Trinkgeld-Debatte: Wie sich Servicekräfte und Finanzamt verändern",
-        "headline_easy": "Trinkgeld am Kartenleser: Was denken die Leute?",
-        "summary_en": "The trend of tipping via card readers, often with pre-set percentages, is becoming common in Frankfurt's cafes. This digital approach raises questions about its benefits for service staff and implications for the tax office.",
-        "summary_de": "Digitale Trinkgeld-Optionen auf Kartenlesegeräten werden in Frankfurter Cafés immer beliebter, oft mit voreingestellten Prozentbeträgen. Diese Entwicklung wirft Fragen nach den Vorteilen für das Servicepersonal und den Auswirkungen auf das Finanzamt auf.",
-        "summary_easy": "In Cafés kann man jetzt Trinkgeld am Kartenleser geben. Oft wählt man einen Prozentsatz. Viele Leute sind sich nicht sicher, ob das gut ist. Es gibt Fragen für Kellner und das Finanzamt.",
+        "headline_en": "Eintracht Frankfurt Faces Defensive Woes Amidst Transfer Speculation",
+        "headline_de": "Eintracht Frankfurt vor Abwehrproblemen und Transfergerüchten",
+        "headline_easy": "Eintracht Frankfurt braucht neue Verteidiger.",
+        "summary_en": "Eintracht Frankfurt is facing significant challenges in strengthening its squad, particularly in defense. While the club awaits the potential signing of Raphael Onyedika, the team's defensive line is becoming increasingly thin, necessitating the recruitment of two or even three new defenders by Markus Krösche.",
+        "summary_de": "Eintracht Frankfurt steht vor großen Herausforderungen bei der Verstärkung des Kaders, insbesondere in der Abwehr. Während der Verein auf die mögliche Verpflichtung von Raphael Onyedika wartet, wird die Abwehrreihe immer dünner, was die Verpflichtung von zwei oder sogar drei neuen Verteidigern durch Markus Krösche notwendig macht.",
+        "summary_easy": "Eintracht Frankfurt hat Probleme in der Abwehr. Sie brauchen neue Spieler für die Verteidigung. Markus Krösche muss wahrscheinlich zwei oder drei neue Spieler holen.",
         "links": [
           {
-            "title": "Die Qual der Wahl beim Trinkgeld auf dem Kartenlesegerät: Digitale Trinkgeld-Optionen",
-            "url": "https://www.faz.net/aktuell/rhein-main/wirtschaft/trinkgeld-am-kartenlesegeraet-fluch-oder-segen-accg-201057369.html"
+            "title": "Eintracht-Not immer größer - Das ist Krösches Großbaustelle: Eintracht wartet auf Raphael Onyedika – doch in der Abwehr wird es eng. Warum Markus Krösche nun zwei oder drei Verteidiger holen muss.",
+            "url": "https://www.bild.de/sport/fussball/eintracht-frankfurt-kroesche-muss-die-abwehr-verstaerken-6a64afc8fe2765826e0fcf89"
           },
           {
-            "title": "Showdown im Stadl: Wie Stefan Mross um seine Karriere spielte",
-            "url": "https://www.dwdl.de/telegeschichten/107275/showdown_im_stadl_wie_stefan_mross_um_seine_karriere_spielte/"
+            "title": "Reinhold Heils Solodebüt: Unbekanntes Gesicht hinter weltbekannten Hits: Mit Spliff servierte er Carbonara, mit Nena ließ er 99 Luftballons steigen, und Lola rannte zu seinem Score: Der aus Schlüchtern stammende Musiker und Komponist Reinhold Heil hat Popgeschichte geschrieben. Jetzt hat er sein erstes Soloalbum veröffentlicht.",
+            "url": "https://www.faz.net/aktuell/rhein-main/kultur/nach-spliff-vor-lola-rennt-reinhold-heils-verlorenes-album-the-electric-heidiland-accg-201054612.html"
           }
         ]
       },
       {
         "type": "Crime",
         "emoji": "🚔",
-        "headline_en": "Emergency Helicopter Coverage Expanded Across Hesse",
-        "headline_de": "Rettungshelikopter decken Hessen mit 60-Kilometer-Radien ab",
-        "headline_easy": "Mehr Hilfe mit Hubschraubern in Hessen",
-        "summary_en": "Emergency services in Hesse are enhancing their reach with rescue helicopters, now covering the state within 60-kilometer radii. This expansion aims to improve response times and access to critical care.",
-        "summary_de": "Die Rettungsdienste in Hessen verbessern ihre Reichweite mit Rettungshelikoptern, die nun das Bundesland innerhalb von 60-Kilometer-Radien abdecken. Diese Erweiterung zielt darauf ab, die Reaktionszeiten und den Zugang zur Notfallversorgung zu optimieren.",
-        "summary_easy": "Die Helfer in Hessen können jetzt schneller überall sein. Sie fliegen in Kreisen von 60 Kilometern. So kommen sie schneller zu Notfällen.",
+        "headline_en": "Hilton Severs Ties with Frankfurt Hotels Due to Owner's Iran Links",
+        "headline_de": "Hilton trennt sich von Frankfurter Hotels wegen Iran-Verbindungen des Eigentümers",
+        "headline_easy": "Hilton wirft Hotels raus wegen Iran-Kontakten.",
+        "summary_en": "Hilton has cut ties with two luxury hotels in Hessen after discovering their owner has close ties to the Iranian regime. The US government has imposed sanctions against the owner, prompting Hilton to end its involvement with the properties.",
+        "summary_de": "Hilton hat die Zusammenarbeit mit zwei Luxushotels in Hessen beendet, nachdem bekannt wurde, dass deren Eigentümer enge Verbindungen zum iranischen Regime hat. Die US-Regierung hat Sanktionen gegen den Eigentümer verhängt, woraufhin Hilton seine Beteiligung an den Hotels aufkündigte.",
+        "summary_easy": "Hilton beendet die Zusammenarbeit mit zwei Hotels in Frankfurt. Der Besitzer der Hotels hat Verbindungen zum Iran. Die US-Regierung hat den Mann bestraft. Deshalb zieht sich Hilton zurück.",
         "links": [
           {
-            "title": "Rettungshelikopter decken Hessen mit 60-Kilometer-Radien ab",
-            "url": "https://www.zeit.de/news/2026-07/25/rettungshelikopter-decken-hessen-mit-60-kilometer-radien-ab"
+            "title": "Iran-Verbindung: Hilton wirft Frankfurter Luxus-Hotels raus: Der Eigentümer zweier Hotels in Hessen ist ein Iraner mit engen Beziehungen zum Mullah-Regime. Nachdem die US-Regierung gegen ihn Sanktionen verhängt hat, zieht der Hilton-Konzern die Reißleine.",
+            "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/hilton-trennt-sich-von-frankfurter-hotels-wegen-ali-ansari-accg-201064511.html"
           },
           {
-            "title": "Was geschah am 25. Juli?",
-            "url": "https://www.tagesspiegel.de/kalenderblatt-was-geschah-am-25-juli-15878782.html"
+            "title": "Fußball-Bundesliga: Bericht: Eintracht Frankfurt vor Verpflichtung von Onyedika: Hier finden Sie Informationen zu dem Thema „Fußball-Bundesliga“. Lesen Sie jetzt „Bericht: Eintracht Frankfurt vor Verpflichtung von Onyedika“.",
+            "url": "https://www.zeit.de/news/2026-07/25/bericht-eintracht-frankfurt-vor-verpflichtung-von-onyedika"
           }
         ]
       },
       {
         "type": "Sales & Offers",
         "emoji": "🛍️",
-        "headline_en": "Digital Tip Debate Continues Amidst Wider Coverage of Services",
-        "headline_de": "Digitale Trinkgeld-Debatte und breitere Abdeckung von Dienstleistungen",
-        "headline_easy": "Trinkgeld am Leser und andere Neuigkeiten",
-        "summary_en": "The discussion around digital tipping options at card readers persists, with implications for service staff and tax collection. Alongside this, news includes expanded emergency helicopter coverage in Hesse and historical events from July 25th.",
-        "summary_de": "Die Diskussion um digitale Trinkgeld-Optionen auf Kartenlesegeräten hält an, mit Auswirkungen auf Servicekräfte und Steuereinnahmen. Weitere Meldungen umfassen die erweiterte Abdeckung von Rettungshelikoptern in Hessen und historische Ereignisse vom 25. Juli.",
-        "summary_easy": "Es gibt neue Diskussionen über Trinkgeld am Kartenleser. Auch über Helikopter, die Menschen in Hessen helfen. Und über Dinge, die am 25. Juli passiert sind.",
+        "headline_en": "Eintracht Frankfurt Nears Onyedika Signing Amidst Defensive Needs",
+        "headline_de": "Eintracht Frankfurt steht vor Onyedika-Verpflichtung angesichts von Abwehrbedarf",
+        "headline_easy": "Eintracht Frankfurt holt vielleicht Onyedika.",
+        "summary_en": "Eintracht Frankfurt is reportedly close to signing Raphael Onyedika, a move that addresses the club's need for reinforcements. This potential acquisition comes as the team faces a shortage of defensive players, highlighting the urgency of bolstering the squad.",
+        "summary_de": "Eintracht Frankfurt steht Berichten zufolge kurz vor der Verpflichtung von Raphael Onyedika, was den Bedarf des Vereins an Verstärkungen decken würde. Diese potenzielle Neuverpflichtung kommt zu einer Zeit, in der die Mannschaft einen Mangel an Abwehrspielern hat, was die Dringlichkeit einer Verstärkung des Kaders unterstreicht.",
+        "summary_easy": "Eintracht Frankfurt kauft wahrscheinlich einen neuen Spieler. Der Spieler heißt Onyedika. Das ist gut, weil die Mannschaft neue Abwehrspieler braucht.",
         "links": [
           {
-            "title": "Die Qual der Wahl beim Trinkgeld auf dem Kartenlesegerät: Digitale Trinkgeld-Optionen",
-            "url": "https://www.faz.net/aktuell/rhein-main/wirtschaft/trinkgeld-am-kartenlesegeraet-fluch-oder-segen-accg-201057369.html"
+            "title": "Fußball-Bundesliga: Bericht: Eintracht Frankfurt vor Verpflichtung von Onyedika: Hier finden Sie Informationen zu dem Thema „Fußball-Bundesliga“. Lesen Sie jetzt „Bericht: Eintracht Frankfurt vor Verpflichtung von Onyedika“.",
+            "url": "https://www.zeit.de/news/2026-07/25/bericht-eintracht-frankfurt-vor-verpflichtung-von-onyedika"
           },
           {
-            "title": "Rettungshelikopter decken Hessen mit 60-Kilometer-Radien ab",
-            "url": "https://www.zeit.de/news/2026-07/25/rettungshelikopter-decken-hessen-mit-60-kilometer-radien-ab"
+            "title": "Iran-Verbindung: Hilton wirft Frankfurter Luxus-Hotels raus: Der Eigentümer zweier Hotels in Hessen ist ein Iraner mit engen Beziehungen zum Mullah-Regime. Nachdem die US-Regierung gegen ihn Sanktionen verhängt hat, zieht der Hilton-Konzern die Reißleine.",
+            "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/hilton-trennt-sich-von-frankfurter-hotels-wegen-ali-ansari-accg-201064511.html"
           }
         ]
       },
       {
         "type": "Local News",
         "emoji": "📍",
-        "headline_en": "Frankfurt's Economy: Digital Tipping Debates and Service Improvements",
-        "headline_de": "Frankfurts Wirtschaft: Digitale Trinkgeld-Debatten und Serviceverbesserungen",
-        "headline_easy": "Neuigkeiten aus Frankfurt: Trinkgeld und Hilfe",
-        "summary_en": "A notable discussion in Frankfurt concerns the complexities of digital tipping at card readers, impacting service staff and tax implications. Meanwhile, emergency helicopter coverage across Hesse has been expanded to ensure better access to critical care.",
-        "summary_de": "Eine bemerkenswerte Debatte in Frankfurt betrifft die Komplexität digitaler Trinkgeldoptionen an Kartenlesegeräten, die Servicekräfte und steuerliche Aspekte beeinflussen. Parallel dazu wurde die Abdeckung von Rettungshelikoptern in ganz Hessen erweitert, um einen besseren Zugang zur Notfallversorgung zu gewährleisten.",
-        "summary_easy": "In Frankfurt gibt es neue Gespräche über Trinkgeld. Man gibt es jetzt oft am Kartenleser. Auch in Hessen gibt es neue Hilfe: Helikopter können jetzt besser jeden erreichen.",
+        "headline_en": "Frankfurt Mourns Hans-Erhard Haverkampf, Key Figure in City's Renaissance",
+        "headline_de": "Frankfurt trauert um Hans-Erhard Haverkampf, Schlüsselfigur der Stadterneuerung",
+        "headline_easy": "Wichtiger Mann in Frankfurt ist tot.",
+        "summary_en": "Frankfurt is mourning the passing of Hans-Erhard Haverkampf, a man of rare virtues who played a crucial, albeit behind-the-scenes, role in the city's renaissance during the 1980s. His contributions significantly shaped the development and resurgence of Frankfurt.",
+        "summary_de": "Frankfurt trauert um Hans-Erhard Haverkampf, einen Mann mit seltenen Tugenden, der eine entscheidende, wenn auch zurückhaltende Rolle bei der Renaissance der Stadt in den 1980er Jahren spielte. Seine Beiträge prägten maßgeblich die Entwicklung und Wiederbelebung Frankfurts.",
+        "summary_easy": "Hans-Erhard Haverkampf ist gestorben. Er hat Frankfurt in den 1980er Jahren geholfen, besser zu werden. Er war sehr wichtig für die Stadt.",
         "links": [
           {
-            "title": "Die Qual der Wahl beim Trinkgeld auf dem Kartenlesegerät: Digitale Trinkgeld-Optionen",
-            "url": "https://www.faz.net/aktuell/rhein-main/wirtschaft/trinkgeld-am-kartenlesegeraet-fluch-oder-segen-accg-201057369.html"
+            "title": "Hans-Erhard Haverkampf tot: Ein Mann von selten gewordenen Tugenden: Zum Tod von Hans-Erhard Haverkampf, der in zweiter Reihe, aber entscheidend an der Renaissance Frankfurts in den Achtzigerjahren beteiligt war.",
+            "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/architektur/ehemaliger-frankfurter-baudezernent-haverkampf-gestorben-accg-201064860.html"
           },
           {
-            "title": "Rettungshelikopter decken Hessen mit 60-Kilometer-Radien ab",
-            "url": "https://www.zeit.de/news/2026-07/25/rettungshelikopter-decken-hessen-mit-60-kilometer-radien-ab"
+            "title": "Reinhold Heils Solodebüt: Unbekanntes Gesicht hinter weltbekannten Hits: Mit Spliff servierte er Carbonara, mit Nena ließ er 99 Luftballons steigen, und Lola rannte zu seinem Score: Der aus Schlüchtern stammende Musiker und Komponist Reinhold Heil hat Popgeschichte geschrieben. Jetzt hat er sein erstes Soloalbum veröffentlicht.",
+            "url": "https://www.faz.net/aktuell/rhein-main/kultur/nach-spliff-vor-lola-rennt-reinhold-heils-verlorenes-album-the-electric-heidiland-accg-201054612.html"
           }
         ]
       }
     ]
-  }
+  },
+  "dresden": [
+    {
+      "price": "370 €",
+      "address": "Fritz-Reuter-Straße 23, 01157 Dresden",
+      "district": "Leutewitz",
+      "size": "41,00 m²",
+      "rooms": "2",
+      "title": "2 Raum Wohnung in 01157 Dresden Leutewitz",
+      "url": "https://www.immowelt.de/expose/2BF99A3335618A8EB2C7B396868E5B4A03",
+      "source": "Immowelt.de"
+    },
+    {
+      "price": "390 €",
+      "address": "Schlüterstraße 22, 01277 Dresden",
+      "district": "Johannstadt",
+      "size": "35,00 m²",
+      "rooms": "1",
+      "title": "Wohnung in Dresden - Johannstadt",
+      "url": "https://www.immowelt.de/expose/2C455A333A5A4B5E2D4C991AD5EB4756D8",
+      "source": "Immowelt.de"
+    },
+    {
+      "price": "400 €",
+      "address": "Einsiedler Hauptstraße 39, 01257 Dresden",
+      "district": "Birkwitz-Zschorna",
+      "size": "45,00 m²",
+      "rooms": "2",
+      "title": "Helle 2-Raum-Wohnung in Dresden-Birkwitz",
+      "url": "https://www.immowelt.de/expose/2C109A33325E42E482F4E678998893A387",
+      "source": "Immowelt.de"
+    },
+    {
+      "price": "410 €",
+      "address": "Hellerhofer Straße 10, 01109 Dresden",
+      "district": "Hellerberge",
+      "size": "38,00 m²",
+      "rooms": "1",
+      "title": "Charmante 1-Zimmer-Wohnung in Dresden Hellerberge",
+      "url": "https://www.immowelt.de/expose/2C4AE333204962048EC2C147A0000B6F36",
+      "source": "Immowelt.de"
+    },
+    {
+      "price": "420 €",
+      "address": "Rudolf-Leonhard-Straße 38, 01097 Dresden",
+      "district": "Neustadt",
+      "size": "40,00 m²",
+      "rooms": "1.5",
+      "title": "Schöne 1,5 Zi.-Wohnung in Dresden-Neustadt",
+      "url": "https://www.immowelt.de/expose/2C438A3334B96915356A915C4B991980B3",
+      "source": "Immowelt.de"
+    },
+    {
+      "price": "435 €",
+      "address": "Alte Huttengrundstraße 5, 01328 Dresden",
+      "district": "Schönfeld-Weißig",
+      "size": "48,00 m²",
+      "rooms": "2",
+      "title": "2-Raum-Wohnung in Dresden-Schönfeld",
+      "url": "https://www.immowelt.de/expose/2C110A3333311789C3D4E678998893A387",
+      "source": "Immowelt.de"
+    }
+  ]
 }
