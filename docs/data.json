@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, October 10 2026",
+  "date": "Sunday, October 11 2026",
   "sections": [
     {
       "category": "Germany",
@@ -8,48 +8,80 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "EU Governments Agree on Long-Stalled Capital Markets Reform",
-          "headline_de": "EU-Regierungen einigen sich auf lang erwartete Reform der Kapitalmärkte",
-          "headline_easy": "EU-Länder einigen sich auf neue Regeln für Geldmärkte.",
-          "summary_en": "EU governments have reached an agreement on long-stalled capital markets reform. This reform aims to strengthen the EU's financial markets and facilitate cross-border investment. The deal is seen as a significant step towards a more integrated financial union.",
-          "summary_de": "EU-Regierungen haben eine Einigung über die seit langem aufgeschobene Reform der Kapitalmärkte erzielt. Diese Reform zielt darauf ab, die Finanzmärkte der EU zu stärken und grenzüberschreitende Investitionen zu erleichtern. Die Einigung gilt als wichtiger Schritt zu einer stärker integrierten Finanzunion.",
-          "summary_easy": "Die EU-Länder sind sich einig bei neuen Regeln für Geldmärkte. Das macht Investitionen in der EU einfacher. Es ist ein wichtiger Schritt für die Wirtschaft.",
+          "headline_en": "Danny Boyle Discusses Challenges of 'Ink' and 'Siege Mentality'",
+          "headline_de": "Danny Boyle spricht über die Herausforderungen von 'Ink' und 'Belagerungsmentalität'",
+          "headline_easy": "Danny Boyle spricht über den Film 'Ink'. Er sagt, es war schwer zu drehen.",
+          "summary_en": "Director Danny Boyle reflected on the difficult production of his film 'Ink', inspired by Rupert Murdoch and 'The Sun'. He described the making of the film as having a 'siege mentality'.",
+          "summary_de": "Regisseur Danny Boyle sprach über die schwierige Produktion seines Films 'Ink', der von Rupert Murdoch und 'The Sun' inspiriert ist. Er beschrieb die Entstehung des Films als eine 'Belagerungsmentalität'.",
+          "summary_easy": "Der Film 'Ink' war schwer zu drehen. Danny Boyle war der Regisseur. Er hat über die Arbeit gesprochen.",
           "links": [
             {
-              "title": "EU governments agree on long-stalled capital markets reform",
-              "url": "https://www.irishtimes.com/business/2026/10/09/eu-governments-agree-on-long-stalled-capital-markets-reform/"
+              "title": "Danny Boyle On The Challenges Of Rupert Murdoch & ‘The Sun’ Film ‘Ink’: “We Had A Siege Mentality While Making It” — Contenders London",
+              "url": "http://deadline.com/2026/10/danny-boyle-ink-challenge-we-had-a-siege-mentality-1237153896/"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Russia and Germany Boost Diesel Supply Amidst Market Scramble",
+          "headline_de": "Russland und Deutschland erhöhen Dieselversorgung inmitten Marktkampf",
+          "headline_easy": "Russland und Deutschland verkaufen mehr Diesel. Der Markt braucht Treibstoff.",
+          "summary_en": "Russia and Germany are increasing their diesel supply to the market, which is currently scrambling for available barrels. This move aims to stabilize fuel availability.",
+          "summary_de": "Russland und Deutschland erhöhen ihre Dieselversorgung für den Markt, der derzeit um verfügbare Mengen kämpft. Dieser Schritt zielt darauf ab, die Kraftstoffverfügbarkeit zu stabilisieren.",
+          "summary_easy": "Es gibt mehr Diesel in Deutschland und Russland. Der Markt hat Schwierigkeiten, genug zu finden. Das hilft vielleicht.",
+          "links": [
+            {
+              "title": "Russia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels",
+              "url": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Germany-Add-Diesel-Supply-as-Fuel-Market-Scrambles-for-Barrels.html"
             }
           ]
         },
         {
           "type": "War",
           "emoji": "⚔️",
-          "headline_en": "Ex-Ukrainian Security Officer Charged, Claims Kyiv Authorized Oligarch Assassination Plot",
-          "headline_de": "Ehemaliger ukrainischer Sicherheitsbeamter angeklagt, behauptet Kiew habe Attentatsplan auf Oligarchen genehmigt",
-          "headline_easy": "Ein Ukrainer wird angeklagt. Er sagt, sein Land hat einen Plan genehmigt.",
-          "summary_en": "An ex-Ukrainian security officer has been charged, alleging that Kyiv authorized a plot to assassinate an oligarch. This revelation comes in connection with the execution of a Monaco bomber. The claims suggest a complex geopolitical entanglement involving alleged state-sanctioned operations.",
-          "summary_de": "Ein ehemaliger ukrainischer Sicherheitsbeamter wurde angeklagt und behauptet, Kiew habe einen Plan zur Ermordung eines Oligarchen genehmigt. Diese Enthüllung steht im Zusammenhang mit der Hinrichtung eines Bombenlegers aus Monaco. Die Behauptungen deuten auf eine komplexe geopolitische Verwicklung mit angeblichen staatlich sanktionierten Operationen hin.",
-          "summary_easy": "Ein Ukrainer wird angeklagt. Er sagt, sein Land hat einen Plan genehmigt, einen reichen Mann zu töten. Das hängt mit einem Bombenleger zusammen. Es gibt komplizierte politische Probleme.",
+          "headline_en": "Iran War: Attacks on Tankers, Oil Facilities, and Airports",
+          "headline_de": "Iran-Krieg: Angriffe auf Tanker, Öl-Anlagen und Flughäfen",
+          "headline_easy": "Im Iran-Krieg gibt es Angriffe. Raketen treffen Schiffe und Flughäfen.",
+          "summary_en": "During the Iran War, the IRGC and Ansar Allah have launched attacks targeting tankers, oil facilities, and airports. These actions highlight the ongoing conflict and its impact on infrastructure.",
+          "summary_de": "Während des Iran-Krieges haben die IRGC und Ansar Allah Angriffe auf Tanker, Öl-Anlagen und Flughäfen gestartet. Diese Aktionen unterstreichen den anhaltenden Konflikt und seine Auswirkungen auf die Infrastruktur.",
+          "summary_easy": "Es gibt Krieg im Iran. Raketen treffen Schiffe, Öl-Anlagen und Flughäfen. Das ist gefährlich.",
           "links": [
             {
-              "title": "Ex-Ukrainian security officer charged with executing Monaco bomber claims Kyiv authorized plot to assassinate oligarch",
-              "url": "https://nypost.com/2026/10/09/world-news/ex-ukrainian-security-officer-charged-with-executing-monaco-bomb-attacker-claims-plot-to-assassinate-oligarch-was-authorized-by-kyiv/"
+              "title": "Iran War: IRGC and Ansar Allah Fire Away At Tankers, Oil Facilities, Airports",
+              "url": "https://www.nakedcapitalism.com/2026/10/iran-war-irgc-ansar-allah-tankers-oil-facilities-airports-taiz-bab-al-mendab.html"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Michael Hudson Discusses the Oil Markets",
+          "headline_de": "Michael Hudson spricht über die Öl-Märkte",
+          "headline_easy": "Michael Hudson spricht über Öl. Er erklärt den Markt.",
+          "summary_en": "Economist Michael Hudson has shared his insights on the current state of the oil markets. His analysis provides a deeper understanding of the factors influencing global oil prices and supply.",
+          "summary_de": "Der Ökonom Michael Hudson hat seine Einschätzungen zur aktuellen Lage der Öl-Märkte geteilt. Seine Analyse gibt ein tieferes Verständnis der Faktoren, die die globalen Ölpreise und die Versorgung beeinflussen.",
+          "summary_easy": "Michael Hudson spricht über Öl. Er weiß viel über Öl-Preise. Es ist interessant zu hören.",
+          "links": [
+            {
+              "title": "Michael Hudson on the Oil Markets",
+              "url": "https://www.nakedcapitalism.com/2026/10/michael-hudson-on-the-oil-markets.html"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "Germany's AfD Takes Control of First State Parliament in Party History",
-          "headline_de": "Deutschlands AfD übernimmt Kontrolle über erstes Landesparlament in Parteigeschichte",
-          "headline_easy": "Die Partei AfD ist jetzt die stärkste Partei in einem deutschen Bundesland.",
-          "summary_en": "Germany's Alternative for Germany (AfD) party has achieved a significant political milestone by taking control of its first state parliament. This development marks a historical moment for the party and could have implications for the German political landscape. The party's rise reflects shifting political sentiments within the country.",
-          "summary_de": "Die Partei Alternative für Deutschland (AfD) hat einen bedeutenden politischen Meilenstein erreicht und die Kontrolle über ihr erstes Landesparlament übernommen. Diese Entwicklung markiert einen historischen Moment für die Partei und könnte Auswirkungen auf die deutsche politische Landschaft haben. Der Aufstieg der Partei spiegelt sich ändernde politische Stimmungen im Land wider.",
-          "summary_easy": "Die Partei AfD ist jetzt die stärkste Partei in einem deutschen Bundesland. Das ist ein historischer Moment für die AfD. Es zeigt, dass sich die Politik in Deutschland ändert.",
+          "headline_en": "Report Links AI Data Center Air Pollution to Children's Health Risks",
+          "headline_de": "Bericht: Luftverschmutzung durch KI-Rechenzentren birgt Gesundheitsrisiken für Kinder",
+          "headline_easy": "Neue Daten zeigen: Luft von KI-Zentren ist schlecht für Kinder. Es kann ihre Lungen und ihr Gehirn schädigen.",
+          "summary_en": "A new report has established a connection between air pollution from AI data centers and potential health risks for children, particularly concerning their developing brains and lungs. The findings highlight the environmental impact of technological advancements.",
+          "summary_de": "Ein neuer Bericht hat einen Zusammenhang zwischen der Luftverschmutzung durch KI-Rechenzentren und potenziellen Gesundheitsrisiken für Kinder hergestellt, insbesondere in Bezug auf ihre sich entwickelnden Gehirne und Lungen. Die Ergebnisse beleuchten die Umweltauswirkungen technologischer Fortschritte.",
+          "summary_easy": "Luft von großen Computer-Zentren ist nicht gut. Sie kann Kinder krank machen. Es ist schlecht für Lunge und Gehirn.",
           "links": [
             {
-              "title": "Firewall Cracking: Germany's AfD Takes Control of First State Parliament in Party History",
-              "url": "https://www.breitbart.com/europe/2026/10/09/firewall-cracking-germanys-afd-takes-control-of-first-state-parliament-in-party-history/"
+              "title": "Report Links AI Data Center Air Pollution to Risks for Children’s Developing Brains and Lungs",
+              "url": "https://activistpost.com/report-links-ai-data-center-air-pollution-to-risks-for-childrens-developing-brains-and-lungs/"
             }
           ]
         }
@@ -62,48 +94,80 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "EU-Türkiye Business Summit to be Held in Brussels",
-          "headline_de": "EU-Türkiye-Wirtschaftsgipfel findet in Brüssel statt",
-          "headline_easy": "Ein Treffen für Geschäfte zwischen EU und Türkei findet in Brüssel statt.",
-          "summary_en": "The EU-Türkiye Business Summit will be held in Brussels for the second time, highlighting ongoing efforts to foster economic cooperation between the European Union and Turkey. This event aims to strengthen business ties and explore new avenues for trade and investment. It underscores the importance of bilateral relations for economic growth.",
-          "summary_de": "Der EU-Türkiye-Wirtschaftsgipfel wird zum zweiten Mal in Brüssel stattfinden und unterstreicht die fortgesetzten Bemühungen um wirtschaftliche Zusammenarbeit zwischen der Europäischen Union und der Türkei. Diese Veranstaltung zielt darauf ab, Geschäftsbeziehungen zu stärken und neue Wege für Handel und Investitionen zu erkunden. Sie unterstreicht die Bedeutung bilateraler Beziehungen für das Wirtschaftswachstum.",
-          "summary_easy": "Ein Treffen für Geschäfte zwischen EU und Türkei findet in Brüssel statt. Die beiden Seiten wollen mehr Handel und bessere Geschäfte machen. Das ist wichtig für die Wirtschaft.",
+          "headline_en": "Marvel Comics Recommended for Horror Fans This Halloween",
+          "headline_de": "Marvel Comics empfohlen für Horrorfans zu Halloween",
+          "headline_easy": "Marvel Comics für Halloween. Sie sind gruselig.",
+          "summary_en": "For Halloween enthusiasts, this article recommends five Marvel comic book stories that are perfect for horror fans, with one standout issue that reimagined an iconic Avenger. These selections offer a blend of fright and comic book artistry.",
+          "summary_de": "Für Halloween-Fans empfiehlt dieser Artikel fünf Marvel-Comic-Geschichten, die perfekt für Horrorfans sind, sowie eine Ausgabe, die einen ikonischen Avenger neu interpretierte. Diese Auswahl bietet eine Mischung aus Grusel und Comic-Kunst.",
+          "summary_easy": "Man kann gruselige Marvel Comics lesen. Das ist gut für Halloween. Es gibt auch eine Geschichte über einen Superhelden.",
           "links": [
             {
-              "title": "EU-Türkiye Business Summit to be held in Brussels for second time",
-              "url": "https://www.hurriyetdailynews.com/eu-turkiye-business-summit-to-be-held-in-brussels-for-second-time-227928"
+              "title": "5 Marvel Comics Stories Every Horror Fan Should Read For Halloween (& 1 Redefined an Iconic Avenger)",
+              "url": "http://comicbook.com/comics/list/5-marvel-comics-stories-every-horror-fan-should-read-for-halloween-1-redefined-an-iconic-avenger/"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Global Jio IPO Pitch by Ambani Siblings Attracts Marquee Investors",
+          "headline_de": "Globaler Jio IPO-Pitch der Ambani-Geschwister zieht namhafte Investoren an",
+          "headline_easy": "Jio macht eine große IPO. Akash und Isha Ambani werben für die Firma. Große Investoren wollen Geld geben.",
+          "summary_en": "Akash and Isha Ambani are taking their Rs 30,000 crore Jio IPO (Initial Public Offering) pitch to a global audience. The initiative has successfully attracted marquee investors who are seeking a larger stake in the company.",
+          "summary_de": "Akash und Isha Ambani präsentieren ihren IPO-Pitch für Jio (Initial Public Offering) im Wert von 30.000 Crore Rupien einem globalen Publikum. Die Initiative hat erfolgreich namhafte Investoren angezogen, die eine größere Beteiligung am Unternehmen anstreben.",
+          "summary_easy": "Jio plant eine große IPO. Akash und Isha Ambani stellen die Firma vor. Viele große Investoren wollen einsteigen.",
+          "links": [
+            {
+              "title": "Exclusive | Akash, Isha Ambani take Rs 30,000 crore Jio IPO pitch global; marquee investors seek bigger stake",
+              "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/exclusive-akash-isha-ambani-take-rs-30000-crore-jio-ipo-pitch-global-marquee-investors-seek-bigger-stake/articleshow/134849084.cms"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Protest Playbook Vilifying Israel Highlights Global Day of Action",
+          "headline_de": "Protest-Handbuch zur Verunglimpfung Israels hebt globalen Aktionstag hervor",
+          "headline_easy": "Es gibt eine Strategie, um Israel schlecht zu machen. Dies geschieht an einem globalen Aktionstag.",
+          "summary_en": "An analysis reveals a 'protest playbook' being used to vilify Israel during a global day of action. The strategy involves coordinated efforts on digital platforms and street demonstrations.",
+          "summary_de": "Eine Analyse enthüllt ein 'Protest-Handbuch', das verwendet wird, um Israel an einem globalen Aktionstag zu verunglimpfen. Die Strategie beinhaltet koordinierte Bemühungen auf digitalen Plattformen und Straßenkundgebungen.",
+          "summary_easy": "Menschen protestieren gegen Israel. Es gibt eine geheime Strategie dafür. Die Proteste sind überall auf der Welt.",
+          "links": [
+            {
+              "title": "Inside the protest playbook to vilify Israel on 'global day of action'",
+              "url": "https://www.foxnews.com/world/inside-global-anti-israel-protests-organizers-activate-digital-playbook-street-demands-vilify-israel"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Wall Street Fears 'Doom Loop' as France Veers Toward Civil Crisis",
-          "headline_de": "Wall Street befürchtet 'Teufelskreis', da Frankreich auf eine Bürgerkrise zusteuert",
-          "headline_easy": "Die Börse hat Angst vor Problemen in Frankreich.",
-          "summary_en": "Wall Street is expressing concerns about a potential 'doom loop' in France, as the country is perceived to be veering towards a civil crisis. This sentiment suggests heightened market volatility and investor apprehension stemming from political instability in a major European economy. The situation in Paris is reportedly creating widespread unease.",
-          "summary_de": "Die Wall Street äußert Bedenken hinsichtlich eines möglichen 'Teufelskreises' in Frankreich, da das Land auf eine Bürgerkrise zuzusteuern scheint. Diese Stimmung deutet auf erhöhte Marktvolatilität und Anlegerbesorgnis aufgrund politischer Instabilität in einer großen europäischen Wirtschaft hin. Die Situation in Paris sorgt Berichten zufolge für weit verbreitete Beunruhigung.",
-          "summary_easy": "Die Börse hat Angst vor Problemen in Frankreich. Es gibt Sorgen über Unruhen im Land. Das kann die Märkte unsicher machen.",
+          "headline_en": "EU Users Advised to Fear US 'Kill Switch' Over New Software",
+          "headline_de": "EU-Nutzer sollen sich vor US-'Kill Switch' fürchten, nicht vor neuer Software",
+          "headline_easy": "Nutzer in Europa sollen Angst vor dem 'Kill Switch' der USA haben. Neue Software ist nicht das Problem.",
+          "summary_en": "European Commission users are warned to be wary of a potential 'kill switch' controlled by the United States, suggesting this poses a greater threat than any new software. The alert concerns data control and sovereignty.",
+          "summary_de": "Nutzer der Europäischen Kommission werden gewarnt, einem potenziellen von den Vereinigten Staaten kontrollierten 'Kill Switch' gegenüber misstrauisch zu sein, was eine größere Bedrohung darstellt als jede neue Software. Die Warnung betrifft Datenkontrolle und Souveränität.",
+          "summary_easy": "Es gibt einen 'Kill Switch' in den USA. Das ist gefährlich für Europa. Man soll davor Angst haben.",
           "links": [
             {
-              "title": "‘What happens in Paris doesn’t stay in Paris!’ Wall Street fears ‘doom loop’ as ‘France is veering toward a full-blown civil crisis’",
-              "url": "https://fortune.com/2026/10/09/what-happens-in-paris-doesnt-stay-in-paris-wall-street-fears-doom-loop-as-france-is-veering-toward-a-full-blown-civil-crisis/"
+              "title": "EC users should be afraid of a US kill switch - not some new software",
+              "url": "https://www.theregister.com/columnists/2026/10/10/ec-users-should-be-afraid-of-a-us-kill-switch-not-some-new-software/5301875"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "XPENG Takes on UNECE Role to Advance Global Collaboration on Automated Driving",
-          "headline_de": "XPENG übernimmt UNECE-Rolle zur Förderung der globalen Zusammenarbeit bei automatisiertem Fahren",
-          "headline_easy": "Eine Firma namens XPENG arbeitet jetzt mit UN zusammen. Es geht um selbstfahrende Autos.",
-          "summary_en": "XPENG is taking on a role within the UNECE to advance global collaboration on automated driving technologies. This initiative aims to establish international standards and foster cooperation among nations for the safe and efficient development of autonomous vehicles. The move signifies a commitment to shaping the future of mobility.",
-          "summary_de": "XPENG übernimmt eine Rolle innerhalb der UNECE zur Förderung der globalen Zusammenarbeit bei Technologien für automatisiertes Fahren. Diese Initiative zielt darauf ab, internationale Standards zu etablieren und die Zusammenarbeit zwischen den Nationen für die sichere und effiziente Entwicklung autonomer Fahrzeuge zu fördern. Der Schritt signalisiert ein Engagement zur Gestaltung der Zukunft der Mobilität.",
-          "summary_easy": "Eine Firma namens XPENG arbeitet jetzt mit UN zusammen. Es geht um selbstfahrende Autos. Sie wollen Regeln für die ganze Welt machen.",
+          "headline_en": "London Hosts Eagles Fans with Philly Flair",
+          "headline_de": "London empfängt Eagles-Fans mit Philly-Flair",
+          "headline_easy": "In London gibt es viele Fans aus Philadelphia. Sie essen Cheesesteaks.",
+          "summary_en": "London is buzzing with Philadelphia Eagles fans who have brought their unique flavor, including cheesesteaks, to the city. The influx of supporters adds a special atmosphere during the NFL game.",
+          "summary_de": "London ist erfüllt von Fans der Philadelphia Eagles, die ihren einzigartigen Flair, einschließlich Cheesesteaks, in die Stadt gebracht haben. Der Zustrom von Anhängern sorgt während des NFL-Spiels für eine besondere Atmosphäre.",
+          "summary_easy": "Fans von einem Football-Team sind in London. Sie haben Essen aus Philadelphia dabei. Das ist eine große Gruppe von Fans.",
           "links": [
             {
-              "title": "XPENG Takes on UNECE Role to Advance Global Collaboration on Automated Driving",
-              "url": "https://www.prnewswire.com/news-releases/xpeng-takes-on-unece-role-to-advance-global-collaboration-on-automated-driving-302903398.html"
+              "title": "London calling for Eagles fans with cheesesteaks, unique Philly flavor",
+              "url": "https://www.delawareonline.com/story/sports/nfl/eagles/2026/10/10/eagles-fans-take-over-london-in-unique-philly-cheesesteaks-jalen-hurts-jaguars/92127433007/"
             }
           ]
         }
@@ -116,80 +180,80 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Nobel Peace Prize Awarded to Indian-Origin South African Jurist",
-          "headline_de": "Friedensnobelpreis für südafrikanische Juristin indischer Herkunft",
-          "headline_easy": "Eine Frau aus Südafrika mit Wurzeln in Indien gewinnt den Friedensnobelpreis.",
-          "summary_en": "Navanethem Pillay, an Indian-origin South African jurist, has been awarded the Nobel Peace Prize. The prestigious award recognizes her significant contributions to human rights and justice globally. Her work has focused on advocating for peace and equality, making her a globally recognized figure in humanitarian efforts.",
-          "summary_de": "Navanethem Pillay, eine südafrikanische Juristin indischer Herkunft, wurde mit dem Friedensnobelpreis ausgezeichnet. Die angesehene Auszeichnung würdigt ihre bedeutenden Beiträge zu Menschenrechten und Gerechtigkeit weltweit. Ihre Arbeit konzentrierte sich auf die Förderung von Frieden und Gleichheit, was sie zu einer weltweit anerkannten Persönlichkeit im humanitären Bereich macht.",
-          "summary_easy": "Eine Frau aus Südafrika mit Wurzeln in Indien gewinnt den Friedensnobelpreis. Sie heißt Navanethem Pillay. Sie hat viel für Menschenrechte und Frieden getan.",
+          "headline_en": "Trump Claims He Deserved Nobel Peace Prizes, Criticizes Norway",
+          "headline_de": "Trump behauptet, er verdiene Friedensnobelpreise, kritisiert Norwegen",
+          "headline_easy": "Trump sagt, er hätte Nobelpreise verdient. Er kritisiert Norwegen.",
+          "summary_en": "Former President Trump has stated he believes he deserved eight Nobel Peace Prizes and has criticized Norway after the award was given to a former UN Rights Chief. The statement expresses his dissatisfaction with the recognition.",
+          "summary_de": "Der ehemalige Präsident Trump hat erklärt, dass er seiner Meinung nach acht Friedensnobelpreise verdient hätte, und Norwegen kritisiert, nachdem die Auszeichnung an eine ehemalige UN-Menschenrechtsbeauftragte verliehen wurde. Die Erklärung drückt seine Unzufriedenheit mit der Anerkennung aus.",
+          "summary_easy": "Trump sagt, er ist gut für den Frieden. Er glaubt, er hätte viele Preise bekommen sollen. Er ist nicht glücklich mit Norwegen.",
           "links": [
             {
-              "title": "Nobel Peace Prize 2026: Who is Navanethem Navi Pillay? Know all about Indian-origin South African jurist who wins coveted award on Friday",
-              "url": "https://economictimes.indiatimes.com/news/international/us/nobel-peace-prize-2026-who-is-navanethem-navi-pillay-know-all-about-indian-origin-south-african-jurist-who-wins-coveted-award-on-friday/articleshow/134830292.cms"
+              "title": "Trump Says He Deserved Eight Nobel Peace Prizes, Slams Norway After Award Goes to Former UN Rights Chief",
+              "url": "https://www.ibtimes.com.au/trump-attacks-nobel-committee-navi-pillay-wins-1876505"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Netflix Streaming Debut for 'Carolina Caroline'",
-          "headline_de": "Netflix-Streaming-Debüt für 'Carolina Caroline'",
-          "headline_easy": "Ein neuer Film mit dem Titel 'Carolina Caroline' kommt auf Netflix.",
-          "summary_en": "The film 'Carolina Caroline,' starring Samara Weaving and Kyle Gallner, is set to make its debut on Netflix. This marks a significant release for the streaming platform, bringing new content to its subscribers. The movie's availability on Netflix indicates the growing importance of streaming services in film distribution.",
-          "summary_de": "Der Film 'Carolina Caroline' mit Samara Weaving und Kyle Gallner wird sein Debüt auf Netflix geben. Dies markiert eine bedeutende Veröffentlichung für die Streaming-Plattform und bringt neue Inhalte für ihre Abonnenten. Die Verfügbarkeit des Films auf Netflix zeigt die wachsende Bedeutung von Streaming-Diensten in der Filmverbreitung.",
-          "summary_easy": "Ein neuer Film mit dem Titel 'Carolina Caroline' kommt auf Netflix. Samara Weaving und Kyle Gallner spielen darin. Viele Leute können den Film jetzt zu Hause sehen.",
+          "headline_en": "Bitcoin Surges Past $82,500 Amidst ETF Flow Optimism",
+          "headline_de": "Bitcoin steigt über 82.500 US-Dollar inmitten des Optimismus bei ETF-Flüssen",
+          "headline_easy": "Bitcoin ist jetzt über 82.500 Dollar wert. Das liegt an neuen Investitionen in ETFs.",
+          "summary_en": "Bitcoin has surpassed the $82,500 mark, with improved ETF flows boosting market sentiment. Experts are weighing in on the cryptocurrency's performance and future outlook.",
+          "summary_de": "Bitcoin hat die Marke von 82.500 US-Dollar überschritten, wobei verbesserte ETF-Flüsse die Marktstimmung gestärkt haben. Experten äußern sich zur Leistung und Zukunftsaussichten der Kryptowährung.",
+          "summary_easy": "Bitcoin ist wieder teuer. Investoren sind optimistisch. Experten reden über den Preis.",
           "links": [
             {
-              "title": "Samara Weaving and Kyle Gallner’s ‘Carolina Caroline’ Sets Netflix Streaming Debut",
-              "url": "https://www.whats-on-netflix.com/news/samara-weaving-and-kyle-gallners-carolina-caroline-sets-netflix-streaming-debut/"
+              "title": "Bitcoin reclaims $82,500 as improved ETF flows lift market sentiment. Here is what experts say",
+              "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-reclaims-82500-as-improved-etf-flows-lift-market-sentiment-here-is-what-experts-say/articleshow/134852150.cms"
             }
           ]
         },
         {
           "type": "War",
           "emoji": "⚔️",
-          "headline_en": "Texas Landowners Fight Back Against Trump's Border Wall",
-          "headline_de": "Texas Landbesitzer wehren sich gegen Trumps Grenzmauer",
-          "headline_easy": "Leute in Texas kämpfen gegen Trumps Mauer an der Grenze.",
-          "summary_en": "Landowners in Texas are actively fighting back against the construction of former President Trump's border wall. The legal and community resistance highlights concerns over property rights and environmental impact. This conflict underscores the ongoing debate and challenges surrounding border security infrastructure.",
-          "summary_de": "Landbesitzer in Texas wehren sich aktiv gegen den Bau der Grenzmauer des ehemaligen Präsidenten Trump. Der rechtliche und gemeinschaftliche Widerstand hebt Bedenken hinsichtlich Eigentumsrechten und Umweltauswirkungen hervor. Dieser Konflikt unterstreicht die anhaltende Debatte und die Herausforderungen im Zusammenhang mit der Grenzsicherheitsinfrastruktur.",
-          "summary_easy": "Leute in Texas kämpfen gegen Trumps Mauer an der Grenze. Sie sagen, die Mauer ist schlecht für ihr Land. Es gibt Streit über die Grenze.",
+          "headline_en": "Russian Attacks in Ukraine Follow Alleged Trump-Putin Diesel Deal",
+          "headline_de": "Russische Angriffe in der Ukraine folgen angeblichen Diesel-Deal zwischen Trump und Putin",
+          "headline_easy": "Russland greift die Ukraine an. Es gab vorher einen Diesel-Deal mit Trump.",
+          "summary_en": "Russian forces have carried out attacks in Ukraine, resulting in at least seven casualties. This development follows reports of a purported diesel deal involving Trump and Putin.",
+          "summary_de": "Russische Streitkräfte haben Angriffe in der Ukraine durchgeführt, die zu mindestens sieben Todesopfern führten. Diese Entwicklung folgt auf Berichte über einen angeblichen Diesel-Deal zwischen Trump und Putin.",
+          "summary_easy": "Es gibt Krieg in der Ukraine. Russland greift an. Viele Menschen sind gestorben. Vorher gab es einen Deal über Diesel.",
           "links": [
             {
-              "title": "How Texas landowners are fighting back against Trump's border wall",
-              "url": "https://abcnews.com/Politics/wireStory/texas-landowners-fighting-back-trumps-border-wall-137122443"
+              "title": "Russian attacks kill at least seven people in Ukraine after Trump-Putin diesel deal",
+              "url": "https://www.abc.net.au/news/2026/10/10/russian-air-strike-ukraine-after-trump-putin-diesel-deal/107251886"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Prediction Markets Have a Lock on the Midterms",
-          "headline_de": "Prognosemärkte haben die Midterms im Griff",
-          "headline_easy": "Märkte, die auf Ergebnisse wetten, liegen oft richtig bei Wahlen.",
-          "summary_en": "Prediction markets are demonstrating a strong track record in forecasting the outcomes of midterm elections. These platforms, where users bet on future events, are proving to be accurate indicators of political sentiment and potential results. Their effectiveness highlights a growing trend in data-driven political forecasting.",
-          "summary_de": "Prognosemärkte zeigen eine starke Erfolgsbilanz bei der Vorhersage von Ergebnissen bei Zwischenwahlen. Diese Plattformen, auf denen Nutzer auf zukünftige Ereignisse wetten, erweisen sich als genaue Indikatoren für die politische Stimmung und mögliche Ergebnisse. Ihre Effektivität unterstreicht einen wachsenden Trend bei der datengesteuerten politischen Prognose.",
-          "summary_easy": "Märkte, die auf Ergebnisse wetten, liegen oft richtig bei Wahlen. Sie sagen gut voraus, wer gewinnen wird. Das ist eine neue Art, Politik zu verstehen.",
+          "headline_en": "Stefan Sagmeister and EKN Transform Data into Footwear",
+          "headline_de": "Stefan Sagmeister und EKN verwandeln Daten in Schuhe",
+          "headline_easy": "Stefan Sagmeister macht Schuhe aus Daten. Die Schuhe sind bunt.",
+          "summary_en": "Artist Stefan Sagmeister, in collaboration with EKN, has created a unique line of sneakers and boots that transform global data into colorful designs. This innovative approach merges art, technology, and fashion.",
+          "summary_de": "Der Künstler Stefan Sagmeister hat in Zusammenarbeit mit EKN eine einzigartige Linie von Sneakern und Stiefeln geschaffen, die globale Daten in farbenfrohe Designs verwandeln. Dieser innovative Ansatz verbindet Kunst, Technologie und Mode.",
+          "summary_easy": "Stefan Sagmeister und EKN machen Schuhe. Die Schuhe sehen Daten. Sie sind sehr bunt.",
           "links": [
             {
-              "title": "Prediction Markets Have a Lock on the Midterms",
-              "url": "https://theintercept.com/2026/10/09/kalshi-polymarket-betting-prediction-election/"
+              "title": "stefan sagmeister and ekn transform global data into colorful sneakers and boots",
+              "url": "https://www.designboom.com/design/stefan-sagmeister-ekn-global-data-colorful-sneakers-boots-frankfurt/"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "Samsung TV Plus to Provide Live US Midterm Elections Coverage",
-          "headline_de": "Samsung TV Plus bietet Live-Berichterstattung zu den US-Zwischenwahlen",
-          "headline_easy": "Samsung TV Plus zeigt die US-Wahlen live.",
-          "summary_en": "Samsung TV Plus will offer live coverage of the US midterm elections starting October 13th. This move aims to provide viewers with timely and accessible information regarding the crucial political event. The partnership between Samsung and news providers ensures comprehensive reporting on the elections.",
-          "summary_de": "Samsung TV Plus wird ab dem 13. Oktober Live-Berichterstattung über die US-Zwischenwahlen anbieten. Dieser Schritt zielt darauf ab, den Zuschauern zeitnahe und zugängliche Informationen über das entscheidende politische Ereignis zu liefern. Die Partnerschaft zwischen Samsung und Nachrichtenanbietern gewährleistet eine umfassende Berichterstattung über die Wahlen.",
-          "summary_easy": "Samsung TV Plus zeigt die US-Wahlen live. Die Zuschauer können die Wahlen am 13. Oktober sehen. Das ist wichtig für die Information.",
+          "headline_en": "FC Augsburg vs. Bayern Munich Match Discussion",
+          "headline_de": "FC Augsburg gegen Bayern München Spiel-Diskussion",
+          "headline_easy": "Es gibt ein Fußballspiel. FC Augsburg gegen Bayern München.",
+          "summary_en": "A discussion thread is available for the FC Augsburg vs. Bayern Munich match, providing a space for fans to engage with game-time updates and viewing information. This covers all the essential details for watching the game.",
+          "summary_de": "Ein Diskussions-Thread ist für das Spiel FC Augsburg gegen Bayern München verfügbar, der Fans die Möglichkeit gibt, sich über Spiel-Updates und Informationen zur Übertragung auszutauschen. Dies deckt alle wichtigen Details für das Zuschauen des Spiels ab.",
+          "summary_easy": "Fans können über das Fußballspiel FC Augsburg gegen Bayern München sprechen. Man kann sehen, wann und wo es läuft.",
           "links": [
             {
-              "title": "Samsung TV Plus will provide live US midterm elections coverage from October 13",
-              "url": "https://www.sammobile.com/news/samsung-tv-plus-will-provide-live-us-midterm-elections-coverage-from-october-13/"
+              "title": "FC Augsburg vs. Bayern Munich: Match discussion, Game time thread, How to watch",
+              "url": "https://www.bavarianfootballworks.com/bayern-munich-gamethreads-discussion/266218/fc-augsburg-vs-bayern-munich-match-discussion-game-time-thread-how-to-watch"
             }
           ]
         }
@@ -202,48 +266,48 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "MarketsandMarkets™ Report on Colorless Polyimide Films Market",
-          "headline_de": "MarketsandMarkets™ Bericht über den Markt für farblose Polyimidfolien",
-          "headline_easy": "Ein Bericht über eine Art von Folien für technische Zwecke.",
-          "summary_en": "A new report from MarketsandMarkets™ projects the colorless polyimide films market to reach $0.65 billion by 2031. The report details market trends, growth drivers, and the competitive landscape for these specialized films used in various high-tech applications. This projection highlights the growing demand for advanced materials.",
-          "summary_de": "Ein neuer Bericht von MarketsandMarkets™ prognostiziert, dass der Markt für farblose Polyimidfolien bis 2031 0,65 Milliarden US-Dollar erreichen wird. Der Bericht beschreibt Markttrends, Wachstumstreiber und die Wettbewerbslandschaft für diese Spezialfolien, die in verschiedenen Hightech-Anwendungen eingesetzt werden. Diese Prognose unterstreicht die wachsende Nachfrage nach fortschrittlichen Materialien.",
-          "summary_easy": "Ein Bericht sagt, dass der Markt für eine Art von Folien bis 2031 sehr groß sein wird. Diese Folien sind wichtig für neue Technik. Die Nachfrage nach solchen Materialien steigt.",
+          "headline_en": "Singapore Grand Prix Workers Defy Torrential Downpour",
+          "headline_de": "Singapur Grand Prix Arbeiter trotzen sintflutartigem Regen",
+          "headline_easy": "Arbeiter in Singapur fegen Regen weg. Das ist für den Grand Prix.",
+          "summary_en": "Workers at the Singapore Grand Prix demonstrated remarkable dedication by attempting to sweep away a torrential downpour threatening the event. This moment highlights their commitment despite challenging weather conditions.",
+          "summary_de": "Arbeiter beim Singapur Grand Prix zeigten bemerkenswerte Hingabe, indem sie versuchten, einen sintflutartigen Regen wegzufegen, der die Veranstaltung bedrohte. Dieser Moment unterstreicht ihr Engagement trotz schwieriger Wetterbedingungen.",
+          "summary_easy": "Bei einem Rennen in Singapur regnet es stark. Arbeiter versuchen, den Regen wegzufegen. Das ist eine lustige Situation.",
           "links": [
             {
-              "title": "Colorless Polyimide Films Market worth $0.65 billion by 2031 - Exclusive Report by MarketsandMarkets™",
-              "url": "https://www.prnewswire.com/news-releases/colorless-polyimide-films-market-worth-0-65-billion-by-2031---exclusive-report-by-marketsandmarkets-302903293.html"
+              "title": "Think YOUR job is a thankless task? Funny moment Singapore workers try to defy the elements and sweep away torrential downpouring threatening the Grand Prix",
+              "url": "https://www.dailymail.com/news/article-16198353/Funny-moment-Singapore-workers-defy-elements-sweep-away-downpouring-Grand-Prix.html"
             }
           ]
         },
         {
-          "type": "War",
-          "emoji": "⚔️",
-          "headline_en": "Iran War Developments: Saudi Airports Blasted Again",
-          "headline_de": "Entwicklungen im Iran-Krieg: Saudi-Flughäfen erneut beschossen",
-          "headline_easy": "Es gibt neue Angriffe im Iran und Saudi-Arabien.",
-          "summary_en": "Recent developments in the context of the Iran War indicate continued hostilities, with Saudi airports reportedly being blasted again. This escalation suggests ongoing regional tensions and potential impacts on international security. The situation highlights the volatility and ongoing conflict dynamics in the region.",
-          "summary_de": "Jüngste Entwicklungen im Kontext des Iran-Kriegs deuten auf anhaltende Feindseligkeiten hin, wobei saudische Flughäfen Berichten zufolge erneut beschossen wurden. Diese Eskalation deutet auf anhaltende regionale Spannungen und mögliche Auswirkungen auf die internationale Sicherheit hin. Die Situation unterstreicht die Volatilität und die anhaltende Konfliktdynamik in der Region.",
-          "summary_easy": "Es gibt neue Angriffe im Iran und Saudi-Arabien. Flughäfen in Saudi-Arabien wurden wieder getroffen. Das zeigt, dass die Lage dort angespannt ist.",
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Netflix Director Han Jun-hee on Risk-Taking in 'The Blue Road'",
+          "headline_de": "Netflix-Regisseur Han Jun-hee über Risikobereitschaft bei 'The Blue Road'",
+          "headline_easy": "Ein Regisseur spricht über eine Serie. Er sagt, es ist wichtig, Risiken einzugehen.",
+          "summary_en": "Han Jun-hee, director of Netflix's 'The Blue Road', discusses the importance of taking creative risks in filmmaking. He believes that playing it safe can be the biggest risk in the industry.",
+          "summary_de": "Han Jun-hee, Regisseur von Netflix' 'The Blue Road', spricht über die Bedeutung von kreativen Risiken in der Filmproduktion. Er glaubt, dass Vorsicht die größte Gefahr in der Branche sein kann.",
+          "summary_easy": "Han Jun-hee hat eine neue Serie gemacht. Sie heißt 'The Blue Road'. Er sagt, man soll keine Angst haben, Neues zu machen.",
           "links": [
             {
-              "title": "Iran War: Trump TACOS Again Or Does He? Saudi Airports Blasted Again",
-              "url": "https://www.nakedcapitalism.com/2026/10/iran-war-trump-taco-ansarallah-saudi-airports-hegseth-musk-lucky.html"
+              "title": "Netflix’s ‘The Blue Road’ Director Han Jun-hee on Why Playing It Safe Is the Real Risk",
+              "url": "https://variety.com/2026/tv/festivals/netflixs-the-blue-road-director-han-jun-hee-1236907368/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Foreign Investors Pull $23.5 Billion from Asian Equities in September",
-          "headline_de": "Ausländische Investoren ziehen im September 23,5 Milliarden US-Dollar aus asiatischen Aktien ab",
-          "headline_easy": "Investoren ziehen Geld aus Asien ab.",
-          "summary_en": "Global markets saw foreign investors withdraw a significant $23.5 billion from Asian equities in September. This outflow is attributed to surging US yields, making US assets more attractive. The trend indicates a shift in investor sentiment and capital allocation towards developed markets.",
-          "summary_de": "Die globalen Märkte verzeichneten im September einen Abzug von 23,5 Milliarden US-Dollar aus asiatischen Aktien durch ausländische Investoren. Dieser Abfluss wird auf steigende US-Renditen zurückgeführt, die US-Anlagen attraktiver machen. Der Trend deutet auf eine Verlagerung der Anlegerstimmung und der Kapitalallokation hin zu entwickelten Märkten hin.",
-          "summary_easy": "Investoren ziehen Geld aus Asien ab. Sie haben im September 23,5 Milliarden Dollar genommen. Das passiert, weil Amerika gerade mehr Geld bringt. Das zeigt, dass Anleger vorsichtiger sind.",
+          "headline_en": "US Expertise Fuels Australia's Gas Boom",
+          "headline_de": "US-Expertise befeuert Australiens Gasboom",
+          "headline_easy": "Amerikanisches Wissen hilft Australien. Es gibt jetzt mehr Gas.",
+          "summary_en": "US expertise, from Texas oilmen to a former energy secretary under Trump, is significantly contributing to Australia's gas boom. This cross-border collaboration leverages American know-how to boost the Australian energy sector.",
+          "summary_de": "US-Expertise, von texanischen Ölförderern bis zu einem ehemaligen Energieminister unter Trump, trägt maßgeblich zum australischen Gasboom bei. Diese grenzüberschreitende Zusammenarbeit nutzt amerikanisches Fachwissen zur Stärkung des australischen Energiesektors.",
+          "summary_easy": "Experten aus Amerika helfen Australien. Sie helfen bei der Förderung von Gas. Das macht Australien reich.",
           "links": [
             {
-              "title": "Global Market: Foreign investors pull $23.5 billion from Asian equities in September as US yields surge",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-foreign-investors-pull-23-5-billion-from-asian-equities-in-september-as-us-yields-surge/articleshow/134829780.cms"
+              "title": "How U.S. know-how is fracking Australia into a gas boom, from Texas oilmen to Trump’s energy secretary",
+              "url": "https://fortune.com/2026/10/10/us-fracking-australia-gas-boom-texas-trump-energy/"
             }
           ]
         }
@@ -256,48 +320,80 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Japan Protests Russia's Bid to Extradite ICC Chief",
-          "headline_de": "Japan protestiert gegen Russlands Auslieferungsersuchen für IStGH-Chefin",
-          "headline_easy": "Japan ist gegen Russlands Wunsch, eine Richterin auszuliefern.",
-          "summary_en": "Japan is protesting Russia's request to extradite Tomoko Akane, an ICC chief and Japanese national, over a Putin arrest warrant. This move by Russia is seen as an attempt to undermine the International Criminal Court's authority. Japan's stance emphasizes its commitment to international law and judicial independence.",
-          "summary_de": "Japan protestiert gegen Russlands Auslieferungsersuchen für Tomoko Akane, eine Chefanklägerin des IStGH und japanische Staatsbürgerin, wegen eines Haftbefehls gegen Putin. Dieser Schritt Russlands wird als Versuch gesehen, die Autorität des Internationalen Strafgerichtshofs zu untergraben. Japans Haltung unterstreicht sein Bekenntnis zum Völkerrecht und zur richterlichen Unabhängigkeit.",
-          "summary_easy": "Japan ist gegen Russlands Wunsch, eine Richterin auszuliefern. Sie heißt Tomoko Akane. Japan sagt, das ist nicht richtig und die Richterin soll sicher sein.",
+          "headline_en": "Michael Jackson's Jacket to Be Auctioned",
+          "headline_de": "Jacke von Michael Jackson wird versteigert",
+          "headline_easy": "Eine Jacke von Michael Jackson wird verkauft. Sie ist sehr berühmt.",
+          "summary_en": "A jacket once owned by the iconic singer Michael Jackson is set to go up for auction. This piece of music memorabilia is expected to attract significant interest from collectors worldwide.",
+          "summary_de": "Eine Jacke, die einst dem legendären Sänger Michael Jackson gehörte, kommt zur Versteigerung. Dieses Stück Musik-Memorabilia wird voraussichtlich weltweites Interesse von Sammlern auf sich ziehen.",
+          "summary_easy": "Ein Kleidungsstück von Michael Jackson wird verkauft. Es ist eine wichtige Erinnerung an ihn. Viele Leute wollen es haben.",
           "links": [
             {
-              "title": "Japan protests Russia’s bid to extradite ICC chief Tomoko Akanae, a Japanese national, over Putin arrest warrant",
-              "url": "https://timesofindia.indiatimes.com/world/rest-of-world/japan-protests-russias-bid-to-extradite-icc-top-judge-tomoko-akane-a-japanese-national-over-putin-arrest-warrant/articleshow/134829705.cms"
+              "title": "Michael Jackson's jacket is going to be auctioned",
+              "url": "https://english.gossiplankanews.com/2026/10/michael-jacksons-jacket-is-going-to-be.html"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Djed Spence Available for Inter, Coach Chivu Keeps Options Open",
+          "headline_de": "Djed Spence für Inter verfügbar, Trainer Chivu hält sich Optionen offen",
+          "headline_easy": "Djed Spence kann für Inter spielen. Der Trainer ist flexibel.",
+          "summary_en": "Player Djed Spence is now available for Inter, with coach Chivu keeping his tactical options open. This development provides Inter with more flexibility in their squad selection for upcoming matches.",
+          "summary_de": "Spieler Djed Spence ist nun für Inter verfügbar, wobei Trainer Chivu seine taktischen Optionen offen hält. Diese Entwicklung gibt Inter mehr Flexibilität bei der Auswahl des Kaders für bevorstehende Spiele.",
+          "summary_easy": "Ein Spieler namens Djed Spence kann jetzt für Inter spielen. Der Trainer überlegt noch, wie er ihn einsetzt.",
+          "links": [
+            {
+              "title": "Djed Spence Available for Inter as Chivu Keeps Shape Open",
+              "url": "https://sempreinter.com/2026/10/10/djed-spence-inter-parma/"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Kuang Si Waterfalls: A Must-See Laotian Attraction",
+          "headline_de": "Kuang Si Wasserfälle: Eine Laos-Sehenswürdigkeit, die man gesehen haben muss",
+          "headline_easy": "Kuang Si Wasserfälle in Laos. Sie sind wunderschön.",
+          "summary_en": "The Kuang Si travertine waterfalls in Laos are highlighted as a must-see natural attraction. These stunning cascades offer a beautiful and refreshing escape for visitors.",
+          "summary_de": "Die Travertin-Wasserfälle von Kuang Si in Laos werden als eine unverzichtbare Naturattraktion hervorgehoben. Diese atemberaubenden Kaskaden bieten Besuchern eine wunderschöne und erfrischende Zuflucht.",
+          "summary_easy": "Es gibt schöne Wasserfälle in Laos. Sie heißen Kuang Si. Man sollte sie besuchen.",
+          "links": [
+            {
+              "title": "Kuang Si: Laotian travertine waterfalls that are simply must-see!",
+              "url": "https://eugene.kaspersky.com/2026/10/10/kuang-si-laotian-travertine-waterfalls-that-are-simply-must-see/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Thailand Opens Door to Locally Listed Bitcoin and Ether ETFs",
-          "headline_de": "Thailand öffnet Tür für lokal gelistete Bitcoin- und Ether-ETFs",
-          "headline_easy": "In Thailand kann man jetzt in Bitcoin und Ether investieren.",
-          "summary_en": "Thailand is paving the way for the listing of Bitcoin and Ether Exchange Traded Funds (ETFs) within the country. This development marks a significant step towards the mainstream adoption of cryptocurrencies in the Thai financial market. The move aims to provide regulated investment avenues for digital assets.",
-          "summary_de": "Thailand ebnet den Weg für die Notierung von Bitcoin- und Ether-Exchange-Traded-Fonds (ETFs) im Land. Diese Entwicklung ist ein wichtiger Schritt zur Mainstream-Akzeptanz von Kryptowährungen auf dem thailändischen Finanzmarkt. Der Schritt zielt darauf ab, regulierte Anlage avenues für digitale Vermögenswerte bereitzustellen.",
-          "summary_easy": "In Thailand kann man jetzt in Bitcoin und Ether investieren. Es gibt neue Produkte dafür. Das ist gut für Leute, die in Kryptowährungen investieren wollen.",
+          "headline_en": "Elon Musk Believes SpaceX Could Eclipse Earth's Economy",
+          "headline_de": "Elon Musk glaubt, SpaceX könnte die Erd-Wirtschaft übertreffen",
+          "headline_easy": "Elon Musk denkt, SpaceX ist mehr wert als die ganze Erde. Er erklärt, wie das möglich ist.",
+          "summary_en": "Elon Musk has stated his belief that SpaceX could eventually be worth far more than the entire Earth's economy. He outlines the conditions and vision required for such an unprecedented valuation.",
+          "summary_de": "Elon Musk hat seine Überzeugung geäußert, dass SpaceX schließlich weitaus mehr wert sein könnte als die gesamte Erd-Wirtschaft. Er legt die Bedingungen und die Vision dar, die für eine solch beispiellose Bewertung erforderlich sind.",
+          "summary_easy": "Elon Musk hat eine Idee über SpaceX. Er denkt, die Firma wird sehr groß. Sie könnte mehr wert sein als die ganze Welt.",
           "links": [
             {
-              "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
-              "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs"
+              "title": "Elon Musk Says SpaceX Could Be Worth Far More Than Earth's Entire Economy, Here's What That Would Really Take",
+              "url": "https://www.ibtimes.com.au/elon-musk-spacex-worth-more-global-economy-1876496"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "George Michael Anonymously Funded IVF Treatment",
-          "headline_de": "George Michael finanzierte anonym eine IVF-Behandlung",
-          "headline_easy": "George Michael hat einer Frau heimlich geholfen, ein Baby zu bekommen.",
-          "summary_en": "In a heartwarming revelation, George Michael anonymously funded IVF treatment for Jo Maidment in 2010 after seeing her story on television. Two years later, after she gave birth to twins, a bouquet of flowers revealed the singer's benevolent act. This act of kindness highlights his generosity and compassion.",
-          "summary_de": "In einer herzerwärmenden Enthüllung finanzierte George Michael 2010 anonym eine IVF-Behandlung für Jo Maidment, nachdem er ihre Geschichte im Fernsehen gesehen hatte. Zwei Jahre später, nachdem sie Zwillinge geboren hatte, enthüllte ein Blumenstrauß die wohlwollende Tat des Sängers. Diese Geste der Freundlichkeit unterstreicht seine Großzügigkeit und sein Mitgefühl.",
-          "summary_easy": "George Michael hat einer Frau heimlich geholfen, ein Baby zu bekommen. Er zahlte für ihre Behandlung. Später hat sie Zwillinge bekommen. Das zeigt, wie nett er war.",
+          "headline_en": "Reflections on Falling Through the Cracks at Facebook",
+          "headline_de": "Gedanken über das Durchfallen durch die Maschen bei Facebook",
+          "headline_easy": "Eine Person erzählt, wie sie bei Facebook Probleme hatte. Sie hat sich nicht wohlgefühlt.",
+          "summary_en": "An individual shares their personal experience of 'falling through the cracks' at Facebook, offering a candid account of their time with the tech giant. The narrative provides insight into the internal workings and potential challenges within large tech companies.",
+          "summary_de": "Eine Person teilt ihre persönliche Erfahrung, bei Facebook 'durch die Maschen gefallen' zu sein, und gibt einen ehrlichen Bericht über ihre Zeit bei dem Technologiegiganten. Die Erzählung gibt Einblicke in die internen Abläufe und potenzielle Herausforderungen innerhalb großer Technologieunternehmen.",
+          "summary_easy": "Jemand erzählt, wie es bei Facebook war. Es gab Probleme für diese Person. Sie hat sich nicht gut gefühlt.",
           "links": [
             {
-              "title": "In 2010, George Michael anonymously paid for Jo Maidment's IVF after seeing her on TV; two years later, she gave birth to Betsy and a bouquet of flowers finally revealed who had helped her",
-              "url": "https://timesofindia.indiatimes.com/world/uk/in-2010-george-michael-anonymously-paid-for-jo-maidments-ivf-after-seeing-her-on-tv-two-years-later-she-gave-birth-to-betsy-and-a-bouquet-of-flowers-finally-revealed-who-had-helped-her/articleshow/134830323.cms"
+              "title": "How I Fell Through the Cracks at Facebook",
+              "url": "https://www.thenation.com/article/society/how-i-fell-through-the-cracks-at-meta/"
             }
           ]
         }
@@ -308,27 +404,27 @@
     "wahlperiode": 21,
     "sitzung": 99,
     "url": "https://dserver.bundestag.de/btp/21/21099.pdf",
-    "summary_en": "On Thursday, October 8, 2026, the German Bundestag held its 99th session of the 21st legislative period. The session began with congratulations to Members of Parliament Dr. Thomas Pauls and Isabel Mackensen-Geis on their birthdays. Following this, Dr. Martin Plum was elected as an ordinary member and Sebastian Steineke as a substitute member of the Election Scrutiny Committee. The main focus of the session was agenda item 7, the first reading of the \"Income Tax Reform Act 2027\" (Drucksache 21/8235), with speeches from Sascha Müller (BÜNDNIS 90/DIE GRÜNEN), Doris Achelwilm (Die Linke), Parsa Marvi (SPD), Christian Douglas (AfD), Dr. Florian Dorn (CDU/CSU), Katharina Beck (BÜNDNIS 90/DIE GRÜNEN), Christian Görke (Die Linke), Frauke Heiligenstadt (SPD), and Reinhard Mixl (AfD). Also discussed was the first reading of the \"Annual Tax Act 2026\" (Drucksache 21/8283). This was followed by debates on motions from BÜNDNIS 90/DIE GRÜNEN concerning child benefit strengthening and relief for small and medium-sized incomes, and a motion from Die Linke on stricter regulation and taxation of crypto assets. Further discussions involved proposals from BÜNDNIS 90/DIE GRÜNEN aimed at closing \"justice gaps\" in the tax system, specifically regarding real estate taxation, property sales, and inheritance tax exemptions. The Bundestag also debated proposals to combat organized tax evasion like Cum-Cum, Cum-Ex, and VAT carousel fraud. Several MPs from BÜNDNIS 90/DIE GRÜNEN, CDU/CSU, AfD, SPD, and Die Linke participated in these debates.",
-    "summary_de": "Am Donnerstag, den 8. Oktober 2026, fand die 99. Sitzung der 21. Wahlperiode des Deutschen Bundestages statt. Die Sitzung begann mit Geburtstagsglückwünschen für die Abgeordneten Dr. Thomas Pauls und Isabel Mackensen-Geis. Anschließend wurden Dr. Martin Plum als ordentliches und Sebastian Steineke als stellvertretendes Mitglied in den Wahlprüfungsausschuss gewählt. Ein Hauptpunkt der Sitzung war die erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines \"Einkommensteuerreformgesetzes 2027\" (Drucksache 21/8235), zu dem Sascha Müller (BÜNDNIS 90/DIE GRÜNEN), Doris Achelwilm (Die Linke), Parsa Marvi (SPD), Christian Douglas (AfD), Dr. Florian Dorn (CDU/CSU), Katharina Beck (BÜNDNIS 90/DIE GRÜNEN), Christian Görke (Die Linke), Frauke Heiligenstadt (SPD) und Reinhard Mixl (AfD) sprachen. Ebenfalls beraten wurde der Entwurf eines \"Jahressteuergesetzes 2026\" (Drucksache 21/8283). Es folgten Debatten über Anträge von BÜNDNIS 90/DIE GRÜNEN zur Stärkung des Kindergeldes und zur Entlastung kleiner und mittlerer Einkommen sowie ein Antrag von Die Linke zur strengeren Regulierung und gerechteren Besteuerung von Kryptowerten. Weitere Diskussionen betrafen Anträge von BÜNDNIS 90/DIE GRÜNEN zur Schließung von \"Gerechtigkeitslücken\" im Steuersystem, insbesondere bei der Immobilienbesteuerung, Grundstücksveräußerungen und Erbschaftsteuerbefreiungen. Der Bundestag debattierte auch Anträge zur stärkeren Bekämpfung organisierter Steuerhinterziehung wie Cum-Cum, Cum-Ex und Umsatzsteuerkarusselle. Zahlreiche Abgeordnete von BÜNDNIS 90/DIE GRÜNEN, CDU/CSU, AfD, SPD und Die Linke beteiligten sich an diesen Beratungen.",
-    "summary_easy": "Am Donnerstag, 8. Oktober 2026, gab es eine Sitzung im Bundestag. Zuerst wurden Abgeordnete zum Geburtstag beglückwünscht. Dann wurde ein neuer Ausschuss gewählt. Der wichtigste Punkt war ein neues Gesetz zur Einkommensteuer. Viele Politiker sprachen dazu. Auch ein Gesetz für die jährlichen Steuern wurde besprochen. Es gab auch Anträge für mehr Geld für Familien. Ein Antrag wollte Kryptowährungen besser regeln. Es gab auch viele Ideen, um das Steuersystem fairer zu machen. Es ging um Immobilien und Erbschaften. Ein Thema war auch, wie man Steuerbetrug besser bekämpfen kann. Politiker von verschiedenen Parteien diskutierten.",
+    "summary_en": "The 99th session of the 21st legislative period of the German Bundestag took place on Thursday, October 8, 2026. The session began with birthday congratulations for Members of Parliament Dr. Thomas Pauls and Isabel Mackensen-Geis. Following this, Dr. Martin Plum was elected as an ordinary member and Sebastian Steineke as a substitute member of the Election Review Committee.\n\nThe primary focus of the day was agenda item 7, the first reading of two government bills: the Income Tax Reform Act 2027 and the Annual Tax Act 2026. Sascha Müller (BÜNDNIS 90/DIE GRÜNEN) and Doris Achelwilm (Die Linke) spoke on the Income Tax Reform Act, with Müller focusing on the proposed changes. Parsa Marvi (SPD) and Christian Douglas (AfD) also contributed to the discussion, with Douglas likely expressing opposition. Dr. Florian Dorn (CDU/CSU) and Katharina Beck (BÜNDNIS 90/DIE GRÜNEN) continued the debate. Christian Görke (Die Linke) and Frauke Heiligenstadt (SPD) offered further perspectives, followed by Reinhard Mixl (AfD). Bundesminister BMF Lars Klingbeil then addressed the House regarding the Annual Tax Act 2026, which was also debated by Dr. Matthias Hiller and Dr. Michael Meister (both CDU/CSU), and Dr. Moritz Heuberger (BÜNDNIS 90/DIE GRÜNEN). Kay Gottschalk (AfD) also contributed to the tax legislation discussions. The session also included the first reading of motions from BÜNDNIS 90/DIE GRÜNEN on strengthening child benefits and relieving small and medium incomes. Further agenda items involved recommendations and reports from the Finance Committee on various motions, including closing \"justice gaps\" in the tax system related to \"Share Deals\", real estate company privileges, inheritance tax exemptions, and taxation of real estate sales. Motions concerning the stronger regulation and taxation of crypto assets, and the fight against organized tax evasion like Cum-Cum and Cum-Ex, were also addressed, with multiple MPs from various parties, including Katharina Beck (BÜNDNIS 90/DIE GRÜNEN), Andreas Audretsch (BÜNDNIS 90/DIE GRÜNEN), Max Lucks (BÜNDNIS 90/DIE GRÜNEN), Olav Gutting (CDU/CSU), Fritz Güntzler (CDU/CSU), Parsa Marvi (SPD), Frauke Heiligenstadt (SPD), and representatives from the AfD, speaking on these complex financial and tax matters. The second and third readings of several bills proposed by BÜNDNIS 90/DIE GRÜNEN concerning justice gaps in real estate taxation and crypto asset taxation were also conducted.",
+    "summary_de": "Die 99. Sitzung der 21. Wahlperiode des Deutschen Bundestages fand am Donnerstag, den 8. Oktober 2026, statt. Die Sitzung begann mit Glückwünschen zum Geburtstag der Abgeordneten Dr. Thomas Pauls und Isabel Mackensen-Geis. Anschließend wurde Dr. Martin Plum als ordentliches Mitglied und Sebastian Steineke als stellvertretendes Mitglied in den Wahlprüfungsausschuss gewählt.\n\nHauptpunkt der Tagesordnung war Punkt 7, die erste Beratung von zwei Gesetzentwürfen der Bundesregierung: dem Entwurf eines Einkommensteuerreformgesetzes 2027 und dem Entwurf eines Jahressteuergesetzes 2026. Sascha Müller (BÜNDNIS 90/DIE GRÜNEN) und Doris Achelwilm (Die Linke) sprachen zum Einkommensteuerreformgesetz, wobei Müller die vorgeschlagenen Änderungen beleuchtete. Parsa Marvi (SPD) und Christian Douglas (AfD) trugen ebenfalls zur Diskussion bei, wobei Douglas wahrscheinlich ablehnende Positionen vertrat. Dr. Florian Dorn (CDU/CSU) und Katharina Beck (BÜNDNIS 90/DIE GRÜNEN) setzten die Debatte fort. Christian Görke (Die Linke) und Frauke Heiligenstadt (SPD) äußerten weitere Perspektiven, gefolgt von Reinhard Mixl (AfD). Bundesminister BMF Lars Klingbeil sprach anschließend zum Jahressteuergesetz 2026, das auch von Dr. Matthias Hiller und Dr. Michael Meister (beide CDU/CSU) sowie Dr. Moritz Heuberger (BÜNDNIS 90/DIE GRÜNEN) erörtert wurde. Kay Gottschalk (AfD) beteiligte sich ebenfalls an den Debatten zu den Steuergesetzen. Des Weiteren wurden Anträge von BÜNDNIS 90/DIE GRÜNEN zur Stärkung des Kindergeldes und zur Entlastung kleiner und mittlerer Einkommen beraten. Weitere Tagesordnungspunkte umfassten Beschlussempfehlungen und Berichte des Finanzausschusses zu verschiedenen Anträgen, darunter die Schließung von „Gerechtigkeitslücken“ im Steuersystem bezüglich „Share Deals“, Privilegierungen von Immobilienkonzernen, Ausnahmen bei der Erbschaftsteuer und die Besteuerung von Immobilienveräußerungen. Ebenso wurden Anträge zur strengeren Regulierung und gerechteren Besteuerung von Kryptowerten sowie zur Bekämpfung organisierter Steuerhinterziehung wie Cum-Cum und Cum-Ex behandelt, wobei zahlreiche Abgeordnete verschiedener Fraktionen, darunter Katharina Beck (BÜNDNIS 90/DIE GRÜNEN), Andreas Audretsch (BÜNDNIS 90/DIE GRÜNEN), Max Lucks (BÜNDNIS 90/DIE GRÜNEN), Olav Gutting (CDU/CSU), Fritz Güntzler (CDU/CSU), Parsa Marvi (SPD), Frauke Heiligenstadt (SPD) sowie Vertreter der AfD, zu diesen komplexen finanz- und steuerpolitischen Themen sprachen. Die zweite und dritte Beratung mehrerer Gesetzesentwürfe von BÜNDNIS 90/DIE GRÜNEN zur Schließung von Gerechtigkeitslücken bei der Immobilienbesteuerung und der Besteuerung von Kryptowerten fanden ebenfalls statt.",
+    "summary_easy": "Am Donnerstag, dem 8. Oktober 2026, gab es eine Sitzung im Bundestag. Zuerst gratulierten die Abgeordneten Frau Mackensen-Geis und Herrn Dr. Pauls zum Geburtstag. Dann wurde Dr. Martin Plum in einen wichtigen Ausschuss gewählt. Hauptsächlich ging es um neue Steuergesetze. Es gab ein Gesetz für eine Einkommensteuer-Reform. Auch ein Gesetz für die Jahressteuer 2026 wurde besprochen. Viele Abgeordnete sprachen über die neuen Gesetze. Sie kamen von Parteien wie Grünen, Linke, SPD, AfD und CDU/CSU. Es gab auch Vorschläge, das Kindergeld zu erhöhen. Familien sollen besser unterstützt werden. Kleine und mittlere Einkommen sollen mehr Geld behalten. Es gab auch Diskussionen über Steuern auf Immobilien und Krypto-Geld. Man sprach über Wege, Steuern zu hinterziehen und wie man das stoppen kann. Mehrere Abgeordnete wie Katharina Beck und Max Lucks von den Grünen waren sehr aktiv.",
     "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact_en": "During the Renaissance, purple dye was incredibly expensive and difficult to produce, making it a symbol of royalty and wealth. Only the very elite, like emperors and high-ranking clergy, could afford to wear it, often signifying their status and power.",
-      "fact_de": "Während der Renaissance war Purpurfarbe unglaublich teuer und schwierig herzustellen, was sie zu einem Symbol für Königtum und Reichtum machte. Nur die ganz Elite, wie Kaiser und hochrangige Geistliche, konnten es sich leisten, sie zu tragen, was oft ihren Status und ihre Macht signalisierte.",
-      "fact_easy": "Im Mittelalter war lila Farbe sehr teuer. Nur Könige und wichtige Leute konnten sie tragen. Lila zeigte, dass sie reich und mächtig waren.",
+      "fact_en": "During the height of the Roman Empire, purple dye was so rare and expensive that only emperors and high-ranking officials were permitted to wear it.  This regulation, known as sumptuary law, was designed to reinforce social hierarchy and distinguish the elite.",
+      "fact_de": "Während des Römischen Reiches war Purpurfarbe so selten und teuer, dass nur Kaiser und hochrangige Beamte sie tragen durften. Diese Regelung, bekannt als Luxusgesetz, sollte die soziale Hierarchie stärken und die Elite kennzeichnen.",
+      "fact_easy": "Im alten Rom war lila Farbe sehr teuer. Nur Kaiser und wichtige Leute durften sie tragen. Das zeigte, wer wichtig war.",
       "category": "Fashion",
-      "source_title": "The Color Purple: History, Symbolism, and Meaning",
-      "source_url": "https://www.history.com/news/the-color-purple-history-symbolism-and-meaning"
+      "source_title": "The History of Purple Dye",
+      "source_url": "https://www.thoughtco.com/history-of-purple-dye-2361726"
     },
     {
-      "fact_en": "In ancient Egypt, both men and women wore makeup, particularly kohl around their eyes. This wasn't just for aesthetics; it was believed to ward off evil spirits and protect their eyes from the harsh desert sun.",
-      "fact_de": "Im alten Ägypten trugen sowohl Männer als auch Frauen Make-up, insbesondere Kohl um die Augen. Dies diente nicht nur der Ästhetik; es wurde angenommen, dass es böse Geister abwehrt und ihre Augen vor der harten Wüstensonne schützt.",
-      "fact_easy": "Alte Ägypter mochten Make-up. Männer und Frauen trugen es um die Augen. Sie dachten, es schützt vor bösen Geistern und der Sonne.",
+      "fact_en": "The tradition of blowing out birthday candles dates back to ancient Greece, where people believed that smoke carried their prayers and wishes to the gods. They also lit candles to honor Artemis, the goddess of the moon.",
+      "fact_de": "Die Tradition, Geburtstags-Kerzen auszupusten, stammt aus dem antiken Griechenland. Man glaubte, dass Rauch Gebete und Wünsche zu den Göttern trug. Kerzen wurden auch zu Ehren der Göttin Artemis entzündet.",
+      "fact_easy": "Die Idee, Kerzen am Geburtstag auszupusten, kommt aus Griechenland. Die Menschen glaubten, Rauch bringt Wünsche zu den Göttern. Sie ehrten auch die Göttin Artemis.",
       "category": "Traditions",
-      "source_title": "Ancient Egyptian Makeup Was More Than Just Cosmetics",
-      "source_url": "https://www.smithsonianmag.com/science-nature/ancient-egyptian-makeup-was-more-than-just-cosmetics-180954732/"
+      "source_title": "The History of Birthday Candles",
+      "source_url": "https://www.whychristmas.com/customs/birthdays.html"
     }
   ],
   "frankfurt": {
@@ -336,64 +432,76 @@
       {
         "type": "Events",
         "emoji": "🎪",
-        "headline_en": "DB Commuters to See 25% Discount on Monthly Tickets",
-        "headline_de": "DB-Pendler: Monatskarten bald 25 Prozent günstiger",
-        "headline_easy": "DB-Zugfahrer bekommen Rabatt",
-        "summary_en": "From October, ICE commuters will benefit from a 25% discount on monthly train tickets. However, it's important to note that this new monthly ticket might not always be the best alternative to the Deutschlandticket.",
-        "summary_de": "Ab Oktober sparen ICE-Pendler kräftig, da Monatskarten 25 Prozent günstiger werden. Es ist jedoch zu prüfen, ob diese neue Monatskarte immer die beste Alternative zum Deutschlandticket darstellt.",
-        "summary_easy": "Ab Oktober werden Monatskarten für ICE-Zugfahrer billiger. Sie sparen 25 Prozent. Aber Achtung: Das neue Ticket ist nicht immer besser als das Deutschlandticket.",
+        "headline_en": "Hessian Film Award Celebrates Local Talent Amidst Modest Ceremony",
+        "headline_de": "Hessischer Filmpreis würdigt lokale Talente in bescheidener Zeremonie",
+        "headline_easy": "Filmfest für Hessen in Frankfurt. Klein, aber fein. Nächstes Jahr wird es größer.",
+        "summary_en": "The Hessian Film Award honored filmmakers and cinemas in Frankfurt this year in a more modest setting. Culture Minister Timon Gremmels has promised more space for the event in 2027.",
+        "summary_de": "Der Hessische Filmpreis hat in diesem Jahr Filmschaffende und Kinos in Frankfurt in einem bescheideneren Rahmen gewürdigt. Kulturminister Timon Gremmels hat für 2027 mehr Platz für die Veranstaltung zugesagt.",
+        "summary_easy": "Der Filmpreis für Hessen war dieses Jahr klein. Viele Filmemacher und Kinos haben Preise bekommen. Nächstes Jahr soll die Feier größer sein.",
         "links": [
           {
-            "title": "DB-Pendler aufgepasst: Monatskarten bald 25 Prozent günstiger",
-            "url": "https://www.teltarif.de/db-pendler-deutschlandticket/news/106667.html"
+            "title": "Hessischer Filmpreis: Großes Kino in kleinem Saal",
+            "url": "https://www.faz.net/aktuell/rhein-main/kultur/hessischer-filmpreis-2026-in-frankfurt-verliehen-accg-201305329.html"
+          },
+          {
+            "title": "Nächste europäische Airline muss Insolvenz anmelden – Flüge vorübergehend eingestellt",
+            "url": "https://www.chip.de/news/business/naechste-europaeische-fluggesellschaft-muss-insolvenz-anmelden-fluege-voruebergehend-eingestellt_d408f2ed-1922-422f-816e-629d2ad5b4f6.html"
           }
         ]
       },
       {
         "type": "Crime",
         "emoji": "🚔",
-        "headline_en": "Mainova to Refund Heating Costs to Tenants",
-        "headline_de": "Mainova erstattet Heizkosten: Mieter bekommen Geld zurück",
-        "headline_easy": "Mainova gibt Geld für Heizkosten zurück",
-        "summary_en": "Mainova will be refunding a portion of heating costs to affected tenants. The company will automatically reimburse households for several billing periods.",
-        "summary_de": "Mainova erstattet betroffenen Mietern einen Teil der Heizkosten zurück. Die Rückzahlung erfolgt automatisch für mehrere Abrechnungszeiträume.",
-        "summary_easy": "Mainova gibt Geld zurück. Mieter bekommen einen Teil ihrer Heizkosten zurück. Die Rückzahlung ist automatisch für mehrere Zeiten.",
+        "headline_en": "Arson Suspected at Frankfurt School Storage for Ukraine Aid",
+        "headline_de": "Brandstiftung bei Lager für Ukraine-Hilfsgüter an Frankfurter Schule vermutet",
+        "headline_easy": "Feuer bei einer Schule in Frankfurt. Ein Lager für Spenden für die Ukraine ist kaputt. Die Polizei glaubt, es war Absicht.",
+        "summary_en": "An investigation by state security is underway after a fire at a storage room for the 'Frankfurt for Ukraine' initiative at the Viktor-Frankl-School. Police suspect the fire was deliberately set.",
+        "summary_de": "Nach einem Brand in einem Lagerraum der Hilfsinitiative 'Frankfurt for Ukraine' an der Viktor-Frankl-Schule ermittelt der Staatsschutz. Die Polizei geht von einem vorsätzlich gelegten Brand aus.",
+        "summary_easy": "Ein Feuer war an einer Schule in Frankfurt. Dort waren Spenden für die Ukraine gelagert. Die Polizei denkt, jemand hat das Feuer gemacht. Der Staatsschutz ermittelt jetzt.",
         "links": [
           {
-            "title": "Mainova erstattet Heizkosten: Mieter bekommen Geld zurück",
-            "url": "https://www.teltarif.de/heizkosten-rueckzahlung-heizkostenabrechnung/news/106615.html"
+            "title": "Hilfsgüter für Ukraine: Nach Feuer an Frankfurter Schule ermittelt der Staatsschutz",
+            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/nach-feuer-an-frankfurter-schule-ermittelt-der-staatsschutz-accg-201301945.html"
+          },
+          {
+            "title": "Netzwoche: Vodafone fleißig, Telekom an wichtigen Punkten",
+            "url": "https://www.teltarif.de/netzwoche-netzausbau-telekom-vodafone-o2-1und1/news/106687.html"
           }
         ]
       },
       {
         "type": "Sales & Offers",
         "emoji": "🛍️",
-        "headline_en": "Mainova to Refund Heating Costs to Tenants",
-        "headline_de": "Mainova erstattet Heizkosten: Mieter bekommen Geld zurück",
-        "headline_easy": "Mainova gibt Geld für Heizkosten zurück",
-        "summary_en": "Mainova will be refunding a portion of heating costs to affected tenants. The company will automatically reimburse households for several billing periods.",
-        "summary_de": "Mainova erstattet betroffenen Mietern einen Teil der Heizkosten zurück. Die Rückzahlung erfolgt automatisch für mehrere Abrechnungszeiträume.",
-        "summary_easy": "Mainova gibt Geld zurück. Mieter bekommen einen Teil ihrer Heizkosten zurück. Die Rückzahlung ist automatisch für mehrere Zeiten.",
+        "headline_en": "Network Expansion Continues: Vodafone Active, Telekom Focuses on Key Areas",
+        "headline_de": "Netzausbau schreitet voran: Vodafone fleißig, Telekom konzentriert sich auf wichtige Punkte",
+        "headline_easy": "Mehr Handy-Netz in vielen Teilen von Deutschland. Vodafone baut viel. Telekom baut auch.",
+        "summary_en": "The latest network week report indicates progress in reducing mobile dead zones across Germany. Vodafone has been particularly active in expanding its network, while Telekom is focusing on crucial points.",
+        "summary_de": "Die jüngste Netzwoche zeigt Fortschritte beim Ausbau des Mobilfunknetzes in Deutschland. Vodafone war in dieser Woche besonders aktiv, während die Telekom sich auf wichtige Punkte konzentriert.",
+        "summary_easy": "Das Netz für Handys wird besser in Deutschland. Viele Orte haben jetzt besseren Empfang. Vodafone war sehr fleißig beim Ausbau.",
         "links": [
           {
-            "title": "Mainova erstattet Heizkosten: Mieter bekommen Geld zurück",
-            "url": "https://www.teltarif.de/heizkosten-rueckzahlung-heizkostenabrechnung/news/106615.html"
+            "title": "Netzwoche: Vodafone fleißig, Telekom an wichtigen Punkten",
+            "url": "https://www.teltarif.de/netzwoche-netzausbau-telekom-vodafone-o2-1und1/news/106687.html"
           }
         ]
       },
       {
         "type": "Local News",
         "emoji": "📍",
-        "headline_en": "Mainova to Refund Heating Costs to Tenants",
-        "headline_de": "Mainova erstattet Heizkosten: Mieter bekommen Geld zurück",
-        "headline_easy": "Mainova gibt Geld für Heizkosten zurück",
-        "summary_en": "Mainova will be refunding a portion of heating costs to affected tenants. The company will automatically reimburse households for several billing periods.",
-        "summary_de": "Mainova erstattet betroffenen Mietern einen Teil der Heizkosten zurück. Die Rückzahlung erfolgt automatisch für mehrere Abrechnungszeiträume.",
-        "summary_easy": "Mainova gibt Geld zurück. Mieter bekommen einen Teil ihrer Heizkosten zurück. Die Rückzahlung ist automatisch für mehrere Zeiten.",
+        "headline_en": "Hessian Film Award Ceremony Held Modestly in Frankfurt; Arson Suspected at School Aid Storage",
+        "headline_de": "Hessischer Filmpreis bescheiden verliehen; Brandstiftung bei Ukraine-Hilfsgütern vermutet",
+        "headline_easy": "Filmfest in Frankfurt war klein. Brand bei Schule für Ukraine-Hilfe. Polizei ermittelt.",
+        "summary_en": "The Hessian Film Award was presented in Frankfurt with a smaller scale than in previous years, with promises of more space in 2027. Separately, state security is investigating a suspected arson at a storage facility for Ukraine aid at a Frankfurt school.",
+        "summary_de": "Der Hessische Filmpreis wurde in Frankfurt in kleinerem Rahmen verliehen, mit dem Versprechen von mehr Platz im Jahr 2027. In einem anderen Fall ermittelt der Staatsschutz nach einem mutmaßlichen Brandanschlag auf ein Lager für Ukraine-Hilfsgüter an einer Frankfurter Schule.",
+        "summary_easy": "Der Filmpreis in Frankfurt war dieses Jahr kleiner. Es gab auch einen Brand an einer Schule. Dort wurden Spenden für die Ukraine gelagert. Die Polizei glaubt, es war Absicht.",
         "links": [
           {
-            "title": "Mainova erstattet Heizkosten: Mieter bekommen Geld zurück",
-            "url": "https://www.teltarif.de/heizkosten-rueckzahlung-heizkostenabrechnung/news/106615.html"
+            "title": "Hessischer Filmpreis: Großes Kino in kleinem Saal",
+            "url": "https://www.faz.net/aktuell/rhein-main/kultur/hessischer-filmpreis-2026-in-frankfurt-verliehen-accg-201305329.html"
+          },
+          {
+            "title": "Hilfsgüter für Ukraine: Nach Feuer an Frankfurter Schule ermittelt der Staatsschutz",
+            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/nach-feuer-an-frankfurter-schule-ermittelt-der-staatsschutz-accg-201301945.html"
           }
         ]
       }
