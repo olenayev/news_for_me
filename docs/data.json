@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, October 13 2026",
+  "date": "Wednesday, October 14 2026",
   "sections": [
     {
       "category": "Germany",
@@ -8,72 +8,88 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "UK PM Accuses Russia of Brexit Meddling; Europe Grapples with Hybrid Warfare; Film Doc Explores Migrants and Elon Musk",
-          "headline_de": "UK-Premierminister beschuldigt Russland der Brexit-Einmischung; Europa ringt mit hybrider Kriegsführung; Film-Doku über Migranten und Elon Musk",
-          "headline_easy": "UK-Chef sagt: Russland hat versucht, Brexit zu beeinflussen. Europa hat Angst vor neuen Kriegen. Ein Film spricht über Migranten und Elon Musk.",
-          "summary_en": "British Prime Minister alleges Russian interference in Brexit. Europe is facing challenges with hybrid warfare and rebuilding its defense. A new film documentary features discussions on migrants and Elon Musk.",
-          "summary_de": "Der britische Premierminister wirft Russland Einmischung in den Brexit vor. Europa steht vor Herausforderungen durch hybride Kriegsführung und dem Wiederaufbau seiner Verteidigungsfähigkeiten. Eine neue Film-Dokumentation thematisiert Migranten und Elon Musk.",
-          "summary_easy": "Der britische Premier glaubt, Russland hat sich in den Brexit eingemischt. Europa muss mehr für seine Verteidigung tun. Ein Film erzählt über Migranten.",
+          "headline_en": "Germany Grapples with Civilization's Reckoning in Gaza Conflict's Wake",
+          "headline_de": "Deutschland ringt mit Zivilisationsabrechnung nach Gaza-Konflikt",
+          "headline_easy": "Deutschland denkt über Gaza nach.",
+          "summary_en": "The conflict in Gaza is prompting a significant reevaluation of civilization itself, with potential long-term impacts on the Middle East. Germany, alongside broader European and global discussions, is observing these shifts and their implications.",
+          "summary_de": "Der Konflikt in Gaza führt zu einer Neubewertung der Zivilisation. Deutschland beobachtet diese Entwicklungen und ihre Auswirkungen auf den Nahen Osten und darüber hinaus.",
+          "summary_easy": "Der Krieg in Gaza ist wichtig. Deutschland und andere Länder reden darüber. Es gibt neue Ideen.",
           "links": [
             {
-              "title": "UK PM accuses Russia of Brexit meddling (VIDEO)",
-              "url": "https://rt-english.com/news/647080-uk-pm-russia-meddling-brexit/"
-            },
-            {
-              "title": "'Rebellion' Interview on Film Doc on Bradford 12, Migrants, Elon Musk",
-              "url": "http://www.hollywoodreporter.com/movies/movie-news/rebellion-doc-film-interview-bradford-12-migrants-elon-musk-1236726971/"
+              "title": "A Reckoning With Civilization Itself: How the Genocide in Gaza Reshaped the Middle East",
+              "url": "https://lithub.com/a-reckoning-with-civilization-itself-how-the-genocide-in-gaza-reshaped-the-middle-east/"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "EU Capital Markets Reform Deal Reached; Russia Accused of Brexit Meddling; Europe Rebuilds Defense",
-          "headline_de": "Einigung bei EU-Kapitalmarktreformen; Russland des Brexit-Einmischung beschuldigt; Europa baut Verteidigung auf",
-          "headline_easy": "Europa hat sich auf neue Regeln für die Börse geeinigt. Der UK-Chef sagt, Russland hat bei Brexit geholfen. Europa will seine Armee stärken.",
-          "summary_en": "A deal has been reached on EU capital markets reform after intensive talks. Separately, the UK Prime Minister accused Russia of meddling in Brexit, and Europe is working to rebuild its defense capabilities in the face of hybrid warfare.",
-          "summary_de": "Nach intensiven Verhandlungen wurde eine Einigung bei den EU-Kapitalmarktreformen erzielt. Zudem beschuldigte der britische Premierminister Russland der Einmischung in den Brexit, während Europa seine Verteidigungsfähigkeiten angesichts hybrider Kriegsführung wieder aufbaut.",
-          "summary_easy": "Europa hat neue Gesetze für die Börse gemacht. Der britische Premier denkt, Russland hat beim Brexit geholfen. Europa baut seine Armee auf.",
+          "headline_en": "Germany Considers Electricity Tax Cut Amidst Economic Data and EU-China Deal",
+          "headline_de": "Deutschland erwägt Stromsteuersenkung angesichts Wirtschaftsdaten und EU-China-Abkommen",
+          "headline_easy": "Deutschland will Strom billiger machen. Es gibt neue Wirtschaftszahlen.",
+          "summary_en": "Germany is proposing a cut to its electricity tax, a move that could impact consumer bills. This comes as the EU and China reportedly reach a deal, and alongside broader economic data reflecting potentially weak holiday spending.",
+          "summary_de": "Deutschland plant eine Senkung der Stromsteuer, was die Rechnungen beeinflussen könnte. Dies geschieht, während die EU und China Berichten zufolge ein Abkommen schließen und schwache Weihnachts-Ausgabendaten veröffentlicht werden.",
+          "summary_easy": "Die Stromsteuer in Deutschland könnte sinken. Das hilft den Menschen. China und Europa haben einen Deal.",
           "links": [
             {
-              "title": "Frantic behind-the-scenes talks delivers deal on EU capital markets reform",
-              "url": "https://www.irishtimes.com/business/2026/10/12/frantic-behind-the-scenes-talks-delivers-deal-on-eu-capital-markets-reform/"
+              "title": "What Germany's proposed electricity tax cut could mean for your bills",
+              "url": "https://www.thelocal.de/20261013/what-germanys-proposed-electricity-tax-cut-could-mean-for-your-bills"
             },
             {
-              "title": "Europe Grapples With 'Hybrid Warfare' While Rebuilding Its Defense Capabilities",
-              "url": "https://reason.com/2026/10/12/europe-grapples-with-hybrid-warfare-while-rebuilding-its-defense-capabilities/"
+              "title": "Sharp China: Brussels and Beijing Make a Deal; Weak Holiday Spending Data; Xi's Reported Rest Breaks; Peak Dove?",
+              "url": "https://sinocism.com/p/sharp-china-brussels-and-beijing"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Rise in Hate Crimes in England and Wales Amidst Wider Geopolitical Tensions",
+          "headline_de": "Anstieg von Hassverbrechen in England und Wales inmitten breiterer geopolitischer Spannungen",
+          "headline_easy": "Mehr Hassverbrechen in England. Das ist nicht gut.",
+          "summary_en": "Recorded anti-Jewish hate crimes have seen a 10% increase in England and Wales. This development occurs within a broader context of geopolitical shifts, including the ongoing conflict in Gaza which is reshaping the Middle East.",
+          "summary_de": "Die Zahl der registrierten Hassverbrechen gegen Juden in England und Wales ist um 10% gestiegen. Dies geschieht vor dem Hintergrund des Gaza-Konflikts, der den Nahen Osten umgestaltet.",
+          "summary_easy": "In England gab es mehr Hass gegen Juden. Das ist ein Problem. Der Krieg in Gaza ist auch ein Thema.",
+          "links": [
+            {
+              "title": "Recorded anti-Jewish hate crimes rise 10% in England and Wales",
+              "url": "https://www.israelnationalnews.com/news/434539"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Deal Reached on EU Capital Markets Reform; Stock Screen Software Added to PyPI; Linux Phones as Alternative to Duopoly",
-          "headline_de": "Einigung bei EU-Kapitalmarktreform erzielt; Stock-Screening-Software zu PyPI hinzugefügt; Linux-Telefone als Alternative zum Duopol",
-          "headline_easy": "Europa hat eine Einigung über die Börse gemacht. Es gibt neue Software für Aktien. Manche Leute denken, Linux-Handys könnten gut sein.",
-          "summary_en": "A deal has been struck on EU capital markets reform following intensive negotiations. Meanwhile, new stock screen software has been added to PyPI, and there's discussion about the potential for Linux phones to challenge the current Android/iOS duopoly.",
-          "summary_de": "Nach intensiven Verhandlungen wurde eine Einigung bei den EU-Kapitalmarktreformen erzielt. Unterdessen wurde eine neue Software für Aktienanalysen zu PyPI hinzugefügt, und es wird über das Potenzial von Linux-Telefonen diskutiert, das aktuelle Android/iOS-Duopol herauszufordern.",
-          "summary_easy": "Europa hat sich auf neue Börsenregeln geeinigt. Neue Software hilft beim Aktienkauf. Vielleicht werden Linux-Handys bald wichtig.",
+          "headline_en": "European Markets Open Higher Amidst Corporate Earnings, German Tax Cut Rumors",
+          "headline_de": "Europäische Märkte eröffnen höher inmitten von Unternehmensgewinnen und Gerüchten über deutsche Steuersenkung",
+          "headline_easy": "Die Börsen in Europa sind gestiegen. Firmen erzählen von ihrem Geld.",
+          "summary_en": "European stock markets have opened mostly higher, driven by a wave of corporate earnings reports. In Germany, discussions around a potential electricity tax cut are also circulating, which could impact market sentiment.",
+          "summary_de": "Die europäischen Aktienmärkte sind überwiegend höher eröffnet, angetrieben von Unternehmensgewinnen. In Deutschland wird über eine mögliche Stromsteuersenkung diskutiert, was die Marktstimmung beeinflussen könnte.",
+          "summary_easy": "Aktien sind mehr wert. Firmen haben gute Nachrichten. Deutschland will die Stromsteuer senken.",
           "links": [
             {
-              "title": "stockscreen-mcp added to PyPI",
-              "url": "https://pypi.org/project/stockscreen-mcp/"
+              "title": "Europe opens mostly higher as earnings pour in",
+              "url": "https://biztoc.com/x/58db1ed2f145710c"
+            },
+            {
+              "title": "AirConsole partners with Zeekr in its first Geely deal",
+              "url": "https://thenextweb.com/news/airconsole-zeekr-geely-paris"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "Linux Phones Explored as Android/iOS Alternative; Europe Addresses Hybrid Warfare; Film Explores Migrants and Elon Musk",
-          "headline_de": "Linux-Telefone als Alternative zu Android/iOS erforscht; Europa befasst sich mit hybrider Kriegsführung; Film über Migranten und Elon Musk",
-          "headline_easy": "Können Linux-Handys eine Alternative sein? Europa muss sich auf Kriege vorbereiten. Ein Film spricht über Migranten und Elon Musk.",
-          "summary_en": "The viability of Linux phones as an alternative to the dominant Android and iOS operating systems is being considered. In parallel, Europe is grappling with hybrid warfare and the necessity of rebuilding its defense capabilities. A film documentary delves into topics concerning migrants and Elon Musk.",
-          "summary_de": "Die Tauglichkeit von Linux-Telefonen als Alternative zu den dominierenden Betriebssystemen Android und iOS wird in Betracht gezogen. Parallel dazu setzt sich Europa mit hybrider Kriegsführung auseinander und der Notwendigkeit, seine Verteidigungsfähigkeiten wieder aufzubauen. Eine Film-Dokumentation befasst sich mit Themen rund um Migranten und Elon Musk.",
-          "summary_easy": "Es gibt eine neue Idee für Handys mit Linux. Europa muss vorsichtig sein bei Kriegen. Ein Film zeigt Geschichten von Migranten und Elon Musk.",
+          "headline_en": "European Tech Firms Navigate AI Models Amidst Broader Geopolitical and Cultural Shifts",
+          "headline_de": "Europäische Tech-Firmen navigieren KI-Modelle inmitten breiterer geopolitischer und kultureller Verschiebungen",
+          "headline_easy": "Firmen reden über Computer-Ideen (KI). Der Krieg in Gaza ist wichtig.",
+          "summary_en": "The discussion around AI models and their use is ongoing, with companies like Atlassian confirming they do not use Chinese AI models. This technological development occurs alongside significant geopolitical events, including the conflict in Gaza and its global repercussions.",
+          "summary_de": "Die Diskussion über KI-Modelle und deren Nutzung geht weiter. Technologiefirmen bestätigen, keine chinesischen KI-Modelle zu verwenden. Dies geschieht im Kontext geopolitischer Ereignisse wie dem Gaza-Konflikt.",
+          "summary_easy": "Technik-Firmen sprechen über KI. Sie nutzen keine KI aus China. Der Krieg im Nahen Osten ist auch ein Thema.",
           "links": [
             {
-              "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-              "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/"
+              "title": "Atlassian does not use Chinese AI models in production, its CEO says",
+              "url": "https://thenextweb.com/news/atlassian-chinese-ai-models-cannon-brookes"
             }
           ]
         }
@@ -86,72 +102,52 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Hyundai Bayon Gets Second Generation Update; Ukraine Calls for Frozen Asset Use; US and European Yields Expected to Remain High",
-          "headline_de": "Hyundai Bayon erhält zweite Generation; Ukraine fordert Nutzung eingefrorener Vermögenswerte; US- und europäische Renditen dürften hoch bleiben",
-          "headline_easy": "Ein neues Auto von Hyundai kommt. Die Ukraine will ihr Geld zurück. Hohe Zinsen bleiben in Europa und den USA.",
-          "summary_en": "Hyundai is launching a second generation of its Bayon model. Ukraine's Foreign Minister is advocating for the use of frozen assets. Economists predict that US and European yields will not decrease soon.",
-          "summary_de": "Hyundai bringt eine zweite Generation seines Bayon-Modells auf den Markt. Der ukrainische Außenminister plädiert für die Nutzung eingefrorener Vermögenswerte. Ökonomen prognostizieren, dass die Renditen in den USA und Europa nicht bald sinken werden.",
-          "summary_easy": "Es gibt ein neues Auto von Hyundai. Die Ukraine möchte ihr Geld nutzen. Die Zinsen bleiben hoch.",
+          "headline_en": "European Cultural Discourse Influenced by Gaza Conflict and Advances in Space Exploration",
+          "headline_de": "Europäischer Kulturdiskurs beeinflusst vom Gaza-Konflikt und Fortschritten in der Weltraumforschung",
+          "headline_easy": "Der Krieg in Gaza ist wichtig für Europa. Portugal macht etwas Neues mit Raketen.",
+          "summary_en": "The conflict in Gaza is prompting deep reflections on civilization and its future, influencing cultural discourse across Europe. Meanwhile, advancements in rocketry, such as Portugal's EuRoC challenge with ESA, highlight innovation in the region.",
+          "summary_de": "Der Gaza-Konflikt regt zur Reflexion über Zivilisation an und beeinflusst den Kulturbereich in Europa. Gleichzeitig zeigt Portugals EuRoC-Raketenprojekt mit der ESA innovative Fortschritte.",
+          "summary_easy": "Der Krieg in Gaza macht viele Leute nachdenklich. In Europa gibt es neue Ideen. Portugal baut Raketen mit Europa.",
           "links": [
             {
-              "title": "Hyundai pumps up Bayon for second generation",
-              "url": "https://www.autocar.co.uk/car-news/new-cars/hyundai-pumps-bayon-second-generation"
-            },
-            {
-              "title": "US, European yields unlikely to fall soon, economists say",
-              "url": "https://biztoc.com/x/698724d456a3a966"
+              "title": "Portugal’s EuRoC rocketry challenge flies higher with ESA",
+              "url": "https://www.esa.int/Education/ESA_Academy/Portugal_s_EuRoC_rocketry_challenge_flies_higher_with_ESA"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Ukraine Urges Use of Frozen Assets; Hyundai Bayon Gets Second Generation; US/European Yields to Stay High",
-          "headline_de": "Ukraine drängt auf Nutzung eingefrorener Vermögenswerte; Hyundai Bayon erhält zweite Generation; US/europäische Renditen bleiben hoch",
-          "headline_easy": "Die Ukraine will ihr Geld nutzen. Ein neues Auto von Hyundai kommt. Die Zinsen bleiben in Europa und den USA hoch.",
-          "summary_en": "Ukraine's Foreign Minister is calling for the immediate use of frozen assets. Meanwhile, Hyundai is releasing a second-generation Bayon, and economists anticipate that US and European yields will remain elevated.",
-          "summary_de": "Der ukrainische Außenminister fordert die sofortige Nutzung eingefrorener Vermögenswerte. Unterdessen bringt Hyundai eine zweite Generation des Bayon auf den Markt, und Ökonomen erwarten, dass die Renditen in den USA und Europa hoch bleiben werden.",
-          "summary_easy": "Die Ukraine möchte ihr Geld. Ein neues Auto von Hyundai ist da. Die Zinsen bleiben hoch.",
+          "headline_en": "European Business Landscape: AI, Global Deals, and Hybrid Warfare Concerns",
+          "headline_de": "Europäische Wirtschaftslandschaft: KI, globale Deals und Sorgen vor hybrider Kriegsführung",
+          "headline_easy": "Firmen in Europa reden über KI. Sie machen auch neue Verträge. Es gibt Sorgen wegen Krieg.",
+          "summary_en": "European businesses are navigating complex issues, from the use of AI models, with companies like Atlassian clarifying their policies, to concerns about hybrid warfare. Global economic factors and deals, such as those involving China, also shape the business environment.",
+          "summary_de": "Europäische Unternehmen beschäftigen sich mit KI-Richtlinien und dem Thema hybrider Kriegsführung. Globale Wirtschaftsfragen und Abkommen, auch mit China, beeinflussen die Geschäftswelt.",
+          "summary_easy": "Firmen reden über Technik wie KI. Sie sind auch besorgt über Krieg. Neue Geschäfte sind wichtig.",
           "links": [
             {
-              "title": "Ukraine’s FM: Russia’s war budget makes the case for using frozen assets now",
-              "url": "https://www.politico.eu/article/ukraine-fm-andrii-sybiha-russias-war-budget-makes-the-case-for-using-frozen-assets-now/"
+              "title": "Miliband: We must take hybrid warfare much more seriously",
+              "url": "https://biztoc.com/x/7989d09261c7ab4d"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Indian Steel Market Growth Forecast; Lazard Reports Assets Under Management; Sensex and Nifty Tumble",
-          "headline_de": "Wachstumsprognose für indischen Stahlmarkt; Lazard berichtet über verwaltete Vermögen; Sensex und Nifty stürzen ab",
-          "headline_easy": "Indien wird mehr Stahl verkaufen. Lazard hat neue Zahlen. Die Börse in Indien ist gefallen.",
-          "summary_en": "India is expected to be the fastest-growing steel market, with demand projected to increase by 7.9% in 2026. Lazard has released its September 2026 assets under management report. Meanwhile, Indian stock markets, including the Sensex and Nifty, experienced a significant drop due to oil price spikes and foreign fund outflows.",
-          "summary_de": "Indien wird voraussichtlich der am schnellsten wachsende Stahlmarkt sein, mit einer prognostizierten Nachfragesteigerung von 7,9 % im Jahr 2026. Lazard hat seinen Bericht über das verwaltete Vermögen per September 2026 veröffentlicht. Unterdessen erlebten die indischen Aktienmärkte, einschließlich Sensex und Nifty, einen signifikanten Rückgang aufgrund von Ölpreisspitzen und Abflüssen ausländischer Gelder.",
-          "summary_easy": "Indien kauft mehr Stahl. Lazard hat neue Zahlen. Die Börse in Indien ist gefallen.",
+          "headline_en": "European Stocks Rise on Earnings, Greek Politics and Investment News",
+          "headline_de": "Europäische Aktien steigen aufgrund von Gewinnmitteilungen, griechischer Politik und Investmentnachrichten",
+          "headline_easy": "Börsen in Europa gehen hoch. Es gibt Nachrichten aus Griechenland.",
+          "summary_en": "European markets have seen a predominantly positive opening, fueled by incoming corporate earnings reports. Political developments in Greece and investor ambitions are also contributing to market activity.",
+          "summary_de": "Die europäischen Märkte sind überwiegend positiv gestartet, angetrieben von Unternehmensgewinnen. Politische Entwicklungen in Griechenland und Investitionsziele beeinflussen ebenfalls die Märkte.",
+          "summary_easy": "Aktien sind im Wert gestiegen. Firmen machen Gewinn. Es gibt politische Neuigkeiten.",
           "links": [
             {
-              "title": "India fastest-growing steel market, demand to grow 7.9% in 2026: worldsteel",
-              "url": "https://www.business-standard.com/industry/news/india-fastest-growing-steel-market-demand-to-grow-7-9-in-2026-worldsteel-126101200460_1.html"
+              "title": "Bloom reiterates Hearts' title ambition ahead of Celtic Park return",
+              "url": "https://www.skysports.com/football/news/13596538/tony-bloom-hearts-investor-reiterates-scottish-premiership-title-ambition-ahead-of-celtic-park-return"
             },
             {
-              "title": "Sensex today | Stock Market Highlights: Stock markets tumble on oil price spike, foreign fund outflows; Sensex drops 548 points",
-              "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-12-october-2026/article71571162.ece"
-            }
-          ]
-        },
-        {
-          "type": "Technology",
-          "emoji": "💻",
-          "headline_en": "Hyundai Bayon Updated; Ukraine Discusses Frozen Assets; Dukascopy Downloader Added to PyPI",
-          "headline_de": "Hyundai Bayon aktualisiert; Ukraine bespricht eingefrorene Vermögenswerte; Dukascopy Downloader zu PyPI hinzugefügt",
-          "headline_easy": "Ein neues Auto von Hyundai ist da. Die Ukraine spricht über Geld. Es gibt neue Software für Finanzdaten.",
-          "summary_en": "Hyundai has updated its Bayon model with a second generation. Discussions are ongoing regarding Ukraine's call for the use of frozen assets. Additionally, the 'dukascopy-downloader' tool has been added to PyPI.",
-          "summary_de": "Hyundai hat sein Bayon-Modell mit einer zweiten Generation aktualisiert. Es laufen Diskussionen über die Forderung der Ukraine nach der Nutzung eingefrorener Vermögenswerte. Zusätzlich wurde das Tool 'dukascopy-downloader' zu PyPI hinzugefügt.",
-          "summary_easy": "Es gibt ein neues Auto von Hyundai. Die Ukraine will über ihr Geld reden. Neue Software hilft beim Download von Finanzdaten.",
-          "links": [
-            {
-              "title": "dukascopy-downloader added to PyPI",
-              "url": "https://pypi.org/project/dukascopy-downloader/"
+              "title": "Mitsotakis, the election benchmark, the leadership hopefuls and the church collection plate, the ambassador, Rupert and the audience looking for a show, the PASOK–Tsipras hair-pulling and the battle for Crete",
+              "url": "https://en.protothema.gr/2026/10/13/mitsotakis-the-election-benchmark-the-leadership-hopefuls-and-the-church-collection-plate-the-ambassador-rupert-and-the-audience-looking-for-a-show-the-pasok-tsipras-hair-pulling-and-the/"
             }
           ]
         }
@@ -164,68 +160,52 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Oil Prices Swing Amid Airport Attacks, Hurricane, and Russia Ceasefire; Columbus Day Market Status; Saudi Airport Strikes",
-          "headline_de": "Ölpreise schwanken inmitten von Flughafenangriffen, Hurrikan und russischem Waffenstillstand; Status des Aktienmarktes am Kolumbus-Tag; Streiks am Flughafen Riad",
-          "headline_easy": "Öl wird teurer wegen Angriffen und einem Sturm. Ist die Börse am Kolumbus-Tag offen? Es gab Angriffe in Saudi-Arabien.",
-          "summary_en": "Oil prices are fluctuating, with Brent crude exceeding $105, influenced by attacks on Riyadh Airport, Hurricane Isaias, and a Russian energy ceasefire. The status of banks and the stock market on Columbus Day 2026 is detailed, while Saudi Arabia's Riyadh Airport experienced two strikes in as many days.",
-          "summary_de": "Die Ölpreise schwanken, wobei Brent Crude 105 US-Dollar übersteigt, beeinflusst durch Angriffe auf den Flughafen Riad, Hurrikan Isaias und einen russischen Energiewaffenstillstand. Der Status von Banken und dem Aktienmarkt am Kolumbus-Tag 2026 wird detailliert aufgeführt, während der Flughafen Riad in Saudi-Arabien zwei Streiks innerhalb von zwei Tagen erlebte.",
-          "summary_easy": "Ölpreise ändern sich. Es gab Angriffe auf einen Flughafen. Man kann nachlesen, ob die Börse am Kolumbus-Tag auf hat.",
+          "headline_en": "US Literary Scene Explores Complex Issues Amidst Global Events",
+          "headline_de": "US-Literaturszene thematisiert komplexe Fragen inmitten globaler Ereignisse",
+          "headline_easy": "Autoren in Amerika denken viel nach. Es gibt Fragen ohne falsche Antworten.",
+          "summary_en": "The US literary scene is engaging with profound questions, as exemplified by a recent initiative where authors tackle seven questions with no wrong answers. This introspection occurs against the backdrop of significant global events, including the reshaping of the Middle East due to the Gaza conflict.",
+          "summary_de": "Die US-Literaturszene stellt sich tiefgründigen Fragen. Dies geschieht vor dem Hintergrund globaler Ereignisse, einschließlich der Umgestaltung des Nahen Ostens durch den Gaza-Konflikt.",
+          "summary_easy": "Autoren in Amerika stellen Fragen. Es gibt keine falschen Antworten. Der Krieg in Gaza beeinflusst die Welt.",
           "links": [
             {
-              "title": "Oil Prices Swing as Brent Tops $105 Amid Riyadh Airport Attacks, Hurricane Isaias and Russia Energy Ceasefire",
-              "url": "https://www.ibtimes.com.au/oil-prices-middle-east-attacks-hurricane-isaias-1876559"
-            },
-            {
-              "title": "Saudi Arabia’s Riyadh Airport Hit With 2 Strikes in 2 Days",
-              "url": "https://www.today.com/video/strikes-on-riyadh-airport-prompts-travel-warnings-for-us-carriers-271428677931"
+              "title": "Lit Hub Asks: 5 Authors, 7 Questions, No Wrong Answers",
+              "url": "https://lithub.com/lit-hub-asks-5-authors-7-questions-no-wrong-answers-october-2026/"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Saudi Airport Strikes Prompt Travel Warnings; Columbus Day Market Status; RB Leipzig vs. PSV Preview",
-          "headline_de": "Streiks am Flughafen Riad führen zu Reisehinweisen; Status des Aktienmarktes am Kolumbus-Tag; Vorschau auf RB Leipzig gegen PSV",
-          "headline_easy": "Es gab Angriffe in Saudi-Arabien. Man weiß nicht, ob die Börse am Kolumbus-Tag offen ist. Ein Spielbericht über Fußball.",
-          "summary_en": "Strikes at Saudi Arabia's Riyadh Airport have led to travel warnings for US carriers. Information is provided on whether banks and the stock market are open on Columbus Day 2026. A preview of the RB Leipzig vs. PSV football match is also available.",
-          "summary_de": "Streiks am Flughafen Riad in Saudi-Arabien haben zu Reisehinweisen für US-Fluggesellschaften geführt. Informationen darüber, ob Banken und der Aktienmarkt am Kolumbus-Tag 2026 geöffnet sind, werden bereitgestellt. Eine Vorschau auf das Fußballspiel RB Leipzig gegen PSV ist ebenfalls verfügbar.",
-          "summary_easy": "Es gab Streiks in Saudi-Arabien. Man kann nachlesen, ob die Börse am Kolumbus-Tag auf hat. Ein Fußballspiel wird vorgestellt.",
+          "headline_en": "US Business Outlook: Sports Trades, Literary Insights, and Global Conflict Impact",
+          "headline_de": "US-Wirtschaftsausblick: Sportgeschäfte, literarische Einblicke und Auswirkungen globaler Konflikte",
+          "headline_easy": "In Amerika gibt es Sport-Nachrichten. Firmen reden über Geschäfte. Der Krieg in Gaza ist ein Thema.",
+          "summary_en": "The US business landscape is varied, featuring potential major sports trades and ongoing literary discussions. The global impact of the Gaza conflict is also a significant consideration, influencing broader economic and societal dialogues.",
+          "summary_de": "Die US-Geschäftswelt ist vielfältig, mit möglichen Sporttransfers und literarischen Diskussionen. Der globale Einfluss des Gaza-Konflikts ist ebenfalls ein wichtiger Faktor.",
+          "summary_easy": "Es gibt Nachrichten über Sport in Amerika. Firmen reden über Geld. Der Krieg im Nahen Osten ist auch wichtig.",
           "links": [
             {
-              "title": "Holiday today, October 12: Are banks closed today, and is the stock market open on Columbus Day 2026? Full list of what's open and closed",
-              "url": "https://economictimes.indiatimes.com/news/international/us/holiday-today-october-12-are-banks-closed-today-and-is-the-stock-market-open-on-columbus-day-2026-full-list-of-whats-open-and-closed/articleshow/134890545.cms"
-            }
-          ]
-        },
-        {
-          "type": "War",
-          "emoji": "⚔️",
-          "headline_en": "Strikes at Saudi Airport; Columbus Day Market Status; RB Leipzig vs. PSV Preview",
-          "headline_de": "Streiks am Flughafen Saudi-Arabien; Status des Aktienmarktes am Kolumbus-Tag; Vorschau auf RB Leipzig gegen PSV",
-          "headline_easy": "Angriffe auf einen Flughafen in Saudi-Arabien. Ist die Börse am Kolumbus-Tag offen? Ein Fußballspiel wird vorgestellt.",
-          "summary_en": "Strikes have occurred at Saudi Arabia's Riyadh Airport, leading to travel advisories. Information regarding the operational status of banks and the stock market on Columbus Day 2026 is available. A preview of the RB Leipzig vs. PSV football match is also provided.",
-          "summary_de": "Am Flughafen Riad in Saudi-Arabien kam es zu Streiks, was zu Reisehinweisen führte. Informationen über den Betriebsstatus von Banken und dem Aktienmarkt am Kolumbus-Tag 2026 sind verfügbar. Eine Vorschau auf das Fußballspiel RB Leipzig gegen PSV wird ebenfalls bereitgestellt.",
-          "summary_easy": "Es gab Streiks in Saudi-Arabien. Man kann nachlesen, ob die Börse am Kolumbus-Tag auf hat. Ein Fußballspiel wird vorgestellt.",
-          "links": [
-            {
-              "title": "RB Leipzig vs. PSV preview: Team news & predicted lineups",
-              "url": "https://bulinews.com/leipzig-psv-preview-team-news-predicted-lineups"
+              "title": "Could the Rockets trade Kevin Durant this year?",
+              "url": "https://www.thedreamshake.com/rockets-rumors/41815/could-the-rockets-trade-kevin-durant-this-year"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Columbus Day Market Status; Uranium Prices Surge Past 2007 Peak; Apple Launches Special Edition AirPods in India",
-          "headline_de": "Status des Aktienmarktes am Kolumbus-Tag; Uranpreise übersteigen den Höchststand von 2007; Apple bringt spezielle AirPods-Edition in Indien auf den Markt",
-          "headline_easy": "Ist die Börse am Kolumbus-Tag offen? Uran wird teurer. Apple verkauft neue Kopfhörer in Indien.",
-          "summary_en": "Details are provided on whether banks and the stock market will be open on Columbus Day 2026. Uranium prices have surpassed their 2007 peak, with ongoing energy metals deals. Apple has also launched a special edition of its AirPods in India.",
-          "summary_de": "Details darüber, ob Banken und der Aktienmarkt am Kolumbus-Tag 2026 geöffnet sein werden, werden bereitgestellt. Die Uranpreise haben ihren Höchststand von 2007 überschritten, und Energymetall-Geschäfte werden fortgesetzt. Apple hat außerdem eine Sonderedition seiner AirPods in Indien eingeführt.",
-          "summary_easy": "Man kann nachlesen, ob die Börse am Kolumbus-Tag auf hat. Uran ist jetzt teurer. Apple verkauft neue Kopfhörer in Indien.",
+          "headline_en": "US Futures Mixed Ahead of Bank Earnings, Influenced by Political and Economic Trends",
+          "headline_de": "US-Futures gemischt vor Bankenergebnissen, beeinflusst von politischen und wirtschaftlichen Trends",
+          "headline_easy": "Die Börse in Amerika ist noch unklar. Banken berichten heute über Geld.",
+          "summary_en": "US stock futures are showing mixed signals as the market awaits significant bank earnings reports. Political sentiment regarding Donald Trump in New York and broader economic lessons from international comparisons are also contributing factors.",
+          "summary_de": "Die US-Aktienfutures sind uneinheitlich, während der Markt auf wichtige Bankenergebnisse wartet. Politische Stimmungen und wirtschaftliche Lehren aus Vergleichen sind ebenfalls relevant.",
+          "summary_easy": "Die Aktienmärkte sind noch nicht sicher. Banken erzählen von ihrem Geld. In New York reden die Leute über Trump.",
           "links": [
             {
-              "title": "Long-Term Uranium Price Moves Past Its 2007 Peak While Energy Metals Deals Keep Coming",
-              "url": "https://www.prnewswire.com/news-releases/long-term-uranium-price-moves-past-its-2007-peak-while-energy-metals-deals-keep-coming-302905495.html"
+              "title": "US futures mixed ahead of big earnings day for banks",
+              "url": "https://biztoc.com/x/c02809e6a5d8ebe3"
+            },
+            {
+              "title": "Why New York Republicans Still Love Trump",
+              "url": "http://nymag.com/intelligencer/article/new-york-republicans-trump-governor-lawler.html"
             }
           ]
         }
@@ -238,56 +218,52 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "AI Investments to Drive Asia's Economic Boom; Unauthorized Hardware Implant Found in Crypto Wallet; Brazil Launches Anti-Piracy Campaign",
-          "headline_de": "KI-Investitionen treiben den Wirtschaftsboom Asiens voran; Nicht autorisierter Hardware-Implantat in Krypto-Wallet gefunden; Brasilien startet Anti-Piraterie-Kampagne",
-          "headline_easy": "Investitionen in KI helfen Asien. In einem Krypto-Geldbeutel wurde etwas Falsches gefunden. Brasilien kämpft gegen Piraten.",
-          "summary_en": "Investments in AI infrastructure are expected to fuel an economic boom across Asia. Concerns arise over an unauthorized hardware implant discovered in a CryptoBilis-sold wallet amid fund theft reports. Brazil is launching a campaign to combat piracy and intellectual property theft.",
-          "summary_de": "Investitionen in die KI-Infrastruktur werden voraussichtlich einen Wirtschaftsboom in ganz Asien auslösen. Bedenken ergeben sich hinsichtlich eines nicht autorisierten Hardware-Implantats, das inmitten von Berichten über Fondsdiebstahl in einer von CryptoBilis verkauften Wallet entdeckt wurde. Brasilien startet eine Kampagne zur Bekämpfung von Piraterie und dem Diebstahl von geistigem Eigentum.",
-          "summary_easy": "Es gibt viel Geld für KI in Asien. In einem Geldbeutel für Kryptowährungen war etwas Falsches. Brasilien macht etwas gegen Piraten.",
+          "headline_en": "Asia's Cultural Landscape: Investment, Arctic Routes, and Climate Cooperation",
+          "headline_de": "Asiens Kulturlandschaft: Investitionen, Arktisrouten und Klimakooperation",
+          "headline_easy": "In Asien gibt es Geld für Firmen. Ein Schiff fährt durch die Arktis. Länder arbeiten am Klima.",
+          "summary_en": "Asia is seeing significant investment in its technology sector, with companies like Tonbo Imaging securing funding ahead of IPOs. Developments in Arctic shipping routes and enhanced climate cooperation through REDD+ initiatives highlight the region's forward-looking agenda.",
+          "summary_de": "In Asien gibt es bedeutende Investitionen in den Technologiesektor. Neue Entwicklungen bei arktischen Schifffahrtsrouten und Klimakooperationen zeigen die zukunftsorientierte Ausrichtung der Region.",
+          "summary_easy": "In Asien wird viel Geld in Firmen gesteckt. Ein Schiff fährt durch Eis. Länder helfen sich beim Klima.",
           "links": [
             {
-              "title": "AI infrastructure investments to drive Asia economic boom",
-              "url": "https://biztoc.com/x/2c1036389f734459"
+              "title": "Amansa Investments, SBI Mutual Fund, others invest ₹413 cr in Tonbo Imaging ahead of IPO",
+              "url": "https://www.thehindubusinessline.com/markets/amansa-investments-sbi-mutual-fund-others-invest-413-cr-in-tonbo-imaging-ahead-of-ipo/article71578484.ece"
             },
             {
-              "title": "Piracy in the Crosshairs: Brazil to Launch Campaign Against IP Theft",
-              "url": "https://variety.com/2026/digital/markets-festivals/brazil-piracy-anti-piracy-campaign-ip-theft-1236908334/"
+              "title": "South Korea's Lee welcomes home Arctic container ship as route faces viability tests",
+              "url": "https://www.channelnewsasia.com/east-asia/south-koreas-lee-welcomes-home-arctic-container-ship-route-faces-viability-tests-6455311"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "AI Investments to Fuel Asian Economic Growth; Brazil Tackles Piracy; Crypto Wallet Security Concerns",
-          "headline_de": "KI-Investitionen treiben Asiens Wirtschaftswachstum an; Brasilien bekämpft Piraterie; Sicherheitsbedenken bei Krypto-Wallets",
-          "headline_easy": "Es gibt viel Geld für KI in Asien. Brasilien macht etwas gegen Piraten. Ein Geldbeutel für Krypto ist nicht sicher.",
-          "summary_en": "Asia's economic growth is anticipated to be significantly boosted by investments in AI infrastructure. Brazil is initiating a campaign against piracy and intellectual property theft. Reports also detail concerns about an unauthorized hardware implant in a crypto wallet.",
-          "summary_de": "Das Wirtschaftswachstum Asiens wird voraussichtlich durch Investitionen in die KI-Infrastruktur erheblich angekurbelt. Brasilien leitet eine Kampagne gegen Piraterie und den Diebstahl von geistigem Eigentum ein. Berichte beschreiben auch Bedenken hinsichtlich eines nicht autorisierten Hardware-Implantats in einer Krypto-Wallet.",
-          "summary_easy": "Asien wird durch KI reicher. Brasilien kämpft gegen Piraten. Ein Krypto-Geldbeutel ist nicht sicher.",
+          "headline_en": "Asian Markets React to Tech Stock Declines, Investment Deals, and Arctic Trade",
+          "headline_de": "Asiatische Märkte reagieren auf Rückgänge von Tech-Aktien, Investitionsgeschäfte und Arktishandel",
+          "headline_easy": "Die Börse in Asien ist unsicher wegen Technik-Firmen. Es gibt neue Geschäfte.",
+          "summary_en": "Asian markets are observing shifts in the tech sector, with comments on AI impacting stock values and raising valuation doubts. Simultaneously, significant investment deals are being made, and new trade routes, like the Arctic shipping route, are being explored.",
+          "summary_de": "Die asiatischen Märkte beobachten Veränderungen im Technologiesektor, wo Kommentare zu KI die Aktienkurse beeinflussen. Gleichzeitig werden bedeutende Investitionsgeschäfte getätigt und neue Handelsrouten erkundet.",
+          "summary_easy": "Firmen in Asien reden über Technik. Aktien sind weniger wert. Aber es gibt neue Geschäfte.",
           "links": [
             {
-              "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
-              "url": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html"
+              "title": "Broadcom CEO’s AI comments trigger tech stock decline, Anthropic valuation doubts",
+              "url": "https://cryptobriefing.com/broadcom-ceos-ai-comments-trigger-tech-stock-decline-anthropic-valuation-doubts/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Broadcom CEO on AI Investor Behavior; LBank Discusses Exchange Building; Lazard Reports Assets Under Management",
-          "headline_de": "Broadcom-CEO über das Verhalten von KI-Investoren; LBank diskutiert den Aufbau einer Börse; Lazard berichtet über verwaltete Vermögen",
-          "headline_easy": "Der Chef von Broadcom sagt, KI-Investoren sind wie Spieler. LBank spricht über Börsen. Lazard hat neue Zahlen.",
-          "summary_en": "Broadcom's CEO likens some AI investors to gamblers, highlighting potential market volatility. LBank's Eric He discusses the process of building a cryptocurrency exchange designed for long-term market cycles. Lazard has released its September 2026 assets under management report.",
-          "summary_de": "Der CEO von Broadcom vergleicht einige KI-Investoren mit Spielern und hebt die potenzielle Marktvolatilität hervor. Eric He von LBank diskutiert den Aufbau einer Kryptowährungsbörse, die für langfristige Marktzyklen konzipiert ist. Lazard hat seinen Bericht über das verwaltete Vermögen per September 2026 veröffentlicht.",
-          "summary_easy": "Ein Chef sagt, KI-Investoren spielen. LBank spricht über Kryptobörsen. Lazard hat neue Zahlen.",
+          "headline_en": "Asian Markets Decline Amidst Tech Selloff and Global Earnings Season Kickoff",
+          "headline_de": "Asiatische Märkte fallen inmitten des Tech-Ausverkaufs und des Beginns der globalen Berichtssaison",
+          "headline_easy": "Die Börse in Asien ist gefallen. Technik-Aktien sind weniger wert.",
+          "summary_en": "Asian stock markets experienced a significant decline, particularly in Tokyo, as a selloff in AI and chip-related stocks impacted the region. This comes as the global earnings season begins, with banks reporting their financial results.",
+          "summary_de": "Die asiatischen Aktienmärkte verzeichneten deutliche Rückgänge, insbesondere in Tokio, aufgrund von Verkäufen bei KI- und Chip-Aktien. Dies geschieht zum Beginn der globalen Berichtssaison, in der Banken ihre Ergebnisse veröffentlichen.",
+          "summary_easy": "Die Börse in Asien ist schlecht. Viele Aktien sind weniger wert. Banken sagen, wie viel Geld sie verdient haben.",
           "links": [
             {
-              "title": "Broadcom CEO Hock Tan says many AI investors act like gamblers",
-              "url": "https://cryptobriefing.com/broadcom-hock-tan-ai-investors-gamblers/"
-            },
-            {
-              "title": "LBank at 11: Eric He on Building an Exchange for More Than One Market Cycle",
-              "url": "https://bitcoinist.com/lbank-at-11-eric-he-on-building-an-exchange-for-more-than-one-market-cycle/"
+              "title": "Nikkei Falls 1,253 Points as AI and Chip Selloff Hits Tokyo",
+              "url": "https://newsonjapan.com/article/151035.php"
             }
           ]
         }
@@ -300,56 +276,72 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Environmental Cartoon Foundation Supports Young Conservationists; Sci-Fi Series 'The Caretaker' Discussed; Amy Dowden Praised for Response",
-          "headline_de": "Stiftung für Umwelt-Cartoon unterstützt junge Naturschützer; Sci-Fi-Serie 'The Caretaker' diskutiert; Amy Dowden für ihre Reaktion gelobt",
-          "headline_easy": "Eine Stiftung hilft jungen Leuten, die Natur zu schützen. Ein Sci-Fi-Film wird besprochen. Eine Person hat gut auf etwas reagiert.",
-          "summary_en": "A foundation inspired by a 1990 environmental cartoon is now supporting young conservationists in 11 countries. The cosmic sci-fi project 'The Caretaker' is being discussed. Additionally, Amy Dowden has received praise for her response to an ex-Strictly professional dancer.",
-          "summary_de": "Eine Stiftung, inspiriert von einem Umwelt-Cartoon aus dem Jahr 1990, unterstützt nun junge Naturschützer in 11 Ländern. Das kosmische Sci-Fi-Projekt 'The Caretaker' wird diskutiert. Außerdem wurde Amy Dowden für ihre Reaktion auf einen ehemaligen professionellen Tänzer von 'Strictly' gelobt.",
-          "summary_easy": "Eine Stiftung hilft der Natur. Ein neuer Film wird besprochen. Amy Dowden hat gut geantwortet.",
+          "headline_en": "Global Cultural Landscape: Gaming Reviews and Software Releases",
+          "headline_de": "Globale Kulturlandschaft: Spielekritiken und Software-Veröffentlichungen",
+          "headline_easy": "Neue Spiele und Programme sind da. Leute schreiben darüber.",
+          "summary_en": "The global cultural scene is witnessing releases and reviews in the entertainment sector, including new video games like 'Ace Combat 8: Wings of Theve' and software updates. These developments cater to a broad international audience.",
+          "summary_de": "Die globale Kulturszene verzeichnet Neuerscheinungen und Rezensionen im Unterhaltungsbereich, darunter neue Videospiele und Software-Updates.",
+          "summary_easy": "Es gibt neue Spiele und Programme. Die Leute spielen und benutzen sie. Es ist für viele Länder.",
           "links": [
             {
-              "title": "Ted Turner brought an environmental cartoon to TV in 1990; the foundation it inspired now backs young conservationists in 11 countries",
-              "url": "https://timesofindia.indiatimes.com/world/us/ted-turner-brought-an-environmental-cartoon-to-tv-in-1990-the-foundation-it-inspired-now-backs-young-conservationists-in-11-countries/articleshow/134890545.cms"
+              "title": "Ace Combat 8: Wings of Theve review – thrill-packed campaign takes this long-running series to new heights",
+              "url": "https://www.eurogamer.net/ace-combat-8-wings-of-theve-review"
             },
             {
-              "title": "Amy Dowden praised for 'iconic' clapback at ex-Strictly professional dancer",
-              "url": "https://www.bbc.co.uk/news/articles/cwrkyn5dnekzo"
+              "title": "Release: Tank Squad",
+              "url": "https://www.gog.com/en/news/release_tank_squad"
             }
           ]
         },
         {
-          "type": "Stocks & Markets",
-          "emoji": "📈",
-          "headline_en": "Facebook Cover Photo Size Guide; LBank Discusses Exchange Building; Drumcree Conflict Revisited",
-          "headline_de": "Leitfaden zur Größe von Facebook-Titelfotos; LBank diskutiert den Aufbau einer Börse; Konflikt von Drumcree neu beleuchtet",
-          "headline_easy": "Wie groß ein Bild auf Facebook sein soll. LBank spricht über Börsen. Ein alter Konflikt wird neu erzählt.",
-          "summary_en": "A guide to the ideal Facebook cover photo size in 2026 is provided, offering tips for standing out. LBank's Eric He discusses the process of building a cryptocurrency exchange for market longevity. The historical conflict at Drumcree is revisited, highlighting its impact.",
-          "summary_de": "Ein Leitfaden zur idealen Größe von Facebook-Titelfotos im Jahr 2026 wird bereitgestellt, mit Tipps zur Hervorhebung. Eric He von LBank diskutiert den Aufbau einer Kryptowährungsbörse für Marktbeständigkeit. Der historische Konflikt in Drumcree wird neu beleuchtet und seine Auswirkungen hervorgehoben.",
-          "summary_easy": "Es gibt Tipps für Bilder auf Facebook. LBank spricht über Kryptobörsen. Ein alter Streit wird neu erzählt.",
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Global Business Expansion: F1 in Africa, Gaming Industry Growth",
+          "headline_de": "Globale Geschäftsexpansion: F1 in Afrika, Wachstum der Spieleindustrie",
+          "headline_easy": "Formel 1 kommt nach Afrika. Spiele sind auch wichtig für Firmen.",
+          "summary_en": "Formula 1 has signed a significant 10-year deal to host a Grand Prix in Rwanda, marking a major expansion into Africa. This development in the sports industry parallels growth and activity within the global gaming sector.",
+          "summary_de": "Die Formel 1 hat einen Zehnjahresvertrag für ein Rennen in Ruanda unterzeichnet, was eine Expansion nach Afrika darstellt. Dies spiegelt das Wachstum in der globalen Spieleindustrie wider.",
+          "summary_easy": "Formel 1 fährt bald in Afrika. Das ist ein großes Geschäft. Spiele sind auch ein wichtiges Geschäft.",
           "links": [
             {
-              "title": "The Ideal Facebook Cover Photo Size in 2026 (+ 11 Ideas To Make Yours Stand Out)",
-              "url": "https://buffer.com/resources/facebook-cover-photo-size/"
+              "title": "F1 signs historic 10-year Rwanda deal to host African Grand Prix",
+              "url": "https://www.motorsport.com/f1/news/f1-signs-historic-10-year-rwanda-deal-to-host-african-grand-prix/10864835/"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Global Dynamics: African Grand Prix, Poverty Reduction Efforts, and Media Deals",
+          "headline_de": "Globale Dynamiken: Afrikanischer Grand Prix, Bemühungen zur Armutsbekämpfung und Mediengeschäfte",
+          "headline_easy": "Formel 1 kommt nach Afrika. Ein Land hat Probleme mit Armut. Medien machen neue Sachen.",
+          "summary_en": "The world is seeing major developments, including the upcoming Formula 1 Grand Prix in Rwanda, marking a return to Africa for the sport. Simultaneously, reports highlight challenges in poverty reduction despite GDP growth, and new media deals are being made globally.",
+          "summary_de": "Die Welt erlebt bedeutende Entwicklungen, wie den Formel-1-Grand-Prix in Ruanda und Berichte über Armutsbekämpfung trotz Wirtschaftswachstum.",
+          "summary_easy": "Bald gibt es Formel 1 in Afrika. Das ist neu. Ein Land hat Armut. Medien machen neue Pläne.",
+          "links": [
+            {
+              "title": "First Formula 1 race in Africa since 1993 to launch in Rwanda from ‘early 2030s’",
+              "url": "https://sports.yahoo.com/articles/first-formula-1-race-africa-092023959.html"
+            },
+            {
+              "title": "4.2% GDP growth insufficient to cut poverty – ActionAid",
+              "url": "https://punchng.com/4-2-gdp-growth-insufficient-to-cut-poverty-actionaid/"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "Medical Thriller 'Tehran' Renewed for Season 2; Environmental Cartoon Inspires Conservationists; Sci-Fi Series 'The Caretaker'",
-          "headline_de": "Mediziner-Thriller 'Tehran' für Staffel 2 verlängert; Umwelt-Cartoon inspiriert Naturschützer; Sci-Fi-Serie 'The Caretaker'",
-          "headline_easy": "Eine Serie über Ärzte wird weitergehen. Ein alter Cartoon hilft der Natur. Ein Sci-Fi-Film wird besprochen.",
-          "summary_en": "Apple TV's medical thriller 'Tehran' has been renewed for a second season. A foundation inspired by an environmental cartoon from 1990 is supporting young conservationists worldwide. The cosmic sci-fi project 'The Caretaker' is also being discussed.",
-          "summary_de": "Der Medizin-Thriller 'Tehran' von Apple TV wurde für eine zweite Staffel verlängert. Eine Stiftung, inspiriert von einem Umwelt-Cartoon aus dem Jahr 1990, unterstützt junge Naturschützer weltweit. Das kosmische Sci-Fi-Projekt 'The Caretaker' wird ebenfalls diskutiert.",
-          "summary_easy": "Eine Fernsehserie wird weiter gedreht. Ein alter Cartoon hilft der Natur. Ein neuer Film wird besprochen.",
+          "headline_en": "Global Tech Scene: Media Deals, Economic Challenges, and Africa's F1 Future",
+          "headline_de": "Globale Tech-Szene: Mediengeschäfte, wirtschaftliche Herausforderungen und F1-Zukunft in Afrika",
+          "headline_easy": "Firmen kaufen Sachen im Fernsehen. Es gibt Probleme mit Geld. Formel 1 kommt nach Afrika.",
+          "summary_en": "The global technology and media landscape is dynamic, with new media acquisition deals being made and economic challenges like insufficient GDP growth to cut poverty being reported. Meanwhile, significant sporting developments, such as Formula 1's expansion into Africa, are underway.",
+          "summary_de": "Die globale Medienlandschaft ist dynamisch mit neuen Mediengeschäften und Berichten über wirtschaftliche Herausforderungen. Gleichzeitig schreitet die Expansion der Formel 1 nach Afrika voran.",
+          "summary_easy": "Firmen kaufen sich gegenseitig. Geld ist ein Problem. Formel 1 wird bald in Afrika sein.",
           "links": [
             {
-              "title": "Apple TV’s Tehran Lead’s Killer Medical Thriller Gets Renewed for Season 2",
-              "url": "https://www.comingsoon.net/tv/news/2205591-heart-of-a-killer-season-2-renewed-niv-sultan"
-            },
-            {
-              "title": "The Caretaker: Jeremy Lambert & Claire Roe's Cosmic Sci-Fi At Ignition",
-              "url": "https://bleedingcool.com/comics/the-caretaker-jeremy-lambert-claire-roes-cosmic-sci-fi-at-ignition/"
+              "title": "Stan, Sky NZ, Hot the first to pre-buy Sid Gentle comedic thriller Honey",
+              "url": "https://www.c21media.net/news/stan-sky-nz-hot-the-first-to-pre-buy-sid-gentle-comedic-thriller-honey/"
             }
           ]
         }
@@ -360,27 +352,27 @@
     "wahlperiode": 21,
     "sitzung": 100,
     "url": "https://dserver.bundestag.de/btp/21/21100.pdf",
-    "summary_en": "The 100th session of the 21st legislative period of the German Bundestag convened on Friday, October 9, 2026. The agenda included several key legislative proposals and motions. A significant portion of the session was dedicated to the first reading of a bill to amend the Telecommunications Act and improve regulatory frameworks for network expansion, with contributions from Dr. Karsten Wildberger (BMDS), Alexander Arpaschi (AfD), Dirk Wiese (SPD), Johannes Schätzl (SPD), Rebecca Lenhard (BÜNDNIS 90/DIE GRÜNEN), Anne-Mieke Bremer (Die Linke), Hansjörg Durz (CDU/CSU), Robin Jünger (AfD), Parsa Marvi (SPD), Karoline Otte (BÜNDNIS 90/DIE GRÜNEN), Joachim Ebmeyer (CDU/CSU), Ruben Rupp (AfD), and others. The AfD introduced a motion concerning \"Measures for a real migration turnaround,\" debated by Dr. Gottfried Curio (AfD) and countered by Detlef Seif (CDU/CSU), Sonja Lemke (Die Linke), Beatrix von Storch (AfD), Filiz Polat (BÜNDNIS 90/DIE GRÜNEN), Hakan Demir (SPD), Martin Hess (AfD), Lea Reisner (Die Linke), Florian Oest (CDU/CSU), Dr. Christian Wirth (AfD), Rasha Nasr (SPD), Lamya Kaddor (BÜNDNIS 90/DIE GRÜNEN), Desiree Becker (Die Linke), Dr. David Preisendanz (CDU/CSU), Daniel Bettermann (SPD), Arne Raue (AfD), and Dr. Inge Gräßle (CDU/CSU). The session also featured the first reading of the \"Startchancen- und Qualitätsentwicklungsgesetz\" (Start-up and Quality Development Act) for childcare, with statements from Karin Prien (BMBFSFJ), Angela Rudzka (AfD), Michael Hose (CDU/CSU), Jasmina Hostert (SPD), Dr. Anja Reinalter (BÜNDNIS 90/DIE GRÜNEN), Heidi Reichinnek (Die Linke), Ralph Edelhäußer (CDU/CSU), Christian Zaum (AfD), Natalie Pawlik (BMAS), Thomas Stephan (AfD), Bernd Rützel (SPD), Dr. Armin Grau (BÜNDNIS 90/DIE GRÜNEN), Dr. Stefan Nacke (CDU/CSU), Sarah Vollath (Die Linke), Peter Bohnhof (AfD), and Jens Peick (SPD). Additionally, debates covered several motions from Die Linke regarding pension reforms, including preventing further increases in the retirement age and preserving early retirement options, with contributions from Luigi Pantisano (Die Linke) and Pascal Reddig (CDU/CSU). Finally, the first reading of a bill to strengthen customs administration and combat financial crime, alongside a Die Linke motion on customs reform, was initiated, featuring Michael Schrodi (BMF), Kay Gottschalk (AfD), Anja Karliczek (CDU/CSU), Katharina Beck (BÜNDNIS 90/DIE GRÜNEN), Isabelle Vandre (Die Linke), Ingo Vogel (SPD), Hauke Finger (AfD), Philip M. A. Hoffmann (CDU/CSU), and Mechthilde Wittmann (CDU/CSU).",
-    "summary_de": "Die 100. Sitzung der 21. Wahlperiode des Deutschen Bundestages fand am Freitag, den 9. Oktober 2026, statt. Die Tagesordnung umfasste mehrere wichtige Gesetzesvorhaben und Anträge. Ein wesentlicher Teil der Sitzung war der ersten Beratung des Gesetzes zur Änderung des Telekommunikationsgesetzes und zur Verbesserung der telekommunikationsrechtlichen Rahmenbedingungen für den Netzausbau gewidmet, mit Beiträgen von Dr. Karsten Wildberger (BMDS), Alexander Arpaschi (AfD), Dirk Wiese (SPD), Johannes Schätzl (SPD), Rebecca Lenhard (BÜNDNIS 90/DIE GRÜNEN), Anne-Mieke Bremer (Die Linke), Hansjörg Durz (CDU/CSU), Robin Jünger (AfD), Parsa Marvi (SPD), Karoline Otte (BÜNDNIS 90/DIE GRÜNEN), Joachim Ebmeyer (CDU/CSU), Ruben Rupp (AfD) und weiteren. Die AfD legte einen Antrag zu \"Maßnahmen für eine wirkliche Migrationswende\" vor, der von Dr. Gottfried Curio (AfD) debattiert und von Detlef Seif (CDU/CSU), Sonja Lemke (Die Linke), Beatrix von Storch (AfD), Filiz Polat (BÜNDNIS 90/DIE GRÜNEN), Hakan Demir (SPD), Martin Hess (AfD), Lea Reisner (Die Linke), Florian Oest (CDU/CSU), Dr. Christian Wirth (AfD), Rasha Nasr (SPD), Lamya Kaddor (BÜNDNIS 90/DIE GRÜNEN), Desiree Becker (Die Linke), Dr. David Preisendanz (CDU/CSU), Daniel Bettermann (SPD), Arne Raue (AfD) und Dr. Inge Gräßle (CDU/CSU) erörtert wurde. Des Weiteren fand die erste Beratung des \"Startchancen- und Qualitätsentwicklungsgesetzes\" für die Kindertagesbetreuung statt, mit Redebeiträgen von Karin Prien (BMBFSFJ), Angela Rudzka (AfD), Michael Hose (CDU/CSU), Jasmina Hostert (SPD), Dr. Anja Reinalter (BÜNDNIS 90/DIE GRÜNEN), Heidi Reichinnek (Die Linke), Ralph Edelhäußer (CDU/CSU), Christian Zaum (AfD), Natalie Pawlik (BMAS), Thomas Stephan (AfD), Bernd Rützel (SPD), Dr. Armin Grau (BÜNDNIS 90/DIE GRÜNEN), Dr. Stefan Nacke (CDU/CSU), Sarah Vollath (Die Linke), Peter Bohnhof (AfD) und Jens Peick (SPD). Ferner wurden mehrere Anträge der Linken zur Rentenreform beraten, darunter zur Verhinderung weiterer Erhöhungen des Rentenalters und zur Erhaltung von Abschlägen bei der Rente für besonders langjährig Versicherte, mit Beiträgen von Luigi Pantisano (Die Linke) und Pascal Reddig (CDU/CSU). Abschließend begann die erste Beratung eines Gesetzes zur Stärkung der Zollverwaltung und Bekämpfung der Finanzkriminalität sowie eines Antrags der Linken zur Zollreform, mit Beteiligung von Michael Schrodi (BMF), Kay Gottschalk (AfD), Anja Karliczek (CDU/CSU), Katharina Beck (BÜNDNIS 90/DIE GRÜNEN), Isabelle Vandre (Die Linke), Ingo Vogel (SPD), Hauke Finger (AfD), Philip M. A. Hoffmann (CDU/CSU) und Mechthilde Wittmann (CDU/CSU).",
-    "summary_easy": "Der Bundestag hatte am 9. Oktober 2026 seine 100. Sitzung.  Mehrere wichtige Gesetze wurden besprochen.  Zuerst ging es um das Telekommunikationsgesetz.  Viele Politiker sprachen darüber.  Die AfD stellte einen Antrag zur \"Migrationswende\".  Andere Parteien diskutierten dagegen.  Dann wurde über ein neues Gesetz für Kinderbetreuung gesprochen.  Dieses Gesetz soll die \"Startchancen\" verbessern.  Auch Rentenfragen waren ein Thema.  Die Linke wollte das Rentenalter nicht erhöhen.  Ein Gesetz zur Stärkung des Zolls wurde begonnen.  Es soll Finanzkriminalität bekämpfen.",
+    "summary_en": "The 100th session of the German Bundestag on October 9, 2026, began with amendments to the agenda. The first major item was the first reading of a government bill to amend the Telecommunications Act, aiming to improve the regulatory framework for expanding telecommunications networks (Drucksache 21/8277). Speakers included Federal Minister Dr. Karsten Wildberger (BMDS), Alexander Arpaschi (AfD), Dirk Wiese (SPD), Johannes Schätzl (SPD), Rebecca Lenhard (Greens), Anne-Mieke Bremer (Left), Hansjörg Durz (CDU/CSU), Robin Jünger (AfD), Parsa Marvi (SPD), Karoline Otte (Greens), Joachim Ebmeyer (CDU/CSU), and Ruben Rupp (AfD). The session also addressed an AfD motion for \"measures for a real migration turnaround\" (Drucksache 21/8387), with contributions from Dr. Gottfried Curio (AfD), Detlef Seif (CDU/CSU), Sonja Lemke (Left), Beatrix von Storch (AfD), Filiz Polat (Greens), Hakan Demir (SPD), Martin Hess (AfD), Lea Reisner (Left), Florian Oest (CDU/CSU), Dr. Christian Wirth (AfD), Rasha Nasr (SPD), Lamya Kaddor (Greens), Desiree Becker (Left), Dr. David Preisendanz (CDU/CSU), Daniel Bettermann (SPD), Arne Raue (AfD), and Dr. Inge Gräßle (CDU/CSU). Subsequently, the Bundestag debated the first reading of the \"Startchancen- und Qualitätsentwicklungsgesetz – SCQEG\" (Drucksache 21/8239), concerning early childhood education, alongside a Green Party motion on data-driven educational development (Drucksache 21/7854). Speakers included Federal Minister Karin Prien (BMBFSFJ), Angela Rudzka (AfD), Michael Hose (CDU/CSU), Jasmina Hostert (SPD), Dr. Anja Reinalter (Greens), Heidi Reichinnek (Left), Ralph Edelhäußer (CDU/CSU), Christian Zaum (AfD), Natalie Pawlik (BMAS), and Dr. Armin Grau (Greens). Several motions from Die Linke regarding pension reforms were discussed: preventing further increases in the retirement age, preserving early retirement for long-term insured individuals, and allowing part-time retirement from age 55 (Drucksachen 21/8388, 21/8389, 21/8390). Contributors included Luigi Pantisano (Left), Pascal Reddig (CDU/CSU), and Sarah Vollath (Left). Finally, the session covered a government bill on strengthening the customs administration and combating financial crime (Drucksache 21/8282), coupled with a Left Party motion on expanding customs reform (Drucksache 21/8391). Michael Schrodi (BMF) and Kay Gottschalk (AfD) were among the speakers.",
+    "summary_de": "Die 100. Sitzung des Deutschen Bundestages am 9. Oktober 2026 begann mit Änderungen der Tagesordnung. Der erste Hauptpunkt war die erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Telekommunikationsgesetzes zur Verbesserung der telekommunikationsrechtlichen Rahmenbedingungen für den Netzausbau (Drucksache 21/8277). Redner waren Bundesminister Dr. Karsten Wildberger (BMDS), Alexander Arpaschi (AfD), Dirk Wiese (SPD), Johannes Schätzl (SPD), Rebecca Lenhard (Grüne), Anne-Mieke Bremer (Linke), Hansjörg Durz (CDU/CSU), Robin Jünger (AfD), Parsa Marvi (SPD), Karoline Otte (Grüne), Joachim Ebmeyer (CDU/CSU) und Ruben Rupp (AfD). Die Sitzung befasste sich auch mit einem Antrag der AfD für „Maßnahmen für eine wirkliche Migrationswende“ (Drucksache 21/8387), mit Beiträgen von Dr. Gottfried Curio (AfD), Detlef Seif (CDU/CSU), Sonja Lemke (Linke), Beatrix von Storch (AfD), Filiz Polat (Grüne), Hakan Demir (SPD), Martin Hess (AfD), Lea Reisner (Linke), Florian Oest (CDU/CSU), Dr. Christian Wirth (AfD), Rasha Nasr (SPD), Lamya Kaddor (Grüne), Desiree Becker (Linke), Dr. David Preisendanz (CDU/CSU), Daniel Bettermann (SPD), Arne Raue (AfD) und Dr. Inge Gräßle (CDU/CSU). Anschließend diskutierte der Bundestag die erste Beratung des „Startchancen- und Qualitätsentwicklungsgesetzes – SCQEG“ (Drucksache 21/8239) zur Kindertagesbetreuung, verbunden mit einem Antrag der Grünen zur datengestützten Bildungsentwicklung (Drucksache 21/7854). Zu den Rednern zählten Bundesministerin Karin Prien (BMBFSFJ), Angela Rudzka (AfD), Michael Hose (CDU/CSU), Jasmina Hostert (SPD), Dr. Anja Reinalter (Grüne), Heidi Reichinnek (Linke), Ralph Edelhäußer (CDU/CSU), Christian Zaum (AfD), Natalie Pawlik (BMAS) und Dr. Armin Grau (Grüne). Mehrere Anträge der Linken zur Rentenreform wurden erörtert: Keine Erhöhung der Regelaltersgrenze, Erhalt der abschlagsfreien Rente für besonders langjährig Versicherte und Ermöglichung von Altersteilzeit ab 55 Jahren (Drucksachen 21/8388, 21/8389, 21/8390). Beteiligt waren Luigi Pantisano (Linke), Pascal Reddig (CDU/CSU) und Sarah Vollath (Linke). Abschließend behandelte die Sitzung einen Regierungsentwurf zur Stärkung der Zollverwaltung und Bekämpfung der Finanzkriminalität (Drucksache 21/8282) sowie einen Antrag der Linken zur Erweiterung der Zollreform (Drucksache 21/8391). Michael Schrodi (BMF) und Kay Gottschalk (AfD) gehörten zu den Sprechern.",
+    "summary_easy": "Der Bundestag traf sich am 9. Oktober 2026. Zuerst wurde über die Tagesordnung gesprochen. Dann ging es um ein neues Gesetz für das Internet. Es soll helfen, schnelleres Internet auszubauen. Viele Politiker von verschiedenen Parteien haben dazu gesprochen. Die AfD stellte einen Antrag für bessere Migrationspolitik. Dazu gab es auch viele Reden. Danach wurde über ein Gesetz für Kitas gesprochen. Es soll die Kinderbetreuung verbessern. Die Grünen hatten auch einen Vorschlag dazu. Es gab auch Anträge von der Linken zur Rente. Sie wollen, dass man früher Rente bekommen kann. Auch die Arbeit mit dem Zoll und gegen Kriminalität war ein Thema. Ein Gesetz soll den Zoll stärken.",
     "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact_en": "During the Dutch 'Tulip Mania' in the 17th century, tulip bulbs became so valuable that they were treated as a form of currency, with some single bulbs selling for more than houses. This speculative bubble eventually burst, leading to financial ruin for many.",
-      "fact_de": "Während der holländischen 'Tulpenmanie' im 17. Jahrhundert wurden Tulpenzwiebeln so wertvoll, dass sie als eine Form von Währung behandelt wurden. Einige einzelne Zwiebeln wurden für mehr als Häuser verkauft. Diese Spekulationsblase platzte schließlich und führte zu finanzieller Ruin für viele.",
-      "fact_easy": "Im 17. Jahrhundert in Holland gab es die 'Tulpenmanie'. Tulpenzwiebeln waren sehr wertvoll. Manche kosteten mehr als ein Haus. Die Blase platzte und viele Menschen verloren Geld.",
-      "category": "Traditions",
-      "source_title": "Tulip Mania - Wikipedia",
-      "source_url": "https://en.wikipedia.org/wiki/Tulip_mania"
+      "fact_en": "During the French Revolution, the color blue became a symbol of the Republic, replacing the royal blue. This shift was not just aesthetic; it represented a deliberate rejection of the monarchy and embraced the ideals of liberty, equality, and fraternity.",
+      "fact_de": "Während der Französischen Revolution wurde die Farbe Blau zu einem Symbol der Republik und ersetzte das königliche Blau. Dieser Wandel war nicht nur ästhetisch; er repräsentierte eine bewusste Ablehnung der Monarchie und umfasste die Ideale von Freiheit, Gleichheit und Brüderlichkeit.",
+      "fact_easy": "Während der Französischen Revolution war Blau ein Symbol für die Republik. Das blaue Kleidungsstück ersetzte das königliche Blau. Es zeigte, dass die Menschen keine Könige mehr wollten.",
+      "category": "Politics",
+      "source_title": "Liberty, Equality, Fraternity: The Tricolour Flag",
+      "source_url": "https://www.elysee.fr/en/elysee/liberty-equality-fraternity-the-tricolour-flag"
     },
     {
-      "fact_en": "The iconic 'Little Black Dress' (LBD) was popularized by Coco Chanel in the 1920s. Before this, black was primarily associated with mourning and was not widely accepted as suitable for everyday wear by women of fashion.",
-      "fact_de": "Das ikonische 'kleine Schwarze' (LBD) wurde in den 1920er Jahren von Coco Chanel populär gemacht. Zuvor war Schwarz hauptsächlich mit Trauer verbunden und wurde von modischen Frauen nicht allgemein als alltagstauglich angesehen.",
-      "fact_easy": "Coco Chanel machte das 'kleine Schwarze' bekannt. Das war in den 1920er Jahren. Früher trug man Schwarz nur, wenn man traurig war. Dann wurde Schwarz auch für normale Kleidung beliebt.",
-      "category": "Fashion",
-      "source_title": "Little Black Dress - Wikipedia",
-      "source_url": "https://en.wikipedia.org/wiki/Little_black_dress"
+      "fact_en": "The ancient Egyptians used kohl, a dark eye cosmetic, not only for beautification but also to protect their eyes from the harsh desert sun and believed it had magical healing properties. This practice was widespread across all social classes and genders.",
+      "fact_de": "Die alten Ägypter verwendeten Kohl, ein dunkles Augen-Kosmetikum, nicht nur zur Verschönerung, sondern auch zum Schutz ihrer Augen vor der sengenden Wüstensonne. Sie glaubten auch, dass es magische Heilkräfte besitze. Diese Praxis war bei allen sozialen Schichten und Geschlechtern verbreitet.",
+      "fact_easy": "Alte Ägypter nutzten Kohl für ihre Augen. Kohl schützte vor der Sonne und war auch für die Schönheit. Die Menschen glaubten, dass Kohl auch heilende Kräfte hat.",
+      "category": "Traditions",
+      "source_title": "Ancient Egyptian Cosmetics",
+      "source_url": "https://www.metmuseum.org/toah/hd/aegy/hd_aegy.htm"
     }
   ],
   "frankfurt": {
@@ -388,145 +380,84 @@
       {
         "type": "Events",
         "emoji": "🎪",
-        "headline_en": "Eintracht Frankfurt Coach Criticizes Captain Koch After Heavy Loss; Rapper Haftbefehl Cancels Concerts Due to Health Issues",
-        "headline_de": "Eintracht-Trainer Hütter kritisiert Kapitän Koch nach hoher Niederlage; Rapper Haftbefehl sagt Konzerte wegen Gesundheitsproblemen ab",
-        "headline_easy": "Trainer von Eintracht Frankfurt ist sauer auf Kapitän Koch. Der Rapper Haftbefehl sagt Konzerte ab, weil er krank ist.",
-        "summary_en": "Eintracht Frankfurt's coach, Hütter, publicly criticized captain Robin Koch after their 0-6 defeat to RB Leipzig, prompting Koch to apologize. Meanwhile, rapper Haftbefehl has cancelled upcoming concerts in Berlin and Düsseldorf due to health concerns, with his brother stating he is under medical supervision.",
-        "summary_de": "Frankfurts Trainer Hütter hat Kapitän Robin Koch nach der 0:6-Niederlage gegen RB Leipzig kritisiert, woraufhin Koch sich entschuldigte. Rapper Haftbefehl hat wegen gesundheitlicher Probleme Konzerte in Berlin und Düsseldorf abgesagt; sein Bruder erklärte, Haftbefehl sei unter ärztlicher Aufsicht.",
-        "summary_easy": "Trainer Hütter war sehr sauer auf Kapitän Koch von Eintracht Frankfurt. Der Rapper Haftbefehl ist krank. Deshalb sind seine Konzerte abgesagt.",
+        "headline_en": "BVB Faces Grueling Schedule Amidst Coaching News; Deutsche Bahn Unveils 2027 Timetable with New ICE Sprinters and International Routes",
+        "headline_de": "BVB vor XXL-Wochen mit Kovac-Verlängerung bis 2029; Deutsche Bahn stellt Fahrplan 2027 mit neuen ICE-Sprintern und Auslandsverbindungen vor",
+        "headline_easy": "BVB spielt viele Spiele bald. Trainer Kovac bleibt bis 2029. Die Bahn hat einen neuen Fahrplan für 2027. Es gibt neue schnelle Züge und mehr Verbindungen ins Ausland.",
+        "summary_en": "Borussia Dortmund begins a demanding period of eight matches in 24 days, commencing with a Champions League game under unusual circumstances. This comes after the club announced a significant personnel decision: coach Kovac has extended his contract until 2029. Separately, Deutsche Bahn has revealed its 2027 timetable, introducing new ICE Sprinter services and enhanced international connections, with the new schedule taking effect on December 13th.",
+        "summary_de": "Borussia Dortmund startet in strapaziöse Wochen mit acht Spielen in 24 Tagen, beginnend mit einem Champions-League-Spiel unter ungewohnten Bedingungen. Zuvor verkündete der Club die Vertragsverlängerung von Trainer Kovac bis 2029. Parallel dazu hat die Deutsche Bahn Details zum Fahrplan 2027 vorgestellt, der neue ICE-Sprinter und mehr Auslandsverbindungen bringt und am 13. Dezember in Kraft tritt.",
+        "summary_easy": "Borussia Dortmund spielt bald viele Spiele. Der Trainer bleibt bis 2029. Die Bahn hat einen neuen Fahrplan. Es gibt neue schnelle Züge und mehr Fahrten ins Ausland.",
         "links": [
           {
-            "title": "„Habe ihn erlöst“: Frankfurt-Coach Hütter demontiert Kapitän Koch, der reagiert",
-            "url": "https://www.focus.de/sport/fussball/habe-ihn-erloest-frankfurt-coach-huetter-demontiert-kapitaen-koch-der-reagiert_170d9952-f384-49af-9c36-099aeb55baed.html"
+            "title": "BVB-Statement vor XXL-Wochen: Kovac verlängert bis 2029",
+            "url": "https://www.tagesspiegel.de/sport/dpa-fussball-bvb-statement-vor-xxl-wochen-kovac-verlangert-bis-2029-16156505.html"
           },
           {
-            "title": "Haftbefehl-Konzerte in Berlin und Düsseldorf abgesagt: Der Rapper stehe \"unter ärztlicher Aufsicht\"",
-            "url": "https://www.tagesschau.de/kultur/konzertabsagen-haftbefehl-100.html"
+            "title": "Deutsche Bahn: Fahrplan 2027 bringt neue ICE-Sprinter und mehr Auslandsverbindungen",
+            "url": "https://stadt-bremerhaven.de/deutsche-bahn-fahrplan-2027-bringt-neue-ice-sprinter-und-mehr-auslandsverbindungen/"
           }
         ]
       },
       {
         "type": "Crime",
         "emoji": "🚔",
-        "headline_en": "New Regulations for E-Scooters: Rental Companies Now Liable for Accidents; Rapper Haftbefehl Hospitalized After Overdose",
-        "headline_de": "Neue Regeln für E-Scooter: Verleiher haften jetzt für Unfälle; Rapper Haftbefehl nach Überdosis im Krankenhaus",
-        "headline_easy": "E-Scooter: Firmen sind jetzt schuld bei Unfällen. Rapper Haftbefehl war im Koma wegen Drogen.",
-        "summary_en": "New regulations in Frankfurt make rental companies liable for damages caused by their e-scooters, a change coming as accident numbers rise. Separately, rapper Haftbefehl was reportedly in critical condition and in a coma following a drug relapse, leading to the cancellation of his concerts.",
-        "summary_de": "Seit dem 1. Oktober haften Verleiher von E-Scootern für Schäden, während die Unfallzahlen steigen. Rapper Haftbefehl war Berichten zufolge nach einem Drogenrückfall im Koma und schwebte in Lebensgefahr, was zur Absage seiner Konzerte führte.",
-        "summary_easy": "E-Scooter-Firmen müssen jetzt für Schäden zahlen. Wenn ein E-Scooter einen Unfall macht, ist die Firma schuld. Rapper Haftbefehl hatte Probleme mit Drogen und war sehr krank. Er war im Koma.",
+        "headline_en": "Eintracht Frankfurt Cup Match Against HSV Stream Info; Lufthansa Flight Aborts Landing in Los Angeles",
+        "headline_de": "DFB-Pokal-Spiel Eintracht Frankfurt gegen HSV: Infos zum Livestream; Lufthansa-Flug bricht Landeanflug in Los Angeles ab",
+        "headline_easy": "Informationen zum Pokalspiel von Eintracht Frankfurt gegen HSV. Ein Flugzeug von Lufthansa musste in Los Angeles neu starten.",
+        "summary_en": "Details are available for the DFB-Pokal match between Hamburger SV and Eintracht Frankfurt, including information on the kickoff and live stream. In a separate incident, a Lufthansa flight, LH 456, had to abort its landing in Los Angeles due to challenging conditions, executing a go-around before landing safely on its second attempt.",
+        "summary_de": "Informationen zum DFB-Pokal-Spiel zwischen dem Hamburger SV und Eintracht Frankfurt sind verfügbar, inklusive Details zu Anstoß und Livestream. In einem separaten Vorfall musste ein Lufthansa-Flug, LH 456, in Los Angeles aufgrund widriger Umstände den Landeanflug abbrechen und landete sicher im zweiten Anflug.",
+        "summary_easy": "Man kann das Spiel von Eintracht Frankfurt gegen HSV live sehen. Ein Flugzeug von Lufthansa musste in Los Angeles neu landen. Es ist nichts Schlimmes passiert.",
         "links": [
           {
-            "title": "Unfälle mit Rollern: Für E-Scooter haften jetzt die Verleiher",
-            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/gefahr-auf-den-strassen-lime-voi-und-bolt-haften-jetzt-fuer-ihre-e-scooter-accg-201295373.html"
+            "title": "Alle Infos zum DFB-Pokal-Spiel!: Hamburger SV gegen Eintracht Frankfurt live im Stream",
+            "url": "https://www.n-tv.de/sport/fussball/Hamburger-SV-gegen-Eintracht-Frankfurt-live-DFB-Pokal-im-Stream-id31411677.html"
           },
           {
-            "title": "Rapper war nach Drogenrückfall im Koma: Haftbefehl schwebte in Lebensgefahr – Konzerte abgesagt",
-            "url": "https://www.tagesspiegel.de/kultur/rapper-war-nach-drogenruckfall-im-koma-haftbefehl-schwebte-in-lebensgefahr--konzerte-abgesagt-16151116.html"
+            "title": "Landeanflug abgebrochen! - Lufthansa-Maschine entgeht knapp einer Katastrophe",
+            "url": "https://www.bild.de/regional/frankfurt/landeanflug-abgebrochen-lufthansa-maschine-entgeht-knapp-einer-katastrophe-6acd2b088776d79fbd9cab31.html"
           }
         ]
       },
       {
         "type": "Sales & Offers",
         "emoji": "🛍️",
-        "headline_en": "E-Scooter Liability Shift and Rapper's Health Issues Affecting Event Schedules",
-        "headline_de": "Haftungsänderung bei E-Scootern und gesundheitliche Probleme des Rappers beeinflussen Veranstaltungspläne",
-        "headline_easy": "Neue Regeln für E-Scooter. Rapper Haftbefehl ist krank und sagt Konzerte ab.",
-        "summary_en": "Frankfurt is seeing a shift in liability for e-scooters, with rental companies now responsible for damages, while accident rates continue to rise. In entertainment news, rapper Haftbefehl has cancelled upcoming performances due to a serious health crisis involving a drug relapse and coma.",
-        "summary_de": "In Frankfurt haften Verleiher von E-Scootern nun für Schäden, während die Unfallzahlen steigen. Rapper Haftbefehl hat Konzerte wegen eines schweren gesundheitlichen Problems nach einem Drogenrückfall abgesagt.",
-        "summary_easy": "E-Scooter: Die Firmen, die sie vermieten, müssen jetzt für Schäden zahlen. Rapper Haftbefehl ist sehr krank. Er war im Koma. Deshalb fallen seine Konzerte aus.",
+        "headline_en": "Eintracht Frankfurt Cup Match Streaming Details; Lufthansa Near-Miss Landing in LA",
+        "headline_de": "DFB-Pokal-Spiel Eintracht Frankfurt gegen HSV: Infos zum Livestream; Lufthansa-Flug mit Beinahe-Katastrophe in LA",
+        "headline_easy": "Man kann das Spiel von Eintracht Frankfurt gegen HSV live sehen. Ein Flugzeug von Lufthansa musste in Los Angeles neu starten.",
+        "summary_en": "Fans can find all the information regarding the DFB-Pokal match between Hamburger SV and Eintracht Frankfurt, including details on how to watch it live via stream. Separately, a dramatic incident occurred when a Lufthansa flight had to abort its landing in Los Angeles, with the aircraft successfully completing the maneuver and landing safely on its second attempt.",
+        "summary_de": "Alle Informationen zum DFB-Pokal-Spiel zwischen dem Hamburger SV und Eintracht Frankfurt, einschließlich der Details zum Livestream, sind verfügbar. In einem anderen Vorfall brach eine Lufthansa-Maschine in Los Angeles ihren Landeanflug ab, vermied jedoch knapp eine Katastrophe und landete sicher im zweiten Anlauf.",
+        "summary_easy": "Das Pokalspiel von Eintracht Frankfurt gegen HSV kann man live sehen. Ein Flugzeug von Lufthansa musste in Los Angeles neu landen. Aber es ist nichts Schlimmes passiert.",
         "links": [
           {
-            "title": "Unfälle mit Rollern: Für E-Scooter haften jetzt die Verleiher",
-            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/gefahr-auf-den-strassen-lime-voi-und-bolt-haften-jetzt-fuer-ihre-e-scooter-accg-201295373.html"
+            "title": "Alle Infos zum DFB-Pokal-Spiel!: Hamburger SV gegen Eintracht Frankfurt live im Stream",
+            "url": "https://www.n-tv.de/sport/fussball/Hamburger-SV-gegen-Eintracht-Frankfurt-live-DFB-Pokal-im-Stream-id31411677.html"
           },
           {
-            "title": "Nach Drogenrückfall im Koma: Rapper Haftbefehl war offenbar in Lebensgefahr – Konzerte abgesagt",
-            "url": "https://www.tagesspiegel.de/kultur/nach-drogenruckfall-im-koma-rapper-haftbefehl-war-offenbar-in-lebensgefahr--konzerte-abgesagt-16151116.html"
+            "title": "Landeanflug abgebrochen! - Lufthansa-Maschine entgeht knapp einer Katastrophe",
+            "url": "https://www.bild.de/regional/frankfurt/landeanflug-abgebrochen-lufthansa-maschine-entgeht-knapp-einer-katastrophe-6acd2b088776d79fbd9cab31.html"
           }
         ]
       },
       {
         "type": "Local News",
         "emoji": "📍",
-        "headline_en": "E-Scooter Liability Changes and Rapper Haftbefehl's Health Crisis Impact Frankfurt",
-        "headline_de": "Haftungsänderungen bei E-Scootern und Gesundheitskrise von Rapper Haftbefehl betreffen Frankfurt",
-        "headline_easy": "Neue Regeln für E-Scooter in Frankfurt. Rapper Haftbefehl ist krank.",
-        "summary_en": "Frankfurt is implementing new rules for e-scooters, making rental companies liable for accidents and damages, as the city grapples with increasing incidents. In unrelated news, rapper Haftbefehl has cancelled his concerts due to a critical health condition stemming from a drug relapse.",
-        "summary_de": "In Frankfurt haften Vermieter von E-Scootern seit dem 1. Oktober für Schäden, während die Zahl der Unfälle steigt. Rapper Haftbefehl musste Konzerte absagen, da er nach einem Drogenrückfall im Koma lag und in Lebensgefahr schwebte.",
-        "summary_easy": "In Frankfurt gibt es neue Regeln für E-Scooter. Die Firmen, die sie vermieten, sind jetzt schuld, wenn etwas passiert. Rapper Haftbefehl ist sehr krank geworden. Er lag im Koma.",
+        "headline_en": "Eintracht Frankfurt Cup Match Streaming Information; Lufthansa Flight Aborts Landing in Los Angeles; Düsseldorf Event Planning Data",
+        "headline_de": "DFB-Pokal-Spiel Eintracht Frankfurt gegen HSV: Infos zum Livestream; Lufthansa-Flug bricht Landeanflug in Los Angeles ab; Datenanalyse für Großveranstaltungen in Düsseldorf",
+        "headline_easy": "Man kann das Spiel von Eintracht Frankfurt gegen HSV live sehen. Ein Flugzeug von Lufthansa musste in Los Angeles neu starten. Man kann auch Daten für große Veranstaltungen in Düsseldorf finden.",
+        "summary_en": "Information is available for the DFB-Pokal match between Hamburger SV and Eintracht Frankfurt, including details on how to watch the game live via stream. In a separate incident, a Lufthansa flight safely landed in Los Angeles after aborting its initial approach. Additionally, there's a report on how organizers of large events in Düsseldorf can utilize data streams to understand user origins and potential traffic challenges.",
+        "summary_de": "Alle Infos zum DFB-Pokal-Spiel zwischen dem Hamburger SV und Eintracht Frankfurt, inklusive Anstoßzeit und Livestream, sind verfügbar. Ein Lufthansa-Flug brach in Los Angeles seinen Landeanflug ab, entkam aber einer Katastrophe und landete sicher. Ein weiterer Artikel befasst sich mit der Datenanalyse für Großveranstaltungen in Düsseldorf zur Optimierung der Anreise.",
+        "summary_easy": "Das Pokalspiel von Eintracht Frankfurt gegen HSV kann man live sehen. Ein Flugzeug von Lufthansa musste in Los Angeles neu landen. Es ist nichts Schlimmes passiert. Man kann auch Informationen über Besucher von großen Veranstaltungen finden.",
         "links": [
           {
-            "title": "Unfälle mit Rollern: Für E-Scooter haften jetzt die Verleiher",
-            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/gefahr-auf-den-strassen-lime-voi-und-bolt-haften-jetzt-fuer-ihre-e-scooter-accg-201295373.html"
+            "title": "Alle Infos zum DFB-Pokal-Spiel!: Hamburger SV gegen Eintracht Frankfurt live im Stream",
+            "url": "https://www.n-tv.de/sport/fussball/Hamburger-SV-gegen-Eintracht-Frankfurt-live-DFB-Pokal-im-Stream-id31411677.html"
           },
           {
-            "title": "Rapper war nach Drogenrückfall im Koma: Haftbefehl schwebte in Lebensgefahr – Konzerte abgesagt",
-            "url": "https://www.tagesspiegel.de/kultur/rapper-war-nach-drogenruckfall-im-koma-haftbefehl-schwebte-in-lebensgefahr--konzerte-abgesagt-16151116.html"
+            "title": "Landeanflug abgebrochen! - Lufthansa-Maschine entgeht knapp einer Katastrophe",
+            "url": "https://www.bild.de/regional/frankfurt/landeanflug-abgebrochen-lufthansa-maschine-entgeht-knapp-einer-katastrophe-6acd2b088776d79fbd9cab31.html"
           }
         ]
       }
     ]
   },
-  "dresden": [
-    {
-      "price": "250 €",
-      "address": "Schützengrund 2, 01157 Dresden",
-      "district": "Burgstädtel",
-      "size": "25",
-      "rooms": "1",
-      "title": "1 Zimmer Wohnung in guter Lage",
-      "url": "https://www.immobilienscout24.de/expose/144948076",
-      "source": "Immoscout24.de"
-    },
-    {
-      "price": "290 €",
-      "address": "Leuthardstraße 16, 01277 Dresden",
-      "district": "Strehlen",
-      "size": "28",
-      "rooms": "1",
-      "title": "Helle 1-Zimmer-Wohnung in ruhiger Lage",
-      "url": "https://www.immobilienscout24.de/expose/144954883",
-      "source": "Immoscout24.de"
-    },
-    {
-      "price": "310 €",
-      "address": "Weißer Steg 12, 01097 Dresden",
-      "district": "Neustadt",
-      "size": "30",
-      "rooms": "1",
-      "title": "Gemütliche Einzimmerwohnung im Herzen der Neustadt",
-      "url": "https://www.immowelt.de/expose/2B23553892824F6081676733B74583DC",
-      "source": "Immowelt.de"
-    },
-    {
-      "price": "350 €",
-      "address": "Breitscheidstraße 10, 01157 Dresden",
-      "district": "Friedrichstadt",
-      "size": "35",
-      "rooms": "1",
-      "title": "Sonnige 1-Zimmer-Wohnung mit Balkon",
-      "url": "https://www.vonovia.de/wohnung/sachsen/dresden/friedrichstadt/breitscheidstrasse-10/WDB11574",
-      "source": "Vonovia.de"
-    },
-    {
-      "price": "380 €",
-      "address": "Rennersdorfer Weg 5, 01277 Dresden",
-      "district": "Seidnitz",
-      "size": "40",
-      "rooms": "1.5",
-      "title": "Tolle 1.5 Zimmer Wohnung in ruhiger Lage",
-      "url": "https://www.immowelt.de/expose/2B23554063B34EB481F154B31F809224",
-      "source": "Immowelt.de"
-    },
-    {
-      "price": "410 €",
-      "address": "Morgenleite 2, 01279 Dresden",
-      "district": "Grünau",
-      "size": "45",
-      "rooms": "2",
-      "title": "Helle 2-Zimmer-Wohnung mit guter Anbindung",
-      "url": "https://www.immobilienscout24.de/expose/144938997",
-      "source": "Immoscout24.de"
-    }
-  ]
+  "dresden": []
 }
