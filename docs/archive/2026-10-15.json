@@ -1,0 +1,448 @@
+{
+  "date": "Thursday, October 15 2026",
+  "sections": [
+    {
+      "category": "Germany",
+      "emoji": "🇩🇪",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Diverse German News: Politics, Sports, and International Cooperation",
+          "headline_de": "Vielfältige deutsche Nachrichten: Politik, Sport und internationale Zusammenarbeit",
+          "headline_easy": "Neue Nachrichten aus Deutschland: Politik, Sport und Hilfe für andere Länder",
+          "summary_en": "News from Germany includes political maneuvering, a potential transfer decision regarding Florian Wirtz by Liverpool, and a cooperation deal for Gaza reconstruction with NCAG.",
+          "summary_de": "Nachrichten aus Deutschland beinhalten politische Manöver, eine mögliche Transferentscheidung bezüglich Florian Wirtz durch Liverpool und ein Kooperationsabkommen für den Wiederaufbau Gazas mit NCAG.",
+          "summary_easy": "Nachrichten aus Deutschland handeln von Politik, einem Fußballspieler und Hilfe für Gaza.",
+          "links": [
+            {
+              "title": "Kim, the behind-the-scenes manoeuvring and the replacement at the Embassy, the polls and 17 bleak years, Alexis’s doorstep, Mandarin at Ellinikon",
+              "url": "https://en.protothema.gr/2026/10/14/kim-the-behind-the-scenes-manoeuvring-and-the-replacement-at-the-embassy-the-polls-and-17-bleak-years-alexiss-doorstep-mandarin-at-ellinikon/"
+            },
+            {
+              "title": "It's just crazy: Liverpool doubling down on insane Florian Wirtz decision",
+              "url": "https://www.anfieldwatch.co.uk/liverpool-fc/news/its-just-crazy-liverpool-doubling-down-on-insane-florian-wirtz-decision/"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "German Markets Affected by Global Trends and Tech Concerns",
+          "headline_de": "Deutsche Märkte von globalen Trends und Technologiefürchten betroffen",
+          "headline_easy": "Deutsche Märkte: Technik und Politik spielen eine Rolle.",
+          "summary_en": "German market-related news includes cryptocurrency security fears impacting resellers and broader political events with potential market implications.",
+          "summary_de": "Nachrichten über den deutschen Markt beinhalten Bedenken hinsichtlich der Sicherheit von Kryptowährungen, die Wiederverkäufer betreffen, sowie breitere politische Ereignisse mit möglichen Markteinflüssen.",
+          "summary_easy": "In Deutschland gibt es Sorgen um Technik. Auch Politik beeinflusst die Märkte.",
+          "links": [
+            {
+              "title": "Ledger’s crypto wallet implant scare triggers Trezor reseller crackdown as security fears spread",
+              "url": "https://cryptoslate.com/ledgers-crypto-wallet-implant-scare-triggers-trezor-reseller-crackdown-as-security-fears-spread/"
+            },
+            {
+              "title": "An oral history of Chicago nightlife’s most beloved visitor",
+              "url": "https://chicagoreader.com/music/music-feature/claudio-velez-tamale-guy-oral-history/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Europe",
+      "emoji": "🇪🇺",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "European Leaders Discussing Energy Deals, Sports Talent, and Defense",
+          "headline_de": "Europäische Staats- und Regierungschefs diskutieren Energiegeschäfte, Sporttalente und Verteidigung",
+          "headline_easy": "Chefs aus Europa sprechen über Energie, Sport und Verteidigung.",
+          "summary_en": "European news includes Italy's Prime Minister questioning a US-Russian diesel deal, recognition of top young European football creators, and Greece's role in European defense.",
+          "summary_de": "Nachrichten aus Europa umfassen die Infragestellung eines US-russischen Dieselabkommens durch Italiens Premierministerin, die Anerkennung der besten jungen europäischen Fußballtalente und Griechenlands Rolle in der europäischen Verteidigung.",
+          "summary_easy": "Europäische Chefs reden über Energie. Junge Fußballer sind gut. Griechenland hilft bei der Verteidigung.",
+          "links": [
+            {
+              "title": "Italian Prime Minister Giorgia Meloni questions US-Russian diesel deal",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/italian-prime-minister-giorgia-meloni-questions-us-russian-diesel-deal/articleshow/134937014.cms"
+            },
+            {
+              "title": "Yamal, Guler lead Europe’s top chance creators in 2026",
+              "url": "https://punchng.com/yamal-guler-lead-europes-top-chance-creators-in-2026/"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "European Business Focus on Energy Markets and Economic Outlook",
+          "headline_de": "Europäischer Fokus auf Energiemärkte und Wirtschaftsaussichten",
+          "headline_easy": "Europäische Geschäfte: Energie und Arbeitsmarkt sind wichtig.",
+          "summary_en": "European business news highlights concerns over diesel supply and pricing, with implications for the broader market, and demographic shifts impacting the workforce.",
+          "summary_de": "Europäische Wirtschaftsneuigkeiten beleuchten Bedenken hinsichtlich der Dieselversorgung und -preise mit Auswirkungen auf den breiteren Markt sowie demografische Verschiebungen, die die Arbeitskräfte beeinflussen.",
+          "summary_easy": "Europa macht sich Sorgen um Diesel. Mehr Babys und KI könnten wichtig für die Arbeit sein.",
+          "links": [
+            {
+              "title": "Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says",
+              "url": "https://www.cnbc.com/2026/10/14/diesel-deal-oil-price-iea-report.html"
+            },
+            {
+              "title": "More babies, more workers, way more AI",
+              "url": "https://www.businessinsider.com/remote-work-long-term-effects-birth-rates-labor-ai-2026-10#article"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "US",
+      "emoji": "🇺🇸",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "US Cultural News: Papal Health Update and Economic Indicators",
+          "headline_de": "US-Kultur-Nachrichten: Aktualisierung zur Gesundheit des Papstes und Wirtschaftsindikatoren",
+          "headline_easy": "Nachrichten aus den USA: Der Papst und die Wirtschaft.",
+          "summary_en": "US cultural news includes a health update on Pope Leo XIV following lung cancer surgery and anticipation of the September CPI report, alongside Italy's Prime Minister questioning a diesel deal.",
+          "summary_de": "US-Kulturnachrichten umfassen ein Gesundheitsupdate zu Papst Leo XIV. nach einer Lungenkrebsoperation und die Erwartung des September-CPI-Berichts, neben der Infragestellung eines Dieselabkommens durch Italiens Premierministerin.",
+          "summary_easy": "Der Papst hatte eine Operation. Es gibt bald neue Zahlen zur Wirtschaft. Italien spricht über Diesel.",
+          "links": [
+            {
+              "title": "Pope Leo XIV Diagnosed With Early-Stage Lung Cancer After Surgery Removes Part of Right Lung, Vatican Says",
+              "url": "https://www.ibtimes.com.au/pope-leo-xiv-lung-cancer-surgery-recovery-1876680"
+            },
+            {
+              "title": "US futures higher ahead of September CPI report",
+              "url": "https://biztoc.com/x/9d1abb651c3435b3"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "US Business Landscape: Anniversary Merchandise and Market Indicators",
+          "headline_de": "US-Geschäftslandschaft: Jubiläumsprodukte und Marktindikatoren",
+          "headline_easy": "US-Geschäfte: Gedenkartikel und Wirtschaftszahlen.",
+          "summary_en": "US business news features anniversary merchandise sales and positive movement in US futures ahead of the September CPI report, alongside health news concerning the Pope.",
+          "summary_de": "US-Geschäftsneuigkeiten beinhalten den Verkauf von Jubiläumsprodukten und positive Entwicklungen bei US-Futures vor dem September-CPI-Bericht, neben Gesundheitsnachrichten über den Papst.",
+          "summary_easy": "Es gibt Artikel zum Jubiläum. Die Wirtschaft sieht gut aus. Der Papst ist krank.",
+          "links": [
+            {
+              "title": "United States 250th Anniversary Enamel Lapel Pins Multipacks for From $6.99 + free shipping w/ Prime",
+              "url": "https://www.dealnews.com/United-States-250-th-Anniversary-Enamel-Lapel-Pins-Multipacks-for-From-6-99-free-shipping-w-Prime/22283483.html"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "US Markets Anticipate CPI Data Amidst Global Political and Health Developments",
+          "headline_de": "US-Märkte erwarten CPI-Daten inmitten globaler politischer und gesundheitlicher Entwicklungen",
+          "headline_easy": "US-Börsen: Wichtige Zahlen kommen bald. Auch Politik und Gesundheit sind wichtig.",
+          "summary_en": "US stock markets are looking towards the September CPI report for direction, while global news includes political maneuvering in Greece and significant developments in cancer drug spending.",
+          "summary_de": "US-Aktienmärkte blicken auf den September-CPI-Bericht für die Richtung, während globale Nachrichten politische Manöver in Griechenland und bedeutende Entwicklungen bei den Ausgaben für Krebsmedikamente umfassen.",
+          "summary_easy": "Die Börsen in den USA warten auf neue Zahlen. Es gibt auch Nachrichten über Politik und Medizin.",
+          "links": [
+            {
+              "title": "Cancer Drug Spending Is Headed Past $400 Billion as Colorectal and Pancreatic Cancers Move Up the Research Agenda",
+              "url": "https://www.prnewswire.com/news-releases/cancer-drug-spending-is-headed-past-400-billion-as-colorectal-and-pancreatic-cancers-move-up-the-research-agenda-302908253.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Asia",
+      "emoji": "🌏",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Asian Cultural and Educational News: Nobel Laureates and Local Incidents",
+          "headline_de": "Asiatische Kultur- und Bildungsnachrichten: Nobelpreisträger und lokale Vorfälle",
+          "headline_easy": "Asien: Bildung und ein Vorfall.",
+          "summary_en": "Asian news covers the educational backgrounds of Nobel laureates and a reported incident at a Delhi club, alongside agricultural research findings from the US.",
+          "summary_de": "Asiatische Nachrichten decken die Bildungshintergründe von Nobelpreisträgern und einen berichteten Vorfall in einem Club in Delhi ab, neben landwirtschaftlichen Forschungsergebnissen aus den USA.",
+          "summary_easy": "Asien berichtet über gute Studenten und einen Vorfall in einem Club. Die USA machen Forschung im Gartenbau.",
+          "links": [
+            {
+              "title": "From Harvard to MIT: Where did the 2026 Nobel laureates study?",
+              "url": "https://timesofindia.indiatimes.com/education/news/from-harvard-to-mit-where-did-the-2026-nobel-laureates-study/articleshow/134936816.cms"
+            },
+            {
+              "title": "'Manager's wife attacked with bottles': A night out, a beer spill and a killing at Delhi club",
+              "url": "https://timesofindia.indiatimes.com/city/delhi/managers-wife-attacked-with-bottles-a-night-out-a-beer-spill-and-a-killing-at-delhi-club/articleshow/134937087.cms"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Asian Markets React to Economic Data and Commodity Prices",
+          "headline_de": "Asiatische Märkte reagieren auf Wirtschaftsdaten und Rohstoffpreise",
+          "headline_easy": "Asien: Börsen, Energie und Rohstoffe.",
+          "summary_en": "Asian markets experienced mixed performance following Chinese economic data, with energy stocks seeing a rally alongside oil prices, despite a weaker Australian market.",
+          "summary_de": "Die asiatischen Märkte verzeichneten nach chinesischen Wirtschaftsdaten eine gemischte Entwicklung, wobei Energieaktien neben den Ölpreisen einen Anstieg verzeichneten, trotz eines schwächeren australischen Marktes.",
+          "summary_easy": "Die Börsen in Asien sind gemischt. Energie und Ölpreise steigen.",
+          "links": [
+            {
+              "title": "Asia mixed after Chinese data",
+              "url": "https://biztoc.com/x/a20a34cea6e6092d"
+            },
+            {
+              "title": "Yancoal Shares Climb Above $6 as Energy Stocks Rally With Oil Prices Despite Weaker Australian Market",
+              "url": "https://www.ibtimes.com.au/yancoal-shares-rise-oil-prices-energy-stocks-1876665"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "World",
+      "emoji": "🌍",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Global Culture: Charity Initiatives and Sporting Elections",
+          "headline_de": "Weltkultur: Wohltätigkeitsinitiativen und Sportwahlen",
+          "headline_easy": "Weltweit: Hilfe, Sport und Wahlen.",
+          "summary_en": "Global cultural news highlights a UK charity's successful book club initiative, election results in New Zealand, and the election of the first president of the Indian UniSport Federation.",
+          "summary_de": "Weltweite Kultur-Nachrichten beleuchten die erfolgreiche Buchclub-Initiative einer britischen Wohltätigkeitsorganisation, Wahlergebnisse in Neuseeland und die Wahl des ersten Präsidenten der Indian UniSport Federation.",
+          "summary_easy": "Eine Stiftung in England hilft mit Büchern. In Neuseeland gab es Wahlen. Indien hat einen neuen Sportchef.",
+          "links": [
+            {
+              "title": "A UK charity started a book club in 2018 with one simple idea, that reading could help families after disasters; eight years later more than 10,000 readers have received 160,169 books and raised £2 million",
+              "url": "https://timesofindia.indiatimes.com/world/uk/a-uk-charity-started-a-book-club-in-2018-with-one-simple-idea-that-reading-could-help-families-after-disasters-eight-years-later-more-than-10000-readers-have-received-160169-books-and-raised-2-million/articleshow/134937109.cms"
+            },
+            {
+              "title": "Election 2026: Our experts pick who won the NZ Herald Leaders’ Debate",
+              "url": "https://www.nzherald.co.nz/nz/politics/election-2026-our-experts-pick-who-won-the-nz-herald-leaders-debate/premium/43EIT5RW4RFGDKYIKXSPVO43NU/"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Global Affairs: Humanitarian Efforts and Political Developments",
+          "headline_de": "Weltgeschehen: Humanitäre Bemühungen und politische Entwicklungen",
+          "headline_easy": "Weltweit: Hilfe und Politik.",
+          "summary_en": "Global news highlights humanitarian efforts like a UK charity's book club, alongside political developments such as election results in New Zealand and immigration events in the US.",
+          "summary_de": "Globale Nachrichten beleuchten humanitäre Bemühungen wie den Buchclub einer britischen Wohltätigkeitsorganisation, neben politischen Entwicklungen wie Wahlergebnissen in Neuseeland und Einwanderungsereignissen in den USA.",
+          "summary_easy": "Eine Stiftung in England hilft mit Büchern. Es gab Wahlen in Neuseeland. Leute kommen in die USA.",
+          "links": [
+            {
+              "title": "Over 1,000 prospective olim attend Nefesh B’Nefesh events across US",
+              "url": "https://www.israelnationalnews.com/news/434593"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Global Markets Influenced by Demographics, AI, and Papal Health",
+          "headline_de": "Globale Märkte von Demografie, KI und der Gesundheit des Papstes beeinflusst",
+          "headline_easy": "Weltweit: Börsen, Technik und Gesundheit.",
+          "summary_en": "Global stock market news is influenced by trends in birth rates, AI adoption, and the health status of Pope Leo XIV, indicating a broad range of factors affecting economic outlooks.",
+          "summary_de": "Globale Aktienmarkt-Nachrichten werden von Trends bei Geburtenraten, KI-Einführung und dem Gesundheitszustand von Papst Leo XIV. beeinflusst, was eine breite Palette von Faktoren zeigt, die die Wirtschaftsaussichten beeinflussen.",
+          "summary_easy": "Die Börsen weltweit werden von vielen Dingen beeinflusst: Kinder, Technik und die Gesundheit des Papstes.",
+          "links": [
+            {
+              "title": "Pope Leo passes 'calm' night after surgery to remove lung cancer tumour",
+              "url": "https://www.thejournal.ie/pope-leo-cancer-surgery-7192554-Oct2026/"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "Global Technology Trends: Economic Forecasts and Humanitarian Efforts",
+          "headline_de": "Globale Technologietrends: Wirtschaftsprognosen und humanitäre Bemühungen",
+          "headline_easy": "Weltweit: Technik, Wirtschaft und Hilfe.",
+          "summary_en": "Global technology news encompasses economic forecasts regarding debt and deficits, alongside humanitarian efforts from a UK charity and immigration events in the US.",
+          "summary_de": "Globale Technologieneuigkeiten umfassen Wirtschaftsprognosen bezüglich Schulden und Defiziten, neben humanitären Bemühungen einer britischen Wohltätigkeitsorganisation und Einwanderungsereignissen in den USA.",
+          "summary_easy": "Die Technik weltweit beeinflusst die Wirtschaft. Eine Stiftung in England hilft mit Büchern. Leute kommen in die USA.",
+          "links": [
+            {
+              "title": "Scott Bessent's growth plans aren't enough to tame surging deficit and debt pile, IMF chief says",
+              "url": "https://www.cnbc.com/2026/10/14/bond-yields-debt-deficit-treasury.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "bundestag": {
+    "wahlperiode": 21,
+    "sitzung": 101,
+    "url": "https://dserver.bundestag.de/btp/21/21101.pdf",
+    "summary_en": "The 101st session of the 21st legislative period of the German Bundestag convened on Wednesday, October 14, 2026. The session began with the extension and procedural matters of the agenda, including the removal of agenda items 5, 19a, and 26, and subsequent committee referrals. A notable event was the welcome extended to the Speaker of the Canadian House of Commons, Francis Scarpaleggia.  Following this, the new Federal Minister for Labour and Social Affairs, Alexander Schweitzer, took his oath of office. The main agenda item was the Chancellor's government statement regarding the European Council meeting on October 15-16, 2026, delivered by Chancellor Friedrich Merz.  Subsequent to the Chancellor's address, a government question time took place. Minister of State for Foreign Affairs Dorothee Bär (BMFTR) and Federal Minister for Digital and Transport Dr. Karsten Wildberger (BMDS) responded to inquiries from various parliamentary groups. MPs from CDU/CSU, SPD, AfD, BÜNDNIS 90/DIE GRÜNEN, and Die Linke posed questions covering a range of topics, with Minister Bär addressing some and Minister Wildberger handling others. Specific exchanges involved Andreas Mayer (AfD), Maja Wallstein (SPD), Rebecca Lenhard (BÜNDNIS 90/DIE GRÜNEN), Tino Chrupalla (AfD), Dr. Matthias Miersch (SPD), Britta Haßelmann (BÜNDNIS 90/DIE GRÜNEN), Thorsten Frei (CDU/CSU), Sören Pellmann (Die Linke), Siemtje Möller (SPD), Dr. Alice Weidel (AfD), Alexander Hoffmann (CDU/CSU), Stefan Glaser (CDU/CSU), Pascal Meiser (Die Linke), Nicole Gohlke (Die Linke), Ruben Rupp (AfD), Stephan Brandner (AfD), Marvin Schulz (CDU/CSU), Dr. Anna Lührmann (BÜNDNIS 90/DIE GRÜNEN), Dr. Rainer Kraft (AfD), Parsa Marvi (SPD), Ayse Asar (BÜNDNIS 90/DIE GRÜNEN), Jeanne Dillschneider (BÜNDNIS 90/DIE GRÜNEN), Joachim Ebmeyer (CDU/CSU), Dr. Carolin Wagner (SPD), Dr. Hans Theiss (CDU/CSU), Stephan Albani (CDU/CSU), Dr. Paul Schmidt (AfD), Dr. Ingo Hahn (AfD), Florian Müller (CDU/CSU), Sonja Lemke (Die Linke), and Donata Vogtschmidt (Die Linke). The transcript details numerous exchanges between these MPs and the responding ministers.",
+    "summary_de": "Die 101. Sitzung der 21. Wahlperiode des Deutschen Bundestages fand am Mittwoch, den 14. Oktober 2026 statt. Die Sitzung begann mit der Erweiterung und Abwicklung der Tagesordnung, einschließlich der Absetzung der Tagesordnungspunkte 5, 19a und 26 sowie nachträglicher Ausschussüberweisungen. Ein bemerkenswerter Punkt war die Begrüßung des Präsidenten des kanadischen Unterhauses, Francis Scarpaleggia. Anschließend leistete der neue Bundesminister für Arbeit und Soziales, Alexander Schweitzer, seinen Amtseid. Hauptpunkt der Tagesordnung war die Regierungserklärung des Bundeskanzlers zum Europäischen Rat am 15./16. Oktober 2026, abgegeben von Bundeskanzler Friedrich Merz. Daraufhin folgte eine Befragung der Bundesregierung. Staatsministerin für Auswärtiges Dorothee Bär (BMFTR) und Bundesminister für Digitales und Verkehr Dr. Karsten Wildberger (BMDS) beantworteten Anfragen verschiedener Fraktionen. Abgeordnete der CDU/CSU, SPD, AfD, BÜNDNIS 90/DIE GRÜNEN und der Linken stellten Fragen zu diversen Themen, wobei Ministerin Bär einige und Minister Wildberger andere beantwortete. Spezifische Wortmeldungen kamen von Andreas Mayer (AfD), Maja Wallstein (SPD), Rebecca Lenhard (BÜNDNIS 90/DIE GRÜNEN), Tino Chrupalla (AfD), Dr. Matthias Miersch (SPD), Britta Haßelmann (BÜNDNIS 90/DIE GRÜNEN), Thorsten Frei (CDU/CSU), Sören Pellmann (Die Linke), Siemtje Möller (SPD), Dr. Alice Weidel (AfD), Alexander Hoffmann (CDU/CSU), Stefan Glaser (CDU/CSU), Pascal Meiser (Die Linke), Nicole Gohlke (Die Linke), Ruben Rupp (AfD), Stephan Brandner (AfD), Marvin Schulz (CDU/CSU), Dr. Anna Lührmann (BÜNDNIS 90/DIE GRÜNEN), Dr. Rainer Kraft (AfD), Parsa Marvi (SPD), Ayse Asar (BÜNDNIS 90/DIE GRÜNEN), Jeanne Dillschneider (BÜNDNIS 90/DIE GRÜNEN), Joachim Ebmeyer (CDU/CSU), Dr. Carolin Wagner (SPD), Dr. Hans Theiss (CDU/CSU), Stephan Albani (CDU/CSU), Dr. Paul Schmidt (AfD), Dr. Ingo Hahn (AfD), Florian Müller (CDU/CSU), Sonja Lemke (Die Linke) und Donata Vogtschmidt (Die Linke). Das Protokoll dokumentiert zahlreiche Wortwechsel zwischen diesen Abgeordneten und den antwortenden Ministern.",
+    "summary_easy": "Heute ist Mittwoch, der 14. Oktober 2026. Der Bundestag hat seine Sitzung begonnen. Zuerst ging es um die Tagesordnung. Einige Punkte wurden gestrichen. Der Präsident des kanadischen Parlaments wurde begrüßt. Dann hat ein neuer Minister seinen Eid geleistet. Alexander Schweitzer ist der neue Arbeitsminister. Danach hat der Bundeskanzler gesprochen. Friedrich Merz sprach über den EU-Rat. Danach konnten Abgeordnete Fragen stellen. Ministerinnen und Minister haben geantwortet. Es gab viele Fragen und Antworten von vielen Abgeordneten und den Ministern.",
+    "ukrainian_men": "Kein Thema in dieser Sitzung."
+  },
+  "facts": [
+    {
+      "fact_en": "During the Ming Dynasty in China (1368-1644), foot binding was a prevalent and painful practice among aristocratic women. This custom involved tightly binding young girls' feet to break and reshape them into a small, delicate 'lotus foot' shape, symbolizing beauty and status, but causing lifelong disability.",
+      "fact_de": "Während der Ming-Dynastie in China (1368-1644) war das Fußbinden eine verbreitete und schmerzhafte Praxis bei aristokratischen Frauen. Diese Sitte beinhaltete das enge Umwickeln der Füße junger Mädchen, um sie zu brechen und zu einer kleinen, zarten 'Lotusfuß'-Form umzugestalten. Dies symbolisierte Schönheit und Status, führte aber zu lebenslanger Behinderung.",
+      "fact_easy": "In China gab es früher eine Tradition namens Fußbinden. Junge Mädchen bekamen ihre Füße sehr eng verbunden. So wurden die Füße klein und sahen besonders aus. Das war aber sehr schmerzhaft und machte die Frauen krank.",
+      "category": "Traditions",
+      "source_title": "Foot binding | History, Facts, & Significance",
+      "source_url": "https://www.britannica.com/topic/foot-binding"
+    },
+    {
+      "fact_en": "The color purple was once incredibly expensive and thus associated with royalty and the elite in ancient Rome and Byzantium. This was because the dye, Tyrian purple, was derived from thousands of tiny sea snails, making its production labor-intensive and the resulting fabric astronomically costly.",
+      "fact_de": "Die Farbe Lila war im antiken Rom und Byzanz einst unglaublich teuer und daher mit Königen und der Elite verbunden. Dies lag daran, dass der Farbstoff, Purpur aus Tyros, aus Tausenden von winzigen Meeresschnecken gewonnen wurde, was die Produktion arbeitsintensiv und den daraus hergestellten Stoff astronomisch teuer machte.",
+      "fact_easy": "In der Antike war die Farbe Lila sehr besonders. Nur sehr reiche und wichtige Menschen durften diese Farbe tragen. Das liegt daran, dass der Farbstoff von kleinen Schnecken kam. Es brauchte viele Schnecken, um genug Farbe zu machen.",
+      "category": "Fashion",
+      "source_title": "Tyrian Purple - Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Tyrian_purple"
+    }
+  ],
+  "frankfurt": {
+    "topics": [
+      {
+        "type": "Events",
+        "emoji": "🎪",
+        "headline_en": "RB Leipzig's Gruda Inspired by Messi, DE-CIX Breaks Data Record, Comedian Panzer Mourns Wife",
+        "headline_de": "RB-Hoffnungsträger von Messi inspiriert, DE-CIX bricht Datenrekord, Comedian Panzer trauert um Ehefrau",
+        "headline_easy": "RB Leipzig Spieler denkt an Messi. Internet wird schneller. Ein Comedian ist traurig.",
+        "summary_en": "RB Leipzig's young talent Brajan Gruda is feeling inspired after their Champions League win, with a touch of Lionel Messi's magic credited. Meanwhile, the DE-CIX internet exchange in Frankfurt has set a new record for data traffic. In personal news, comedian Paul Panzer is mourning the loss of his wife.",
+        "summary_de": "Nach dem Sieg in der Champions League fühlt sich RB Leipzigs Nachwuchstalent Brajan Gruda inspiriert und schreibt dies auch Lionel Messi zu. Gleichzeitig hat der Internetknoten DE-CIX in Frankfurt einen neuen Rekord beim Datenverkehr aufgestellt. In persönlichen Nachrichten trauert der Comedian Paul Panzer um seine Ehefrau.",
+        "summary_easy": "RB Leipzig hat gewonnen. Brajan Gruda ist sehr gut. Er denkt an Lionel Messi. Der Internet-Verkehr ist sehr hoch. Der Comedian Paul Panzer ist traurig.",
+        "links": [
+          {
+            "title": "Klopps RB-Hoffnungsträger spürt Messis Magie im Fuß",
+            "url": "https://www.n-tv.de/sport/Klopps-RB-Hoffnungstraeger-spuert-Messis-Magie-im-Fuss-id31415890.html"
+          },
+          {
+            "title": "DE-CIX Frankfurt erreicht neuen Rekord mit 21,47 Tbit/s",
+            "url": "https://www.mobiflip.de/de-cix-frankfurt-erreicht-neuen-rekord-mit-2147-tbits/"
+          }
+        ]
+      },
+      {
+        "type": "Crime",
+        "emoji": "🚔",
+        "headline_en": "French Take Over IKB Bank, Zucchini Flowers Underappreciated, Eintracht Frankfurt vs. HSV in DFB-Pokal",
+        "headline_de": "Franzosen übernehmen IKB Bank, Zucchiniblüten unterschätzt, Eintracht Frankfurt gegen HSV im DFB-Pokal",
+        "headline_easy": "Franzosen kaufen eine Bank. Man kann Zucchiniblüten essen. Eintracht Frankfurt spielt gegen HSV.",
+        "summary_en": "French bank Crédit Agricole is acquiring the Düsseldorf-based IKB Bank, a deal with significant implications for the German financial sector. A botanical column discusses the culinary potential of zucchini flowers, which are largely unused in Germany. Football fans can find all information for the DFB-Pokal match between Hamburger SV and Eintracht Frankfurt.",
+        "summary_de": "Die französische Crédit Agricole übernimmt die Düsseldorfer Mittelstandsbank IKB. Eine Kolumne über Botanik beleuchtet das ungenutzte Potenzial von Zucchiniblüten als Speise. Fußballfans finden alle Informationen zum DFB-Pokal-Spiel zwischen dem Hamburger SV und Eintracht Frankfurt.",
+        "summary_easy": "Eine Bank in Deutschland hat neue Besitzer. Sie kommen aus Frankreich. Zucchiniblüten sind lecker, aber viele Leute wissen das nicht. Eintracht Frankfurt spielt Fußball. Das Spiel ist im DFB-Pokal.",
+        "links": [
+          {
+            "title": "Banken: Franzosen übernehmen Düsseldorfer Mittelstandsbank",
+            "url": "https://www.sueddeutsche.de/wirtschaft/ikb-credit-agricole-mittelstandsbank-duesseldorf-uebernahme-deal-li.3562841"
+          },
+          {
+            "title": "Botanik-Kolumne: Sag mir, wo die Zucchiniblüten sind",
+            "url": "https://www.faz.net/aktuell/wissen/ab-in-die-botanik/zucchiniblueten-warum-werden-sie-in-deutschland-kaum-gegessen-accg-201296923.html"
+          }
+        ]
+      },
+      {
+        "type": "Sales & Offers",
+        "emoji": "🛍️",
+        "headline_en": "French Take Over IKB Bank, Zucchini Flowers Underappreciated, Eintracht Frankfurt vs. HSV in DFB-Pokal",
+        "headline_de": "Franzosen übernehmen IKB Bank, Zucchiniblüten unterschätzt, Eintracht Frankfurt gegen HSV im DFB-Pokal",
+        "headline_easy": "Franzosen kaufen eine Bank. Man kann Zucchiniblüten essen. Eintracht Frankfurt spielt gegen HSV.",
+        "summary_en": "French bank Crédit Agricole is acquiring the Düsseldorf-based IKB Bank, a deal with significant implications for the German financial sector. A botanical column discusses the culinary potential of zucchini flowers, which are largely unused in Germany. Football fans can find all information for the DFB-Pokal match between Hamburger SV and Eintracht Frankfurt.",
+        "summary_de": "Die französische Crédit Agricole übernimmt die Düsseldorfer Mittelstandsbank IKB. Eine Kolumne über Botanik beleuchtet das ungenutzte Potenzial von Zucchiniblüten als Speise. Fußballfans finden alle Informationen zum DFB-Pokal-Spiel zwischen dem Hamburger SV und Eintracht Frankfurt.",
+        "summary_easy": "Eine Bank in Deutschland hat neue Besitzer. Sie kommen aus Frankreich. Zucchiniblüten sind lecker, aber viele Leute wissen das nicht. Eintracht Frankfurt spielt Fußball. Das Spiel ist im DFB-Pokal.",
+        "links": [
+          {
+            "title": "Banken: Franzosen übernehmen Düsseldorfer Mittelstandsbank",
+            "url": "https://www.sueddeutsche.de/wirtschaft/ikb-credit-agricole-mittelstandsbank-duesseldorf-uebernahme-deal-li.3562841"
+          },
+          {
+            "title": "Botanik-Kolumne: Sag mir, wo die Zucchiniblüten sind",
+            "url": "https://www.faz.net/aktuell/wissen/ab-in-die-botanik/zucchiniblueten-warum-werden-sie-in-deutschland-kaum-gegessen-accg-201296923.html"
+          }
+        ]
+      },
+      {
+        "type": "Local News",
+        "emoji": "📍",
+        "headline_en": "French Take Over IKB Bank, Zucchini Flowers Underappreciated, Eintracht Frankfurt vs. HSV in DFB-Pokal",
+        "headline_de": "Franzosen übernehmen IKB Bank, Zucchiniblüten unterschätzt, Eintracht Frankfurt gegen HSV im DFB-Pokal",
+        "headline_easy": "Franzosen kaufen eine Bank. Man kann Zucchiniblüten essen. Eintracht Frankfurt spielt gegen HSV.",
+        "summary_en": "French bank Crédit Agricole is acquiring the Düsseldorf-based IKB Bank, a deal with significant implications for the German financial sector. A botanical column discusses the culinary potential of zucchini flowers, which are largely unused in Germany. Football fans can find all information for the DFB-Pokal match between Hamburger SV and Eintracht Frankfurt.",
+        "summary_de": "Die französische Crédit Agricole übernimmt die Düsseldorfer Mittelstandsbank IKB. Eine Kolumne über Botanik beleuchtet das ungenutzte Potenzial von Zucchiniblüten als Speise. Fußballfans finden alle Informationen zum DFB-Pokal-Spiel zwischen dem Hamburger SV und Eintracht Frankfurt.",
+        "summary_easy": "Eine Bank in Deutschland hat neue Besitzer. Sie kommen aus Frankreich. Zucchiniblüten sind lecker, aber viele Leute wissen das nicht. Eintracht Frankfurt spielt Fußball. Das Spiel ist im DFB-Pokal.",
+        "links": [
+          {
+            "title": "Banken: Franzosen übernehmen Düsseldorfer Mittelstandsbank",
+            "url": "https://www.sueddeutsche.de/wirtschaft/ikb-credit-agricole-mittelstandsbank-duesseldorf-uebernahme-deal-li.3562841"
+          },
+          {
+            "title": "Botanik-Kolumne: Sag mir, wo die Zucchiniblüten sind",
+            "url": "https://www.faz.net/aktuell/wissen/ab-in-die-botanik/zucchiniblueten-warum-werden-sie-in-deutschland-kaum-gegessen-accg-201296923.html"
+          }
+        ]
+      }
+    ]
+  },
+  "dresden": [
+    {
+      "price": "370 €",
+      "address": "Bernsdorfer Str. 8, 01069 Dresden",
+      "district": "Südvorstadt",
+      "size": "25 m²",
+      "rooms": "1",
+      "title": "Kleine, helle Wohnung in zentraler Lage",
+      "url": "https://www.immobilienscout24.de/expose/142693057?utm_campaign=ios_share&utm_medium=social&utm_source=other",
+      "source": "Immoscout24.de"
+    },
+    {
+      "price": "390 €",
+      "address": "Eckbergstraße 18, 01099 Dresden",
+      "district": "Laubegast",
+      "size": "30 m²",
+      "rooms": "1",
+      "title": "Schöne 1-Zimmer-Wohnung mit Balkon",
+      "url": "https://www.immobilienscout24.de/expose/142678914?utm_campaign=ios_share&utm_medium=social&utm_source=other",
+      "source": "Immoscout24.de"
+    },
+    {
+      "price": "410 €",
+      "address": "Breslauer Str. 14, 01069 Dresden",
+      "district": "Seevorstadt",
+      "size": "35 m²",
+      "rooms": "1,5",
+      "title": "Helle 1,5-Zimmer-Wohnung im Zentrum",
+      "url": "https://www.immowelt.de/expose/2A263-R1X23X",
+      "source": "Immowelt.de"
+    },
+    {
+      "price": "425 €",
+      "address": "Bergmannstr. 12, 01309 Dresden",
+      "district": "Striesen",
+      "size": "32 m²",
+      "rooms": "1",
+      "title": "Gemütliche 1-Zimmer-Wohnung in ruhiger Lage",
+      "url": "https://www.immobilienscout24.de/expose/142693104?utm_campaign=ios_share&utm_medium=social&utm_source=other",
+      "source": "Immoscout24.de"
+    },
+    {
+      "price": "430 €",
+      "address": "Zamenhofstraße 19, 01159 Dresden",
+      "district": "Cotta",
+      "size": "40 m²",
+      "rooms": "1,5",
+      "title": "Sonnige 1,5-Zimmer-Wohnung in Cotta",
+      "url": "https://www.immowelt.de/expose/2A263-T3F83C",
+      "source": "Immowelt.de"
+    },
+    {
+      "price": "440 €",
+      "address": "Gewerbepark 3, 01307 Dresden",
+      "district": "Johannstadt",
+      "size": "38 m²",
+      "rooms": "1",
+      "title": "Moderne 1-Zimmer-Wohnung Nähe Zentrum",
+      "url": "https://www.immobilienscout24.de/expose/142599911?utm_campaign=ios_share&utm_medium=social&utm_source=other",
+      "source": "Immoscout24.de"
+    }
+  ]
+}
