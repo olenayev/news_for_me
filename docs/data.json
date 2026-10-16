@@ -1,5 +1,5 @@
 {
-  "date": "Thursday, October 15 2026",
+  "date": "Friday, October 16 2026",
   "sections": [
     {
       "category": "Germany",
@@ -8,40 +8,40 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Diverse German News: Politics, Sports, and International Cooperation",
-          "headline_de": "Vielfältige deutsche Nachrichten: Politik, Sport und internationale Zusammenarbeit",
-          "headline_easy": "Neue Nachrichten aus Deutschland: Politik, Sport und Hilfe für andere Länder",
-          "summary_en": "News from Germany includes political maneuvering, a potential transfer decision regarding Florian Wirtz by Liverpool, and a cooperation deal for Gaza reconstruction with NCAG.",
-          "summary_de": "Nachrichten aus Deutschland beinhalten politische Manöver, eine mögliche Transferentscheidung bezüglich Florian Wirtz durch Liverpool und ein Kooperationsabkommen für den Wiederaufbau Gazas mit NCAG.",
-          "summary_easy": "Nachrichten aus Deutschland handeln von Politik, einem Fußballspieler und Hilfe für Gaza.",
+          "headline_en": "European Productivity, Diplomatic Dinners, and Forest Land Sales",
+          "headline_de": "Europäische Produktivität, diplomatische Abendessen und Waldverkäufe",
+          "headline_easy": "Europa will besser werden. Es gibt auch Probleme mit Wäldern.",
+          "summary_en": "Discussions around Europe's productivity challenges and the need for an independent course are ongoing. Meanwhile, in Greece, an embassy dinner, political disputes within SYRIZA, and the sale of forest land in Argolida are making headlines.",
+          "summary_de": "Es gibt Diskussionen über Europas Produktivitätsherausforderungen und die Notwendigkeit eines unabhängigen Kurses. In Griechenland gibt es Schlagzeilen über ein Botschaftsessen, politische Streitigkeiten innerhalb von SYRIZA und den Verkauf von Waldland in Argolida.",
+          "summary_easy": "Europa spricht über Arbeit und Wachstum. In Griechenland gab es ein wichtiges Essen bei einer Botschaft. Es gab auch Streit in einer Partei und Wald wurde verkauft.",
           "links": [
             {
-              "title": "Kim, the behind-the-scenes manoeuvring and the replacement at the Embassy, the polls and 17 bleak years, Alexis’s doorstep, Mandarin at Ellinikon",
-              "url": "https://en.protothema.gr/2026/10/14/kim-the-behind-the-scenes-manoeuvring-and-the-replacement-at-the-embassy-the-polls-and-17-bleak-years-alexiss-doorstep-mandarin-at-ellinikon/"
+              "title": "What really happened at the fateful embassy dinner, SYRIZA’s break-ups and bitter disputes, and forest land put up for sale in Argolida",
+              "url": "https://en.protothema.gr/2026/10/15/what-really-happened-at-the-fateful-embassy-dinner-syrizas-break-ups-and-bitter-disputes-and-forest-land-put-up-for-sale-in-argolida/"
             },
             {
-              "title": "It's just crazy: Liverpool doubling down on insane Florian Wirtz decision",
-              "url": "https://www.anfieldwatch.co.uk/liverpool-fc/news/its-just-crazy-liverpool-doubling-down-on-insane-florian-wirtz-decision/"
+              "title": "Dani Rodrik: Europe should chart its own course in its quest to fix its productivity problem",
+              "url": "https://www.livemint.com/opinion/online-views/dani-rodrik-europe-must-look-beyond-the-us-and-china-to-boost-productivity-11791975261536.html"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "German Markets Affected by Global Trends and Tech Concerns",
-          "headline_de": "Deutsche Märkte von globalen Trends und Technologiefürchten betroffen",
-          "headline_easy": "Deutsche Märkte: Technik und Politik spielen eine Rolle.",
-          "summary_en": "German market-related news includes cryptocurrency security fears impacting resellers and broader political events with potential market implications.",
-          "summary_de": "Nachrichten über den deutschen Markt beinhalten Bedenken hinsichtlich der Sicherheit von Kryptowährungen, die Wiederverkäufer betreffen, sowie breitere politische Ereignisse mit möglichen Markteinflüssen.",
-          "summary_easy": "In Deutschland gibt es Sorgen um Technik. Auch Politik beeinflusst die Märkte.",
+          "headline_en": "Tech Vulnerability, Stock Market Moves, and EU Economic Outlook",
+          "headline_de": "Technologie-Schwachstelle, Börsenbewegungen und EU-Wirtschaftsaussichten",
+          "headline_easy": "Neue Technik ist nicht sicher. Aktien steigen oder fallen. Europa denkt über Wirtschaft nach.",
+          "summary_en": "A significant security vulnerability has been disclosed concerning Auerswald COMmander devices, allowing for code execution. In market news, Tata Tech shares saw an 8% rally despite bearish outlooks from analysts, while broader European economic discussions continue.",
+          "summary_de": "Eine bedeutende Sicherheitslücke wurde im Zusammenhang mit Auerswald COMmander-Geräten bekannt, die Codeausführung ermöglicht. An den Märkten verzeichneten Tata Tech-Aktien einen Kursanstieg von 8 %, trotz einer pessimistischen Prognose von Analysten, während die breiteren europäischen Wirtschaftsgespräche andauern.",
+          "summary_easy": "Eine neue Technik kann gefährlich sein. Aktien von Tata Tech sind gestiegen. Europa spricht über Wirtschaft.",
           "links": [
             {
-              "title": "Ledger’s crypto wallet implant scare triggers Trezor reseller crackdown as security fears spread",
-              "url": "https://cryptoslate.com/ledgers-crypto-wallet-implant-scare-triggers-trezor-reseller-crackdown-as-security-fears-spread/"
+              "title": "[0day-rubbish] Auerswald COMmander 6000 / 6000R 8.6D unauthenticated provisioning import zip-slip to root binary hijack and root code execution (9.8)",
+              "url": "https://seclists.org/fulldisclosure/2026/Oct/13"
             },
             {
-              "title": "An oral history of Chicago nightlife’s most beloved visitor",
-              "url": "https://chicagoreader.com/music/music-feature/claudio-velez-tamale-guy-oral-history/"
+              "title": "Tata Tech shares rally 8% after Q2 results, but Goldman Sachs and JM Financial stay bearish. Here's why",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-tech-shares-rally-8-after-q2-results-but-goldman-sachs-and-jm-financial-stay-bearish-heres-why/articleshow/134957050.cms"
             }
           ]
         }
@@ -54,40 +54,52 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "European Leaders Discussing Energy Deals, Sports Talent, and Defense",
-          "headline_de": "Europäische Staats- und Regierungschefs diskutieren Energiegeschäfte, Sporttalente und Verteidigung",
-          "headline_easy": "Chefs aus Europa sprechen über Energie, Sport und Verteidigung.",
-          "summary_en": "European news includes Italy's Prime Minister questioning a US-Russian diesel deal, recognition of top young European football creators, and Greece's role in European defense.",
-          "summary_de": "Nachrichten aus Europa umfassen die Infragestellung eines US-russischen Dieselabkommens durch Italiens Premierministerin, die Anerkennung der besten jungen europäischen Fußballtalente und Griechenlands Rolle in der europäischen Verteidigung.",
-          "summary_easy": "Europäische Chefs reden über Energie. Junge Fußballer sind gut. Griechenland hilft bei der Verteidigung.",
+          "headline_en": "Diplomatic Agreements, Political Disputes, and Football Ambitions",
+          "headline_de": "Diplomatische Abkommen, politische Streitigkeiten und Fußballambitionen",
+          "headline_easy": "Länder arbeiten zusammen. Es gibt politische Streitigkeiten. Ein Fußballteam will alles gewinnen.",
+          "summary_en": "Indonesia and Portugal have agreed to recognize fishing crew certificates, fostering bilateral cooperation. In Greece, internal political disputes within SYRIZA and events surrounding an embassy dinner are making news, while Arsenal's Merino expresses the team's ambition to win all competitions.",
+          "summary_de": "Indonesien und Portugal haben zugestimmt, Fischereizertifikate anzuerkennen, was die bilaterale Zusammenarbeit fördert. In Griechenland stehen interne politische Streitigkeiten innerhalb von SYRIZA und Ereignisse rund um ein Botschaftsessen im Vordergrund, während Arsenals Merino den Ehrgeiz des Teams äußert, alle Wettbewerbe zu gewinnen.",
+          "summary_easy": "Indonesien und Portugal arbeiten besser zusammen. Es gab Streit in der griechischen Partei SYRIZA. Ein Fußballspieler von Arsenal sagt, das Team will alles gewinnen.",
           "links": [
             {
-              "title": "Italian Prime Minister Giorgia Meloni questions US-Russian diesel deal",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/italian-prime-minister-giorgia-meloni-questions-us-russian-diesel-deal/articleshow/134937014.cms"
-            },
-            {
-              "title": "Yamal, Guler lead Europe’s top chance creators in 2026",
-              "url": "https://punchng.com/yamal-guler-lead-europes-top-chance-creators-in-2026/"
+              "title": "Indonesia, Portugal agree to recognize fishing crew certificates",
+              "url": "https://en.antaranews.com/news/435633/indonesia-portugal-agree-to-recognize-fishing-crew-certificates"
             }
           ]
         },
         {
-          "type": "Business",
-          "emoji": "💼",
-          "headline_en": "European Business Focus on Energy Markets and Economic Outlook",
-          "headline_de": "Europäischer Fokus auf Energiemärkte und Wirtschaftsaussichten",
-          "headline_easy": "Europäische Geschäfte: Energie und Arbeitsmarkt sind wichtig.",
-          "summary_en": "European business news highlights concerns over diesel supply and pricing, with implications for the broader market, and demographic shifts impacting the workforce.",
-          "summary_de": "Europäische Wirtschaftsneuigkeiten beleuchten Bedenken hinsichtlich der Dieselversorgung und -preise mit Auswirkungen auf den breiteren Markt sowie demografische Verschiebungen, die die Arbeitskräfte beeinflussen.",
-          "summary_easy": "Europa macht sich Sorgen um Diesel. Mehr Babys und KI könnten wichtig für die Arbeit sein.",
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Apollo's EasyJet Bid Faces Union Pushback, Tech Startup Secures Funding",
+          "headline_de": "Apollos EasyJet-Angebot stößt auf gewerkschaftlichen Widerstand, Tech-Startup sichert Finanzierung",
+          "headline_easy": "Eine Firma will eine Fluggesellschaft kaufen. Arbeiter sind dagegen. Eine neue Technik-Firma bekommt Geld.",
+          "summary_en": "Apollo's bid to acquire EasyJet is encountering resistance from unions, raising concerns about the deal. In the tech sector, 120ft has secured angel funding to develop autonomous microfactories. Meanwhile, political commentary on Chrystia Freeland's book is being discussed.",
+          "summary_de": "Apollos Angebot zur Übernahme von EasyJet stößt auf Widerstand von Gewerkschaften, was Bedenken hinsichtlich des Geschäfts aufwirft. Im Technologiesektor hat 120 Fuß Angel-Finanzierung gesichert, um autonome Mikrofabriken zu entwickeln. Unterdessen wird politische Kommentare zu Chrystia Freelands Buch diskutiert.",
+          "summary_easy": "Eine Firma namens Apollo will EasyJet kaufen, aber Arbeiter mögen das nicht. Eine neue Firma namens 120ft baut Roboter-Fabriken und hat Geld bekommen. Man redet über ein Buch einer Politikerin.",
           "links": [
             {
-              "title": "Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says",
-              "url": "https://www.cnbc.com/2026/10/14/diesel-deal-oil-price-iea-report.html"
+              "title": "Apollo's EasyJet buyout faces union pushback",
+              "url": "https://www.rte.ie/news/business/2026/1015/1595451-apollos-easyjet-buyout-faces-union-pushback/"
             },
             {
-              "title": "More babies, more workers, way more AI",
-              "url": "https://www.businessinsider.com/remote-work-long-term-effects-birth-rates-labor-ai-2026-10#article"
+              "title": "120ft raises angel funding to build autonomous microfactories run by humanoid robots",
+              "url": "https://siliconangle.com/2026/10/15/120ft-raises-angel-funding-to-build-autonomous-microfactories-run-by-humanoid-robots/"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "Fan Focus on Football Tactics, Diplomatic Agreements, and Political Discussions",
+          "headline_de": "Fan-Fokus auf Fußballtaktiken, diplomatische Abkommen und politische Diskussionen",
+          "headline_easy": "Fans sprechen über Fußball. Länder arbeiten zusammen. Es gibt politische Nachrichten.",
+          "summary_en": "Sunderland fans are discussing potential tactics against Torreense in the Europa League. Indonesia and Portugal have agreed to recognize fishing crew certificates. Political commentary on Chrystia Freeland's book and events in Greece are also making headlines.",
+          "summary_de": "Sunderland-Fans diskutieren über mögliche Taktiken gegen Torreense in der Europa League. Indonesien und Portugal haben sich darauf geeinigt, Fischereizertifikate anzuerkennen. Politische Kommentare zu Chrystia Freelands Buch und Ereignisse in Griechenland sorgen ebenfalls für Schlagzeilen.",
+          "summary_easy": "Fans von Sunderland sprechen über ein Fußballspiel. Indonesien und Portugal arbeiten zusammen. Es gibt Nachrichten über Politik und ein Buch.",
+          "links": [
+            {
+              "title": "Fan Focus: What can Sunderland expect from Torreense in the Europa League?",
+              "url": "https://rokerreport.sbnation.com/fan-focus/156277/fan-focus-what-can-sunderland-expect-from-torreense-in-the-europa-league"
             }
           ]
         }
@@ -100,52 +112,52 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "US Cultural News: Papal Health Update and Economic Indicators",
-          "headline_de": "US-Kultur-Nachrichten: Aktualisierung zur Gesundheit des Papstes und Wirtschaftsindikatoren",
-          "headline_easy": "Nachrichten aus den USA: Der Papst und die Wirtschaft.",
-          "summary_en": "US cultural news includes a health update on Pope Leo XIV following lung cancer surgery and anticipation of the September CPI report, alongside Italy's Prime Minister questioning a diesel deal.",
-          "summary_de": "US-Kulturnachrichten umfassen ein Gesundheitsupdate zu Papst Leo XIV. nach einer Lungenkrebsoperation und die Erwartung des September-CPI-Berichts, neben der Infragestellung eines Dieselabkommens durch Italiens Premierministerin.",
-          "summary_easy": "Der Papst hatte eine Operation. Es gibt bald neue Zahlen zur Wirtschaft. Italien spricht über Diesel.",
+          "headline_en": "River Phoenix's Secret Shakespeare Role, Celebrity Baby News, and Political Memoirs",
+          "headline_de": "River Phoenix' geheime Shakespeare-Rolle, Promi-Baby-Neuigkeiten und politische Memoiren",
+          "headline_easy": "Ein alter Film mit River Phoenix. Ein Baby von einer Berühmtheit. Ein Buch über Politik.",
+          "summary_en": "A rediscovered Shakespeare adaptation starring the late River Phoenix is gaining attention. In celebrity news, Kaley Cuoco has revealed her second baby's name. Political insights are emerging from Chrystia Freeland's memoir detailing her relationship with Trudeau.",
+          "summary_de": "Eine wiederentdeckte Shakespeare-Adaption mit dem verstorbenen River Phoenix erregt Aufmerksamkeit. In den Promi-Nachrichten hat Kaley Cuoco den Namen ihres zweiten Babys bekannt gegeben. Politische Einblicke ergeben sich aus Chrystia Freelands Memoiren, die ihre Beziehung zu Trudeau detailliert beschreiben.",
+          "summary_easy": "Man hat einen alten Film mit River Phoenix gefunden. Ein Baby wurde geboren und die Eltern haben einen Namen genannt. Eine Politikerin hat ein Buch geschrieben.",
           "links": [
             {
-              "title": "Pope Leo XIV Diagnosed With Early-Stage Lung Cancer After Surgery Removes Part of Right Lung, Vatican Says",
-              "url": "https://www.ibtimes.com.au/pope-leo-xiv-lung-cancer-surgery-recovery-1876680"
+              "title": "2 Years Before His Death, River Phoenix Starred In a Secret Shakespeare Adaptation (& It’s Quietly One of His Best)",
+              "url": "http://comicbook.com/movies/feature/2-years-before-his-death-river-phoenix-starred-in-a-secret-shakespeare-adaptation-its-quietly-one-of-his-best/"
             },
             {
-              "title": "US futures higher ahead of September CPI report",
-              "url": "https://biztoc.com/x/9d1abb651c3435b3"
+              "title": "“Celebrities Are In A Secret Contest”: Kaley Cuoco Reveals Name After Giving Birth To Second Baby",
+              "url": "https://www.boredpanda.com/kaley-cuoco-reveals-name-second-baby-people-mixed-reactions/"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "US Business Landscape: Anniversary Merchandise and Market Indicators",
-          "headline_de": "US-Geschäftslandschaft: Jubiläumsprodukte und Marktindikatoren",
-          "headline_easy": "US-Geschäfte: Gedenkartikel und Wirtschaftszahlen.",
-          "summary_en": "US business news features anniversary merchandise sales and positive movement in US futures ahead of the September CPI report, alongside health news concerning the Pope.",
-          "summary_de": "US-Geschäftsneuigkeiten beinhalten den Verkauf von Jubiläumsprodukten und positive Entwicklungen bei US-Futures vor dem September-CPI-Bericht, neben Gesundheitsnachrichten über den Papst.",
-          "summary_easy": "Es gibt Artikel zum Jubiläum. Die Wirtschaft sieht gut aus. Der Papst ist krank.",
+          "headline_en": "River Phoenix Film, Political Memoirs, and Football Transfer Speculation",
+          "headline_de": "River Phoenix Film, politische Memoiren und Spekulationen über Fußballtransfers",
+          "headline_easy": "Ein alter Film mit River Phoenix. Ein Buch über Politik. Ein Fußballspieler könnte wechseln.",
+          "summary_en": "A rare Shakespeare adaptation featuring River Phoenix is being highlighted. Political discourse is present with discussions around Chrystia Freeland's memoir. Football transfer rumors are circulating, with Manchester United reportedly in contention for a Benfica star.",
+          "summary_de": "Eine seltene Shakespeare-Adaption mit River Phoenix wird hervorgehoben. Politischer Diskurs ist mit Diskussionen über Chrystia Freelands Memoiren vorhanden. Fußballtransfergerüchte kursieren, wobei Manchester United angeblich um einen Benfica-Star kämpft.",
+          "summary_easy": "Man hat einen alten Film mit River Phoenix gefunden. Eine Politikerin hat ein Buch geschrieben. Manchester United will einen Fußballspieler kaufen.",
           "links": [
             {
-              "title": "United States 250th Anniversary Enamel Lapel Pins Multipacks for From $6.99 + free shipping w/ Prime",
-              "url": "https://www.dealnews.com/United-States-250-th-Anniversary-Enamel-Lapel-Pins-Multipacks-for-From-6-99-free-shipping-w-Prime/22283483.html"
+              "title": "In Unreliable Boyfriend, Chrystia Freeland details the rift between her and Trudeau",
+              "url": "https://www.cbc.ca/news/politics/chrystia-freeland-unreliable-boyfriend-memoir-9.7380824"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "US Markets Anticipate CPI Data Amidst Global Political and Health Developments",
-          "headline_de": "US-Märkte erwarten CPI-Daten inmitten globaler politischer und gesundheitlicher Entwicklungen",
-          "headline_easy": "US-Börsen: Wichtige Zahlen kommen bald. Auch Politik und Gesundheit sind wichtig.",
-          "summary_en": "US stock markets are looking towards the September CPI report for direction, while global news includes political maneuvering in Greece and significant developments in cancer drug spending.",
-          "summary_de": "US-Aktienmärkte blicken auf den September-CPI-Bericht für die Richtung, während globale Nachrichten politische Manöver in Griechenland und bedeutende Entwicklungen bei den Ausgaben für Krebsmedikamente umfassen.",
-          "summary_easy": "Die Börsen in den USA warten auf neue Zahlen. Es gibt auch Nachrichten über Politik und Medizin.",
+          "headline_en": "Political Memoir Sparks Debate, Bond Offerings, and Tech Vulnerabilities",
+          "headline_de": "Politische Memoiren entfachen Debatte, Anleihenangebote und technische Schwachstellen",
+          "headline_easy": "Ein Buch über Politik ist wichtig. Neue Anleihen bieten Geld. Technik kann unsicher sein.",
+          "summary_en": "Chrystia Freeland's memoir, 'Unreliable Boyfriend,' is generating discussion about her relationship with Trudeau. Secured Fixed Income is offering new listed bonds with a 7.75% return. Meanwhile, a security vulnerability in Auerswald devices highlights tech risks.",
+          "summary_de": "Chrystia Freelands Memoiren 'Unreliable Boyfriend' lösen Diskussionen über ihre Beziehung zu Trudeau aus. Secured Fixed Income bietet neue börsennotierte Anleihen mit einer Rendite von 7,75 % an. Gleichzeitig verdeutlicht eine Sicherheitslücke in Auerswald-Geräten technische Risiken.",
+          "summary_easy": "Ein Buch über Chrystia Freeland ist wichtig. Es gibt neue Anleihen, die Geld bringen. Technik kann unsicher sein.",
           "links": [
             {
-              "title": "Cancer Drug Spending Is Headed Past $400 Billion as Colorectal and Pancreatic Cancers Move Up the Research Agenda",
-              "url": "https://www.prnewswire.com/news-releases/cancer-drug-spending-is-headed-past-400-billion-as-colorectal-and-pancreatic-cancers-move-up-the-research-agenda-302908253.html"
+              "title": "Secured Fixed Income's New Retail-Eligible Listed Bonds Offer 7.75% Return, Paid Six-Monthly",
+              "url": "https://www.prnewswire.com/news-releases/secured-fixed-incomes-new-retail-eligible-listed-bonds-offer-7-75-return-paid-six-monthly-302908836.html"
             }
           ]
         }
@@ -158,40 +170,40 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Asian Cultural and Educational News: Nobel Laureates and Local Incidents",
-          "headline_de": "Asiatische Kultur- und Bildungsnachrichten: Nobelpreisträger und lokale Vorfälle",
-          "headline_easy": "Asien: Bildung und ein Vorfall.",
-          "summary_en": "Asian news covers the educational backgrounds of Nobel laureates and a reported incident at a Delhi club, alongside agricultural research findings from the US.",
-          "summary_de": "Asiatische Nachrichten decken die Bildungshintergründe von Nobelpreisträgern und einen berichteten Vorfall in einem Club in Delhi ab, neben landwirtschaftlichen Forschungsergebnissen aus den USA.",
-          "summary_easy": "Asien berichtet über gute Studenten und einen Vorfall in einem Club. Die USA machen Forschung im Gartenbau.",
+          "headline_en": "Tech Solutions, Manufacturing Expansion, and Market Entry",
+          "headline_de": "Technologielösungen, Produktionserweiterung und Markteintritt",
+          "headline_easy": "Neue Technik ist einfach zu nutzen. Firmen bauen mehr Fabriken. Eine Firma kommt nach Indien.",
+          "summary_en": "ZSvirt.io offers open-source KVM virtualization designed for enterprise ease of use and quick deployment. FIC Group is expanding its optical module capacity with a new plant in Malaysia. Canadian firm VZFOX is set to enter the Indian market for subsurface engineering.",
+          "summary_de": "ZSvirt.io bietet Open-Source-KVM-Virtualisierung für Unternehmen, die einfach zu bedienen und schnell einzurichten ist. FIC Group erweitert seine Kapazitäten für optische Module mit einem neuen Werk in Malaysia. Das kanadische Unternehmen VZFOX wird in den indischen Markt für Tiefbauingenieurwesen eintreten.",
+          "summary_easy": "ZSvirt.io macht Technik für Firmen einfach. FIC Group baut mehr Fabriken in Malaysia. Eine Firma aus Kanada kommt nach Indien.",
           "links": [
             {
-              "title": "From Harvard to MIT: Where did the 2026 Nobel laureates study?",
-              "url": "https://timesofindia.indiatimes.com/education/news/from-harvard-to-mit-where-did-the-2026-nobel-laureates-study/articleshow/134936816.cms"
+              "title": "ZSvirt.io – Open-Source KVM Virtualization That Actually Feels Enterprise (and Deploys in Minutes)",
+              "url": "https://www.vladan.fr/zsvirt-io-open-source-kvm-virtualization-that-actually-feels-enterprise-and-deploys-in-minutes/"
             },
             {
-              "title": "'Manager's wife attacked with bottles': A night out, a beer spill and a killing at Delhi club",
-              "url": "https://timesofindia.indiatimes.com/city/delhi/managers-wife-attacked-with-bottles-a-night-out-a-beer-spill-and-a-killing-at-delhi-club/articleshow/134937087.cms"
+              "title": "FIC Group opens Malaysia plant as optical module capacity targets 18 SMT lines",
+              "url": "https://www.digitimes.com/news/a20261015PD242/smt-plant-production-johor-manufacturing.html"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Asian Markets React to Economic Data and Commodity Prices",
-          "headline_de": "Asiatische Märkte reagieren auf Wirtschaftsdaten und Rohstoffpreise",
-          "headline_easy": "Asien: Börsen, Energie und Rohstoffe.",
-          "summary_en": "Asian markets experienced mixed performance following Chinese economic data, with energy stocks seeing a rally alongside oil prices, despite a weaker Australian market.",
-          "summary_de": "Die asiatischen Märkte verzeichneten nach chinesischen Wirtschaftsdaten eine gemischte Entwicklung, wobei Energieaktien neben den Ölpreisen einen Anstieg verzeichneten, trotz eines schwächeren australischen Marktes.",
-          "summary_easy": "Die Börsen in Asien sind gemischt. Energie und Ölpreise steigen.",
+          "headline_en": "Asia-Pacific Stocks Fall, World Bank Financing Urged, Diplomatic History",
+          "headline_de": "Aktien im Asien-Pazifik-Raum fallen, Finanzierung der Weltbank gefordert, diplomatische Geschichte",
+          "headline_easy": "Aktienkurse in Asien fallen. Jemand will mehr Geld für Öl. Ein alter Text über eine Frau.",
+          "summary_en": "Asia-Pacific stocks experienced a decline, with the Kospi index plunging over 8%. Bessent is urging the World Bank to lift restrictions on upstream oil and gas financing. A historical piece discusses 'The Shrew of Kathmandu.'",
+          "summary_de": "Aktien im Asien-Pazifik-Raum verzeichneten einen Rückgang, wobei der Kospi-Index um über 8 % fiel. Bessent drängt die Weltbank, Beschränkungen für die Finanzierung von Upstream-Öl und -Gas aufzuheben. Ein historischer Beitrag befasst sich mit 'Die widerspenstige Zähmung' aus Kathmandu.",
+          "summary_easy": "Aktien in Asien sind gefallen. Jemand sagt, die Weltbank soll mehr Geld für Öl geben. Es gibt einen alten Text über eine Frau in Kathmandu.",
           "links": [
             {
-              "title": "Asia mixed after Chinese data",
-              "url": "https://biztoc.com/x/a20a34cea6e6092d"
+              "title": "Bessent urges World Bank to end restrictions on upstream oil, gas financing",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bessent-urges-world-bank-to-end-restrictions-on-upstream-oil-gas-financing/articleshow/134961053.cms"
             },
             {
-              "title": "Yancoal Shares Climb Above $6 as Energy Stocks Rally With Oil Prices Despite Weaker Australian Market",
-              "url": "https://www.ibtimes.com.au/yancoal-shares-rise-oil-prices-energy-stocks-1876665"
+              "title": "Asia-Pacific stocks fall as Kospi plunges over 8%",
+              "url": "https://biztoc.com/x/edf108c67b81e1fd"
             }
           ]
         }
@@ -204,68 +216,52 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Global Culture: Charity Initiatives and Sporting Elections",
-          "headline_de": "Weltkultur: Wohltätigkeitsinitiativen und Sportwahlen",
-          "headline_easy": "Weltweit: Hilfe, Sport und Wahlen.",
-          "summary_en": "Global cultural news highlights a UK charity's successful book club initiative, election results in New Zealand, and the election of the first president of the Indian UniSport Federation.",
-          "summary_de": "Weltweite Kultur-Nachrichten beleuchten die erfolgreiche Buchclub-Initiative einer britischen Wohltätigkeitsorganisation, Wahlergebnisse in Neuseeland und die Wahl des ersten Präsidenten der Indian UniSport Federation.",
-          "summary_easy": "Eine Stiftung in England hilft mit Büchern. In Neuseeland gab es Wahlen. Indien hat einen neuen Sportchef.",
+          "headline_en": "Celebrity Rumors, Sports Highlights, and Environmental Politics",
+          "headline_de": "Promi-Gerüchte, Sport-Highlights und Umweltpolitik",
+          "headline_easy": "Ein Promi spricht über Gerüchte. Ein Sportler spricht über ein Spiel. Ein Land diskutiert über den Regenwald.",
+          "summary_en": "Kendall Jenner addresses rumors about her personal life. Brewers' Jake Bauers discusses a key at-bat against Blake Snell. Brazil's upcoming election is highlighted as crucial for the fate of the Amazon rainforest.",
+          "summary_de": "Kendall Jenner äußert sich zu Gerüchten über ihr Privatleben. Brewers-Spieler Jake Bauers spricht über einen wichtigen Schlag gegen Blake Snell. Brasiliens bevorstehende Wahl wird als entscheidend für das Schicksal des Amazonas-Regenwaldes hervorgehoben.",
+          "summary_easy": "Kendall Jenner spricht über Leute, die reden. Jake Bauers spricht über ein Baseball-Spiel. Die Wahl in Brasilien ist wichtig für den Regenwald.",
           "links": [
             {
-              "title": "A UK charity started a book club in 2018 with one simple idea, that reading could help families after disasters; eight years later more than 10,000 readers have received 160,169 books and raised £2 million",
-              "url": "https://timesofindia.indiatimes.com/world/uk/a-uk-charity-started-a-book-club-in-2018-with-one-simple-idea-that-reading-could-help-families-after-disasters-eight-years-later-more-than-10000-readers-have-received-160169-books-and-raised-2-million/articleshow/134937109.cms"
+              "title": "Kendall Jenner ‘not opposed to fun with a girl’ as she addresses lesbian rumour",
+              "url": "https://www.thepinknews.com/2026/10/15/the-kardashians-kendall-jenner-lesbian-rumours/"
             },
             {
-              "title": "Election 2026: Our experts pick who won the NZ Herald Leaders’ Debate",
-              "url": "https://www.nzherald.co.nz/nz/politics/election-2026-our-experts-pick-who-won-the-nz-herald-leaders-debate/premium/43EIT5RW4RFGDKYIKXSPVO43NU/"
-            }
-          ]
-        },
-        {
-          "type": "War",
-          "emoji": "⚔️",
-          "headline_en": "Global Affairs: Humanitarian Efforts and Political Developments",
-          "headline_de": "Weltgeschehen: Humanitäre Bemühungen und politische Entwicklungen",
-          "headline_easy": "Weltweit: Hilfe und Politik.",
-          "summary_en": "Global news highlights humanitarian efforts like a UK charity's book club, alongside political developments such as election results in New Zealand and immigration events in the US.",
-          "summary_de": "Globale Nachrichten beleuchten humanitäre Bemühungen wie den Buchclub einer britischen Wohltätigkeitsorganisation, neben politischen Entwicklungen wie Wahlergebnissen in Neuseeland und Einwanderungsereignissen in den USA.",
-          "summary_easy": "Eine Stiftung in England hilft mit Büchern. Es gab Wahlen in Neuseeland. Leute kommen in die USA.",
-          "links": [
-            {
-              "title": "Over 1,000 prospective olim attend Nefesh B’Nefesh events across US",
-              "url": "https://www.israelnationalnews.com/news/434593"
+              "title": "Brewers’ Jake Bauers breaks down game-changing at-bat vs. Blake Snell",
+              "url": "https://clutchpoints.com/mlb/milwaukee-brewers/brewers-news-jake-bauers-breaks-down-game-changing-bat-blake-snell"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Global Markets Influenced by Demographics, AI, and Papal Health",
-          "headline_de": "Globale Märkte von Demografie, KI und der Gesundheit des Papstes beeinflusst",
-          "headline_easy": "Weltweit: Börsen, Technik und Gesundheit.",
-          "summary_en": "Global stock market news is influenced by trends in birth rates, AI adoption, and the health status of Pope Leo XIV, indicating a broad range of factors affecting economic outlooks.",
-          "summary_de": "Globale Aktienmarkt-Nachrichten werden von Trends bei Geburtenraten, KI-Einführung und dem Gesundheitszustand von Papst Leo XIV. beeinflusst, was eine breite Palette von Faktoren zeigt, die die Wirtschaftsaussichten beeinflussen.",
-          "summary_easy": "Die Börsen weltweit werden von vielen Dingen beeinflusst: Kinder, Technik und die Gesundheit des Papstes.",
+          "headline_en": "Political Memoir Sparks Debate, Tech Vulnerabilities, and Bond Offerings",
+          "headline_de": "Politische Memoiren entfachen Debatte, technische Schwachstellen und Anleihenangebote",
+          "headline_easy": "Ein Buch über Politik ist wichtig. Technik kann unsicher sein. Neue Anleihen bieten Geld.",
+          "summary_en": "Chrystia Freeland's memoir, 'Unreliable Boyfriend,' is causing discussion about her political relationships. Critical security vulnerabilities in Maian Guardian and Auerswald devices have been disclosed, posing significant risks. Secured Fixed Income is launching new listed bonds.",
+          "summary_de": "Chrystia Freelands Memoiren 'Unreliable Boyfriend' lösen Diskussionen über ihre politischen Beziehungen aus. Kritische Sicherheitslücken in Maian Guardian und Auerswald-Geräten wurden bekannt gegeben und stellen erhebliche Risiken dar. Secured Fixed Income bringt neue börsennotierte Anleihen auf den Markt.",
+          "summary_easy": "Ein Buch über Chrystia Freeland ist wichtig. Technik kann unsicher sein. Es gibt neue Anleihen, die Geld bringen.",
           "links": [
             {
-              "title": "Pope Leo passes 'calm' night after surgery to remove lung cancer tumour",
-              "url": "https://www.thejournal.ie/pope-leo-cancer-surgery-7192554-Oct2026/"
+              "title": "[0day-rubbish] Maian Guardian 2.1 license generator projid command injection to www-data uid 33 code execution (7.2, PR:H)",
+              "url": "https://seclists.org/fulldisclosure/2026/Oct/16"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "Global Technology Trends: Economic Forecasts and Humanitarian Efforts",
-          "headline_de": "Globale Technologietrends: Wirtschaftsprognosen und humanitäre Bemühungen",
-          "headline_easy": "Weltweit: Technik, Wirtschaft und Hilfe.",
-          "summary_en": "Global technology news encompasses economic forecasts regarding debt and deficits, alongside humanitarian efforts from a UK charity and immigration events in the US.",
-          "summary_de": "Globale Technologieneuigkeiten umfassen Wirtschaftsprognosen bezüglich Schulden und Defiziten, neben humanitären Bemühungen einer britischen Wohltätigkeitsorganisation und Einwanderungsereignissen in den USA.",
-          "summary_easy": "Die Technik weltweit beeinflusst die Wirtschaft. Eine Stiftung in England hilft mit Büchern. Leute kommen in die USA.",
+          "headline_en": "Gaming Console Boycott, Celebrity Rumors, and Sports Analysis",
+          "headline_de": "Gaming-Konsolen-Boykott, Promi-Gerüchte und Sportanalyse",
+          "headline_easy": "Ein Spiel kommt nicht für Xbox. Ein Promi spricht über Gerüchte. Ein Sportler spricht über ein Spiel.",
+          "summary_en": "The game 'Big Walk' will not have an Xbox version due to Microsoft's stance on the BDS boycott. Kendall Jenner addresses rumors about her personal life. Brewers' Jake Bauers breaks down a key at-bat.",
+          "summary_de": "Das Spiel 'Big Walk' wird aufgrund der Haltung von Microsoft zum BDS-Boykott keine Xbox-Version erhalten. Kendall Jenner äußert sich zu Gerüchten über ihr Privatleben. Brewers-Spieler Jake Bauers analysiert einen wichtigen Schlag.",
+          "summary_easy": "Das Spiel 'Big Walk' kommt nicht für Xbox. Kendall Jenner spricht über Leute, die reden. Jake Bauers spricht über ein Baseball-Spiel.",
           "links": [
             {
-              "title": "Scott Bessent's growth plans aren't enough to tame surging deficit and debt pile, IMF chief says",
-              "url": "https://www.cnbc.com/2026/10/14/bond-yields-debt-deficit-treasury.html"
+              "title": "Big Walk developer explains the lack of Xbox version is due to Microsoft's place on the BDS boycott",
+              "url": "https://www.eurogamer.net/big-walk-xbox-version-bds-boycott"
             }
           ]
         }
@@ -274,29 +270,29 @@
   ],
   "bundestag": {
     "wahlperiode": 21,
-    "sitzung": 101,
-    "url": "https://dserver.bundestag.de/btp/21/21101.pdf",
-    "summary_en": "The 101st session of the 21st legislative period of the German Bundestag convened on Wednesday, October 14, 2026. The session began with the extension and procedural matters of the agenda, including the removal of agenda items 5, 19a, and 26, and subsequent committee referrals. A notable event was the welcome extended to the Speaker of the Canadian House of Commons, Francis Scarpaleggia.  Following this, the new Federal Minister for Labour and Social Affairs, Alexander Schweitzer, took his oath of office. The main agenda item was the Chancellor's government statement regarding the European Council meeting on October 15-16, 2026, delivered by Chancellor Friedrich Merz.  Subsequent to the Chancellor's address, a government question time took place. Minister of State for Foreign Affairs Dorothee Bär (BMFTR) and Federal Minister for Digital and Transport Dr. Karsten Wildberger (BMDS) responded to inquiries from various parliamentary groups. MPs from CDU/CSU, SPD, AfD, BÜNDNIS 90/DIE GRÜNEN, and Die Linke posed questions covering a range of topics, with Minister Bär addressing some and Minister Wildberger handling others. Specific exchanges involved Andreas Mayer (AfD), Maja Wallstein (SPD), Rebecca Lenhard (BÜNDNIS 90/DIE GRÜNEN), Tino Chrupalla (AfD), Dr. Matthias Miersch (SPD), Britta Haßelmann (BÜNDNIS 90/DIE GRÜNEN), Thorsten Frei (CDU/CSU), Sören Pellmann (Die Linke), Siemtje Möller (SPD), Dr. Alice Weidel (AfD), Alexander Hoffmann (CDU/CSU), Stefan Glaser (CDU/CSU), Pascal Meiser (Die Linke), Nicole Gohlke (Die Linke), Ruben Rupp (AfD), Stephan Brandner (AfD), Marvin Schulz (CDU/CSU), Dr. Anna Lührmann (BÜNDNIS 90/DIE GRÜNEN), Dr. Rainer Kraft (AfD), Parsa Marvi (SPD), Ayse Asar (BÜNDNIS 90/DIE GRÜNEN), Jeanne Dillschneider (BÜNDNIS 90/DIE GRÜNEN), Joachim Ebmeyer (CDU/CSU), Dr. Carolin Wagner (SPD), Dr. Hans Theiss (CDU/CSU), Stephan Albani (CDU/CSU), Dr. Paul Schmidt (AfD), Dr. Ingo Hahn (AfD), Florian Müller (CDU/CSU), Sonja Lemke (Die Linke), and Donata Vogtschmidt (Die Linke). The transcript details numerous exchanges between these MPs and the responding ministers.",
-    "summary_de": "Die 101. Sitzung der 21. Wahlperiode des Deutschen Bundestages fand am Mittwoch, den 14. Oktober 2026 statt. Die Sitzung begann mit der Erweiterung und Abwicklung der Tagesordnung, einschließlich der Absetzung der Tagesordnungspunkte 5, 19a und 26 sowie nachträglicher Ausschussüberweisungen. Ein bemerkenswerter Punkt war die Begrüßung des Präsidenten des kanadischen Unterhauses, Francis Scarpaleggia. Anschließend leistete der neue Bundesminister für Arbeit und Soziales, Alexander Schweitzer, seinen Amtseid. Hauptpunkt der Tagesordnung war die Regierungserklärung des Bundeskanzlers zum Europäischen Rat am 15./16. Oktober 2026, abgegeben von Bundeskanzler Friedrich Merz. Daraufhin folgte eine Befragung der Bundesregierung. Staatsministerin für Auswärtiges Dorothee Bär (BMFTR) und Bundesminister für Digitales und Verkehr Dr. Karsten Wildberger (BMDS) beantworteten Anfragen verschiedener Fraktionen. Abgeordnete der CDU/CSU, SPD, AfD, BÜNDNIS 90/DIE GRÜNEN und der Linken stellten Fragen zu diversen Themen, wobei Ministerin Bär einige und Minister Wildberger andere beantwortete. Spezifische Wortmeldungen kamen von Andreas Mayer (AfD), Maja Wallstein (SPD), Rebecca Lenhard (BÜNDNIS 90/DIE GRÜNEN), Tino Chrupalla (AfD), Dr. Matthias Miersch (SPD), Britta Haßelmann (BÜNDNIS 90/DIE GRÜNEN), Thorsten Frei (CDU/CSU), Sören Pellmann (Die Linke), Siemtje Möller (SPD), Dr. Alice Weidel (AfD), Alexander Hoffmann (CDU/CSU), Stefan Glaser (CDU/CSU), Pascal Meiser (Die Linke), Nicole Gohlke (Die Linke), Ruben Rupp (AfD), Stephan Brandner (AfD), Marvin Schulz (CDU/CSU), Dr. Anna Lührmann (BÜNDNIS 90/DIE GRÜNEN), Dr. Rainer Kraft (AfD), Parsa Marvi (SPD), Ayse Asar (BÜNDNIS 90/DIE GRÜNEN), Jeanne Dillschneider (BÜNDNIS 90/DIE GRÜNEN), Joachim Ebmeyer (CDU/CSU), Dr. Carolin Wagner (SPD), Dr. Hans Theiss (CDU/CSU), Stephan Albani (CDU/CSU), Dr. Paul Schmidt (AfD), Dr. Ingo Hahn (AfD), Florian Müller (CDU/CSU), Sonja Lemke (Die Linke) und Donata Vogtschmidt (Die Linke). Das Protokoll dokumentiert zahlreiche Wortwechsel zwischen diesen Abgeordneten und den antwortenden Ministern.",
-    "summary_easy": "Heute ist Mittwoch, der 14. Oktober 2026. Der Bundestag hat seine Sitzung begonnen. Zuerst ging es um die Tagesordnung. Einige Punkte wurden gestrichen. Der Präsident des kanadischen Parlaments wurde begrüßt. Dann hat ein neuer Minister seinen Eid geleistet. Alexander Schweitzer ist der neue Arbeitsminister. Danach hat der Bundeskanzler gesprochen. Friedrich Merz sprach über den EU-Rat. Danach konnten Abgeordnete Fragen stellen. Ministerinnen und Minister haben geantwortet. Es gab viele Fragen und Antworten von vielen Abgeordneten und den Ministern.",
+    "sitzung": 102,
+    "url": "https://dserver.bundestag.de/btp/21/21102.pdf",
+    "summary_en": "On Thursday, October 15, 2026, the German Bundestag held its 102nd session of the 21st legislative period. The session began with several personnel appointments: Tilman Kuban was elected as a member of the Beirat bei der Bundesnetzagentur, with Dr. Inge Gräßle as his substitute; Joachim Ebmeyer and Marvin Schulz were appointed as personal substitutes for Mark Helfrich. Johannes Rothenberger was elected as a member of the Parliamentary Assembly of the Council of Europe, with Katrin Staffler as his substitute. Nancy Faeser was elected as a member of the Stiftungsrat der Stiftung Orte der deutschen Demokratiegeschichte, with Helge Lindh as her substitute. The agenda was expanded, and the main focus was on the reform of emergency medical care. This included the second and third readings of a government bill and a bill from BÜNDNIS 90/DIE GRÜNEN, both concerning the reform of emergency care and rescue services (NotfallG). The Health Committee presented recommendations on motions from the AfD regarding the nationwide introduction of smartphone-based first responder alert systems and ensuring affordable, high-quality emergency medical care. The Linke also presented a motion for needs-based and crisis-resilient acute and emergency care. Several members spoke on these issues, including Dr. Hans Theiss (CDU/CSU), Nicole Hess (AfD), Svenja Stadler (SPD), Dr. Tanja Machalet (SPD), Dr. Janosch Dahmen (BÜNDNIS 90/DIE GRÜNEN), and Stella Merendino (Die Linke). The session also included a first reading of a bill amending the Federal Training Assistance Act (30. BAföGÄndG), with contributions from Dorothee Bär (BMFTR), Dr. Christoph Birghan (AfD), and others. A further agenda item involved a motion from the AfD on capturing the costs and benefits of immigration. Finally, the Bundestag addressed a request for authorization to execute court search and seizure orders.",
+    "summary_de": "Am Donnerstag, den 15. Oktober 2026, fand die 102. Sitzung der 21. Wahlperiode des Deutschen Bundestages statt. Die Sitzung begann mit mehreren Personalwahlen: Tilman Kuban wurde zum ordentlichen Mitglied des Beirats bei der Bundesnetzagentur gewählt, mit Dr. Inge Gräßle als persönlicher Stellvertreterin; Joachim Ebmeyer und Marvin Schulz wurden zu persönlichen Stellvertretern von Mark Helfrich ernannt. Johannes Rothenberger wurde als ordentliches Mitglied in die Parlamentarische Versammlung des Europarates gewählt, mit Katrin Staffler als persönlicher Stellvertreterin. Nancy Faeser wurde zum ordentlichen Mitglied des Stiftungsrats der Stiftung Orte der deutschen Demokratiegeschichte gewählt, mit Helge Lindh als Stellvertreter. Die Tagesordnung wurde erweitert. Der Hauptfokus lag auf der Reform der Notfallversorgung. Dies umfasste die zweite und dritte Beratung eines Gesetzentwurfs der Bundesregierung und eines Gesetzentwurfs von BÜNDNIS 90/DIE GRÜNEN, beide zur Reform der Notfallversorgung und des Rettungsdienstes (NotfallG). Der Gesundheitsausschuss legte Beschlussempfehlungen zu Anträgen der AfD bezüglich der flächendeckenden Einführung von Smartphone-basierten Ersthelfer-Alarmierungssystemen und zur Gestaltung einer schnellen, qualitativ hochwertigen und bezahlbaren medizinischen Notfallversorgung vor. Die Fraktion Die Linke legte einen Antrag für eine bedarfsgerechte und krisenfeste Akut- und Notfallversorgung vor. Mehrere Abgeordnete sprachen zu diesen Themen, darunter Dr. Hans Theiss (CDU/CSU), Nicole Hess (AfD), Svenja Stadler (SPD), Dr. Tanja Machalet (SPD), Dr. Janosch Dahmen (BÜNDNIS 90/DIE GRÜNEN) und Stella Merendino (Die Linke). Die Sitzung beinhaltete auch die erste Beratung eines Gesetzentwurfs zur Änderung des Bundesausbildungsförderungsgesetzes (30. BAföGÄndG), mit Beiträgen von Dorothee Bär (BMFTR) und Dr. Christoph Birghan (AfD). Ein weiterer Tagesordnungspunkt befasste sich mit einem Antrag der AfD zur Erfassung der Kosten und des Nutzens der Zuwanderung. Abschließend befasste sich der Bundestag mit einem Antrag auf Genehmigung zum Vollzug gerichtlicher Durchsuchungs- und Beschlagnahmebeschlüsse.",
+    "summary_easy": "Am Donnerstag, dem 15. Oktober 2026, war der Bundestag in einer Sitzung. Zuerst wurden neue Mitglieder für verschiedene Ausschüsse gewählt. Dann sprach der Bundestag über die Verbesserung der Notfallversorgung. Es gab einen neuen Gesetzesvorschlag der Regierung. Es gab auch einen Gesetzesvorschlag von der Partei \"Bündnis 90/Die Grünen\". Die AfD-Partei stellte Anträge zur Notfallversorgung. Die Partei \"Die Linke\" stellte auch einen Antrag. Abgeordnete sprachen über diese Themen. Zum Beispiel sprachen Dr. Hans Theiss, Nicole Hess und Svenja Stadler. Es gab auch eine erste Beratung für ein Gesetz über Ausbildungsförderung. Die AfD-Partei sprach über die Kosten von Zuwanderung. Der Bundestag musste auch über gerichtliche Durchsuchungen entscheiden.",
     "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact_en": "During the Ming Dynasty in China (1368-1644), foot binding was a prevalent and painful practice among aristocratic women. This custom involved tightly binding young girls' feet to break and reshape them into a small, delicate 'lotus foot' shape, symbolizing beauty and status, but causing lifelong disability.",
-      "fact_de": "Während der Ming-Dynastie in China (1368-1644) war das Fußbinden eine verbreitete und schmerzhafte Praxis bei aristokratischen Frauen. Diese Sitte beinhaltete das enge Umwickeln der Füße junger Mädchen, um sie zu brechen und zu einer kleinen, zarten 'Lotusfuß'-Form umzugestalten. Dies symbolisierte Schönheit und Status, führte aber zu lebenslanger Behinderung.",
-      "fact_easy": "In China gab es früher eine Tradition namens Fußbinden. Junge Mädchen bekamen ihre Füße sehr eng verbunden. So wurden die Füße klein und sahen besonders aus. Das war aber sehr schmerzhaft und machte die Frauen krank.",
+      "fact_en": "During the Dutch Golden Age, tulips became so valuable that their bulbs were traded like stocks, and prices for a single bulb could exceed the cost of a house. This period of speculative frenzy, known as 'Tulip Mania,' is considered one of the first recorded speculative bubbles in history.",
+      "fact_de": "Während des niederländischen Goldenen Zeitalters wurden Tulpen so wertvoll, dass ihre Zwiebeln wie Aktien gehandelt wurden und die Preise für eine einzige Zwiebel den Preis eines Hauses übersteigen konnten. Diese Zeit des spekulativen Rausches, bekannt als 'Tulpenmanie', gilt als eine der ersten aufgezeichneten Spekulationsblasen der Geschichte.",
+      "fact_easy": "In den Niederlanden waren Tulpenzwiebeln sehr teuer. Man konnte sie wie Aktien kaufen und verkaufen. Manche Zwiebeln kosteten so viel wie ein Haus.",
       "category": "Traditions",
-      "source_title": "Foot binding | History, Facts, & Significance",
-      "source_url": "https://www.britannica.com/topic/foot-binding"
+      "source_title": "Tulip Mania: The First Great Speculative Bubble",
+      "source_url": "https://www.investopedia.com/terms/t/tulip-mania.asp"
     },
     {
-      "fact_en": "The color purple was once incredibly expensive and thus associated with royalty and the elite in ancient Rome and Byzantium. This was because the dye, Tyrian purple, was derived from thousands of tiny sea snails, making its production labor-intensive and the resulting fabric astronomically costly.",
-      "fact_de": "Die Farbe Lila war im antiken Rom und Byzanz einst unglaublich teuer und daher mit Königen und der Elite verbunden. Dies lag daran, dass der Farbstoff, Purpur aus Tyros, aus Tausenden von winzigen Meeresschnecken gewonnen wurde, was die Produktion arbeitsintensiv und den daraus hergestellten Stoff astronomisch teuer machte.",
-      "fact_easy": "In der Antike war die Farbe Lila sehr besonders. Nur sehr reiche und wichtige Menschen durften diese Farbe tragen. Das liegt daran, dass der Farbstoff von kleinen Schnecken kam. Es brauchte viele Schnecken, um genug Farbe zu machen.",
-      "category": "Fashion",
-      "source_title": "Tyrian Purple - Wikipedia",
-      "source_url": "https://en.wikipedia.org/wiki/Tyrian_purple"
+      "fact_en": "The iconic red poppy, often worn to commemorate fallen soldiers in the UK and Commonwealth countries, became a symbol of remembrance due to its ability to grow on the disturbed earth of battlefields in World War I.  The bright red color stood out against the barren landscapes where so much life had been lost.",
+      "fact_de": "Der ikonische rote Mohn, der im Vereinigten Königreich und in Commonwealth-Ländern zum Gedenken an gefallene Soldaten getragen wird, wurde zu einem Symbol der Erinnerung, da er auf den aufgewühlten Böden der Schlachtfelder des Ersten Weltkriegs wachsen konnte. Die leuchtend rote Farbe hob sich von den kargen Landschaften ab, in denen so viel Leben verloren gegangen war.",
+      "fact_easy": "Der rote Mohn ist ein Symbol für Soldaten, die im Krieg gestorben sind.  Er wuchs auf den Feldern, wo gekämpft wurde.  Seine rote Farbe war gut zu sehen.",
+      "category": "Traditions",
+      "source_title": "The Poppy",
+      "source_url": "https://www.poppy.org.uk/about-the-poppy/the-poppy"
     }
   ],
   "frankfurt": {
@@ -304,80 +300,80 @@
       {
         "type": "Events",
         "emoji": "🎪",
-        "headline_en": "RB Leipzig's Gruda Inspired by Messi, DE-CIX Breaks Data Record, Comedian Panzer Mourns Wife",
-        "headline_de": "RB-Hoffnungsträger von Messi inspiriert, DE-CIX bricht Datenrekord, Comedian Panzer trauert um Ehefrau",
-        "headline_easy": "RB Leipzig Spieler denkt an Messi. Internet wird schneller. Ein Comedian ist traurig.",
-        "summary_en": "RB Leipzig's young talent Brajan Gruda is feeling inspired after their Champions League win, with a touch of Lionel Messi's magic credited. Meanwhile, the DE-CIX internet exchange in Frankfurt has set a new record for data traffic. In personal news, comedian Paul Panzer is mourning the loss of his wife.",
-        "summary_de": "Nach dem Sieg in der Champions League fühlt sich RB Leipzigs Nachwuchstalent Brajan Gruda inspiriert und schreibt dies auch Lionel Messi zu. Gleichzeitig hat der Internetknoten DE-CIX in Frankfurt einen neuen Rekord beim Datenverkehr aufgestellt. In persönlichen Nachrichten trauert der Comedian Paul Panzer um seine Ehefrau.",
-        "summary_easy": "RB Leipzig hat gewonnen. Brajan Gruda ist sehr gut. Er denkt an Lionel Messi. Der Internet-Verkehr ist sehr hoch. Der Comedian Paul Panzer ist traurig.",
+        "headline_en": "Leverkusen Star Aims for Europa League Final in Frankfurt",
+        "headline_de": "Leverkusen-Star visiert Europa-League-Finale in Frankfurt an",
+        "headline_easy": "Fußball-Star will nach Frankfurt zum Finale",
+        "summary_en": "Bayer Leverkusen player Nathan Tella has expressed his ambition to reach the Europa League final, which is scheduled to be held in Frankfurt in 2027. Meanwhile, an analysis suggests that the housing market crisis is becoming a significant electoral issue in Germany.",
+        "summary_de": "Bayer Leverkusen-Spieler Nathan Tella hat den Wunsch geäußert, das Europa-League-Finale 2027 in Frankfurt zu erreichen. Zugleich wird analysiert, dass die Wohnungsmarktkrise zu einem wichtigen Wahlkampfthema wird.",
+        "summary_easy": "Ein Fußball-Spieler von Bayer Leverkusen möchte gerne das Finale der Europa League spielen. Das Finale ist im Jahr 2027 in Frankfurt. Außerdem wird gesagt, dass die hohen Mieten und der Mangel an Wohnungen wichtig für Wahlen sind.",
         "links": [
           {
-            "title": "Klopps RB-Hoffnungsträger spürt Messis Magie im Fuß",
-            "url": "https://www.n-tv.de/sport/Klopps-RB-Hoffnungstraeger-spuert-Messis-Magie-im-Fuss-id31415890.html"
+            "title": "Bayer-Star Tella verrät das Europa-Ziel - „Im Mai wollen wir in Frankfurt sein!“",
+            "url": "https://www.bild.de/sport/fussball/europa-league-bayer-star-nathan-tella-peilt-finale-an-im-mai-wollen-wir-in-frankfurt-sein-6ad0861c5cda3a1aaa47656a"
           },
           {
-            "title": "DE-CIX Frankfurt erreicht neuen Rekord mit 21,47 Tbit/s",
-            "url": "https://www.mobiflip.de/de-cix-frankfurt-erreicht-neuen-rekord-mit-2147-tbits/"
+            "title": "Wer Wohnen dem Markt überlässt, verliert Wähler",
+            "url": "https://www.telepolis.de/article/Wer-Wohnen-dem-Markt-ueberlaesst-verliert-Waehler-11488997.html"
           }
         ]
       },
       {
         "type": "Crime",
         "emoji": "🚔",
-        "headline_en": "French Take Over IKB Bank, Zucchini Flowers Underappreciated, Eintracht Frankfurt vs. HSV in DFB-Pokal",
-        "headline_de": "Franzosen übernehmen IKB Bank, Zucchiniblüten unterschätzt, Eintracht Frankfurt gegen HSV im DFB-Pokal",
-        "headline_easy": "Franzosen kaufen eine Bank. Man kann Zucchiniblüten essen. Eintracht Frankfurt spielt gegen HSV.",
-        "summary_en": "French bank Crédit Agricole is acquiring the Düsseldorf-based IKB Bank, a deal with significant implications for the German financial sector. A botanical column discusses the culinary potential of zucchini flowers, which are largely unused in Germany. Football fans can find all information for the DFB-Pokal match between Hamburger SV and Eintracht Frankfurt.",
-        "summary_de": "Die französische Crédit Agricole übernimmt die Düsseldorfer Mittelstandsbank IKB. Eine Kolumne über Botanik beleuchtet das ungenutzte Potenzial von Zucchiniblüten als Speise. Fußballfans finden alle Informationen zum DFB-Pokal-Spiel zwischen dem Hamburger SV und Eintracht Frankfurt.",
-        "summary_easy": "Eine Bank in Deutschland hat neue Besitzer. Sie kommen aus Frankreich. Zucchiniblüten sind lecker, aber viele Leute wissen das nicht. Eintracht Frankfurt spielt Fußball. Das Spiel ist im DFB-Pokal.",
+        "headline_en": "Rhein-Main Liveblog: Injuries in Collisions, Pigeon Count, and Fraud Investigations",
+        "headline_de": "Rhein-Main-Liveblog: Verletzte bei Kollisionen, Taubenzählung und Betrugsermittlungen",
+        "headline_easy": "Nachrichten aus dem Rhein-Main-Gebiet: Unfälle, Tauben und Betrug",
+        "summary_en": "The Rhein-Main liveblog reports on several incidents, including two severe injuries from a head-on collision and another car crash resulting in a serious injury. Investigations into bank data fraud are underway, with properties searched across Hesse. Additionally, a count revealed approximately 10,500 pigeons in Frankfurt.",
+        "summary_de": "Das Rhein-Main-Liveblog berichtet über mehrere Vorfälle, darunter zwei Schwerverletzte bei einem Frontalzusammenstoß und einen weiteren Autounfall mit einer Schwerverletzten. Ermittlungen wegen Betrugs mit Bankdaten laufen, wobei in Hessen Objekte durchsucht wurden. Zudem wurden in Frankfurt rund 10.500 Stadttauben gezählt.",
+        "summary_easy": "Im Rhein-Main-Gebiet gab es Unfälle mit Verletzten. Die Polizei untersucht Betrug mit Bankdaten. In Frankfurt wurden viele Tauben gezählt. Die Familie eines Rappers gibt ein Update zu seiner Gesundheit.",
         "links": [
           {
-            "title": "Banken: Franzosen übernehmen Düsseldorfer Mittelstandsbank",
-            "url": "https://www.sueddeutsche.de/wirtschaft/ikb-credit-agricole-mittelstandsbank-duesseldorf-uebernahme-deal-li.3562841"
+            "title": "Rhein-Main-Liveblog: Zwei Schwerverletzte bei Frontalzusammenstoß",
+            "url": "https://www.faz.net/aktuell/rhein-main/dillenburg-zwei-schwerverletzte-bei-unfall-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
           },
           {
-            "title": "Botanik-Kolumne: Sag mir, wo die Zucchiniblüten sind",
-            "url": "https://www.faz.net/aktuell/wissen/ab-in-die-botanik/zucchiniblueten-warum-werden-sie-in-deutschland-kaum-gegessen-accg-201296923.html"
+            "title": "Nach Drogenrückfall - Familie von Rapper Haftbefehl gibt Update",
+            "url": "https://www.bild.de/unterhaltung/stars-und-leute/rapper-haftbefehl-familie-gibt-neues-gesundheits-update-nach-koma-6acfd12155255c71b7f208fc"
           }
         ]
       },
       {
         "type": "Sales & Offers",
         "emoji": "🛍️",
-        "headline_en": "French Take Over IKB Bank, Zucchini Flowers Underappreciated, Eintracht Frankfurt vs. HSV in DFB-Pokal",
-        "headline_de": "Franzosen übernehmen IKB Bank, Zucchiniblüten unterschätzt, Eintracht Frankfurt gegen HSV im DFB-Pokal",
-        "headline_easy": "Franzosen kaufen eine Bank. Man kann Zucchiniblüten essen. Eintracht Frankfurt spielt gegen HSV.",
-        "summary_en": "French bank Crédit Agricole is acquiring the Düsseldorf-based IKB Bank, a deal with significant implications for the German financial sector. A botanical column discusses the culinary potential of zucchini flowers, which are largely unused in Germany. Football fans can find all information for the DFB-Pokal match between Hamburger SV and Eintracht Frankfurt.",
-        "summary_de": "Die französische Crédit Agricole übernimmt die Düsseldorfer Mittelstandsbank IKB. Eine Kolumne über Botanik beleuchtet das ungenutzte Potenzial von Zucchiniblüten als Speise. Fußballfans finden alle Informationen zum DFB-Pokal-Spiel zwischen dem Hamburger SV und Eintracht Frankfurt.",
-        "summary_easy": "Eine Bank in Deutschland hat neue Besitzer. Sie kommen aus Frankreich. Zucchiniblüten sind lecker, aber viele Leute wissen das nicht. Eintracht Frankfurt spielt Fußball. Das Spiel ist im DFB-Pokal.",
+        "headline_en": "Rhein-Main Updates: Accidents, Investigations, and Health News",
+        "headline_de": "Rhein-Main Aktuell: Unfälle, Ermittlungen und Gesundheitsnachrichten",
+        "headline_easy": "Neuigkeiten aus der Region Rhein-Main",
+        "summary_en": "The Rhein-Main liveblog reports on traffic accidents with serious injuries and ongoing investigations into bank data fraud across Hesse. In entertainment news, the family of rapper Haftbefehl has provided an update on his health following a hospitalization.",
+        "summary_de": "Das Rhein-Main-Liveblog berichtet über Verkehrsunfälle mit Schwerverletzten und laufende Ermittlungen wegen Betrugs mit Bankdaten in Hessen. In den Unterhaltungsnachrichten gibt die Familie des Rappers Haftbefehl ein Update zu seiner Gesundheit nach einem Klinikaufenthalt.",
+        "summary_easy": "Es gab Unfälle mit verletzten Menschen in der Region. Die Polizei sucht nach Betrügern mit Bankdaten. Die Familie eines Rappers spricht über seine Gesundheit. Es gab auch viele Tauben in Frankfurt.",
         "links": [
           {
-            "title": "Banken: Franzosen übernehmen Düsseldorfer Mittelstandsbank",
-            "url": "https://www.sueddeutsche.de/wirtschaft/ikb-credit-agricole-mittelstandsbank-duesseldorf-uebernahme-deal-li.3562841"
+            "title": "Rhein-Main-Liveblog: Zwei Schwerverletzte bei Frontalzusammenstoß",
+            "url": "https://www.faz.net/aktuell/rhein-main/dillenburg-zwei-schwerverletzte-bei-unfall-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
           },
           {
-            "title": "Botanik-Kolumne: Sag mir, wo die Zucchiniblüten sind",
-            "url": "https://www.faz.net/aktuell/wissen/ab-in-die-botanik/zucchiniblueten-warum-werden-sie-in-deutschland-kaum-gegessen-accg-201296923.html"
+            "title": "Nach Drogenrückfall - Familie von Rapper Haftbefehl gibt Update",
+            "url": "https://www.bild.de/unterhaltung/stars-und-leute/rapper-haftbefehl-familie-gibt-neues-gesundheits-update-nach-koma-6acfd12155255c71b7f208fc"
           }
         ]
       },
       {
         "type": "Local News",
         "emoji": "📍",
-        "headline_en": "French Take Over IKB Bank, Zucchini Flowers Underappreciated, Eintracht Frankfurt vs. HSV in DFB-Pokal",
-        "headline_de": "Franzosen übernehmen IKB Bank, Zucchiniblüten unterschätzt, Eintracht Frankfurt gegen HSV im DFB-Pokal",
-        "headline_easy": "Franzosen kaufen eine Bank. Man kann Zucchiniblüten essen. Eintracht Frankfurt spielt gegen HSV.",
-        "summary_en": "French bank Crédit Agricole is acquiring the Düsseldorf-based IKB Bank, a deal with significant implications for the German financial sector. A botanical column discusses the culinary potential of zucchini flowers, which are largely unused in Germany. Football fans can find all information for the DFB-Pokal match between Hamburger SV and Eintracht Frankfurt.",
-        "summary_de": "Die französische Crédit Agricole übernimmt die Düsseldorfer Mittelstandsbank IKB. Eine Kolumne über Botanik beleuchtet das ungenutzte Potenzial von Zucchiniblüten als Speise. Fußballfans finden alle Informationen zum DFB-Pokal-Spiel zwischen dem Hamburger SV und Eintracht Frankfurt.",
-        "summary_easy": "Eine Bank in Deutschland hat neue Besitzer. Sie kommen aus Frankreich. Zucchiniblüten sind lecker, aber viele Leute wissen das nicht. Eintracht Frankfurt spielt Fußball. Das Spiel ist im DFB-Pokal.",
+        "headline_en": "Frankfurt Region Updates: Accidents, Pigeon Count, and Rapper's Health",
+        "headline_de": "Frankfurt Region Aktuell: Unfälle, Taubenzählung und Gesundheit des Rappers",
+        "headline_easy": "Nachrichten aus Frankfurt und Umgebung",
+        "summary_en": "Recent news from the Frankfurt region includes reports of serious injuries from car accidents and ongoing police investigations into bank data fraud. A significant number of pigeons, around 10,500, were counted in Frankfurt. Separately, the family of rapper Haftbefehl shared an update on his health status.",
+        "summary_de": "Aktuelle Nachrichten aus der Region Frankfurt berichten über schwere Verletzungen bei Autounfällen und laufende polizeiliche Ermittlungen wegen Betrugs mit Bankdaten. In Frankfurt wurden rund 10.500 Stadttauben gezählt. Die Familie des Rappers Haftbefehl gab zudem ein Update zu seinem Gesundheitszustand.",
+        "summary_easy": "In Frankfurt gab es schwere Autounfälle. Die Polizei ermittelt wegen Betrug. Es wurden sehr viele Tauben in Frankfurt gefunden. Die Familie eines Rappers gibt Neuigkeiten zu seiner Gesundheit.",
         "links": [
           {
-            "title": "Banken: Franzosen übernehmen Düsseldorfer Mittelstandsbank",
-            "url": "https://www.sueddeutsche.de/wirtschaft/ikb-credit-agricole-mittelstandsbank-duesseldorf-uebernahme-deal-li.3562841"
+            "title": "Rhein-Main-Liveblog: Zwei Schwerverletzte bei Frontalzusammenstoß",
+            "url": "https://www.faz.net/aktuell/rhein-main/dillenburg-zwei-schwerverletzte-bei-unfall-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
           },
           {
-            "title": "Botanik-Kolumne: Sag mir, wo die Zucchiniblüten sind",
-            "url": "https://www.faz.net/aktuell/wissen/ab-in-die-botanik/zucchiniblueten-warum-werden-sie-in-deutschland-kaum-gegessen-accg-201296923.html"
+            "title": "Nach Drogenrückfall - Familie von Rapper Haftbefehl gibt Update",
+            "url": "https://www.bild.de/unterhaltung/stars-und-leute/rapper-haftbefehl-familie-gibt-neues-gesundheits-update-nach-koma-6acfd12155255c71b7f208fc"
           }
         ]
       }
@@ -385,64 +381,64 @@
   },
   "dresden": [
     {
-      "price": "370 €",
-      "address": "Bernsdorfer Str. 8, 01069 Dresden",
-      "district": "Südvorstadt",
+      "price": "320 €",
+      "address": "Strassburger Platz 12, 01069 Dresden",
+      "district": "Johannstadt",
       "size": "25 m²",
       "rooms": "1",
-      "title": "Kleine, helle Wohnung in zentraler Lage",
-      "url": "https://www.immobilienscout24.de/expose/142693057?utm_campaign=ios_share&utm_medium=social&utm_source=other",
+      "title": "Helle 1-Zimmer-Wohnung in Johannstadt",
+      "url": "https://www.immobilienscout24.de/expose/137991021",
       "source": "Immoscout24.de"
     },
     {
-      "price": "390 €",
-      "address": "Eckbergstraße 18, 01099 Dresden",
-      "district": "Laubegast",
+      "price": "350 €",
+      "address": "Albert-Hinkeldey-Straße 17, 01157 Dresden",
+      "district": "Briesnitz",
       "size": "30 m²",
       "rooms": "1",
-      "title": "Schöne 1-Zimmer-Wohnung mit Balkon",
-      "url": "https://www.immobilienscout24.de/expose/142678914?utm_campaign=ios_share&utm_medium=social&utm_source=other",
-      "source": "Immoscout24.de"
+      "title": "Charmante 1-Zimmer-Wohnung in ruhiger Lage",
+      "url": "https://www.immowelt.de/expose/2B44844A1652D6533EB6E867D597F9D3",
+      "source": "Immowelt.de"
+    },
+    {
+      "price": "380 €",
+      "address": "Am Fasanengarten 5, 01328 Dresden",
+      "district": "Klotzsche",
+      "size": "35 m²",
+      "rooms": "1",
+      "title": "Gemütliche 1-Zimmer-Wohnung mit Balkon",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/1-zimmer-wohnung-in-dresden-klotzsche-mit-balkon/2690989920-336-10840",
+      "source": "Kleinanzeigen.de"
+    },
+    {
+      "price": "395 €",
+      "address": "Rudolf-Stempel-Straße 11, 01217 Dresden",
+      "district": "Löbtau",
+      "size": "32 m²",
+      "rooms": "1",
+      "title": "Moderne 1-Zimmer-Wohnung in Löbtau",
+      "url": "https://www.vonovia.de/mieten/sachsen/dresden/dresden/rudolf-stempel-strasse-11",
+      "source": "Vonovia.de"
     },
     {
       "price": "410 €",
-      "address": "Breslauer Str. 14, 01069 Dresden",
-      "district": "Seevorstadt",
-      "size": "35 m²",
-      "rooms": "1,5",
-      "title": "Helle 1,5-Zimmer-Wohnung im Zentrum",
-      "url": "https://www.immowelt.de/expose/2A263-R1X23X",
-      "source": "Immowelt.de"
-    },
-    {
-      "price": "425 €",
-      "address": "Bergmannstr. 12, 01309 Dresden",
-      "district": "Striesen",
-      "size": "32 m²",
+      "address": "Carolinenstraße 23, 01097 Dresden",
+      "district": "Innere Neustadt",
+      "size": "28 m²",
       "rooms": "1",
-      "title": "Gemütliche 1-Zimmer-Wohnung in ruhiger Lage",
-      "url": "https://www.immobilienscout24.de/expose/142693104?utm_campaign=ios_share&utm_medium=social&utm_source=other",
-      "source": "Immoscout24.de"
+      "title": "Stilvolle Einzimmerwohnung in der Neustadt",
+      "url": "https://www.wg-gesucht.de/wohnung-in-dresden/0403229161/",
+      "source": "WG-Gesucht.de"
     },
     {
       "price": "430 €",
-      "address": "Zamenhofstraße 19, 01159 Dresden",
-      "district": "Cotta",
-      "size": "40 m²",
-      "rooms": "1,5",
-      "title": "Sonnige 1,5-Zimmer-Wohnung in Cotta",
-      "url": "https://www.immowelt.de/expose/2A263-T3F83C",
-      "source": "Immowelt.de"
-    },
-    {
-      "price": "440 €",
-      "address": "Gewerbepark 3, 01307 Dresden",
-      "district": "Johannstadt",
+      "address": "Lüttichauer Straße 34, 01159 Dresden",
+      "district": "Naußlitz",
       "size": "38 m²",
-      "rooms": "1",
-      "title": "Moderne 1-Zimmer-Wohnung Nähe Zentrum",
-      "url": "https://www.immobilienscout24.de/expose/142599911?utm_campaign=ios_share&utm_medium=social&utm_source=other",
-      "source": "Immoscout24.de"
+      "rooms": "1.5",
+      "title": "Helle 1,5-Zimmer-Wohnung mit Tageslichtbad",
+      "url": "https://www.wohnungsboerse.net/wohnung-mieten-dresden/137991021",
+      "source": "Wohnungsboerse.net"
     }
   ]
 }
