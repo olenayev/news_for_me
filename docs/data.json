@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, October 17 2026",
+  "date": "Sunday, October 18 2026",
   "sections": [
     {
       "category": "Germany",
@@ -8,68 +8,40 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Celebrity Traitors criticized for perceived lack of resilience",
-          "headline_de": "Prominente \"Verräter\" wegen mangelnder Widerstandsfähigkeit kritisiert",
-          "headline_easy": "Prominente sollen härter sein.",
-          "summary_en": "James Acaster compared the experience on 'Celebrity Traitors' to living in Soviet-controlled Germany. Despite substantial pay and winnings going to charity, critics suggest participants need to 'toughen up'.",
-          "summary_de": "James Acaster verglich die Erfahrung in \"Celebrity Traitors\" mit dem Leben in der Sowjetunion. Trotz hoher Gagen und wohltätiger Spenden schlugen Kritiker vor, die Teilnehmer müssten \"härter werden\".",
-          "summary_easy": "James Acaster sagte, \"Celebrity Traitors\" war wie in der Sowjetunion. Das Geld ging an gute Zwecke. Aber manche Leute sagen, die Teilnehmer sind nicht stark genug.",
+          "headline_en": "Elon Musk's Starlink Slowdown Impact on Ukraine; Ex-Super Eagles Coach Battles Cancer; Football Match Preview",
+          "headline_de": "Elon Musks Starlink-Verlangsamung beeinträchtigt Ukraine; Ex-Nationaltrainer Nigerias kämpft gegen Krebs; Fußballspiel-Vorschau",
+          "headline_easy": "Elon Musk hat Starlink langsamer gemacht. Das half der Ukraine nicht. Ein Fußballspiel wird vorgestellt. Ein Trainer ist krank.",
+          "summary_en": "Elon Musk is reportedly responsible for a slowdown of the Starlink satellite system, impacting Ukraine's ability to intercept drones and conduct operations. In other news, former Super Eagles coach Westerhof is battling colon cancer, and a preview for the ADO Den Haag vs. PSV Eindhoven football match is available.",
+          "summary_de": "Elon Musk soll für eine Verlangsamung des Starlink-Satellitensystems verantwortlich sein, was die Fähigkeit der Ukraine zur Abfangung von Drohnen und zur Durchführung von Operationen beeinträchtigt. Außerdem kämpft der ehemalige Trainer der Super Eagles, Westerhof, gegen Darmkrebs, und es gibt eine Vorschau auf das Fußballspiel ADO Den Haag gegen PSV Eindhoven.",
+          "summary_easy": "Elon Musk hat das Internet für die Ukraine langsamer gemacht. Das war schlecht für die Ukraine. Ein Fußballspiel wird auch besprochen. Ein Fußballtrainer ist sehr krank.",
           "links": [
             {
-              "title": "Celebrity Traitors told to 'toughen up' as James Acaster compares the experience to living in Soviet-controlled Germany - despite huge pay packets and winnings going to charity",
-              "url": "https://www.dailymail.com/tvshowbiz/article-16213853/Celebrity-Traitors-told-toughen-James-Acaster-compares-experience-living-Soviet-controlled-Germany-despite-huge-pay-packets-winnings-going-charity.html"
+              "title": "Elon Musk 'was responsible' for slowdown of Starlink satellite system that stopped Ukraine intercepting Russian drones and hitting back behind enemy lines",
+              "url": "https://www.dailymail.com/news/article-16216429/Elon-Musk-responsible-slowdown-Starlink-satellite-stopped-Ukraine-intercepting-Russian-drones-hitting-enemy-lines.html"
+            },
+            {
+              "title": "Ex-Super Eagles coach Westerhof battles colon cancer, wife seeks prayers",
+              "url": "https://punchng.com/ex-super-eagles-coach-westerhof-battles-colon-cancer-wife-seeks-prayers/"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "UK and Germany enhance defense cooperation",
-          "headline_de": "Großbritannien und Deutschland stärken Verteidigungszusammenarbeit",
-          "headline_easy": "Deutschland und Großbritannien machen mehr für die Sicherheit.",
-          "summary_en": "The United Kingdom and Germany have strengthened their defense ties during recent talks in London. This collaboration aims to bolster mutual security and strategic alignment.",
-          "summary_de": "Großbritannien und Deutschland haben ihre Verteidigungsbeziehungen während jüngster Gespräche in London gestärkt. Diese Zusammenarbeit zielt darauf ab, die gegenseitige Sicherheit und strategische Abstimmung zu verbessern.",
-          "summary_easy": "Deutschland und Großbritannien haben sich getroffen. Sie wollen besser zusammenarbeiten, um sich gegenseitig zu schützen.",
+          "headline_en": "Starlink Slowdown Affects Ukraine; Irish Aid Agencies Face Funding Cuts; EMA Backs Lilly Drug",
+          "headline_de": "Starlink-Verlangsamung beeinträchtigt Ukraine; Irische Hilfsorganisationen sehen sich Kürzungen gegenüber; EMA unterstützt Lilly-Medikament",
+          "headline_easy": "Starlink ist langsamer. Das ist schlecht für die Ukraine. Hilfe für arme Länder wird weniger. Ein Medikament bekommt eine Erlaubnis.",
+          "summary_en": "Elon Musk's Starlink system reportedly experienced a slowdown that hindered Ukraine's military operations. Separately, Irish aid agencies are struggling due to cuts in overseas funding. In business news, the EMA has backed Lilly's drug for obesity and diabetes in Denmark.",
+          "summary_de": "Elon Musks Starlink-System hat Berichten zufolge eine Verlangsamung erfahren, die die Militäroperationen der Ukraine behinderte. Getrennt davon kämpfen irische Hilfsorganisationen aufgrund von Kürzungen der Auslandshilfe. Im Wirtschaftsbereich hat die EMA Lillys Medikament gegen Fettleibigkeit und Diabetes in Dänemark unterstützt.",
+          "summary_easy": "Elon Musk hat Starlink langsamer gemacht. Das war nicht gut für die Ukraine. Hilfsorganisationen in Irland haben weniger Geld. Ein neues Medikament gegen dicke Leute ist erlaubt.",
           "links": [
             {
-              "title": "UK and Germany strengthen defence ties in London talks",
-              "url": "https://www.gov.uk/government/news/uk-and-germany-strengthen-defence-ties-in-london-talks"
-            }
-          ]
-        },
-        {
-          "type": "Stocks & Markets",
-          "emoji": "📈",
-          "headline_en": "Nickel supply chain impacts Volkswagen; Capital B reports H1 loss",
-          "headline_de": "Nickel-Lieferkette beeinflusst Volkswagen; Capital B meldet H1-Verlust",
-          "headline_easy": "Eine Firma hat Geld verloren. Nickel ist wichtig für Autos.",
-          "summary_en": "Capital B reported a significant H1 loss of $78 million, primarily due to a Bitcoin impairment charge. Meanwhile, the nickel supply chain, affecting companies like Volkswagen, is highlighted.",
-          "summary_de": "Capital B meldete einen erheblichen Verlust von 78 Millionen US-Dollar im ersten Halbjahr, hauptsächlich aufgrund einer Wertberichtigung auf Bitcoin. Gleichzeitig wird die Nickel-Lieferkette, die Unternehmen wie Volkswagen betrifft, hervorgehoben.",
-          "summary_easy": "Die Firma Capital B hat viel Geld verloren. Das lag an Bitcoin. Nickel ist auch wichtig, besonders für Autos von Volkswagen.",
-          "links": [
-            {
-              "title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
-              "url": "https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment"
+              "title": "Irish aid agencies feel the pinch on the ground from cuts in overseas funding",
+              "url": "https://www.irishtimes.com/ireland/2026/10/17/irish-aid-agencies-feel-the-pinch-on-the-ground-from-cuts-in-overseas-funding/"
             },
             {
-              "title": "From Indonesia’s hallowed forests to Volkswagen’s electric cars: the dirty nickel trail",
-              "url": "https://voxeurop.eu/en/indonesia-forests-volkswagen-electric-cars-dirty-nickel-trail/"
-            }
-          ]
-        },
-        {
-          "type": "Technology",
-          "emoji": "💻",
-          "headline_en": "BMW Ladies Championship held in South Korea",
-          "headline_de": "BMW Ladies Championship in Südkorea ausgetragen",
-          "headline_easy": "Ein Sport-Event ist in Südkorea.",
-          "summary_en": "South Korea is hosting the sixth BMW Ladies Championship. This event showcases a strong connection between the automotive industry and sports in the region.",
-          "summary_de": "Südkorea veranstaltet die sechste BMW Ladies Championship. Dieses Ereignis zeigt eine starke Verbindung zwischen der Automobilindustrie und dem Sport in der Region.",
-          "summary_easy": "Südkorea ist der Ort für ein Sport-Event. Es heißt BMW Ladies Championship. Das ist ein Turnier für Damen.",
-          "links": [
-            {
-              "title": "South Korea welcomes the sixth BMW Ladies Championship.",
-              "url": "https://press.bmwgroup.com/global/article/detail/T0461813EN/south-korea-welcomes-the-sixth-bmw-ladies-championship?language=en"
+              "title": "EMA backs Lilly's Foundayo for obesity and diabetes - Denmark",
+              "url": "https://www.europesays.com/dk/186869/"
             }
           ]
         }
@@ -82,68 +54,36 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "EU border system faces suspension calls amid travel chaos concerns",
-          "headline_de": "EU-Grenzsystem steht vor Aussetzungsforderungen angesichts von Reisechaos-Bedenken",
-          "headline_easy": "Reisen in Europa könnten schwieriger werden.",
-          "summary_en": "Calls are growing to suspend the EU's border system until 2027 due to concerns about further travel chaos. Holidaymakers may face uncertainty and 'guesswork' if the system is not resolved.",
-          "summary_de": "Es gibt wachsende Forderungen, das EU-Grenzsystem bis 2027 auszusetzen, da Bedenken hinsichtlich weiteren Reisechaos bestehen. Urlauber könnten mit Unsicherheit und \"Raten\" konfrontiert werden, wenn das Problem nicht gelöst wird.",
-          "summary_easy": "Viele Leute wollen, dass das EU-Grenzsystem später startet. Es gibt Sorgen, dass Reisen schwierig werden. Urlauber wissen vielleicht nicht, was sie tun sollen.",
+          "headline_en": "Norwegian Teen Sentenced for UK Murder Plot; French Protests Turn Violent",
+          "headline_de": "Norwegischer Teenager wegen Mordanschlags in Großbritannien verurteilt; Französische Proteste werden gewalttätig",
+          "headline_easy": "Ein junger Mann aus Norwegen wird bestraft. Er wollte jemanden töten. In Frankreich gibt es jetzt Gewalt auf der Straße.",
+          "summary_en": "A Norwegian teenager has been sentenced to 20 years in prison for plotting a murder in the UK for an Iran-linked gang. Meanwhile, protests across France have escalated, leading to clashes between police and demonstrators.",
+          "summary_de": "Ein norwegischer Teenager wurde zu 20 Jahren Haft verurteilt, weil er im Auftrag einer mit dem Iran verbundenen Bande einen Mord in Großbritannien geplant hatte. Unterdessen haben sich die Proteste in Frankreich verschärft und zu Zusammenstößen zwischen Polizei und Demonstranten geführt.",
+          "summary_easy": "Ein junger Mann aus Norwegen muss 20 Jahre ins Gefängnis. Er wollte einen Mann in England töten. In Frankreich gab es große Proteste. Polizei und Leute haben gekämpft.",
           "links": [
             {
-              "title": "Calls grow for EU's shambolic border system to be suspended into 2027 - with concerns of further travel chaos and 'guesswork' for holidaymakers",
-              "url": "https://www.dailymail.com/travel/article-16211139/europe-travel-chaos-entry-exit-suspended.html"
+              "title": "Norwegian teen hitman sentenced to 20 years in prison for plotting murder in UK for Iran-linked gang",
+              "url": "https://nypost.com/2026/10/17/world-news/norwegian-teen-hitman-johannes-natland-sentenced-for-plotting-murder-in-uk-for-iran-linked-gang/"
+            },
+            {
+              "title": "France: Police and protesters clash in nationwide protests",
+              "url": "https://www.dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "EU border system suspension considered; ICC sanctions discussed",
-          "headline_de": "Aussetzung des EU-Grenzsystems erwogen; EU-Sanktionen diskutiert",
-          "headline_easy": "Europa überlegt, die Grenzen anders zu regeln.",
-          "summary_en": "There are growing calls to suspend the EU's border system until 2027, citing potential travel chaos. Separately, lessons are being drawn from past EU failures to hold the United States accountable regarding ICC sanctions.",
-          "summary_de": "Es gibt wachsende Forderungen, das EU-Grenzsystem bis 2027 auszusetzen, mit Verweis auf mögliches Reisechaos. Separat werden Lehren aus früheren EU-Versäumnissen gezogen, die USA im Hinblick auf IStGH-Sanktionen zur Rechenschaft zu ziehen.",
-          "summary_easy": "Die EU will vielleicht das Grenzsystem später starten. Es gibt auch Diskussionen über Regeln gegen andere Länder. Man lernt aus Fehlern der Vergangenheit.",
+          "headline_en": "Norwegian Teen Convicted in UK Murder Plot; French Protests Turn Violent; Fuel Tanker Safety Concerns",
+          "headline_de": "Norwegischer Teenager wegen Mordanschlags in Großbritannien verurteilt; Französische Proteste werden gewalttätig; Bedenken zur Sicherheit von Tanklastern",
+          "headline_easy": "Ein junger Mann aus Norwegen wird bestraft. Er wollte jemanden töten. In Frankreich gibt es jetzt Gewalt auf der Straße. Eine Explosion macht Sorgen.",
+          "summary_en": "A Norwegian teenager has been sentenced for plotting a murder in the UK, while nationwide protests in France have led to clashes with police. Additionally, safety concerns are raised following an explosion at a market involving a fuel tanker.",
+          "summary_de": "Ein norwegischer Teenager wurde wegen der Planung eines Mordes in Großbritannien verurteilt, während landesweite Proteste in Frankreich zu Zusammenstößen mit der Polizei führten. Darüber hinaus werden nach einer Explosion auf einem Markt mit einem Tanklaster Sicherheitsbedenken geäußert.",
+          "summary_easy": "Ein junger Mann aus Norwegen muss ins Gefängnis. Er wollte jemanden töten. In Frankreich gab es große Proteste. Eine Explosion von einem Tankwagen ist passiert.",
           "links": [
             {
-              "title": "ICC Sanctions and the EU Blocking Statute: Lessons from a Past EU Failure to Hold the United States Accountable",
-              "url": "http://opiniojuris.org/2026/10/16/icc-sanctions-and-the-eu-blocking-statute-lessons-from-a-past-eu-failure-to-hold-the-united-states-accountable/"
-            }
-          ]
-        },
-        {
-          "type": "Stocks & Markets",
-          "emoji": "📈",
-          "headline_en": "European markets open higher; defense tech stocks show recovery",
-          "headline_de": "Europäische Märkte eröffnen höher; Verteidigungstechnologieaktien zeigen Erholung",
-          "headline_easy": "Die Börse in Europa ist besser.",
-          "summary_en": "European markets opened mostly higher, signaling a positive start to trading. Defense technology stocks are showing signs of recovery, with EOS shares bouncing back significantly.",
-          "summary_de": "Die europäischen Märkte eröffneten überwiegend höher und signalisierten einen positiven Handelsbeginn. Aktien aus dem Bereich der Verteidigungstechnologie zeigen Anzeichen einer Erholung, wobei die Aktien von EOS ​​erheblich anstiegen.",
-          "summary_easy": "Die Börse in Europa ist heute Morgen gut gestartet. Aktien von Firmen, die Technik für die Verteidigung machen, werden wieder besser. Die Aktien von EOS sind stark gestiegen.",
-          "links": [
-            {
-              "title": "Europe opens mostly higher ahead of data",
-              "url": "https://biztoc.com/x/938dc9afede1cf89"
-            },
-            {
-              "title": "Electro Optic Systems Shares Bounce 8% After Brutal Week as Defense Tech Stocks Recover on ASX Friday",
-              "url": "https://www.ibtimes.com.au/eos-shares-rebound-after-weekly-selloff-1876800"
-            }
-          ]
-        },
-        {
-          "type": "Technology",
-          "emoji": "💻",
-          "headline_en": "EU border system faces calls for suspension; anime news",
-          "headline_de": "EU-Grenzsystem sieht Forderungen nach Aussetzung; Anime-Neuigkeiten",
-          "headline_easy": "Europa überlegt, die Grenzen anders zu regeln. Es gibt auch Neuigkeiten über Anime.",
-          "summary_en": "There are growing calls to suspend the EU's border system until 2027, raising concerns about travel chaos. In other news, new cast members have been revealed for the anime 'Magical Sisters Lulutto Lilly'.",
-          "summary_de": "Es gibt wachsende Forderungen, das EU-Grenzsystem bis 2027 auszusetzen, was Bedenken hinsichtlich des Reisechaos aufwirft. In anderen Nachrichten wurden neue Darsteller für den Anime 'Magical Sisters Lulutto Lilly' bekannt gegeben.",
-          "summary_easy": "Man will das EU-Grenzsystem später starten. Das könnte Reisen schwierig machen. Außerdem gibt es neue Infos über einen Anime namens \"Magical Sisters Lulutto Lilly\".",
-          "links": [
-            {
-              "title": "Magical Sisters Lulutto Lilly Anime Reveals 2 More Cast Members",
-              "url": "https://www.animenewsnetwork.com/news/2026-10-16/magical-sisters-lulutto-lilly-anime-reveals-2-more-cast-members/.242886"
+              "title": "Expert raises fuel tanker safety concerns following explosion at Edo market",
+              "url": "https://punchng.com/expert-raises-fuel-tanker-safety-concerns-following-explosion-at-edo-market/"
             }
           ]
         }
@@ -156,40 +96,52 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "F2 dismisses title race doubts; cat travel query; anime news",
-          "headline_de": "F2 weist Zweifel am Titelrennen zurück; Frage zur Katzenreise; Anime-Nachrichten",
-          "headline_easy": "Ein Rennen ist wohl noch nicht vorbei. Man kann Fragen zu Katzen stellen. Es gibt Neuigkeiten über Anime.",
-          "summary_en": "Formula 2 has rejected suggestions that its title race is already decided, despite ongoing global events. A practical question about taking cats as carry-on luggage is also noted, alongside news of new cast members for the 'Magical Sisters Lulutto Lilly' anime.",
-          "summary_de": "Die Formel 2 hat Vorschläge zurückgewiesen, dass ihr Titelrennen bereits entschieden sei, trotz anhaltender globaler Ereignisse. Eine praktische Frage zur Mitnahme von Katzen als Handgepäck wird ebenfalls vermerkt, zusammen mit Nachrichten über neue Besetzungsmitglieder für den Anime 'Magical Sisters Lulutto Lilly'.",
-          "summary_easy": "Das Rennen in Formel 2 ist noch nicht vorbei, sagen die Leute dort. Es gibt eine Frage, ob man Katzen mit ins Flugzeug nehmen kann. Auch gibt es neue Leute für den Anime \"Magical Sisters Lulutto Lilly\".",
+          "headline_en": "Sports Match Previews; Central Asia Seeks Diverse Partners; Indian Startup Funding Round",
+          "headline_de": "Sportspiel-Vorschauen; Zentralasien sucht nach vielfältigen Partnern; Finanzierungsrunde für indisches Startup",
+          "headline_easy": "Es gibt Vorschauen für Sportspiele. Ein Land sucht Freunde. Ein neues Geschäft bekommt Geld.",
+          "summary_en": "This section includes previews for sports matches, analysis of Central Asia's pursuit of diverse international partners, and news about a startup founded by a former Dyson India MD securing pre-seed funding.",
+          "summary_de": "Dieser Abschnitt enthält Vorschauen auf Sportspiele, Analysen der Suche Zentralasiens nach vielfältigen internationalen Partnern und Nachrichten über ein von einem ehemaligen Geschäftsführer von Dyson India gegründetes Startup, das eine Vorfinanzierungsrunde gesichert hat.",
+          "summary_easy": "Man kann Sportspiele sehen. Ein Land sucht neue Partner. Ein neues kleines Geschäft bekommt Geld von Investoren.",
           "links": [
             {
-              "title": "F2 rebuffs suggestion its title race might be over because of the Iran war",
-              "url": "https://www.motorsport.com/fia-f2/news/f2-rebuffs-suggestion-it-might-already-have-a-2026-champion-because-of-the-iran-war/10865537/"
+              "title": "Everton vs Chelsea: Starting Lineups, TV and Live Streams, How to Watch Online",
+              "url": "https://royalbluemersey.sbnation.com/everton-gamethread-live-blog/83915/everton-vs-chelsea-starting-lineups-tv-and-live-streams-how-to-watch-online"
             },
             {
-              "title": "Can I take my cat as a carry on?",
-              "url": "https://www.lifesciencesworld.com/can-i-take-my-cat-as-a-carry-on/"
+              "title": "Rubio’s Uzbekistan trip underlines Central Asia’s hunt for diverse partners",
+              "url": "https://www.aljazeera.com/news-analysis/2026/10/17/rubios-uzbekistan-trip-underlines-central-asias-hunt-for-diverse-partners"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Sunrise Energy Metals rebounds; Chinese fleet activity noted",
-          "headline_de": "Sunrise Energy Metals erholt sich; Aktivität der chinesischen Flotte bemerkt",
-          "headline_easy": "Eine Firma ist wieder besser. Es gibt eine Meldung über Schiffe.",
-          "summary_en": "Sunrise Energy Metals shares have rebounded significantly, a day after a sharp sell-off linked to its US listing plans. Additionally, reports highlight activity related to a Chinese fleet.",
-          "summary_de": "Die Aktien von Sunrise Energy Metals haben sich deutlich erholt, einen Tag nach einem starken Ausverkauf im Zusammenhang mit ihren US-Börsennotierungsplänen. Zusätzlich beleuchten Berichte die Aktivität im Zusammenhang mit einer chinesischen Flotte.",
-          "summary_easy": "Die Aktien von Sunrise Energy Metals sind wieder gut. Das war nach einem Verkauf. Es gibt auch eine Meldung über chinesische Schiffe.",
+          "headline_en": "Niche Racing Event; Irish Aid Agencies Face Funding Cuts; Potential of Nuclear Energy",
+          "headline_de": "Nischen-Rennveranstaltung; Irische Hilfsorganisationen sehen sich Kürzungen gegenüber; Potenzial der Kernenergie",
+          "headline_easy": "Ein Autorennen wird erwähnt. Hilfe für arme Länder wird weniger. Kernenergie könnte wichtig sein.",
+          "summary_en": "A niche racing event, 'Godzilla to roar at COTA,' is noted. Irish aid agencies are facing financial strain due to funding cuts. An article discusses the potential of nuclear energy as an affordable and clean power source.",
+          "summary_de": "Eine Nischen-Rennveranstaltung, 'Godzilla to roar at COTA', wird erwähnt. Irische Hilfsorganisationen stehen aufgrund von Finanzierungskürzungen unter finanziellem Druck. Ein Artikel erörtert das Potenzial der Kernenergie als erschwingliche und saubere Energiequelle.",
+          "summary_easy": "Ein kleines Autorennen findet statt. Hilfsorganisationen in Irland haben weniger Geld. Ein Artikel spricht über Atomkraft als gute Energie.",
           "links": [
             {
-              "title": "Sunrise Energy Metals Shares Rebound More Than 12% a Day After Steep Sell-Off Tied to US Listing Plan",
-              "url": "https://www.ibtimes.com.au/sunrise-energy-metals-shares-rebound-after-selloff-1876806"
-            },
+              "title": "Godzilla to roar at COTA",
+              "url": "https://www.pitpass.com/83849/Godzilla-to-roar-at-COTA"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "European Business Interests; Sports Match Preview; Central Asia Seeks Diverse Partners",
+          "headline_de": "Europäische Geschäftsinteressen; Sportspiel-Vorschau; Zentralasien sucht nach vielfältigen Partnern",
+          "headline_easy": "Geschäfte in Europa. Ein Fußballspiel wird vorgestellt. Ein Land sucht Freunde.",
+          "summary_en": "This section covers European business interests, a preview for the Everton vs. Chelsea football match, and Central Asia's ongoing efforts to establish diverse international partnerships.",
+          "summary_de": "Dieser Abschnitt befasst sich mit europäischen Geschäftsinteressen, einer Vorschau auf das Fußballspiel Everton gegen Chelsea und den Bemühungen Zentralasiens um vielfältige internationale Partnerschaften.",
+          "summary_easy": "Es geht um Geschäfte in Europa. Ein Fußballspiel wird gezeigt. Ein Land sucht neue Partner.",
+          "links": [
             {
-              "title": "We found a Chinese fleet · swarmcha.se",
-              "url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report"
+              "title": "Rinat Akhmetov’s Business Interests, Strategic Investments and Economic Influence in Europe",
+              "url": "https://punchng.com/rinat-akhmetovs-business-interests-strategic-investments-and-economic-influence-in-europe/"
             }
           ]
         }
@@ -202,40 +154,36 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Wildfire tragically kills 4 firefighters in Indonesia; Lavrov warns of smuggling from Afghanistan; World Gym expands in Thailand",
-          "headline_de": "Waldbrand tötet tragischerweise 4 Feuerwehrleute in Indonesien; Lawrow warnt vor Schmuggel aus Afghanistan; World Gym expandiert in Thailand",
-          "headline_easy": "Ein Feuer tötet Leute in Indonesien. Russland spricht über Schmuggel. Eine Fitnessfirma wächst in Thailand.",
-          "summary_en": "A wildfire in Indonesia's Mount Bromo national park has tragically claimed the lives of four firefighters. Meanwhile, Sergey Lavrov has issued a warning regarding arms and drugs smuggling from Afghanistan. In business news, World Gym is expanding significantly in Thailand.",
-          "summary_de": "Ein Waldbrand im Nationalpark Mount Bromo in Indonesien hat tragischerweise vier Feuerwehrleute das Leben gekostet. Unterdessen hat Sergej Lawrow vor Waffen- und Drogenschmuggel aus Afghanistan gewarnt. Im Geschäftsbereich expandiert World Gym erheblich in Thailand.",
-          "summary_easy": "In Indonesien gab es ein großes Feuer. Vier Feuerwehrleute sind gestorben. Russland warnt, dass Waffen und Drogen aus Afghanistan geschmuggelt werden. Eine Fitnessfirma wird größer in Thailand.",
+          "headline_en": "Central Asia Seeks Diverse Partners; Indian Startup Funding; Africa's Catholic Population Growth",
+          "headline_de": "Zentralasien sucht nach vielfältigen Partnern; Indisches Startup erhält Finanzierung; Wachstum der katholischen Bevölkerung in Afrika",
+          "headline_easy": "Ein Land sucht Freunde. Ein neues Geschäft bekommt Geld. Mehr Menschen sind katholisch in Afrika.",
+          "summary_en": "Central Asian nations are actively seeking diverse international partnerships, as highlighted by Rubio's trip to Uzbekistan. An Indian startup founded by a former Dyson India MD has secured significant pre-seed funding. Meanwhile, Africa has surpassed Europe in Catholic population.",
+          "summary_de": "Zentralasiatische Nationen suchen aktiv nach vielfältigen internationalen Partnerschaften, wie Rubio's Reise nach Usbekistan zeigt. Ein indisches Startup, gegründet von einem ehemaligen Geschäftsführer von Dyson India, hat eine beträchtliche Vorfinanzierungsrunde gesichert. Unterdessen hat Afrika Europa bei der katholischen Bevölkerung überholt.",
+          "summary_easy": "Länder in Zentralasien suchen neue Partner. Ein kleines Geschäft in Indien bekommt Geld. In Afrika gibt es jetzt mehr katholische Menschen als in Europa.",
           "links": [
             {
-              "title": "Wildfire kills 4 firefighters in Indonesia's Mount Bromo national park",
-              "url": "https://www.dw.com/en/wildfire-kills-4-firefighters-in-indonesias-mount-bromo-national-park/a-79676291"
-            },
-            {
-              "title": "Lavrov warns of arms, drugs smuggling from Afghanistan",
-              "url": "https://biztoc.com/x/fe2ac9befb1ff32d"
+              "title": "Who is Ankit Jain? Former Dyson India MD’s startup Foundry raises ₹12 crore in a pre-seed funding round",
+              "url": "https://www.livemint.com/companies/people/who-is-ankit-jain-former-dyson-india-md-s-startup-foundry-raises-rs-12-crore-in-a-pre-seed-funding-round-11792225024953.html"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "India's IPO market active; Nikkei rebounds; Indian shoppers cautious",
-          "headline_de": "Indiens IPO-Markt aktiv; Nikkei erholt sich; Indische Käufer vorsichtig",
-          "headline_easy": "Es gibt neue Firmenaktien in Indien. Die Börse in Japan wird besser. Leute in Indien geben weniger Geld aus.",
-          "summary_en": "India's IPO market is seeing significant activity with a focus on large listings. The Nikkei 225 index has rebounded sharply, driven by easing tech selling. Meanwhile, Indian shoppers are exhibiting caution despite the festive season.",
-          "summary_de": "Der indische IPO-Markt verzeichnet erhebliche Aktivitäten mit Schwerpunkt auf großen Börsengängen. Der Nikkei-225-Index hat sich nachlassenden Tech-Verkäufen stark erholt. Unterdessen zeigen indische Käufer trotz der Festtagssaison Vorsicht.",
-          "summary_easy": "In Indien gibt es viele neue Aktien von Firmen. Die Börse in Japan hat sich gut erholt. Die Leute in Indien geben dieses Jahr weniger Geld für Einkäufe aus, auch wenn bald Feste sind.",
+          "headline_en": "Tech Stock Rally; Demi Moore's Idaho Home; Cartoon Nostalgia",
+          "headline_de": "Tech-Aktien-Rallye; Demi Moores Haus in Idaho; Cartoon-Nostalgie",
+          "headline_easy": "Aktien für Computer sind gut. Demi Moore hat ein schönes Haus. Ein alter Zeichentrickfilm wird erinnert.",
+          "summary_en": "The IT stock market is celebrating a significant rally. Real estate news features Demi Moore's Idaho home with its natural amenities. A look back at a 90s cartoon series based on real activists is also highlighted.",
+          "summary_de": "Der IT-Aktienmarkt feiert eine bedeutende Rallye. Immobiliennachrichten beinhalten Demi Moores Haus in Idaho mit seinen natürlichen Annehmlichkeiten. Ein Rückblick auf eine Zeichentrickserie aus den 90er Jahren, die auf echten Aktivisten basierte, wird ebenfalls hervorgehoben.",
+          "summary_easy": "Aktien für Computer steigen stark. Ein Haus von einer Schauspielerin wird gezeigt. Ein alter Zeichentrickfilm war wichtig.",
           "links": [
             {
-              "title": "India’s IPO league table: How the largest listings opened",
-              "url": "https://economictimes.indiatimes.com/wealth/invest/indias-ipo-league-table-how-the-largest-listings-opened/articleshow/134986152.cms"
+              "title": "Demi Moore’s Idaho home has a river for swimming and kayaking, mountains nearby, and wild elk that sometimes wander into her backyard",
+              "url": "https://timesofindia.indiatimes.com/real-estate/news/demi-moores-idaho-home-has-a-river-for-swimming-and-kayaking-mountains-nearby-and-wild-elk-that-sometimes-wander-into-her-backyard/articleshow/134995448.cms"
             },
             {
-              "title": "Nikkei 225 Rebounds Sharply as Tech Selling Eases After Wall Street Recovery",
-              "url": "https://www.ibtimes.com.au/nikkei-225-rebounds-after-technology-selloff-1876794"
+              "title": "IT's time to celebrate when chips are down; Nifty IT soars 11.7% to log biggest weekly rally since 2008",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/its-time-to-celebrate-when-chips-are-down-nifty-it-soars-11-7-to-log-biggest-weekly-rally-since-2008/articleshow/135007166.cms"
             }
           ]
         }
@@ -248,96 +196,68 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Kartal reaches Wuhan Open semi-finals; Seed Junky Genetics expands partnership; Lightroom editing tips",
-          "headline_de": "Kartal erreicht Halbfinale der Wuhan Open; Seed Junky Genetics erweitert Partnerschaft; Lightroom-Bearbeitungstipps",
-          "headline_easy": "Eine Spielerin gewinnt ein Tennis-Spiel. Eine Firma macht mehr Geschäfte. Es gibt Tipps für Fotos.",
-          "summary_en": "The Wuhan Open sees Anya Kartal advance to the semi-finals after a victory over Elina Svitolina. Seed Junky Genetics is expanding its strategic partnership with Trulieve, bringing premium genetics to new markets. Additionally, tips for Lightroom editing are provided.",
-          "summary_de": "Die Wuhan Open sehen Anya Kartal nach einem Sieg über Elina Svitolina im Halbfinale. Seed Junky Genetics erweitert seine strategische Partnerschaft mit Trulieve und bringt erstklassige Genetik in neue Märkte. Zusätzlich werden Tipps zur Lightroom-Bearbeitung gegeben.",
-          "summary_easy": "Eine Tennisspielerin namens Kartal hat ein Spiel gewonnen und ist im Halbfinale. Eine Firma namens Seed Junky Genetics macht eine neue Partnerschaft. Es gibt auch Tipps, wie man Fotos mit Lightroom bearbeitet.",
+          "headline_en": "Indian Chief Justice Urges Justice; Motion Design Course; Women's Rugby Victory",
+          "headline_de": "Indischer Oberster Richter fordert Gerechtigkeit; Motion-Design-Kurs; Sieg der Frauen-Rugby-Nationalmannschaft",
+          "headline_easy": "Ein Richter spricht über Gerechtigkeit. Es gibt einen Kurs für Design. Eine Sportmannschaft hat gewonnen.",
+          "summary_en": "India's Chief Justice Surya Kant encouraged law graduates to uphold justice and values. A course on motion design with Figma is available. In sports, the England women's rugby team achieved a victory against Wales.",
+          "summary_de": "Indiens Oberster Richter Surya Kant ermutigte Juraabsolventen, Gerechtigkeit und Werte aufrechtzuerhalten. Ein Kurs über Motion Design mit Figma ist verfügbar. Im Sport errang die Frauen-Rugby-Nationalmannschaft Englands einen Sieg gegen Wales.",
+          "summary_easy": "Ein wichtiger Richter sprach über Recht. Man kann etwas über Design lernen. Die Frauen von England haben Rugby gewonnen.",
           "links": [
             {
-              "title": "Kartal claims victory over Svitolina to reach Wuhan Open semi-finals",
-              "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:261016-930-848176/1"
+              "title": "CJI Surya Kant urges law graduates to uphold justice, remain true to values",
+              "url": "https://www.business-standard.com/india-news/cji-surya-kant-urges-law-graduates-to-uphold-justice-remain-true-to-values-126101700446_1.html"
             },
             {
-              "title": "Seed Junky Genetics Expands Strategic Partnership with Trulieve Outside of Florida, Bringing Premium Genetics to Pennsylvania",
-              "url": "https://www.prnewswire.com/news-releases/seed-junky-genetics-expands-strategic-partnership-with-trulieve-outside-of-florida-bringing-premium-genetics-to-pennsylvania-302907221.html"
-            }
-          ]
-        },
-        {
-          "type": "Business",
-          "emoji": "💼",
-          "headline_en": "Alpaca health query; Korean drama success; tennis semi-finals",
-          "headline_de": "Frage zur Alpakagesundheit; Erfolg koreanischer Dramen; Tennis-Halbfinale",
-          "headline_easy": "Gibt es eine Krankheit bei Alpakas? Ein koreanisches Stück ist erfolgreich. Eine Tennisspielerin ist im Halbfinale.",
-          "summary_en": "A curious query about whether alpacas can have chlamydia is noted. The success of Korean dramas is highlighted with a piece on 'While You're Here'. In sports, Anya Kartal has reached the semi-finals of the Wuhan Open.",
-          "summary_de": "Eine ungewöhnliche Frage, ob Alpakas Chlamydien haben können, wird vermerkt. Der Erfolg koreanischer Dramen wird mit einem Stück über 'While You're Here' hervorgehoben. Im Sport hat Anya Kartal das Halbfinale der Wuhan Open erreicht.",
-          "summary_easy": "Man fragt, ob Alpakas krank werden können. Ein koreanischer Film oder eine Serie ist erfolgreich. Eine Tennisspielerin hat ein wichtiges Spiel gewonnen.",
-          "links": [
-            {
-              "title": "Do alpacas have chlamydia?",
-              "url": "https://www.lifesciencesworld.com/do-alpacas-have-chlamydia/"
-            },
-            {
-              "title": "Kim Hyang Gi And Ahn Dong Gu Hold On To Love And Dreams Despite Life’s Harsh Realities In “While You’re Here”",
-              "url": "http://www.soompi.com/article/1879002wpp/kim-hyang-gi-and-ahn-dong-gu-hold-on-to-love-and-dreams-despite-lifes-harsh-realities-in-while-youre-here"
+              "title": "ZeroToMastery – Motion Design with Figma Animations, Motion Graphics, UXUI",
+              "url": "https://cgpersia.com/2026/10/zerotomastery-motion-design-with-figma-animations-motion-graphics-uxui-205313.html"
             }
           ]
         },
         {
           "type": "War",
           "emoji": "⚔️",
-          "headline_en": "Nintendo Switch Sports Resort review; alpaca health query; Korean drama news",
-          "headline_de": "Nintendo Switch Sports Resort Testbericht; Alpakagesundheitsanfrage; Neuigkeiten zu koreanischen Dramen",
-          "headline_easy": "Ein Spiel wird getestet. Es gibt eine Frage zu Tieren. Es gibt Neuigkeiten über koreanische Serien.",
-          "summary_en": "A review of Nintendo Switch Sports Resort from PAX Aus is featured. A curious question about alpaca health is also present. Additionally, news concerning the Korean drama 'While You're Here' is reported.",
-          "summary_de": "Ein Bericht über Nintendo Switch Sports Resort von PAX Aus wird vorgestellt. Eine interessante Frage zur Gesundheit von Alpakas ist ebenfalls vorhanden. Zusätzlich werden Neuigkeiten über das koreanische Drama 'While You're Here' berichtet.",
-          "summary_easy": "Ein neues Spiel für die Nintendo Switch wurde getestet. Man fragt, ob Alpakas eine Krankheit haben können. Es gibt auch Neuigkeiten über eine koreanische Serie.",
+          "headline_en": "Scary Books by Black Authors; Indian Chief Justice Urges Justice; Motion Design Course",
+          "headline_de": "Gruselige Bücher von schwarzen Autoren; Indischer Oberster Richter fordert Gerechtigkeit; Motion-Design-Kurs",
+          "headline_easy": "Es gibt gruselige Bücher. Ein Richter spricht über Gerechtigkeit. Es gibt einen Kurs für Design.",
+          "summary_en": "A list of 'Scary Books by Black Authors to Read This Halloween' is provided. India's Chief Justice Surya Kant encouraged law graduates to uphold justice and values. A course on motion design with Figma is also featured.",
+          "summary_de": "Eine Liste von 'Gruseligen Büchern von schwarzen Autoren zum Lesen an Halloween' wird bereitgestellt. Indiens Oberster Richter Surya Kant ermutigte Juraabsolventen, Gerechtigkeit und Werte aufrechtzuerhalten. Ein Kurs über Motion Design mit Figma wird ebenfalls vorgestellt.",
+          "summary_easy": "Man kann gruselige Bücher lesen. Ein Richter sprach über Recht. Man kann etwas über Design lernen.",
           "links": [
             {
-              "title": "PAX Aus 2026 wrap-up: our time with Nintendo Switch Sports Resort",
-              "url": "https://purenintendo.com/pax-aus-2026-wrap-up-our-time-with-nintendo-switch-sports-resort/"
+              "title": "Scary Books by Black Authors to Read This Halloween",
+              "url": "https://www.theroot.com/scary-books-by-black-authors-to-read-this-halloween-2000130773"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "HOWS Barcelona headlines announced; insider trading discussion",
-          "headline_de": "HOWS Barcelona Schlagzeilen angekündigt; Diskussion über Insiderhandel",
-          "headline_easy": "Wichtige Leute reden auf einer Veranstaltung. Es gibt Infos über Handel mit Aktien.",
-          "summary_en": "Key figures such as Anne Hidalgo and Anna Minton are headlining HOWS Barcelona. The article also touches upon the topic of permissible forms of insider trading.",
-          "summary_de": "Wichtige Persönlichkeiten wie Anne Hidalgo und Anna Minton sind die Hauptredner bei HOWS Barcelona. Der Artikel berührt auch das Thema erlaubter Formen des Insiderhandels.",
-          "summary_easy": "Wichtige Personen wie Anne Hidalgo werden bei einer Veranstaltung in Barcelona sprechen. Es gibt auch Informationen über Handel mit Aktien, der erlaubt ist.",
+          "headline_en": "Australian Paedophile Sentences; Demi Moore's Idaho Home; Deer Hunting Advice",
+          "headline_de": "Urteile gegen australische Pädophile; Demi Moores Haus in Idaho; Rat zum Hirschjagd",
+          "headline_easy": "Ein Urteil über schlimme Männer. Demi Moore hat ein schönes Haus. Tipps für die Jagd.",
+          "summary_en": "Sentences for paedophiles in Australian jails are discussed amidst public outrage. Real estate news highlights Demi Moore's home in Idaho. Advice on choosing the best location for deer hunting is also provided.",
+          "summary_de": "Urteile gegen Pädophile in australischen Gefängnissen werden inmitten öffentlicher Empörung diskutiert. Immobiliennachrichten beleuchten Demi Moores Haus in Idaho. Ratschläge zur Auswahl des besten Ortes für die Hirschjagd werden ebenfalls gegeben.",
+          "summary_easy": "In Australien gab es ein Urteil gegen schlimme Männer. Das Haus von Demi Moore wird gezeigt. Man bekommt Tipps, wie man auf Tiere schießt.",
           "links": [
             {
-              "title": "Anne Hidalgo, Anna Minton and Anacláudia Rossbach, headline HOWS Barcelona",
-              "url": "https://www.prnewswire.com/news-releases/anne-hidalgo-anna-minton-and-anaclaudia-rossbach-headline-hows-barcelona-302910350.html"
-            },
-            {
-              "title": "The insider trading you're allowed to do",
-              "url": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/"
+              "title": "A holiday behind bars? How Australia's paedophiles sip 'teas and coffees' and swap 'war stories' in jail - amid outrage over sentence for man who raped a four-year-old girl",
+              "url": "https://www.dailymail.com/news/article-16194699/paedophiles-jail-australia.html"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "World Anaesthesia Day calls for better equipment; NBA GM rankings; Nintendo game review",
-          "headline_de": "Welttag der Anästhesie fordert bessere Ausrüstung; NBA GM-Rankings; Nintendo-Spieleüberprüfung",
-          "headline_easy": "Ärzte brauchen bessere Sachen. Trainer bekommen gute Noten. Ein neues Spiel wird getestet.",
-          "summary_en": "On World Anaesthesia Day, doctors are advocating for improved equipment and funding. NBA general managers have given high marks to coach Rick Carlisle. A review of Nintendo Switch Sports Resort from PAX Aus is also featured.",
-          "summary_de": "Am Welttag der Anästhesie fordern Ärzte eine bessere Ausrüstung und Finanzierung. NBA-General Manager haben Trainer Rick Carlisle hohe Bewertungen gegeben. Ein Bericht über Nintendo Switch Sports Resort von PAX Aus wird ebenfalls vorgestellt.",
-          "summary_easy": "Am Welttag der Anästhesie sagen Ärzte, dass sie bessere Geräte brauchen. Trainer in der NBA bekommen gute Noten. Ein neues Spiel für Nintendo wird auch getestet.",
+          "headline_en": "Rugby Team Promises to Stick to Strategy; Scary Books by Black Authors; Indian Chief Justice Urges Justice",
+          "headline_de": "Rugby-Team verspricht, bei seiner Strategie zu bleiben; Gruselige Bücher von schwarzen Autoren; Indischer Oberster Richter fordert Gerechtigkeit",
+          "headline_easy": "Ein Rugby-Team will seine Taktik nicht ändern. Es gibt gruselige Bücher. Ein Richter spricht über Gerechtigkeit.",
+          "summary_en": "The All Blacks rugby team plans to stick to their game plan for the World Cup. A list of 'Scary Books by Black Authors to Read This Halloween' is provided. India's Chief Justice Surya Kant encouraged law graduates to uphold justice and values.",
+          "summary_de": "Das Rugby-Team All Blacks plant, bei seinem Spielplan für den World Cup zu bleiben. Eine Liste von 'Gruseligen Büchern von schwarzen Autoren zum Lesen an Halloween' wird bereitgestellt. Indiens Oberster Richter Surya Kant ermutigte Juraabsolventen, Gerechtigkeit und Werte aufrechtzuerhalten.",
+          "summary_easy": "Das Rugby-Team All Blacks will nicht seine Taktik ändern. Man kann gruselige Bücher lesen. Ein wichtiger Richter sprach über Recht.",
           "links": [
             {
-              "title": "World Anaesthesia Day: Doctors call for better equipment, funding",
-              "url": "https://punchng.com/world-anaesthesia-day-doctors-call-for-better-equipment-funding/"
-            },
-            {
-              "title": "Rick Carlisle gets high marks from NBA general managers, but he's no Victor Wembanyama",
-              "url": "https://www.indystar.com/story/sports/nba/pacers/2026/10/16/indiana-pacers-coach-rick-carlisle-gets-high-marks-from-nba-general-managers-victor-wembanyama/92264689007/"
+              "title": "Rennie promises All Blacks will stick to their guns at World Cup",
+              "url": "https://www.channelnewsasia.com/sport/rennie-promises-all-blacks-will-stick-their-guns-world-cup-6468106"
             }
           ]
         }
@@ -348,27 +268,27 @@
     "wahlperiode": 21,
     "sitzung": 102,
     "url": "https://dserver.bundestag.de/btp/21/21102.pdf",
-    "summary_en": "The 102nd session of the German Bundestag on October 15, 2026, covered several key agenda items. Initially, the Bundestag confirmed the election of several members to various bodies: Tilman Kuban and Joachim Ebmeyer were elected to the Federal Network Agency's advisory board, with specific deputy arrangements. Johannes Rothenberger was elected to the Parliamentary Assembly of the Council of Europe, with Katrin Staffler as his deputy. Nancy Faeser was elected as a full member and Helge Lindh as a substitute to the foundation council of the \"Sites of German Democracy History.\" A significant portion of the session was dedicated to the second and third readings of a bill to reform emergency medical care. This included a government draft and a separate draft from BÜNDNIS 90/DIE GRÜNEN, co-authored by Dr. Janosch Dahmen and Dr. Kirsten Kappert-Gonther. The debate also addressed motions from the AfD regarding the nationwide introduction of smartphone-based first responder alarm systems and improving medical emergency services, as well as a motion from Die Linke on adequate and crisis-proof acute and emergency care. Speakers from various parties, including CDU/CSU, SPD, BÜNDNIS 90/DIE GRÜNEN, AfD, and Die Linke, contributed to the discussions on healthcare reform and related motions. The session also included the first reading of a bill to amend the Federal Training Assistance Act (BAföG). Additionally, the Bundestag considered a request for approval to execute judicial search and seizure orders.",
-    "summary_de": "Die 102. Sitzung des Deutschen Bundestages am 15. Oktober 2026 befasste sich mit mehreren wichtigen Tagesordnungspunkten. Zunächst wurden Wahlen zu verschiedenen Gremien bestätigt: Tilman Kuban und Joachim Ebmeyer wurden mit persönlichen Stellvertretungen in den Beirat der Bundesnetzagentur gewählt. Johannes Rothenberger wurde in die Parlamentarische Versammlung des Europarates gewählt, mit Katrin Staffler als persönlicher Stellvertreterin. Nancy Faeser wurde als ordentliches Mitglied und Helge Lindh als Stellvertreter in den Stiftungsrat der Stiftung Orte der deutschen Demokratiegeschichte gewählt. Ein erheblicher Teil der Sitzung war der zweiten und dritten Beratung eines Gesetzesentwurfs zur Reform der Notfallversorgung gewidmet. Dies umfasste einen Regierungsentwurf sowie einen separaten Entwurf von BÜNDNIS 90/DIE GRÜNEN, mitverfasst von Dr. Janosch Dahmen und Dr. Kirsten Kappert-Gonther. Die Debatte thematisierte auch Anträge der AfD zur flächendeckenden Einführung von smartphonebasierten Ersthelfer-Alarmierungssystemen und zur Gestaltung der medizinischen Notfallversorgung, sowie einen Antrag der Linken zur bedarfsgerechten und krisenfesten Akut- und Notfallversorgung. Redner verschiedener Fraktionen, darunter CDU/CSU, SPD, BÜNDNIS 90/DIE GRÜNEN, AfD und Die Linke, beteiligten sich an den Diskussionen zur Gesundheitsreform und den damit verbundenen Anträgen. Die Sitzung beinhaltete zudem die erste Beratung eines Gesetzes zur Änderung des Bundesausbildungsförderungsgesetzes (BAföG). Des Weiteren wurde ein Antrag auf Genehmigung zum Vollzug gerichtlicher Durchsuchungs- und Beschlagnahmebeschlüsse behandelt.",
-    "summary_easy": "Der Bundestag traf sich am 15. Oktober 2026. Es gab Wahlen für neue Mitglieder in Ausschüssen. Wichtige Themen waren die Notfall-Versorgung in Krankenhäusern. Es gab zwei Gesetzes-Vorschläge dazu. Ein Vorschlag kam von der Regierung. Ein anderer kam von den Grünen. Die AfD wollte neue Systeme für Ersthelfer. Die Linke sprach über Hilfe im Notfall. Viele Politiker haben darüber gesprochen. Die Parteien hatten unterschiedliche Meinungen. Es gab auch eine erste Beratung für ein Gesetz über Schüler-Geld (BAföG). Außerdem ging es um die Erlaubnis für polizeiliche Durchsuchungen.",
+    "summary_en": "On Thursday, October 15, 2026, during the 102nd session of the 21st legislative period of the German Bundestag, several agenda items were discussed. The session began with the election of parliamentary representatives to various bodies. Tilman Kuban, Dr. Inge Gräßle, Joachim Ebmeyer, and Marvin Schulz were elected as members and deputies to the Beirat bei der Bundesnetzagentur. Johannes Rothenberger and Katrin Staffler were elected to the Parliamentary Assembly of the Council of Europe. Nancy Faeser and Helge Lindh were appointed to the Stiftungsrat of the Stiftung Orte der deutschen Demokratiegeschichte. The agenda was expanded, and the main focus shifted to the reform of emergency care. This included the second and third readings of two government-initiated bills on emergency care reform (Drucksachen 21/6808, 21/8629) and a bill by BÜNDNIS 90/DIE GRÜNEN on the reform of emergency care and rescue services (NotfallG, Drucksachen 21/2214, 21/8629). The Committee on Health presented recommendations on motions from the AfD regarding the introduction of smartphone-based first responder alarm systems and improving medical emergency care, as well as a motion from Die Linke on need-based and crisis-proof acute and emergency care. Several MPs debated these issues, including Dr. Hans Theiss (CDU/CSU), Nicole Hess (AfD), Svenja Stadler (SPD), Dr. Tanja Machalet (SPD), Dr. Janosch Dahmen (BÜNDNIS 90/DIE GRÜNEN), and Stella Merendino (Die Linke). The session also addressed a government bill for the 30th amendment to the Federal Education Assistance Act (30. BAföGÄndG, Drucksache 21/8405). Additionally, a motion from the AfD concerning the migration balance, costs, and benefits of immigration was debated, with contributions from René Springer (AfD), Hans-Jürgen Goßner (AfD), Detlef Seif (CDU/CSU), and Dr. Ingo Hahn (AfD). The Committee on Election Scrutiny, Immunity, and Rules of Procedure presented a recommendation regarding a request to execute judicial search and seizure orders. The session concluded with discussions on motions from BÜNDNIS 90/DIE GRÜNEN concerning family support and combating child poverty.",
+    "summary_de": "Am Donnerstag, den 15. Oktober 2026, wurden in der 102. Sitzung der 21. Wahlperiode des Deutschen Bundestages verschiedene Tagesordnungspunkte behandelt. Die Sitzung begann mit Wahlen von Abgeordneten in Gremien. Tilman Kuban, Dr. Inge Gräßle, Joachim Ebmeyer und Marvin Schulz wurden Mitglieder und Stellvertreter des Beirats bei der Bundesnetzagentur. Johannes Rothenberger und Katrin Staffler wurden in die Parlamentarische Versammlung des Europarates gewählt. Nancy Faeser und Helge Lindh wurden in den Stiftungsrat der Stiftung Orte der deutschen Demokratiegeschichte berufen. Die Tagesordnung wurde erweitert und der Schwerpunkt verlagerte sich auf die Reform der Notfallversorgung. Dies umfasste die zweite und dritte Beratung von zwei Gesetzesentwürfen der Bundesregierung zur Reform der Notfallversorgung (Drucksachen 21/6808, 21/8629) sowie einen Gesetzesentwurf von BÜNDNIS 90/DIE GRÜNEN zur Reform der Notfallversorgung und des Rettungsdienstes (NotfallG, Drucksachen 21/2214, 21/8629). Der Ausschuss für Gesundheit legte Beschlussempfehlungen zu Anträgen der AfD über die flächendeckende Einführung von smartphonebasierten Ersthelfer-Alarmierungssystemen und zur medizinischen Notfallversorgung sowie zu einem Antrag von Die Linke zur bedarfsgerechten und krisenfesten Akut- und Notfallversorgung vor. Mehrere Abgeordnete diskutierten diese Themen, darunter Dr. Hans Theiss (CDU/CSU), Nicole Hess (AfD), Svenja Stadler (SPD), Dr. Tanja Machalet (SPD), Dr. Janosch Dahmen (BÜNDNIS 90/DIE GRÜNEN) und Stella Merendino (Die Linke). Des Weiteren wurde ein Gesetzentwurf der Bundesregierung zur 30. Änderung des Bundesausbildungsförderungsgesetzes (30. BAföGÄndG, Drucksache 21/8405) beraten. Zudem wurde ein Antrag der AfD zur Migrationsbilanz, zu Kosten und Nutzen der Zuwanderung debattiert, mit Beiträgen von René Springer (AfD), Hans-Jürgen Goßner (AfD), Detlef Seif (CDU/CSU) und Dr. Ingo Hahn (AfD). Der Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung legte eine Beschlussempfehlung zu einem Antrag auf Genehmigung zum Vollzug gerichtlicher Durchsuchungs- und Beschlagnahmebeschlüsse vor. Die Sitzung endete mit Beratungen zu Anträgen von BÜNDNIS 90/DIE GRÜNEN zur Familienförderung und zur Bekämpfung der Kinderarmut.",
+    "summary_easy": "Am Donnerstag, 15. Oktober 2026, fand eine Sitzung im Bundestag statt. Die Abgeordneten wählten neue Mitglieder für verschiedene Ausschüsse. Zum Beispiel wurden Tilman Kuban und Nancy Faeser für neue Aufgaben gewählt. Dann sprachen die Abgeordneten über die Notfallversorgung. Es gab einen Gesetzesvorschlag für bessere Notfallversorgung. Auch die AfD und Die Linke hatten Vorschläge. Abgeordnete wie Dr. Hans Theiss und Nicole Hess diskutierten die Themen. Es ging um Smartphone-Systeme für Ersthelfer. Die Politiker sprachen auch über das Gesetz zur Studienförderung. Ein weiteres Thema war die Zuwanderung nach Deutschland. Die AfD fragte nach den Kosten und dem Nutzen. Die Sitzung befasste sich auch mit der Unterstützung von Familien. Es gab Anträge, um Familien und Kinder besser zu fördern.",
     "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact_en": "During the French Revolution, the opulent fashion of the aristocracy was deliberately rejected in favor of simpler, more practical attire.  Short-haired women, known as 'Incroyables' and 'Merveilleuses,' wore flowing tunics reminiscent of ancient Greece and Rome, symbolizing a break from the monarchy and a embrace of classical ideals.",
-      "fact_de": "Während der Französischen Revolution wurde die opulente Mode des Adels bewusst zugunsten einfacherer, praktischer Kleidung abgelehnt. Kurzhaarige Frauen, bekannt als 'Incroyables' und 'Merveilleuses', trugen fließende Tuniken, die an das antike Griechenland und Rom erinnerten, und symbolisierten damit einen Bruch mit der Monarchie und eine Hinwendung zu klassischen Idealen.",
-      "fact_easy": "Während der Französischen Revolution trugen die Leute einfache Kleider. Frauen mit kurzen Haaren trugen Kleider wie im alten Griechenland. Das zeigte, dass sie die Könige nicht mehr mochten.",
+      "fact_en": "During the Italian Renaissance, the vibrant color \"Tyrian purple\" was incredibly expensive, costing more than its weight in gold. This was due to the complex and labor-intensive process of extracting the dye from thousands of sea snails, making it a status symbol reserved for royalty and the very wealthy.",
+      "fact_de": "Während der italienischen Renaissance war die leuchtende Farbe „Purpur der Tyriser“ unglaublich teuer, teurer als ihr Gewicht in Gold. Dies lag an dem komplexen und arbeitsintensiven Prozess der Gewinnung des Farbstoffs aus Tausenden von Meeresschnecken, was ihn zu einem Statussymbol für Könige und sehr Reiche machte.",
+      "fact_easy": "Purpur war im alten Italien sehr teuer. Man brauchte viele Schnecken, um die Farbe herzustellen. Nur reiche Leute und Könige konnten ihn tragen.",
       "category": "Fashion",
-      "source_title": "The Incroyables and Merveilleuses: The \"In-Crowd\" of the French Revolution",
-      "source_url": "https://www.historytoday.com/archive/incroyables-and-merveilleuses-in-crowd-french-revolution"
+      "source_title": "The History of Purple Dye",
+      "source_url": "https://www.thoughtco.com/history-of-purple-dye-2979568"
     },
     {
-      "fact_en": "The ancient Indian practice of 'Sati' involved a widow immolating herself on her husband's funeral pyre, a tradition often framed as a religious duty or an act of ultimate devotion. Though outlawed by the British in 1829, its echoes persisted in some regions for a time, highlighting the complex intersections of religious beliefs and societal pressures.",
-      "fact_de": "Die alte indische Praxis von 'Sati' beinhaltete, dass eine Witwe sich auf dem Scheiterhaufen ihres Mannes selbst verbrannte, eine Tradition, die oft als religiöse Pflicht oder als Akt höchster Hingabe dargestellt wurde. Obwohl sie 1829 von den Briten verboten wurde, hielten ihre Echos in einigen Regionen noch eine Zeit lang an und beleuchten die komplexen Überschneidungen von religiösen Überzeugungen und gesellschaftlichem Druck.",
-      "fact_easy": "In Indien gab es früher 'Sati'. Dabei verbrannte sich eine Witwe auf dem Feuer ihres toten Mannes. Das war eine religiöse Tradition, die heute verboten ist.",
+      "fact_en": "In ancient Egypt, cats were highly revered, and harming one, even accidentally, could result in a death penalty. They were associated with the goddess Bastet, and mummified cats were often buried with their owners, reflecting their significant role in daily life and religious beliefs.",
+      "fact_de": "Im alten Ägypten wurden Katzen hoch verehrt, und das Verletzen einer Katze, selbst versehentlich, konnte mit der Todesstrafe geahndet werden. Sie wurden mit der Göttin Bastet in Verbindung gebracht, und mumifizierte Katzen wurden oft mit ihren Besitzern begraben, was ihre bedeutende Rolle im täglichen Leben und in religiösen Überzeugungen widerspiegelt.",
+      "fact_easy": "In Ägypten waren Katzen sehr wichtig. Man durfte sie nicht verletzen. Sie waren mit einer Göttin verbunden.",
       "category": "Religion",
-      "source_title": "Sati (custom)",
-      "source_url": "https://www.britannica.com/topic/Sati-custom"
+      "source_title": "Ancient Egypt: Cats and Their Role",
+      "source_url": "https://www.ancienthistorylists.com/egypt/ancient-egypt-cats-role/"
     }
   ],
   "frankfurt": {
@@ -376,68 +296,80 @@
       {
         "type": "Events",
         "emoji": "🎪",
-        "headline_en": "Motsi Mabuse Injured, 'Let's Dance' Judge Faces Dance Limitations",
-        "headline_de": "Motsi Mabuse verletzt: Einschränkungen beim Tanzen für 'Let's Dance'-Jurorin",
-        "headline_easy": "Motsi Mabuse hat Schulter-Schmerzen. Sie kann nicht gut tanzen. Sie muss warten.",
-        "summary_en": "'Let's Dance' judge Motsi Mabuse is currently facing limitations in her dancing due to a shoulder injury. She is advised to be patient as she recovers.",
-        "summary_de": "Die 'Let's Dance'-Jurorin Motsi Mabuse kann wegen einer Schulterverletzung derzeit nicht wie gewohnt tanzen. Nun ist Geduld gefragt, bis sie wieder vollständig einsatzfähig ist.",
-        "summary_easy": "Motsi Mabuse ist bei 'Let's Dance' dabei. Sie hat sich die Schulter verletzt. Darum kann sie nicht gut tanzen. Sie braucht Geduld.",
+        "headline_en": "Fire Alarm Disrupts Eintracht Frankfurt Press Conference",
+        "headline_de": "Feueralarm unterbricht Pressekonferenz von Eintracht Frankfurt",
+        "headline_easy": "Feuer-Alarm stoppt Presse-Gespräch in Frankfurt",
+        "summary_en": "A fire alarm unexpectedly interrupted the post-match press conference for Eintracht Frankfurt's game against 1. FC Köln, leading to its premature end. Meanwhile, the Hessenpark offers visitors a glimpse into traditional crafts and field work from a century ago, experienced differently by children and adults.",
+        "summary_de": "Ein Feueralarm unterbrach unerwartet die Pressekonferenz nach dem Spiel von Eintracht Frankfurt gegen den 1. FC Köln und führte zu dessen vorzeitigem Abbruch. Unterdessen bietet der Hessenpark Besuchern Einblicke in traditionelles Handwerk und Feldarbeit von vor hundert Jahren, die von Kindern und Erwachsenen unterschiedlich wahrgenommen werden.",
+        "summary_easy": "Ein Feuer-Alarm hat die Presse-Konferenz gestoppt. Das war nach dem Fußball-Spiel von Eintracht Frankfurt. Im Hessenpark kann man altes Handwerk sehen. Das ist wie vor 100 Jahren.",
         "links": [
           {
-            "title": "Let's Dance Jurorin Motsi Mabuse an der Schulter verletzt",
-            "url": "https://www.n-tv.de/leute/Let-s-Dance-Jurorin-Motsi-Mabuse-an-der-Schulter-verletzt-id31424505.html"
+            "title": "Feueralarm – Plötzlich wird die PK in Frankfurt abgebrochen",
+            "url": "https://www.welt.de/sport/fussball/bundesliga/video6ad330da1918705d12968748/bundesliga-alarm-ploetzlich-wird-die-pk-in-frankfurt-abgebrochen.html"
+          },
+          {
+            "title": "Hessenpark: Gutes, altes Handwerk",
+            "url": "https://www.faz.net/aktuell/rhein-main/kultur/hessenpark-wo-altes-handwerk-kinder-und-erwachsene-anders-trifft-201309511.html"
           }
         ]
       },
       {
         "type": "Crime",
         "emoji": "🚔",
-        "headline_en": "Fatal Accident on Rest Stop, Frankfurt Pigeon Count, and Multi-Car Collision",
-        "headline_de": "Fußgänger auf Rastplatz tödlich verletzt, Taubenzählung in Frankfurt und mehrere Unfälle",
-        "headline_easy": "Ein Mann stirbt auf einem Rastplatz. Es gab auch Unfälle mit vielen Autos. In Frankfurt gibt es viele Tauben.",
-        "summary_en": "A pedestrian was fatally injured at a rest stop near Gelnhausen. The report also mentions around 10,500 pigeons counted in Frankfurt and a multi-car collision resulting in serious injuries.",
-        "summary_de": "Ein Fußgänger wurde auf einem Rastplatz bei Gelnhausen tödlich verletzt. Zudem wurden rund 10.500 Stadttauben in Frankfurt gezählt und es kam zu einem Auffahrunfall mit drei Autos, bei dem eine Frau schwer verletzt wurde.",
-        "summary_easy": "Es gab einen Unfall. Ein Mann ist gestorben. In Frankfurt wurden viele Tauben gezählt. Auch Autos sind zusammengestoßen.",
+        "headline_en": "Köln Faces Further Defensive Woes as Star Player's Absence Looms",
+        "headline_de": "Köln drohen weitere Abwehr-Sorgen – Nächster Star-Ausfall",
+        "headline_easy": "Köln hat Probleme in der Abwehr – Ein wichtiger Spieler fehlt vielleicht",
+        "summary_en": "1. FC Köln is experiencing significant personnel issues early in the season, with the potential for another key player to be sidelined. This comes as Eintracht Frankfurt secured their first home victory since March against Köln.",
+        "summary_de": "Der 1. FC Köln hat früh in der Saison erhebliche Personalprobleme, und es droht der Ausfall eines weiteren Schlüsselspielers. Dies geschieht, während Eintracht Frankfurt den ersten Heimsieg seit März gegen Köln errungen hat.",
+        "summary_easy": "Der 1. FC Köln hat viele Probleme mit seinen Spielern. Ein wichtiger Spieler könnte auch ausfallen. Eintracht Frankfurt hat gegen Köln gewonnen. Das war der erste Sieg zu Hause seit März.",
         "links": [
           {
-            "title": "Gelnhausen: Fußgänger auf Rastplatz tödlich verletzt – Aktuelle Nachrichten aus Frankfurt, Hessen | FAZ",
-            "url": "https://www.faz.net/aktuell/rhein-main/gelnhausen-fussgaenger-auf-rastplatz-toedlich-verletzt-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
+            "title": "Jetzt auch noch Abwehr-Sorgen - Köln droht der nächste Star-Ausfall",
+            "url": "https://www.bild.de/sport/fussball/jetzt-auch-noch-abwehr-sorgen-dem-1-fc-koeln-droht-der-naechste-star-ausfall-6ad30f141918705d12968592.html"
+          },
+          {
+            "title": "Hütters Frankfurter ringen Köln nieder",
+            "url": "https://sport.orf.at/stories/3163693/"
           }
         ]
       },
       {
         "type": "Sales & Offers",
         "emoji": "🛍️",
-        "headline_en": "Eintracht Frankfurt Transfer Rumors and Player Decisions",
-        "headline_de": "Eintracht Frankfurt: Transfergerüchte und Spielerentscheidungen",
-        "headline_easy": "Spieler wechseln vielleicht zu Eintracht Frankfurt. Trainer überlegt, wer spielt.",
-        "summary_en": "The transfer market is active with Ebnoutalib reportedly close to a move to Schalke 04. For Eintracht Frankfurt, coach Hütter faces decisions regarding key players like Robin Koch and Mario Götze.",
-        "summary_de": "Im Transfer-Ticker gibt es Gerüchte um Spieler wie Ebnoutalib, der kurz vor einem Wechsel zu Schalke 04 gestanden haben soll. Bei Eintracht Frankfurt werden Personalentscheidungen von Trainer Adi Hütter diskutiert, etwa bezüglich Kapitän Robin Koch und der Hoffnung auf eine Wende durch Mario Götze.",
-        "summary_easy": "Es gibt Nachrichten über Fußball-Spieler. Einer wollte zu Schalke wechseln. Trainer Hütter überlegt bei Eintracht Frankfurt, wer spielt. Er hofft auf Mario Götze.",
+        "headline_en": "Eintracht Frankfurt Celebrates First Home Win Since March",
+        "headline_de": "Eintracht Frankfurt feiert ersten Heimsieg seit März",
+        "headline_easy": "Eintracht Frankfurt gewinnt zu Hause wieder",
+        "summary_en": "Eintracht Frankfurt has ended a seven-month wait for a home victory in the Bundesliga, securing a crucial 1-0 win against 1. FC Köln. This win provided much-needed relief after a heavy defeat in Leipzig.",
+        "summary_de": "Eintracht Frankfurt beendet eine siebenmonatige Wartezeit auf einen Heimsieg in der Bundesliga mit einem entscheidenden 1:0-Erfolg gegen den 1. FC Köln. Dieser Sieg brachte nach einer deutlichen Niederlage in Leipzig dringend benötigte Erleichterung.",
+        "summary_easy": "Eintracht Frankfurt hat lange kein Heimspiel gewonnen. Jetzt haben sie gegen Köln 1:0 gewonnen. Das war der erste Heimsieg seit sieben Monaten. Die Fans sind erleichtert.",
         "links": [
           {
-            "title": "Transfer-Ticker: Ebnoutalib war sich mit Schalke-Wechsel nahe",
-            "url": "https://www.n-tv.de/sport/fussball/transfermarkt/Transfer-Ticker-Ebnoutalib-war-sich-mit-Schalke-Wechsel-nahe-id31423161.html"
+            "title": "Hütters Frankfurter ringen Köln nieder",
+            "url": "https://sport.orf.at/stories/3163693/"
           },
           {
-            "title": "Große Frankfurt-Frage - Traut Hütter Götze die Eintracht-Wende zu?",
-            "url": "https://www.bild.de/sport/fussball/eintracht-frankfurt-traut-huetter-weltmeister-goetze-die-wende-zu-6ad0823e5cda3a1aaa47652a"
+            "title": "Frankfurt feiert ersten Heimsieg seit März – Ebnoutalib bricht den Bann",
+            "url": "https://www.welt.de/sport/fussball/bundesliga/article6ad281d2199dc15f1abd6d83/gegen-1-fc-koeln-frankfurt-feiert-ersten-heimsieg-seit-maerz-ebnoutalib-bricht-den-bann.html"
           }
         ]
       },
       {
         "type": "Local News",
         "emoji": "📍",
-        "headline_en": "Frankfurt Region News: Fatal Accident, Pigeon Census, and Traffic Incidents",
-        "headline_de": "Frankfurt Regionalnews: Tödlicher Unfall, Taubenzählung und Verkehrsunfälle",
-        "headline_easy": "Nachrichten aus Frankfurt: Ein Mann stirbt. Es gibt viele Tauben. Auch Unfälle sind passiert.",
-        "summary_en": "The Frankfurt region reports a fatal accident where a pedestrian was hit on a rest stop. Additionally, around 10,500 city pigeons were counted in Frankfurt, and multiple vehicles were involved in a collision.",
-        "summary_de": "In der Region Rhein-Main ereignete sich ein tragischer Vorfall, bei dem ein Fußgänger auf einem Rastplatz tödlich verletzt wurde. Darüber hinaus wurde eine Zählung von Stadttauben in Frankfurt durchgeführt, bei der rund 10.500 Tiere erfasst wurden.",
-        "summary_easy": "In der Nähe von Frankfurt gab es einen schlimmen Unfall. Ein Mann ist gestorben. In Frankfurt sind viele Tauben. Autos sind zusammengestoßen.",
+        "headline_en": "Eintracht Frankfurt Secures Long-Awaited Home Victory",
+        "headline_de": "Eintracht Frankfurt sichert sich lang ersehnten Heimsieg",
+        "headline_easy": "Frankfurt gewinnt zu Hause – Endlich!",
+        "summary_en": "After a challenging period, Eintracht Frankfurt has achieved their first Bundesliga home win in over seven months, defeating 1. FC Köln 1-0. The decisive goal came from a striker nominated by national coach Jürgen Klopp, bringing significant relief to the team and fans.",
+        "summary_de": "Nach einer schwierigen Zeit hat Eintracht Frankfurt den ersten Bundesliga-Heimsieg seit über sieben Monaten errungen und den 1. FC Köln mit 1:0 besiegt. Das entscheidende Tor erzielte ein vom Bundestrainer Jürgen Klopp berufener Stürmer, was dem Team und den Fans Erleichterung verschaffte.",
+        "summary_easy": "Eintracht Frankfurt hat lange kein Heimspiel gewonnen. Jetzt haben sie gegen Köln 1:0 gewonnen. Das war der erste Heimsieg seit über sieben Monaten. Ein Stürmer hat das Tor geschossen. Die Fans sind sehr froh.",
         "links": [
           {
-            "title": "Gelnhausen: Fußgänger auf Rastplatz tödlich verletzt – Aktuelle Nachrichten aus Frankfurt, Hessen | FAZ",
-            "url": "https://www.faz.net/aktuell/rhein-main/gelnhausen-fussgaenger-auf-rastplatz-toedlich-verletzt-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
+            "title": "Hütters Frankfurter ringen Köln nieder",
+            "url": "https://sport.orf.at/stories/3163693/"
+          },
+          {
+            "title": "Frankfurt feiert ersten Heimsieg seit März – Ebnoutalib bricht den Bann",
+            "url": "https://www.welt.de/sport/fussball/bundesliga/article6ad281d2199dc15f1abd6d83/gegen-1-fc-koeln-frankfurt-feiert-ersten-heimsieg-seit-maerz-ebnoutalib-bricht-den-bann.html"
           }
         ]
       }
@@ -445,64 +377,64 @@
   },
   "dresden": [
     {
-      "price": "350 €",
-      "address": "Reicker Straße 106, 01217 Dresden",
-      "district": "Zschertnitz",
-      "size": "30",
+      "price": "390 €",
+      "address": "Löbtauer Straße 25, 01157 Dresden",
+      "district": "Löbtau",
+      "size": "35 m²",
       "rooms": "1",
-      "title": "Schöne 1-Zimmer-Wohnung in Dresden-Zschertnitz",
-      "url": "https://www.immobilienscout24.de/expose/143610110",
-      "source": "Immobilienscout24"
+      "title": "1-Zimmer-Wohnung in Dresden-Löbtau",
+      "url": "https://www.immowelt.de/expose/2D3A4905F27887B3AD12B8B813F6748B86",
+      "source": "Immowelt.de"
     },
     {
-      "price": "380 €",
-      "address": "Striesener Str. 52, 01307 Dresden",
-      "district": "Striesen",
-      "size": "35",
+      "price": "410 €",
+      "address": "St.-Petersburger-Straße 68, 01069 Dresden",
+      "district": "Johannstadt",
+      "size": "40 m²",
       "rooms": "1.5",
-      "title": "Sonnige 1,5-Zimmer-Wohnung in Dresden-Striesen",
-      "url": "https://www.immowelt.de/expose/22H8C4P",
-      "source": "Immowelt"
-    },
-    {
-      "price": "400 €",
-      "address": "Königsbrücker Landstraße 2, 01109 Dresden",
-      "district": "Klotzsche",
-      "size": "40",
-      "rooms": "1",
-      "title": "1-Zimmer-Wohnung in ruhiger Lage in Dresden-Klotzsche",
-      "url": "https://www.vonovia.de/wohnung-suchen/dresden/w1200-klotzsche/koenigsbruecker-landstrasse-2-dresden-klotzsche-364279",
-      "source": "Vonovia"
+      "title": "Helle 1,5 Zimmer Wohnung in zentraler Lage",
+      "url": "https://www.immobilienscout24.de/expose/146937846",
+      "source": "Immoscout24.de"
     },
     {
       "price": "420 €",
-      "address": "Hopfengarten 3, 01277 Dresden",
-      "district": "Seidnitz",
-      "size": "45",
+      "address": "Königsbrücker Landstraße 22, 01109 Dresden",
+      "district": "Klotzsche",
+      "size": "42 m²",
       "rooms": "2",
-      "title": "Helle 2-Zimmer-Wohnung in Dresden-Seidnitz",
-      "url": "https://www.wg-gesucht.de/wohnung-in-dresden.1471950.html",
-      "source": "WG-Gesucht"
+      "title": "Gemütliche 2 Zimmer Wohnung in Klotzsche",
+      "url": "https://www.vonovia.de/mieten/wohnung-suchen/dresden/klotzsche/koenigsbruecker-landstrasse-22-01109-dresden/K975-654-34",
+      "source": "Vonovia.de"
     },
     {
       "price": "430 €",
-      "address": "Gostritzer Straße 109, 01187 Dresden",
-      "district": "Gorbitz",
-      "size": "50",
+      "address": "Südhöhe 10, 01187 Dresden",
+      "district": "Dölzschen",
+      "size": "45 m²",
       "rooms": "2",
-      "title": "Günstige 2-Zimmer-Wohnung in Dresden-Gorbitz",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-in-dresden-gorbitz-kaltmiete-430-euro/2728888444-209-9875",
-      "source": "Kleinanzeigen"
+      "title": "2 Zimmer Wohnung mit Balkon in Dölzschen",
+      "url": "https://www.immobilienscout24.de/expose/147051372",
+      "source": "Immoscout24.de"
     },
     {
-      "price": "445 €",
-      "address": "Amalienstraße 23, 01067 Dresden",
-      "district": "Innere Neustadt",
-      "size": "38",
+      "price": "435 €",
+      "address": "Königsbrücker Straße 18, 01099 Dresden",
+      "district": "Neustadt",
+      "size": "38 m²",
       "rooms": "1",
-      "title": "Charmante 1-Zimmer-Wohnung in zentraler Lage",
-      "url": "https://www.wohnungsboerse.net/mietwohnung-dresden-neustadt/wohnung-amalienstr-23-487189/",
-      "source": "Wohnungsboerse"
+      "title": "Sonnige 1 Zimmer Wohnung in der Neustadt",
+      "url": "https://www.immowelt.de/expose/2D3A48C87695F870E4F6CB719868B57000",
+      "source": "Immowelt.de"
+    },
+    {
+      "price": "440 €",
+      "address": "Hauptstraße 47, 01097 Dresden",
+      "district": "Neustadt",
+      "size": "41 m²",
+      "rooms": "1.5",
+      "title": "Charmante 1,5 Zimmer Wohnung im Herzen der Neustadt",
+      "url": "https://www.immobilienscout24.de/expose/147061239",
+      "source": "Immoscout24.de"
     }
   ]
 }
