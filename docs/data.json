@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, October 20 2026",
+  "date": "Wednesday, October 21 2026",
   "sections": [
     {
       "category": "Germany",
@@ -8,72 +8,60 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Europe's Future Uncertain as 'Years of Lead' Loom",
-          "headline_de": "Europas Zukunft Ungewiss: Die „Jahre des Blei“ Stehen Bevor",
-          "headline_easy": "Europa hat eine unsichere Zukunft. Alte Probleme könnten wiederkommen.",
-          "summary_en": "The article speculates on Europe's future, drawing parallels to the 'Years of Lead' to suggest potential instability and challenges ahead. Another piece touches on the personal journey of Greg Bovino, who is now selling whiskey.",
-          "summary_de": "Der Artikel spekuliert über die Zukunft Europas und zieht Parallelen zu den „Jahren des Blei“, um auf mögliche Instabilität und Herausforderungen hinzuweisen. Ein weiterer Text behandelt die persönliche Entwicklung von Greg Bovino, der nun Whiskey verkauft.",
-          "summary_easy": "Europa könnte bald Schwierigkeiten haben. Ein Mann verkauft jetzt Whiskey.",
+          "headline_en": "AfD Confirms Hack, Genghis Khan's Legacy Examined, MotoGP Rider Injured",
+          "headline_de": "AfD bestätigt Hack, Ghenghis Khans Erbe wird untersucht, MotoGP-Fahrer verletzt",
+          "headline_easy": "AfD sagt: Hacker sind da. Wir reden über Ghenghis Khan. Ein Rennfahrer ist verletzt.",
+          "summary_en": "The Alternative for Germany party has confirmed a hack resulting in the leak of over 421,000 emails. Elsewhere, Genghis Khan's complex legacy as a brutal yet revolutionary empire builder is being explored. In sports, Toprak Razgatlioglu will miss the rest of the MotoGP season due to a shoulder injury.",
+          "summary_de": "Die Partei Alternative für Deutschland hat einen Hack bestätigt, bei dem über 421.000 E-Mails veröffentlicht wurden. Andernorts wird das komplexe Erbe von Ghenghis Khan als brutaler, aber revolutionärer Reichsgründer untersucht. Im Sport wird Toprak Razgatlioglu wegen einer Schulterverletzung den Rest der MotoGP-Saison verpassen.",
+          "summary_easy": "Die AfD hat einen Hack bestätigt. Viele E-Mails sind jetzt im Internet. Wir lernen etwas über Ghenghis Khan. Ein Sportler namens Toprak ist verletzt und kann nicht mehr fahren.",
           "links": [
             {
-              "title": "What Comes Next in Europe? The ‘Years of Lead’ Offer a Preview",
-              "url": "https://www.nakedcapitalism.com/2026/10/years-of-lead-await-europe.html"
+              "title": "Alternative for Germany confirms hack after 421,000 emails leaked online",
+              "url": "https://www.thelocal.de/20261020/alternative-for-germany-confirms-hack-after-421000-emails-leaked-online"
             },
             {
-              "title": "One Bottle After Another: Greg Bovino Hawks Whiskey Now",
-              "url": "http://nymag.com/intelligencer/article/greg-bovino-border-patrol-whiskey.html"
+              "title": "Brutal, revolutionary empire builder: Genghis Khan's legacy",
+              "url": "https://www.dw.com/en/brutal-revolutionary-empire-builder-genghis-khans-legacy/a-79697112"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Europe's Future Uncertain; Climate and Energy News Update",
-          "headline_de": "Europas Zukunft Ungewiss; Klima- und Energiereport",
-          "headline_easy": "Europa hat eine unsichere Zukunft. Es gibt auch Nachrichten über Klima und Energie.",
-          "summary_en": "The future of Europe is uncertain, with potential parallels to the 'Years of Lead' being drawn. Additionally, a weekly roundup covers climate and energy news, and another story highlights Greg Bovino's new venture in selling whiskey.",
-          "summary_de": "Die Zukunft Europas ist ungewiss, und es werden Parallelen zu den „Jahren des Blei“ gezogen. Zusätzlich gibt es einen wöchentlichen Bericht über Klima- und Energieneuigkeiten und eine Geschichte über Greg Bovinos neues Whiskey-Geschäft.",
-          "summary_easy": "Europa könnte bald Schwierigkeiten haben. Wir erfahren mehr über Klima und Energie. Ein Mann verkauft jetzt Whiskey.",
+          "headline_en": "AfD Email Leak, Andy Burnham's Policies, and Genghis Khan's Empire",
+          "headline_de": "AfD-E-Mail-Leak, Andy Burnhams Politik und Ghenghis Khans Reich",
+          "headline_easy": "AfD E-Mails sind weg. Andy Burnham spricht über Sozialismus. Ghenghis Khan war stark.",
+          "summary_en": "Following a hack that leaked over 421,000 emails, the Alternative for Germany party is in the spotlight. Discussions also touch upon the potential socialism of Andy Burnham, and the historical impact of Genghis Khan's empire.",
+          "summary_de": "Nach einem Hack, bei dem über 421.000 E-Mails veröffentlicht wurden, steht die Partei Alternative für Deutschland im Fokus. Diskussionen berühren auch den möglichen Sozialismus von Andy Burnham und die historischen Auswirkungen des Reiches von Ghenghis Khan.",
+          "summary_easy": "Viele E-Mails von der AfD sind jetzt öffentlich. Ein Mann namens Andy Burnham redet über soziale Ideen. Ghenghis Khan war ein wichtiger Herrscher und baute ein großes Reich.",
           "links": [
             {
-              "title": "Weekly Climate and Energy News Roundup #711",
-              "url": "https://wattsupwiththat.com/2026/10/19/weekly-climate-and-energy-news-roundup-711/"
-            }
-          ]
-        },
-        {
-          "type": "War",
-          "emoji": "⚔️",
-          "headline_en": "German Foreign Office Warns Citizens in France Amid 'War-Like' Protests",
-          "headline_de": "Auswärtiges Amt warnt Deutsche in Frankreich vor „kriegsähnlichen“ Protesten",
-          "headline_easy": "Deutschland warnt seine Bürger in Frankreich. Es gibt Proteste, die wie Krieg sind.",
-          "summary_en": "The German Foreign Office has issued a warning to German citizens in France due to spreading 'war-like' protests. This development is viewed in the context of potential future instability in Europe, with comparisons made to the 'Years of Lead'.",
-          "summary_de": "Das deutsche Auswärtige Amt hat wegen zunehmender „kriegsähnlicher“ Proteste eine Warnung für deutsche Staatsbürger in Frankreich herausgegeben. Diese Entwicklung wird im Kontext möglicher zukünftiger Instabilität in Europa gesehen und mit den „Jahren des Blei“ verglichen.",
-          "summary_easy": "Deutschland gibt eine Warnung für Leute in Frankreich heraus. Dort gibt es viele Proteste. Das ist wegen möglicher Probleme in Europa.",
-          "links": [
+              "title": "The Possible Socialism of Andy Burnham",
+              "url": "https://prospect.org/2026/10/20/andy-burnham-britain-labour-party-prime-minister/"
+            },
             {
-              "title": "Foreign Office warns Germans in France as 'war-like' protests spread",
-              "url": "https://www.thelocal.de/20261019/foreign-office-warns-germans-in-france-as-war-like-protests-spread"
+              "title": "Domino's Pizza Enterprises Shares Rise 4.2% as Turnaround Under New CEO Lifts Stock Nearly 47% in a Year",
+              "url": "https://www.ibtimes.com.au/dominos-pizza-enterprises-shares-business-reset-1877016"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Biologics Conference and IPO Update Amid Market Fluctuations",
-          "headline_de": "Biologika-Konferenz und IPO-Update inmitten von Marktschwankungen",
-          "headline_easy": "Es gibt Nachrichten über eine Konferenz und Börsenstarts. Es gibt auch Nachrichten über Frankreich.",
-          "summary_en": "WuXi Biologics is presenting at the Festival of Biologics Basel, focusing on commercializing scientific advancements. In the IPO market, Bonfiglioli Transmissions is seeing strong subscription rates. Separately, a piece discusses the 'Fall of France' in relation to human osmotic pressure.",
-          "summary_de": "WuXi Biologics präsentiert sich auf dem Festival of Biologics Basel und konzentriert sich auf die Kommerzialisierung wissenschaftlicher Fortschritte. Am IPO-Markt verzeichnet Bonfiglioli Transmissions starke Zeichnungsraten. Separat diskutiert ein Artikel den „Fall Frankreichs“ im Zusammenhang mit dem osmotischen Druck des Menschen.",
-          "summary_easy": "Eine Firma spricht über Wissenschaft. Ein anderer Handel ist gut gestartet. Es gibt auch eine Geschichte über Frankreich.",
+          "headline_en": "Greek Market Buzz, Disco Divas, and Domino's Performance",
+          "headline_de": "Griechischer Markt-Trubel, Disco-Diven und Domino's Leistung",
+          "headline_easy": "Geld-Nachrichten aus Griechenland. Musik-Stars. Domino's Pizza geht es gut.",
+          "summary_en": "This section covers diverse financial and cultural news, including developments in the Greek market, the history of disco divas Boney M., and the strong stock performance of Domino's Pizza Enterprises under its new CEO.",
+          "summary_de": "Dieser Abschnitt behandelt verschiedene Finanz- und Kultur-Nachrichten, darunter Entwicklungen auf dem griechischen Markt, die Geschichte der Disco-Diven Boney M. und die starke Aktienentwicklung von Domino's Pizza Enterprises unter seinem neuen CEO.",
+          "summary_easy": "Hier gibt es Nachrichten über Geld. Es geht um Griechenland und eine Pizza-Firma. Auch eine alte Musikgruppe wird vorgestellt.",
           "links": [
             {
-              "title": "WuXi Biologics at Festival of Biologics Basel 2026: Turning Scientific Complexity into Commercial Certainty",
-              "url": "https://www.prnewswire.com/news-releases/wuxi-biologics-at-festival-of-biologics-basel-2026-turning-scientific-complexity-into-commercial-certainty-302912371.html"
+              "title": "Alexis back in the café, Samaras tearing up the bailout playbook – and forget the US elections, Greece has its own Champions League battle: PerCapita, Alafouzos, Giannakopoulos and Netflix?",
+              "url": "https://en.protothema.gr/2026/10/20/alexis-back-in-the-cafe-samaras-tearing-up-the-bailout-playbook-and-forget-the-us-elections-greece-has-its-own-champions-league-battle-percapita-alafouzos-giannakopoulos-and-netflix/"
             },
             {
-              "title": "Bonfiglioli Transmissions IPO Day 3: GMP at 22%, issue subscribed 99%; Should you apply?",
-              "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/bonfiglioli-transmissions-ipo-day-3-gmp-at-22-issue-subscribed-99-should-you-apply/articleshow/135039410.cms"
+              "title": "The strange but true story of the Daddy Cool disco divas",
+              "url": "https://www.irishtimes.com/culture/music/2026/10/20/boney-m-the-strange-but-true-story-of-the-daddy-cool-disco-divas/"
             }
           ]
         }
@@ -84,22 +72,58 @@
       "emoji": "🇪🇺",
       "topics": [
         {
-          "type": "Stocks & Markets",
-          "emoji": "📈",
-          "headline_en": "European Markets Open Lower; Lazard Welcomes New Executive",
-          "headline_de": "Europäische Märkte eröffnen tiefer; Lazard begrüßt neuen Führungskräfte",
-          "headline_easy": "Die Börsen in Europa sind etwas schlechter gestartet. Eine Firma bekommt einen neuen Chef.",
-          "summary_en": "European markets opened mostly lower as the earnings season picks up pace. Lazard has welcomed David Krap as Managing Director and Co-Head of its European Consumer, Retail & Leisure team.",
-          "summary_de": "Die europäischen Märkte eröffneten größtenteils tiefer, da die Berichtssaison an Fahrt gewinnt. Lazard hat David Krap als Managing Director und Co-Head seines europäischen Teams für Konsumgüter, Einzelhandel und Freizeit begrüßt.",
-          "summary_easy": "Die Aktienkurse in Europa sind am Morgen gesunken. Eine wichtige Firma hat einen neuen Mitarbeiter bekommen.",
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Superfood Discovery, International Law, and Online Scams",
+          "headline_de": "Superfood-Entdeckung, Völkerrecht und Online-Betrügereien",
+          "headline_easy": "Ein besonderes Essen. Recht für Länder. Wie man Betrügern nicht glaubt.",
+          "summary_en": "News highlights include the discovery of a nutrient-rich superfood from the Nubra Valley, a speech on international law in London, and advice on identifying online scams to protect consumers.",
+          "summary_de": "Zu den Nachrichten gehören die Entdeckung eines nährstoffreichen Superfoods aus dem Nubra-Tal, eine Rede zum Völkerrecht in London und Ratschläge zur Erkennung von Online-Betrügereien zum Schutz der Verbraucher.",
+          "summary_easy": "Man findet ein neues Super-Essen. Es gibt eine Rede über Gesetze für Länder. Man lernt, wie man gefährliche Werbung erkennt.",
           "links": [
             {
-              "title": "Europe opens mostly lower as earnings season picks up",
-              "url": "https://biztoc.com/x/68e0c146c2066515"
+              "title": "Ladakh Gold: Piyush Goyal shares a superfood that is found at 12,000 feet in Nubra valley and has 10 times more Vitamin C than lemon",
+              "url": "https://economictimes.indiatimes.com/news/new-updates/ladakh-gold-piyush-goyal-shares-a-superfood-that-is-found-at-12000-feet-in-nubra-valley-and-has-10-times-more-vitamin-c-than-lemon/articleshow/135065330.cms"
             },
             {
-              "title": "Lazard Welcomes David Krap as Managing Director and Co-Head of European Consumer, Retail & Leisure",
-              "url": "https://www.prnewswire.com/news-releases/lazard-welcomes-david-krap-as-managing-director-and-co-head-of-european-consumer-retail--leisure-302909890.html"
+              "title": "Attorney General's speech at the London Conference on International Law 2026",
+              "url": "https://www.gov.uk/government/news/attorney-generals-speech-at-the-london-conference-on-international-law-2026"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Political Investigations, Global Superfoods, and International Law",
+          "headline_de": "Politische Untersuchungen, globale Superfoods und Völkerrecht",
+          "headline_easy": "Politiker müssen untersucht werden. Ein besonderes Essen aus den Bergen. Regeln für Länder.",
+          "summary_en": "This section includes a call for congressional investigation into actions concerning Russia, a report on a nutritious superfood from Ladakh, and highlights from an international law conference in London.",
+          "summary_de": "Dieser Abschnitt enthält einen Aufruf zur Untersuchung von Handlungen im Zusammenhang mit Russland durch den Kongress, einen Bericht über ein nahrhaftes Superfood aus Ladakh und Höhepunkte einer Konferenz zum Völkerrecht in London.",
+          "summary_easy": "Es gibt eine Forderung, Politiker zu untersuchen. Ein besonderes Essen aus den Bergen wird gezeigt. Eine wichtige Rede über Gesetze findet statt.",
+          "links": [
+            {
+              "title": "Congress Must Investigate Trump’s Aid and Comfort to Putin",
+              "url": "https://freerepublic.com/focus/f-news/4399860/posts"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "European Market Open, Warehouse Security, and Market Trends",
+          "headline_de": "Europäische Marktöffnung, Lagerhaussicherheit und Markttrends",
+          "headline_easy": "Börse in Europa öffnet. Sicherheit im Lagerhaus. Was macht der Markt?",
+          "summary_en": "European markets are expected to open lower as investors await economic reports. The news also touches upon security challenges within modern warehouses and general market outlooks.",
+          "summary_de": "Die europäischen Märkte werden voraussichtlich niedriger eröffnen, da die Anleger auf Wirtschaftsberichte warten. Die Nachrichten befassen sich auch mit Sicherheitsherausforderungen in modernen Lagerhäusern und allgemeinen Marktaussichten.",
+          "summary_easy": "Die Börse in Europa startet vielleicht tiefer. Es gibt Informationen über ein Lagerhaus und was dort passiert. Wir schauen auf die Geldmärkte.",
+          "links": [
+            {
+              "title": "Europe opens lower amid economic reports",
+              "url": "https://biztoc.com/x/1753fa99d8d5b958"
+            },
+            {
+              "title": "The journey of a paper unicorn: adventures inside a modern warehouse",
+              "url": "https://securelist.com/paper-unicorn-warehouse-security/121537/"
             }
           ]
         }
@@ -112,36 +136,72 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Hot Dog Recall; Kawhi Leonard's Return; Whiskey Sales",
-          "headline_de": "Rückruf von Hot Dogs; Kawhi Leonards Rückkehr; Whiskey-Verkauf",
-          "headline_easy": "Es gibt einen Rückruf für Hot Dogs. Ein Sportler kehrt zurück. Ein Mann verkauft Whiskey.",
-          "summary_en": "A significant recall of hot dogs, bacon, and deli meats has been issued due to temperature control issues. In sports news, Kawhi Leonard's return to the Toronto Raptors is described as complicated. Greg Bovino has transitioned to selling whiskey.",
-          "summary_de": "Ein bedeutender Rückruf von Hot Dogs, Speck und Aufschnitt wurde wegen Problemen bei der Temperaturkontrolle angeordnet. In den Sportnachrichten wird Kawhi Leonards Rückkehr zu den Toronto Raptors als kompliziert beschrieben. Greg Bovino ist zum Verkauf von Whiskey übergegangen.",
-          "summary_easy": "Viele Lebensmittel müssen zurückgegeben werden. Ein Sportler spielt wieder. Ein Mann verkauft jetzt Whiskey.",
+          "headline_en": "Political Scrutiny, Israeli Politics, and Law Enforcement Raids",
+          "headline_de": "Politische Überprüfung, israelische Politik und Razzien der Strafverfolgungsbehörden",
+          "headline_easy": "Politiker werden geprüft. Wahl-News aus Israel. Polizei bei jemandem zu Hause.",
+          "summary_en": "Current US culture and politics are reflected in headlines about investigating a former president's actions related to Russia, rising support for the far-right in Israel, and a federal investigation involving a congresswoman's sister.",
+          "summary_de": "Die aktuelle US-Kultur und -Politik spiegeln sich in Schlagzeilen über die Untersuchung der Handlungen eines ehemaligen Präsidenten im Zusammenhang mit Russland, die steigende Unterstützung für die extreme Rechte in Israel und eine Bundesuntersuchung mit der Schwester einer Kongressabgeordneten wider.",
+          "summary_easy": "Es geht um Politik und den ehemaligen Präsidenten. In Israel wählen viele junge Leute eine rechte Partei. Die Polizei war bei der Schwester einer Politikerin.",
           "links": [
             {
-              "title": "Kayem Recalls 1.58 Million Pounds of Hot Dogs, Bacon and Deli Meats After Warehouse Cooler Temperature Lapses",
-              "url": "https://www.medicaldaily.com/kayem-recall-hot-dogs-bacon-deli-meats-temperature-abuse-480115"
-            },
+              "title": "Israel's Ben-Gvir Poised For Election Gains As Young Voters Turn To Far Right",
+              "url": "https://www.huffpost.com/entry/israel-ben-gvir-poised-for-election-gains_n_6ad72baae4b061c2be45ffe5"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Political Investigations, Entrepreneurship, and Israeli Politics",
+          "headline_de": "Politische Untersuchungen, Unternehmertum und israelische Politik",
+          "headline_easy": "Politiker-Probleme. Ein neues Restaurant. Rechte Partei in Israel.",
+          "summary_en": "This section features a call for congressional investigation into a former president's actions, news about a new restaurant concept launched by a football coach, and the growing influence of the far-right among young Israeli voters.",
+          "summary_de": "Dieser Abschnitt enthält einen Aufruf zur Untersuchung der Handlungen eines ehemaligen Präsidenten durch den Kongress, Nachrichten über ein neues Restaurantkonzept, das von einem Football-Trainer ins Leben gerufen wurde, und den wachsenden Einfluss der extremen Rechten bei jungen israelischen Wählern.",
+          "summary_easy": "Es gibt eine Untersuchung über einen Politiker. Ein Football-Trainer eröffnet ein neues Restaurant. Junge Leute in Israel wählen eine rechte Partei.",
+          "links": [
             {
-              "title": "Kawhi Leonard: a hero’s complicated return to the Toronto Raptors",
-              "url": "https://sports.yahoo.com/articles/kawhi-leonard-hero-complicated-return-090024798.html"
+              "title": "El Capitan football coach, former player dial up new restaurant concept",
+              "url": "https://wpdash.medianewsgroup.com/2026/10/19/el-capitan-football-coach-former-player-dial-up-new-restaurant-concept/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Elon Musk's SpaceX Share Offer; Biologics Conference; Beer News from India",
-          "headline_de": "Elon Musks SpaceX-Aktienangebot; Biologika-Konferenz; Bier-Nachrichten aus Indien",
-          "headline_easy": "Elon Musk gibt Aktien von SpaceX ab. Eine Firma spricht über Wissenschaft. Es gibt neue Biere in Indien.",
-          "summary_en": "Elon Musk announced plans to give every child in America a share in SpaceX. WuXi Biologics is participating in the Festival of Biologics Basel. Meanwhile, in India, TASMAC plans to introduce four new beer varieties.",
-          "summary_de": "Elon Musk kündigte Pläne an, jedem Kind in Amerika eine Aktie von SpaceX zu geben. WuXi Biologics nimmt am Festival of Biologics Basel teil. Unterdessen plant TASMAC in Indien die Einführung von vier neuen Biersorten.",
-          "summary_easy": "Elon Musk will Kindern Aktien geben. Eine Firma spricht über ihre Arbeit. In Indien gibt es bald neue Biere.",
+          "headline_en": "US Futures Mixed, Airline Fees, and Japanese Market Slide",
+          "headline_de": "US-Futures gemischt, Fluggebühren und Rückgang des japanischen Marktes",
+          "headline_easy": "US-Börse ist gemischt. Fluggesellschaften reden über Geld. Japanische Börse fällt.",
+          "summary_en": "US stock futures show mixed signals as investors await earnings and economic data. United Airlines' CEO defends the company's fees, while the Japanese stock market experienced a significant slide influenced by AI concerns and oil prices.",
+          "summary_de": "US-Aktien-Futures zeigen gemischte Signale, während Investoren auf Gewinne und Wirtschaftsdaten warten. Der CEO von United Airlines verteidigt die Gebühren des Unternehmens, während der japanische Aktienmarkt aufgrund von KI-Bedenken und Ölpreisen einen deutlichen Rückgang verzeichnete.",
+          "summary_easy": "Die Börse in den USA ist nicht sicher. Ein Chef von einer Flugfirma erklärt die Preise. Die Börse in Japan ist gefallen.",
           "links": [
             {
-              "title": "Elon Musk says he'll give every child in America a share in SpaceX",
-              "url": "https://www.businessinsider.com/elon-musk-give-spacex-shares-every-american-kid-next-year-2026-10#article"
+              "title": "US futures mixed with earnings, data to come",
+              "url": "https://biztoc.com/x/20759ad711e35801"
+            },
+            {
+              "title": "United Airlines CEO defends its fees in wide-ranging interview: 'It's expensive to fly'",
+              "url": "https://finance.yahoo.com/economy/article/united-airlines-ceo-we-should-have-a-national-wealth-tax-092341353.html"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "TV Character's Return, German Investment, and Restaurant Innovation",
+          "headline_de": "Rückkehr einer TV-Figur, deutsche Investitionen und Restaurant-Innovation",
+          "headline_easy": "Eine Figur aus einer Serie kommt zurück. Geld aus den USA für Firmen in Deutschland. Ein neues Restaurant.",
+          "summary_en": "The return of the character Apu to 'The Simpsons' with a new voice is noted, alongside insights into why US investors are interested in Germany's 'Mittelstand' companies. Additionally, a football coach and former player have launched a new restaurant concept.",
+          "summary_de": "Die Rückkehr der Figur Apu zu 'Die Simpsons' mit einer neuen Stimme wird erwähnt, ebenso wie Einblicke, warum US-Investoren an deutschen 'Mittelstand'-Unternehmen interessiert sind. Zusätzlich haben ein Football-Trainer und ein ehemaliger Spieler ein neues Restaurantkonzept gestartet.",
+          "summary_easy": "Die Figur Apu ist wieder in der Serie 'Die Simpsons'. US-Investoren finden deutsche Firmen gut. Ein neuer Restaurant-Plan wird vorgestellt.",
+          "links": [
+            {
+              "title": "After years of backlash, Apu returns to 'The Simpsons' with a South Asian voice",
+              "url": "https://www.news4jax.com/entertainment/2026/10/20/after-years-of-backlash-apu-returns-to-the-simpsons-with-a-south-asian-voice/"
+            },
+            {
+              "title": "Why US investors are snapping up Germany's famed Mittelstand",
+              "url": "https://www.dw.com/en/why-us-investors-are-snapping-up-germanys-famed-mittelstand/a-79705421"
             }
           ]
         }
@@ -154,56 +214,36 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Stablecoin Activity Report; Singapore Haze Law; Tokyo Night Market",
-          "headline_de": "Bericht über Stablecoin-Aktivität; Singapurs Dunst-Gesetz; Tokio Nachtmarkt",
-          "headline_easy": "Es gibt einen Bericht über Geldtransfers. Singapur macht neue Gesetze wegen Rauch. Ein Markt in Tokio findet statt.",
-          "summary_en": "A report details stablecoin transfer activity, showing a high volume of small transactions. Singapore is strengthening laws against companies contributing to haze pollution. Additionally, details for the Tokyo Night Market in 2026 have been announced.",
-          "summary_de": "Ein Bericht detailliert die Aktivität von Stablecoin-Transfers und zeigt ein hohes Volumen an kleinen Transaktionen. Singapur verschärft die Gesetze gegen Unternehmen, die zur Dunstverschmutzung beitragen. Außerdem wurden Details für den Tokio Nachtmarkt 2026 bekannt gegeben.",
-          "summary_easy": "Kleine Geldtransfers sind sehr häufig. Singapur will etwas gegen schlechte Luft tun. Ein Nachtmarkt in Tokio wird bald stattfinden.",
+          "headline_en": "Asian Markets Decline, Superfood Discovery, and Rebounding AI Stocks",
+          "headline_de": "Asiatische Märkte sinken, Superfood-Entdeckung und sich erholende KI-Aktien",
+          "headline_easy": "Aktien in Asien fallen. Super-Essen wird gefunden. KI-Aktien steigen.",
+          "summary_en": "Asian shares are mostly declining, influenced by Wall Street's AI stock performance and broader market trends. A superfood from Ladakh with high Vitamin C content is also highlighted.",
+          "summary_de": "Die asiatischen Aktienmärkte sind größtenteils rückläufig, beeinflusst von der Performance von KI-Aktien an der Wall Street und breiteren Markttrends. Ein Superfood aus Ladakh mit hohem Vitamin-C-Gehalt wird ebenfalls hervorgehoben.",
+          "summary_easy": "Die Aktienmärkte in Asien sind nicht gut. KI-Aktien an der Wall Street haben sich erholt. Man findet ein neues Super-Essen.",
           "links": [
             {
-              "title": "Following the Money: Stablecoin Transfers Under $100 Account for 77% of Activity, While Large Transactions Move Two-Thirds of Value, Mercuryo and BNB Chain Report Finds",
-              "url": "https://www.prnewswire.com/news-releases/following-the-money-stablecoin-transfers-under-100-account-for-77-of-activity-while-large-transactions-move-two-thirds-of-value-mercuryo-and-bnb-chain-report-finds-302912429.html"
-            },
-            {
-              "title": "Singapore ready to strengthen laws against haze-linked firms, pursue them 'for as long as it takes': Shanmugam",
-              "url": "https://www.channelnewsasia.com/singapore/singapore-haze-firms-companies-laws-shanmugam-6470856"
+              "title": "Asian shares mostly decline after AI stocks lead a rebound on Wall Street",
+              "url": "https://www.news4jax.com/business/2026/10/20/asian-shares-mostly-decline-after-ai-stocks-lead-a-rebound-on-wall-street/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Oil Price Outlook; Cement Company Earnings; Lazard Welcomes New Executive",
-          "headline_de": "Ölpreis-Ausblick; Zementfirmen-Ergebnisse; Lazard begrüßt neuen Manager",
-          "headline_easy": "Es gibt eine Vorhersage für Ölpreise. Eine Zementfirma hat gute Ergebnisse. Eine Firma bekommt einen neuen Chef.",
-          "summary_en": "The outlook for oil prices over the next few quarters is being analyzed. UltraTech Cement reported a significant jump in net profit and revenue for its second quarter. Lazard has welcomed David Krap as Managing Director and Co-Head of its European Consumer, Retail & Leisure team.",
-          "summary_de": "Der Ausblick für Ölpreise in den nächsten Quartalen wird analysiert. UltraTech Cement meldete für sein zweites Quartal einen deutlichen Anstieg des Nettogewinns und Umsatzes. Lazard hat David Krap als Managing Director und Co-Head seines europäischen Teams für Konsumgüter, Einzelhandel und Freizeit begrüßt.",
-          "summary_easy": "Man spricht über die Zukunft der Ölpreise. Eine Zementfirma hat mehr Geld verdient. Eine wichtige Firma hat einen neuen Mitarbeiter bekommen.",
+          "headline_en": "IMF Outlook, Vietnam Telecom Deal, and China's Export Restrictions",
+          "headline_de": "IWF-Ausblick, Telekommunikationsabkommen in Vietnam und Chinas Exportbeschränkungen",
+          "headline_easy": "Zahlen vom IWF. Ein Deal in Vietnam. China gibt bestimmte Dinge nicht mehr ab.",
+          "summary_en": "The IMF's latest outlook presents mixed signals on global growth. In business news, JTOWER's Vietnamese subsidiary has signed an agreement with Sun Group and OCK for telecommunications infrastructure. China is also proposing export restrictions on AI, chip, and solar technologies.",
+          "summary_de": "Der neueste Ausblick des IWF zeigt gemischte Signale für das globale Wachstum. Im Wirtschaftsbereich hat die vietnamesische Tochtergesellschaft von JTOWER eine Vereinbarung mit Sun Group und OCK für Telekommunikationsinfrastrukturen unterzeichnet. China schlägt auch Exportbeschränkungen für KI-, Chip- und Solartechnologien vor.",
+          "summary_easy": "Der IWF hat neue Zahlen zur Wirtschaft. Eine Firma in Vietnam macht einen neuen Vertrag. China will bestimmte Technik nicht mehr exportieren.",
           "links": [
             {
-              "title": "What Will Happen to the Oil Price Over the Next Few Quarters?",
-              "url": "https://www.rigzone.com/news/what_will_happen_to_the_oil_price_over_the_next_few_quarters-19-oct-2026-184871-article/?rss=true"
+              "title": "IMF outlook: How the latest forecast sends mixed signals on global growth",
+              "url": "https://www.livemint.com/opinion/online-views/imf-outlook-how-the-latest-forecast-sends-mixed-signals-on-global-growth-11792396909080.html"
             },
             {
-              "title": "UltraTech Cement Q2 Results: Net profit jumps 21% YoY to Rs 1,494 crore; revenue up 19%",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ultratech-cement-q2-results-net-profit-rises-21-yoy-to-rs-1494-crore-revenue-up-19/articleshow/135044076.cms"
-            }
-          ]
-        },
-        {
-          "type": "Technology",
-          "emoji": "💻",
-          "headline_en": "Oil Price Outlook; Cricket Stars Comparison; Stablecoin Activity",
-          "headline_de": "Ölpreis-Ausblick; Vergleich von Cricket-Stars; Stablecoin-Aktivität",
-          "headline_easy": "Es gibt eine Vorhersage für Ölpreise. Zwei Cricket-Spieler werden verglichen. Es gibt einen Bericht über Geldtransfers.",
-          "summary_en": "The future oil price is being discussed. A comparison is made between cricket stars Virat Kohli and Babar Azam. A report details stablecoin transfer activity, showing a high volume of small transactions but significant value in larger ones.",
-          "summary_de": "Der zukünftige Ölpreis wird diskutiert. Ein Vergleich wird zwischen den Cricket-Stars Virat Kohli und Babar Azam gezogen. Ein Bericht detailliert die Aktivität von Stablecoin-Transfers und zeigt ein hohes Volumen an kleinen Transaktionen, aber erheblichen Wert in größeren.",
-          "summary_easy": "Man spricht über die Zukunft der Ölpreise. Zwei Cricket-Spieler sind sehr gut. Kleine Geldtransfers sind sehr häufig.",
-          "links": [
-            {
-              "title": "Virat Kohli vs Babar Azam: Who is better and the batting GOAT? The stats comparison",
-              "url": "https://www.sportingnews.com/us/cricket/news/virat-kohli-vs-babar-azam-who-is-better-stats-comparison/lat481e56goswknp8fy8vc8q"
+              "title": "JTOWERのベトナム子会社SPN、Sun Group・OCKと協定書を締結　2027年APEC首脳会議に向けフーコック島の通信環境を整備",
+              "url": "https://prtimes.jp/main/html/rd/p/000000191.000020999.html"
             }
           ]
         }
@@ -216,84 +256,92 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "AI in the Workplace; Cricket Stars Comparison; Liverpool's Transfer Strategy",
-          "headline_de": "KI am Arbeitsplatz; Vergleich von Cricket-Stars; Liverpools Transferstrategie",
-          "headline_easy": "Wie man künstliche Intelligenz nutzt. Zwei Cricket-Spieler werden verglichen. Ein Fußballteam kauft neue Spieler.",
-          "summary_en": "A former Microsoft VP shares effective ways to use AI at work and what he avoids. A comparison of cricket stars Virat Kohli and Babar Azam is presented. Additionally, an analysis suggests Liverpool's transfer strategy is proving successful.",
-          "summary_de": "Ein ehemaliger Microsoft-VP teilt effektive Wege zur Nutzung von KI am Arbeitsplatz und was er vermeidet. Ein Vergleich der Cricket-Stars Virat Kohli und Babar Azam wird präsentiert. Zusätzlich deutet eine Analyse darauf hin, dass Liverpools Transferstrategie erfolgreich ist.",
-          "summary_easy": "Man kann künstliche Intelligenz gut am Arbeitsplatz nutzen. Zwei Cricket-Spieler sind sehr gut. Ein Fußballteam hat gute Spieler gekauft.",
+          "headline_en": "Literary Analysis, Bookselling History, and Sports News",
+          "headline_de": "Literarische Analyse, Buchhandelsgeschichte und Sportnachrichten",
+          "headline_easy": "Bücher sind interessant. Geschichte von Läden mit Büchern. Ein Rennfahrer verletzt.",
+          "summary_en": "This section offers insights into literary analysis, the history of British bookselling post-WWII, and sports news regarding MotoGP rider Toprak Razgatlioglu missing the rest of the season due to injury.",
+          "summary_de": "Dieser Abschnitt bietet Einblicke in die literarische Analyse, die Geschichte des britischen Buchhandels nach dem Zweiten Weltkrieg und Sportnachrichten über den MotoGP-Fahrer Toprak Razgatlioglu, der aufgrund einer Verletzung den Rest der Saison verpasst.",
+          "summary_easy": "Es gibt Artikel über Bücher und Autoren. Wir lernen etwas über die Geschichte von Buchläden. Ein Rennfahrer kann nicht mehr fahren, weil er verletzt ist.",
           "links": [
             {
-              "title": "Microsoft's ex-VP of HR shares 3 effective ways to use AI at work — and what he never uses it for",
-              "url": "https://www.businessinsider.com/effective-ways-to-use-ai-at-work-2026-10#article"
+              "title": "On the Post-War Rise of 20th-Century British Bookselling",
+              "url": "https://lithub.com/on-the-post-war-rise-of-20th-century-british-bookselling/"
+            },
+            {
+              "title": "What John Berryman’s Lectures Revealed About Young Shakespeare—and Himself",
+              "url": "https://lithub.com/what-john-berrymans-lectures-revealed-about-young-shakespeare-and-himself/"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Amelia Earhart Wreckage Search; AI in the Workplace; Cricket Stars Comparison",
-          "headline_de": "Suche nach Amelia Earharts Wrack; KI am Arbeitsplatz; Vergleich von Cricket-Stars",
-          "headline_easy": "Forscher suchen nach Amelia Earharts Flugzeug. Man spricht darüber, wie man künstliche Intelligenz nutzt. Zwei Cricket-Spieler werden verglichen.",
-          "summary_en": "Researchers believe they may have found wreckage consistent with Amelia Earhart's plane. A former Microsoft VP offers advice on using AI effectively in the workplace. A statistical comparison of cricket stars Virat Kohli and Babar Azam is also featured.",
-          "summary_de": "Forscher glauben, Wrackteile gefunden zu haben, die mit Amelia Earharts Flugzeug übereinstimmen. Ein ehemaliger Microsoft-VP gibt Ratschläge zur effektiven Nutzung von KI am Arbeitsplatz. Ein statistischer Vergleich der Cricket-Stars Virat Kohli und Babar Azam wird ebenfalls vorgestellt.",
-          "summary_easy": "Man glaubt, Teile von Amelia Earharts Flugzeug gefunden zu haben. Man kann künstliche Intelligenz gut am Arbeitsplatz nutzen. Zwei Cricket-Spieler sind sehr gut.",
+          "headline_en": "Debut Novelists, Literary Craft, and Bookselling History",
+          "headline_de": "Debütautoren, literarisches Handwerk und Buchhandelsgeschichte",
+          "headline_easy": "Neue Bücher. Wie man schreibt. Geschichte von Buchläden.",
+          "summary_en": "This section highlights top debut novelists of 2026, discusses the art of writing with a focus on punctuation, and delves into the history of British bookselling in the 20th century.",
+          "summary_de": "Dieser Abschnitt hebt die besten Debütautoren des Jahres 2026 hervor, diskutiert die Kunst des Schreibens mit Schwerpunkt auf Zeichensetzung und befasst sich mit der Geschichte des britischen Buchhandels im 20. Jahrhundert.",
+          "summary_easy": "Es gibt eine Liste mit neuen Buchautoren. Wir lernen, wie man gut schreibt. Die Geschichte von Buchläden wird erzählt.",
           "links": [
             {
-              "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
-              "url": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo"
+              "title": "Meet the Best Debut Novelists of 2026",
+              "url": "https://lithub.com/meet-the-best-debut-novelists-of-2026/"
+            },
+            {
+              "title": "“If You Write Properly You Shouldn’t Have to Punctuate.” Was Cormac McCarthy That Guy in Your MFA?",
+              "url": "https://lithub.com/if-you-write-properly-you-shouldnt-have-to-punctuate-was-cormac-mccarthy-that-guy-in-your-mfa/"
             }
           ]
         },
         {
           "type": "War",
           "emoji": "⚔️",
-          "headline_en": "Moon Science & Technology; Amelia Earhart Search; AI in Workplace",
-          "headline_de": "Mondwissenschaft & Technologie; Amelia-Earhart-Suche; KI am Arbeitsplatz",
-          "headline_easy": "Es gibt Informationen über Wissenschaft und Technik für den Mond. Forscher suchen nach Amelia Earharts Flugzeug. Man spricht darüber, wie man künstliche Intelligenz nutzt.",
-          "summary_en": "The European Space Agency discusses science and technology for moon exploration. Researchers believe they may have found wreckage consistent with Amelia Earhart's plane. Advice on using AI effectively in the workplace is also provided.",
-          "summary_de": "Die Europäische Weltraumorganisation diskutiert Wissenschaft und Technologie für die Mondexploration. Forscher glauben, Wrackteile gefunden zu haben, die mit Amelia Earharts Flugzeug übereinstimmen. Es werden auch Ratschläge zur effektiven Nutzung von KI am Arbeitsplatz gegeben.",
-          "summary_easy": "Es gibt neue Ideen für die Forschung auf dem Mond. Man glaubt, Teile von Amelia Earharts Flugzeug gefunden zu haben. Man kann künstliche Intelligenz gut am Arbeitsplatz nutzen.",
+          "headline_en": "National Resilience, Digital Detox, and Literary Debuts",
+          "headline_de": "Nationale Widerstandsfähigkeit, digitale Entgiftung und literarische Debüts",
+          "headline_easy": "Ein Land ist stark. Weniger Handy benutzen. Neue Bücher.",
+          "summary_en": "This compilation includes a piece on Canada's resilience amidst global turmoil, an argument for reducing smartphone usage, and recognition for the best debut novelists of 2026.",
+          "summary_de": "Diese Zusammenstellung enthält einen Beitrag über die Widerstandsfähigkeit Kanadas inmitten globaler Turbulenzen, ein Plädoyer für die Reduzierung der Smartphone-Nutzung und die Auszeichnung der besten Debütautoren des Jahres 2026.",
+          "summary_easy": "Kanada ist gerade stark. Es ist gut, weniger auf dem Handy zu sein. Es gibt neue Bücher von jungen Autoren.",
           "links": [
             {
-              "title": "Science and technology for the Moon",
-              "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Science_and_technology_for_the_Moon"
+              "title": "The world may be going to hell in a handcart, but Canada is not. Not today",
+              "url": "https://biztoc.com/x/3a52f5d673828fa5"
+            },
+            {
+              "title": "Why We Should All Put Down Our Smartphones",
+              "url": "https://lithub.com/why-we-should-all-put-down-our-smartphones/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Naming Farm Animals; Game Release; Market Analysis",
-          "headline_de": "Benennung von Nutztieren; Spiele-Veröffentlichung; Marktanalyse",
-          "headline_easy": "Es gibt eine Idee, Tiere auf Farmen zu benennen. Ein Spiel ist neu erschienen. Es gibt eine Analyse des Marktes.",
-          "summary_en": "A discussion suggests naming pigs and chickens might discourage children from eating meat. The game 'Enshrouded 1.0' has been released and is now Steam Deck Verified. A piece titled 'Remake, Remodel, Remarket' offers insights into market strategies.",
-          "summary_de": "Eine Diskussion legt nahe, dass die Benennung von Schweinen und Hühnern Kinder davon abhalten könnte, Fleisch zu essen. Das Spiel „Enshrouded 1.0“ wurde veröffentlicht und ist nun Steam Deck Verified. Ein Artikel mit dem Titel „Remake, Remodel, Remarket“ bietet Einblicke in Marktstrategien.",
-          "summary_easy": "Manche Leute denken, es ist nicht gut, Tiere zu benennen, wenn man sie isst. Ein neues Spiel ist da. Ein Text gibt Tipps für den Markt.",
+          "headline_en": "Literary History, Gay Rodeos, and Climate Change Discourse",
+          "headline_de": "Literarische Geschichte, Gay Rodeos und Klimawandel-Diskurs",
+          "headline_easy": "Bücher sind alt. Eine besondere Veranstaltung. Angst vor dem Wetter.",
+          "summary_en": "Coverage spans the history of British bookselling, the celebration of gay rodeos, and discussions on how climate fear influences media narratives, specifically regarding uninsurable homes.",
+          "summary_de": "Die Berichterstattung umfasst die Geschichte des britischen Buchhandels, die Feier von Gay Rodeos und Diskussionen darüber, wie Klimafurcht Medienerzählungen beeinflusst, insbesondere in Bezug auf nicht versicherbare Häuser.",
+          "summary_easy": "Man liest über alte Bücher. Es gibt ein Fest für homosexuelle Cowboys. Die Medien reden viel über das Wetter.",
           "links": [
             {
-              "title": "Meet your dinner! Woke scientists say giving pigs and chickens names could put children off eating meat",
-              "url": "https://www.dailymail.com/sciencetech/article-16219893/scientists-giving-pigs-chickens-names-children.html"
-            },
-            {
-              "title": "Remake, Remodel, Remarket",
-              "url": "https://mubi.com/en/notebook/posts/remake-remodel-remarket"
+              "title": "For Fifty Years Gay Rodeos Have Celebrated ‘Rodeo Without Expectations’",
+              "url": "https://goodmenproject.com/featured-content/for-fifty-years-gay-rodeos-have-celebrated-rodeo-without-expectations/"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "Canadian Military Fire; Moon Science & Technology; Amelia Earhart Search",
-          "headline_de": "Brand auf kanadischer Militärbasis; Mondwissenschaft & Technologie; Amelia-Earhart-Suche",
-          "headline_easy": "Ein Feuer auf einer Militärbasis in Kanada. Es gibt Informationen über Wissenschaft und Technik für den Mond. Forscher suchen nach Amelia Earharts Flugzeug.",
-          "summary_en": "A grass fire at a Canadian military base tragically resulted in the deaths of four soldiers. The European Space Agency discusses science and technology for moon exploration. Researchers believe they may have found wreckage consistent with Amelia Earhart's plane.",
-          "summary_de": "Ein Grasbrand auf einer kanadischen Militärbasis führte tragischerweise zum Tod von vier Soldaten. Die Europäische Weltraumorganisation diskutiert Wissenschaft und Technologie für die Mondexploration. Forscher glauben, Wrackteile gefunden zu haben, die mit Amelia Earharts Flugzeug übereinstimmen.",
-          "summary_easy": "Vier Soldaten starben bei einem Feuer auf einer Militärbasis. Es gibt neue Ideen für die Forschung auf dem Mond. Man glaubt, Teile von Amelia Earharts Flugzeug gefunden zu haben.",
+          "headline_en": "VPN Security Patch, National Resilience, and Smartphone Usage",
+          "headline_de": "VPN-Sicherheitsupdate, nationale Widerstandsfähigkeit und Smartphone-Nutzung",
+          "headline_easy": "Ein Programm hat ein Problem. Ein Land ist stark. Weniger Handy benutzen.",
+          "summary_en": "NordVPN has patched a critical Windows bug that allowed attackers to disable system services. The section also includes commentary on Canada's national resilience and a call for reduced smartphone usage.",
+          "summary_de": "NordVPN hat einen kritischen Windows-Fehler behoben, der es Angreifern ermöglichte, Systemdienste zu deaktivieren. Der Abschnitt enthält auch Kommentare zur nationalen Widerstandsfähigkeit Kanadas und einen Aufruf zur Reduzierung der Smartphone-Nutzung.",
+          "summary_easy": "Ein Programm namens NordVPN wurde repariert. Ein Land ist stark. Es ist gut, weniger auf dem Handy zu sein.",
           "links": [
             {
-              "title": "How a grass fire at a Canadian military base killed four soldiers",
-              "url": "https://www.aljazeera.com/news/2026/10/19/how-a-grass-fire-at-a-canadian-military-base-killed-four-soldiers"
+              "title": "NordVPN patches \"clumsy\" Windows bug that let attackers disable system services",
+              "url": "https://www.techradar.com/vpn/vpn-services/nordvpn-patches-clumsy-windows-bug-that-let-attackers-disable-system-services"
             }
           ]
         }
@@ -304,27 +352,27 @@
     "wahlperiode": 21,
     "sitzung": 103,
     "url": "https://dserver.bundestag.de/btp/21/21103.pdf",
-    "summary_en": "The 103rd session of the 21st German Bundestag took place on Friday, October 16, 2026. The agenda included several key topics.  Under Agenda Item 32, the Bundestag debated the \"Early Start Pension\" bill (Entwurf eines Gesetzes zur Einführung einer Frühstartrente), with second and third readings held. Frauke Heiligenstadt (SPD) and Michael Thews (SPD) spoke on the bill. The AfD, represented by Ulrike Schielke-Ziesing, proposed a \"Junior Savings Account\" (Junior-Spardepot) for secure children's pensions. Die Linke, with MPs like Lisa Schubert and Janine Wissler, advocated for strengthening financial education for young people. The CDU/CSU, through speakers like Fritz Güntzler and Dr. Carsten Brodesser, also engaged in the pension and financial education discussions. Agenda Item 33 concerned the long-term financing and reform of long-term care insurance (Pflegeversicherung). Evelyn Schötz (Die Linke) introduced a motion for a \"solidary and needs-based care insurance.\" The CDU/CSU, represented by Axel Müller and Dr. Stefan Korbach, and BÜNDNIS 90/DIE GRÜNEN, with Simone Fischer, presented their proposals for sustainable care reforms. Agenda Item 34 focused on the \"Bureaucracy Reduction in the Transport Sector\" (Gesetz zum Bürokratierückbau im Verkehrsbereich), with Federal Minister Steffen Bilger (BMV) presenting the government's draft. Wolfgang Wiehle (AfD) and Anja Troff-Schaffarzyk (SPD) were among the speakers. Agenda Item 35 involved a BÜNDNIS 90/DIE GRÜNEN motion by Harald Ebner, et al., to \"send a strong signal for the protection of our livelihoods\" at the biodiversity conference in Yerevan. Agenda Item 36 saw the first reading of a government bill to modernize arbitration law and amend civil procedure law regarding international civil proceedings, with Federal Minister Dr. Stefanie Hubig (BMJV) presenting. Finally, Agenda Item 37 featured an AfD motion by Adam Balten, et al., to \"ensure technological openness in the transport sector and end the privileging of electromobility.\"",
-    "summary_de": "Die 103. Sitzung des Deutschen Bundestages der 21. Wahlperiode fand am Freitag, den 16. Oktober 2026 statt. Auf der Tagesordnung standen mehrere wichtige Themen. Unter Tagesordnungspunkt 32 wurde der Entwurf eines Gesetzes zur Einführung einer Frühstartrente in zweiter und dritter Beratung beraten. Frauke Heiligenstadt (SPD) und Michael Thews (SPD) sprachen zu diesem Gesetz. Die AfD, vertreten durch Ulrike Schielke-Ziesing, schlug ein „Junior-Spardepot für eine sichere Rente unserer Kinder“ vor. Die Fraktion Die Linke, mit Abgeordneten wie Lisa Schubert und Janine Wissler, setzte sich für die Stärkung der finanziellen Bildung junger Menschen ein. Die CDU/CSU, durch Redner wie Fritz Güntzler und Dr. Carsten Brodesser, beteiligte sich ebenfalls an den Debatten zu Rente und finanzieller Bildung. Tagesordnungspunkt 33 befasste sich mit der solidarischen und bedarfsgerechten Ausrichtung der Pflegeversicherung und deren zukunftsfester Gestaltung. Evelyn Schötz (Die Linke) brachte einen Antrag für eine „Pflegeversicherung solidarisch und bedarfsgerecht ausrichten“ ein. Die CDU/CSU, vertreten durch Axel Müller und Dr. Stefan Korbach, sowie BÜNDNIS 90/DIE GRÜNEN, mit Simone Fischer, legten ihre Vorschläge für eine nachhaltige Pflegereform vor. Tagesordnungspunkt 34 widmete sich dem „Gesetz zum Bürokratierückbau im Verkehrsbereich“, dessen Regierungsentwurf von Bundesminister Steffen Bilger (BMV) vorgestellt wurde. Wolfgang Wiehle (AfD) und Anja Troff-Schaffarzyk (SPD) gehörten zu den Rednern. Tagesordnungspunkt 35 umfasste einen Antrag von BÜNDNIS 90/DIE GRÜNEN, initiiert von Harald Ebner u.a., um bei der Biodiversitätskonferenz in Jerewan „ein starkes Signal zum Schutz unserer Lebensgrundlagen zu setzen“. Bei Tagesordnungspunkt 36 erfolgte die erste Beratung eines Gesetzesentwurfs der Bundesregierung zur Modernisierung des Schiedsverfahrensrechts, vorgestellt von Bundesministerin Dr. Stefanie Hubig (BMJV). Abschließend beinhaltete Tagesordnungspunkt 37 einen Antrag der AfD von Adam Balten u.a. zur „Technologieoffenheit im Verkehrssektor gewährleisten – Privilegierung der Elektromobilität beenden“.",
-    "summary_easy": "Am Freitag, 16. Oktober 2026, gab es eine Sitzung im Bundestag. Die Abgeordneten sprachen über viele wichtige Themen. Ein wichtiges Thema war die \"Frühstartrente\". Das ist eine Rente für Menschen, die früher anfangen zu arbeiten. Die SPD-Abgeordneten Frauke Heiligenstadt und Michael Thews sprachen darüber. Die AfD-Partei wollte ein Sparkonto für Kinder für ihre Rente. Die Linke-Partei sprach über bessere Finanz-Bildung für junge Leute. Es gab auch eine Debatte über die Pflegeversicherung. Evelyn Schötz von Die Linke wollte eine faire Pflegeversicherung. Die Grünen und die CDU/CSU hatten auch Ideen für die Pflege. Ein anderes Thema war weniger Bürokratie im Verkehr. Bundesminister Steffen Bilger stellte einen Gesetzes-Vorschlag vor. Die AfD-Partei sprach sich gegen E-Autos als einzige Lösung aus. Es ging auch um ein neues Gesetz für Schiedsverfahren.",
+    "summary_en": "On Friday, October 16, 2026, the German Bundestag convened for its 103rd session of the 21st legislative period. The session began with an expansion of the agenda, followed by discussions on several key legislative proposals and motions.  The primary focus was on the \"Early Start Pension\" bill, with a second and third reading, following reports from the Budget Committee and the Finance Committee. Debates also covered a motion for a \"Junior Savings Depot\" from the AfD, advocated by Ulrike Schielke-Ziesing, and a motion for \"Strengthening Financial Education\" from Die Linke, presented by Lisa Schubert and Nicole Gohlke.  The Bundestag also addressed the \"Care Insurance\" issue, with a motion for a \"Solidary and Needs-Based Care Insurance\" from Die Linke (Evelyn Schötz) and a motion for a \"Sustainable Care Reform\" from Bündnis 90/Die Grünen (Simone Fischer).  A motion on \"No Benefit Cuts in Care\" was also considered.  Furthermore, the first reading of a bill to modernize arbitration law and international civil procedure law took place, with Dr. Stefanie Hubig, Federal Minister BMJV, speaking.  Discussions also included a bill for bureaucracy reduction in the transport sector, with Federal Minister BMV Steffen Bilger presenting, and a motion for \"Technology Openness in the Transport Sector\" from the AfD (Adam Balten), advocating against the \"privileging of electromobility.\" Finally, a motion for a \"strong signal for the protection of our livelihoods\" at the World Biodiversity Conference in Yerevan was debated.",
+    "summary_de": "Am Freitag, den 16. Oktober 2026, trat der Deutsche Bundestag zu seiner 103. Sitzung der 21. Wahlperiode zusammen. Die Sitzung begann mit einer Erweiterung der Tagesordnung, gefolgt von Beratungen zu mehreren zentralen Gesetzesvorhaben und Anträgen.  Der Hauptschwerpunkt lag auf dem Gesetz zur \"Einführung einer Frühstartrente\" in zweiter und dritter Beratung, nach Berichten des Haushaltsausschusses und des Finanzausschusses.  Debatten umfassten auch einen Antrag der AfD für ein \"Junior-Spar-Depot\", vertreten durch Ulrike Schielke-Ziesing, und einen Antrag von Die Linke zur \"Finanziellen Bildung stärken\", eingebracht von Lisa Schubert und Nicole Gohlke.  Der Bundestag befasste sich zudem mit der \"Pflegeversicherung\", mit einem Antrag von Die Linke für eine \"solida-rische und bedarfsgerechte Pflegeversicherung\" (Evelyn Schötz) und einem Antrag von Bündnis 90/Die Grünen für eine \"nachhaltige Pflegereform\" (Simone Fischer).  Auch ein Antrag zu \"Keine Leistungskürzungen in der Pflege\" wurde beraten.  Des Weiteren fand die erste Beratung eines Gesetzes zur Modernisierung des Schiedsverfahrensrechts und des internationalen Zivilverfahrensrechts statt, zu dem Bundesministerin BMJV Dr. Stefanie Hubig sprach.  Diskutiert wurden auch ein Gesetz zum \"Bürokratierückbau im Verkehrsbereich\", vorgestellt von Bundesminister BMV Steffen Bilger, und ein Antrag der AfD zur \"Technologieoffenheit im Verkehrssektor\" (Adam Balten), der gegen die \"Privilegierung der Elektromobilität\" argumentierte. Abschließend wurde ein Antrag für ein \"starkes Signal zum Schutz unserer Lebensgrundlagen\" bei der Weltbiodiversitätskonferenz in Jerewan erörtert.",
+    "summary_easy": "Der Bundestag traf sich am 16. Oktober 2026. Es gab viele Themen. Ein wichtiges Thema war die neue \"Frühstartrente\". Abgeordnete sprachen darüber. Die AfD wollte ein \"Spar-Depot für Kinder\". Die Linke sprach über \"bessere Finanzbildung\". Es gab auch Diskussionen über die \"Pflegeversicherung\". Die Grünen und Die Linke hatten Vorschläge für die Pflege. Ein Gesetz zur \"weniger Bürokratie\" im Verkehr wurde besprochen. Die AfD sprach über \"Technik im Verkehr\". Sie sind gegen die Bevorzugung von Elektroautos. Ein Antrag zum \"Schutz der Umwelt\" wurde auch besprochen.",
     "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact_en": "During the French Revolution, fashion became a potent tool of political expression. To show allegiance to the revolution, people would wear the 'tricolore' cockade, a rosette of red, white, and blue ribbons, and adopt simpler clothing styles, rejecting the elaborate aristocratic fashions of the Ancien Régime. The 'sans-culottes,' or those without knee-breeches, became a symbol of the working class and revolutionary fervor.",
-      "fact_de": "Während der Französischen Revolution wurde Mode zu einem wirkungsvollen Mittel des politischen Ausdrucks. Um die Loyalität zur Revolution zu zeigen, trugen die Menschen die „Trikolore“-Kokarde, eine Rosette aus roten, weißen und blauen Bändern, und übernahmen einfachere Kleidungsstile, um die aufwendige aristokratische Mode des Ancien Régime abzulehnen. Die „Sans-Culottes“, also diejenigen ohne Kniebundhosen, wurden zu einem Symbol der Arbeiterklasse und der revolutionären Inbrunst.",
-      "fact_easy": "In der Französischen Revolution war Kleidung wichtig. Menschen trugen die Farben der Revolution: rot, weiß und blau. Sie wollten nicht mehr so teure Kleidung wie früher tragen. Das war ein Zeichen dafür, dass sie die Revolution unterstützten.",
-      "category": "Fashion",
-      "source_title": "Fashion and Revolution",
-      "source_url": "https://www.lofficielusa.com/fashion/fashion-and-revolution-marie-antoinette-national-assembly-french-revolution-sans-culottes"
+      "fact_en": "During the French Revolution, the color sans-culotte blue became a symbol of radical politics. This hue was adopted by the sans-culottes, the common people who were the driving force behind the revolution, distinguishing them from the aristocratic colors of the Ancien Régime.",
+      "fact_de": "Während der Französischen Revolution wurde die Farbe Sans-culotte-Blau zu einem Symbol radikaler Politik. Dieser Farbton wurde von den Sans-culottes, dem einfachen Volk und der treibenden Kraft der Revolution, übernommen und unterschied sie von den aristokratischen Farben des Ancien Régime.",
+      "fact_easy": "Blau war ein Symbol der Französischen Revolution. Die einfachen Leute trugen blau, um sich von den Reichen zu unterscheiden.",
+      "category": "Politics",
+      "source_title": "The French Revolution and the Sans-culottes",
+      "source_url": "https://www.britannica.com/event/French-Revolution"
     },
     {
-      "fact_en": "The ancient city of Petra in Jordan was not just a trade hub but also had an intricate water management system that allowed it to thrive in an arid desert. The Nabataeans engineered sophisticated dams, cisterns, and aqueducts carved directly into the sandstone rock. This allowed them to collect and store rainwater, providing a reliable water supply for a large population and lush gardens, a remarkable feat of ancient engineering.",
-      "fact_de": "Die antike Stadt Petra in Jordanien war nicht nur ein Handelsknotenpunkt, sondern verfügte auch über ein ausgeklügeltes Wassermanagementsystem, das es ihr ermöglichte, in einer trockenen Wüste zu gedeihen. Die Nabatäer konstruierten ausgeklügelte Dämme, Zisternen und Aquädukte, die direkt in den Sandsteinfelsen gehauen wurden. Dies ermöglichte ihnen das Sammeln und Speichern von Regenwasser, was eine zuverlässige Wasserversorgung für eine große Bevölkerung und üppige Gärten sicherstellte, eine bemerkenswerte Leistung antiker Ingenieurskunst.",
-      "fact_easy": "Petra war eine alte Stadt in Jordanien. Dort gab es sehr gutes Wasser-Management. Die Menschen bauten Dämme und Kanäle in den Stein. So konnten sie Wasser sammeln und speichern. Das war wichtig für die Stadt und die Gärten.",
+      "fact_en": "The tradition of wearing a white wedding dress is largely attributed to Queen Victoria's choice to wear a white satin gown for her marriage to Prince Albert in 1840. Before this, brides often wore colorful dresses, but Victoria's choice popularized white as a symbol of purity and wealth.",
+      "fact_de": "Die Tradition, ein weißes Hochzeitskleid zu tragen, wird größtenteils auf die Wahl von Königin Victoria zurückgeführt, die 1840 für ihre Hochzeit mit Prinz Albert ein weißes Satinbrautkleid trug. Davor trugen Bräute oft bunte Kleider, aber Victorias Wahl machte Weiß als Symbol für Reinheit und Reichtum populär.",
+      "fact_easy": "Königin Victoria trug als Erste ein weißes Hochzeitskleid. Danach wurde Weiß für Hochzeiten sehr beliebt.",
       "category": "Traditions",
-      "source_title": "Ancient Petra: The Ingenious Water System of the Nabataeans",
-      "source_url": "https://www.ancient-origins.net/ancient-places-asia/petra-water-system-0012934"
+      "source_title": "Queen Victoria's Wedding Dress",
+      "source_url": "https://www.royal.uk/royal-weddings-through-history"
     }
   ],
   "frankfurt": {
@@ -332,68 +380,141 @@
       {
         "type": "Events",
         "emoji": "🎪",
-        "headline_en": "Train driver misses stop in Fulda, passengers sent back",
-        "headline_de": "Zugführer verpasst Halt in Fulda, Reisende müssen zurückfahren",
-        "headline_easy": "Ein Zugführer hat einen Halt in Fulda verpasst. Die Fahrgäste mussten zurückfahren.",
-        "summary_en": "An ICE train traveling from Frankfurt am Main to Berlin overshot its stop in Fulda. The train conductor only realized the mistake in Hünfeld, forcing passengers to travel back to Fulda.",
-        "summary_de": "Ein ICE von Frankfurt am Main nach Berlin hat den Halt in Fulda verpasst. Erst in Hünfeld stoppte der Zugführer, weshalb die Reisenden nach Fulda zurückfahren mussten.",
-        "summary_easy": "Ein Zug war von Frankfurt nach Berlin unterwegs. Der Lokführer hat in Fulda nicht gehalten. Er fuhr weiter bis nach Hünfeld. Die Leute mussten zurückfahren.",
+        "headline_en": "Animal rights activists criticize Frankfurt's pigeon feeding policy",
+        "headline_de": "Tierschützer kritisieren Frankfurts Tauben-Fütterungspolitik",
+        "headline_easy": "Tierschützer sagen: Frankfurt füttert Tauben nicht genug.",
+        "summary_en": "Animal rights activists are criticizing Frankfurt's approach to its estimated 10,500 city pigeons, arguing the city is not feeding them sufficiently. The disagreement highlights differing views on how to manage the urban bird population.",
+        "summary_de": "Tierschützer kritisieren den Umgang Frankfurts mit seinen schätzungsweise 10.500 Stadttauben und argumentieren, die Stadt füttere sie nicht ausreichend. Die Meinungsverschiedenheit unterstreicht unterschiedliche Ansichten über die Verwaltung der städtischen Vogelpopulation.",
+        "summary_easy": "Es gibt Streit über Tauben in Frankfurt. Tierschützer sagen, die Stadt gibt den Tauben nicht genug Futter. Die Stadt und die Tierschützer sehen das anders.",
         "links": [
           {
-            "title": "Bahnpanne: Zugführer verpasst Halt in Fulda",
-            "url": "https://www.welt.de/videos/video6ad5db09843996518cba598d/bahnpanne-zugfuehrer-verpasst-halt-in-fulda.html"
+            "title": "Kritik von Tierschützern: „Frankfurt füttert seine Tauben nicht genug“",
+            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/streit-um-stadttauben-funktioniert-frankfurts-taubenhaus-konzept-accg-201601945.html"
           }
         ]
       },
       {
         "type": "Crime",
         "emoji": "🚔",
-        "headline_en": "EU Parliament pushes for stronger passenger rights amid delays and cancellations",
-        "headline_de": "EU-Parlament will Fahrgastrechte stärken bei Verspätungen und Ausfällen",
-        "headline_easy": "Das EU-Parlament will Reisende besser schützen. Es geht um verspätete Züge und ausgefallene Flüge.",
-        "summary_en": "The European Parliament is working to strengthen passenger rights, especially concerning delays and cancellations. Travelers are to receive full refunds, including any booking fees, and intermediaries must clearly inform about refund procedures in advance.",
-        "summary_de": "Das EU-Parlament setzt sich für stärkere Fahrgastrechte bei Verspätungen und Ausfällen ein. Reisende sollen den vollen Preis inklusive Vermittlungsgebühren zurückbekommen. Vermittler müssen vorab über Rückerstattungen informieren.",
-        "summary_easy": "Das EU-Parlament hat neue Regeln. Reisende sollen mehr Geld zurückbekommen. Wenn Züge spät sind oder nicht fahren, bekommen sie den ganzen Preis zurück. Auch die Gebühren für die Buchung.",
+        "headline_en": "Eintracht Frankfurt plans for a new stadium as current one reaches its expiration date",
+        "headline_de": "Eintracht Frankfurt plant neues Stadion, da aktuelle Spielstätte ihr Ablaufdatum erreicht",
+        "headline_easy": "Eintracht Frankfurt will ein neues Stadion bauen.",
+        "summary_en": "Eintracht Frankfurt's chairman, Axel Hellmann, has prioritized the construction of a new stadium, stating the current venue has a clear expiration date. The club's future success is seen as dependent on a new arena.",
+        "summary_de": "Frankfurts Vorstandsvorsitzender Axel Hellmann hat den Bau eines neuen Stadions zur höchsten Priorität erklärt. Die aktuelle Spielstätte habe ein klares Ablaufdatum, und das Wohl des Vereins hänge von einer neuen Arena ab.",
+        "summary_easy": "Das Stadion von Eintracht Frankfurt ist alt. Der Chef von Eintracht Frankfurt sagt, der Verein braucht ein neues Stadion. Das ist wichtig für die Zukunft des Vereins.",
         "links": [
           {
-            "title": "Verspätungen und Ausfälle: EU-Parlament will Fahrgastrechte stärken",
-            "url": "https://www.derstandard.at/story/3000000344831/verspaetungen-und-ausfaelle-eu-parlament-will-fahrgastrechte-staerken"
+            "title": "Arena wurde zur WM 2006 eröffnet – warum Frankfurt schon wieder ein neues Stadion plant",
+            "url": "https://www.welt.de/sport/fussball/bundesliga/eintracht-frankfurt/article6ad71d22199dc15f1abda2ab/bis-zu-80-000-plaetze-warum-eintracht-frankfurt-ein-neues-stadion-braucht.html"
+          },
+          {
+            "title": "Revolutionärer Plan - Frankfurt-Boss kündigt neues Stadion an",
+            "url": "https://www.bild.de/sport/fussball/eintracht-frankfurt-hellmanns-revolutionaerer-stadion-plan-6ad6680d5e327b030a8554d8"
           }
         ]
       },
       {
         "type": "Sales & Offers",
         "emoji": "🛍️",
-        "headline_en": "Architectural Museum showcases transformation ideas for high-rise buildings",
-        "headline_de": "Architekturmuseum zeigt Ideen zur Umwandlung von Hochhäusern",
-        "headline_easy": "Das Architekturmuseum in Frankfurt zeigt neue Ideen. Es geht darum, alte Hochhäuser umzubauen.",
-        "summary_en": "The German Architecture Museum in Frankfurt is exhibiting innovative concepts for repurposing older high-rise buildings. Ideas include creating vertical parks or open ground floors accessible for public passage.",
-        "summary_de": "Im Deutschen Architekturmuseum in Frankfurt werden Pläne gezeigt, wie ältere Hochhäuser umgewandelt werden können. Vorgeschlagen werden beispielsweise vertikale Parks oder offene Sockelbereiche zum Durchqueren.",
-        "summary_easy": "Es gibt eine Ausstellung in Frankfurt. Man kann sehen, wie man alte Hochhäuser neu machen kann. Zum Beispiel kann man einen Garten nach oben bauen. Oder den unteren Teil offen machen.",
+        "headline_en": "Eintracht Frankfurt announces plans for a new stadium",
+        "headline_de": "Eintracht Frankfurt kündigt Pläne für neues Stadion an",
+        "headline_easy": "Eintracht Frankfurt plant ein neues Stadion.",
+        "summary_en": "Axel Hellmann, the chairman of Eintracht Frankfurt, has revealed plans for a new stadium, emphasizing its importance for the club's future. The current stadium, opened for the 2006 World Cup, is considered to have reached its end of life.",
+        "summary_de": "Axel Hellmann, Vorstandsvorsitzender von Eintracht Frankfurt, hat Pläne für ein neues Stadion vorgestellt und dessen Bedeutung für die Zukunft des Vereins betont. Das aktuelle Stadion, das zur WM 2006 eröffnet wurde, hat sein Ende erreicht.",
+        "summary_easy": "Der Chef von Eintracht Frankfurt, Axel Hellmann, hat gesagt, dass der Verein ein neues Stadion bekommen soll. Das alte Stadion ist nicht mehr gut genug. Ein neues Stadion ist wichtig für Eintracht Frankfurt.",
         "links": [
           {
-            "title": "Deutsches Architekturmuseum: Wie sich Hochhäuser verwandeln lassen",
-            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurter-hochhaeuser-ausstellung-zeigt-ideen-zur-umnutzung-accg-201596771.html"
+            "title": "Arena wurde zur WM 2006 eröffnet – warum Frankfurt schon wieder ein neues Stadion plant",
+            "url": "https://www.welt.de/sport/fussball/bundesliga/eintracht-frankfurt/article6ad71d22199dc15f1abda2ab/bis-zu-80-000-plaetze-warum-eintracht-frankfurt-ein-neues-stadion-braucht.html"
+          },
+          {
+            "title": "Revolutionärer Plan - Frankfurt-Boss kündigt neues Stadion an",
+            "url": "https://www.bild.de/sport/fussball/eintracht-frankfurt-hellmanns-revolutionaerer-stadion-plan-6ad6680d5e327b030a8554d8"
           }
         ]
       },
       {
         "type": "Local News",
         "emoji": "📍",
-        "headline_en": "Candidates emerge for Eintracht Frankfurt's Sporting Director role after Krösche's departure",
-        "headline_de": "Kandidaten für Nachfolge von Eintracht-Sportvorstand Krösche gesucht",
-        "headline_easy": "Markus Krösche verlässt Eintracht Frankfurt. Jetzt suchen sie einen neuen Sport-Vorstand.",
-        "summary_en": "Following Markus Krösche's resignation as Sporting Director of Eintracht Frankfurt, potential candidates are being discussed. The article provides an overview of individuals who could potentially fill the role and align with the club's new strategic direction.",
-        "summary_de": "Nach dem Rücktritt von Markus Krösche als Sport-Vorstand von Eintracht Frankfurt werden mögliche Nachfolger diskutiert. Ein Überblick zeigt Kandidaten, die zum neuen Kurs des Vereins passen könnten.",
-        "summary_easy": "Markus Krösche ist nicht mehr Sport-Vorstand bei Eintracht Frankfurt. Es wird über neue Leute gesprochen, die diesen Job machen könnten. Die Liste zeigt, wer zum neuen Plan des Vereins passen würde.",
+        "headline_en": "Eintracht Frankfurt eyes new stadium as current venue nears end-of-life",
+        "headline_de": "Eintracht Frankfurt plant neues Stadion, da aktuelle Spielstätte bald abläuft",
+        "headline_easy": "Eintracht Frankfurt möchte ein neues Stadion bauen.",
+        "summary_en": "Eintracht Frankfurt's chairman, Axel Hellmann, has announced the club's top priority is a new stadium, as the current facility, built for the 2006 World Cup, is nearing the end of its operational life. The club believes a new arena is crucial for its future well-being.",
+        "summary_de": "Der Vorstandsvorsitzende von Eintracht Frankfurt, Axel Hellmann, hat angekündigt, dass ein neues Stadion oberste Priorität hat. Die aktuelle Spielstätte aus dem Jahr 2006 hat ihr Ablaufdatum erreicht, und der Verein ist der Ansicht, dass eine neue Arena für das Wohl des Vereins entscheidend ist.",
+        "summary_easy": "Eintracht Frankfurt will ein neues Stadion bauen. Der Chef des Vereins sagt, das alte Stadion ist zu alt. Ein neues Stadion ist sehr wichtig für den Verein.",
         "links": [
           {
-            "title": "Nach Bosse-Beben in Frankfurt - Das sind die Kandidaten für die Krösche-Nachfolge",
-            "url": "https://www.bild.de/sport/fussball/eintracht-frankfurt-das-sind-die-kandidaten-fuer-die-kroesche-nachfolge-6ad5c5a8de9d7a845942b06f"
+            "title": "Arena wurde zur WM 2006 eröffnet – warum Frankfurt schon wieder ein neues Stadion plant",
+            "url": "https://www.welt.de/sport/fussball/bundesliga/eintracht-frankfurt/article6ad71d22199dc15f1abda2ab/bis-zu-80-000-plaetze-warum-eintracht-frankfurt-ein-neues-stadion-braucht.html"
+          },
+          {
+            "title": "Revolutionärer Plan - Frankfurt-Boss kündigt neues Stadion an",
+            "url": "https://www.bild.de/sport/fussball/eintracht-frankfurt-hellmanns-revolutionaerer-stadion-plan-6ad6680d5e327b030a8554d8"
           }
         ]
       }
     ]
   },
-  "dresden": []
+  "dresden": [
+    {
+      "price": "360 €",
+      "address": "Mittelweg 15, 01156 Dresden",
+      "district": "Gorbitz-Süd",
+      "size": "35",
+      "rooms": "1.5",
+      "title": "Schöne 1.5-Zimmer-Wohnung in Dresden Gorbitz-Süd",
+      "url": "https://www.immowelt.de/expose/2BFG74X",
+      "source": "Immowelt"
+    },
+    {
+      "price": "390 €",
+      "address": "Schandauer Straße 59, 01277 Dresden",
+      "district": "Striesen-Süd",
+      "size": "40",
+      "rooms": "1.5",
+      "title": "Helle 1,5 Zimmer Wohnung in Dresden Striesen-Süd",
+      "url": "https://www.immobilienscout24.de/expose/143560267",
+      "source": "Immoscout24"
+    },
+    {
+      "price": "410 €",
+      "address": "Dornblüthstraße 27, 01277 Dresden",
+      "district": "Striesen-Süd",
+      "size": "45",
+      "rooms": "2",
+      "title": "Gemütliche 2-Zimmer-Wohnung in ruhiger Lage",
+      "url": "https://www.immowelt.de/expose/2C4H74W",
+      "source": "Immowelt"
+    },
+    {
+      "price": "420 €",
+      "address": "Bergmannstraße 10, 01279 Dresden",
+      "district": "Seidnitz-Nord",
+      "size": "42",
+      "rooms": "1.5",
+      "title": "1,5 Zimmer Wohnung in Dresden Seidnitz-Nord",
+      "url": "https://www.immobilienscout24.de/expose/144340247",
+      "source": "Immoscout24"
+    },
+    {
+      "price": "435 €",
+      "address": "Käthe-Kollwitz-Platz 1, 01307 Dresden",
+      "district": "Striesen-Ost",
+      "size": "48",
+      "rooms": "2",
+      "title": "Sonnige 2-Zimmer-Wohnung Nähe Käthe-Kollwitz-Platz",
+      "url": "https://www.immowelt.de/expose/2BXY74F",
+      "source": "Immowelt"
+    },
+    {
+      "price": "440 €",
+      "address": "Fritz-Reuter-Straße 2, 01309 Dresden",
+      "district": "Striesen-West",
+      "size": "50",
+      "rooms": "2",
+      "title": "2 Zimmer Wohnung in Dresden Striesen-West",
+      "url": "https://www.immobilienscout24.de/expose/143123789",
+      "source": "Immoscout24"
+    }
+  ]
 }
