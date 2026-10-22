@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, October 21 2026",
+  "date": "Thursday, October 22 2026",
   "sections": [
     {
       "category": "Germany",
@@ -8,60 +8,76 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "AfD Confirms Hack, Genghis Khan's Legacy Examined, MotoGP Rider Injured",
-          "headline_de": "AfD bestätigt Hack, Ghenghis Khans Erbe wird untersucht, MotoGP-Fahrer verletzt",
-          "headline_easy": "AfD sagt: Hacker sind da. Wir reden über Ghenghis Khan. Ein Rennfahrer ist verletzt.",
-          "summary_en": "The Alternative for Germany party has confirmed a hack resulting in the leak of over 421,000 emails. Elsewhere, Genghis Khan's complex legacy as a brutal yet revolutionary empire builder is being explored. In sports, Toprak Razgatlioglu will miss the rest of the MotoGP season due to a shoulder injury.",
-          "summary_de": "Die Partei Alternative für Deutschland hat einen Hack bestätigt, bei dem über 421.000 E-Mails veröffentlicht wurden. Andernorts wird das komplexe Erbe von Ghenghis Khan als brutaler, aber revolutionärer Reichsgründer untersucht. Im Sport wird Toprak Razgatlioglu wegen einer Schulterverletzung den Rest der MotoGP-Saison verpassen.",
-          "summary_easy": "Die AfD hat einen Hack bestätigt. Viele E-Mails sind jetzt im Internet. Wir lernen etwas über Ghenghis Khan. Ein Sportler namens Toprak ist verletzt und kann nicht mehr fahren.",
+          "headline_en": "UEFA Champions League Focus: Arsenal vs. Bayern Munich and Füllkrug's Fitness",
+          "headline_de": "Fokus auf die UEFA Champions League: Arsenal gegen Bayern München und Füllkrugs Fitness",
+          "headline_easy": "Fußball: Arsenal spielt gegen Bayern. Ein anderer Artikel spricht über einen Fußballer namens Füllkrug.",
+          "summary_en": "This section highlights upcoming UEFA Champions League action, focusing on Arsenal's challenge against Bayern Munich's depth. Additionally, it delves into Werder Bremen's strategy for keeping striker Füllkrug in top form.",
+          "summary_de": "Dieser Abschnitt beleuchtet bevorstehende Spiele in der UEFA Champions League, mit dem Fokus auf das Duell zwischen Arsenal und der Tiefe des Kaders von Bayern München. Außerdem wird Werder Bremens Strategie zur Erhaltung der Fitness von Stürmer Füllkrug thematisiert.",
+          "summary_easy": "Fußballfans können sich auf Spiele der Champions League freuen. Arsenal spielt gegen Bayern. Ein anderer Artikel erklärt, wie ein Spieler namens Füllkrug fit bleibt.",
           "links": [
             {
-              "title": "Alternative for Germany confirms hack after 421,000 emails leaked online",
-              "url": "https://www.thelocal.de/20261020/alternative-for-germany-confirms-hack-after-421000-emails-leaked-online"
+              "title": "What to watch in UEFA Champions League: Arsenal to test Bayern Munich's depth",
+              "url": "https://www.cbssports.com/soccer/news/what-to-watch-in-uefa-champions-league-arsenal-to-test-bayern-munichs-depth/"
             },
             {
-              "title": "Brutal, revolutionary empire builder: Genghis Khan's legacy",
-              "url": "https://www.dw.com/en/brutal-revolutionary-empire-builder-genghis-khans-legacy/a-79697112"
+              "title": "Inside Werder’s approach to keeping Füllkrug fit and firing",
+              "url": "https://bulinews.com/inside-werder-approach-keeping-fullkrug-fit-and-firing"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "AfD Email Leak, Andy Burnham's Policies, and Genghis Khan's Empire",
-          "headline_de": "AfD-E-Mail-Leak, Andy Burnhams Politik und Ghenghis Khans Reich",
-          "headline_easy": "AfD E-Mails sind weg. Andy Burnham spricht über Sozialismus. Ghenghis Khan war stark.",
-          "summary_en": "Following a hack that leaked over 421,000 emails, the Alternative for Germany party is in the spotlight. Discussions also touch upon the potential socialism of Andy Burnham, and the historical impact of Genghis Khan's empire.",
-          "summary_de": "Nach einem Hack, bei dem über 421.000 E-Mails veröffentlicht wurden, steht die Partei Alternative für Deutschland im Fokus. Diskussionen berühren auch den möglichen Sozialismus von Andy Burnham und die historischen Auswirkungen des Reiches von Ghenghis Khan.",
-          "summary_easy": "Viele E-Mails von der AfD sind jetzt öffentlich. Ein Mann namens Andy Burnham redet über soziale Ideen. Ghenghis Khan war ein wichtiger Herrscher und baute ein großes Reich.",
+          "headline_en": "European Data Centers and Climate Goals, and a Financial Roundup",
+          "headline_de": "Europäische Rechenzentren und Klimaziele, sowie ein Finanzüberblick",
+          "headline_easy": "Artikel über Datenzentren in Europa und das Klima. Ein anderer Artikel ist eine Nachrichtenzusammenfassung für Deutschland.",
+          "summary_en": "A key business concern explored is Europe's ability to develop data centers without compromising climate goals. The section also includes a general roundup of the latest business and financial news from Germany.",
+          "summary_de": "Eine wichtige geschäftliche Sorge ist die Fähigkeit Europas, Rechenzentren zu entwickeln, ohne die Klimaziele zu gefährden. Der Abschnitt enthält auch eine allgemeine Zusammenfassung der neuesten Wirtschafts- und Finanznachrichten aus Deutschland.",
+          "summary_easy": "Es gibt eine Diskussion darüber, ob Europa mehr Datenzentren bauen kann und dabei das Klima schützt. Es gibt auch eine Übersicht über die neuesten Nachrichten aus Deutschland.",
           "links": [
             {
-              "title": "The Possible Socialism of Andy Burnham",
-              "url": "https://prospect.org/2026/10/20/andy-burnham-britain-labour-party-prime-minister/"
+              "title": "Can Europe Build Data Centers Without Giving Up Its Climate Goals?",
+              "url": "https://www.wired.com/story/europe-data-centers-climate-change/"
             },
             {
-              "title": "Domino's Pizza Enterprises Shares Rise 4.2% as Turnaround Under New CEO Lifts Stock Nearly 47% in a Year",
-              "url": "https://www.ibtimes.com.au/dominos-pizza-enterprises-shares-business-reset-1877016"
+              "title": "Today in Germany: A roundup of the latest news on Wednesday",
+              "url": "https://www.thelocal.de/2026/10/21/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-143"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Crime Thriller Series and Football News",
+          "headline_de": "Krimiserie und Fußballnachrichten",
+          "headline_easy": "Ein Artikel über eine neue Krimiserie. Ein anderer über Fußball.",
+          "summary_en": "This section includes information on a new crime thriller series, 'Vigilant,' set to be directed by Kari Skogland. It also features sports news related to the UEFA Champions League and player fitness.",
+          "summary_de": "Diese Sektion enthält Informationen über eine neue Krimiserie, 'Vigilant', die von Kari Skogland inszeniert wird. Sie enthält auch Sportnachrichten über die UEFA Champions League und die Fitness von Spielern.",
+          "summary_easy": "Ein neuer Krimi wird gedreht. Außerdem gibt es Nachrichten über Fußballspiele und wie Spieler fit bleiben.",
+          "links": [
+            {
+              "title": "Kari Skogland To Direct Vigilante Crime Thriller ‘Vigilant’ From ‘Severance’ Star Ólafur Darri Ólafsson",
+              "url": "http://deadline.com/2026/10/kari-skogland-direct-vigilant-series-olafur-darri-olafsson-1237169507/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Greek Market Buzz, Disco Divas, and Domino's Performance",
-          "headline_de": "Griechischer Markt-Trubel, Disco-Diven und Domino's Leistung",
-          "headline_easy": "Geld-Nachrichten aus Griechenland. Musik-Stars. Domino's Pizza geht es gut.",
-          "summary_en": "This section covers diverse financial and cultural news, including developments in the Greek market, the history of disco divas Boney M., and the strong stock performance of Domino's Pizza Enterprises under its new CEO.",
-          "summary_de": "Dieser Abschnitt behandelt verschiedene Finanz- und Kultur-Nachrichten, darunter Entwicklungen auf dem griechischen Markt, die Geschichte der Disco-Diven Boney M. und die starke Aktienentwicklung von Domino's Pizza Enterprises unter seinem neuen CEO.",
-          "summary_easy": "Hier gibt es Nachrichten über Geld. Es geht um Griechenland und eine Pizza-Firma. Auch eine alte Musikgruppe wird vorgestellt.",
+          "headline_en": "IPO Alert and Corporate Sustainability Award",
+          "headline_de": "Börsengang-Alarm und Auszeichnung für Unternehmensnachhaltigkeit",
+          "headline_easy": "Ein neuer Börsengang. Eine Firma bekommt eine Auszeichnung.",
+          "summary_en": "This segment covers a significant IPO for Bonfiglioli Transmissions, with early signals of a strong listing gain. It also highlights WuXi Biologics receiving a top award for corporate sustainability.",
+          "summary_de": "Dieses Segment befasst sich mit einem bedeutenden Börsengang von Bonfiglioli Transmissions, mit ersten Anzeichen für einen starken Listing-Gewinn. Es hebt auch hervor, dass WuXi Biologics eine Top-Auszeichnung für Unternehmensnachhaltigkeit erhalten hat.",
+          "summary_easy": "Es gibt einen neuen Börsengang. Eine Firma namens Bonfiglioli könnte gut starten. Eine andere Firma, WuXi Biologics, hat eine Auszeichnung für Nachhaltigkeit bekommen.",
           "links": [
             {
-              "title": "Alexis back in the café, Samaras tearing up the bailout playbook – and forget the US elections, Greece has its own Champions League battle: PerCapita, Alafouzos, Giannakopoulos and Netflix?",
-              "url": "https://en.protothema.gr/2026/10/20/alexis-back-in-the-cafe-samaras-tearing-up-the-bailout-playbook-and-forget-the-us-elections-greece-has-its-own-champions-league-battle-percapita-alafouzos-giannakopoulos-and-netflix/"
+              "title": "Bonfiglioli Transmissions IPO allotment today; GMP signals 23% listing gain. Here's how to check status",
+              "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/bonfiglioli-transmissions-ipo-allotment-today-gmp-signals-23-listing-gain-heres-how-to-check-status/articleshow/135085756.cms"
             },
             {
-              "title": "The strange but true story of the Daddy Cool disco divas",
-              "url": "https://www.irishtimes.com/culture/music/2026/10/20/boney-m-the-strange-but-true-story-of-the-daddy-cool-disco-divas/"
+              "title": "WuXi Biologics Receives Top-Honor Jade Award at The Asset Corporate Sustainability Leadership Awards 2026",
+              "url": "https://www.prnewswire.com/news-releases/wuxi-biologics-receives-top-honor-jade-award-at-the-asset-corporate-sustainability-leadership-awards-2026-302915102.html"
             }
           ]
         }
@@ -74,56 +90,52 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Superfood Discovery, International Law, and Online Scams",
-          "headline_de": "Superfood-Entdeckung, Völkerrecht und Online-Betrügereien",
-          "headline_easy": "Ein besonderes Essen. Recht für Länder. Wie man Betrügern nicht glaubt.",
-          "summary_en": "News highlights include the discovery of a nutrient-rich superfood from the Nubra Valley, a speech on international law in London, and advice on identifying online scams to protect consumers.",
-          "summary_de": "Zu den Nachrichten gehören die Entdeckung eines nährstoffreichen Superfoods aus dem Nubra-Tal, eine Rede zum Völkerrecht in London und Ratschläge zur Erkennung von Online-Betrügereien zum Schutz der Verbraucher.",
-          "summary_easy": "Man findet ein neues Super-Essen. Es gibt eine Rede über Gesetze für Länder. Man lernt, wie man gefährliche Werbung erkennt.",
+          "headline_en": "Global Order, Trade Relations, and Football Highlights",
+          "headline_de": "Globale Ordnung, Handelsbeziehungen und Fußball-Highlights",
+          "headline_easy": "Artikel über die Weltordnung, China und Fußball.",
+          "summary_en": "Discussions revolve around the role of 'bridge-builders' like Singapore and Sweden in a potentially fragmented world order. Trade relations with China and its impact on technology are also examined, alongside sports news from the UEFA Champions League.",
+          "summary_de": "Diskussionen drehen sich um die Rolle von 'Brückenbauern' wie Singapur und Schweden in einer potenziell fragmentierten Weltordnung. Auch Handelsbeziehungen mit China und deren Auswirkungen auf die Technologie werden beleuchtet, neben Sportnachrichten aus der UEFA Champions League.",
+          "summary_easy": "Es wird darüber gesprochen, wie Länder wie Singapur und Schweden in einer unsicheren Welt helfen können. Auch die Beziehungen zu China und Fußballspiele sind Themen.",
           "links": [
             {
-              "title": "Ladakh Gold: Piyush Goyal shares a superfood that is found at 12,000 feet in Nubra valley and has 10 times more Vitamin C than lemon",
-              "url": "https://economictimes.indiatimes.com/news/new-updates/ladakh-gold-piyush-goyal-shares-a-superfood-that-is-found-at-12000-feet-in-nubra-valley-and-has-10-times-more-vitamin-c-than-lemon/articleshow/135065330.cms"
-            },
-            {
-              "title": "Attorney General's speech at the London Conference on International Law 2026",
-              "url": "https://www.gov.uk/government/news/attorney-generals-speech-at-the-london-conference-on-international-law-2026"
+              "title": "'Bridge-builders' like Singapore, Sweden key amid risk of fragmented world order: President Tharman",
+              "url": "https://www.channelnewsasia.com/singapore/tharman-sweden-bridge-builders-stockholm-school-economics-lecture-6477831"
             }
           ]
         },
         {
-          "type": "War",
-          "emoji": "⚔️",
-          "headline_en": "Political Investigations, Global Superfoods, and International Law",
-          "headline_de": "Politische Untersuchungen, globale Superfoods und Völkerrecht",
-          "headline_easy": "Politiker müssen untersucht werden. Ein besonderes Essen aus den Bergen. Regeln für Länder.",
-          "summary_en": "This section includes a call for congressional investigation into actions concerning Russia, a report on a nutritious superfood from Ladakh, and highlights from an international law conference in London.",
-          "summary_de": "Dieser Abschnitt enthält einen Aufruf zur Untersuchung von Handlungen im Zusammenhang mit Russland durch den Kongress, einen Bericht über ein nahrhaftes Superfood aus Ladakh und Höhepunkte einer Konferenz zum Völkerrecht in London.",
-          "summary_easy": "Es gibt eine Forderung, Politiker zu untersuchen. Ein besonderes Essen aus den Bergen wird gezeigt. Eine wichtige Rede über Gesetze findet statt.",
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Global Trade Dynamics and Financial Markets",
+          "headline_de": "Globale Handelsdynamik und Finanzmärkte",
+          "headline_easy": "Artikel über Handel, China und Finanznachrichten.",
+          "summary_en": "This section examines Europe's trade policies and their interactions with China's economic landscape, including new export controls. Financial news includes market movements and corporate announcements.",
+          "summary_de": "Dieser Abschnitt untersucht Europas Handelspolitik und ihre Interaktionen mit Chinas Wirtschaftslandschaft, einschließlich neuer Exportkontrollen. Finanznachrichten umfassen Marktbewegungen und Unternehmensankündigungen.",
+          "summary_easy": "Es geht um den Handel zwischen Europa und China. Es gibt auch Nachrichten über die Finanzmärkte und Firmen.",
           "links": [
             {
-              "title": "Congress Must Investigate Trump’s Aid and Comfort to Putin",
-              "url": "https://freerepublic.com/focus/f-news/4399860/posts"
+              "title": "Sharp China: New Export Controls in Multiple Sectors; Q3 GDP and the Fifth Plenum; Europe Presses Forward; OpenAI and Nvidia Chips",
+              "url": "https://sinocism.com/p/sharp-china-new-export-controls-in"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "European Market Open, Warehouse Security, and Market Trends",
-          "headline_de": "Europäische Marktöffnung, Lagerhaussicherheit und Markttrends",
-          "headline_easy": "Börse in Europa öffnet. Sicherheit im Lagerhaus. Was macht der Markt?",
-          "summary_en": "European markets are expected to open lower as investors await economic reports. The news also touches upon security challenges within modern warehouses and general market outlooks.",
-          "summary_de": "Die europäischen Märkte werden voraussichtlich niedriger eröffnen, da die Anleger auf Wirtschaftsberichte warten. Die Nachrichten befassen sich auch mit Sicherheitsherausforderungen in modernen Lagerhäusern und allgemeinen Marktaussichten.",
-          "summary_easy": "Die Börse in Europa startet vielleicht tiefer. Es gibt Informationen über ein Lagerhaus und was dort passiert. Wir schauen auf die Geldmärkte.",
+          "headline_en": "Asian Market Performance and Corporate Leadership",
+          "headline_de": "Entwicklung der asiatischen Märkte und Unternehmensführung",
+          "headline_easy": "Artikel über Aktienmärkte in Asien und Firmen.",
+          "summary_en": "This section reports on the mixed performance of Asian shares, noting a rally in the Kospi following strong US earnings. It also features a corporate announcement regarding the appointment of Deborah Waterhouse as CEO & Managing Director of CSL.",
+          "summary_de": "Dieser Abschnitt berichtet über die gemischte Entwicklung der asiatischen Aktienmärkte und stellt eine Rallye des Kospi nach starken US-Ergebnissen fest. Er enthält auch eine Unternehmensmitteilung über die Ernennung von Deborah Waterhouse zur CEO & Managing Director von CSL.",
+          "summary_easy": "Die Aktienmärkte in Asien sind gemischt. Der Kospi in Korea ist gestiegen. Eine neue Chefin wurde bei der Firma CSL ernannt.",
           "links": [
             {
-              "title": "Europe opens lower amid economic reports",
-              "url": "https://biztoc.com/x/1753fa99d8d5b958"
+              "title": "Asian shares are mixed, with Kospi up 3% after US stocks rally on strong earnings",
+              "url": "https://www.clickorlando.com/business/2026/10/21/asian-shares-are-mixed-with-kospi-up-3-after-us-stocks-rally-on-strong-earnings/"
             },
             {
-              "title": "The journey of a paper unicorn: adventures inside a modern warehouse",
-              "url": "https://securelist.com/paper-unicorn-warehouse-security/121537/"
+              "title": "CSL appoints Deborah Waterhouse as CEO & Managing Director",
+              "url": "https://www.prnewswire.com/news-releases/csl-appoints-deborah-waterhouse-as-ceo--managing-director-302915172.html"
             }
           ]
         }
@@ -136,72 +148,68 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Political Scrutiny, Israeli Politics, and Law Enforcement Raids",
-          "headline_de": "Politische Überprüfung, israelische Politik und Razzien der Strafverfolgungsbehörden",
-          "headline_easy": "Politiker werden geprüft. Wahl-News aus Israel. Polizei bei jemandem zu Hause.",
-          "summary_en": "Current US culture and politics are reflected in headlines about investigating a former president's actions related to Russia, rising support for the far-right in Israel, and a federal investigation involving a congresswoman's sister.",
-          "summary_de": "Die aktuelle US-Kultur und -Politik spiegeln sich in Schlagzeilen über die Untersuchung der Handlungen eines ehemaligen Präsidenten im Zusammenhang mit Russland, die steigende Unterstützung für die extreme Rechte in Israel und eine Bundesuntersuchung mit der Schwester einer Kongressabgeordneten wider.",
-          "summary_easy": "Es geht um Politik und den ehemaligen Präsidenten. In Israel wählen viele junge Leute eine rechte Partei. Die Polizei war bei der Schwester einer Politikerin.",
+          "headline_en": "Sports Coverage Expands and Golf Tournament",
+          "headline_de": "Sportberichterstattung wird erweitert und Golfturnier",
+          "headline_easy": "Artikel über Pferderennen und Golf.",
+          "summary_en": "FOX Sports is enhancing its year-round horse racing coverage. In golf, Miles Russell is making his second appearance at a Bermuda championship for his 15th professional start.",
+          "summary_de": "FOX Sports erweitert seine ganzjährige Berichterstattung über Pferderennen. Im Golf gibt Miles Russell sein zweites Gastspiel bei einer Meisterschaft in Bermuda für seinen 15. Profistart.",
+          "summary_easy": "Es gibt mehr Berichte über Pferderennen. Ein Golfer spielt in Bermuda.",
           "links": [
             {
-              "title": "Israel's Ben-Gvir Poised For Election Gains As Young Voters Turn To Far Right",
-              "url": "https://www.huffpost.com/entry/israel-ben-gvir-poised-for-election-gains_n_6ad72baae4b061c2be45ffe5"
+              "title": "FOX Sports Expands Year-Round Horse Racing Coverage with Gulfstream Park Championship Meet",
+              "url": "http://www.thefutoncritic.com/news/2026/10/21/fox-sports-expands-year-round-horse-racing-coverage-with-gulfstream-park-championship-meet-545015/20261021fox01/"
+            },
+            {
+              "title": "Miles Russell makes second trip to Bermuda for 15th professional start",
+              "url": "https://www.jacksonville.com/story/sports/golf/pga-tour/2026/10/21/miles-russell-butterfield-bermuda-championship-pga-tour-golf/92037724007/"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Sports Broadcasting and Financial Market News",
+          "headline_de": "Sportübertragung und Finanzmarktnachrichten",
+          "headline_easy": "Artikel über Sport und Finanzen.",
+          "summary_en": "This section covers FOX Sports' expansion of horse racing coverage. It also includes sports news regarding a potential obstacle for Manchester United in pursuing a player and a golf tournament update.",
+          "summary_de": "Dieser Abschnitt behandelt die Ausweitung der Pferderennberichterstattung durch FOX Sports. Er enthält auch Sportnachrichten über ein mögliches Hindernis für Manchester United bei der Verfolgung eines Spielers und ein Update zu einem Golfturnier.",
+          "summary_easy": "FOX Sports zeigt mehr Pferderennen. Es gibt auch Sportnachrichten über Fußball und Golf.",
+          "links": [
+            {
+              "title": "Giuliano Simeone: Man United learn major obstacle in January pursuit of Atletico Madrid star",
+              "url": "https://thepeoplesperson.com/2026/10/21/giuliano-simeone-man-united-learn-major-obstacle-in-january-pursuit-of-atletico-madrid-star-319804/"
             }
           ]
         },
         {
           "type": "War",
           "emoji": "⚔️",
-          "headline_en": "Political Investigations, Entrepreneurship, and Israeli Politics",
-          "headline_de": "Politische Untersuchungen, Unternehmertum und israelische Politik",
-          "headline_easy": "Politiker-Probleme. Ein neues Restaurant. Rechte Partei in Israel.",
-          "summary_en": "This section features a call for congressional investigation into a former president's actions, news about a new restaurant concept launched by a football coach, and the growing influence of the far-right among young Israeli voters.",
-          "summary_de": "Dieser Abschnitt enthält einen Aufruf zur Untersuchung der Handlungen eines ehemaligen Präsidenten durch den Kongress, Nachrichten über ein neues Restaurantkonzept, das von einem Football-Trainer ins Leben gerufen wurde, und den wachsenden Einfluss der extremen Rechten bei jungen israelischen Wählern.",
-          "summary_easy": "Es gibt eine Untersuchung über einen Politiker. Ein Football-Trainer eröffnet ein neues Restaurant. Junge Leute in Israel wählen eine rechte Partei.",
+          "headline_en": "Climate Goals and Sports News",
+          "headline_de": "Klimaziele und Sportnachrichten",
+          "headline_easy": "Artikel über das Klima und Sport.",
+          "summary_en": "The viability of the Paris Agreement's 1.5°C goal is questioned in one report. This section also includes sports news related to horse racing coverage and football transfer news.",
+          "summary_de": "Die Machbarkeit des 1,5°C-Ziels des Pariser Abkommens wird in einem Bericht in Frage gestellt. Dieser Abschnitt enthält auch Sportnachrichten über die Berichterstattung über Pferderennen und Fußballtransfernachrichten.",
+          "summary_easy": "Ein Artikel sagt, dass das Klimaziel von 1,5 Grad vielleicht nicht mehr erreichbar ist. Es gibt auch Nachrichten über Sport.",
           "links": [
             {
-              "title": "El Capitan football coach, former player dial up new restaurant concept",
-              "url": "https://wpdash.medianewsgroup.com/2026/10/19/el-capitan-football-coach-former-player-dial-up-new-restaurant-concept/"
-            }
-          ]
-        },
-        {
-          "type": "Stocks & Markets",
-          "emoji": "📈",
-          "headline_en": "US Futures Mixed, Airline Fees, and Japanese Market Slide",
-          "headline_de": "US-Futures gemischt, Fluggebühren und Rückgang des japanischen Marktes",
-          "headline_easy": "US-Börse ist gemischt. Fluggesellschaften reden über Geld. Japanische Börse fällt.",
-          "summary_en": "US stock futures show mixed signals as investors await earnings and economic data. United Airlines' CEO defends the company's fees, while the Japanese stock market experienced a significant slide influenced by AI concerns and oil prices.",
-          "summary_de": "US-Aktien-Futures zeigen gemischte Signale, während Investoren auf Gewinne und Wirtschaftsdaten warten. Der CEO von United Airlines verteidigt die Gebühren des Unternehmens, während der japanische Aktienmarkt aufgrund von KI-Bedenken und Ölpreisen einen deutlichen Rückgang verzeichnete.",
-          "summary_easy": "Die Börse in den USA ist nicht sicher. Ein Chef von einer Flugfirma erklärt die Preise. Die Börse in Japan ist gefallen.",
-          "links": [
-            {
-              "title": "US futures mixed with earnings, data to come",
-              "url": "https://biztoc.com/x/20759ad711e35801"
-            },
-            {
-              "title": "United Airlines CEO defends its fees in wide-ranging interview: 'It's expensive to fly'",
-              "url": "https://finance.yahoo.com/economy/article/united-airlines-ceo-we-should-have-a-national-wealth-tax-092341353.html"
+              "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
+              "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "TV Character's Return, German Investment, and Restaurant Innovation",
-          "headline_de": "Rückkehr einer TV-Figur, deutsche Investitionen und Restaurant-Innovation",
-          "headline_easy": "Eine Figur aus einer Serie kommt zurück. Geld aus den USA für Firmen in Deutschland. Ein neues Restaurant.",
-          "summary_en": "The return of the character Apu to 'The Simpsons' with a new voice is noted, alongside insights into why US investors are interested in Germany's 'Mittelstand' companies. Additionally, a football coach and former player have launched a new restaurant concept.",
-          "summary_de": "Die Rückkehr der Figur Apu zu 'Die Simpsons' mit einer neuen Stimme wird erwähnt, ebenso wie Einblicke, warum US-Investoren an deutschen 'Mittelstand'-Unternehmen interessiert sind. Zusätzlich haben ein Football-Trainer und ein ehemaliger Spieler ein neues Restaurantkonzept gestartet.",
-          "summary_easy": "Die Figur Apu ist wieder in der Serie 'Die Simpsons'. US-Investoren finden deutsche Firmen gut. Ein neuer Restaurant-Plan wird vorgestellt.",
+          "headline_en": "AI in Education and Climate Change Implications",
+          "headline_de": "KI in der Bildung und Auswirkungen des Klimawandels",
+          "headline_easy": "Artikel über KI in Schulen und das Klima.",
+          "summary_en": "The transformative impact of Artificial Intelligence on classroom structures, particularly in segregated settings, is examined. Separately, the viability of the Paris Agreement's 1.5°C climate goal is questioned.",
+          "summary_de": "Die transformative Wirkung von künstlicher Intelligenz auf Unterrichtsstrukturen, insbesondere in segregierten Umgebungen, wird untersucht. Getrennt davon wird die Machbarkeit des 1,5°C-Klimaziels des Pariser Abkommens in Frage gestellt.",
+          "summary_easy": "Künstliche Intelligenz verändert Schulen. Ein anderer Artikel sagt, dass das Klimaziel von 1,5 Grad vielleicht nicht mehr erreichbar ist.",
           "links": [
             {
-              "title": "After years of backlash, Apu returns to 'The Simpsons' with a South Asian voice",
-              "url": "https://www.news4jax.com/entertainment/2026/10/20/after-years-of-backlash-apu-returns-to-the-simpsons-with-a-south-asian-voice/"
-            },
-            {
-              "title": "Why US investors are snapping up Germany's famed Mittelstand",
-              "url": "https://www.dw.com/en/why-us-investors-are-snapping-up-germanys-famed-mittelstand/a-79705421"
+              "title": "How AI Changes the Fundamental Structure of the Classroom—Especially the Segregated Ones",
+              "url": "https://lithub.com/how-ai-changes-the-fundamental-structure-of-the-classroom-especially-the-segregated-ones/"
             }
           ]
         }
@@ -214,36 +222,48 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Asian Markets Decline, Superfood Discovery, and Rebounding AI Stocks",
-          "headline_de": "Asiatische Märkte sinken, Superfood-Entdeckung und sich erholende KI-Aktien",
-          "headline_easy": "Aktien in Asien fallen. Super-Essen wird gefunden. KI-Aktien steigen.",
-          "summary_en": "Asian shares are mostly declining, influenced by Wall Street's AI stock performance and broader market trends. A superfood from Ladakh with high Vitamin C content is also highlighted.",
-          "summary_de": "Die asiatischen Aktienmärkte sind größtenteils rückläufig, beeinflusst von der Performance von KI-Aktien an der Wall Street und breiteren Markttrends. Ein Superfood aus Ladakh mit hohem Vitamin-C-Gehalt wird ebenfalls hervorgehoben.",
-          "summary_easy": "Die Aktienmärkte in Asien sind nicht gut. KI-Aktien an der Wall Street haben sich erholt. Man findet ein neues Super-Essen.",
+          "headline_en": "Global Roles and Business Developments",
+          "headline_de": "Globale Rollen und geschäftliche Entwicklungen",
+          "headline_easy": "Artikel über wichtige Länder und Geschäfte.",
+          "summary_en": "The role of nations like Singapore and Sweden as 'bridge-builders' in a fragmented world is discussed. Business news includes a regulatory block on a delivery service acquisition in Taiwan and strong profit growth for Varmora Granito.",
+          "summary_de": "Die Rolle von Nationen wie Singapur und Schweden als 'Brückenbauer' in einer fragmentierten Welt wird diskutiert. Geschäftsnachrichten umfassen ein regulatorisches Veto gegen die Übernahme eines Lieferdienstes in Taiwan und ein starkes Gewinnwachstum für Varmora Granito.",
+          "summary_easy": "Singapur und Schweden sind wichtig für die Welt. In Taiwan wurde ein Geschäft gestoppt. Eine Firma namens Varmora Granito hat mehr Gewinn gemacht.",
           "links": [
             {
-              "title": "Asian shares mostly decline after AI stocks lead a rebound on Wall Street",
-              "url": "https://www.news4jax.com/business/2026/10/20/asian-shares-mostly-decline-after-ai-stocks-lead-a-rebound-on-wall-street/"
+              "title": "Varmora Granito H1 profit jumps 498% to Rs 53.7 cr; shares rise nearly 6%",
+              "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/construction/varmora-granito-h1-profit-jumps-498-to-rs-53-7-cr-shares-rise-nearly-6/articleshow/135086932.cms"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "International Trade and Company Performance",
+          "headline_de": "Internationaler Handel und Unternehmensleistung",
+          "headline_easy": "Artikel über Handel und Firmen.",
+          "summary_en": "This section highlights global trade dynamics, including regulatory actions impacting acquisitions in Taiwan. Strong financial performance from companies like Varmora Granito is also featured, alongside geopolitical commentary on international relations.",
+          "summary_de": "Dieser Abschnitt beleuchtet globale Handelsdynamiken, einschließlich regulatorischer Maßnahmen, die Übernahmen in Taiwan beeinflussen. Eine starke finanzielle Leistung von Unternehmen wie Varmora Granito wird ebenfalls vorgestellt, neben geopolitischen Kommentaren zu internationalen Beziehungen.",
+          "summary_easy": "Es gibt Nachrichten über Handel und Geschäfte in verschiedenen Ländern. Eine Firma in Indien hat sehr gute Ergebnisse.",
+          "links": [
+            {
+              "title": "Taiwan regulator blocks Grab's purchase of Foodpanda delivery business in Taiwan",
+              "url": "https://www.channelnewsasia.com/business/taiwan-blocks-grab-purchase-foodpanda-delivery-business-6478246"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "IMF Outlook, Vietnam Telecom Deal, and China's Export Restrictions",
-          "headline_de": "IWF-Ausblick, Telekommunikationsabkommen in Vietnam und Chinas Exportbeschränkungen",
-          "headline_easy": "Zahlen vom IWF. Ein Deal in Vietnam. China gibt bestimmte Dinge nicht mehr ab.",
-          "summary_en": "The IMF's latest outlook presents mixed signals on global growth. In business news, JTOWER's Vietnamese subsidiary has signed an agreement with Sun Group and OCK for telecommunications infrastructure. China is also proposing export restrictions on AI, chip, and solar technologies.",
-          "summary_de": "Der neueste Ausblick des IWF zeigt gemischte Signale für das globale Wachstum. Im Wirtschaftsbereich hat die vietnamesische Tochtergesellschaft von JTOWER eine Vereinbarung mit Sun Group und OCK für Telekommunikationsinfrastrukturen unterzeichnet. China schlägt auch Exportbeschränkungen für KI-, Chip- und Solartechnologien vor.",
-          "summary_easy": "Der IWF hat neue Zahlen zur Wirtschaft. Eine Firma in Vietnam macht einen neuen Vertrag. China will bestimmte Technik nicht mehr exportieren.",
+          "headline_en": "Global and Asian Market Trends",
+          "headline_de": "Globale und asiatische Markttrends",
+          "headline_easy": "Artikel über Aktienmärkte.",
+          "summary_en": "This section covers mixed performance in Asian shares, with the Kospi seeing a significant rise after a US stock rally. Gold price forecasts and an update on product innovations at SIAL Paris are also included.",
+          "summary_de": "Dieser Abschnitt behandelt die gemischte Performance asiatischer Aktien, wobei der Kospi nach einer Rallye an den US-Börsen einen deutlichen Anstieg verzeichnet. Goldpreisprognosen und ein Update zu Produktinnovationen auf der SIAL Paris sind ebenfalls enthalten.",
+          "summary_easy": "Die Aktienmärkte in Asien sind gemischt. Der Kospi in Korea ist gestiegen. Es gibt auch Nachrichten über Gold.",
           "links": [
             {
-              "title": "IMF outlook: How the latest forecast sends mixed signals on global growth",
-              "url": "https://www.livemint.com/opinion/online-views/imf-outlook-how-the-latest-forecast-sends-mixed-signals-on-global-growth-11792396909080.html"
-            },
-            {
-              "title": "JTOWERのベトナム子会社SPN、Sun Group・OCKと協定書を締結　2027年APEC首脳会議に向けフーコック島の通信環境を整備",
-              "url": "https://prtimes.jp/main/html/rd/p/000000191.000020999.html"
+              "title": "Gold may test 4,000-mark if oil extends rally; US Fed moves eyed: Kotak Neo",
+              "url": "https://www.business-standard.com/markets/news/gold-may-test-4-000-mark-if-oil-extends-rally-us-fed-moves-eyed-kotak-neo-126102100567_1.html"
             }
           ]
         }
@@ -256,92 +276,56 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Literary Analysis, Bookselling History, and Sports News",
-          "headline_de": "Literarische Analyse, Buchhandelsgeschichte und Sportnachrichten",
-          "headline_easy": "Bücher sind interessant. Geschichte von Läden mit Büchern. Ein Rennfahrer verletzt.",
-          "summary_en": "This section offers insights into literary analysis, the history of British bookselling post-WWII, and sports news regarding MotoGP rider Toprak Razgatlioglu missing the rest of the season due to injury.",
-          "summary_de": "Dieser Abschnitt bietet Einblicke in die literarische Analyse, die Geschichte des britischen Buchhandels nach dem Zweiten Weltkrieg und Sportnachrichten über den MotoGP-Fahrer Toprak Razgatlioglu, der aufgrund einer Verletzung den Rest der Saison verpasst.",
-          "summary_easy": "Es gibt Artikel über Bücher und Autoren. Wir lernen etwas über die Geschichte von Buchläden. Ein Rennfahrer kann nicht mehr fahren, weil er verletzt ist.",
+          "headline_en": "Health Discoveries and Historical Preservation",
+          "headline_de": "Gesundheitsentdeckungen und historische Erhaltung",
+          "headline_easy": "Artikel über Gesundheit und alte Gebäude.",
+          "summary_en": "A medical report discusses significant weight loss for women on CagriSema, alongside common digestive side effects. In preservation news, a World War II pillbox in Dorset has been transformed into a bat hibernation shelter.",
+          "summary_de": "Ein medizinischer Bericht diskutiert eine signifikante Gewichtsabnahme bei Frauen unter CagriSema, zusammen mit häufigen Verdauungsnebenwirkungen. In Bezug auf die Denkmalpflege wurde ein Weltkriegsbunker in Dorset in ein Winterschlafquartier für Fledermäuse umgewandelt.",
+          "summary_easy": "Frauen haben mit einem Medikament viel Gewicht verloren, aber manche hatten Magenprobleme. Ein altes Gebäude aus dem Krieg ist jetzt ein Haus für Fledermäuse.",
           "links": [
             {
-              "title": "On the Post-War Rise of 20th-Century British Bookselling",
-              "url": "https://lithub.com/on-the-post-war-rise-of-20th-century-british-bookselling/"
+              "title": "Women Lost 25% of Body Weight on CagriSema in Trial Analysis, but Most Users Had Digestive Side Effects",
+              "url": "https://www.medicaldaily.com/cagrisema-women-weight-loss-menopause-side-effects-480208"
             },
             {
-              "title": "What John Berryman’s Lectures Revealed About Young Shakespeare—and Himself",
-              "url": "https://lithub.com/what-john-berrymans-lectures-revealed-about-young-shakespeare-and-himself/"
+              "title": "A World War II pillbox in Dorset was transformed into a bat hibernation shelter in 2025; the concrete structure once formed part of Britain’s wartime defences",
+              "url": "https://timesofindia.indiatimes.com/world/uk/a-world-war-ii-pillbox-in-dorset-was-transformed-into-a-bat-hibernation-shelter-in-2025-the-concrete-structure-once-formed-part-of-britains-wartime-defences/articleshow/135087465.cms"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Debut Novelists, Literary Craft, and Bookselling History",
-          "headline_de": "Debütautoren, literarisches Handwerk und Buchhandelsgeschichte",
-          "headline_easy": "Neue Bücher. Wie man schreibt. Geschichte von Buchläden.",
-          "summary_en": "This section highlights top debut novelists of 2026, discusses the art of writing with a focus on punctuation, and delves into the history of British bookselling in the 20th century.",
-          "summary_de": "Dieser Abschnitt hebt die besten Debütautoren des Jahres 2026 hervor, diskutiert die Kunst des Schreibens mit Schwerpunkt auf Zeichensetzung und befasst sich mit der Geschichte des britischen Buchhandels im 20. Jahrhundert.",
-          "summary_easy": "Es gibt eine Liste mit neuen Buchautoren. Wir lernen, wie man gut schreibt. Die Geschichte von Buchläden wird erzählt.",
+          "headline_en": "Aviation Industry News and Infrastructure Development",
+          "headline_de": "Nachrichten aus der Luftfahrtindustrie und Infrastrukturentwicklung",
+          "headline_easy": "Artikel über Flugzeuge und alte Gebäude.",
+          "summary_en": "Turkish Airlines, Pegasus, and SunExpress are awaiting the delivery of a substantial number of Boeing jets. Separately, a historical WWII pillbox in the UK has been repurposed as a hibernation shelter for bats.",
+          "summary_de": "Turkish Airlines, Pegasus und SunExpress warten auf die Lieferung einer beträchtlichen Anzahl von Boeing-Jets. Separat wurde ein historischer Weltkriegsbunker im Vereinigten Königreich in ein Winterschlafquartier für Fledermäuse umfunktioniert.",
+          "summary_easy": "Viele Flugzeuge von Boeing werden bald geliefert. Ein altes Gebäude aus dem Krieg wurde in ein Schutzhaus für Fledermäuse verwandelt.",
           "links": [
             {
-              "title": "Meet the Best Debut Novelists of 2026",
-              "url": "https://lithub.com/meet-the-best-debut-novelists-of-2026/"
-            },
-            {
-              "title": "“If You Write Properly You Shouldn’t Have to Punctuate.” Was Cormac McCarthy That Guy in Your MFA?",
-              "url": "https://lithub.com/if-you-write-properly-you-shouldnt-have-to-punctuate-was-cormac-mccarthy-that-guy-in-your-mfa/"
-            }
-          ]
-        },
-        {
-          "type": "War",
-          "emoji": "⚔️",
-          "headline_en": "National Resilience, Digital Detox, and Literary Debuts",
-          "headline_de": "Nationale Widerstandsfähigkeit, digitale Entgiftung und literarische Debüts",
-          "headline_easy": "Ein Land ist stark. Weniger Handy benutzen. Neue Bücher.",
-          "summary_en": "This compilation includes a piece on Canada's resilience amidst global turmoil, an argument for reducing smartphone usage, and recognition for the best debut novelists of 2026.",
-          "summary_de": "Diese Zusammenstellung enthält einen Beitrag über die Widerstandsfähigkeit Kanadas inmitten globaler Turbulenzen, ein Plädoyer für die Reduzierung der Smartphone-Nutzung und die Auszeichnung der besten Debütautoren des Jahres 2026.",
-          "summary_easy": "Kanada ist gerade stark. Es ist gut, weniger auf dem Handy zu sein. Es gibt neue Bücher von jungen Autoren.",
-          "links": [
-            {
-              "title": "The world may be going to hell in a handcart, but Canada is not. Not today",
-              "url": "https://biztoc.com/x/3a52f5d673828fa5"
-            },
-            {
-              "title": "Why We Should All Put Down Our Smartphones",
-              "url": "https://lithub.com/why-we-should-all-put-down-our-smartphones/"
+              "title": "Turkish Airlines, Pegasus and SunExpress await delivery of 317 Boeing jets",
+              "url": "https://www.hurriyetdailynews.com/turkish-airlines-pegasus-and-sunexpress-await-delivery-of-317-boeing-jets-228415"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Literary History, Gay Rodeos, and Climate Change Discourse",
-          "headline_de": "Literarische Geschichte, Gay Rodeos und Klimawandel-Diskurs",
-          "headline_easy": "Bücher sind alt. Eine besondere Veranstaltung. Angst vor dem Wetter.",
-          "summary_en": "Coverage spans the history of British bookselling, the celebration of gay rodeos, and discussions on how climate fear influences media narratives, specifically regarding uninsurable homes.",
-          "summary_de": "Die Berichterstattung umfasst die Geschichte des britischen Buchhandels, die Feier von Gay Rodeos und Diskussionen darüber, wie Klimafurcht Medienerzählungen beeinflusst, insbesondere in Bezug auf nicht versicherbare Häuser.",
-          "summary_easy": "Man liest über alte Bücher. Es gibt ein Fest für homosexuelle Cowboys. Die Medien reden viel über das Wetter.",
+          "headline_en": "Corporate Dividend News and Legal Disputes",
+          "headline_de": "Unternehmens-Dividenden-Nachrichten und Rechtsstreitigkeiten",
+          "headline_easy": "Artikel über Firmen und Gerichtsentscheidungen.",
+          "summary_en": "Yum China has announced disclosures regarding a possible quarterly dividend. A legal dispute in Missouri concerning a family trust and beneficiary payments has resulted in an appeal being dismissed.",
+          "summary_de": "Yum China hat Offenlegungen zu einer möglichen Quartalsdividende angekündigt. Ein Rechtsstreit in Missouri bezüglich eines Familientrusts und von Leistungsauszahlungen an Begünstigte führte zur Abweisung einer Berufung.",
+          "summary_easy": "Eine Firma namens Yum China könnte bald eine Dividende zahlen. In Amerika gab es einen Rechtsstreit um Geld aus einer Familie. Der Fall wurde abgelehnt.",
           "links": [
             {
-              "title": "For Fifty Years Gay Rodeos Have Celebrated ‘Rodeo Without Expectations’",
-              "url": "https://goodmenproject.com/featured-content/for-fifty-years-gay-rodeos-have-celebrated-rodeo-without-expectations/"
-            }
-          ]
-        },
-        {
-          "type": "Technology",
-          "emoji": "💻",
-          "headline_en": "VPN Security Patch, National Resilience, and Smartphone Usage",
-          "headline_de": "VPN-Sicherheitsupdate, nationale Widerstandsfähigkeit und Smartphone-Nutzung",
-          "headline_easy": "Ein Programm hat ein Problem. Ein Land ist stark. Weniger Handy benutzen.",
-          "summary_en": "NordVPN has patched a critical Windows bug that allowed attackers to disable system services. The section also includes commentary on Canada's national resilience and a call for reduced smartphone usage.",
-          "summary_de": "NordVPN hat einen kritischen Windows-Fehler behoben, der es Angreifern ermöglichte, Systemdienste zu deaktivieren. Der Abschnitt enthält auch Kommentare zur nationalen Widerstandsfähigkeit Kanadas und einen Aufruf zur Reduzierung der Smartphone-Nutzung.",
-          "summary_easy": "Ein Programm namens NordVPN wurde repariert. Ein Land ist stark. Es ist gut, weniger auf dem Handy zu sein.",
-          "links": [
+              "title": "Yum China Announces Disclosure under Hong Kong Stock Exchange Rules in Relation to a Possible Quarterly Dividend",
+              "url": "https://www.prnewswire.com/news-releases/yum-china-announces-disclosure-under-hong-kong-stock-exchange-rules-in-relation-to-a-possible-quarterly-dividend-302915252.html"
+            },
             {
-              "title": "NordVPN patches \"clumsy\" Windows bug that let attackers disable system services",
-              "url": "https://www.techradar.com/vpn/vpn-services/nordvpn-patches-clumsy-windows-bug-that-let-attackers-disable-system-services"
+              "title": "A Missouri widow changed a family trust and a later amendment gave $220,000 to a beneficiary; after a court ordered repayment, an October 20 ruling dismissed her appeal as too late",
+              "url": "https://timesofindia.indiatimes.com/world/us/a-missouri-widow-changed-a-family-trust-and-a-later-amendment-gave-220000-to-a-beneficiary-after-a-court-ordered-repayment-an-october-20-ruling-dismissed-her-appeal-as-too-late/articleshow/135085756.cms"
             }
           ]
         }
@@ -352,27 +336,27 @@
     "wahlperiode": 21,
     "sitzung": 103,
     "url": "https://dserver.bundestag.de/btp/21/21103.pdf",
-    "summary_en": "On Friday, October 16, 2026, the German Bundestag convened for its 103rd session of the 21st legislative period. The session began with an expansion of the agenda, followed by discussions on several key legislative proposals and motions.  The primary focus was on the \"Early Start Pension\" bill, with a second and third reading, following reports from the Budget Committee and the Finance Committee. Debates also covered a motion for a \"Junior Savings Depot\" from the AfD, advocated by Ulrike Schielke-Ziesing, and a motion for \"Strengthening Financial Education\" from Die Linke, presented by Lisa Schubert and Nicole Gohlke.  The Bundestag also addressed the \"Care Insurance\" issue, with a motion for a \"Solidary and Needs-Based Care Insurance\" from Die Linke (Evelyn Schötz) and a motion for a \"Sustainable Care Reform\" from Bündnis 90/Die Grünen (Simone Fischer).  A motion on \"No Benefit Cuts in Care\" was also considered.  Furthermore, the first reading of a bill to modernize arbitration law and international civil procedure law took place, with Dr. Stefanie Hubig, Federal Minister BMJV, speaking.  Discussions also included a bill for bureaucracy reduction in the transport sector, with Federal Minister BMV Steffen Bilger presenting, and a motion for \"Technology Openness in the Transport Sector\" from the AfD (Adam Balten), advocating against the \"privileging of electromobility.\" Finally, a motion for a \"strong signal for the protection of our livelihoods\" at the World Biodiversity Conference in Yerevan was debated.",
-    "summary_de": "Am Freitag, den 16. Oktober 2026, trat der Deutsche Bundestag zu seiner 103. Sitzung der 21. Wahlperiode zusammen. Die Sitzung begann mit einer Erweiterung der Tagesordnung, gefolgt von Beratungen zu mehreren zentralen Gesetzesvorhaben und Anträgen.  Der Hauptschwerpunkt lag auf dem Gesetz zur \"Einführung einer Frühstartrente\" in zweiter und dritter Beratung, nach Berichten des Haushaltsausschusses und des Finanzausschusses.  Debatten umfassten auch einen Antrag der AfD für ein \"Junior-Spar-Depot\", vertreten durch Ulrike Schielke-Ziesing, und einen Antrag von Die Linke zur \"Finanziellen Bildung stärken\", eingebracht von Lisa Schubert und Nicole Gohlke.  Der Bundestag befasste sich zudem mit der \"Pflegeversicherung\", mit einem Antrag von Die Linke für eine \"solida-rische und bedarfsgerechte Pflegeversicherung\" (Evelyn Schötz) und einem Antrag von Bündnis 90/Die Grünen für eine \"nachhaltige Pflegereform\" (Simone Fischer).  Auch ein Antrag zu \"Keine Leistungskürzungen in der Pflege\" wurde beraten.  Des Weiteren fand die erste Beratung eines Gesetzes zur Modernisierung des Schiedsverfahrensrechts und des internationalen Zivilverfahrensrechts statt, zu dem Bundesministerin BMJV Dr. Stefanie Hubig sprach.  Diskutiert wurden auch ein Gesetz zum \"Bürokratierückbau im Verkehrsbereich\", vorgestellt von Bundesminister BMV Steffen Bilger, und ein Antrag der AfD zur \"Technologieoffenheit im Verkehrssektor\" (Adam Balten), der gegen die \"Privilegierung der Elektromobilität\" argumentierte. Abschließend wurde ein Antrag für ein \"starkes Signal zum Schutz unserer Lebensgrundlagen\" bei der Weltbiodiversitätskonferenz in Jerewan erörtert.",
-    "summary_easy": "Der Bundestag traf sich am 16. Oktober 2026. Es gab viele Themen. Ein wichtiges Thema war die neue \"Frühstartrente\". Abgeordnete sprachen darüber. Die AfD wollte ein \"Spar-Depot für Kinder\". Die Linke sprach über \"bessere Finanzbildung\". Es gab auch Diskussionen über die \"Pflegeversicherung\". Die Grünen und Die Linke hatten Vorschläge für die Pflege. Ein Gesetz zur \"weniger Bürokratie\" im Verkehr wurde besprochen. Die AfD sprach über \"Technik im Verkehr\". Sie sind gegen die Bevorzugung von Elektroautos. Ein Antrag zum \"Schutz der Umwelt\" wurde auch besprochen.",
+    "summary_en": "The 103rd session of the 21st German Bundestag, held on October 16, 2026, covered a range of legislative proposals and debates. The session began with an expansion of the agenda. Key items included the second and third reading of the government's \"Early Start Pension\" bill, with contributions from Frauke Heiligenstadt (SPD) and Michael Thews (SPD), and debates initiated by motions from the AfD (\"Secure Pension for Our Children – Junior Savings Account\") and Die Linke (\"Strengthen Financial Education\"). Ulrike Schielke-Ziesing (AfD), Fritz Güntzler (CDU/CSU), Stefan Schmidt (BÜNDNIS 90/DIE GRÜNEN), and Isabelle Vandre (Die Linke) were among those who spoke on these pension and financial education topics. The Bundestag also discussed motions concerning the nursing insurance, with proposals from Die Linke (\"Align Nursing Insurance Solidaristically and Needs-Based\") and BÜNDNIS 90/DIE GRÜNEN (\"Sustainable Pension Reform\"). Evelyn Schötz (Die Linke) and Simone Fischer (BÜNDNIS 90/DIE GRÜNEN) presented their party's positions. A significant portion of the session was dedicated to the first reading of the government's bill to modernize arbitration law and amend the Code of Civil Procedure. Dr. Stefanie Hubig, Federal Minister BMJV, addressed the chamber on this matter. Additionally, the first reading of the government's \"Bureaucracy Reduction in the Transport Sector\" bill took place, with contributions from Steffen Bilger, Federal Minister BMV, and various parliamentary speakers. Finally, a motion by the AfD advocating for \"Technological Openness in the Transport Sector – End the Privilege of E-Mobility\" was debated, featuring Adam Balten (AfD) and Dr. Klaus Wiener (CDU/CSU).",
+    "summary_de": "Die 103. Sitzung des Deutschen Bundestages der 21. Wahlperiode fand am Freitag, dem 16. Oktober 2026, statt und umfasste eine Vielzahl von Gesetzesvorhaben und Debatten. Die Sitzung begann mit einer Erweiterung der Tagesordnung. Zu den Hauptpunkten gehörten die zweite und dritte Beratung des Gesetzesentwurfs der Bundesregierung zur Einführung einer Frühstartrente, mit Beiträgen von Frauke Heiligenstadt (SPD) und Michael Thews (SPD), sowie Debatten, die durch Anträge der AfD („Für eine sichere Rente unserer Kinder – Junior-Spardepot“) und der Linken („Finanzielle Bildung stärken“) eingeleitet wurden. Ulrike Schielke-Ziesing (AfD), Fritz Güntzler (CDU/CSU), Stefan Schmidt (BÜNDNIS 90/DIE GRÜNEN) und Isabelle Vandre (Die Linke) gehörten zu den Rednern zu diesen Renten- und Finanzbildungsthemen. Der Bundestag erörterte auch Anträge zur Pflegeversicherung, mit Vorschlägen der Linken („Pflegeversicherung solidarisch und bedarfsgerecht ausrichten“) und von BÜNDNIS 90/DIE GRÜNEN („Nachhaltige Pflegereform“). Evelyn Schötz (Die Linke) und Simone Fischer (BÜNDNIS 90/DIE GRÜNEN) stellten die Positionen ihrer Fraktionen dar. Ein erheblicher Teil der Sitzung war der ersten Beratung des Gesetzes zur Modernisierung des Schiedsverfahrensrechts und zur Änderung der Zivilprozessordnung gewidmet. Dr. Stefanie Hubig, Bundesministerin BMJV, sprach in diesem Zusammenhang. Ferner fand die erste Beratung des Gesetzes zum Bürokratierückbau im Verkehrsbereich statt, mit Beiträgen von Steffen Bilger, Bundesminister BMV, und verschiedenen Abgeordneten. Abschließend wurde ein Antrag der AfD zur „Technologieoffenheit im Verkehrssektor – Privilegierung der Elektromobilität beenden“ debattiert, mit Redebeiträgen von Adam Balten (AfD) und Dr. Klaus Wiener (CDU/CSU).",
+    "summary_easy": "Am 16. Oktober 2026 war der Deutsche Bundestag zur 103. Sitzung zusammengekommen. Die Politiker sprachen über neue Gesetze. Zuerst ging es um eine neue Rente für Frührentner. Es gab auch Gespräche über Geld für Kinder. Abgeordnete von SPD, AfD, Linke und Grünen sprachen darüber. Dann ging es um die Pflegeversicherung. Die Linke und die Grünen hatten Vorschläge gemacht. Die Politiker sprachen auch über Regeln für Schiedsgerichte. Das ist eine Art, Streit außergerichtlich zu lösen. Außerdem wurde über weniger Bürokratie im Verkehr gesprochen. Die AfD forderte mehr Auswahl bei Autos. Sie sind gegen die Bevorzugung von Elektroautos.",
     "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact_en": "During the French Revolution, the color sans-culotte blue became a symbol of radical politics. This hue was adopted by the sans-culottes, the common people who were the driving force behind the revolution, distinguishing them from the aristocratic colors of the Ancien Régime.",
-      "fact_de": "Während der Französischen Revolution wurde die Farbe Sans-culotte-Blau zu einem Symbol radikaler Politik. Dieser Farbton wurde von den Sans-culottes, dem einfachen Volk und der treibenden Kraft der Revolution, übernommen und unterschied sie von den aristokratischen Farben des Ancien Régime.",
-      "fact_easy": "Blau war ein Symbol der Französischen Revolution. Die einfachen Leute trugen blau, um sich von den Reichen zu unterscheiden.",
-      "category": "Politics",
-      "source_title": "The French Revolution and the Sans-culottes",
+      "fact_en": "During the French Revolution, the \"Law of Suspects\" led to widespread arrests and executions. Fashion became a dangerous indicator; wearing certain colors or styles could be interpreted as royalist sympathies and put one's life at risk. Citizens adopted simpler, more egalitarian styles to avoid suspicion.",
+      "fact_de": "Während der Französischen Revolution führte das „Gesetz über Verdächtige“ zu weit verbreiteten Verhaftungen und Hinrichtungen. Mode wurde zu einem gefährlichen Indikator; das Tragen bestimmter Farben oder Stile konnte als royalistische Gesinnung interpretiert werden und das Leben in Gefahr bringen. Bürger nahmen einfachere, egalitärere Stile an, um Verdächtigungen zu vermeiden.",
+      "fact_easy": "In der Französischen Revolution war Kleidung gefährlich. Man konnte wegen seiner Kleidung verhaftet werden. Einfache Kleidung war sicherer.",
+      "category": "Fashion",
+      "source_title": "The French Revolution: The Reign of Terror",
       "source_url": "https://www.britannica.com/event/French-Revolution"
     },
     {
-      "fact_en": "The tradition of wearing a white wedding dress is largely attributed to Queen Victoria's choice to wear a white satin gown for her marriage to Prince Albert in 1840. Before this, brides often wore colorful dresses, but Victoria's choice popularized white as a symbol of purity and wealth.",
-      "fact_de": "Die Tradition, ein weißes Hochzeitskleid zu tragen, wird größtenteils auf die Wahl von Königin Victoria zurückgeführt, die 1840 für ihre Hochzeit mit Prinz Albert ein weißes Satinbrautkleid trug. Davor trugen Bräute oft bunte Kleider, aber Victorias Wahl machte Weiß als Symbol für Reinheit und Reichtum populär.",
-      "fact_easy": "Königin Victoria trug als Erste ein weißes Hochzeitskleid. Danach wurde Weiß für Hochzeiten sehr beliebt.",
+      "fact_en": "The ancient city of Pompeii, destroyed by the eruption of Mount Vesuvius in 79 AD, possessed a sophisticated public sanitation system. They had elaborate public latrines with running water, which were communal and designed for social interaction, demonstrating an advanced understanding of hygiene and civic life for their time.",
+      "fact_de": "Die antike Stadt Pompeji, die 79 n. Chr. durch den Ausbruch des Vesuvs zerstört wurde, verfügte über ein ausgeklügeltes öffentliches Sanitärsystem. Sie hatten aufwendige öffentliche Latrinen mit fließendem Wasser, die gemeinschaftlich waren und für soziale Interaktion konzipiert wurden, was ein fortschrittliches Verständnis von Hygiene und zivilem Leben für ihre Zeit zeigt.",
+      "fact_easy": "Pompeji war eine alte Stadt in Italien. Sie hatte gute Toiletten mit Wasser. Viele Leute gingen dort zusammen hin.",
       "category": "Traditions",
-      "source_title": "Queen Victoria's Wedding Dress",
-      "source_url": "https://www.royal.uk/royal-weddings-through-history"
+      "source_title": "The Baths and Latrines of Pompeii",
+      "source_url": "https://www.nationalgeographic.com/history/article/pompeii-roman-city-preserved-volcano-mount-vesuvius"
     }
   ],
   "frankfurt": {
@@ -380,76 +364,68 @@
       {
         "type": "Events",
         "emoji": "🎪",
-        "headline_en": "Animal rights activists criticize Frankfurt's pigeon feeding policy",
-        "headline_de": "Tierschützer kritisieren Frankfurts Tauben-Fütterungspolitik",
-        "headline_easy": "Tierschützer sagen: Frankfurt füttert Tauben nicht genug.",
-        "summary_en": "Animal rights activists are criticizing Frankfurt's approach to its estimated 10,500 city pigeons, arguing the city is not feeding them sufficiently. The disagreement highlights differing views on how to manage the urban bird population.",
-        "summary_de": "Tierschützer kritisieren den Umgang Frankfurts mit seinen schätzungsweise 10.500 Stadttauben und argumentieren, die Stadt füttere sie nicht ausreichend. Die Meinungsverschiedenheit unterstreicht unterschiedliche Ansichten über die Verwaltung der städtischen Vogelpopulation.",
-        "summary_easy": "Es gibt Streit über Tauben in Frankfurt. Tierschützer sagen, die Stadt gibt den Tauben nicht genug Futter. Die Stadt und die Tierschützer sehen das anders.",
+        "headline_en": "Time Change Controversy: EU Decision Blocked by Ongoing Dispute",
+        "headline_de": "Zeitumstellung-Streit: EU-Beschluss blockiert",
+        "headline_easy": "Die Zeitumstellung soll enden. Aber ein Streit verhindert das.",
+        "summary_en": "Despite the EU having decided to end the daylight saving time change, a continuing dispute is preventing its implementation. Millions of Germans are affected by the annual clock shifts.",
+        "summary_de": "Obwohl die EU das Ende der Zeitumstellung beschlossen hat, blockiert ein anhaltender Streit die Umsetzung. Millionen Deutsche leiden jedes Jahr unter der Zeitumstellung.",
+        "summary_easy": "Die EU will die Zeitumstellung beenden. Aber ein Streit verhindert das. Viele Menschen haben Probleme wegen der Zeitumstellung.",
         "links": [
           {
-            "title": "Kritik von Tierschützern: „Frankfurt füttert seine Tauben nicht genug“",
-            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/streit-um-stadttauben-funktioniert-frankfurts-taubenhaus-konzept-accg-201601945.html"
+            "title": "Zeitumstellung am Sonntag: EU hat das Ende längst beschlossen - doch ein Streit blockiert es bis heute",
+            "url": "https://www.netzwelt.de/news/259812-zeitumstellung-sonntag-eu-ende-laengst-beschlossen-streit-blockiert-heute.html"
           }
         ]
       },
       {
         "type": "Crime",
         "emoji": "🚔",
-        "headline_en": "Eintracht Frankfurt plans for a new stadium as current one reaches its expiration date",
-        "headline_de": "Eintracht Frankfurt plant neues Stadion, da aktuelle Spielstätte ihr Ablaufdatum erreicht",
-        "headline_easy": "Eintracht Frankfurt will ein neues Stadion bauen.",
-        "summary_en": "Eintracht Frankfurt's chairman, Axel Hellmann, has prioritized the construction of a new stadium, stating the current venue has a clear expiration date. The club's future success is seen as dependent on a new arena.",
-        "summary_de": "Frankfurts Vorstandsvorsitzender Axel Hellmann hat den Bau eines neuen Stadions zur höchsten Priorität erklärt. Die aktuelle Spielstätte habe ein klares Ablaufdatum, und das Wohl des Vereins hänge von einer neuen Arena ab.",
-        "summary_easy": "Das Stadion von Eintracht Frankfurt ist alt. Der Chef von Eintracht Frankfurt sagt, der Verein braucht ein neues Stadion. Das ist wichtig für die Zukunft des Vereins.",
+        "headline_en": "Chinese Automakers Gain Ground in Hesse, Increasing Competition",
+        "headline_de": "Chinesische Autobauer erobern Hessen",
+        "headline_easy": "Neue Autos aus China sind jetzt in Hessen beliebt.",
+        "summary_en": "Chinese automakers BYD and SAIC are rapidly expanding their presence in Hesse, using the region as a base for their German operations. While this brings increased competition, it also presents new opportunities.",
+        "summary_de": "Chinesische Autobauer wie BYD und SAIC bauen ihre Präsenz in Hessen stark aus. Sie nutzen Hessen als Basis für ihre Expansion in Deutschland, was den Wettbewerb verschärft, aber auch Chancen schafft.",
+        "summary_easy": "Chinesische Autos werden in Hessen immer beliebter. Firmen wie BYD und SAIC wollen mehr Autos in Deutschland verkaufen. Das macht den Wettbewerb stärker.",
         "links": [
           {
-            "title": "Arena wurde zur WM 2006 eröffnet – warum Frankfurt schon wieder ein neues Stadion plant",
-            "url": "https://www.welt.de/sport/fussball/bundesliga/eintracht-frankfurt/article6ad71d22199dc15f1abda2ab/bis-zu-80-000-plaetze-warum-eintracht-frankfurt-ein-neues-stadion-braucht.html"
-          },
-          {
-            "title": "Revolutionärer Plan - Frankfurt-Boss kündigt neues Stadion an",
-            "url": "https://www.bild.de/sport/fussball/eintracht-frankfurt-hellmanns-revolutionaerer-stadion-plan-6ad6680d5e327b030a8554d8"
+            "title": "BYD und SAIC: Chinesische Autobauer erobern Hessen",
+            "url": "https://www.faz.net/aktuell/rhein-main/wirtschaft/byd-und-saic-wie-chinas-autobauer-hessen-erobern-accg-201213099.html"
           }
         ]
       },
       {
         "type": "Sales & Offers",
         "emoji": "🛍️",
-        "headline_en": "Eintracht Frankfurt announces plans for a new stadium",
-        "headline_de": "Eintracht Frankfurt kündigt Pläne für neues Stadion an",
-        "headline_easy": "Eintracht Frankfurt plant ein neues Stadion.",
-        "summary_en": "Axel Hellmann, the chairman of Eintracht Frankfurt, has revealed plans for a new stadium, emphasizing its importance for the club's future. The current stadium, opened for the 2006 World Cup, is considered to have reached its end of life.",
-        "summary_de": "Axel Hellmann, Vorstandsvorsitzender von Eintracht Frankfurt, hat Pläne für ein neues Stadion vorgestellt und dessen Bedeutung für die Zukunft des Vereins betont. Das aktuelle Stadion, das zur WM 2006 eröffnet wurde, hat sein Ende erreicht.",
-        "summary_easy": "Der Chef von Eintracht Frankfurt, Axel Hellmann, hat gesagt, dass der Verein ein neues Stadion bekommen soll. Das alte Stadion ist nicht mehr gut genug. Ein neues Stadion ist wichtig für Eintracht Frankfurt.",
+        "headline_en": "Chinese Automakers Expand in Hesse, Driving Sales and Competition",
+        "headline_de": "Chinesische Autobauer erobern Hessen",
+        "headline_easy": "Neue Autos aus China sind jetzt in Hessen beliebt.",
+        "summary_en": "Hesse is becoming a key market for Chinese car manufacturers like BYD and SAIC, who are rapidly increasing their sales and presence. This expansion is intensifying competition within the automotive sector while also opening up new market opportunities.",
+        "summary_de": "Hessen wird zu einem wichtigen Markt für chinesische Autohersteller wie BYD und SAIC, die ihre Verkaufszahlen und Präsenz rasant steigern. Diese Expansion verstärkt den Wettbewerb im Automobilsektor und eröffnet neue Marktchancen.",
+        "summary_easy": "Chinesische Autos werden in Hessen immer beliebter. Firmen wie BYD und SAIC wollen mehr Autos in Deutschland verkaufen. Das macht den Wettbewerb stärker.",
         "links": [
           {
-            "title": "Arena wurde zur WM 2006 eröffnet – warum Frankfurt schon wieder ein neues Stadion plant",
-            "url": "https://www.welt.de/sport/fussball/bundesliga/eintracht-frankfurt/article6ad71d22199dc15f1abda2ab/bis-zu-80-000-plaetze-warum-eintracht-frankfurt-ein-neues-stadion-braucht.html"
-          },
-          {
-            "title": "Revolutionärer Plan - Frankfurt-Boss kündigt neues Stadion an",
-            "url": "https://www.bild.de/sport/fussball/eintracht-frankfurt-hellmanns-revolutionaerer-stadion-plan-6ad6680d5e327b030a8554d8"
+            "title": "BYD und SAIC: Chinesische Autobauer erobern Hessen",
+            "url": "https://www.faz.net/aktuell/rhein-main/wirtschaft/byd-und-saic-wie-chinas-autobauer-hessen-erobern-accg-201213099.html"
           }
         ]
       },
       {
         "type": "Local News",
         "emoji": "📍",
-        "headline_en": "Eintracht Frankfurt eyes new stadium as current venue nears end-of-life",
-        "headline_de": "Eintracht Frankfurt plant neues Stadion, da aktuelle Spielstätte bald abläuft",
-        "headline_easy": "Eintracht Frankfurt möchte ein neues Stadion bauen.",
-        "summary_en": "Eintracht Frankfurt's chairman, Axel Hellmann, has announced the club's top priority is a new stadium, as the current facility, built for the 2006 World Cup, is nearing the end of its operational life. The club believes a new arena is crucial for its future well-being.",
-        "summary_de": "Der Vorstandsvorsitzende von Eintracht Frankfurt, Axel Hellmann, hat angekündigt, dass ein neues Stadion oberste Priorität hat. Die aktuelle Spielstätte aus dem Jahr 2006 hat ihr Ablaufdatum erreicht, und der Verein ist der Ansicht, dass eine neue Arena für das Wohl des Vereins entscheidend ist.",
-        "summary_easy": "Eintracht Frankfurt will ein neues Stadion bauen. Der Chef des Vereins sagt, das alte Stadion ist zu alt. Ein neues Stadion ist sehr wichtig für den Verein.",
+        "headline_en": "Markus Krösche Departs Eintracht Frankfurt Amidst Shifting Perceptions",
+        "headline_de": "Krösche-Aus bei Eintracht Frankfurt: Mallorca-Trip als Wendepunkt",
+        "headline_easy": "Markus Krösche geht von Eintracht Frankfurt weg.",
+        "summary_en": "Markus Krösche has left Eintracht Frankfurt, with his decision reportedly made during a trip to Mallorca. Despite past successes, his tenure ended with a strained relationship with the club.",
+        "summary_de": "Markus Krösche und Eintracht Frankfurt gehen getrennte Wege. Sein Entschluss fiel offenbar auf Mallorca, und die Beziehung zum Klub war zuletzt schwierig, trotz früherer Erfolge.",
+        "summary_easy": "Markus Krösche geht nicht mehr zu Eintracht Frankfurt. Er hat seine Entscheidung auf Mallorca getroffen. Seine Zeit bei dem Verein war zuletzt nicht mehr gut.",
         "links": [
           {
-            "title": "Arena wurde zur WM 2006 eröffnet – warum Frankfurt schon wieder ein neues Stadion plant",
-            "url": "https://www.welt.de/sport/fussball/bundesliga/eintracht-frankfurt/article6ad71d22199dc15f1abda2ab/bis-zu-80-000-plaetze-warum-eintracht-frankfurt-ein-neues-stadion-braucht.html"
+            "title": "Welche Rolle Mallorca-Trip spielte - Die Wahrheit hinter dem Krösche-Aus",
+            "url": "https://www.bild.de/sport/fussball/eintracht-frankfurt-die-wahrheit-hinter-dem-kroesche-aus-6ad7715d2352c608d83cf979"
           },
           {
-            "title": "Revolutionärer Plan - Frankfurt-Boss kündigt neues Stadion an",
-            "url": "https://www.bild.de/sport/fussball/eintracht-frankfurt-hellmanns-revolutionaerer-stadion-plan-6ad6680d5e327b030a8554d8"
+            "title": "Plötzlich schienen Krösches Erfolge der Vergangenheit nichts mehr wert zu sein: Markus Krösche und Eintracht Frankfurt gehen getrennte Wege. Sein Entschluss ist auf Mallorca gereift. Der Abschied fiel herzlich aus – die Beziehung zum Klub war aber schon lange nicht mehr rosig.",
+            "url": "https://www.welt.de/sport/fussball/bundesliga/eintracht-frankfurt/article6ad7124a1935debc092ab3a3/eintracht-frankfurt-kroesches-erfolge-der-vergangenheit-schienen-nichts-mehr-wert-zu-sein.html"
           }
         ]
       }
@@ -457,64 +433,64 @@
   },
   "dresden": [
     {
-      "price": "360 €",
-      "address": "Mittelweg 15, 01156 Dresden",
-      "district": "Gorbitz-Süd",
-      "size": "35",
-      "rooms": "1.5",
-      "title": "Schöne 1.5-Zimmer-Wohnung in Dresden Gorbitz-Süd",
-      "url": "https://www.immowelt.de/expose/2BFG74X",
-      "source": "Immowelt"
+      "price": "350 €",
+      "address": "Am Kirschberg 15, 01189 Dresden",
+      "district": "Gorbitz",
+      "size": "45 m²",
+      "rooms": "2",
+      "title": "Helle 2-Zimmer-Wohnung in Gorbitz",
+      "url": "https://www.immobilienscout24.de/expose/139941652",
+      "source": "Immoscout24.de"
     },
     {
-      "price": "390 €",
-      "address": "Schandauer Straße 59, 01277 Dresden",
-      "district": "Striesen-Süd",
-      "size": "40",
+      "price": "380 €",
+      "address": "Elsterstraße 12, 01127 Dresden",
+      "district": "Neustadt",
+      "size": "40 m²",
       "rooms": "1.5",
-      "title": "Helle 1,5 Zimmer Wohnung in Dresden Striesen-Süd",
-      "url": "https://www.immobilienscout24.de/expose/143560267",
-      "source": "Immoscout24"
+      "title": "Charmante 1,5-Zimmer-Wohnung in guter Lage",
+      "url": "https://www.immowelt.de/expose/220053004",
+      "source": "Immowelt.de"
+    },
+    {
+      "price": "400 €",
+      "address": "Leisniger Straße 5, 01127 Dresden",
+      "district": "Neustadt",
+      "size": "35 m²",
+      "rooms": "1",
+      "title": "Modernes Studio-Apartment in der Neustadt",
+      "url": "https://www.immowelt.de/expose/219705008",
+      "source": "Immowelt.de"
     },
     {
       "price": "410 €",
-      "address": "Dornblüthstraße 27, 01277 Dresden",
-      "district": "Striesen-Süd",
-      "size": "45",
-      "rooms": "2",
-      "title": "Gemütliche 2-Zimmer-Wohnung in ruhiger Lage",
-      "url": "https://www.immowelt.de/expose/2C4H74W",
-      "source": "Immowelt"
+      "address": "Schweriner Straße 10, 01067 Dresden",
+      "district": "Südvorstadt",
+      "size": "38 m²",
+      "rooms": "1",
+      "title": "Schöne 1-Zimmer-Wohnung mit Balkon",
+      "url": "https://www.immobilienscout24.de/expose/139951024",
+      "source": "Immoscout24.de"
     },
     {
       "price": "420 €",
-      "address": "Bergmannstraße 10, 01279 Dresden",
-      "district": "Seidnitz-Nord",
-      "size": "42",
-      "rooms": "1.5",
-      "title": "1,5 Zimmer Wohnung in Dresden Seidnitz-Nord",
-      "url": "https://www.immobilienscout24.de/expose/144340247",
-      "source": "Immoscout24"
-    },
-    {
-      "price": "435 €",
-      "address": "Käthe-Kollwitz-Platz 1, 01307 Dresden",
-      "district": "Striesen-Ost",
-      "size": "48",
-      "rooms": "2",
-      "title": "Sonnige 2-Zimmer-Wohnung Nähe Käthe-Kollwitz-Platz",
-      "url": "https://www.immowelt.de/expose/2BXY74F",
-      "source": "Immowelt"
+      "address": "Feldstraße 22, 01127 Dresden",
+      "district": "Neustadt",
+      "size": "42 m²",
+      "rooms": "1",
+      "title": "Gemütliche Wohnung in lebendiger Umgebung",
+      "url": "https://www.immowelt.de/expose/219601520",
+      "source": "Immowelt.de"
     },
     {
       "price": "440 €",
-      "address": "Fritz-Reuter-Straße 2, 01309 Dresden",
-      "district": "Striesen-West",
-      "size": "50",
+      "address": "Am See 3, 01217 Dresden",
+      "district": "Striesen",
+      "size": "50 m²",
       "rooms": "2",
-      "title": "2 Zimmer Wohnung in Dresden Striesen-West",
-      "url": "https://www.immobilienscout24.de/expose/143123789",
-      "source": "Immoscout24"
+      "title": "2-Zimmer-Wohnung in ruhiger Wohngegend",
+      "url": "https://www.immobilienscout24.de/expose/139950876",
+      "source": "Immoscout24.de"
     }
   ]
 }
