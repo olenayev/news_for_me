@@ -1,0 +1,463 @@
+{
+  "date": "Friday, October 23 2026",
+  "sections": [
+    {
+      "category": "Germany",
+      "emoji": "🇩🇪",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Global buyers chase factual content; Crunchyroll streams new anime dubs; Big Oil's role in American Dream revealed.",
+          "headline_de": "Globale Käufer jagen Sachinhalte; Crunchyroll streamt neue Anime-Synchronisationen; Die Rolle von Big Oil im amerikanischen Traum enthüllt.",
+          "headline_easy": "Käufer wollen mehr Dokumentationen. Crunchyroll zeigt neue Anime auf Englisch. Die Geschichte von Öl-Firmen und dem amerikanischen Traum.",
+          "summary_en": "Off the Fence is seeing strong demand from global buyers for its factual slate, including 'Wild Battlegrounds.'  Separately, Crunchyroll has released English dubs for 'The Prince of Tennis' films, and a new investigation explores how the oil industry shaped the American Dream.",
+          "summary_de": "Off the Fence verzeichnet eine starke Nachfrage von globalen Käufern nach seinen Sachprogrammen, einschließlich 'Wild Battlegrounds'. Separat hat Crunchyroll englische Synchronisationen für 'The Prince of Tennis'-Filme veröffentlicht, und eine neue Untersuchung beleuchtet, wie die Ölindustrie den amerikanischen Traum geformt hat.",
+          "summary_easy": "Firmen wollen Dokumentationen kaufen. Crunchyroll hat neue Anime mit englischen Stimmen. Öl-Firmen haben den Traum von Amerika mitgestaltet.",
+          "links": [
+            {
+              "title": "Global buyers chase down Wild Battlegrounds as Off the Fence reveals factual slate",
+              "url": "https://www.c21media.net/news/global-buyers-chase-down-wild-battlegrounds-as-off-the-fence-reveals-factual-slate/"
+            },
+            {
+              "title": "Crunchyroll Streams English Dub for 'The Prince of Tennis: Two Samurais, The First Game,' The Prince of Tennis: A Gift from Atobe Films",
+              "url": "https://www.animenewsnetwork.com/news/2026-10-22/crunchyroll-streams-english-dub-for-the-prince-of-tennis-two-samurais-the-first-game-the-prince-of-/.243100"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Investors reduce stakes as deadline nears; NVIDIA transforms European retail; 'People vote their real lives.'",
+          "headline_de": "Investoren reduzieren Anteile vor Fristablauf; NVIDIA transformiert den europäischen Einzelhandel; 'Menschen stimmen mit ihrem realen Leben ab.'",
+          "headline_easy": "Investoren verkaufen Anteile. NVIDIA verändert Geschäfte in Europa. Menschen wählen, wie sie leben.",
+          "summary_en": "Top investors are selling down stakes in Ires below a proposal price as a deadline approaches. NVIDIA is making significant changes in European retail operations, from digital discovery to physical execution. A commentary suggests public voting decisions are driven by personal realities.",
+          "summary_de": "Top-Investoren verkaufen Anteile an Ires unter einem Vorschlagspreis, da sich eine Frist nähert. NVIDIA nimmt signifikante Änderungen im europäischen Einzelhandel vor, von der digitalen Entdeckung bis zur physischen Umsetzung. Ein Kommentar deutet darauf hin, dass öffentliche Abstimmungsentscheidungen von persönlichen Realitäten getrieben werden.",
+          "summary_easy": "Große Investoren verkaufen ihre Aktien. NVIDIA macht große Änderungen für Geschäfte in Europa. Menschen entscheiden nach ihrem Leben.",
+          "links": [
+            {
+              "title": "Top Ires investors sell down stakes below Barings proposal price as deadline nears",
+              "url": "https://www.irishtimes.com/business/2026/10/22/top-ires-investors-sell-down-stakes-below-barings-proposal-as-deadline-nears/"
+            },
+            {
+              "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+              "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Europe",
+      "emoji": "🇪🇺",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "PHP fixes released after widespread hacker targeting; Man's 28-year journey to England nears end; Highway development's impact on river Beas questioned.",
+          "headline_de": "PHP-Fixes veröffentlicht nach weltweiter Hacker-Attacke; Die 28-jährige Reise eines Mannes nach England nähert sich dem Ende; Auswirkungen der Straßenentwicklung auf den Fluss Beas hinterfragt.",
+          "headline_easy": "PHP hat jetzt sichere Updates. Ein Mann ist 28 Jahre zu Fuß unterwegs und bald da. Die Straßen verändern den Fluss Beas.",
+          "summary_en": "Urgent security fixes have been issued for PHP following targeted attacks on major websites. A man's 28-year overland journey from Chile to England is nearing its completion. An article questions whether highway development has adequately considered its impact on the Beas River.",
+          "summary_de": "Nach gezielten Angriffen auf große Websites wurden dringende Sicherheitsupdates für PHP veröffentlicht. Die 28-jährige Reise eines Mannes zu Fuß von Chile nach England nähert sich ihrem Ende. Ein Artikel stellt die Frage, ob die Straßenentwicklung die Auswirkungen auf den Fluss Beas angemessen berücksichtigt hat.",
+          "summary_easy": "PHP wurde von Hackern angegriffen. Wichtige Updates sind da. Ein Mann läuft seit 28 Jahren nach England. Er ist bald da. Straßenbau verändert den Fluss Beas.",
+          "links": [
+            {
+              "title": "PHP releases emergency fixes as some of the world's biggest websites say they were targeted by hackers",
+              "url": "https://www.techradar.com/pro/security/php-releases-emergency-fixes-as-some-of-the-worlds-biggest-websites-say-they-were-targeted-by-hackers"
+            },
+            {
+              "title": "He left Chile on foot to England 28 years ago. He's almost finally home",
+              "url": "https://www.npr.org/2026/10/21/nx-s1-5998701/karl-bushby-goliath-expedition"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Vega Foundation reshapes moving-image art; Big Tech impacts Spain's landscape; 'Pirate Mo' film secures wide international distribution.",
+          "headline_de": "Vega Foundation gestaltet bewegte Kunst neu; Big Tech beeinflusst Spaniens Landschaft; 'Pirate Mo'-Film sichert breite internationale Verbreitung.",
+          "headline_easy": "Vega Foundation macht Kunst mit Bildern neu. Große Tech-Firmen verändern Spanien. Der Film 'Pirate Mo' läuft in vielen Ländern.",
+          "summary_en": "The Elisa Nuyten’s Vega Foundation is noted for its significant influence on moving-image art. A report details how Big Tech is altering Spain's environment and infrastructure. The film 'Pirate Mo and the Legend of the Red Ruby' is set for a wide release in over 50 countries.",
+          "summary_de": "Die Vega Foundation von Elisa Nuyten ist bekannt für ihren bedeutenden Einfluss auf die Kunst mit bewegten Bildern. Ein Bericht beschreibt, wie Big Tech Spaniens Umwelt und Infrastruktur verändert. Der Film 'Pirate Mo and the Legend of the Red Ruby' soll in über 50 Ländern breit veröffentlicht werden.",
+          "summary_easy": "Die Vega Foundation hilft Künstlern mit Filmen. Große Technik-Firmen verändern Spanien. Ein neuer Film namens 'Pirate Mo' wird überall gezeigt.",
+          "links": [
+            {
+              "title": "Elisa Nuyten’s Vega Foundation Is Quietly Reshaping the World of Moving-Image Art",
+              "url": "https://www.artnews.com/art-news/news/elisa-nuyten-vega-foundation-moving-image-art-1234802992/"
+            },
+            {
+              "title": "See how Big Tech is transforming Spain's landscape",
+              "url": "https://www.npr.org/2026/10/22/nx-s1-5991641/ai-data-centers-spain-environmental-impact"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Call for dialogue with communists; Vega Foundation influences art.",
+          "headline_de": "Aufruf zum Dialog mit Kommunisten; Vega Foundation beeinflusst Kunst.",
+          "headline_easy": "Man soll mit Kommunisten reden. Die Vega Foundation hilft Künstlern.",
+          "summary_en": "An opinion piece argues for the necessity of engaging in dialogue with communists to foster understanding and learning. The Elisa Nuyten’s Vega Foundation is also highlighted for its impact on the moving-image art world.",
+          "summary_de": "Ein Meinungsbeitrag betont die Notwendigkeit des Dialogs mit Kommunisten, um Verständnis und Lernen zu fördern. Die Vega Foundation von Elisa Nuyten wird ebenfalls für ihren Einfluss auf die Kunstwelt der bewegten Bilder hervorgehoben.",
+          "summary_easy": "Es ist wichtig, mit Kommunisten zu sprechen. Sie können viel lernen. Die Vega Foundation unterstützt Kunst mit Filmen.",
+          "links": [
+            {
+              "title": "We need to talk to communists because there is so much they need to learn",
+              "url": "https://www.foxnews.com/opinion/need-talk-communists-much-they-need-learn"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "European markets open lower amid earnings and Ukraine talks; Elon Musk sets lower Tesla sales target; Shanghai stocks slide.",
+          "headline_de": "Europäische Märkte eröffnen niedriger nach Ergebnissen und Ukraine-Gesprächen; Elon Musk setzt niedrigeres Umsatzziel für Tesla; Shanghai-Aktien rutschen ab.",
+          "headline_easy": "Die Börsen in Europa sind am Morgen schlechter. Elon Musk will weniger Teslas verkaufen. Aktien in Shanghai fallen.",
+          "summary_en": "European stock markets experienced a lower opening influenced by recent earnings reports and ongoing discussions regarding Ukraine. Elon Musk has set a reduced sales target for Tesla while exploring a SpaceX merger. Meanwhile, Shanghai stocks are nearing yearly lows due to a tech sell-off and fading stimulus hopes.",
+          "summary_de": "Die europäischen Aktienmärkte verzeichneten eine niedrigere Eröffnung, beeinflusst durch aktuelle Ergebnisberichte und laufende Gespräche bezüglich der Ukraine. Elon Musk hat ein reduziertes Umsatzziel für Tesla festgelegt und prüft eine SpaceX-Fusion. Unterdessen nähern sich die Aktien in Shanghai aufgrund eines Tech-Ausverkaufs und schwindender Hoffnungen auf Konjunkturpakete Jahrestiefstständen.",
+          "summary_easy": "Börsen in Europa sind heute nicht gut. Elon Musk verkauft weniger Autos. Die Aktien in China fallen stark.",
+          "links": [
+            {
+              "title": "Europe opens lower after earnings, Ukraine talks",
+              "url": "https://biztoc.com/x/191ceb6d356371a8"
+            },
+            {
+              "title": "Elon Musk sets lower sales target for Tesla as it explores SpaceX merger",
+              "url": "https://www.irishtimes.com/business/2026/10/22/elon-musk-sets-lower-sales-target-for-tesla-as-it-explores-spacex-merger/"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "Influencer faces FIR for alleged racial slur; Call for dialogue with communists.",
+          "headline_de": "Influencer steht unter Anklage wegen mutmaßlicher rassistischer Beleidigung; Aufruf zum Dialog mit Kommunisten.",
+          "headline_easy": "Ein Influencer hat rassistische Dinge gesagt. Er hat jetzt Ärger. Man soll mit Kommunisten reden.",
+          "summary_en": "A social media influencer in Delhi has had an FIR filed against him for allegedly making racial slurs against Tripura youth. An opinion piece also suggests the importance of communicating with communists.",
+          "summary_de": "Gegen einen Social-Media-Influencer in Delhi wurde eine FIR eingereicht, weil er mutmaßlich rassistische Beleidigungen gegen Jugendliche aus Tripura geäußert hat. Ein Meinungsbeitrag hebt auch die Bedeutung der Kommunikation mit Kommunisten hervor.",
+          "summary_easy": "Ein Mann hat im Internet schlechte Dinge über Leute gesagt. Die Polizei ermittelt. Es ist gut, mit Kommunisten zu sprechen.",
+          "links": [
+            {
+              "title": "‘Chinese’ jibe: Delhi Police files FIR against social media influencer Amir Shokeen over racial slurs against Tripura youth",
+              "url": "https://timesofindia.indiatimes.com/city/delhi/chinese-jibe-delhi-police-files-fir-against-social-media-influencer-amir-shokeen-over-alleged-racial-slurs-against-tripura-youth/articleshow/135113052.cms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "US",
+      "emoji": "🇺🇸",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Tips for desk-related pain relief; Trump urged to counter Democratic 'blue-wave blitz'.",
+          "headline_de": "Tipps zur Linderung von Schreibtisch-Beschwerden; Trump aufgefordert, den 'Blue-Wave-Blitz' der Demokraten zu kontern.",
+          "headline_easy": "Tipps gegen Schmerzen vom Sitzen. Trump soll gegen die Demokraten kämpfen.",
+          "summary_en": "The article offers five simple methods to alleviate the discomfort associated with prolonged desk work. Additionally, a political commentary urges Donald Trump to actively campaign on airwaves to counter what is described as a 'blue-wave blitz' by Democrats.",
+          "summary_de": "Der Artikel bietet fünf einfache Methoden zur Linderung von Beschwerden im Zusammenhang mit langer Schreibtisch arbeit. Darüber hinaus fordert ein politischer Kommentar Donald Trump auf, aktiv in den Medien zu werben, um dem, was als 'Blue-Wave-Blitz' der Demokraten bezeichnet wird, entgegenzuwirken.",
+          "summary_easy": "Man kann etwas gegen Schmerzen tun, wenn man lange sitzt. Trump soll mehr im Fernsehen und Radio sprechen. Er soll gegen die Demokraten kämpfen.",
+          "links": [
+            {
+              "title": "5 simple ways to relieve the aches and pains of sitting at a desk all day",
+              "url": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day"
+            },
+            {
+              "title": "MORNING GLORY: Trump must go to war on the airwaves to stop Democrats’ blue-wave blitz",
+              "url": "https://www.foxnews.com/opinion/morning-glory-trump-must-go-war-airwaves-stop-democrats-blue-wave-blitz"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Dow futures drop ahead of earnings; Oil prices highlight need for renewables in poor countries; India Cements surges.",
+          "headline_de": "Dow-Futures fallen vor Ergebnissen; Ölpreise unterstreichen Bedarf an erneuerbaren Energien in armen Ländern; India Cements steigt stark.",
+          "headline_easy": "Die Börse Dow fällt. Öl wird teuer. Länder, die arm sind, brauchen neue Energie. Indien-Aktien steigen.",
+          "summary_en": "Dow futures showed a significant decline in premarket trading ahead of earnings announcements. Soaring oil prices are emphasizing the need for developing nations to adopt renewable energy sources. Indian company India Cements saw a substantial surge in its share price.",
+          "summary_de": "Dow-Futures zeigten im vorbörslichen Handel vor den Ergebnisankündigungen einen deutlichen Rückgang. Steigende Ölpreise unterstreichen die Notwendigkeit für Entwicklungsländer, erneuerbare Energiequellen zu nutzen. Das indische Unternehmen India Cements verzeichnete einen erheblichen Anstieg seines Aktienkurses.",
+          "summary_easy": "Die Börse Dow ist heute schlechter. Öl ist jetzt teuer. Arme Länder brauchen mehr grüne Energie. Die Aktien von India Cements sind stark gestiegen.",
+          "links": [
+            {
+              "title": "Dow sinks by 350 pts in premarket ahead of earnings",
+              "url": "https://biztoc.com/x/d56fa2e993d4edee"
+            },
+            {
+              "title": "Soaring oil prices underscore the need to help poor countries adopt renewables",
+              "url": "https://grist.org/international/oil-prices-developing-countries-energy-transition-iran-war/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Asia",
+      "emoji": "🌏",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Silver ETFs dip; Saudi Arabia seeks overseas oil storage; Singapore and Malaysia lead ASEAN rankings.",
+          "headline_de": "Silber-ETFs fallen; Saudi-Arabien sucht überseeische Ölbevorratung; Singapur und Malaysia führen ASEAN-Rankings an.",
+          "headline_easy": "Wertpapiere für Silber fallen. Saudi-Arabien will Öl im Ausland lagern. Singapur und Malaysia sind die Besten in ASEAN.",
+          "summary_en": "Silver Exchange Traded Funds have experienced a decline due to fears of interest rate hikes. Saudi Arabia is exploring options for overseas oil storage for its national company Aramco. In education, Singapore and Malaysia have topped the AppliedEdu ASEAN rankings.",
+          "summary_de": "Silber-Exchange-Traded-Fonds sind aufgrund von Zinserhöhungsängsten gefallen. Saudi-Arabien prüft Möglichkeiten zur überseeischen Ölbevorratung für sein nationales Unternehmen Aramco. Im Bildungsbereich führen Singapur und Malaysia die AppliedEdu ASEAN-Rankings an.",
+          "summary_easy": "Aktien für Silber sind gefallen. Saudi-Arabien will Öl in anderen Ländern speichern. Singapur und Malaysia sind die besten Länder in Asien für Bildung.",
+          "links": [
+            {
+              "title": "Silver ETFs dip nearly 3% as rate hike fears overshadow safe-haven appeal",
+              "url": "https://www.business-standard.com/markets/news/silver-etfs-dip-nearly-3-as-rate-hike-fears-overshadow-safe-haven-appeal-126102200681_1.html"
+            },
+            {
+              "title": "Saudi Arabia Seeks Access to Overseas Oil Storage for Aramco",
+              "url": "https://gcaptain.com/saudi-arabia-seeks-access-to-overseas-oil-storage-for-aramco/"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Arclin expands Nomex® manufacturing; Silver ETFs dip; China targets offshore wealth with new tax.",
+          "headline_de": "Arclin erweitert Nomex®-Fertigung; Silber-ETFs fallen; China besteuert Offshore-Vermögen.",
+          "headline_easy": "Arclin baut mehr Produkte. Wertpapiere für Silber fallen. China will mehr Geld von reichen Leuten im Ausland.",
+          "summary_en": "Arclin is strategically expanding its manufacturing capacity for Nomex®. Silver ETFs are seeing a dip due to concerns over interest rate hikes. China is implementing new taxes on offshore wealth to address its fiscal situation.",
+          "summary_de": "Arclin erweitert strategisch seine Fertigungskapazitäten für Nomex®. Silber-ETFs verzeichnen aufgrund von Bedenken hinsichtlich Zinserhöhungen einen Rückgang. China führt neue Steuern auf ausländisches Vermögen ein, um seine finanzielle Situation zu verbessern.",
+          "summary_easy": "Arclin baut mehr Fabriken für Nomex. Silber-Aktien sind gefallen. China führt neue Steuern ein.",
+          "links": [
+            {
+              "title": "Arclin Announces Strategic Expansion of Nomex® Manufacturing Capacity",
+              "url": "https://www.prnewswire.com/news-releases/arclin-announces-strategic-expansion-of-nomex-manufacturing-capacity-302916034.html"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Akasa Air expands fleet; China targets offshore wealth; Nikkei sinks on chip sell-off.",
+          "headline_de": "Akasa Air erweitert Flotte; China besteuert Offshore-Vermögen; Nikkei fällt wegen Chip-Ausverkauf.",
+          "headline_easy": "Akasa Air hat mehr Flugzeuge. China will mehr Geld von reichen Leuten im Ausland. Die Börse Nikkei fällt.",
+          "summary_en": "Akasa Air has taken delivery of a new Boeing 737 MAX 8-200, expanding its fleet to 44 aircraft. China is introducing new taxes on offshore wealth to bolster its finances. The Nikkei index fell sharply, led by a sell-off in semiconductor stocks.",
+          "summary_de": "Akasa Air hat eine neue Boeing 737 MAX 8-200 erhalten und seine Flotte auf 44 Flugzeuge erweitert. China führt neue Steuern auf ausländisches Vermögen ein, um seine Finanzen zu stärken. Der Nikkei-Index fiel stark, angeführt von einem Ausverkauf bei Halbleiteraktien.",
+          "summary_easy": "Akasa Air hat neue Flugzeuge bekommen. China hat neue Steuern. Die Börse Nikkei ist heute schlecht.",
+          "links": [
+            {
+              "title": "Akasa Air expands fleet to 44 with delivery of Boeing 737 MAX 8-200 - CNBC TV18",
+              "url": "https://www.cnbctv18.com/business/aviation/akasa-air-expands-fleet-to-44-with-delivery-of-boeing-737-max-8-200-20016965.htm"
+            },
+            {
+              "title": "Cash-strapped China targets offshore wealth with new tax",
+              "url": "https://punchng.com/cash-strapped-china-targets-offshore-wealth-with-new-tax/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "World",
+      "emoji": "🌍",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "PHP security flaw causes widespread website issues; K-drama 'Tantara' confirmed for December 2026 release.",
+          "headline_de": "PHP-Sicherheitslücke verursacht weitreichende Website-Probleme; K-Drama 'Tantara' bestätigt für Dezember 2026.",
+          "headline_easy": "PHP hat ein Sicherheitsproblem. Viele Webseiten haben Probleme. Ein neues K-Drama kommt bald.",
+          "summary_en": "A significant PHP vulnerability has led to widespread exploit attempts, prompting urgent fixes from developers. Additionally, the highly anticipated K-drama series 'Tantara' has been officially confirmed for a December 2026 release.",
+          "summary_de": "Eine bedeutende PHP-Schwachstelle hat zu weitreichenden Exploit-Versuchen geführt und dringende Korrekturen von den Entwicklern erfordert. Darüber hinaus wurde die mit Spannung erwartete K-Drama-Serie 'Tantara' offiziell für eine Veröffentlichung im Dezember 2026 bestätigt.",
+          "summary_easy": "PHP hat ein Problem mit Sicherheit. Viele Webseiten sind betroffen. Ein neues koreanisches Drama kommt im Dezember 2026.",
+          "links": [
+            {
+              "title": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
+              "url": "https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure"
+            },
+            {
+              "title": "‘Tantara’ Netflix Period K-Drama Series Officially Confirmed for December 2026 Release",
+              "url": "https://www.whats-on-netflix.com/news/k-dramas/netflix-sets-december-2026-release-date-gong-yoo-k-drama-tantara/"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Justice sought for Rwandan dissident's killing; Super El Niño expected; PHP flaw causes widespread website issues.",
+          "headline_de": "Gerechtigkeit für Tötung eines ruandischen Dissidenten gefordert; Super El Niño erwartet; PHP-Fehler verursacht weitreichende Website-Probleme.",
+          "headline_easy": "Gerechtigkeit für einen Mann aus Ruanda. Ein starkes El Niño Wetter ist erwartet. PHP hat ein Sicherheitsproblem.",
+          "summary_en": "There are calls for justice in Uganda regarding the killing of a Rwandan dissident. A 'super El Niño' event is predicted to reach unprecedented strength, potentially causing global weather chaos. A critical PHP flaw has also led to millions of exploit attempts on websites worldwide.",
+          "summary_de": "In Uganda werden Gerechtigkeit für die Tötung eines ruandischen Dissidenten gefordert. Ein 'Super El Niño'-Ereignis wird voraussichtlich eine beispiellose Stärke erreichen und potenziell globales Wetterchaos verursachen. Eine kritische PHP-Schwachstelle hat ebenfalls zu Millionen von Exploit-Versuchen auf Websites weltweit geführt.",
+          "summary_easy": "Man fordert Gerechtigkeit für einen Mann. Ein starker El Niño kommt. Das Wetter wird wild. PHP hat ein Sicherheitsproblem, das viele Webseiten betrifft.",
+          "links": [
+            {
+              "title": "Uganda: Ensure Justice for Killing of Rwandan Dissident",
+              "url": "https://www.hrw.org/news/2026/10/22/uganda-ensure-justice-for-killing-of-rwandan-dissident"
+            },
+            {
+              "title": "Super El Niño is off the CHARTS: Fresh figures suggest the climate event will reach 'unprecedented strength' by December - sparking weather chaos globally",
+              "url": "https://www.dailymail.com/sciencetech/article-16229073/Super-El-Nino-unprecedented-strength.html"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Justice sought for Rwandan dissident's killing; Software package 'onlyworlds' released.",
+          "headline_de": "Gerechtigkeit für Tötung eines ruandischen Dissidenten gefordert; Softwarepaket 'onlyworlds' veröffentlicht.",
+          "headline_easy": "Gerechtigkeit für einen Mann aus Ruanda. Ein neues Programm ist fertig.",
+          "summary_en": "Calls are being made for justice in Uganda concerning the killing of a Rwandan dissident. Separately, a software package named 'onlyworlds' has been released.",
+          "summary_de": "Es werden Forderungen nach Gerechtigkeit in Uganda im Zusammenhang mit der Tötung eines ruandischen Dissidenten laut. Separat wurde ein Softwarepaket namens 'onlyworlds' veröffentlicht.",
+          "summary_easy": "Man fordert Gerechtigkeit für einen Mann. Ein neues Programm namens 'onlyworlds' ist da.",
+          "links": [
+            {
+              "title": "onlyworlds 0.18.0",
+              "url": "https://pypi.org/project/onlyworlds/0.18.0/"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Voter concerns over alleged abuse; AI safety bottleneck discussed.",
+          "headline_de": "Wählerbedenken wegen angeblichen Missbrauchs; Engpass bei KI-Sicherheit diskutiert.",
+          "headline_easy": "Interessieren sich Wähler für Missbrauch? Die Sicherheit von KI ist wichtig.",
+          "summary_en": "A political commentary questions whether voters will be concerned about alleged abuse involving Max Miller. The article also touches on the 'AI safety bottleneck' and the debate between saving the world and financial gain in AI development.",
+          "summary_de": "Ein politischer Kommentar stellt die Frage, ob Wähler sich über angeblichen Missbrauch im Zusammenhang mit Max Miller Sorgen machen werden. Der Artikel befasst sich auch mit dem 'KI-Sicherheitsengpass' und der Debatte zwischen Weltenrettung und finanziellem Gewinn bei der KI-Entwicklung.",
+          "summary_easy": "Frage: Machen Wähler sich Sorgen über einen Politiker? Die KI-Sicherheit ist ein großes Thema. Man spricht darüber, wie man die Welt rettet und Geld verdient.",
+          "links": [
+            {
+              "title": "Will Voters Care About Max Miller’s Alleged Abuse?",
+              "url": "http://nymag.com/intelligencer/article/will-voters-care-about-rep-max-millers-alleged-abuse.html"
+            },
+            {
+              "title": "The AI safety bottleneck: Save the world or get the bag",
+              "url": "https://www.businessinsider.com/ai-safety-jobs-pay-work-in-labs-nonprofits-save-humanity-2026-10#article"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "Art retrospective opens in China; Cold mortality monitoring report published.",
+          "headline_de": "Kunst-Retrospektive in China eröffnet; Bericht zur Kältestarblichkeit veröffentlicht.",
+          "headline_easy": "Kunstausstellung in China. Bericht über Kälte und Tod.",
+          "summary_en": "An art retrospective titled 'The Radiance of All Things: A Retrospective of Chu Teh-Chun' has opened at the Art Museum of China Academy of Art. Separately, the UK Health Security Agency has published its latest report on cold mortality monitoring.",
+          "summary_de": "Eine Kunst-Retrospektive mit dem Titel 'The Radiance of All Things: A Retrospective of Chu Teh-Chun' wurde im Kunstmuseum der Chinesischen Kunstakademie eröffnet. Separat hat die UK Health Security Agency ihren neuesten Bericht zur Überwachung der Kältestarblichkeit veröffentlicht.",
+          "summary_easy": "Eine Ausstellung mit Kunst von Chu Teh-Chun ist in China. Ein Bericht über Kälte und den Tod ist jetzt da.",
+          "links": [
+            {
+              "title": "The Radiance of All Things: A Retrospective of Chu Teh-Chun opens at the Art Museum of China Academy of Art",
+              "url": "https://www.prnewswire.com/news-releases/the-radiance-of-all-things-a-retrospective-of-chu-teh-chun-opens-at-the-art-museum-of-china-academy-of-art-302916737.html"
+            },
+            {
+              "title": "UKHSA publishes latest Cold mortality monitoring report",
+              "url": "https://www.gov.uk/government/news/ukhsa-publishes-latest-cold-mortality-monitoring-report"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "bundestag": {
+    "wahlperiode": 21,
+    "sitzung": 103,
+    "url": "https://dserver.bundestag.de/btp/21/21103.pdf",
+    "summary_en": "The 103rd session of the German Bundestag on October 16, 2026, featured extensive debate on several key legislative proposals and motions. A significant portion of the session was dedicated to the \"Frühstartrente\" (early start pension) bill, which underwent its second and third readings, with reports from the Budget Committee and Finance Committee. The AfD, represented by Ulrike Schielke-Ziesing and Iris Nieland, proposed a \"Junior Savings Account\" for secure pensions for children, while Die Linke, with MPs like Lisa Schubert and Janine Wissler, advocated for strengthening financial education for all young people. The CDU/CSU, through Fritz Güntzler and Dr. Carsten Brodesser, also engaged in these discussions. The session also addressed the health and social care system, with Die Linke (Evelyn Schötz, Nicole Gohlke) introducing a motion to align long-term care insurance with solidarity and needs, and to prevent benefit cuts. BÜNDNIS 90/DIE GRÜNEN (Simone Fischer, Dr. Jan-Niclas Gesenhues) presented a proposal for a sustainable care reform to secure social long-term care insurance for the future. The AfD, including MPs like Torben Braga and Diana Zimmer, expressed concerns about various policies. Further agenda items included the first reading of a bill to modernize arbitration law, a government bill to reduce bureaucracy in the transport sector, and a motion by BÜNDNIS 90/DIE GRÜNEN (Harald Ebner, Dr. Jan-Niclas Gesenhues) to send a strong signal for the protection of our livelihoods at the biodiversity conference in Yerevan. The AfD (Adam Balten, Karsten Hilse) also proposed ensuring technological openness in the transport sector and ending the privileging of electromobility.",
+    "summary_de": "Die 103. Sitzung des Deutschen Bundestages am 16. Oktober 2026 war geprägt von intensiven Debatten über mehrere zentrale Gesetzesvorhaben und Anträge. Ein erheblicher Teil der Sitzung widmete sich dem Gesetz zur Einführung einer Frühstartrente, das seine zweite und dritte Beratung durchlief, mit Berichten des Haushaltsausschusses und des Finanzausschusses. Die AfD, vertreten durch Ulrike Schielke-Ziesing und Iris Nieland, schlug ein \"Junior-Spar-Depot\" für eine sichere Rente unserer Kinder vor, während Die Linke mit Abgeordneten wie Lisa Schubert und Janine Wissler die Stärkung der finanziellen Bildung für alle jungen Menschen forderte. Auch die CDU/CSU, vertreten durch Fritz Güntzler und Dr. Carsten Brodesser, beteiligte sich an diesen Diskussionen. Die Sitzung befasste sich zudem mit dem Gesundheits- und Pflegesystem, wobei Die Linke (Evelyn Schötz, Nicole Gohlke) einen Antrag zur solidarischen und bedarfsgerechten Ausrichtung der Pflegeversicherung und zur Verhinderung von Leistungskürzungen einbrachte. BÜNDNIS 90/DIE GRÜNEN (Simone Fischer, Dr. Jan-Niclas Gesenhues) legte einen Vorschlag für eine nachhaltige Pflegereform vor, um die soziale Pflegeversicherung zukunftsfest zu machen. Die AfD, darunter Abgeordnete wie Torben Braga und Diana Zimmer, äußerte Bedenken zu verschiedenen Politikansätzen. Weitere Tagesordnungspunkte umfassten die erste Beratung eines Gesetzes zur Modernisierung des Schiedsverfahrensrechts, einen Gesetzentwurf der Bundesregierung zum Bürokratierückbau im Verkehrsbereich sowie einen Antrag von BÜNDNIS 90/DIE GRÜNEN (Harald Ebner, Dr. Jan-Niclas Gesenhues), bei der Biodiversitätskonferenz in Jerewan ein starkes Signal zum Schutz unserer Lebensgrundlagen zu setzen. Die AfD (Adam Balten, Karsten Hilse) beantragte zudem, Technologieoffenheit im Verkehrssektor zu gewährleisten und die Privilegierung der Elektromobilität zu beenden.",
+    "summary_easy": "Am Freitag, dem 16. Oktober 2026, tagte der Deutsche Bundestag. Die Abgeordneten sprachen über viele wichtige Themen. Ein großes Thema war die neue \"Frühstartrente\". Das ist eine Rente, die man früher bekommen kann. Die AfD wollte ein Spar-Konto für Kinder. Sie nannten es \"Junior-Spar-Depot\". Die Partei \"Die Linke\" forderte mehr Geld-Unterricht für junge Leute. Diese Themen betrafen auch die Finanzen und das Sparen. Ein anderes wichtiges Thema war die Pflege. \"Die Linke\" wollte, dass die Pflege gut und fair ist. Sie wollen keine gekürzten Leistungen. Die Grünen schlugen eine neue Pflege-Reform vor. Sie soll die Pflege-Versicherung für die Zukunft sichern. Die AfD hatte auch Ideen für die Verkehrswende. Sie sprachen über Elektro-Autos. Die Abgeordneten diskutierten auch über Umweltschutz.",
+    "ukrainian_men": "Kein Thema in dieser Sitzung."
+  },
+  "facts": [
+    {
+      "fact_en": "During the Dutch Golden Age, tulips were so highly prized that their bulbs were traded as a form of currency, leading to a speculative bubble known as 'Tulip Mania'. Prices for some bulbs exceeded the cost of a house, demonstrating the extreme financial and social impact of a single fashionable commodity.",
+      "fact_de": "Während des niederländischen Goldenen Zeitalters waren Tulpen so hoch geschätzt, dass ihre Zwiebeln als eine Form von Währung gehandelt wurden, was zu einer Spekulationsblase namens 'Tulpenmanie' führte. Die Preise für einige Zwiebeln überstiegen die Kosten eines Hauses und zeigten die extremen finanziellen und sozialen Auswirkungen einer einzigen modischen Ware.",
+      "fact_easy": "In den Niederlanden waren Tulpen sehr wertvoll. Man tauschte die Zwiebeln wie Geld. Der Preis für einige Zwiebeln war so hoch wie für ein Haus. Das war die 'Tulpenmanie'.",
+      "category": "Traditions",
+      "source_title": "Tulip Mania - Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Tulip_mania"
+    },
+    {
+      "fact_en": "The original Statue of Liberty was intended to be a gift from France to the United States in honor of abolition of slavery, not solely for the centenary of American independence. Frédéric Auguste Bartholdi, the sculptor, envisioned it as a monument to freedom and emancipation.",
+      "fact_de": "Die ursprüngliche Freiheitsstatue sollte ein Geschenk Frankreichs an die Vereinigten Staaten zur Feier der Abschaffung der Sklaverei sein und nicht nur zum hundertsten Jahrestag der amerikanischen Unabhängigkeit. Frédéric Auguste Bartholdi, der Bildhauer, sah sie als Denkmal für Freiheit und Emanzipation.",
+      "fact_easy": "Die Freiheitsstatue war ein Geschenk von Frankreich an Amerika. Sie sollte an die Abschaffung der Sklaverei erinnern. Sie war auch ein Zeichen für Freiheit und Befreiung.",
+      "category": "Politics",
+      "source_title": "Statue of Liberty - Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Statue_of_Liberty"
+    }
+  ],
+  "frankfurt": {
+    "topics": [
+      {
+        "type": "Events",
+        "emoji": "🎪",
+        "headline_en": "Emirates Continues to Shun Berlin Airport Despite Aviation Deal",
+        "headline_de": "Emirates fliegt BER trotz Verkehrsabkommen weiterhin nicht an",
+        "headline_easy": "Emirates fliegt Flughafen Berlin noch nicht an.",
+        "summary_en": "Emirates has decided not to serve Berlin's BER airport, citing the need for clarification on a recently concluded aviation agreement with the federal government. This means no new long-haul flights from the Dubai-based airline will be offered in the immediate future, causing disappointment for the capital.",
+        "summary_de": "Emirates wird den Hauptstadtflughafen BER vorerst nicht anfliegen, da die Airline Klärungsbedarf bei einem abgeschlossenen Verkehrsabkommen mit der Bundesregierung sieht. Dies bedeutet, dass vorerst keine neuen Langstreckenflüge von Emirates ab Berlin angeboten werden, was zu Enttäuschung in der Hauptstadt führt.",
+        "summary_easy": "Emirates hat einen neuen Vertrag mit der Regierung. Aber Emirates fliegt den Flughafen in Berlin noch nicht an. Die Airline hat Fragen zum Vertrag. Berlin ist enttäuscht.",
+        "links": [
+          {
+            "title": "Trotz Verkehrsabkommen mit der Bundesregierung: Emirates fliegt Hauptstadtflughafen BER weiterhin nicht an: Enttäuschung für Berlin: Vorerst werden keine neuen Langstreckenflüge vom Flughafen BER angeboten. Die Airline Emirates aus Dubai sieht Klärungsbedarf beim abgeschlossenen Abkommen.",
+            "url": "https://www.tagesspiegel.de/berlin/trotz-verkehrsabkommen-mit-der-bundesregierung-emirates-fliegt-hauptstadtflughafen-ber-vorerst-nicht-an-16187058.html"
+          },
+          {
+            "title": "Emirates lässt Berlin vorerst links liegen: Hauptstadtflughafen BER wird nicht zusätzlich angeflogen: Enttäuschung für Berlin: Vorerst werden keine neuen Langstreckenflüge vom Flughafen BER angeboten. Emirates aus Dubai sieht Klärungsbedarf beim abgeschlossenen Abkommen.",
+            "url": "https://www.tagesspiegel.de/berlin/emirates-lasst-berlin-vorerst-links-liegen-hauptstadtflughafen-ber-wird-nicht-zusatzlich-angeflogen-16187058.html"
+          }
+        ]
+      },
+      {
+        "type": "Crime",
+        "emoji": "🚔",
+        "headline_en": "Frankfurt's Goethe University Faces Criticism Over Reform Plans",
+        "headline_de": "Goethe-Uni Frankfurt: Harsche Kritik an Reformplänen des Präsidiums",
+        "headline_easy": "Goethe-Universität in Frankfurt hat neue Pläne.",
+        "summary_en": "The Goethe University in Frankfurt is facing strong opposition to its reform plans, which include reducing the number of departments from 16 to seven and cutting around 60 professorships. Students are critical of the process, while opposition politicians are decrying the proposed cuts.",
+        "summary_de": "Die Goethe-Universität Frankfurt sieht sich mit scharfer Kritik an ihren Reformplänen konfrontiert, die eine Reduzierung von 16 auf sieben Fachbereiche und den Wegfall von etwa 60 Professuren vorsehen. Studierende bemängeln insbesondere das Verfahren, während Oppositionspolitiker die Kürzungen scharf verurteilen.",
+        "summary_easy": "Die Uni Frankfurt will ihre Struktur ändern. Es soll weniger Fachbereiche geben. Es soll auch weniger Professoren geben. Studierende und Politiker sind nicht zufrieden. Sie sagen, das ist nicht gut.",
+        "links": [
+          {
+            "title": "Goethe-Uni Frankfurt: Harsche Kritik an Reformplänen des Präsidiums: Sieben statt 16 Fachbereiche, rund 60 Professuren weniger: Die Umbaupläne für die Frankfurter Goethe-Universität stoßen auf Widerspruch. Studierende kritisieren vor allem das Verfahren, Oppositionspolitiker die Kürzungen.",
+            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/uni-frankfurt-scharfe-kritik-an-reformplaenen-201607901.html"
+          }
+        ]
+      },
+      {
+        "type": "Sales & Offers",
+        "emoji": "🛍️",
+        "headline_en": "Frankfurt and Hessian Institutions Shut Down Websites Due to PHP Security Vulnerability",
+        "headline_de": "PHP-Sicherheitslücke: Städte und Krankenhäuser nehmen Seiten vom Netz",
+        "headline_easy": "Internetseiten sind aus Sicherheitsgründen offline.",
+        "summary_en": "In response to a severe new security vulnerability in PHP, the state of Hesse, major university hospitals, and several cities have quickly taken their websites offline. This precautionary measure aims to prevent potential cyberattacks and protect sensitive data.",
+        "summary_de": "Aufgrund einer neuen, schwerwiegenden Sicherheitslücke in PHP haben das Land Hessen, große Unikliniken und einzelne Städte umgehend ihre Internetseiten vom Netz genommen. Diese schnelle Reaktion dient dem Schutz vor möglichen Cyberangriffen.",
+        "summary_easy": "Es gibt ein Sicherheitsproblem bei PHP. Das ist ein Programm für Webseiten. Hessen, Krankenhäuser und Städte haben ihre Webseiten abgeschaltet. Sie wollen sich vor Hackern schützen.",
+        "links": [
+          {
+            "title": "PHP-Sicherheitslücke: Städte und Krankenhäuser nehmen Seiten vom Netz: Das Land Hessen, die großen Unikliniken und einzelne Städte haben zügig auf die Warnung vor einer neuen, schwerwiegende Sicherheitslücke im Netz reagiert. Sie haben ihre Internetseiten abgeschaltet.",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/sicherheitsluecke-in-php-staedte-und-kliniken-in-hessen-schalten-websites-ab-201609488.html"
+          }
+        ]
+      },
+      {
+        "type": "Local News",
+        "emoji": "📍",
+        "headline_en": "Frankfurt's Goethe University Faces Backlash Over Reform Plans",
+        "headline_de": "Goethe-Uni Frankfurt: Harsche Kritik an Reformplänen des Präsidiums",
+        "headline_easy": "Goethe-Universität in Frankfurt hat neue Pläne.",
+        "summary_en": "Reform plans at Goethe University Frankfurt, which propose consolidating 16 departments into seven and reducing professorial positions, are drawing strong criticism. Students are concerned about the process, while opposition politicians are voicing their disapproval of the proposed cuts.",
+        "summary_de": "Die Goethe-Universität Frankfurt steht wegen ihrer Reformpläne, die eine Reduzierung von 16 auf sieben Fachbereiche und Kürzungen bei Professuren vorsehen, unter starker Kritik. Studierende bemängeln das Vorgehen, und Oppositionspolitiker äußern Bedenken bezüglich der Sparmaßnahmen.",
+        "summary_easy": "Die Uni Frankfurt will ihre Struktur ändern. Es wird weniger Fachbereiche geben. Es wird auch weniger Professuren geben. Studierende und Politiker finden das nicht gut.",
+        "links": [
+          {
+            "title": "Goethe-Uni Frankfurt: Harsche Kritik an Reformplänen des Präsidiums: Sieben statt 16 Fachbereiche, rund 60 Professuren weniger: Die Umbaupläne für die Frankfurter Goethe-Universität stoßen auf Widerspruch. Studierende kritisieren vor allem das Verfahren, Oppositionspolitiker die Kürzungen.",
+            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/uni-frankfurt-scharfe-kritik-an-reformplaenen-201607901.html"
+          },
+          {
+            "title": "PHP-Sicherheitslücke: Städte und Krankenhäuser nehmen Seiten vom Netz: Das Land Hessen, die großen Unikliniken und einzelne Städte haben zügig auf die Warnung vor einer neuen, schwerwiegende Sicherheitslücke im Netz reagiert. Sie haben ihre Internetseiten abgeschaltet.",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/sicherheitsluecke-in-php-staedte-und-kliniken-in-hessen-schalten-websites-ab-201609488.html"
+          }
+        ]
+      }
+    ]
+  },
+  "dresden": []
+}
