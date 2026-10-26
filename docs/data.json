@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, October 24 2026",
+  "date": "Monday, October 26 2026",
   "sections": [
     {
       "category": "Germany",
@@ -8,48 +8,68 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Space Arms Race Escalates as Outer Space Becomes Potential Battlefield",
-          "headline_de": "Weltraum-Wettrüsten eskaliert, da der Weltraum zum potenziellen Schlachtfeld wird",
-          "headline_easy": "Streit im Weltraum. Kann der Weltraum ein Schlachtfeld werden?",
-          "summary_en": "The potential for space to become a battlefield is increasing as nations engage in an arms race. This development raises concerns about future conflicts beyond Earth.",
-          "summary_de": "Das Potenzial für den Weltraum, ein Schlachtfeld zu werden, steigt, da Nationen sich einem Wettrüsten stellen. Diese Entwicklung wirft Bedenken hinsichtlich zukünftiger Konflikte jenseits der Erde auf.",
-          "summary_easy": "Streit im Weltraum wird größer. Nationen rüsten auf. Das ist schlecht für die Zukunft.",
+          "headline_en": "Prague Honors Roma Resistance Fighters Against Hitler",
+          "headline_de": "Prag ehrt Roma-Widerstandskämpfer gegen Hitler",
+          "headline_easy": "Prag ehrt Roma-Kämpfer gegen Hitler",
+          "summary_en": "Prague is honoring Roma resistance fighters who fought against Hitler. This commemoration highlights their crucial role during the war.",
+          "summary_de": "Prag ehrt Roma-Widerstandskämpfer, die gegen Hitler kämpften. Diese Ehrung unterstreicht ihre wichtige Rolle während des Krieges.",
+          "summary_easy": "Prag ehrt Roma-Kämpfer. Sie haben gegen Hitler gekämpft. Das ist sehr wichtig.",
           "links": [
             {
-              "title": "Space arms race: Will outer space become battlefield?",
-              "url": "https://www.rte.ie/news/a-european-perspective/2026/1023/1596568-space-defence/"
+              "title": "Prague honours Roma resistance fighters against Hitler",
+              "url": "https://www.dw.com/en/prague-honours-roma-resistance-fighters-against-hitler/a-79725015"
+            },
+            {
+              "title": "Prague honors Roma resistance fighters against Hitler",
+              "url": "https://www.dw.com/en/prague-honors-roma-resistance-fighters-against-hitler/a-79725015"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Telefónica and IQM to Deploy First Quantum Computer in Madrid to Foster Industry Innovation",
-          "headline_de": "Telefónica und IQM stellen Madrids erster Quantencomputer zur Verfügung, um die Entwicklung von Branchenanwendungsfällen in der Region voranzutreiben",
-          "headline_easy": "Neue Technologie für Madrid. Ein Quantencomputer soll Firmen helfen.",
-          "summary_en": "Telefónica and IQM are set to deliver Madrid's first quantum computer, aiming to accelerate the development of new industry use cases. This initiative highlights the growing importance of advanced computing in business.",
-          "summary_de": "Telefónica und IQM werden Madrids ersten Quantencomputer liefern, mit dem Ziel, die Entwicklung neuer Branchenanwendungsfälle zu beschleunigen. Diese Initiative unterstreicht die wachsende Bedeutung fortschrittlicher Computertechnologie für Unternehmen.",
-          "summary_easy": "Eine Firma namens Telefónica und eine andere namens IQM bringen einen neuen Computer. Er heißt Quantencomputer. Er soll Firmen helfen, neue Dinge zu entwickeln.",
+          "headline_en": "Bayern Munich Reportedly Decided Against Signing Manzambi Last Summer",
+          "headline_de": "Bayern München entschied sich angeblich im letzten Sommer gegen die Verpflichtung von Manzambi",
+          "headline_easy": "Bayern München wollte Manzambi nicht",
+          "summary_en": "Bayern Munich reportedly decided not to sign player Manzambi last summer. The reasons for this decision are not detailed.",
+          "summary_de": "Berichten zufolge entschied sich Bayern München im letzten Sommer gegen die Verpflichtung von Manzambi. Die Gründe für diese Entscheidung sind nicht detailliert.",
+          "summary_easy": "Bayern München wollte einen Spieler nicht. Der Spieler heißt Manzambi. Das war letzten Sommer.",
           "links": [
             {
-              "title": "Telefónica and IQM to Provide the Community of Madrid With Its First Quantum Computer to Drive the Development of Industry Use Cases Across the Region",
-              "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/telefonica-and-iqm-to-provide-the-community-of-madrid-with-its-first-quantum-computer-to-drive-the-development-of-industry-use-cases-across-the-region"
+              "title": "Bayern Munich reportedly \"decided against\" signing Manzambi last summer",
+              "url": "https://bulinews.com/bayern-munich-reportedly-decided-against-signing-manzambi-last-summer"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Was That a Stockmarket Wobble, or the Start of Something More Serious?",
+          "headline_de": "War das ein Börsenwackler oder der Anfang von etwas Ernsterem?",
+          "headline_easy": "Ist die Börse unsicher? Oder beginnt etwas Schlimmes?",
+          "summary_en": "A recent stock market movement has raised concerns about its potential implications. Analysts are questioning whether this is a temporary fluctuation or the beginning of a more significant downturn.",
+          "summary_de": "Eine jüngste Bewegung am Aktienmarkt hat Bedenken hinsichtlich ihrer potenziellen Auswirkungen aufgeworfen. Analysten fragen sich, ob dies eine vorübergehende Schwankung oder der Beginn eines signifikanteren Abschwungs ist.",
+          "summary_easy": "Die Börse hat sich bewegt. Das macht viele Leute unsicher. Ist das nur kurz so oder wird es schlimmer?",
+          "links": [
+            {
+              "title": "Was that a stockmarket wobble, or the start of something more serious?",
+              "url": "https://www.irishtimes.com/opinion/2026/10/24/was-that-a-stockmarket-wobble-or-the-start-of-something-more-serious/"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "Climate Change Blamed for Majority of Europe's 50,000 Heat-Related Deaths",
-          "headline_de": "Klimawandel für die Mehrheit der 50.000 hitzebedingten Todesfälle in Europa verantwortlich gemacht",
-          "headline_easy": "Hitze ist gefährlich. Viele Menschen sterben wegen Hitze.",
-          "summary_en": "A staggering 50,000 lives have been claimed by heatwaves across Europe, with climate change identified as the cause for two-thirds of these fatalities. This underscores the urgent need for climate action.",
-          "summary_de": "Eine erschreckende Zahl von 50.000 Menschenleben wurde durch Hitzewellen in ganz Europa gefordert, wobei der Klimawandel als Ursache für zwei Drittel dieser Todesfälle identifiziert wurde. Dies unterstreicht die dringende Notwendigkeit von Klimaschutzmaßnahmen.",
-          "summary_easy": "Viele Menschen in Europa sind wegen der Hitze gestorben. Das sind 50.000 Menschen. Der Klimawandel ist schuld. Wir müssen etwas gegen den Klimawandel tun.",
+          "headline_en": "Steelers and Saints Play in NFL’s First Paris Game—Here’s How to Watch for Free",
+          "headline_de": "Steelers und Saints spielen im ersten Paris-Spiel der NFL – Hier erfährst du, wie du kostenlos zuschauen kannst",
+          "headline_easy": "NFL-Spiel in Paris: Steelers gegen Saints",
+          "summary_en": "The NFL is holding its first game in Paris, featuring the Steelers and Saints. Fans can find out how to watch this historic event for free.",
+          "summary_de": "Die NFL trägt ihr erstes Spiel in Paris aus, mit den Steelers und den Saints. Fans können erfahren, wie sie dieses historische Ereignis kostenlos verfolgen können.",
+          "summary_easy": "Ein Football-Spiel ist in Paris. Es spielen die Steelers und die Saints. Man kann das Spiel kostenlos sehen.",
           "links": [
             {
-              "title": "Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths",
-              "url": "https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths"
+              "title": "Steelers and Saints play in NFL’s first Paris game—Here’s how to watch for free",
+              "url": "https://nypost.com/2026/10/25/sports/heres-how-to-watch-steelers-vs-saints-in-paris-for-free/"
             }
           ]
         }
@@ -62,48 +82,64 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "UK Assures No Winter Energy Shortages Despite Soaring Gas Prices",
-          "headline_de": "Großbritannien versichert keine Energieknappheit im Winter trotz steigender Gaspreise",
-          "headline_easy": "Keine Stromprobleme im Winter. Gas ist teuer, aber es gibt genug Strom.",
-          "summary_en": "The UK has stated that it will not face energy shortages this winter, even as gas prices continue to rise significantly. This assurance aims to alleviate public concerns about energy supply.",
-          "summary_de": "Das Vereinigte Königreich hat erklärt, dass es in diesem Winter keine Energieknappheit geben wird, auch wenn die Gaspreise weiterhin erheblich steigen. Diese Zusicherung zielt darauf ab, die öffentlichen Bedenken hinsichtlich der Energieversorgung zu zerstreuen.",
-          "summary_easy": "Großbritannien sagt, es wird im Winter genug Strom geben. Gas ist aber teuer. Die Menschen sollen sich keine Sorgen machen.",
+          "headline_en": "Func Prog Conf 2026",
+          "headline_de": "Func Prog Conf 2026",
+          "headline_easy": "Konferenz über Programmieren",
+          "summary_en": "The Func Prog Conf 2026 is an event focused on functional programming. It brings together experts and enthusiasts in the field.",
+          "summary_de": "Die Func Prog Conf 2026 ist eine Veranstaltung, die sich auf funktionale Programmierung konzentriert. Sie bringt Experten und Enthusiasten auf diesem Gebiet zusammen.",
+          "summary_easy": "Es gibt eine Konferenz. Sie heißt Func Prog Conf. Es geht um Computer-Programmieren.",
           "links": [
             {
-              "title": "UK Rules Out Winter Energy Shortages as Gas Prices Soar",
-              "url": "https://oilprice.com/Latest-Energy-News/World-News/UK-Rules-Out-Winter-Energy-Shortages-as-Gas-Prices-Soar.html"
+              "title": "Func Prog Conf 2026",
+              "url": "https://jmglov.net/blog/2026-10-25-func-prog-conf-2026.html"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Luxury Resorts Implement Strict Rules for Influencers to Prevent Guest Disruption",
-          "headline_de": "Luxusresorts führen strenge Regeln für Influencer ein, um Störungen der Gäste zu verhindern",
-          "headline_easy": "Hotels haben neue Regeln für Influencer. Sie stören andere Gäste.",
-          "summary_en": "Luxury resorts are cracking down on influencer activities, introducing strict content creation rules to ensure a peaceful experience for all guests. This move comes as some influencers' content creation practices have been found to disrupt the ambiance.",
-          "summary_de": "Luxusresorts gehen gegen Influencer-Aktivitäten vor und führen strenge Regeln für die Inhaltserstellung ein, um allen Gästen ein ruhiges Erlebnis zu gewährleisten. Dieser Schritt erfolgt, da festgestellt wurde, dass die Praktiken einiger Influencer bei der Inhaltserstellung die Atmosphäre stören.",
-          "summary_easy": "Manche Hotels wollen keine Influencer mehr. Sie machen neue Regeln. Die Influencer stören die anderen Gäste mit ihren Fotos und Videos.",
+          "headline_en": "India’s Auto Production Boom Set to Slow in 2027 as CIE Automotive Flags Margin Pressures",
+          "headline_de": "Indiens Auto-Produktionsboom wird 2027 voraussichtlich langsamer, da CIE Automotive Margendruck meldet",
+          "headline_easy": "Weniger Autos in Indien bald",
+          "summary_en": "India's booming auto production is expected to slow down in 2027. CIE Automotive has reported margin pressures, indicating challenges ahead for the sector.",
+          "summary_de": "Indiens boomende Auto-Produktion wird voraussichtlich 2027 langsamer werden. CIE Automotive hat Margendruck gemeldet, was auf bevorstehende Herausforderungen für den Sektor hindeutet.",
+          "summary_easy": "Indien macht viele Autos. Das wird 2027 langsamer. Eine Firma hat Probleme mit Geld.",
           "links": [
             {
-              "title": "Travel industry gets tough on influencers: Luxury resorts - including Molly-Mae Hague's beloved Estelle Manor - issue strict rules on content creation, saying it 'disrupts other guests'",
-              "url": "https://www.dailymail.com/travel/article-16225947/influencers-destinations-hotels-annoying-content-creators.html"
+              "title": "India’s auto production boom set to slow in 2027 as CIE Automotive flags margin pressures",
+              "url": "https://www.thehindubusinessline.com/companies/indias-auto-production-boom-set-to-slow-in-2027-as-cie-automotive-flags-margin-pressures/article71613301.ece"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Steelers vs. Saints prediction: Pittsburgh’s rushing attack overwhelms New Orleans in France",
+          "headline_de": "Steelers gegen Saints Vorhersage: Pittsburghs Angriffsspiel überrollt New Orleans in Frankreich",
+          "headline_easy": "Football-Spiel in Frankreich: Steelers gewinnen",
+          "summary_en": "A prediction for the Steelers vs. Saints game in France suggests Pittsburgh's running game will be too much for New Orleans. This indicates a likely victory for the Steelers.",
+          "summary_de": "Eine Vorhersage für das Spiel Steelers gegen Saints in Frankreich deutet darauf hin, dass Pittsburghs Laufspiel für New Orleans zu viel sein wird. Dies deutet auf einen wahrscheinlichen Sieg für die Steelers hin.",
+          "summary_easy": "Ein Spiel ist in Frankreich. Die Steelers gewinnen gegen die Saints. Sie laufen gut mit dem Ball.",
+          "links": [
+            {
+              "title": "Steelers vs. Saints prediction: Pittsburgh’s rushing attack overwhelms New Orleans in France",
+              "url": "https://nypost.com/2026/10/25/betting/steelers-vs-saints-prediction-nfl-week-7-picks-odds-best-bets-for-france-game/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Apple Showcases Dual iPhone Displays Ahead of Foldable Launch",
-          "headline_de": "Apple präsentiert doppelte iPhone-Displays vor dem Start faltbarer Geräte",
-          "headline_easy": "Apple zeigt neue iPhones. Sie haben zwei Bildschirme.",
-          "summary_en": "Apple has installed impressive dual iPhone displays in four of its flagship stores, creating anticipation for the upcoming launch of its foldable devices. This strategic display aims to generate buzz and highlight the new technology.",
-          "summary_de": "Apple hat in vier seiner Flagship-Stores beeindruckende doppelte iPhone-Displays installiert, die die Vorfreude auf die bevorstehende Einführung seiner faltbaren Geräte wecken. Diese strategische Präsentation zielt darauf ab, Aufsehen zu erregen und die neue Technologie hervorzuheben.",
-          "summary_easy": "Apple hat neue Bilder von iPhones in seinen Läden. Die iPhones haben zwei Bildschirme. Bald gibt es neue faltbare iPhones.",
+          "headline_en": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
+          "headline_de": "'Integrität kann ich Ihnen nicht beibringen': Wie Mitarbeiterdiebstahl Kleinunternehmen in Afrika schadet",
+          "headline_easy": "Diebstahl in Firmen macht Probleme",
+          "summary_en": "Employee theft is causing significant harm to small businesses in Africa. The article highlights the lack of integrity as a major contributing factor.",
+          "summary_de": "Mitarbeiterdiebstahl verursacht erheblichen Schaden für Kleinunternehmen in Afrika. Der Artikel hebt den Mangel an Integrität als wesentlichen Faktor hervor.",
+          "summary_easy": "Leute stehlen in Firmen. Das ist schlecht für kleine Firmen in Afrika. Es fehlt an Ehrlichkeit.",
           "links": [
             {
-              "title": "(PHOTO) Apple Installs Giant iPhone Duo Displays at Four Flagship Stores Ahead of Friday Foldable Launch",
-              "url": "https://www.ibtimes.com.au/apple-iphone-duo-displays-flagship-stores-launch-1877265"
+              "title": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
+              "url": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo"
             }
           ]
         }
@@ -116,32 +152,80 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "China Urges US to End Discriminatory Measures Against Research Institutions",
-          "headline_de": "China fordert die USA auf, diskriminierende Maßnahmen gegen Forschungseinrichtungen zu beenden",
-          "headline_easy": "China sagt: USA sollen schlechte Regeln stoppen. Regeln gegen Forscher sind schlecht.",
-          "summary_en": "China has called on the United States to cease its discriminatory practices targeting Chinese research institutions. This diplomatic statement highlights ongoing tensions in international scientific cooperation.",
-          "summary_de": "China hat die Vereinigten Staaten aufgefordert, diskriminierende Praktiken gegen chinesische Forschungseinrichtungen einzustellen. Diese diplomatische Erklärung unterstreicht die anhaltenden Spannungen in der internationalen wissenschaftlichen Zusammenarbeit.",
-          "summary_easy": "China ist nicht glücklich mit Amerika. China sagt, Amerika soll aufhören, schlecht zu chinesischen Forschern zu sein. Das ist wichtig für Wissenschaft.",
+          "headline_en": "Putin Calls Attempts to Accuse Russia of Inciting Unrest in Europe Clear Exaggeration",
+          "headline_de": "Putin nennt Versuche, Russland der Anstiftung zu Unruhen in Europa zu beschuldigen, eine klare Übertreibung",
+          "headline_easy": "Putin sagt, Europa übertreibt bei Russland",
+          "summary_en": "Russian President Putin has stated that accusations of Russia inciting unrest in Europe are a clear exaggeration. He dismisses these claims as unfounded.",
+          "summary_de": "Der russische Präsident Putin hat erklärt, dass Anschuldigungen, Russland störe Unruhen in Europa an, eine klare Übertreibung seien. Er weist diese Behauptungen als unbegründet zurück.",
+          "summary_easy": "Putin spricht über Europa. Er sagt, es ist falsch, Russland die Schuld zu geben. Es ist nicht wahr, dass Russland Unruhen macht.",
           "links": [
             {
-              "title": "China says US should stop discriminatory measures against Chinese research institutions",
-              "url": "https://www.channelnewsasia.com/east-asia/china-united-states-stop-discriminatory-measures-research-institutions-6485691"
+              "title": "Putin Calls Attempts to Accuse Russia of Inciting Unrest in Europe Clear Exaggeration",
+              "url": "https://sputnikglobe.com/20261025/putin-calls-attempts-to-accuse-russia-of-inciting-unrest-in-europe-clear-exaggeration-1124933448.html"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Audi Heads to US: Trump Hopes Carmaker Boosts Election Bid",
+          "headline_de": "Audi geht in die USA: Trump hofft, dass der Autohersteller sein Wahlkampfangebot stärkt",
+          "headline_easy": "Auto-Firma Audi kommt in die USA",
+          "summary_en": "German carmaker Audi is expanding its presence in the US. Former President Trump reportedly hopes this move will benefit his election campaign.",
+          "summary_de": "Der deutsche Autohersteller Audi erweitert seine Präsenz in den USA. Der ehemalige Präsident Trump hofft Berichten zufolge, dass dieser Schritt seinem Wahlkampf zugutekommt.",
+          "summary_easy": "Die Auto-Firma Audi kommt in die USA. Donald Trump hofft, dass ihm das hilft, gewählt zu werden.",
+          "links": [
+            {
+              "title": "Audi heads to US: Trump hopes carmaker boosts election bid",
+              "url": "https://biztoc.com/x/2da799daa1664423"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Obama’s Ohio, Michigan Speeches: Key Takeaways on Trump, Iran War, Midterms",
+          "headline_de": "Obamas Reden in Ohio und Michigan: Wichtige Erkenntnisse zu Trump, dem Iran-Krieg und den Midterms",
+          "headline_easy": "Obama spricht über Trump und Krieg",
+          "summary_en": "Former President Obama delivered speeches in Ohio and Michigan focusing on key issues including Donald Trump, the war in Iran, and the upcoming midterm elections. The speeches offered his perspective on these critical topics.",
+          "summary_de": "Der ehemalige Präsident Obama hielt Reden in Ohio und Michigan, die sich auf wichtige Themen konzentrierten, darunter Donald Trump, der Krieg im Iran und die bevorstehenden Kongresswahlen. Die Reden boten seine Perspektive zu diesen kritischen Themen.",
+          "summary_easy": "Obama hat in Amerika gesprochen. Er sprach über Trump und einen Krieg. Es ging auch um Wahlen.",
+          "links": [
+            {
+              "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
+              "url": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Bitcoin Recovers Above $81,000 Amidst AI Stock Downturn and ETF Outflows",
-          "headline_de": "Bitcoin steigt wieder über 81.000 US-Dollar nach KI-Aktien-Rückgang und ETF-Abflüssen",
-          "headline_easy": "Bitcoin ist wieder über 81.000 Dollar. Aktien sind gefallen.",
-          "summary_en": "Bitcoin has regained ground, surpassing $81,000 following a significant downturn in AI stocks and substantial outflows from Bitcoin ETFs. This demonstrates the cryptocurrency market's sensitivity to broader financial trends.",
-          "summary_de": "Bitcoin hat wieder an Boden gewonnen und die Marke von 81.000 US-Dollar überschritten, nachdem die KI-Aktien einen deutlichen Rückgang und die Bitcoin-ETFs erhebliche Abflüsse verzeichneten. Dies zeigt die Empfindlichkeit des Kryptowährungsmarktes gegenüber breiteren Finanztrends.",
-          "summary_easy": "Bitcoin ist wieder mehr wert. Mehr als 81.000 Dollar. Das passiert, weil andere Aktien gefallen sind. Manche Leute haben auch Geld aus Bitcoin-Fonds genommen.",
+          "headline_en": "2026 ESMO | Innovent Presented Phase 1 Study Data for IBI3001, a First-in-Class EGFR/B7H3 Bispecific ADC",
+          "headline_de": "2026 ESMO | Innovent präsentierte Phase-1-Studiendaten für IBI3001, ein First-in-Class EGFR/B7H3 Bispezifisches ADC",
+          "headline_easy": "Neue Medizin für Krebs",
+          "summary_en": "Innovent presented Phase 1 study data for IBI3001, a new type of cancer drug, at the 2026 ESMO conference. This bispecific ADC targets EGFR and B7H3.",
+          "summary_de": "Innovent präsentierte auf der ESMO-Konferenz 2026 Phase-1-Studiendaten für IBI3001, eine neue Art von Krebsmedikament. Dieses bispezifische ADC zielt auf EGFR und B7H3 ab.",
+          "summary_easy": "Eine Firma hat neue Medikamente gezeigt. Es ist für Krebs. Das Medikament heißt IBI3001.",
           "links": [
             {
-              "title": "Bitcoin Edges Back Above $81,000 After AI Stock Rout and $635 Million ETF Outflow Rattle Crypto Investors",
-              "url": "https://www.ibtimes.com.au/bitcoin-steadies-above-81000-after-sell-off-1877269"
+              "title": "2026 ESMO | Innovent Presented Phase 1 Study Data for IBI3001, a First-in-Class EGFR/B7H3 Bispecific ADC",
+              "url": "https://www.prnewswire.com/news-releases/2026-esmo--innovent-presented-phase-1-study-data-for-ibi3001-a-first-in-class-egfrb7h3-bispecific-adc-302918633.html"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "How to Watch Chiefs vs. Seahawks Tonight: Time, TV Channel for 'SNF'",
+          "headline_de": "So sehen Sie Chiefs gegen Seahawks heute Abend: Uhrzeit, TV-Kanal für 'SNF'",
+          "headline_easy": "Football-Spiel heute Abend",
+          "summary_en": "Fans can find out how to watch the Chiefs vs. Seahawks game tonight. Information on game time and the TV channel for 'SNF' is provided.",
+          "summary_de": "Fans können erfahren, wie sie das Spiel Chiefs gegen Seahawks heute Abend verfolgen können. Informationen zur Spielzeit und zum TV-Kanal für 'SNF' werden bereitgestellt.",
+          "summary_easy": "Heute Abend gibt es ein Football-Spiel. Es spielen die Chiefs und die Seahawks. Hier steht, wann und wo man es sehen kann.",
+          "links": [
+            {
+              "title": "How to watch Chiefs vs. Seahawks tonight: Time, TV channel for 'SNF'",
+              "url": "https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2026/10/25/kansas-city-chiefs-seattle-seahawks-how-to-watch-listen-stream-sunday-night-football-nfl-week-7/92414027007/"
             }
           ]
         }
@@ -154,48 +238,48 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Nvidia CEO Jensen Huang Visits Kazakhstan to Explore AI Hub Development",
-          "headline_de": "Nvidia-CEO Jensen Huang besucht Kasachstan, um die Entwicklung von KI-Hubs zu besprechen",
-          "headline_easy": "Wichtiger Mann von Nvidia ist in Kasachstan. Sie reden über KI.",
-          "summary_en": "Nvidia CEO Jensen Huang has traveled to Kazakhstan to discuss potential plans for developing an AI hub in the country. This visit signifies growing international interest in AI infrastructure and collaboration.",
-          "summary_de": "Nvidia-CEO Jensen Huang ist nach Kasachstan gereist, um potenzielle Pläne für die Entwicklung eines KI-Hubs in dem Land zu besprechen. Dieser Besuch signalisiert ein wachsendes internationales Interesse an KI-Infrastruktur und Zusammenarbeit.",
-          "summary_easy": "Der Chef von Nvidia, Jensen Huang, ist in Kasachstan. Sie sprechen darüber, wie man dort eine KI-Fabrik bauen kann. KI ist wichtig für die Zukunft.",
+          "headline_en": "Akane-banashi Season 2 Anime Reveals More Cast, Teaser Trailer",
+          "headline_de": "Akane-banashi Staffel 2 Anime enthüllt mehr Besetzung, Teaser-Trailer",
+          "headline_easy": "Neue Infos zum Anime",
+          "summary_en": "The second season of the anime 'Akane-banashi' has released new cast announcements and a teaser trailer. Fans can get a glimpse of what's to come.",
+          "summary_de": "Die zweite Staffel des Anime 'Akane-banashi' hat neue Besetzungsankündigungen und einen Teaser-Trailer veröffentlicht. Fans können einen Einblick bekommen, was sie erwartet.",
+          "summary_easy": "Es gibt einen Anime namens 'Akane-banashi'. Die zweite Staffel kommt. Neue Schauspieler und ein neuer Trailer sind da.",
           "links": [
             {
-              "title": "Nvidia CEO Jensen Huang visits Kazakhstan to discuss AI hub plans",
-              "url": "https://cryptobriefing.com/nvidia-jensen-huang-kazakhstan-ai-hub/"
+              "title": "Akane-banashi Season 2 Anime Reveals More Cast, Teaser Trailer",
+              "url": "https://www.animenewsnetwork.com/news/2026-10-25/akane-banashi-season-2-anime-reveals-more-cast-teaser-trailer/.243178"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Nvidia CEO Explores AI Hub Opportunities in Kazakhstan",
-          "headline_de": "Nvidia-CEO erkundet KI-Hub-Möglichkeiten in Kasachstan",
-          "headline_easy": "Wichtiger Mann von Nvidia ist in Kasachstan. Sie reden über KI.",
-          "summary_en": "Nvidia's CEO, Jensen Huang, is visiting Kazakhstan to explore the possibilities of establishing an AI hub. This visit indicates Kazakhstan's ambition to become a significant player in the global AI landscape.",
-          "summary_de": "Nvidias CEO, Jensen Huang, besucht Kasachstan, um die Möglichkeiten der Einrichtung eines KI-Hubs zu erkunden. Dieser Besuch deutet auf Kasachstans Bestreben hin, ein wichtiger Akteur in der globalen KI-Landschaft zu werden.",
-          "summary_easy": "Der Chef von Nvidia, Jensen Huang, ist in Kasachstan. Er will wissen, ob man dort eine KI-Zentrale bauen kann. Kasachstan will wichtig für KI sein.",
+          "headline_en": "Godrej Properties Eyes Record ₹41,500 Crore Sales Bookings on Strong Demand",
+          "headline_de": "Godrej Properties peilt Rekord-Verkaufsbuchungen von 41.500 Crore Rupien bei starker Nachfrage an",
+          "headline_easy": "Firma verkauft viele Häuser",
+          "summary_en": "Godrej Properties is anticipating record sales bookings of ₹41,500 crore due to strong market demand. This indicates a very successful period for the real estate company.",
+          "summary_de": "Godrej Properties erwartet aufgrund starker Marktnachfrage Rekord-Verkaufsbuchungen von 41.500 Crore Rupien. Dies deutet auf eine sehr erfolgreiche Zeit für das Immobilienunternehmen hin.",
+          "summary_easy": "Eine Firma namens Godrej Properties verkauft viele Häuser. Sie erwarten viel Geld. Die Leute wollen viele Häuser kaufen.",
           "links": [
             {
-              "title": "Nvidia's Huang heads to Kazakhstan for the first time — and he's not the only one with big plans",
-              "url": "https://www.cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html"
+              "title": "Godrej Properties eyes record ₹41,500 crore sales bookings on strong demand",
+              "url": "https://www.business-standard.com/industry/news/godrej-properties-eyes-record-41-500-crore-sales-bookings-on-strong-demand-126102500287_1.html"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Steel Strips Shares Surge to Record High on Heavy Volume Post Q2 Results",
-          "headline_de": "Steel Strips Aktien steigen nach Q2-Ergebnissen auf Rekordhoch bei hohem Volumen",
-          "headline_easy": "Aktien von Steel Strips sind stark gestiegen. Wegen guter Zahlen.",
-          "summary_en": "Steel Strips experienced a significant surge in its share price, reaching a record high with substantial trading volume following its Q2 financial results. This indicates strong investor confidence in the company's performance.",
-          "summary_de": "Steel Strips verzeichnete einen deutlichen Anstieg seines Aktienkurses und erreichte nach seinen Finanzergebnissen für das zweite Quartal bei erheblichem Handelsvolumen ein Rekordhoch. Dies deutet auf ein starkes Anlegervertrauen in die Leistung des Unternehmens hin.",
-          "summary_easy": "Die Aktien von Steel Strips sind sehr stark gestiegen. Sie sind so hoch wie nie. Viele Leute haben Aktien gekauft. Das ist gut, weil die Firma gute Nachrichten hatte.",
+          "headline_en": "Ping An Highlights Green Development Initiatives at International Communication Seminar in Shenzhen Ahead of APEC 2026",
+          "headline_de": "Ping An hebt grüne Entwicklungsinitiativen auf internationalem Kommunikationsseminar in Shenzhen vor APEC 2026 hervor",
+          "headline_easy": "Firma spricht über Umweltschutz",
+          "summary_en": "Ping An is showcasing its green development initiatives at an international seminar in Shenzhen. This event precedes the APEC 2026 summit.",
+          "summary_de": "Ping An präsentiert seine Initiativen zur grünen Entwicklung auf einem internationalen Seminar in Shenzhen. Diese Veranstaltung findet vor dem APEC-Gipfel 2026 statt.",
+          "summary_easy": "Eine Firma heißt Ping An. Sie spricht über Umweltschutz. Das ist bei einem Treffen in Shenzhen.",
           "links": [
             {
-              "title": "Steel Strips zooms 19%, hits record high on heavy volume post Q2 results",
-              "url": "https://www.business-standard.com/markets/news/steel-strips-zooms-19-hits-record-high-on-heavy-volume-post-q2-results-126102300596_1.html"
+              "title": "Ping An Highlights Green Development Initiatives at International Communication Seminar in Shenzhen Ahead of APEC 2026",
+              "url": "https://www.prnewswire.com/news-releases/ping-an-highlights-green-development-initiatives-at-international-communication-seminar-in-shenzhen-ahead-of-apec-2026-302918727.html"
             }
           ]
         }
@@ -208,48 +292,80 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Literary Fiction Highlights: 'GJAK', 'PARADISE BURNS', and 'AFTER CARE'",
-          "headline_de": "Literarische Fiktion Highlights: 'GJAK', 'PARADISE BURNS' und 'AFTER CARE'",
-          "headline_easy": "Neue Bücher sind da. Sie heißen GJAK, Paradise Burns und After Care.",
-          "summary_en": "This week's literary fiction features notable releases including 'GJAK' by Dimosthenis Papamarkos, 'PARADISE BURNS' by Pol Guasch, and 'AFTER CARE' by Divya Maniar. These novels offer diverse narratives and themes for readers.",
-          "summary_de": "Die dieswöchige literarische Fiktion präsentiert bemerkenswerte Veröffentlichungen, darunter 'GJAK' von Dimosthenis Papamarkos, 'PARADISE BURNS' von Pol Guasch und 'AFTER CARE' von Divya Maniar. Diese Romane bieten vielfältige Erzählungen und Themen für Leser.",
-          "summary_easy": "Es gibt neue Bücher. Ein Buch heißt GJAK. Ein anderes heißt Paradise Burns. Und noch eins heißt After Care. Sie sind spannend zu lesen.",
+          "headline_en": "Who Is the Most Influential American Writer? There’s an Obvious Answer—Even if Few Seem to Admit It.",
+          "headline_de": "Wer ist der einflussreichste amerikanische Schriftsteller? Es gibt eine offensichtliche Antwort – auch wenn es wenige zuzugeben scheinen.",
+          "headline_easy": "Wer ist der wichtigste amerikanische Autor?",
+          "summary_en": "The article discusses who is considered the most influential American writer, suggesting there is a clear and obvious answer. It explores the impact of this writer's work.",
+          "summary_de": "Der Artikel diskutiert, wer als der einflussreichste amerikanische Schriftsteller gilt, und legt nahe, dass es eine klare und offensichtliche Antwort gibt. Er untersucht den Einfluss der Werke dieses Schriftstellers.",
+          "summary_easy": "Der Artikel fragt: Wer ist der wichtigste Autor in Amerika? Es gibt eine klare Antwort. Der Artikel erklärt, warum.",
           "links": [
             {
-              "title": "Greek tragedy reigns supreme in this week's Literary Fiction: GJAK by Dimosthenis Papamarkos, PARADISE BURNS by Pol Guasch, AFTER CARE by Divya Maniar",
-              "url": "https://www.dailymail.com/home/books/article-16230645/book-review-Literary-Fiction-GJAK-Dimosthenis-Papamarkos-PARADISE-BURNS-Pol-Guasch-CARE-Divya-Maniar.html"
+              "title": "Who Is the Most Influential American Writer? There’s an Obvious Answer—Even if Few Seem to Admit It.",
+              "url": "https://slate.com/culture/2026/10/edgar-allan-poe-poems-stories-most-influential-american-writer-death-horror-detective.html"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Pryce Takes Second BRC Title with Cambrian Rally Win",
+          "headline_de": "Pryce gewinnt mit dem Sieg bei der Cambrian Rally seinen zweiten BRC-Titel",
+          "headline_easy": "Rallye-Fahrer gewinnt Titel",
+          "summary_en": "Osian Pryce has secured his second BRC title by winning the Cambrian Rally. This victory marks a significant achievement in his motorsport career.",
+          "summary_de": "Osian Pryce hat mit seinem Sieg bei der Cambrian Rally seinen zweiten BRC-Titel gewonnen. Dieser Sieg ist eine bedeutende Leistung in seiner Motorsportkarriere.",
+          "summary_easy": "Ein Rennfahrer heißt Pryce. Er hat wieder gewonnen. Das ist sein zweiter Preis.",
+          "links": [
+            {
+              "title": "Pryce takes second BRC title with Cambrian Rally win",
+              "url": "https://www.bbc.com/sport/motorsport/articles/ck1l3zj2myggo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"
             }
           ]
         },
         {
           "type": "War",
           "emoji": "⚔️",
-          "headline_en": "India Poised to Become Strong Global Rice Trade Hub, Says IREF President",
-          "headline_de": "Indien steht laut IREF-Präsident kurz davor, ein starker globaler Reishandelsknotenpunkt zu werden",
-          "headline_easy": "Indien kann gut Reis verkaufen. Es wird ein wichtiger Händler.",
-          "summary_en": "According to the IREF President, India has the potential to emerge as a robust and reliable global hub for rice trade. This positions India to play a significant role in international food supply chains.",
-          "summary_de": "Laut dem IREF-Präsidenten hat Indien das Potenzial, sich zu einem robusten und zuverlässigen globalen Knotenpunkt für den Reishandel zu entwickeln. Dies positioniert Indien, eine bedeutende Rolle in den internationalen Nahrungsmittelversorgungsketten zu spielen.",
-          "summary_easy": "Indien wird bald ein wichtiger Ort für den Verkauf von Reis. Das sagt ein wichtiger Mann. Indien wird viel Reis verkaufen können.",
+          "headline_en": "Russian-Norwegian Relations Degrade as Result of Norway's Hostile Course - Foreign Ministry",
+          "headline_de": "Russisch-norwegische Beziehungen verschlechtern sich infolge Norwegens feindseligem Kurs - Außenministerium",
+          "headline_easy": "Schlechte Beziehungen zwischen Russland und Norwegen",
+          "summary_en": "Russia's Foreign Ministry states that Russian-Norwegian relations are deteriorating due to Norway's perceived hostile policies. This indicates growing tension between the two nations.",
+          "summary_de": "Das russische Außenministerium erklärt, dass sich die russisch-norwegischen Beziehungen aufgrund der wahrgenommenen feindseligen Politik Norwegens verschlechtern. Dies deutet auf wachsende Spannungen zwischen den beiden Nationen hin.",
+          "summary_easy": "Russland sagt, die Beziehungen zu Norwegen sind schlecht. Das liegt an Norwegen, sagt Russland. Es gibt Streit.",
           "links": [
             {
-              "title": "India can emerge as “strong and reliable” global rice trade hub: IREF President",
-              "url": "https://www.thehindubusinessline.com/news/india-can-emerge-as-strong-and-reliable-global-rice-trade-hub-iref-president/article71615228.ece"
+              "title": "Russian-Norwegian Relations Degrade as Result of Norway's Hostile Course - Foreign Ministry",
+              "url": "https://sputnikglobe.com/20261025/russian-norwegian-relations-degrade-as-result-of-norways-hostile-course---foreign-ministry-1124933578.html"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "‘Supercharging bras’: The story behind Victoria's Secret’s $6 billion turnaround",
+          "headline_de": "„BHs auf Hochtouren“: Die Geschichte hinter der 6-Milliarden-Dollar-Wende von Victoria's Secret",
+          "headline_easy": "Victoria's Secret macht wieder Geld",
+          "summary_en": "The article tells the story of Victoria's Secret's remarkable $6 billion turnaround. It explores the strategies that led to this significant business recovery, focusing on 'supercharging bras'.",
+          "summary_de": "Der Artikel erzählt die Geschichte der bemerkenswerten 6-Milliarden-Dollar-Wende von Victoria's Secret. Er untersucht die Strategien, die zu dieser bedeutenden Geschäftsbelebung führten, wobei der Schwerpunkt auf 'Supercharging Bras' liegt.",
+          "summary_easy": "Die Firma Victoria's Secret hat viel Geld verdient. Sie haben viel Geld gemacht, vorher war es schlecht. Sie haben neue BHs gemacht.",
+          "links": [
+            {
+              "title": "‘Supercharging bras’: The story behind Victoria's Secret’s $6 billion turnaround",
+              "url": "https://www.businessinsider.com/victorias-secret-business-turnaround-vsxy-stock-price-bra-sales-2026-10#article"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "WWII Globe Damaged During Move of Hegseth's Staff",
-          "headline_de": "Zweiter-Weltkrieg-Globus beschädigt während des Umzugs von Hegseths Personal",
-          "headline_easy": "Ein alter Globus ist kaputtgegangen. Das passierte, als Leute umgezogen sind.",
-          "summary_en": "A historic globe belonging to General Dwight D. Eisenhower has been damaged during a move involving Hegseth's staff. The incident highlights the fragility of historical artifacts.",
-          "summary_de": "Ein historischer Globus von General Dwight D. Eisenhower wurde während eines Umzugs, an dem Hegseths Personal beteiligt war, beschädigt. Der Vorfall unterstreicht die Zerbrechlichkeit historischer Artefakte.",
-          "summary_easy": "Ein alter Globus ist kaputtgegangen. Er gehörte früher einem wichtigen General. Leute, die für Hegseth arbeiten, haben ihn beim Umzug kaputt gemacht.",
+          "headline_en": "omnidoc 0.1.6",
+          "headline_de": "omnidoc 0.1.6",
+          "headline_easy": "Neues Programm: omnidoc",
+          "summary_en": "This is an announcement for version 0.1.6 of 'omnidoc'. It likely refers to a software package or library with this designation.",
+          "summary_de": "Dies ist eine Ankündigung für Version 0.1.6 von 'omnidoc'. Sie bezieht sich wahrscheinlich auf ein Softwarepaket oder eine Bibliothek mit dieser Bezeichnung.",
+          "summary_easy": "Es gibt ein neues Computer-Programm. Es heißt omnidoc. Die neue Version ist 0.1.6.",
           "links": [
             {
-              "title": "Hegseth's staff damages Eisenhower's WWII globe during move",
-              "url": "https://www.npr.org/2026/10/23/nx-s1-6012395/hegseths-staff-damages-eisenhowers-wwii-globe-during-move"
+              "title": "omnidoc 0.1.6",
+              "url": "https://pypi.org/project/omnidoc/0.1.6/"
             }
           ]
         }
@@ -260,27 +376,27 @@
     "wahlperiode": 21,
     "sitzung": 103,
     "url": "https://dserver.bundestag.de/btp/21/21103.pdf",
-    "summary_en": "The 103rd session of the 21st German Bundestag took place on Friday, October 16, 2026. The agenda included a debate on the \"Early Start Pension\" bill, with its second and third readings. Frauke Heiligenstadt (SPD) and Michael Thews (SPD) spoke in favor of the bill. The AfD, represented by Ulrike Schielke-Ziesing and Iris Nieland, expressed concerns and proposed alternatives like the \"Junior Savings Account.\" The CDU/CSU, through Fritz Güntzler and Dr. Carsten Brodesser, also contributed to the discussion. The session also covered motions on strengthening financial education for young people, with contributions from Die Linke (Lisa Schubert, Nicole Gohlke, Janine Wissler, Isabelle Vandre, Sören Pellmann, Sarah Vollath, Violetta Bock, Agnes Conrad) and BÜNDNIS 90/DIE GRÜNEN (Stefan Schmidt). Further agenda items included motions on reforming the long-term care insurance to be more solidarity-based and need-oriented, with speakers from Die Linke (Evelyn Schötz, Nicole Gohlke, Dr. Michael Arndt) and BÜNDNIS 90/DIE GRÜNEN (Simone Fischer, Dr. Janosch Dahmen, Dr. Paula Piechotta, Julian Joswig, Misbah Khan). The Bundestag also began its first reading of a bill to modernize arbitration law and related amendments to the Code of Civil Procedure, with input from Dr. Stefanie Hubig (Federal Minister BMJV). Discussions also took place on a bill for bureaucratic reduction in the transport sector, featuring Steffen Bilger (Federal Minister BMV) and contributions from the AfD (Wolfgang Wiehle, Fabian Jacobi, Marcel Queckemeyer, Nicole Hess, Tobias Ebenberger, Birgit Bessin, Maximilian Kneller, Karsten Hilse, Dr. Christina Baum), SPD (Anja Troff-Schaffarzyk, Dirk Vöpel, Dunja Kreiser), BÜNDNIS 90/DIE GRÜNEN (Matthias Gastel, Julian Joswig), and CDU/CSU (Daniel Kölbl, Günter Baumgartner, Sebastian Steineke, Dr. Klaus Wiener, Carl-Philipp Sassenrath, Christian Moser). Finally, an AfD motion to ensure technology openness in the transport sector and end the privilege of electromobility was debated, with Adam Balten (AfD) presenting the motion and other parties, including the CDU/CSU and SPD, participating.",
-    "summary_de": "Die 103. Sitzung des Deutschen Bundestages der 21. Wahlperiode fand am Freitag, den 16. Oktober 2026 statt. Auf der Tagesordnung stand die „Frühstartrente\", zu der die zweite und dritte Beratung stattfand. Frauke Heiligenstadt (SPD) und Michael Thews (SPD) sprachen sich für den Gesetzentwurf aus. Die AfD, vertreten durch Ulrike Schielke-Ziesing und Iris Nieland, äußerte Bedenken und schlug Alternativen wie das „Junior-Spar-Depot\" vor. Die CDU/CSU, mit Fritz Güntzler und Dr. Carsten Brodesser, beteiligte sich ebenfalls an der Debatte. Des Weiteren wurden Anträge zur Stärkung der finanziellen Bildung für junge Menschen behandelt, zu denen Redner von Die Linke (Lisa Schubert, Nicole Gohlke, Janine Wissler, Isabelle Vandre, Sören Pellmann, Sarah Vollath, Violetta Bock, Agnes Conrad) und BÜNDNIS 90/DIE GRÜNEN (Stefan Schmidt) sprachen. Weitere Tagesordnungspunkte umfassten Anträge zur Ausrichtung der Pflegeversicherung auf Solidarität und Bedarfsgerechtigkeit, mit Beiträgen von Die Linke (Evelyn Schötz, Nicole Gohlke, Dr. Michael Arndt) und BÜNDNIS 90/DIE GRÜNEN (Simone Fischer, Dr. Janosch Dahmen, Dr. Paula Piechotta, Julian Joswig, Misbah Khan). Der Bundestag begann zudem die erste Beratung eines Gesetzes zur Modernisierung des Schiedsverfahrensrechts, an der Dr. Stefanie Hubig (Bundesministerin BMJV) mitwirkte. Es folgten Beratungen zu einem Gesetz zum Bürokratierückbau im Verkehrsbereich, an dem Steffen Bilger (Bundesminister BMV) sowie Redner von AfD (Wolfgang Wiehle, Fabian Jacobi, Marcel Queckemeyer, Nicole Hess, Tobias Ebenberger, Birgit Bessin, Maximilian Kneller, Karsten Hilse, Dr. Christina Baum), SPD (Anja Troff-Schaffarzyk, Dirk Vöpel, Dunja Kreiser), BÜNDNIS 90/DIE GRÜNEN (Matthias Gastel, Julian Joswig) und CDU/CSU (Daniel Kölbl, Günter Baumgartner, Sebastian Steineke, Dr. Klaus Wiener, Carl-Philipp Sassenrath, Christian Moser) beteiligt waren. Abschließend wurde ein Antrag der AfD zur Gewährleistung von Technologieoffenheit im Verkehrssektor und zur Beendigung der Privilegierung der Elektromobilität debattiert, den Adam Balten (AfD) vorstellte und zu dem auch die CDU/CSU und SPD Stellung nahmen.",
-    "summary_easy": "Der Bundestag traf sich am 16. Oktober 2026. Das wichtigste Thema war die neue „Frühstartrente\". Die SPD-Politiker Heiligenstadt und Thews fanden die Rente gut. Die AfD-Politiker Schielke-Ziesing und Nieland waren dagegen. Sie wollten lieber ein Spar-Konto für Kinder. Es ging auch um mehr Geld-Bildung für junge Leute. Die Parteien Die Linke und Grüne sprachen darüber. Die Parteien wollen, dass alle jungen Menschen mehr über Geld lernen. Dann wurde über die Pflege-Versicherung gesprochen. Sie soll fairer für alle werden. Die Linke und die Grünen machten Vorschläge dafür. Es gab auch eine neue Idee für Schieds-Verfahren. Das ist eine Art, Streit ohne Gericht zu lösen. Ein Minister sprach darüber. Auch ein Gesetz für weniger Bürokratie im Verkehr wurde besprochen. Viele Parteien diskutierten darüber. Zum Schluss sprach die AfD über Elektro-Autos. Sie sind nicht so gut für die Umwelt, meinten sie. Die AfD will mehr Technologie-Freiheit im Verkehr.",
+    "summary_en": "The 103rd session of the 21st German Bundestag convened on Friday, October 16, 2026. The agenda included several key legislative items and motions. A major focus was the \"Early Start Pension\" bill, debated in its second and third readings. The Bundestag also discussed motions related to \"Junior Savings Deposits for Secure Pensions for Children,\" presented by the AfD, and \"Strengthening Financial Education for all Young People,\" introduced by Die Linke. Additionally, the session addressed proposals concerning the \"Care Insurance,\" with motions from Die Linke and BÜNDNIS 90/DIE GRÜNEN aiming to align it with solidarity and needs, and to make it future-proof. Further topics included the \"Modernization of Arbitration Law\" and the \"Reduction of Bureaucracy in the Transport Sector.\" The AfD put forward a motion to ensure \"Technological Openness in the Transport Sector\" and end the \"Privileging of E-Mobility.\" Finally, a motion by BÜNDNIS 90/DIE GRÜNEN called for a strong signal at the \"Biodiversity Conference in Yerevan\" to protect living conditions. Ministers Steffen Bilger (BMV) and Dr. Stefanie Hubig (BMJV) participated in discussions. Various members of the SPD, CDU/CSU, AfD, Die Linke, and BÜNDNIS 90/DIE GRÜNEN contributed to the debates.",
+    "summary_de": "Die 103. Sitzung des Deutschen Bundestages der 21. Wahlperiode fand am Freitag, den 16. Oktober 2026 statt. Mehrere wichtige Gesetzesvorlagen und Anträge standen auf der Tagesordnung. Ein Schwerpunkt war der Gesetzentwurf zur \"Einführung einer Frühstartrente\", der in zweiter und dritter Beratung debattiert wurde. Des Weiteren wurden Anträge zu \"Junior-Spar-Depots für eine sichere Rente unserer Kinder\", eingebracht von der AfD, und zur \"Stärkung der finanziellen Bildung für alle jungen Menschen\", von Die Linke, diskutiert. Ein weiterer wichtiger Tagesordnungspunkt betraf die \"Pflegeversicherung\", mit Anträgen von Die Linke und BÜNDNIS 90/DIE GRÜNEN zur solidarisches und bedarfsgerechten Ausrichtung sowie zur Zukunftsfestmachung. Ebenso wurden die \"Modernisierung des Schiedsverfahrensrechts\" und der \"Bürokratierückbau im Verkehrsbereich\" thematisiert. Die AfD legte einen Antrag zur \"Technologieoffenheit im Verkehrssektor\" und zur Beendigung der \"Privilegierung der Elektromobilität\" vor. Abschließend gab es einen Antrag von BÜNDNIS 90/DIE GRÜNEN, bei der \"Biodiversitätskonferenz in Jerewan\" ein starkes Signal zum Schutz der Lebensgrundlagen zu setzen. Bundesminister Steffen Bilger (BMV) und Bundesministerin Dr. Stefanie Hubig (BMJV) nahmen an den Beratungen teil. Abgeordnete der SPD, CDU/CSU, AfD, Die Linke und BÜNDNIS 90/DIE GRÜNEN trugen zu den Debatten bei.",
+    "summary_easy": "Am Freitag, 16. Oktober 2026, fand die 103. Sitzung des Bundestages statt. Es ging um viele wichtige Themen. Ein wichtiges Gesetz ist die \"Frühstartrente\". Auch ein Spar-Plan für Kinder-Renten wurde besprochen. Die Linke möchte die Geld-Bildung für junge Leute verbessern. Es gab auch Debatten zur Pflege-Versicherung. Die Grünen und Die Linke haben Ideen für die Pflege. Ein anderes Thema war die Vereinfachung von Regeln im Verkehr. Die AfD möchte andere Technologien im Verkehr fördern. Es gab auch einen Antrag zum Schutz unserer Umwelt bei einer Konferenz in Jerewan.",
     "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact_en": "During the French Revolution, the color 'bleu de roi' (royal blue) was associated with the monarchy and thus fell out of favor, replaced by more egalitarian colors. However, the color actually experienced a resurgence in popularity and was later embraced by Napoleon, solidifying its place in fashion again.",
-      "fact_de": "Während der Französischen Revolution war die Farbe 'bleu de roi' (Königsblau) mit der Monarchie verbunden und geriet daher in Ungnade, ersetzt durch egalitärere Farben. Die Farbe erlebte jedoch tatsächlich eine Renaissance und wurde später von Napoleon angenommen, was ihren Platz in der Mode wieder festigte.",
-      "fact_easy": "Königsblau war im Frankreich der Revolution unbeliebt. Napoleon mochte die Farbe und sie wurde wieder populär.",
+      "fact_en": "During the Victorian era, a significant portion of 'mourning jewelry' was made from human hair, often woven into intricate patterns or kept in lockets. This practice reflected the deep emotional connection people had with the deceased and served as a tangible, personal keepsake of their lost loved ones.",
+      "fact_de": "Während der viktorianischen Ära wurde ein erheblicher Teil des 'Trauerschmucks' aus menschlichem Haar gefertigt, oft zu kunstvollen Mustern verwoben oder in Anhängern aufbewahrt. Diese Praxis spiegelte die tiefe emotionale Bindung wider, die Menschen zu den Verstorbenen hatten, und diente als greifbare, persönliche Erinnerung an ihre verlorenen Angehörigen.",
+      "fact_easy": "Im viktorianischen Zeitalter wurde viel Trauerschmuck aus Menschenhaar gemacht. Dieses Haar wurde zu Mustern geflochten oder in Medaillons gelegt. Das war eine persönliche Erinnerung an geliebte Menschen, die gestorben waren.",
       "category": "Fashion",
-      "source_title": "The History of Blue in Fashion",
-      "source_url": "https://www.vam.ac.uk/articles/the-history-of-blue-in-fashion"
+      "source_title": "Mourning Jewellery | V&A",
+      "source_url": "https://www.vam.ac.uk/collections/mourning-jewellery"
     },
     {
-      "fact_en": "The ancient Roman festival of Lupercalia, celebrated in February, involved priests sacrificing goats and dogs, then using strips of their hides to lightly whip women. This ritual was believed to promote fertility and ward off evil spirits, and it persisted even after the rise of Christianity, eventually influencing some aspects of Valentine's Day traditions.",
-      "fact_de": "Das antike römische Fest Lupercalia, das im Februar gefeiert wurde, beinhaltete, dass Priester Ziegen und Hunde opferten und dann Streifen ihrer Felle benutzten, um Frauen leicht zu geißeln. Dieses Ritual sollte die Fruchtbarkeit fördern und böse Geister abwehren, und es hielt auch nach dem Aufkommen des Christentums an, beeinflusste schließlich einige Aspekte der Valentinstagstraditionen.",
-      "fact_easy": "Die Römer feierten im Februar Lupercalia. Priester benutzten Tierfelle, um Frauen leicht zu schlagen. Das sollte Fruchtbarkeit bringen.",
+      "fact_en": "The iconic 'red carpet' tradition at premieres and awards ceremonies has roots in ancient Greece and Rome, where rulers and victorious generals would walk on pathways of red fabric to signify their importance and triumph. The color red itself symbolized power, divinity, and prestige.",
+      "fact_de": "Die ikonische 'Roten Teppich'-Tradition bei Premieren und Preisverleihungen hat ihre Wurzeln im antiken Griechenland und Rom, wo Herrscher und siegreiche Feldherren auf Wegen aus rotem Stoff schritten, um ihre Bedeutung und ihren Triumph zu symbolisieren. Die Farbe Rot selbst symbolisierte Macht, Göttlichkeit und Prestige.",
+      "fact_easy": "Die Tradition des roten Teppichs ist sehr alt. Schon im alten Griechenland und Rom gingen wichtige Leute auf roten Stoffen. Rot zeigte damals Macht und besonderen Rang.",
       "category": "Traditions",
-      "source_title": "Lupercalia",
-      "source_url": "https://www.britannica.com/topic/Lupercalia"
+      "source_title": "The History of the Red Carpet | Britannica",
+      "source_url": "https://www.britannica.com/story/the-history-of-the-red-carpet"
     }
   ],
   "frankfurt": {
@@ -288,141 +404,84 @@
       {
         "type": "Events",
         "emoji": "🎪",
-        "headline_en": "Sportfreunde Stiller Concert Cancellations Frustrate Fans",
-        "headline_de": "Konzertabsagen von Sportfreunde Stiller verärgern Fans",
-        "headline_easy": "Sportfreunde Stiller sagen Konzerte ab. Fans sind sauer.",
-        "summary_en": "The band Sportfreunde Stiller has unexpectedly canceled their concert in Oberhausen due to illness, with more cancellations expected. While some fans are understanding, others are expressing frustration.",
-        "summary_de": "Die Band Sportfreunde Stiller hat ihr Konzert in Oberhausen krankheitsbedingt kurzfristig abgesagt. Weitere Auftritte sollen ebenfalls ausfallen. Während einige Fans Verständnis zeigen, gibt es auch Unmut.",
-        "summary_easy": "Die Band Sportfreunde Stiller sagt Konzerte ab. Das ist wegen Krankheit. Manche Fans verstehen das. Andere sind nicht froh.",
+        "headline_en": "Autumn Storm Leaves Damage, Danger Continues",
+        "headline_de": "Herbststurm hinterlässt Schäden, Gefahr noch nicht vorbei",
+        "headline_easy": "Herbst-Sturm macht Schäden. Gefahr ist noch da.",
+        "summary_en": "A recent autumn storm brought strong winds and near-hurricane gusts to Frankfurt, causing power outages and toppled trees. Authorities warn that the danger has not yet passed.",
+        "summary_de": "Ein jüngster Herbststurm brachte starke Winde und fast orkanartige Böen nach Frankfurt und verursachte Stromausfälle und umgestürzte Bäume. Die Behörden warnen, dass die Gefahr noch nicht vorüber ist.",
+        "summary_easy": "Ein Sturm war in Frankfurt. Es gab viel Wind und Bäume fielen um. Strom war weg. Die Gefahr ist noch nicht vorbei.",
         "links": [
           {
-            "title": "Sportfreunde Stiller verärgern Fans",
-            "url": "https://www.n-tv.de/leute/Sportfreunde-Stiller-veraergern-Fans-id31450124.html"
+            "title": "Herbststurm hinterlässt Schäden: Gefahr noch nicht vorbei",
+            "url": "https://ga.de/news/panorama/herbststurm-hinterlaesst-schaeden-gefahr-noch-nicht-vorbei_aid-157179977"
+          },
+          {
+            "title": "Tech-Konzerne reißen sich um Gasturbinen, Brennstoffzellen und Erneuerbare",
+            "url": "https://www.n-tv.de/wirtschaft/Tech-Konzerne-reissen-sich-um-Gasturbinen-Brennstoffzellen-und-Erneuerbare-id31390078.html"
           }
         ]
       },
       {
         "type": "Crime",
         "emoji": "🚔",
-        "headline_en": "Eintracht Frankfurt Faces New Challenges Amidst Club Overhaul",
-        "headline_de": "Eintracht Frankfurt steht im Umbruch vor neuen Herausforderungen",
-        "headline_easy": "Eintracht Frankfurt hat Probleme. Der Manager geht.",
-        "summary_en": "After years of success, Eintracht Frankfurt is facing significant challenges with the departure of successful manager Krösche. The club is in a period of overhaul, with speculation about potential successors.",
-        "summary_de": "Nach Jahren des Erfolgs steht Eintracht Frankfurt vor großen Herausforderungen. Der Abschied von Manager Krösche leitet einen Umbruch ein. Es gibt Spekulationen über mögliche Nachfolger.",
-        "summary_easy": "Eintracht Frankfurt hatte Erfolg. Jetzt gibt es neue Probleme. Der Manager geht. Der Verein muss sich ändern.",
+        "headline_en": "Police Search for Missing 14-Year-Old Girl",
+        "headline_de": "Polizei fahndet nach vermisstem 14-jährigen Mädchen",
+        "headline_easy": "Polizei sucht Mädchen (14). Sie ist weg.",
+        "summary_en": "Police are searching for Leonie, a 14-year-old girl who has been missing for a week. She was last seen in Mülheim am Main and has not been heard from since.",
+        "summary_de": "Die Polizei fahndet nach Leonie, einem 14-jährigen Mädchen, das seit einer Woche vermisst wird. Sie wurde zuletzt in Mülheim am Main gesehen und seitdem gibt es kein Lebenszeichen von ihr.",
+        "summary_easy": "Das Mädchen Leonie ist 14 Jahre alt. Sie ist seit einer Woche weg. Man hat sie zuletzt in Mülheim gesehen. Es gibt kein Zeichen von ihr.",
         "links": [
           {
-            "title": "Ein zweites Gladbach? Was Frankfurt im Umbruch droht",
-            "url": "https://www.tagesspiegel.de/sport/dpa-bundesliga-ein-zweites-gladbach-was-frankfurt-im-umbruch-droht-16191396.html"
+            "title": "Polizei fahndet nach Leonie - Mädchen (14) seit einer Woche verschwunden",
+            "url": "https://www.bild.de/regional/hessen/vermisst-maedchen-14-aus-hessen-seit-einer-woche-verschwunden-6addb31b247c1fa201305f4e"
           },
           {
-            "title": "Schicker widerspricht Frankfurt-Gerüchten",
-            "url": "https://sport.orf.at/stories/3163916/"
+            "title": "1:0 gegen Frankfurt: BVB legt an der Tabellenspitze vor",
+            "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bvb-legt-gegen-eintracht-frankfurt-an-der-tabellenspitze-vor-accg-201304208.html"
           }
         ]
       },
       {
         "type": "Sales & Offers",
         "emoji": "🛍️",
-        "headline_en": "Eintracht Frankfurt Navigates Managerial Change Amidst Market Speculation",
-        "headline_de": "Eintracht Frankfurt navigiert Managerwechsel inmitten von Marktgerüchten",
-        "headline_easy": "Eintracht Frankfurt sucht neuen Manager. Es gibt Gerüchte.",
-        "summary_en": "Eintracht Frankfurt is undergoing a significant overhaul following the departure of their successful manager Krösche. The club is facing new challenges, and there is speculation about potential candidates for the managerial position, with Andreas Schicker stating his intention to remain in Hoffenheim.",
-        "summary_de": "Eintracht Frankfurt durchläuft nach dem Abschied von Manager Krösche einen großen Umbruch. Der Verein steht vor neuen Herausforderungen, und es gibt Spekulationen über mögliche Nachfolgekandidaten. Andreas Schicker hat erklärt, dass er in Hoffenheim bleiben möchte.",
-        "summary_easy": "Eintracht Frankfurt hat einen neuen Manager gesucht. Der alte Manager ist weg. Es gibt Gerüchte über neue Manager. Ein Manager will bleiben, wo er ist.",
+        "headline_en": "BVB Takes Lead in League with Late Goal Against Frankfurt",
+        "headline_de": "BVB übernimmt Tabellenführung mit spätem Tor gegen Frankfurt",
+        "headline_easy": "BVB ist jetzt Erster. Sie haben gegen Frankfurt gewonnen.",
+        "summary_en": "Borussia Dortmund secured a 1-0 victory against Eintracht Frankfurt with a late goal, allowing them to take the top spot in the league standings. The win marks a successful start to a significant week for Dortmund.",
+        "summary_de": "Borussia Dortmund sicherte sich einen 1:0-Sieg gegen Eintracht Frankfurt dank eines späten Tores und übernimmt damit die Tabellenführung. Der Sieg markiert einen erfolgreichen Auftakt für eine wegweisende Woche für den BVB.",
+        "summary_easy": "Dortmund hat gegen Frankfurt gewonnen. Das Spiel war 1:0. Ein Tor kam spät. Dortmund ist jetzt Erster in der Tabelle. Das ist gut für sie.",
         "links": [
           {
-            "title": "Ein zweites Gladbach? Was Frankfurt im Umbruch droht",
-            "url": "https://www.tagesspiegel.de/sport/dpa-bundesliga-ein-zweites-gladbach-was-frankfurt-im-umbruch-droht-16191396.html"
+            "title": "Polizei fahndet nach Leonie - Mädchen (14) seit einer Woche verschwunden",
+            "url": "https://www.bild.de/regional/hessen/vermisst-maedchen-14-aus-hessen-seit-einer-woche-verschwunden-6addb31b247c1fa201305f4e"
           },
           {
-            "title": "Schicker widerspricht Frankfurt-Gerüchten",
-            "url": "https://sport.orf.at/stories/3163916/"
+            "title": "1:0 gegen Frankfurt: BVB legt an der Tabellenspitze vor",
+            "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bvb-legt-gegen-eintracht-frankfurt-an-der-tabellenspitze-vor-accg-201304208.html"
           }
         ]
       },
       {
         "type": "Local News",
         "emoji": "📍",
-        "headline_en": "Eintracht Frankfurt Faces Club Overhaul and Managerial Speculation",
-        "headline_de": "Eintracht Frankfurt steht vor Umbruch und Manager-Spekulationen",
-        "headline_easy": "Eintracht Frankfurt muss sich neu aufstellen. Der Manager ist weg.",
-        "summary_en": "Following a successful period, Eintracht Frankfurt is now facing a period of significant change with the departure of their successful manager Krösche. The club is confronting new challenges, and speculation is rife regarding potential successors, with one candidate, Andreas Schicker, confirming his commitment to his current club.",
-        "summary_de": "Nach einer erfolgreichen Zeit steht Eintracht Frankfurt nun vor einem bedeutenden Wandel, da Manager Krösche den Verein verlässt. Der Club sieht sich neuen Herausforderungen gegenüber, und es gibt viele Spekulationen über mögliche Nachfolger. Ein Kandidat, Andreas Schicker, hat seine Zusage für seinen derzeitigen Verein bestätigt.",
-        "summary_easy": "Eintracht Frankfurt hat lange Erfolg gehabt. Jetzt ändert sich viel. Der Manager geht. Der Club hat neue Probleme. Es gibt Gerüchte über einen neuen Manager.",
+        "headline_en": "Police Seek Missing Teenager, Football Team Secures League Lead",
+        "headline_de": "Polizei sucht vermisste Jugendliche, Fußballteam sichert Tabellenführung",
+        "headline_easy": "Polizei sucht Mädchen. Fußballteam ist Erster.",
+        "summary_en": "Authorities are searching for 14-year-old Leonie, who has been missing for a week since being last seen in Mülheim am Main. In sports news, Borussia Dortmund defeated Eintracht Frankfurt 1-0 with a late goal, propelling them to the top of the league table.",
+        "summary_de": "Die Behörden suchen nach der 14-jährigen Leonie, die seit einer Woche vermisst wird, seit sie zuletzt in Mülheim am Main gesehen wurde. In den Sportnachrichten besiegte Borussia Dortmund Eintracht Frankfurt mit 1:0 durch ein spätes Tor und übernimmt damit die Tabellenführung.",
+        "summary_easy": "Das Mädchen Leonie ist vermisst. Sie ist 14 Jahre alt. Die Polizei sucht sie. Der Fußballverein BVB hat gegen Frankfurt gewonnen. Das Spiel war 1:0. Der BVB ist jetzt Erster.",
         "links": [
           {
-            "title": "Ein zweites Gladbach? Was Frankfurt im Umbruch droht",
-            "url": "https://www.tagesspiegel.de/sport/dpa-bundesliga-ein-zweites-gladbach-was-frankfurt-im-umbruch-droht-16191396.html"
+            "title": "Polizei fahndet nach Leonie - Mädchen (14) seit einer Woche verschwunden",
+            "url": "https://www.bild.de/regional/hessen/vermisst-maedchen-14-aus-hessen-seit-einer-woche-verschwunden-6addb31b247c1fa201305f4e"
           },
           {
-            "title": "Schicker widerspricht Frankfurt-Gerüchten",
-            "url": "https://sport.orf.at/stories/3163916/"
+            "title": "1:0 gegen Frankfurt: BVB legt an der Tabellenspitze vor",
+            "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bvb-legt-gegen-eintracht-frankfurt-an-der-tabellenspitze-vor-accg-201304208.html"
           }
         ]
       }
     ]
   },
-  "dresden": [
-    {
-      "price": "350 €",
-      "address": "Löbtauer Str. 72, 01159 Dresden",
-      "district": "Löbtau",
-      "size": "40 m²",
-      "rooms": "1.5",
-      "title": "Schöne 1,5 Zimmer Wohnung in Löbtau",
-      "url": "https://www.immowelt.de/expose/2A9342474F4D4A7D85E35F16634E2468",
-      "source": "Immowelt.de"
-    },
-    {
-      "price": "380 €",
-      "address": "Schandauer Str. 78, 01277 Dresden",
-      "district": "Seidnitz",
-      "size": "45 m²",
-      "rooms": "2",
-      "title": "Helle 2-Zimmer-Wohnung in ruhiger Lage",
-      "url": "https://www.immobilienscout24.de/expose/145246712",
-      "source": "Immoscout24.de"
-    },
-    {
-      "price": "390 €",
-      "address": "Potsdamer Str. 15, 01169 Dresden",
-      "district": "Cotta",
-      "size": "42 m²",
-      "rooms": "1.5",
-      "title": "Gemütliche 1,5 Zi.-Wohnung mit Balkon",
-      "url": "https://www.immowelt.de/expose/2B8C77D12C5349CF81B89D08A7789144",
-      "source": "Immowelt.de"
-    },
-    {
-      "price": "400 €",
-      "address": "Fritz-Reuter-Straße 37, 01156 Dresden",
-      "district": "Cotta",
-      "size": "48 m²",
-      "rooms": "2",
-      "title": "2 Zimmer Wohnung in ruhiger Lage zu vermieten",
-      "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-in-ruhiger-lage-zu-vermieten/2574258480-158-1110",
-      "source": "Kleinanzeigen.de"
-    },
-    {
-      "price": "420 €",
-      "address": "Königsbrücker Landstr. 26, 01109 Dresden",
-      "district": "Klotzsche",
-      "size": "50 m²",
-      "rooms": "2",
-      "title": "Sonnige 2-Zimmer-Wohnung in Klotzsche",
-      "url": "https://www.vonovia.de/wohnung-finden/mietwohnung/sachsen/dresden/wohnung-kbo-99475-420",
-      "source": "Vonovia.de"
-    },
-    {
-      "price": "435 €",
-      "address": "Bahnhofstraße 14, 01217 Dresden",
-      "district": "Altstadt",
-      "size": "38 m²",
-      "rooms": "1",
-      "title": "Charmante 1-Zimmer-Wohnung in zentraler Lage",
-      "url": "https://www.immobilienscout24.de/expose/145247890",
-      "source": "Immoscout24.de"
-    }
-  ]
+  "dresden": []
 }
