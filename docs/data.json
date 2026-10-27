@@ -1,5 +1,5 @@
 {
-  "date": "Monday, October 26 2026",
+  "date": "Tuesday, October 27 2026",
   "sections": [
     {
       "category": "Germany",
@@ -8,68 +8,80 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Prague Honors Roma Resistance Fighters Against Hitler",
-          "headline_de": "Prag ehrt Roma-Widerstandskämpfer gegen Hitler",
-          "headline_easy": "Prag ehrt Roma-Kämpfer gegen Hitler",
-          "summary_en": "Prague is honoring Roma resistance fighters who fought against Hitler. This commemoration highlights their crucial role during the war.",
-          "summary_de": "Prag ehrt Roma-Widerstandskämpfer, die gegen Hitler kämpften. Diese Ehrung unterstreicht ihre wichtige Rolle während des Krieges.",
-          "summary_easy": "Prag ehrt Roma-Kämpfer. Sie haben gegen Hitler gekämpft. Das ist sehr wichtig.",
+          "headline_en": "Immigrant's Journey: From NYC Porter to Free Medical School",
+          "headline_de": "Einwanderer im Wandel: Vom NYC-Portier zur kostenlosen Medizinschule",
+          "headline_easy": "Mann war Türsteher in New York. Jetzt studiert er Medizin gratis.",
+          "summary_en": "An immigrant who worked as a porter in New York City, earning $500 a week, is now set to attend medical school tuition-free. This inspiring story highlights opportunities and personal achievement.",
+          "summary_de": "Ein Einwanderer, der als Portier in New York City arbeitete und 500 Dollar pro Woche verdiente, wird nun kostenlos ein Medizinstudium beginnen. Diese inspirierende Geschichte beleuchtet Chancen und persönliche Erfolge.",
+          "summary_easy": "Ein Mann kam aus einem anderen Land. Er arbeitete in New York als Portier. Jetzt kann er kostenlos Medizin studieren. Das ist eine tolle Geschichte.",
           "links": [
             {
-              "title": "Prague honours Roma resistance fighters against Hitler",
-              "url": "https://www.dw.com/en/prague-honours-roma-resistance-fighters-against-hitler/a-79725015"
-            },
-            {
-              "title": "Prague honors Roma resistance fighters against Hitler",
-              "url": "https://www.dw.com/en/prague-honors-roma-resistance-fighters-against-hitler/a-79725015"
+              "title": "I worked as a porter in NYC, making $500 a week. Now I'm going to medical school for free.",
+              "url": "https://www.businessinsider.com/immigrant-porter-nyu-medical-school-tuition-free-2026-10#article"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Bayern Munich Reportedly Decided Against Signing Manzambi Last Summer",
-          "headline_de": "Bayern München entschied sich angeblich im letzten Sommer gegen die Verpflichtung von Manzambi",
-          "headline_easy": "Bayern München wollte Manzambi nicht",
-          "summary_en": "Bayern Munich reportedly decided not to sign player Manzambi last summer. The reasons for this decision are not detailed.",
-          "summary_de": "Berichten zufolge entschied sich Bayern München im letzten Sommer gegen die Verpflichtung von Manzambi. Die Gründe für diese Entscheidung sind nicht detailliert.",
-          "summary_easy": "Bayern München wollte einen Spieler nicht. Der Spieler heißt Manzambi. Das war letzten Sommer.",
+          "headline_en": "Saudi Broadcasting Authority Expands Reach with 'The 1% Club' in Arabic Market",
+          "headline_de": "Saudi Broadcasting Authority erschließt arabischen Markt mit 'The 1% Club'",
+          "headline_easy": "Saudi-Arabien kauft eine Fernsehshow. Sie heißt 'The 1% Club'.",
+          "summary_en": "The Saudi Broadcasting Authority has acquired rights to the popular quiz show 'The 1% Club', marking its expansion into the Arabic-speaking market. This move signifies growing international interest in broadcast content.",
+          "summary_de": "Die Saudi Broadcasting Authority hat die Rechte an der beliebten Quizshow 'The 1% Club' erworben und expandiert damit in den arabischsprachigen Markt. Dieser Schritt unterstreicht das wachsende internationale Interesse an Rundfunk-Inhalten.",
+          "summary_easy": "Die Firma Saudi Broadcasting will die Show 'The 1% Club' in arabischen Ländern zeigen. Das ist gut für die Firma. Viele Leute können die Show dann sehen.",
           "links": [
             {
-              "title": "Bayern Munich reportedly \"decided against\" signing Manzambi last summer",
-              "url": "https://bulinews.com/bayern-munich-reportedly-decided-against-signing-manzambi-last-summer"
+              "title": "Saudi Broadcasting Authority takes The 1% Club into Arabic-speaking market",
+              "url": "https://www.c21media.net/news/saudi-broadcasting-authority-takes-the-1-club-into-arabic-speaking-market/"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Players with Most Ballon d'Or Podium Finishes Without a Win",
+          "headline_de": "Spieler mit den meisten Ballon d'Or-Podiumsplatzierungen ohne Sieg",
+          "headline_easy": "Fußballer, die oft Zweiter oder Dritter wurden, aber nie gewannen.",
+          "summary_en": "An analysis identifies the football players who have reached the Ballon d'Or podium multiple times but never secured the top award. This list highlights perennial contenders who narrowly missed ultimate glory.",
+          "summary_de": "Eine Analyse identifiziert die Fußballspieler, die mehrmals das Podium des Ballon d'Or erreicht haben, aber nie die höchste Auszeichnung gewonnen haben. Diese Liste hebt langjährige Anwärter hervor, die knapp den ultimativen Ruhm verpassten.",
+          "summary_easy": "Manche Fußballer waren sehr gut. Sie kamen oft auf die Plätze zwei oder drei bei der Wahl zum besten Spieler. Aber sie haben nie gewonnen. Diese Liste zeigt sie.",
+          "links": [
+            {
+              "title": "The players with the most Ballon d’Or podium finishes without winning",
+              "url": "https://www.footballmuse.com/features/the-players-with-the-most-ballon-dor-podium-finishes-without-winning"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Was That a Stockmarket Wobble, or the Start of Something More Serious?",
-          "headline_de": "War das ein Börsenwackler oder der Anfang von etwas Ernsterem?",
-          "headline_easy": "Ist die Börse unsicher? Oder beginnt etwas Schlimmes?",
-          "summary_en": "A recent stock market movement has raised concerns about its potential implications. Analysts are questioning whether this is a temporary fluctuation or the beginning of a more significant downturn.",
-          "summary_de": "Eine jüngste Bewegung am Aktienmarkt hat Bedenken hinsichtlich ihrer potenziellen Auswirkungen aufgeworfen. Analysten fragen sich, ob dies eine vorübergehende Schwankung oder der Beginn eines signifikanteren Abschwungs ist.",
-          "summary_easy": "Die Börse hat sich bewegt. Das macht viele Leute unsicher. Ist das nur kurz so oder wird es schlimmer?",
+          "headline_en": "Oniverse CEO on 40 Years of Patience and Customer Centricity",
+          "headline_de": "Oniverse-CEO über 40 Jahre Geduld und Kundenorientierung",
+          "headline_easy": "Chef von Oniverse spricht über 40 Jahre Arbeit und Kunden.",
+          "summary_en": "Sandro Veronesi, CEO of Oniverse, reflects on four decades of business, emphasizing the importance of patience and a strong customer-centric approach. The company celebrates its 40th anniversary.",
+          "summary_de": "Sandro Veronesi, CEO von Oniverse, blickt auf vier Jahrzehnte Geschäftstätigkeit zurück und betont die Bedeutung von Geduld und einem starken kundenorientierten Ansatz. Das Unternehmen feiert sein 40-jähriges Bestehen.",
+          "summary_easy": "Der Chef von Oniverse ist Sandro Veronesi. Er spricht über 40 Jahre Firma. Er sagt, Geduld und gute Kunden sind wichtig. Die Firma ist 40 Jahre alt.",
           "links": [
             {
-              "title": "Was that a stockmarket wobble, or the start of something more serious?",
-              "url": "https://www.irishtimes.com/opinion/2026/10/24/was-that-a-stockmarket-wobble-or-the-start-of-something-more-serious/"
+              "title": "Oniverse’s Sandro Veronesi on 40 Years of Patience and Customer Centricity",
+              "url": "http://wwd.com/business-news/business-features/oniverse-sandro-veronesi-group-40-anniversary-1239383314/"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "Steelers and Saints Play in NFL’s First Paris Game—Here’s How to Watch for Free",
-          "headline_de": "Steelers und Saints spielen im ersten Paris-Spiel der NFL – Hier erfährst du, wie du kostenlos zuschauen kannst",
-          "headline_easy": "NFL-Spiel in Paris: Steelers gegen Saints",
-          "summary_en": "The NFL is holding its first game in Paris, featuring the Steelers and Saints. Fans can find out how to watch this historic event for free.",
-          "summary_de": "Die NFL trägt ihr erstes Spiel in Paris aus, mit den Steelers und den Saints. Fans können erfahren, wie sie dieses historische Ereignis kostenlos verfolgen können.",
-          "summary_easy": "Ein Football-Spiel ist in Paris. Es spielen die Steelers und die Saints. Man kann das Spiel kostenlos sehen.",
+          "headline_en": "tickhub-us Added to PyPI Package Index",
+          "headline_de": "tickhub-us zum PyPI-Paketindex hinzugefügt",
+          "headline_easy": "Das Programm 'tickhub-us' ist jetzt im Internet.",
+          "summary_en": "The 'tickhub-us' package has been made available on the Python Package Index (PyPI). This makes the software accessible for developers to integrate into their projects.",
+          "summary_de": "Das Paket 'tickhub-us' wurde im Python Package Index (PyPI) verfügbar gemacht. Dies macht die Software für Entwickler zugänglich, um sie in ihre Projekte zu integrieren.",
+          "summary_easy": "Ein neues Programm heißt 'tickhub-us'. Es ist jetzt auf einer Webseite für Programmierer. Programmierer können es für ihre Arbeit benutzen.",
           "links": [
             {
-              "title": "Steelers and Saints play in NFL’s first Paris game—Here’s how to watch for free",
-              "url": "https://nypost.com/2026/10/25/sports/heres-how-to-watch-steelers-vs-saints-in-paris-for-free/"
+              "title": "tickhub-us added to PyPI",
+              "url": "https://pypi.org/project/tickhub-us/"
             }
           ]
         }
@@ -82,64 +94,80 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Func Prog Conf 2026",
-          "headline_de": "Func Prog Conf 2026",
-          "headline_easy": "Konferenz über Programmieren",
-          "summary_en": "The Func Prog Conf 2026 is an event focused on functional programming. It brings together experts and enthusiasts in the field.",
-          "summary_de": "Die Func Prog Conf 2026 ist eine Veranstaltung, die sich auf funktionale Programmierung konzentriert. Sie bringt Experten und Enthusiasten auf diesem Gebiet zusammen.",
-          "summary_easy": "Es gibt eine Konferenz. Sie heißt Func Prog Conf. Es geht um Computer-Programmieren.",
+          "headline_en": "Crystal Palace Fans React to Loss Against Newcastle United",
+          "headline_de": "Crystal Palace Fans reagieren auf Niederlage gegen Newcastle United",
+          "headline_easy": "Fans von Crystal Palace sprechen nach einem Spiel.",
+          "summary_en": "Supporters of Crystal Palace share their thoughts and emotions before and after their team's defeat to Newcastle United. These comments offer a glimpse into fan sentiment.",
+          "summary_de": "Anhänger von Crystal Palace teilen ihre Gedanken und Emotionen vor und nach der Niederlage ihrer Mannschaft gegen Newcastle United. Diese Kommentare geben Einblick in die Fanstimmung.",
+          "summary_easy": "Die Fans von Crystal Palace reden. Sie reden, bevor das Spiel gegen Newcastle ist. Sie reden auch, nachdem ihr Team verloren hat. Ihre Meinung ist wichtig.",
           "links": [
             {
-              "title": "Func Prog Conf 2026",
-              "url": "https://jmglov.net/blog/2026-10-25-func-prog-conf-2026.html"
+              "title": "Crystal Palace fans comments before AND after losing to Newcastle United",
+              "url": "https://www.themag.co.uk/2026/10/crystal-palace-fans-comments-before-and-after-losing-to-newcastle-united/"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "India’s Auto Production Boom Set to Slow in 2027 as CIE Automotive Flags Margin Pressures",
-          "headline_de": "Indiens Auto-Produktionsboom wird 2027 voraussichtlich langsamer, da CIE Automotive Margendruck meldet",
-          "headline_easy": "Weniger Autos in Indien bald",
-          "summary_en": "India's booming auto production is expected to slow down in 2027. CIE Automotive has reported margin pressures, indicating challenges ahead for the sector.",
-          "summary_de": "Indiens boomende Auto-Produktion wird voraussichtlich 2027 langsamer werden. CIE Automotive hat Margendruck gemeldet, was auf bevorstehende Herausforderungen für den Sektor hindeutet.",
-          "summary_easy": "Indien macht viele Autos. Das wird 2027 langsamer. Eine Firma hat Probleme mit Geld.",
+          "headline_en": "Europe Faces Soaring Natural Gas Prices as Winter Approaches",
+          "headline_de": "Europa sieht steigende Erdgaspreise vor dem Winter",
+          "headline_easy": "Gas wird in Europa teurer. Der Winter kommt bald.",
+          "summary_en": "Europe is experiencing a significant rise in natural gas prices, reaching a four-year high as the winter season approaches. This surge impacts energy markets and consumer costs.",
+          "summary_de": "Europa erlebt einen deutlichen Anstieg der Erdgaspreise, die als Folge der nahenden Wintersaison einen Vierjahreshoch erreichen. Dieser Anstieg beeinflusst die Energiemärkte und die Kosten für Verbraucher.",
+          "summary_easy": "Gas ist in Europa gerade sehr teuer. Die Preise sind so hoch wie seit vier Jahren nicht mehr. Der Winter kommt bald. Das ist nicht gut für die Menschen.",
           "links": [
             {
-              "title": "India’s auto production boom set to slow in 2027 as CIE Automotive flags margin pressures",
-              "url": "https://www.thehindubusinessline.com/companies/indias-auto-production-boom-set-to-slow-in-2027-as-cie-automotive-flags-margin-pressures/article71613301.ece"
+              "title": "Europe's Natural Gas Prices Soar to Four-Year High as Winter Looms",
+              "url": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Natural-Gas-Prices-Soar-to-Four-Year-High-as-Winter-Looms.html"
             }
           ]
         },
         {
           "type": "War",
           "emoji": "⚔️",
-          "headline_en": "Steelers vs. Saints prediction: Pittsburgh’s rushing attack overwhelms New Orleans in France",
-          "headline_de": "Steelers gegen Saints Vorhersage: Pittsburghs Angriffsspiel überrollt New Orleans in Frankreich",
-          "headline_easy": "Football-Spiel in Frankreich: Steelers gewinnen",
-          "summary_en": "A prediction for the Steelers vs. Saints game in France suggests Pittsburgh's running game will be too much for New Orleans. This indicates a likely victory for the Steelers.",
-          "summary_de": "Eine Vorhersage für das Spiel Steelers gegen Saints in Frankreich deutet darauf hin, dass Pittsburghs Laufspiel für New Orleans zu viel sein wird. Dies deutet auf einen wahrscheinlichen Sieg für die Steelers hin.",
-          "summary_easy": "Ein Spiel ist in Frankreich. Die Steelers gewinnen gegen die Saints. Sie laufen gut mit dem Ball.",
+          "headline_en": "WuXi AppTec Raises Full-Year Guidance After Strong Q1-Q3 Performance",
+          "headline_de": "WuXi AppTec hebt Jahresprognose nach starker Leistung in Q1-Q3 an",
+          "headline_easy": "WuXi AppTec macht gute Geschäfte. Sie verdienen mehr Geld als gedacht.",
+          "summary_en": "WuXi AppTec has announced strong financial results for the first three quarters of 2026, leading them to further raise their full-year guidance. Success is attributed to customer product development and their CRDMO model.",
+          "summary_de": "WuXi AppTec hat starke Finanzergebnisse für die ersten drei Quartale 2026 bekannt gegeben und hebt daher seine Jahresprognose weiter an. Der Erfolg wird auf die Produktentwicklung der Kunden und ihr CRDMO-Modell zurückgeführt.",
+          "summary_easy": "Die Firma WuXi AppTec hat gute Nachrichten. Sie haben viel Geld verdient. Sie denken, sie werden noch mehr Geld verdienen. Das liegt an den Kunden und ihrer Arbeit.",
           "links": [
             {
-              "title": "Steelers vs. Saints prediction: Pittsburgh’s rushing attack overwhelms New Orleans in France",
-              "url": "https://nypost.com/2026/10/25/betting/steelers-vs-saints-prediction-nfl-week-7-picks-odds-best-bets-for-france-game/"
+              "title": "WuXi AppTec Delivers Strong Q1-Q3 2026 Results and Further Raises Full-Year Guidance, Driven by Greater Success of Multiple Customers' Products and CRDMO Model",
+              "url": "https://www.prnewswire.com/news-releases/wuxi-apptec-delivers-strong-q1-q3-2026-results-and-further-raises-full-year-guidance-driven-by-greater-success-of-multiple-customers-products-and-crdmo-model-302919202.html"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
-          "headline_de": "'Integrität kann ich Ihnen nicht beibringen': Wie Mitarbeiterdiebstahl Kleinunternehmen in Afrika schadet",
-          "headline_easy": "Diebstahl in Firmen macht Probleme",
-          "summary_en": "Employee theft is causing significant harm to small businesses in Africa. The article highlights the lack of integrity as a major contributing factor.",
-          "summary_de": "Mitarbeiterdiebstahl verursacht erheblichen Schaden für Kleinunternehmen in Afrika. Der Artikel hebt den Mangel an Integrität als wesentlichen Faktor hervor.",
-          "summary_easy": "Leute stehlen in Firmen. Das ist schlecht für kleine Firmen in Afrika. Es fehlt an Ehrlichkeit.",
+          "headline_en": "Dar Global Capital Partners Targets Dubai Real Estate",
+          "headline_de": "Dar Global Capital Partners zielt auf Immobilien in Dubai",
+          "headline_easy": "Eine Firma will in Dubai Immobilien kaufen.",
+          "summary_en": "Dar Global Capital Partners is focusing on high-value real estate opportunities in Dubai as part of its global investment strategy. This move highlights the city's attractiveness for international investors.",
+          "summary_de": "Dar Global Capital Partners konzentriert sich im Rahmen seiner globalen Anlagestrategie auf hochwertige Immobilienchancen in Dubai. Dieser Schritt unterstreicht die Attraktivität der Stadt für internationale Investoren.",
+          "summary_easy": "Dar Global Capital Partners ist eine Firma. Sie will in Dubai gute Immobilien kaufen. Das ist Teil ihrer Pläne. Dubai ist ein guter Ort für Investitionen.",
           "links": [
             {
-              "title": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
-              "url": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo"
+              "title": "DAR GLOBAL CAPITAL PARTNERS TARGETS HIGH-VALUE REAL ESTATE OPPORTUNITIES IN DUBAI ACROSS GLOBAL INVESTMENT MANDATE",
+              "url": "https://www.prnewswire.co.uk/news-releases/dar-global-capital-partners-targets-high-value-real-estate-opportunities-in-dubai-across-global-investment-mandate-302919169.html"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "FL Technics Indonesia Gains EASA Certification for Bali Hangar",
+          "headline_de": "FL Technics Indonesien erhält EASA-Zertifizierung für Hangar in Bali",
+          "headline_easy": "Eine Firma in Bali darf jetzt Flugzeuge aus Europa reparieren.",
+          "summary_en": "FL Technics Indonesia has achieved EASA certification for its hangar in Bali, enabling it to service European fleets. This expansion enhances their operational capabilities and market reach.",
+          "summary_de": "FL Technics Indonesien hat die EASA-Zertifizierung für seinen Hangar in Bali erhalten, was es ihm ermöglicht, europäische Flugzeugflotten zu warten. Diese Erweiterung verbessert seine operativen Fähigkeiten und seine Marktreichweite.",
+          "summary_easy": "Die Firma FL Technics ist jetzt in Bali. Sie hat eine wichtige Erlaubnis (EASA-Zertifizierung). Sie kann jetzt Flugzeuge aus Europa reparieren. Das ist eine gute Nachricht für die Firma.",
+          "links": [
+            {
+              "title": "FL Technics Indonesia Secures EASA Certification for Bali Hangar, Expanding Capabilities to European Fleets",
+              "url": "https://www.prnewswire.co.uk/news-releases/fl-technics-indonesia-secures-easa-certification-for-bali-hangar-expanding-capabilities-to-european-fleets-302919199.html"
             }
           ]
         }
@@ -152,80 +180,80 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Putin Calls Attempts to Accuse Russia of Inciting Unrest in Europe Clear Exaggeration",
-          "headline_de": "Putin nennt Versuche, Russland der Anstiftung zu Unruhen in Europa zu beschuldigen, eine klare Übertreibung",
-          "headline_easy": "Putin sagt, Europa übertreibt bei Russland",
-          "summary_en": "Russian President Putin has stated that accusations of Russia inciting unrest in Europe are a clear exaggeration. He dismisses these claims as unfounded.",
-          "summary_de": "Der russische Präsident Putin hat erklärt, dass Anschuldigungen, Russland störe Unruhen in Europa an, eine klare Übertreibung seien. Er weist diese Behauptungen als unbegründet zurück.",
-          "summary_easy": "Putin spricht über Europa. Er sagt, es ist falsch, Russland die Schuld zu geben. Es ist nicht wahr, dass Russland Unruhen macht.",
+          "headline_en": "Ohio's Tech Boom Creates Challenges for Local Residents",
+          "headline_de": "Tech-Boom in Ohio schafft Herausforderungen für Anwohner",
+          "headline_easy": "Neue Technologie in Ohio macht das Leben für manche Leute schwer.",
+          "summary_en": "The rapid growth of the tech industry in Ohio, driven by data centers, is forcing local residents to make difficult choices. This boom presents both opportunities and challenges for the community.",
+          "summary_de": "Das rasante Wachstum der Tech-Industrie in Ohio, angetrieben durch Rechenzentren, zwingt die Anwohner zu schwierigen Entscheidungen. Dieser Boom bietet sowohl Chancen als auch Herausforderungen für die Gemeinde.",
+          "summary_easy": "In Ohio gibt es jetzt viele neue Technik-Firmen. Sie bauen große Computer-Häuser. Die Leute, die dort wohnen, müssen sich entscheiden. Das ist nicht immer einfach.",
           "links": [
             {
-              "title": "Putin Calls Attempts to Accuse Russia of Inciting Unrest in Europe Clear Exaggeration",
-              "url": "https://sputnikglobe.com/20261025/putin-calls-attempts-to-accuse-russia-of-inciting-unrest-in-europe-clear-exaggeration-1124933448.html"
+              "title": "The Residents Forced to Choose Amid Ohio’s Tech Boom",
+              "url": "https://prospect.org/2026/10/26/data-center-ohio-tech-boom-silicon-heartland-microsoft-meta-amazon/"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Audi Heads to US: Trump Hopes Carmaker Boosts Election Bid",
-          "headline_de": "Audi geht in die USA: Trump hofft, dass der Autohersteller sein Wahlkampfangebot stärkt",
-          "headline_easy": "Auto-Firma Audi kommt in die USA",
-          "summary_en": "German carmaker Audi is expanding its presence in the US. Former President Trump reportedly hopes this move will benefit his election campaign.",
-          "summary_de": "Der deutsche Autohersteller Audi erweitert seine Präsenz in den USA. Der ehemalige Präsident Trump hofft Berichten zufolge, dass dieser Schritt seinem Wahlkampf zugutekommt.",
-          "summary_easy": "Die Auto-Firma Audi kommt in die USA. Donald Trump hofft, dass ihm das hilft, gewählt zu werden.",
+          "headline_en": "Middle East Tensions Rise as Delegations Meet in Iran",
+          "headline_de": "Spannungen im Nahen Osten nehmen zu, während Delegationen sich im Iran treffen",
+          "headline_easy": "Leute treffen sich im Iran. Es gibt Probleme im Nahen Osten.",
+          "summary_en": "Delegations are meeting in Iran amidst heightened tensions in the Middle East, raising concerns about the potential for renewed conflict. The diplomatic efforts aim to de-escalate the situation.",
+          "summary_de": "Delegationen treffen sich im Iran inmitten erhöhter Spannungen im Nahen Osten, was Bedenken hinsichtlich möglicher erneuter Konflikte aufkommen lässt. Die diplomatischen Bemühungen zielen darauf ab, die Situation zu deeskalieren.",
+          "summary_easy": "Politiker treffen sich. Sie sind in Iran. Im Nahen Osten gibt es gerade viel Streit. Manche haben Angst, dass es wieder Krieg gibt. Die Politiker wollen helfen.",
           "links": [
             {
-              "title": "Audi heads to US: Trump hopes carmaker boosts election bid",
-              "url": "https://biztoc.com/x/2da799daa1664423"
+              "title": "Delegations meet in Iran with Middle East on edge over potential for renewed fighting",
+              "url": "https://nypost.com/2026/10/26/world-news/delegations-meet-in-iran-with-middle-east-on-edge-over-potential-for-renewed-fighting/"
             }
           ]
         },
         {
           "type": "War",
           "emoji": "⚔️",
-          "headline_en": "Obama’s Ohio, Michigan Speeches: Key Takeaways on Trump, Iran War, Midterms",
-          "headline_de": "Obamas Reden in Ohio und Michigan: Wichtige Erkenntnisse zu Trump, dem Iran-Krieg und den Midterms",
-          "headline_easy": "Obama spricht über Trump und Krieg",
-          "summary_en": "Former President Obama delivered speeches in Ohio and Michigan focusing on key issues including Donald Trump, the war in Iran, and the upcoming midterm elections. The speeches offered his perspective on these critical topics.",
-          "summary_de": "Der ehemalige Präsident Obama hielt Reden in Ohio und Michigan, die sich auf wichtige Themen konzentrierten, darunter Donald Trump, der Krieg im Iran und die bevorstehenden Kongresswahlen. Die Reden boten seine Perspektive zu diesen kritischen Themen.",
-          "summary_easy": "Obama hat in Amerika gesprochen. Er sprach über Trump und einen Krieg. Es ging auch um Wahlen.",
+          "headline_en": "Rusev's WWE Future Under Scrutiny Amidst News",
+          "headline_de": "Rusevs WWE-Zukunft im Fokus von Nachrichten",
+          "headline_easy": "Man spricht über die Zukunft von Rusev bei WWE.",
+          "summary_en": "Recent news reports suggest an update on the future of wrestler Rusev within WWE. Fans are speculating about his next career moves.",
+          "summary_de": "Aktuelle Nachrichtenberichte deuten auf ein Update zur Zukunft des Wrestlers Rusev bei WWE hin. Fans spekulieren über seine nächsten Karriereschritte.",
+          "summary_easy": "Es gibt neue Informationen über Rusev. Er ist ein Wrestler. Die Leute fragen sich, was er als Nächstes macht. Seine Zukunft bei WWE ist unklar.",
           "links": [
             {
-              "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
-              "url": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms"
+              "title": "Backstage Update On Rusev's WWE Future (WWE News)",
+              "url": "https://whatculture.com/wwe/backstage-update-on-rusevs-wwe-future-wwe-news"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "2026 ESMO | Innovent Presented Phase 1 Study Data for IBI3001, a First-in-Class EGFR/B7H3 Bispecific ADC",
-          "headline_de": "2026 ESMO | Innovent präsentierte Phase-1-Studiendaten für IBI3001, ein First-in-Class EGFR/B7H3 Bispezifisches ADC",
-          "headline_easy": "Neue Medizin für Krebs",
-          "summary_en": "Innovent presented Phase 1 study data for IBI3001, a new type of cancer drug, at the 2026 ESMO conference. This bispecific ADC targets EGFR and B7H3.",
-          "summary_de": "Innovent präsentierte auf der ESMO-Konferenz 2026 Phase-1-Studiendaten für IBI3001, eine neue Art von Krebsmedikament. Dieses bispezifische ADC zielt auf EGFR und B7H3 ab.",
-          "summary_easy": "Eine Firma hat neue Medikamente gezeigt. Es ist für Krebs. Das Medikament heißt IBI3001.",
+          "headline_en": "California's Billionaire Tax Faces Strong Opposition",
+          "headline_de": "Kaliforniens Milliardärssteuer stößt auf starken Widerstand",
+          "headline_easy": "Reiche Leute in Kalifornien mögen die neue Steuer nicht.",
+          "summary_en": "A proposed billionaire tax in California is encountering significant opposition from wealthy individuals. The tax faces a challenging path forward due to this resistance.",
+          "summary_de": "Eine vorgeschlagene Milliardärssteuer in Kalifornien stößt auf erheblichen Widerstand von wohlhabenden Einzelpersonen. Die Steuer steht aufgrund dieses Widerstands vor einem schwierigen Weg.",
+          "summary_easy": "In Kalifornien gibt es eine Idee für eine neue Steuer. Nur sehr reiche Leute müssten sie zahlen. Aber diese reichen Leute sind dagegen. Die Steuer wird es schwer haben.",
           "links": [
             {
-              "title": "2026 ESMO | Innovent Presented Phase 1 Study Data for IBI3001, a First-in-Class EGFR/B7H3 Bispecific ADC",
-              "url": "https://www.prnewswire.com/news-releases/2026-esmo--innovent-presented-phase-1-study-data-for-ibi3001-a-first-in-class-egfrb7h3-bispecific-adc-302918633.html"
+              "title": "California’s billionaire tax faces a precarious road from rich opposition",
+              "url": "https://www.aljazeera.com/economy/2026/10/26/californias-billionaire-tax-faces-a-precarious-road-from-rich-opposition"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "How to Watch Chiefs vs. Seahawks Tonight: Time, TV Channel for 'SNF'",
-          "headline_de": "So sehen Sie Chiefs gegen Seahawks heute Abend: Uhrzeit, TV-Kanal für 'SNF'",
-          "headline_easy": "Football-Spiel heute Abend",
-          "summary_en": "Fans can find out how to watch the Chiefs vs. Seahawks game tonight. Information on game time and the TV channel for 'SNF' is provided.",
-          "summary_de": "Fans können erfahren, wie sie das Spiel Chiefs gegen Seahawks heute Abend verfolgen können. Informationen zur Spielzeit und zum TV-Kanal für 'SNF' werden bereitgestellt.",
-          "summary_easy": "Heute Abend gibt es ein Football-Spiel. Es spielen die Chiefs und die Seahawks. Hier steht, wann und wo man es sehen kann.",
+          "headline_en": "Expert Advice on Gold vs. Silver Investment Strategies",
+          "headline_de": "Expertenrat zu Gold- vs. Silber-Anlagestrategien",
+          "headline_easy": "Experten sagen, wie man in Gold und Silber investiert.",
+          "summary_en": "An expert provides insights into investing in gold versus silver, explaining the need for different review and assessment strategies for each precious metal in an investment portfolio.",
+          "summary_de": "Ein Experte gibt Einblicke in die Anlage von Gold gegenüber Silber und erklärt die Notwendigkeit unterschiedlicher Bewertungs- und Prüfstrategien für jedes Edelmetall in einem Anlageportfolio.",
+          "summary_easy": "Man kann in Gold investieren. Man kann auch in Silber investieren. Ein Experte erklärt, wie das geht. Man muss Gold und Silber anders behandeln.",
           "links": [
             {
-              "title": "How to watch Chiefs vs. Seahawks tonight: Time, TV channel for 'SNF'",
-              "url": "https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2026/10/25/kansas-city-chiefs-seattle-seahawks-how-to-watch-listen-stream-sunday-night-football-nfl-week-7/92414027007/"
+              "title": "Gold vs silver in investment portfolio: Expert explains why there should be different review and assessment strategy",
+              "url": "https://www.livemint.com/money/gold-vs-silver-in-investment-portfolio-expert-explains-why-there-should-be-different-review-and-assessment-strategy-11793002030142.html"
             }
           ]
         }
@@ -236,50 +264,18 @@
       "emoji": "🌏",
       "topics": [
         {
-          "type": "Culture",
-          "emoji": "🎭",
-          "headline_en": "Akane-banashi Season 2 Anime Reveals More Cast, Teaser Trailer",
-          "headline_de": "Akane-banashi Staffel 2 Anime enthüllt mehr Besetzung, Teaser-Trailer",
-          "headline_easy": "Neue Infos zum Anime",
-          "summary_en": "The second season of the anime 'Akane-banashi' has released new cast announcements and a teaser trailer. Fans can get a glimpse of what's to come.",
-          "summary_de": "Die zweite Staffel des Anime 'Akane-banashi' hat neue Besetzungsankündigungen und einen Teaser-Trailer veröffentlicht. Fans können einen Einblick bekommen, was sie erwartet.",
-          "summary_easy": "Es gibt einen Anime namens 'Akane-banashi'. Die zweite Staffel kommt. Neue Schauspieler und ein neuer Trailer sind da.",
-          "links": [
-            {
-              "title": "Akane-banashi Season 2 Anime Reveals More Cast, Teaser Trailer",
-              "url": "https://www.animenewsnetwork.com/news/2026-10-25/akane-banashi-season-2-anime-reveals-more-cast-teaser-trailer/.243178"
-            }
-          ]
-        },
-        {
-          "type": "Business",
-          "emoji": "💼",
-          "headline_en": "Godrej Properties Eyes Record ₹41,500 Crore Sales Bookings on Strong Demand",
-          "headline_de": "Godrej Properties peilt Rekord-Verkaufsbuchungen von 41.500 Crore Rupien bei starker Nachfrage an",
-          "headline_easy": "Firma verkauft viele Häuser",
-          "summary_en": "Godrej Properties is anticipating record sales bookings of ₹41,500 crore due to strong market demand. This indicates a very successful period for the real estate company.",
-          "summary_de": "Godrej Properties erwartet aufgrund starker Marktnachfrage Rekord-Verkaufsbuchungen von 41.500 Crore Rupien. Dies deutet auf eine sehr erfolgreiche Zeit für das Immobilienunternehmen hin.",
-          "summary_easy": "Eine Firma namens Godrej Properties verkauft viele Häuser. Sie erwarten viel Geld. Die Leute wollen viele Häuser kaufen.",
-          "links": [
-            {
-              "title": "Godrej Properties eyes record ₹41,500 crore sales bookings on strong demand",
-              "url": "https://www.business-standard.com/industry/news/godrej-properties-eyes-record-41-500-crore-sales-bookings-on-strong-demand-126102500287_1.html"
-            }
-          ]
-        },
-        {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Ping An Highlights Green Development Initiatives at International Communication Seminar in Shenzhen Ahead of APEC 2026",
-          "headline_de": "Ping An hebt grüne Entwicklungsinitiativen auf internationalem Kommunikationsseminar in Shenzhen vor APEC 2026 hervor",
-          "headline_easy": "Firma spricht über Umweltschutz",
-          "summary_en": "Ping An is showcasing its green development initiatives at an international seminar in Shenzhen. This event precedes the APEC 2026 summit.",
-          "summary_de": "Ping An präsentiert seine Initiativen zur grünen Entwicklung auf einem internationalen Seminar in Shenzhen. Diese Veranstaltung findet vor dem APEC-Gipfel 2026 statt.",
-          "summary_easy": "Eine Firma heißt Ping An. Sie spricht über Umweltschutz. Das ist bei einem Treffen in Shenzhen.",
+          "headline_en": "Indian Stock Markets Show Mixed Performance; Sensex Trades Flat",
+          "headline_de": "Indische Aktienmärkte zeigen gemischte Leistung; Sensex handelt flach",
+          "headline_easy": "Die Börse in Indien bewegt sich kaum. Öl und eine Firma sind schlecht.",
+          "summary_en": "Indian stock markets are exhibiting mixed trends, with the Sensex trading nearly flat. Factors like high oil prices and weakness in Infosys are impacting the market's performance.",
+          "summary_de": "Die indischen Aktienmärkte zeigen gemischte Trends, wobei der Sensex fast unverändert handelt. Faktoren wie hohe Ölpreise und Schwäche bei Infosys beeinflussen die Marktentwicklung.",
+          "summary_easy": "Die Börse in Indien ist gerade nicht sehr spannend. Der Index Sensex bewegt sich kaum. Das liegt an teurem Öl und einer Firma namens Infosys, die nicht gut läuft.",
           "links": [
             {
-              "title": "Ping An Highlights Green Development Initiatives at International Communication Seminar in Shenzhen Ahead of APEC 2026",
-              "url": "https://www.prnewswire.com/news-releases/ping-an-highlights-green-development-initiatives-at-international-communication-seminar-in-shenzhen-ahead-of-apec-2026-302918727.html"
+              "title": "Sensex Pares Steep Opening Losses to Trade Nearly Flat as Oil Above $110 and Infosys Weakness Weigh on Mumbai",
+              "url": "https://www.ibtimes.com.au/indian-shares-recover-banks-pharma-stocks-1877395"
             }
           ]
         }
@@ -292,80 +288,64 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Who Is the Most Influential American Writer? There’s an Obvious Answer—Even if Few Seem to Admit It.",
-          "headline_de": "Wer ist der einflussreichste amerikanische Schriftsteller? Es gibt eine offensichtliche Antwort – auch wenn es wenige zuzugeben scheinen.",
-          "headline_easy": "Wer ist der wichtigste amerikanische Autor?",
-          "summary_en": "The article discusses who is considered the most influential American writer, suggesting there is a clear and obvious answer. It explores the impact of this writer's work.",
-          "summary_de": "Der Artikel diskutiert, wer als der einflussreichste amerikanische Schriftsteller gilt, und legt nahe, dass es eine klare und offensichtliche Antwort gibt. Er untersucht den Einfluss der Werke dieses Schriftstellers.",
-          "summary_easy": "Der Artikel fragt: Wer ist der wichtigste Autor in Amerika? Es gibt eine klare Antwort. Der Artikel erklärt, warum.",
+          "headline_en": "Crypto Week Ahead: Interest Rate Decisions and Coinbase Earnings",
+          "headline_de": "Krypto-Woche im Voraus: Zinsentscheidungen und Coinbase-Ergebnisse",
+          "headline_easy": "Diese Woche gibt es wichtige Entscheidungen über Geld und Coinbase.",
+          "summary_en": "The upcoming week in cryptocurrency will be shaped by crucial interest-rate decisions from the Fed, ECB, and BOJ, alongside the release of Coinbase's earnings report. These events are closely watched by investors.",
+          "summary_de": "Die kommende Woche im Kryptobereich wird von entscheidenden Zinsentscheidungen der Fed, der EZB und der BoJ sowie der Veröffentlichung des Coinbase-Ergebnisberichts geprägt sein. Diese Ereignisse werden von den Anlegern genau beobachtet.",
+          "summary_easy": "Diese Woche ist wichtig für Kryptowährungen. Die Zentralbanken entscheiden über Zinsen. Die Firma Coinbase sagt, wie viel Geld sie verdient hat. Anleger schauen genau hin.",
           "links": [
             {
-              "title": "Who Is the Most Influential American Writer? There’s an Obvious Answer—Even if Few Seem to Admit It.",
-              "url": "https://slate.com/culture/2026/10/edgar-allan-poe-poems-stories-most-influential-american-writer-death-horror-detective.html"
+              "title": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
+              "url": "https://biztoc.com/x/19da46ef4e744573"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Pryce Takes Second BRC Title with Cambrian Rally Win",
-          "headline_de": "Pryce gewinnt mit dem Sieg bei der Cambrian Rally seinen zweiten BRC-Titel",
-          "headline_easy": "Rallye-Fahrer gewinnt Titel",
-          "summary_en": "Osian Pryce has secured his second BRC title by winning the Cambrian Rally. This victory marks a significant achievement in his motorsport career.",
-          "summary_de": "Osian Pryce hat mit seinem Sieg bei der Cambrian Rally seinen zweiten BRC-Titel gewonnen. Dieser Sieg ist eine bedeutende Leistung in seiner Motorsportkarriere.",
-          "summary_easy": "Ein Rennfahrer heißt Pryce. Er hat wieder gewonnen. Das ist sein zweiter Preis.",
+          "headline_en": "PHP2Shell Vulnerability Disclosure Serves as Warning",
+          "headline_de": "PHP2Shell-Schwachstellen-Offenlegung dient als Warnung",
+          "headline_easy": "Eine Sicherheitslücke ist eine Warnung für Programmierer.",
+          "summary_en": "The disclosure of the PHP2Shell vulnerability is being highlighted as a cautionary tale for developers regarding security practices and vulnerability disclosure.",
+          "summary_de": "Die Offenlegung der PHP2Shell-Schwachstelle wird als mahnendes Beispiel für Entwickler in Bezug auf Sicherheitspraktiken und die Offenlegung von Schwachstellen hervorgehoben.",
+          "summary_easy": "Es gibt ein Problem mit einem Computerprogramm. Das Programm heißt PHP2Shell. Man hat das Problem gefunden und gemeldet. Das ist eine Warnung für alle, die Programme machen.",
           "links": [
             {
-              "title": "Pryce takes second BRC title with Cambrian Rally win",
-              "url": "https://www.bbc.com/sport/motorsport/articles/ck1l3zj2myggo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"
+              "title": "PHP2Shell is a warning shot for vulnerability disclosure",
+              "url": "https://www.theregister.com/columnists/2026/10/26/php2shell-is-a-warning-shot-for-vulnerability-disclosure/5304918"
             }
           ]
         },
         {
           "type": "War",
           "emoji": "⚔️",
-          "headline_en": "Russian-Norwegian Relations Degrade as Result of Norway's Hostile Course - Foreign Ministry",
-          "headline_de": "Russisch-norwegische Beziehungen verschlechtern sich infolge Norwegens feindseligem Kurs - Außenministerium",
-          "headline_easy": "Schlechte Beziehungen zwischen Russland und Norwegen",
-          "summary_en": "Russia's Foreign Ministry states that Russian-Norwegian relations are deteriorating due to Norway's perceived hostile policies. This indicates growing tension between the two nations.",
-          "summary_de": "Das russische Außenministerium erklärt, dass sich die russisch-norwegischen Beziehungen aufgrund der wahrgenommenen feindseligen Politik Norwegens verschlechtern. Dies deutet auf wachsende Spannungen zwischen den beiden Nationen hin.",
-          "summary_easy": "Russland sagt, die Beziehungen zu Norwegen sind schlecht. Das liegt an Norwegen, sagt Russland. Es gibt Streit.",
+          "headline_en": "Nico Carrillo Defends Muay Thai World Title",
+          "headline_de": "Nico Carrillo verteidigt Muay Thai-Weltmeistertitel",
+          "headline_easy": "Nico Carrillo kämpft um seinen Weltmeistertitel im Muay Thai.",
+          "summary_en": "Nico Carrillo is set to defend his Featherweight Muay Thai World Title against Nabil Anane in a rematch at The Inner Circle 43. This highly anticipated bout will determine the champion.",
+          "summary_de": "Nico Carrillo wird seinen Federgewicht-Muay-Thai-Weltmeistertitel gegen Nabil Anane in einem Rückkampf bei The Inner Circle 43 verteidigen. Dieser mit Spannung erwartete Kampf wird den Champion ermitteln.",
+          "summary_easy": "Nico Carrillo ist ein Kämpfer. Er hat einen Weltmeistertitel im Muay Thai. Jetzt kämpft er wieder gegen Nabil Anane. Es ist ein wichtiger Kampf.",
           "links": [
             {
-              "title": "Russian-Norwegian Relations Degrade as Result of Norway's Hostile Course - Foreign Ministry",
-              "url": "https://sputnikglobe.com/20261025/russian-norwegian-relations-degrade-as-result-of-norways-hostile-course---foreign-ministry-1124933578.html"
+              "title": "Nico Carrillo Defends Featherweight Muay Thai World Title Against Nabil Anane In Rematch At The Inner Circle 43",
+              "url": "https://www.onefc.com/news/nico-carrillo-defends-featherweight-muay-thai-world-title-against-nabil-anane-in-rematch-at-the-inner-circle-43/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "‘Supercharging bras’: The story behind Victoria's Secret’s $6 billion turnaround",
-          "headline_de": "„BHs auf Hochtouren“: Die Geschichte hinter der 6-Milliarden-Dollar-Wende von Victoria's Secret",
-          "headline_easy": "Victoria's Secret macht wieder Geld",
-          "summary_en": "The article tells the story of Victoria's Secret's remarkable $6 billion turnaround. It explores the strategies that led to this significant business recovery, focusing on 'supercharging bras'.",
-          "summary_de": "Der Artikel erzählt die Geschichte der bemerkenswerten 6-Milliarden-Dollar-Wende von Victoria's Secret. Er untersucht die Strategien, die zu dieser bedeutenden Geschäftsbelebung führten, wobei der Schwerpunkt auf 'Supercharging Bras' liegt.",
-          "summary_easy": "Die Firma Victoria's Secret hat viel Geld verdient. Sie haben viel Geld gemacht, vorher war es schlecht. Sie haben neue BHs gemacht.",
+          "headline_en": "US Supreme Court to Rule on Climate Lawsuits",
+          "headline_de": "US Supreme Court wird über Klimaklagen entscheiden",
+          "headline_easy": "Das höchste Gericht in Amerika entscheidet über Klagen wegen Klimawandel.",
+          "summary_en": "The U.S. Supreme Court is preparing to decide whether climate lawsuits can proceed. This ruling will have significant implications for environmental litigation and policy.",
+          "summary_de": "Der Oberste Gerichtshof der USA bereitet sich darauf vor, zu entscheiden, ob Klimaklagen fortgesetzt werden können. Dieses Urteil wird erhebliche Auswirkungen auf Umweltklagen und -politik haben.",
+          "summary_easy": "Das Gericht in Amerika trifft eine wichtige Entscheidung. Es geht darum, ob man Leute wegen des Klimawandels verklagen darf. Das Urteil ist sehr wichtig.",
           "links": [
             {
-              "title": "‘Supercharging bras’: The story behind Victoria's Secret’s $6 billion turnaround",
-              "url": "https://www.businessinsider.com/victorias-secret-business-turnaround-vsxy-stock-price-bra-sales-2026-10#article"
-            }
-          ]
-        },
-        {
-          "type": "Technology",
-          "emoji": "💻",
-          "headline_en": "omnidoc 0.1.6",
-          "headline_de": "omnidoc 0.1.6",
-          "headline_easy": "Neues Programm: omnidoc",
-          "summary_en": "This is an announcement for version 0.1.6 of 'omnidoc'. It likely refers to a software package or library with this designation.",
-          "summary_de": "Dies ist eine Ankündigung für Version 0.1.6 von 'omnidoc'. Sie bezieht sich wahrscheinlich auf ein Softwarepaket oder eine Bibliothek mit dieser Bezeichnung.",
-          "summary_easy": "Es gibt ein neues Computer-Programm. Es heißt omnidoc. Die neue Version ist 0.1.6.",
-          "links": [
-            {
-              "title": "omnidoc 0.1.6",
-              "url": "https://pypi.org/project/omnidoc/0.1.6/"
+              "title": "U.S. Supreme Court to decide whether climate suits can go forward",
+              "url": "https://www.resilience.org/stories/2026-10-26/u-s-supreme-court-to-decide-whether-climate-suits-can-go-forward/"
             }
           ]
         }
@@ -376,27 +356,27 @@
     "wahlperiode": 21,
     "sitzung": 103,
     "url": "https://dserver.bundestag.de/btp/21/21103.pdf",
-    "summary_en": "The 103rd session of the 21st German Bundestag convened on Friday, October 16, 2026. The agenda included several key legislative items and motions. A major focus was the \"Early Start Pension\" bill, debated in its second and third readings. The Bundestag also discussed motions related to \"Junior Savings Deposits for Secure Pensions for Children,\" presented by the AfD, and \"Strengthening Financial Education for all Young People,\" introduced by Die Linke. Additionally, the session addressed proposals concerning the \"Care Insurance,\" with motions from Die Linke and BÜNDNIS 90/DIE GRÜNEN aiming to align it with solidarity and needs, and to make it future-proof. Further topics included the \"Modernization of Arbitration Law\" and the \"Reduction of Bureaucracy in the Transport Sector.\" The AfD put forward a motion to ensure \"Technological Openness in the Transport Sector\" and end the \"Privileging of E-Mobility.\" Finally, a motion by BÜNDNIS 90/DIE GRÜNEN called for a strong signal at the \"Biodiversity Conference in Yerevan\" to protect living conditions. Ministers Steffen Bilger (BMV) and Dr. Stefanie Hubig (BMJV) participated in discussions. Various members of the SPD, CDU/CSU, AfD, Die Linke, and BÜNDNIS 90/DIE GRÜNEN contributed to the debates.",
-    "summary_de": "Die 103. Sitzung des Deutschen Bundestages der 21. Wahlperiode fand am Freitag, den 16. Oktober 2026 statt. Mehrere wichtige Gesetzesvorlagen und Anträge standen auf der Tagesordnung. Ein Schwerpunkt war der Gesetzentwurf zur \"Einführung einer Frühstartrente\", der in zweiter und dritter Beratung debattiert wurde. Des Weiteren wurden Anträge zu \"Junior-Spar-Depots für eine sichere Rente unserer Kinder\", eingebracht von der AfD, und zur \"Stärkung der finanziellen Bildung für alle jungen Menschen\", von Die Linke, diskutiert. Ein weiterer wichtiger Tagesordnungspunkt betraf die \"Pflegeversicherung\", mit Anträgen von Die Linke und BÜNDNIS 90/DIE GRÜNEN zur solidarisches und bedarfsgerechten Ausrichtung sowie zur Zukunftsfestmachung. Ebenso wurden die \"Modernisierung des Schiedsverfahrensrechts\" und der \"Bürokratierückbau im Verkehrsbereich\" thematisiert. Die AfD legte einen Antrag zur \"Technologieoffenheit im Verkehrssektor\" und zur Beendigung der \"Privilegierung der Elektromobilität\" vor. Abschließend gab es einen Antrag von BÜNDNIS 90/DIE GRÜNEN, bei der \"Biodiversitätskonferenz in Jerewan\" ein starkes Signal zum Schutz der Lebensgrundlagen zu setzen. Bundesminister Steffen Bilger (BMV) und Bundesministerin Dr. Stefanie Hubig (BMJV) nahmen an den Beratungen teil. Abgeordnete der SPD, CDU/CSU, AfD, Die Linke und BÜNDNIS 90/DIE GRÜNEN trugen zu den Debatten bei.",
-    "summary_easy": "Am Freitag, 16. Oktober 2026, fand die 103. Sitzung des Bundestages statt. Es ging um viele wichtige Themen. Ein wichtiges Gesetz ist die \"Frühstartrente\". Auch ein Spar-Plan für Kinder-Renten wurde besprochen. Die Linke möchte die Geld-Bildung für junge Leute verbessern. Es gab auch Debatten zur Pflege-Versicherung. Die Grünen und Die Linke haben Ideen für die Pflege. Ein anderes Thema war die Vereinfachung von Regeln im Verkehr. Die AfD möchte andere Technologien im Verkehr fördern. Es gab auch einen Antrag zum Schutz unserer Umwelt bei einer Konferenz in Jerewan.",
+    "summary_en": "The 103rd session of the German Bundestag on October 16, 2026, covered a range of legislative items and debates. Key discussions included the \"Early Start Pension\" law, which underwent its second and third readings, originating from a government draft (Drucksachen 21/7864, 21/8296, 21/8606) and including a report from the Budget Committee (Drucksache 21/8619).  Following this, the Finance Committee presented recommendations on two motions: the AfD's \"Junior Savings Account\" for children's pensions (Drucksache 21/2163) and Die Linke's proposal to strengthen financial education for young people (Drucksache 21/8125, 21/8606). Speakers from SPD, AfD, CDU/CSU, and Die Linke engaged in debate.  Agenda item 33 focused on the long-term care insurance, with Die Linke proposing a reform for solidarity and needs-based orientation (Drucksache 21/5828) and the Committee on Health reporting on preventing benefit cuts (Drucksachen 21/2216, 21/6409). Bündnis 90/Die Grünen also introduced a motion for a sustainable care reform (Drucksache 21/8398).  MP Evelyn Schötz (Die Linke) and Simone Fischer (Bündnis 90/Die Grünen) were prominent voices.  Further topics included the \"Bureaucracy Reduction in the Transport Sector\" bill (Drucksache 21/8404), with Minister Steffen Bilger (BMV) present, and a debate on technology openness in the transport sector, opposing the privileging of electromobility, initiated by the AfD (Drucksache 21/8557).  The session also featured the first reading of a bill to modernize arbitration law and amend the Code of Civil Procedure concerning international civil procedure (Drucksache 21/8414), with Minister Dr. Stefanie Hubig (BMJV) addressing the chamber.  Finally, a motion by Bündnis 90/Die Grünen aimed to send a strong signal for the protection of our livelihoods at the \"Biodiversity Conference in Yerevan\" (Drucksache 21/8144).  Debates reflected party-line divisions on pension policy, care reform, and transport sector regulations.",
+    "summary_de": "Die 103. Sitzung des Deutschen Bundestages am 16. Oktober 2026 befasste sich mit einer Reihe von Gesetzesvorhaben und Debatten. Hauptdiskussionen umfassten das Gesetz zur \"Frühstartrente\", das seine zweite und dritte Lesung durchlief, basierend auf einem Regierungsentwurf (Drucksachen 21/7864, 21/8296, 21/8606), einschließlich eines Berichts des Haushaltsausschusses (Drucksache 21/8619). Anschließend präsentierte der Finanzausschuss Beschlussempfehlungen zu zwei Anträgen: dem AfD-Antrag zum \"Junior-Spar-Depot\" für Kinderrenten (Drucksache 21/2163) und dem Antrag der Linken zur Stärkung der finanziellen Bildung junger Menschen (Drucksache 21/8125, 21/8606). Abgeordnete der SPD, AfD, CDU/CSU und Die Linke beteiligten sich an der Debatte. Der Tagesordnungspunkt 33 konzentrierte sich auf die Pflegeversicherung, wobei Die Linke eine Reform für Solidarität und Bedarfsgerechtigkeit vorschlug (Drucksache 21/5828) und der Ausschuss für Gesundheit über die Verhinderung von Leistungskürzungen berichtete (Drucksachen 21/2216, 21/6409). Bündnis 90/Die Grünen legten ebenfalls einen Antrag für eine nachhaltige Pflegereform vor (Drucksache 21/8398). Die Abgeordnete Evelyn Schötz (Die Linke) und Simone Fischer (Bündnis 90/Die Grünen) waren prominente Sprecherinnen. Weitere Themen waren der Gesetzentwurf zum \"Bürokratierückbau im Verkehrsbereich\" (Drucksache 21/8404) unter Anwesenheit von Minister Steffen Bilger (BMV) und eine Debatte zur Technologieoffenheit im Verkehrssektor, die sich gegen die Privilegierung der Elektromobilität aussprach, initiiert von der AfD (Drucksache 21/8557). Die Sitzung beinhaltete auch die erste Beratung eines Gesetzes zur Modernisierung des Schiedsverfahrensrechts und zur Änderung der Zivilprozessordnung im internationalen Zivilverfahrensrecht (Drucksache 21/8414), zu dem Ministerin Dr. Stefanie Hubig (BMJV) sprach. Schließlich zielte ein Antrag von Bündnis 90/Die Grünen darauf ab, ein starkes Signal für den Schutz unserer Lebensgrundlagen auf der \"Biodiversitätskonferenz in Jerewan\" zu setzen (Drucksache 21/8144). Die Debatten spiegelten parteipolitische Gräben in der Rentenpolitik, Pflegereform und Verkehrspolitik wider.",
+    "summary_easy": "Am Freitag, den 16. Oktober 2026, war der Bundestag in Sitzung 103. Es ging um viele wichtige Themen. Ein Gesetz zur \"Frühen Rente\" wurde besprochen. Die AfD sprach über ein Spar-Konto für Kinder. Die Linke wollte mehr Finanz-Bildung für junge Leute. Viele Politiker von verschiedenen Parteien sagten ihre Meinung. Es gab auch eine Debatte über die Pflege-Versicherung. Die Linke und die Grünen wollen die Pflege verbessern. Es gab auch einen Vorschlag, Bürokratie im Verkehr zu verringern. Die AfD sprach gegen Elektro-Autos. Ein neues Gesetz zur Schlichtung von Streitigkeiten wurde auch vorgestellt. Die Grünen forderten mehr Schutz für die Natur.",
     "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact_en": "During the Victorian era, a significant portion of 'mourning jewelry' was made from human hair, often woven into intricate patterns or kept in lockets. This practice reflected the deep emotional connection people had with the deceased and served as a tangible, personal keepsake of their lost loved ones.",
-      "fact_de": "Während der viktorianischen Ära wurde ein erheblicher Teil des 'Trauerschmucks' aus menschlichem Haar gefertigt, oft zu kunstvollen Mustern verwoben oder in Anhängern aufbewahrt. Diese Praxis spiegelte die tiefe emotionale Bindung wider, die Menschen zu den Verstorbenen hatten, und diente als greifbare, persönliche Erinnerung an ihre verlorenen Angehörigen.",
-      "fact_easy": "Im viktorianischen Zeitalter wurde viel Trauerschmuck aus Menschenhaar gemacht. Dieses Haar wurde zu Mustern geflochten oder in Medaillons gelegt. Das war eine persönliche Erinnerung an geliebte Menschen, die gestorben waren.",
+      "fact_en": "In ancient Rome, purple dye was so expensive and difficult to produce that it became a symbol of imperial power and wealth. Only the emperor and the highest officials were allowed to wear togas dyed with Tyrian purple, and sumptuary laws strictly regulated its use.",
+      "fact_de": "Im antiken Rom war lila Farbstoff so teuer und schwierig herzustellen, dass er zum Symbol kaiserlicher Macht und Reichtum wurde. Nur der Kaiser und die höchsten Beamten durften mit Purpur aus Tyros gefärbte Togen tragen, und Kleiderordnungen regelten seine Verwendung streng.",
+      "fact_easy": "In Rom war lila Farbe sehr teuer. Nur der Kaiser und wichtige Männer durften Kleider in dieser Farbe tragen. Die Farbe zeigte, dass sie wichtig und reich waren.",
       "category": "Fashion",
-      "source_title": "Mourning Jewellery | V&A",
-      "source_url": "https://www.vam.ac.uk/collections/mourning-jewellery"
+      "source_title": "Tyrian Purple - Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Tyrian_purple"
     },
     {
-      "fact_en": "The iconic 'red carpet' tradition at premieres and awards ceremonies has roots in ancient Greece and Rome, where rulers and victorious generals would walk on pathways of red fabric to signify their importance and triumph. The color red itself symbolized power, divinity, and prestige.",
-      "fact_de": "Die ikonische 'Roten Teppich'-Tradition bei Premieren und Preisverleihungen hat ihre Wurzeln im antiken Griechenland und Rom, wo Herrscher und siegreiche Feldherren auf Wegen aus rotem Stoff schritten, um ihre Bedeutung und ihren Triumph zu symbolisieren. Die Farbe Rot selbst symbolisierte Macht, Göttlichkeit und Prestige.",
-      "fact_easy": "Die Tradition des roten Teppichs ist sehr alt. Schon im alten Griechenland und Rom gingen wichtige Leute auf roten Stoffen. Rot zeigte damals Macht und besonderen Rang.",
+      "fact_en": "The tradition of 'trick-or-treating' on Halloween likely has roots in medieval European practices like 'souling' and 'guising.' During these customs, people would visit homes and offer prayers or perform songs and poems in exchange for food or money, similar to how children receive treats today.",
+      "fact_de": "Die Tradition des 'Süßes oder Saures' an Halloween hat wahrscheinlich Wurzeln in mittelalterlichen europäischen Praktiken wie 'Seelen' und 'Verkleiden'. Bei diesen Bräuchen besuchten Menschen Häuser und boten Gebete an oder führten Lieder und Gedichte auf im Austausch für Essen oder Geld, ähnlich wie Kinder heute Süßigkeiten erhalten.",
+      "fact_easy": "Halloween kommt aus alten Zeiten. Früher gingen Menschen von Haus zu Haus. Sie sangen oder beteten für Essen. Das ist wie heute 'Süßes oder Saures'.",
       "category": "Traditions",
-      "source_title": "The History of the Red Carpet | Britannica",
-      "source_url": "https://www.britannica.com/story/the-history-of-the-red-carpet"
+      "source_title": "Halloween - Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Halloween#Origins"
     }
   ],
   "frankfurt": {
@@ -404,80 +384,80 @@
       {
         "type": "Events",
         "emoji": "🎪",
-        "headline_en": "Autumn Storm Leaves Damage, Danger Continues",
-        "headline_de": "Herbststurm hinterlässt Schäden, Gefahr noch nicht vorbei",
-        "headline_easy": "Herbst-Sturm macht Schäden. Gefahr ist noch da.",
-        "summary_en": "A recent autumn storm brought strong winds and near-hurricane gusts to Frankfurt, causing power outages and toppled trees. Authorities warn that the danger has not yet passed.",
-        "summary_de": "Ein jüngster Herbststurm brachte starke Winde und fast orkanartige Böen nach Frankfurt und verursachte Stromausfälle und umgestürzte Bäume. Die Behörden warnen, dass die Gefahr noch nicht vorüber ist.",
-        "summary_easy": "Ein Sturm war in Frankfurt. Es gab viel Wind und Bäume fielen um. Strom war weg. Die Gefahr ist noch nicht vorbei.",
+        "headline_en": "Frankfurt Debates Future of Liberal Democracy Amidst AfD Discussions",
+        "headline_de": "Frankfurter Römerberggespräche: Zukunft der liberalen Demokratie und AfD-Debatte",
+        "headline_easy": "In Frankfurt gibt es Gespräche über die Demokratie. Es geht auch um die Partei AfD.",
+        "summary_en": "The Römerberggespräche in Frankfurt are discussing the future of liberal democracy and the challenges it faces. Key topics include the 'firewall' against far-right parties and the possibility of an AfD ban.",
+        "summary_de": "Die Römerberggespräche in Frankfurt setzen sich mit der Zukunft der liberalen Demokratie auseinander. Diskutiert werden die 'Brandmauer' gegen extreme Rechte und ein mögliches AfD-Verbotsverfahren.",
+        "summary_easy": "Die Gespräche in Frankfurt sind wichtig für die Demokratie. Es wird über die AfD gesprochen. Man fragt sich, wie man die Demokratie schützen kann.",
         "links": [
           {
-            "title": "Herbststurm hinterlässt Schäden: Gefahr noch nicht vorbei",
-            "url": "https://ga.de/news/panorama/herbststurm-hinterlaesst-schaeden-gefahr-noch-nicht-vorbei_aid-157179977"
+            "title": "Römerberggespräche: Den Ausnahmezustand akzeptieren",
+            "url": "https://www.faz.net/aktuell/feuilleton/debatten/afd-und-demokratie-roemerberggespraeche-in-frankfurt-accg-201616734.html"
           },
           {
-            "title": "Tech-Konzerne reißen sich um Gasturbinen, Brennstoffzellen und Erneuerbare",
-            "url": "https://www.n-tv.de/wirtschaft/Tech-Konzerne-reissen-sich-um-Gasturbinen-Brennstoffzellen-und-Erneuerbare-id31390078.html"
+            "title": "Anwalt klärt auf: Das gilt, wenn Ihr Pannenauto im Parkverbot steht",
+            "url": "https://www.chip.de/news/auto-fahrrad/anwalt-klaert-auf-das-gilt-wenn-ihr-pannenauto-im-parkverbot-steht_6e49ba38-b8af-41c8-b1c6-7ff61f508a5f.html"
           }
         ]
       },
       {
         "type": "Crime",
         "emoji": "🚔",
-        "headline_en": "Police Search for Missing 14-Year-Old Girl",
-        "headline_de": "Polizei fahndet nach vermisstem 14-jährigen Mädchen",
-        "headline_easy": "Polizei sucht Mädchen (14). Sie ist weg.",
-        "summary_en": "Police are searching for Leonie, a 14-year-old girl who has been missing for a week. She was last seen in Mülheim am Main and has not been heard from since.",
-        "summary_de": "Die Polizei fahndet nach Leonie, einem 14-jährigen Mädchen, das seit einer Woche vermisst wird. Sie wurde zuletzt in Mülheim am Main gesehen und seitdem gibt es kein Lebenszeichen von ihr.",
-        "summary_easy": "Das Mädchen Leonie ist 14 Jahre alt. Sie ist seit einer Woche weg. Man hat sie zuletzt in Mülheim gesehen. Es gibt kein Zeichen von ihr.",
+        "headline_en": "Teenagers Lead Police on 40-Minute High-Speed Chase, Woman Dies in Apartment Fire",
+        "headline_de": "Jugendliche liefern sich 40-minütige Verfolgungsjagd mit Polizei; Frau stirbt bei Wohnungsbrand",
+        "headline_easy": "Zwei junge Leute fahren sehr schnell weg von der Polizei. Eine Frau stirbt in einem Feuer.",
+        "summary_en": "Two teenagers were involved in a dangerous 40-minute police pursuit after a traffic violation, involving numerous police units and a helicopter. Separately, a woman tragically lost her life in an apartment fire, with two others sustaining minor injuries.",
+        "summary_de": "Zwei Teenager lieferten sich eine 40-minütige, gefährliche Verfolgungsjagd mit der Polizei nach einem Verkehrsverstoß. Bei einem Wohnungsbrand in Frankfurt kam eine Frau ums Leben, zwei Personen wurden leicht verletzt.",
+        "summary_easy": "Die Polizei jagt zwei junge Leute mit dem Auto. Das dauert 40 Minuten. In Frankfurt brennt eine Wohnung. Eine Frau ist tot. Zwei Leute sind leicht verletzt.",
         "links": [
           {
-            "title": "Polizei fahndet nach Leonie - Mädchen (14) seit einer Woche verschwunden",
-            "url": "https://www.bild.de/regional/hessen/vermisst-maedchen-14-aus-hessen-seit-einer-woche-verschwunden-6addb31b247c1fa201305f4e"
+            "title": "Fahrer ohne Führerschein: Zwei Teenager liefern sich 40-minütige Verfolgungsjagd mit Polizei",
+            "url": "https://www.n-tv.de/panorama/Zwei-Teenager-liefern-sich-40-minuetige-Verfolgungsjagd-mit-Polizei-id31457338.html"
           },
           {
-            "title": "1:0 gegen Frankfurt: BVB legt an der Tabellenspitze vor",
-            "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bvb-legt-gegen-eintracht-frankfurt-an-der-tabellenspitze-vor-accg-201304208.html"
+            "title": "Rhein-Main-Liveblog: Frau kommt bei Wohnungsbrand ums Leben",
+            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt-frau-kommt-bei-wohnungsbrand-ums-leben-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
           }
         ]
       },
       {
         "type": "Sales & Offers",
         "emoji": "🛍️",
-        "headline_en": "BVB Takes Lead in League with Late Goal Against Frankfurt",
-        "headline_de": "BVB übernimmt Tabellenführung mit spätem Tor gegen Frankfurt",
-        "headline_easy": "BVB ist jetzt Erster. Sie haben gegen Frankfurt gewonnen.",
-        "summary_en": "Borussia Dortmund secured a 1-0 victory against Eintracht Frankfurt with a late goal, allowing them to take the top spot in the league standings. The win marks a successful start to a significant week for Dortmund.",
-        "summary_de": "Borussia Dortmund sicherte sich einen 1:0-Sieg gegen Eintracht Frankfurt dank eines späten Tores und übernimmt damit die Tabellenführung. Der Sieg markiert einen erfolgreichen Auftakt für eine wegweisende Woche für den BVB.",
-        "summary_easy": "Dortmund hat gegen Frankfurt gewonnen. Das Spiel war 1:0. Ein Tor kam spät. Dortmund ist jetzt Erster in der Tabelle. Das ist gut für sie.",
+        "headline_en": "Local News Round-up: Police chase, fatal fire, and flight path changes affecting noise pollution",
+        "headline_de": "Lokale Nachrichtenübersicht: Verfolgungsjagd, tödlicher Brand und Lärm durch neue Flugroute",
+        "headline_easy": "Nachrichten aus Frankfurt: Polizei jagt Autos, ein Haus brennt, Flugzeuge fliegen anders.",
+        "summary_en": "This section highlights several local news items, including a high-speed chase involving teenagers, a fatal apartment fire with two injured, and a new flight departure route that reduces noise for some parts of Darmstadt but not others.",
+        "summary_de": "Aktuelle lokale Nachrichten berichten über eine riskante Verfolgungsjagd mit Teenagern, einen tödlichen Wohnungsbrand und eine neue Abflugroute am Flughafen Frankfurt, die für Lärmentlastung in Teilen Darmstadts sorgt.",
+        "summary_easy": "Die Polizei hat zwei junge Leute verfolgt. Ein Haus hat gebrannt. Eine Frau ist gestorben. Eine neue Flugroute macht weniger Lärm für manche Leute in Darmstadt.",
         "links": [
           {
-            "title": "Polizei fahndet nach Leonie - Mädchen (14) seit einer Woche verschwunden",
-            "url": "https://www.bild.de/regional/hessen/vermisst-maedchen-14-aus-hessen-seit-einer-woche-verschwunden-6addb31b247c1fa201305f4e"
+            "title": "Fahrer ohne Führerschein: Zwei Teenager liefern sich 40-minütige Verfolgungsjagd mit Polizei",
+            "url": "https://www.n-tv.de/panorama/Zwei-Teenager-liefern-sich-40-minuetige-Verfolgungsjagd-mit-Polizei-id31457338.html"
           },
           {
-            "title": "1:0 gegen Frankfurt: BVB legt an der Tabellenspitze vor",
-            "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bvb-legt-gegen-eintracht-frankfurt-an-der-tabellenspitze-vor-accg-201304208.html"
+            "title": "Rhein-Main-Liveblog: Frau kommt bei Wohnungsbrand ums Leben",
+            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt-frau-kommt-bei-wohnungsbrand-ums-leben-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
           }
         ]
       },
       {
         "type": "Local News",
         "emoji": "📍",
-        "headline_en": "Police Seek Missing Teenager, Football Team Secures League Lead",
-        "headline_de": "Polizei sucht vermisste Jugendliche, Fußballteam sichert Tabellenführung",
-        "headline_easy": "Polizei sucht Mädchen. Fußballteam ist Erster.",
-        "summary_en": "Authorities are searching for 14-year-old Leonie, who has been missing for a week since being last seen in Mülheim am Main. In sports news, Borussia Dortmund defeated Eintracht Frankfurt 1-0 with a late goal, propelling them to the top of the league table.",
-        "summary_de": "Die Behörden suchen nach der 14-jährigen Leonie, die seit einer Woche vermisst wird, seit sie zuletzt in Mülheim am Main gesehen wurde. In den Sportnachrichten besiegte Borussia Dortmund Eintracht Frankfurt mit 1:0 durch ein spätes Tor und übernimmt damit die Tabellenführung.",
-        "summary_easy": "Das Mädchen Leonie ist vermisst. Sie ist 14 Jahre alt. Die Polizei sucht sie. Der Fußballverein BVB hat gegen Frankfurt gewonnen. Das Spiel war 1:0. Der BVB ist jetzt Erster.",
+        "headline_en": "Frankfurt Area News: High-Speed Chase, Fatal Fire, and Flight Path Adjustments",
+        "headline_de": "Frankfurter Region: Verfolgungsjagd, tödlicher Brand und Lärm durch Flugroutenänderung",
+        "headline_easy": "Nachrichten aus Frankfurt: Polizei jagt Teenager, ein Haus brennt, Fluglärm ändert sich.",
+        "summary_en": "Recent local news from the Frankfurt area includes a dramatic 40-minute police chase involving two teenagers and a tragic apartment fire that resulted in a fatality. Additionally, a new flight departure route is providing noise relief for some Darmstadt neighborhoods.",
+        "summary_de": "Die Region Frankfurt berichtet über eine dramatische Verfolgungsjagd mit zwei Teenagern, einen tödlichen Wohnungsbrand mit zwei Leichtverletzten sowie über eine neue Abflugroute, die den Fluglärm in Teilen Darmstadts reduziert.",
+        "summary_easy": "Die Polizei jagt zwei junge Leute. Das dauert lange. In Frankfurt brennt eine Wohnung. Eine Frau stirbt. Flugzeuge fliegen anders. Das macht in Darmstadt weniger Lärm.",
         "links": [
           {
-            "title": "Polizei fahndet nach Leonie - Mädchen (14) seit einer Woche verschwunden",
-            "url": "https://www.bild.de/regional/hessen/vermisst-maedchen-14-aus-hessen-seit-einer-woche-verschwunden-6addb31b247c1fa201305f4e"
+            "title": "Fahrer ohne Führerschein: Zwei Teenager liefern sich 40-minütige Verfolgungsjagd mit Polizei",
+            "url": "https://www.n-tv.de/panorama/Zwei-Teenager-liefern-sich-40-minuetige-Verfolgungsjagd-mit-Polizei-id31457338.html"
           },
           {
-            "title": "1:0 gegen Frankfurt: BVB legt an der Tabellenspitze vor",
-            "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bvb-legt-gegen-eintracht-frankfurt-an-der-tabellenspitze-vor-accg-201304208.html"
+            "title": "Rhein-Main-Liveblog: Frau kommt bei Wohnungsbrand ums Leben",
+            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt-frau-kommt-bei-wohnungsbrand-ums-leben-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
           }
         ]
       }
