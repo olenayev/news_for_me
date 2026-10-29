@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, October 28 2026",
+  "date": "Thursday, October 29 2026",
   "sections": [
     {
       "category": "Germany",
@@ -8,64 +8,72 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Harry Kane Celebrated in Munich as Bayern Star",
-          "headline_de": "Harry Kane feiert in München als Bayern-Star",
-          "headline_easy": "Harry Kane ist ein Star in München.",
-          "summary_en": "Ballon d'Or winner Harry Kane is returning to Munich for a special welcome. The Bayern Munich star has made history with his club.",
-          "summary_de": "Ballon d'Or-Gewinner Harry Kane kehrt für einen besonderen Empfang nach München zurück. Der Bayern-Star hat mit seinem Verein Geschichte geschrieben.",
-          "summary_easy": "Harry Kane bekommt einen besonderen Empfang in München. Er ist ein wichtiger Spieler für Bayern.",
+          "headline_en": "Gen Z Protests Planned for October 31st in Germany",
+          "headline_de": "Proteste der Gen Z in Deutschland am 31. Oktober erwartet",
+          "headline_easy": "Junge Leute protestieren am 31. Oktober in Deutschland.",
+          "summary_en": "Gen Z is planning protests in Germany for October 31st. The article discusses what attendees can expect at these events.",
+          "summary_de": "Die Gen Z plant Proteste in Deutschland für den 31. Oktober. Der Artikel bespricht, was die Teilnehmer bei diesen Veranstaltungen erwarten können.",
+          "summary_easy": "Junge Leute wollen am 31. Oktober protestieren. Man kann dort viele junge Leute sehen.",
           "links": [
             {
-              "title": "Ballon D'Or winner Harry Kane heads back to Munich for 'special welcome' as Bayern history-maker",
-              "url": "https://sports.yahoo.com/articles/ballon-dor-winner-harry-kane-100503092.html"
+              "title": "What to expect at Gen Z protests in Germany on October 31st",
+              "url": "https://www.thelocal.de/20261028/what-to-expect-at-gen-z-protests-in-germany-on-october-31st"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Airbus BelugaXL Fleet Expansion and STEM Facility",
-          "headline_de": "Airbus BelugaXL Flottenerweiterung und MINT-Einrichtung",
-          "headline_easy": "Neue Flugzeuge von Airbus sind größer.",
-          "summary_en": "The Airbus BelugaST 5 will become a STEM facility in January 2026. Its replacement, the BelugaXL fleet, will carry 30% more cargo than the retired jets.",
-          "summary_de": "Der Airbus BelugaST 5 wird im Januar 2026 eine MINT-Einrichtung. Die Ersatzflotte BelugaXL wird 30% mehr Fracht transportieren als die ausgemusterten Flugzeuge.",
-          "summary_easy": "Das Flugzeug BelugaST 5 wird ein Lernzentrum für Technik. Neue Flugzeuge sind größer und können mehr tragen.",
+          "headline_en": "GE Vernova Acquires Trench Group for $9 Billion, Lessons from Cybersecurity Black Week",
+          "headline_de": "GE Vernova kauft Trench Group für 9 Milliarden Dollar, Lektionen aus der Cybersecurity Black Week",
+          "headline_easy": "GE Vernova kauft eine Firma für 9 Milliarden Dollar. Man lernt von der Cyber-Woche.",
+          "summary_en": "GE Vernova is set to acquire Trench Group for $9 billion. Additionally, the article offers insights and lessons learned from Cybersecurity Black Week.",
+          "summary_de": "GE Vernova wird die Trench Group für 9 Milliarden Dollar übernehmen. Außerdem bietet der Artikel Einblicke und Lehren aus der Cybersecurity Black Week.",
+          "summary_easy": "Eine große Firma kauft eine andere Firma. Das kostet viel Geld. Man lernt auch, wie man sich vor Computerviren schützt.",
           "links": [
             {
-              "title": "BelugaST 5 landed at Airbus Broughton in January 2026 to become a STEM facility, and the six BelugaXL aircraft replacing that fleet carry 30% more than the jets they retire.",
-              "url": "https://maketecheasier.com/airbus-belugaxl-a350-wings/"
+              "title": "Lessons from Cybersecurity Black Week",
+              "url": "https://www.welivesecurity.com/en/business-security/lessons-cybersecurity-black-week/"
+            },
+            {
+              "title": "GE Vernova to acquire Trench Group for $9 billion",
+              "url": "https://biztoc.com/x/4423afde9d68936c"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "German Parliamentary State Secretary to Visit Nepal Amidst Global Events",
+          "headline_de": "Deutscher parlamentarischer Staatssekretär besucht Nepal inmitten globaler Ereignisse",
+          "headline_easy": "Ein deutscher Politiker besucht Nepal.",
+          "summary_en": "German Parliamentary State Secretary Dr Kofler is scheduled to visit Nepal. This visit occurs alongside broader global events impacting various sectors.",
+          "summary_de": "Der deutsche parlamentarische Staatssekretär Dr. Kofler wird Nepal besuchen. Dieser Besuch findet inmitten breiterer globaler Ereignisse statt, die verschiedene Sektoren betreffen.",
+          "summary_easy": "Ein wichtiger Politiker aus Deutschland reist nach Nepal. Dort gibt es viele Nachrichten aus der Welt.",
+          "links": [
+            {
+              "title": "German Parliamentary State Secretary Dr Kofler to visit Nepal",
+              "url": "https://english.khabarhub.com/2026/28/573459/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Study Identifies THBS1 as Potential Driver of Fibro-inflammation in Metabolic Disease",
-          "headline_de": "Studie identifiziert THBS1 als potenziellen Treiber von Fibro-Entzündungen bei Stoffwechselkrankheiten",
-          "headline_easy": "Ein Stoff kann Krankheiten verschlimmern.",
-          "summary_en": "A study of human adipose tissue has revealed THBS1 as a potential driver of fibro-inflammation. This discovery is significant for understanding metabolic diseases.",
-          "summary_de": "Eine Studie über menschliches Fettgewebe hat THBS1 als potenziellen Treiber von Fibro-Entzündungen identifiziert. Diese Entdeckung ist wichtig für das Verständnis von Stoffwechselkrankheiten.",
-          "summary_easy": "Eine Studie hat etwas Neues über Krankheiten gefunden. THBS1 kann bei einer Krankheit helfen.",
+          "headline_en": "Israeli Stock Market Drops; UPM Reports Strong Cash Flow Despite Challenges",
+          "headline_de": "Israelischer Aktienmarkt fällt; UPM meldet starken Cashflow trotz Herausforderungen",
+          "headline_easy": "Die Börse in Israel ist gefallen. Eine Firma hat aber viel Geld gemacht.",
+          "summary_en": "Israel's stock market experienced a decline as exit polls showed no clear election winner. Meanwhile, UPM's interim report for Q3 2026 highlights strong cash flow despite a challenging quarter.",
+          "summary_de": "Der israelische Aktienmarkt verzeichnete einen Rückgang, da die Nachwahlbefragungen keinen klaren Wahlgewinner zeigten. Unterdessen hebt der Quartalsbericht von UPM für Q3 2026 trotz eines schwierigen Quartals einen starken Cashflow hervor.",
+          "summary_easy": "Die Börse in Israel ist gesunken, weil es keine klare Wahl gab. Eine andere Firma hat aber gut Geld verdient.",
           "links": [
             {
-              "title": "Single-cell landscape of human adipose tissue reveals THBS1 as a potential driver of fibro-inflammation in metabolic disease",
-              "url": "https://www.nature.com/articles/s41467-026-77107-w"
-            }
-          ]
-        },
-        {
-          "type": "Technology",
-          "emoji": "💻",
-          "headline_en": "Bayern Coach Kompany Improving, No Comeback Date Set",
-          "headline_de": "Bayern-Trainer Kompany verbessert sich, kein Comeback-Datum festgelegt",
-          "headline_easy": "Ein Trainer wird besser, aber kommt bald nicht zurück.",
-          "summary_en": "Bayern assistant coach Danks confirmed that Vincent Kompany is improving. However, there is no specific date for his return to coaching yet.",
-          "summary_de": "Der Co-Trainer von Bayern, Danks, bestätigte, dass sich Vincent Kompany verbessert. Ein genaues Datum für seine Rückkehr als Trainer gibt es jedoch noch nicht.",
-          "summary_easy": "Der Trainer Vincent Kompany wird wieder gesund. Aber wir wissen nicht, wann er wieder arbeiten kann.",
-          "links": [
+              "title": "Israel’s stock market drops as exit polls show no clear election winner",
+              "url": "https://www.aljazeera.com/economy/2026/10/28/israels-stock-market-drops-as-exit-polls-show-no-clear-election-winner"
+            },
             {
-              "title": "Bayern's Kompany is improving but no comeback date yet, says assistant coach Danks",
-              "url": "https://www.channelnewsasia.com/sport/bayerns-kompany-improving-no-comeback-date-yet-says-assistant-coach-danks-6496176"
+              "title": "UPM Interim Report Q3 2026: Strong cash flow in a challenging quarter amid destocking and cost inflation",
+              "url": "https://www.prnewswire.co.uk/news-releases/upm-interim-report-q3-2026-strong-cash-flow-in-a-challenging-quarter-amid-destocking-and-cost-inflation-302921893.html"
             }
           ]
         }
@@ -78,64 +86,68 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Xiaomi 18 Pro (Max) Leaks with Launch Discount in EU",
-          "headline_de": "Xiaomi 18 Pro (Max) leakt mit Einführungsrabatt in der EU",
-          "headline_easy": "Neues Handy von Xiaomi bald mit Rabatt.",
-          "summary_en": "The Xiaomi 18 Pro (Max) has been spotted at an EU retailer, indicating an upcoming launch. The leak also reveals a launch discount, pricing, and new color options.",
-          "summary_de": "Das Xiaomi 18 Pro (Max) wurde bei einem Händler in der EU gesichtet, was auf eine baldige Markteinführung hindeutet. Der Leak zeigt auch einen Einführungsrabatt, Preise und neue Farboptionen.",
-          "summary_easy": "Ein neues Handy von Xiaomi ist aufgetaucht. Es wird bald verkauft und kostet weniger.",
+          "headline_en": "Gen Z Protests in Germany and Market Shifts Affecting Logitech",
+          "headline_de": "Gen Z Proteste in Deutschland und Marktentwicklungen, die Logitech betreffen",
+          "headline_easy": "Junge Leute protestieren in Deutschland. Eine Firma verliert Geld.",
+          "summary_en": "The section covers planned Gen Z protests in Germany and the market performance of Logitech, which has seen a significant drop in market cap.",
+          "summary_de": "Der Abschnitt behandelt geplante Gen Z-Proteste in Deutschland und die Marktentwicklung von Logitech, die einen deutlichen Rückgang ihrer Marktkapitalisierung verzeichnete.",
+          "summary_easy": "Junge Leute protestieren in Deutschland. Eine Firma namens Logitech hat weniger Geld wert.",
           "links": [
             {
-              "title": "Xiaomi 18 Pro (Max) leaks at EU retailer with launch discount, prices and new color",
-              "url": "https://www.notebookcheck.net/Xiaomi-18-Pro-Max-leaks-at-EU-retailer-with-launch-discount-prices-and-new-color.1435102.0.html"
+              "title": "Logitech sheds $2 billion in market cap as margin concerns overshadow profit beat",
+              "url": "https://www.channelnewsasia.com/business/logitech-sheds-2-billion-in-market-cap-margin-concerns-overshadow-profit-beat-6499586"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "T1 Energy Announces Q3 2026 Earnings Release and Conference Call",
-          "headline_de": "T1 Energy kündigt Veröffentlichung der Q3 2026-Ergebnisse und Telefonkonferenz an",
-          "headline_easy": "Firma T1 Energy gibt bald ihre neuen Zahlen bekannt.",
-          "summary_en": "T1 Energy has scheduled its third quarter 2026 earnings release and a subsequent conference call for investors.",
-          "summary_de": "T1 Energy hat die Veröffentlichung ihrer Ergebnisse für das dritte Quartal 2026 und eine anschließende Telefonkonferenz für Investoren angesetzt.",
-          "summary_easy": "Die Firma T1 Energy wird ihre Finanzergebnisse zeigen. Investoren können dann Fragen stellen.",
+          "headline_en": "Global Business News: El Niño Warnings, Cronos Gas Project Contracts, and Gen Z Protests",
+          "headline_de": "Globale Wirtschaftsnachrichten: El Niño-Warnungen, Cronos-Gaskraftwerk-Verträge und Gen Z-Proteste",
+          "headline_easy": "Es gibt Warnungen vor Hitze. Man baut ein Gas-Projekt. Junge Leute protestieren.",
+          "summary_en": "This section highlights potential life risks from Super El Niño, Eni's contract awards for the Cronos Gas Project, and upcoming Gen Z protests in Germany.",
+          "summary_de": "Dieser Abschnitt beleuchtet potenzielle Lebensrisiken durch Super El Niño, Enis Vertragsvergaben für das Cronos-Gaskraftwerk und bevorstehende Gen Z-Proteste in Deutschland.",
+          "summary_easy": "Es gibt eine Warnung wegen starker Hitze. Eine Firma bekommt Aufträge für ein Gas-Projekt. Junge Leute protestieren bald in Deutschland.",
           "links": [
             {
-              "title": "T1 Energy Announces Third Quarter 2026 Earnings Release and Conference Call Schedule",
-              "url": "https://financialpost.com/globe-newswire/t1-energy-announces-third-quarter-2026-earnings-release-and-conference-call-schedule"
+              "title": "Super El Niño's biggest victims: Ominous map reveals where deadly heat could kill the most people - as scientists warn 370,000 lives are at risk",
+              "url": "https://www.dailymail.com/sciencetech/article-16245085/Super-El-Nino-biggest-victims-Ominous-map.html"
+            },
+            {
+              "title": "Eni Awards Key Contracts for Cronos Gas Project",
+              "url": "https://www.rigzone.com/news/eni_awards_key_contracts_for_cronos_gas_project-28-oct-2026-184949-article/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Tesco Considering Migration from VMWare to Proxmox",
-          "headline_de": "Tesco erwägt Migration von VMWare zu Proxmox",
-          "headline_easy": "Tesco will vielleicht die Technik wechseln.",
-          "summary_en": "In a significant move, Tesco is reportedly looking to migrate its systems away from VMWare to Proxmox, a decision that represents a setback for VMWare.",
-          "summary_de": "In einem bedeutenden Schritt erwägt Tesco offenbar, seine Systeme von VMWare zu Proxmox zu migrieren, eine Entscheidung, die einen Rückschlag für VMWare darstellt.",
-          "summary_easy": "Tesco denkt darüber nach, ein neues Computersystem zu benutzen. Das ist schlecht für die alte Firma VMWare.",
+          "headline_en": "Market News: Logitech's Market Cap Drop, NYSE to Nasdaq Switch, and AI Cloud Services",
+          "headline_de": "Marktnachrichten: Logitechs Marktkapitalisierung sinkt, Wechsel von NYSE zu Nasdaq und KI-Cloud-Dienste",
+          "headline_easy": "Eine Firma verliert Geld. Firmen wechseln die Börse. KI wird für Dienste genutzt.",
+          "summary_en": "Logitech experienced a significant drop in market cap. Major companies are switching from NYSE to Nasdaq, and AI agents are becoming primary users of cloud services.",
+          "summary_de": "Logitech verzeichnete einen deutlichen Rückgang der Marktkapitalisierung. Große Unternehmen wechseln von der NYSE zur Nasdaq, und KI-Agenten werden zu Hauptnutzern von Cloud-Diensten.",
+          "summary_easy": "Logitech ist weniger wert. Firmen wechseln zur Börse Nasdaq. Kleine Computer-Helfer nutzen Cloud-Dienste.",
           "links": [
             {
-              "title": "In a Setback to VMWare, Tesco is Looking to Migrate to Proxmox",
-              "url": "https://itsfoss.com/news/tesco-vmware-exit/"
+              "title": "Why GM and Hilton are ditching the NYSE for Nasdaq",
+              "url": "https://fortune.com/2026/10/28/gm-hilton-anthropic-ipo-nasdaq-nyse/"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "JLR Launches Local Defender Production, Implements Price Cuts",
-          "headline_de": "JLR startet lokale Defender-Produktion und senkt Preise",
-          "headline_easy": "JLR macht Autos in Indien und sie werden billiger.",
-          "summary_en": "JLR has commenced local production of the Defender in India and has subsequently reduced its prices by up to Rs 34 lakh, making the vehicle more accessible.",
-          "summary_de": "JLR hat die lokale Produktion des Defender in Indien aufgenommen und anschließend die Preise um bis zu 34 Lakhs Rupien gesenkt, wodurch das Fahrzeug zugänglicher wird.",
-          "summary_easy": "JLR baut jetzt den Defender in Indien. Die Autos sind jetzt günstiger.",
+          "headline_en": "AI in Public Sector and Climate Change Warnings",
+          "headline_de": "KI im öffentlichen Sektor und Warnungen vor Klimawandel",
+          "headline_easy": "KI hilft dem Staat. Es gibt Warnungen wegen Hitze.",
+          "summary_en": "The Dutch civil service plans to cut 25,000 public sector jobs using AI. The section also includes warnings about the potential impact of Super El Niño on lives.",
+          "summary_de": "Der niederländische öffentliche Dienst plant, 25.000 Stellen im öffentlichen Sektor mithilfe von KI abzubauen. Der Abschnitt enthält auch Warnungen vor den potenziellen Auswirkungen von Super El Niño auf Menschenleben.",
+          "summary_easy": "Computer-Helfer sollen Stellen abbauen. Die Hitze kann gefährlich sein.",
           "links": [
             {
-              "title": "JLR starts local Defender production, cuts prices by up to Rs 34 lakh",
-              "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/jlr-starts-local-defender-production-cuts-prices-by-up-to-rs-34-lakh/articleshow/135230255.cms"
+              "title": "Dutch civil service to cut 25,000 public sector jobs using AI",
+              "url": "https://www.dailymail.com/news/article-16245117/Dutch-civil-service-cut-public-sector-jobs-AI.html"
             }
           ]
         }
@@ -148,48 +160,48 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Samsung Solve for Tomorrow Initiative Nurtures Young Minds with Support from Leaders",
-          "headline_de": "Samsung Solve for Tomorrow Initiative fördert junge Köpfe mit Unterstützung von Führungskräften",
-          "headline_easy": "Samsung hilft jungen Leuten mit Ideen.",
-          "summary_en": "Samsung's Solve for Tomorrow initiative is receiving backing from government, innovation leaders, and the UN. The program aims to foster creativity and problem-solving skills in young individuals.",
-          "summary_de": "Die Initiative \"Solve for Tomorrow\" von Samsung erhält Unterstützung von Regierungsvertretern, Innovationsführern und den Vereinten Nationen. Das Programm zielt darauf ab, Kreativität und Problemlösungsfähigkeiten bei jungen Menschen zu fördern.",
-          "summary_easy": "Samsung hat ein Projekt für junge Leute. Viele wichtige Leute helfen dabei, Ideen zu finden.",
+          "headline_en": "US Midterms, Bolsonaro's Visa, and Cybersecurity Lessons",
+          "headline_de": "US-Zwischenwahlen, Bolsonaros Visum und Cybersecurity-Lektionen",
+          "headline_easy": "Es gibt Wahlen in den USA. Ein Mann aus Brasilien bekommt ein Visum. Man lernt über Computersicherheit.",
+          "summary_en": "The US is preparing for midterm elections with key figures campaigning. The US will grant Bolsonaro a visa as he flees Brazil, and lessons are being drawn from Cybersecurity Black Week.",
+          "summary_de": "Die USA bereiten sich auf die Zwischenwahlen vor, bei denen wichtige Persönlichkeiten Wahlkampf betreiben. Die USA werden Bolsonaro ein Visum erteilen, da er aus Brasilien flieht, und aus der Cybersecurity Black Week werden Lektionen gezogen.",
+          "summary_easy": "Es gibt bald wichtige Wahlen in Amerika. Ein Mann aus Brasilien darf in die USA kommen. Man lernt, wie man Computer schützt.",
           "links": [
             {
-              "title": "Government, Innovation Leaders and the UN Back Samsung Solve for Tomorrow’s Push to Nurture Young Minds",
-              "url": "https://news.samsung.com/in/government-un-and-innovation-leaders-back-samsung-solve-for-tomorrows-push-to-nurture-young-minds"
+              "title": "US to grant Bolsonaro visa as he flees Brazil",
+              "url": "https://www.hurriyetdailynews.com/us-to-grant-bolsonaro-visa-as-he-flees-brazil-228704"
             }
           ]
         },
         {
-          "type": "Business",
-          "emoji": "💼",
-          "headline_en": "US Recovery Efforts Lagging Behind Rising Billions Lost to Global Cyberscams",
-          "headline_de": "US-Erholungsbemühungen hinken hinter Milliardenverlusten durch globale Cyberscans hinterher",
-          "headline_easy": "Viele Leute in den USA verlieren Geld wegen Internet-Betrug.",
-          "summary_en": "Global cyberscams are costing Americans billions of dollars, and US recovery efforts are reportedly lagging behind.",
-          "summary_de": "Globale Cyberscans kosten Amerikaner Milliarden von Dollar, und die Erholungsbemühungen der USA hinken Berichten zufolge hinterher.",
-          "summary_easy": "Internet-Betrug kostet die USA viel Geld. Amerika tut nicht genug, um das Problem zu lösen.",
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Global Dynamics: African Students in Moscow, US Visa for Bolsonaro, and Cybersecurity",
+          "headline_de": "Globale Dynamiken: Afrikanische Studenten in Moskau, US-Visum für Bolsonaro und Cybersecurity",
+          "headline_easy": "Leute aus Afrika sind in Russland. Ein Mann bekommt ein Visum für die USA. Man lernt über Computersicherheit.",
+          "summary_en": "The situation for African students in Moscow is highlighted, alongside the US decision to grant a visa to Bolsonaro fleeing Brazil, and key takeaways from Cybersecurity Black Week.",
+          "summary_de": "Die Situation afrikanischer Studenten in Moskau wird hervorgehärtet, zusammen mit der Entscheidung der USA, einem nach Brasilien fliehenden Bolsonaro ein Visum zu erteilen, und wichtigen Erkenntnissen aus der Cybersecurity Black Week.",
+          "summary_easy": "Es gibt Nachrichten aus Russland. Ein Mann darf in die USA. Man lernt, Computer zu schützen.",
           "links": [
             {
-              "title": "Global cyberscams cost Americans billions as US recovery efforts lag",
-              "url": "https://www.business-standard.com/world-news/global-cyberscams-cost-americans-billions-as-us-recovery-efforts-lag-126102700787_1.html"
+              "title": "‘Russia is already part of who I am’: African students in Moscow",
+              "url": "https://www.aljazeera.com/news/2026/10/28/russia-is-already-part-of-who-i-am-african-students-in-moscow"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Midterm Elections Viewed as Referendum on Elon Musk",
-          "headline_de": "Midterm-Wahlen als Referendum über Elon Musk betrachtet",
-          "headline_easy": "Elon Musk ist wichtig für die Wahl.",
-          "summary_en": "The upcoming midterm elections are being framed as a significant referendum on the influence and actions of prominent figure Elon Musk.",
-          "summary_de": "Die bevorstehenden Midterm-Wahlen werden als ein bedeutendes Referendum über den Einfluss und die Handlungen der prominenten Persönlichkeit Elon Musk dargestellt.",
-          "summary_easy": "Die Wahlen in Amerika sind eine Art Test für Elon Musk. Die Leute werden entscheiden, ob sie ihn mögen.",
+          "headline_en": "Global Markets: Israel's Market Drop, Australian Company Updates, and Tech Stock Outlook",
+          "headline_de": "Globale Märkte: Israels Marktrückgang, Updates australischer Unternehmen und Ausblick auf Tech-Aktien",
+          "headline_easy": "Die Börse in Israel fällt. Firmen in Australien geben Updates. Tech-Aktien könnten steigen.",
+          "summary_en": "This section covers the drop in Israel's stock market, updates from Australian companies NextDC and Austal regarding their financials and strategic talks, and a positive outlook for tech stocks.",
+          "summary_de": "Dieser Abschnitt behandelt den Rückgang des israelischen Aktienmarktes, Updates von australischen Unternehmen wie NextDC und Austal bezüglich ihrer Finanzen und strategischen Gespräche sowie einen positiven Ausblick für Technologieaktien.",
+          "summary_easy": "Die Börse in Israel ist gefallen. Firmen in Australien erzählen Neues. Tech-Aktien könnten bald mehr wert sein.",
           "links": [
             {
-              "title": "The Midterms Are a Referendum on Elon Musk",
-              "url": "https://newrepublic.com/article/217184/midterms-referendum-elon-musk-trump"
+              "title": "NextDC Shares Jump 9% as Data Center Operator Eases Debt Fears With $8.7 Billion Liquidity and Covenant Update",
+              "url": "https://www.ibtimes.com.au/nextdc-shares-rebound-debt-liquidity-update-1877502"
             }
           ]
         }
@@ -202,48 +214,48 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Japan Loan to Bangladesh for Economic Resilience and Energy Security",
-          "headline_de": "Japan gewährt Bangladesch ein Darlehen für wirtschaftliche Widerstandsfähigkeit und Energiesicherheit",
-          "headline_easy": "Japan hilft Bangladesch mit Geld für Energie.",
-          "summary_en": "Japan is providing a $317 million loan to Bangladesh to bolster its economic resilience and energy security.",
-          "summary_de": "Japan stellt Bangladesch ein Darlehen in Höhe von 317 Millionen US-Dollar zur Stärkung seiner wirtschaftlichen Widerstandsfähigkeit und Energiesicherheit zur Verfügung.",
-          "summary_easy": "Japan gibt Bangladesch Geld. Das Geld soll helfen, dass das Land wirtschaftlich stark bleibt und genug Energie hat.",
+          "headline_en": "Global Cultural and Travel News: African Students in Moscow, Cruise Ship Voyage, and Sports Education",
+          "headline_de": "Globale Kultur- und Reise-Nachrichten: Afrikanische Studenten in Moskau, Kreuzfahrtschiff-Reise und Sportbildung",
+          "headline_easy": "Leute sind in Russland. Ein Schiff stoppt die Reise. Es gibt ein neues Sport-Programm.",
+          "summary_en": "This section features the experiences of African students in Moscow, a US cruise ship suspending its global voyage due to fuel costs, and the launch of a Clean Sport Toolkit by ministries.",
+          "summary_de": "Dieser Abschnitt beleuchtet die Erfahrungen afrikanischer Studenten in Moskau, die Aussetzung einer globalen Reise eines US-Kreuzfahrtschiffs aufgrund von Kraftstoffkosten und die Einführung eines Clean Sport Toolkits durch Ministerien.",
+          "summary_easy": "Es gibt Berichte über Leute in Russland. Ein Schiff fährt nicht mehr wegen Benzin. Es gibt ein neues Programm für Sport.",
           "links": [
             {
-              "title": "Japan to provide $317m loan to Bangladesh for economic resilience, energy security",
-              "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/japan-provide-317m-loan-bangladesh-economic-resilience-energy-security-4308696"
+              "title": "US cruise ship suspends global voyage due to fuel costs",
+              "url": "https://www.hurriyetdailynews.com/us-cruise-ship-suspends-global-voyage-due-to-fuel-costs-228705"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "India Seeks Larger Share of Diesel Exports Amid Refining Capacity Boom",
-          "headline_de": "Indien strebt größeren Anteil an Diesel-Exporten inmitten des Booms bei Raffineriekapazitäten an",
-          "headline_easy": "Indien will mehr Diesel verkaufen.",
-          "summary_en": "India is aiming to secure a larger portion of diesel exports as its refining capacity continues to expand, indicating a growing role in the global energy market.",
-          "summary_de": "Indien strebt einen größeren Anteil an Diesel-Exporten an, da seine Raffineriekapazitäten weiter ausgebaut werden, was auf eine wachsende Rolle auf dem globalen Energiemarkt hindeutet.",
-          "summary_easy": "Indien hat mehr Fabriken, die Benzin machen. Deshalb will Indien mehr Benzin in andere Länder verkaufen.",
+          "headline_en": "Asian Business Insights: Tech Stock Boost from SK Hynix, Russian Experiences, and Fuel Costs",
+          "headline_de": "Asiatische Geschäftseinblicke: Tech-Aktien-Aufschwung durch SK Hynix, russische Erfahrungen und Kraftstoffkosten",
+          "headline_easy": "Tech-Aktien steigen wegen einer Firma. Leute sind in Russland. Benzin ist teuer.",
+          "summary_en": "Record earnings from chipmaker SK Hynix are boosting tech stocks, while the experiences of African students in Moscow and the impact of fuel costs on travel are also featured.",
+          "summary_de": "Rekordgewinne des Chipherstellers SK Hynix treiben Technologieaktien an, während auch die Erfahrungen afrikanischer Studenten in Moskau und die Auswirkungen von Kraftstoffkosten auf Reisen thematisiert werden.",
+          "summary_easy": "Eine Firma namens SK Hynix hat gute Gewinne. Tech-Aktien werden mehr wert. Berichte kommen aus Russland. Benzin ist teuer für Schiffe.",
           "links": [
             {
-              "title": "India seeks bigger share of diesel exports on refining capacity boom",
-              "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-seeks-bigger-share-of-diesel-exports-on-refining-capacity-boom/articleshow/135230814.cms"
+              "title": "With the Fed on the back burner, tech stocks are poised to move higher following record earnings from chipmaker SK Hynix",
+              "url": "https://fortune.com/2026/10/28/fed-tech-stocks-sk-hynix-earnings/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Anthropic IPO Lifts Asian Stocks, Except in China",
-          "headline_de": "Börsengang von Anthropic hebt asiatische Aktien an, außer in China",
-          "headline_easy": "Die Börse in Asien geht hoch, aber nicht in China.",
-          "summary_en": "Anthropic's IPO filing has led to a rise in stock values across Asia, although Chinese markets have not experienced the same uplift.",
-          "summary_de": "Die Börsennotierung von Anthropic hat zu einem Anstieg der Aktienwerte in ganz Asien geführt, obwohl die chinesischen Märkte nicht die gleiche Belebung erfahren haben.",
-          "summary_easy": "Eine Firma namens Anthropic geht an die Börse. Das macht die Aktien in Asien teurer. Nur in China nicht.",
+          "headline_en": "Asian Market Trends: Tech Stocks Rise, Global Markets Mixed, and Diwali Stock Outlook",
+          "headline_de": "Asiatische Markttrends: Tech-Aktien steigen, globale Märkte gemischt und Diwali-Aktienausblick",
+          "headline_easy": "Aktien von Tech-Firmen steigen. Märkte weltweit sind gemischt. Es gibt Hoffnung für den Aktienmarkt zu Diwali.",
+          "summary_en": "Tech stocks are expected to rise following strong earnings from SK Hynix, while global shares are mixed. The outlook for Indian stock markets around Diwali is also discussed.",
+          "summary_de": "Technologieaktien werden nach starken Gewinnen von SK Hynix voraussichtlich steigen, während die globalen Aktien gemischt sind. Auch der Ausblick für indische Aktienmärkte rund um Diwali wird diskutiert.",
+          "summary_easy": "Aktien von Technik-Firmen steigen. Aktien auf der Welt sind gemischt. Man hofft auf mehr Geld an der Börse zu Diwali.",
           "links": [
             {
-              "title": "Anthropic’s IPO filing lifts stocks across Asia—except for China",
-              "url": "https://fortune.com/2026/10/27/anthropic-ipo-filing-lifts-asia-stocks-except-for-china/"
+              "title": "Global shares are mixed after US stock rally, and oil prices gain more than 1%",
+              "url": "https://www.thehindubusinessline.com/markets/global-shares-are-mixed-after-us-stock-rally-and-oil-prices-gain-more-than-1/article71635343.ece"
             }
           ]
         }
@@ -256,48 +268,76 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Man United Chiefs Face Dilemma Over Manager Michael Carrick's Future",
-          "headline_de": "Man-United-Führungskräfte stehen vor einem Dilemma bezüglich der Zukunft von Trainer Michael Carrick",
-          "headline_easy": "Die Chefs von Man United müssen über den Trainer entscheiden.",
-          "summary_en": "Manchester United's leadership is in crisis talks regarding the future of manager Michael Carrick, with experts weighing in on potential decisions.",
-          "summary_de": "Die Führung von Manchester United befindet sich in Krisengesprächen über die Zukunft von Trainer Michael Carrick, und Experten äußern sich zu möglichen Entscheidungen.",
-          "summary_easy": "Die Chefs von Manchester United reden über ihren Trainer Michael Carrick. Experten geben Ratschläge.",
+          "headline_en": "Global Culture and Health: New Weight Loss Drug, Media Attention, and Sports Education",
+          "headline_de": "Globale Kultur und Gesundheit: Neues Medikament zur Gewichtsreduktion, Medienaufmerksamkeit und Sportbildung",
+          "headline_easy": "Es gibt ein neues Medikament gegen Übergewicht. Ein Sportler bekommt viel Aufmerksamkeit. Es gibt ein Programm für Sport.",
+          "summary_en": "Eli Lilly's new drug retatrutide shows promising results for weight loss, surpassing Ozempic. Media outlets are reaching out to figure like Pat McAfee, and a Clean Sport Toolkit is being launched.",
+          "summary_de": "Eli Lillys neues Medikament Retatrutid zeigt vielversprechende Ergebnisse zur Gewichtsreduktion und übertrifft Ozempic. Medien erreichen Persönlichkeiten wie Pat McAfee, und ein Clean Sport Toolkit wird eingeführt.",
+          "summary_easy": "Ein neues Medikament hilft beim Abnehmen. Ein Sportler bekommt viel Post. Es gibt ein neues Projekt für Sport.",
           "links": [
             {
-              "title": "What should Man United's beleaguered chiefs do next? With manager Michael Carrick still waiting for a verdict on his future after day of crisis talks, our experts have their say...",
-              "url": "https://www.dailymail.com/sport/football/article-16241795/What-Man-Uniteds-beleaguered-chiefs-manager-Michael-Carrick-limbo-day-crisis-talks-experts-say.html"
+              "title": "Bye bye Ozempic: Eli Lilly says its new drug retatrutide more than doubles weight loss",
+              "url": "https://www.businessinsider.com/retatrutide-ozempic-weight-loss-comparison-side-effects-eli-lilly-results-2026-10#article"
+            },
+            {
+              "title": "‘Never in a million’ – Pat McAfee reveals 60 Minutes reached out to do a profile amid backlash",
+              "url": "https://www.hitc.com/never-in-a-million-pat-mcafee-reveals-60-minutes-reached-out-to-do-a-profile-amid-backlash/"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Global Business Trends: Film Advance Bookings, Health Innovations, and Media Interest",
+          "headline_de": "Globale Geschäftstrends: Film-Vorverkäufe, Gesundheitsinnovationen und Medieninteresse",
+          "headline_easy": "Ein Film spielt viel Geld ein. Ein neues Medikament hilft beim Abnehmen. Ein Sportler bekommt Aufmerksamkeit.",
+          "summary_en": "The film 'Ramayana' is seeing strong advance bookings overseas. Eli Lilly's new weight loss drug retatrutide is making waves, and media interest is high for figures like Pat McAfee.",
+          "summary_de": "Der Film 'Ramayana' verzeichnet starke Vorverkäufe im Ausland. Eli Lillys neues Medikament zur Gewichtsreduktion, Retatrutid, sorgt für Aufsehen, und das Medieninteresse an Persönlichkeiten wie Pat McAfee ist hoch.",
+          "summary_easy": "Ein Film ist sehr beliebt im Ausland. Ein neues Medikament hilft beim Abnehmen. Eine bekannte Person bekommt viel Presse.",
+          "links": [
+            {
+              "title": "Ramayana advance booking: Overseas numbers cross $2.58 million amid positive reviews at LA premiere; total collection… | Mint",
+              "url": "https://www.livemint.com/entertainment/ramayana-advance-booking-overseas-numbers-cross-2-58-million-amid-positive-reviews-at-la-premiere-total-collection-11793179845945.html"
             }
           ]
         },
         {
           "type": "War",
           "emoji": "⚔️",
-          "headline_en": "Gen Z's Preference for Subtitles Explained: Crucial Lines and Accents",
-          "headline_de": "Erklärung für die Vorliebe von Gen Z für Untertitel: Wichtige Zeilen und Akzente",
-          "headline_easy": "Junge Leute mögen Filme mit Untertiteln.",
-          "summary_en": "Younger generations, particularly Gen Z, are increasingly watching TV with subtitles due to a desire to catch crucial dialogue and better understand diverse accents.",
-          "summary_de": "Jüngere Generationen, insbesondere Gen Z, schauen zunehmend fern mit Untertiteln, da sie wichtige Dialoge verstehen und Akzente besser erfassen möchten.",
-          "summary_easy": "Viele junge Leute schauen gerne Filme mit Untertiteln. So verpassen sie nichts und verstehen alles besser.",
+          "headline_en": "Global Affairs: Corporate Growth, Historical Quests, and Political Commentary",
+          "headline_de": "Globale Angelegenheiten: Unternehmenswachstum, historische Suche und politische Kommentare",
+          "headline_easy": "Eine Firma wächst. Man sucht nach Noahs Arche. Ein politischer Text ist online.",
+          "summary_en": "Ping An reports steady growth, while 'The Real Search for Noah’s Ark' delves into historical investigations. The section also includes commentary on political themes.",
+          "summary_de": "Ping An meldet stetiges Wachstum, während 'The Real Search for Noah’s Ark' sich mit historischen Untersuchungen beschäftigt. Der Abschnitt enthält auch Kommentare zu politischen Themen.",
+          "summary_easy": "Eine Firma macht mehr Gewinn. Man sucht nach einem alten Schiff. Ein Text spricht über Politik.",
           "links": [
             {
-              "title": "Why do Gen Z watch TV with subtitles on? Youngsters reveal why they can't do without them - from fear of missing a crucial line to deciphering strong accents",
-              "url": "https://www.dailymail.com/sciencetech/article-16241845/Why-Gen-Z-watch-TV-subtitles.html"
+              "title": "Ping An Reports Steady Growth in 9M 2026",
+              "url": "https://www.prnewswire.co.uk/news-releases/ping-an-reports-steady-growth-in-9m-2026-302922029.html"
+            },
+            {
+              "title": "The Real Search for Noah’s Ark",
+              "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/real-search-for-noahs-ark/"
             }
           ]
         },
         {
-          "type": "Stocks & Markets",
-          "emoji": "📈",
-          "headline_en": "Investors Downplay Stock Market Bubble Risks Despite High Valuations",
-          "headline_de": "Investoren spielen Risiken einer Börsenblase trotz hoher Bewertungen herunter",
-          "headline_easy": "Leute kaufen Aktien, obwohl sie teuer sind.",
-          "summary_en": "Investors are reportedly ignoring current sky-high stock valuations and are downplaying the potential for a stock market bubble.",
-          "summary_de": "Berichten zufolge ignorieren Investoren die derzeitigen extrem hohen Aktienbewertungen und spielen das Potenzial für eine Börsenblase herunter.",
-          "summary_easy": "Aktien sind gerade sehr teuer. Aber viele Leute kaufen sie trotzdem. Sie denken nicht, dass es eine Gefahr gibt.",
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "Global Tech and Sports News: Cricket Rankings, Mbappé's Apology, and Telecoms Ambitions",
+          "headline_de": "Globale Tech- und Sportnachrichten: Cricket-Rankings, Mbappés Entschuldigung und Telekommunikationsambitionen",
+          "headline_easy": "Ein Sportler ist Nummer eins. Ein Fußballer entschuldigt sich. Eine Firma will mehr machen.",
+          "summary_en": "Marco Jansen has risen to the top of ICC Test all-rounder rankings. Kylian Mbappé's apology for controversial comments is being taken seriously. Akash Ambani outlines plans for Jio's technological expansion.",
+          "summary_de": "Marco Jansen ist in der Weltrangliste der ICC-Test-Allrounder aufgestiegen. Kylian Mbappés Entschuldigung für kontroverse Äußerungen wird ernst genommen. Akash Ambani stellt Pläne für die technologische Expansion von Jio vor.",
+          "summary_easy": "Ein Spieler ist der Beste im Cricket. Ein Fußballer sagt Entschuldigung. Eine Firma will neue Technik anbieten.",
           "links": [
             {
-              "title": "Investors are ignoring sky-high stock valuations and downplaying the potential for a stock market bubble",
-              "url": "https://financialpost.com/investing/investors-are-ignoring-sky-high-stock-valuations-and-downplaying-the-potential-for-a-stock-market-bubble"
+              "title": "SA star Marco Jansen rises to No.1 in ICC Test all-rounder rankings: Ends Ravindra Jadeja's 4-year reign",
+              "url": "https://www.cricketnews.com/en/cricket/news/marco-jansen-ravindra-jadeja-icc-test-rankings-all-rounder/d85810bf47254e5e61cb9157"
+            },
+            {
+              "title": "China takes Mbappé's apology 'seriously' after backlash over his ‘Chinese dictator’ comments",
+              "url": "https://www.ksat.com/business/2026/10/28/china-takes-mbappes-apology-seriously-after-backlash-over-his-chinese-dictator-comments/"
             }
           ]
         }
@@ -308,27 +348,27 @@
     "wahlperiode": 21,
     "sitzung": 103,
     "url": "https://dserver.bundestag.de/btp/21/21103.pdf",
-    "summary_en": "On Friday, October 16, 2026, the German Bundestag convened for its 103rd session of the 21st legislative period. The session began with an expansion of the agenda, followed by discussions on several key topics. A major item was the second and third reading of a government draft law to introduce an early retirement pension ('Frühstartrente'), with discussions involving Frauke Heiligenstadt (SPD) and Michael Thews (SPD), among others. The Finance Committee presented recommendations on two motions: one from the AfD, 'For a Secure Pension for Our Children – Junior Savings Depot,' introduced by Ulrike Schielke-Ziesing (AfD), and another from Die Linke, 'Strengthen Financial Education – Independent, Multi-Perspective, and for All Young People,' introduced by Lisa Schubert and Nicole Gohlke. Debates on these motions involved Fritz Güntzler (CDU/CSU), Stefan Schmidt (BÜNDNIS 90/DIE GRÜNEN), and Iris Nieland (AfD). The Bundestag also addressed the healthcare sector, specifically motions concerning the long-term care insurance ('Pflegeversicherung'). Evelyn Schötz (Die Linke) introduced a motion to align long-term care insurance with solidarity and needs, while the Health Committee reported on a motion against benefit cuts in care. Simone Fischer (BÜNDNIS 90/DIE GRÜNEN) presented a proposal for a sustainable care reform. Contributions were made by Sören Pellmann (Die Linke), Axel Müller (CDU/CSU), and Tobias Ebenberger (AfD). Further agenda items included a government draft law to reduce bureaucracy in the transport sector, debated by Steffen Bilger (Federal Minister BMV), Wolfgang Wiehle (AfD), and Anja Troff-Schaffarzyk (SPD). The Bundestag also began its first reading of a bill to modernize arbitration law, with contributions from Dr. Stefanie Hubig (Federal Minister BMJV) and Fabian Jacobi (AfD). Finally, a motion from the AfD, 'Ensure Technological Openness in the Transport Sector – End the Privilege of Electromobility,' was debated by Adam Balten (AfD) and Dr. Klaus Wiener (CDU/CSU). A supplementary item involved an objection to an order measure.",
-    "summary_de": "Am Freitag, den 16. Oktober 2026, trat der Deutsche Bundestag zu seiner 103. Sitzung der 21. Wahlperiode zusammen. Die Sitzung begann mit einer Erweiterung der Tagesordnung, gefolgt von Beratungen zu mehreren zentralen Themen. Ein wichtiger Punkt war die zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Einführung einer Frühstartrente, wobei unter anderem Frauke Heiligenstadt (SPD) und Michael Thews (SPD) sprachen. Der Finanzausschuss legte Beschlussempfehlungen zu zwei Anträgen vor: einem Antrag der AfD 'Für eine sichere Rente unserer Kinder – Junior-Spardepot', eingebracht von Ulrike Schielke-Ziesing (AfD), und einem Antrag der Fraktion Die Linke 'Finanzielle Bildung stärken – Unabhängig, mehrperspektivisch und für alle jungen Menschen', eingebracht von Lisa Schubert und Nicole Gohlke. Debatten zu diesen Anträgen führten Fritz Güntzler (CDU/CSU), Stefan Schmidt (BÜNDNIS 90/DIE GRÜNEN) und Iris Nieland (AfD). Des Weiteren befasste sich der Bundestag mit dem Gesundheitssektor, insbesondere mit Anträgen zur Pflegeversicherung. Evelyn Schötz (Die Linke) stellte einen Antrag zur soliden und bedarfsgerechten Ausrichtung der Pflegeversicherung vor, während der Ausschuss für Gesundheit über einen Antrag gegen Leistungskürzungen in der Pflege berichtete. Simone Fischer (BÜNDNIS 90/DIE GRÜNEN) präsentierte einen Antrag für eine nachhaltige Pflegereform. Wortmeldungen kamen von Sören Pellmann (Die Linke), Axel Müller (CDU/CSU) und Tobias Ebenberger (AfD). Weitere Tagesordnungspunkte umfassten den von der Bundesregierung eingebrachten Entwurf eines Gesetzes zum Bürokratierückbau im Verkehrsbereich, der von Bundesminister Steffen Bilger (BMV), Wolfgang Wiehle (AfD) und Anja Troff-Schaffarzyk (SPD) debattiert wurde. Der Bundestag begann zudem die erste Beratung eines Gesetzes zur Modernisierung des Schiedsverfahrensrechts, zu dem Dr. Stefanie Hubig (Bundesministerin BMJV) und Fabian Jacobi (AfD) sprachen. Abschließend wurde ein Antrag der AfD 'Technologieoffenheit im Verkehrssektor gewährleisten – Privilegierung der Elektromobilität beenden' von Adam Balten (AfD) und Dr. Klaus Wiener (CDU/CSU) beraten. Ein Zusatzpunkt betraf einen Einspruch gegen eine Ordnungsmaßnahme.",
-    "summary_easy": "Der Bundestag traf sich am 16. Oktober 2026. Es gab viele Themen auf der Tagesordnung. Zuerst wurde über eine neue Rente für früheres Renteneintrittsalter gesprochen. Die Regierung hat einen Gesetzes-Entwurf dazu vorgelegt. Dann gab es Anträge zur Kinderrente und zur Bildung über Geld. Die AfD und Die Linke haben diese Anträge gestellt. Die CDU/CSU und Bündnis 90/Die Grünen haben auch dazu gesprochen. Ein weiteres wichtiges Thema war die Pflegeversicherung. Es gab Anträge, um die Pflege besser zu machen. Die Linke und die Grünen haben dafür gesprochen. Die CDU/CSU und AfD haben auch ihre Meinung gesagt. Es gab auch ein Gesetz gegen zu viel Bürokratie im Verkehr. Die Grünen und die SPD haben darüber diskutiert. Die AfD war dagegen. Es wurde auch ein neues Gesetz für Schiedsverfahren besprochen. Die Regierung und die AfD haben dazu gesprochen.",
+    "summary_en": "On Friday, October 16, 2026, the German Bundestag convened for its 103rd session of the 21st legislative period. The session began with an extension of the agenda. Subsequently, the Bundestag engaged in the second and third readings of the government's draft law to introduce an early retirement pension (Frühstartrente), detailed in documents 21/7864, 21/8296, and 21/8606. The Budget Committee's report (Drucksache 21/8619) and the Finance Committee's recommendation were also discussed. The session then turned to a motion by the AfD, \"For a secure pension for our children – Junior Savings Depot,\" and a motion by Die Linke, \"Strengthening financial education – Independent, multi-perspective, and for all young people.\" Key speakers on these topics included Frauke Heiligenstadt (SPD), Michael Thews (SPD), Ulrike Schielke-Ziesing (AfD), Fritz Güntzler (CDU/CSU), Stefan Schmidt (BÜNDNIS 90/DIE GRÜNEN), and Isabelle Vandre (Die Linke). The agenda also included a motion by Die Linke to \"Align nursing care insurance solidaristically and according to need\" (Drucksache 21/5828) and related recommendations from the Health Committee. Additionally, a motion by BÜNDNIS 90/DIE GRÜNEN for a \"Sustainable nursing care reform\" was debated. The Bundestag also considered a government draft law for the \"Bureaucracy reduction in the transport sector\" (Drucksache 21/8404), with contributions from Steffen Bilger (Minister BMV) and various MPs. Finally, a motion by the AfD advocating for \"Technology openness in the transport sector – ending the privileging of electromobility\" was presented. The session concluded with the first reading of a draft law to modernize arbitration law.",
+    "summary_de": "Am Freitag, den 16. Oktober 2026, trat der Deutsche Bundestag zu seiner 103. Sitzung der 21. Wahlperiode zusammen. Die Sitzung begann mit einer Erweiterung der Tagesordnung. Anschließend folgten die zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Einführung einer Frühstartrente (Drucksachen 21/7864, 21/8296, 21/8606), einschließlich des Berichts des Haushaltsausschusses und der Beschlussempfehlung des Finanzausschusses. Diskutiert wurden zudem ein Antrag der AfD „Für eine sichere Rente unserer Kinder – Junior-Spardepot“ und ein Antrag der Fraktion Die Linke „Finanzielle Bildung stärken – Unabhängig, mehrperspektivisch und für alle jungen Menschen“. Redner zu diesen Punkten waren unter anderem Frauke Heiligenstadt (SPD), Michael Thews (SPD), Ulrike Schielke-Ziesing (AfD), Fritz Güntzler (CDU/CSU), Stefan Schmidt (BÜNDNIS 90/DIE GRÜNEN) und Isabelle Vandre (Die Linke). Weiterhin stand ein Antrag der Linken zur „Pflegeversicherung solidarisch und bedarfsgerecht ausrichten“ (Drucksache 21/5828) sowie dazu passende Beschlussempfehlungen des Ausschusses für Gesundheit auf der Agenda. Debattiert wurde auch ein Antrag von BÜNDNIS 90/DIE GRÜNEN zu einer „Nachhaltigen Pflegereform“. Ein weiterer Tagesordnungspunkt war der Gesetzentwurf der Bundesregierung zum „Bürokratierückbau im Verkehrsbereich“ (Drucksache 21/8404), zu dem Bundesminister Steffen Bilger (BMV) und diverse Abgeordnete sprachen. Abschließend wurde ein Antrag der AfD zur „Technologieoffenheit im Verkehrssektor – Privilegierung der Elektromobilität beenden“ behandelt. Die Sitzung beinhaltete zudem die erste Beratung eines Gesetzentwurfs zur Modernisierung des Schiedsverfahrensrechts.",
+    "summary_easy": "Am 16. Oktober 2026 war der Bundestag in Sitzung 103. Zuerst wurde die Liste der Themen erweitert. Dann beriet der Bundestag über ein neues Gesetz für eine Rente, die man früher bekommen kann. Das nennt man „Frühstartrente“. Viele Politiker haben darüber gesprochen. Sie kamen von den Parteien SPD, AfD und CDU/CSU. Die Linke und die Grünen hatten auch Anträge. Es ging um Kinder-Sparen und um besseres Geld-Lernen. Dann sprach man über die Pflege-Versicherung. Die Linke und die Grünen wollen sie besser machen. Auch ein Gesetz gegen zu viel Bürokratie im Verkehr wurde besprochen. Die AfD möchte, dass es mehr Möglichkeiten im Verkehr gibt, nicht nur Elektro-Autos. Zum Schluss wurde ein Gesetz über Schiedsverfahren neu beraten.",
     "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact_en": "During the French Revolution, radical republicans wore the 'carmagnole,' a short jacket. This became a symbol of revolutionary fervor, and wearing it was a political statement against the opulent aristocratic fashions of the Ancien Régime.  The simple, practical design contrasted sharply with the elaborate silks and powdered wigs of the monarchy.",
-      "fact_de": "Während der Französischen Revolution trugen radikale Republikaner die 'Carmagnole', eine kurze Jacke. Dies wurde zu einem Symbol revolutionärer Begeisterung, und das Tragen war eine politische Aussage gegen die opulente aristokratische Mode des Ancien Régime. Das schlichte, praktische Design stand im starken Kontrast zu den aufwändigen Seidenstoffen und gepuderten Perücken der Monarchie.",
-      "fact_easy": "Während der Französischen Revolution trugen Männer eine kurze Jacke namens 'Carmagnole'. Diese Jacke war ein Zeichen für die Revolution. Sie war einfach und praktisch, im Gegensatz zu den teuren Kleidern der Könige.",
-      "category": "Fashion",
-      "source_title": "The Carmagnole: A Revolutionary Symbol",
-      "source_url": "https://www.loc.gov/exhibits/french-revolution-power-and-people/the-revolutionary-spirit.html"
+      "fact_en": "During the Dutch Golden Age, tulips became so valuable that they fueled 'tulip mania,' an economic bubble where single tulip bulbs were traded for houses and fortunes. This speculative frenzy collapsed spectacularly in 1637, leaving many investors ruined and serving as one of history's earliest recorded speculative bubbles.",
+      "fact_de": "Während des niederländischen Goldenen Zeitalters wurden Tulpen so wertvoll, dass sie die 'Tulpenmanie' auslösten, eine spekulative Blase, bei der einzelne Tulpenzwiebeln gegen Häuser und Vermögen gehandelt wurden. Dieser spekulative Rausch brach 1637 spektakulär zusammen, was viele Investoren ruinierte und als eine der frühesten aufgezeichneten spekulativen Blasen der Geschichte gilt.",
+      "fact_easy": "In den Niederlanden waren Tulpen sehr teuer. Die Leute kauften sie für viel Geld, manchmal sogar für Häuser. Aber dann wurde die Tulpen-Blase kleiner und viele Leute verloren ihr Geld.",
+      "category": "Traditions",
+      "source_title": "Tulip Mania - Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Tulip_mania"
     },
     {
-      "fact_en": "In ancient Rome, gladiator armor was highly regulated and often displayed the emperor's insignia. This wasn't just for show; it served as a form of state propaganda, reinforcing the power and glory of the ruler. The meticulously crafted gear visually communicated imperial authority to the masses watching the games.",
-      "fact_de": "Im alten Rom war die Rüstung von Gladiatoren streng reguliert und trug oft die Insignien des Kaisers. Dies diente nicht nur der Show, sondern war eine Form staatlicher Propaganda, die die Macht und den Ruhm des Herrschers verstärkte. Die sorgfältig gefertigte Ausrüstung vermittelte den Zuschauern der Spiele visuell die kaiserliche Autorität.",
-      "fact_easy": "Im alten Rom war die Ausrüstung von Gladiatoren wichtig. Manchmal stand das Zeichen des Kaisers darauf. Das zeigte die Macht des Kaisers dem Volk. Es war eine Art Werbung für den Kaiser.",
-      "category": "Politics",
-      "source_title": "Gladiators: The Faces of Roman Power",
-      "source_url": "https://www.history.com/topics/ancient-rome/gladiators"
+      "fact_en": "The iconic 'Little Black Dress' (LBD) was popularized by Coco Chanel in the 1920s, but it wasn't initially seen as a symbol of elegance and versatility. Early criticisms called it 'Chanel's revenge' on the wealthy for their perceived vulgarity, highlighting its stark simplicity and affordability compared to the opulent fashions of the era.",
+      "fact_de": "Das ikonische 'Little Black Dress' (LBD) wurde in den 1920er Jahren von Coco Chanel populär gemacht, aber es wurde nicht sofort als Symbol für Eleganz und Vielseitigkeit angesehen. Frühe Kritiker nannten es 'Chanels Rache' an den Reichen für ihre wahrgenommene Geschmacklosigkeit, was seine schlichte Einfachheit und Erschwinglichkeit im Vergleich zu den opulenten Moden der damaligen Zeit hervorhob.",
+      "fact_easy": "Coco Chanel machte das kleine Schwarze Kleid beliebt. Früher sagten die Leute, es sei 'Chanels Rache' an reichen Leuten. Das Kleid war sehr einfach und nicht so teuer.",
+      "category": "Fashion",
+      "source_title": "The Little Black Dress: A History | Vogue",
+      "source_url": "https://www.vogue.com/article/history-of-the-little-black-dress"
     }
   ],
   "frankfurt": {
@@ -336,80 +376,72 @@
       {
         "type": "Events",
         "emoji": "🎪",
-        "headline_en": "Eintracht Frankfurt's Offensive Struggles Continue, Tegut Markets Announce Final Discounts",
-        "headline_de": "Eintracht Frankfurts Offensivschwächen bleiben bestehen, Tegut-Märkte kündigen letzte Rabatte an",
-        "headline_easy": "Eintracht Frankfurt spielt noch nicht gut vorne. Tegut-Märkte machen große Rabatte.",
-        "summary_en": "Eintracht Frankfurt is showing defensive improvement, but coach Adi Hütter is still concerned about the team's offensive performance. Meanwhile, Tegut supermarkets in Frankfurt are holding a final clearance sale with up to 75% off before being taken over by Edeka.",
-        "summary_de": "Eintracht Frankfurt zeigt defensive Verbesserungen, doch Trainer Adi Hütter bemängelt weiterhin die offensive Leistung des Teams. Gleichzeitig veranstalten die Frankfurter Tegut-Supermärkte einen Endverkauf mit bis zu 75% Rabatt, bevor sie von Edeka übernommen werden.",
-        "summary_easy": "Eintracht Frankfurt wird besser in der Abwehr. Aber im Angriff fehlt noch etwas, sagt der Trainer. Tegut-Supermärkte verkaufen alles mit viel Rabatt. Sie werden bald von Edeka übernommen.",
+        "headline_en": "Telekom Expands Mobile Network in September",
+        "headline_de": "Telekom baut Handynetz aus",
+        "headline_easy": "Telekom verbessert das Handynetz",
+        "summary_en": "Deutsche Telekom has announced the launch of 72 new mobile communication sites in September, aiming to improve network coverage. This expansion includes upgrades to their 5G network.",
+        "summary_de": "Die Deutsche Telekom meldet die Inbetriebnahme von 72 neuen Mobilfunkstandorten im September. Ziel ist der Ausbau der Netzabdeckung, einschließlich Verbesserungen für das 5G-Netz.",
+        "summary_easy": "Die Telekom hat neue Sendemasten gebaut. Im September gibt es 72 neue Plätze für das Handynetz. Das ist gut für besseres Internet.",
         "links": [
           {
-            "title": "Das läuft noch schief - Hütters bittere Eintracht-Wahrheit",
-            "url": "https://www.bild.de/sport/fussball/eintracht-frankfurt-huetter-erklaert-was-aus-seiner-sicht-schief-laeuft-6ae07322314feb14366fee8a"
-          },
-          {
-            "title": "75 Prozent Rabatt: Endspurt beim Ausverkauf in den Tegut-Märkten",
-            "url": "https://www.faz.net/aktuell/rhein-main/wirtschaft/tegut-75-prozent-rabatt-in-der-letzten-abverkaufswoche-accg-201621456.html"
+            "title": "Telekom schließt Lücken im Handynetz: Hier wurde ausgebaut",
+            "url": "https://www.teltarif.de/telekom-netzausbau-mobilfunk-5g-mobilfunkstandorte/news/107129.html"
           }
         ]
       },
       {
         "type": "Crime",
         "emoji": "🚔",
-        "headline_en": "Mainz 05 Faces Dangerous Home Crisis, DFB Regionalliga Reform Debate Continues",
-        "headline_de": "Mainz 05 steckt in gefährlicher Heimkrise, Debatte um DFB Regionalliga Reform geht weiter",
-        "headline_easy": "Mainz 05 hat Probleme zu Hause. Es gibt Streit über die Fußball-Liga.",
-        "summary_en": "Mainz 05 is experiencing a concerning home crisis, having only secured one point at home from four games while winning all away matches, a situation described as 'extremely dangerous' by a BILD reporter. Separately, there's ongoing debate about the DFB's Regionalliga reform, with some regional associations demanding more details on the 'compass model'.",
-        "summary_de": "Mainz 05 durchlebt eine besorgniserregende Heimkrise, holte zu Hause nur einen Punkt aus vier Spielen, gewann aber alle Auswärtsspiele – eine Situation, die ein BILD-Reporter als 'brandgefährlich' bezeichnet. Separat geht die Debatte um die Regionalliga-Reform des DFB weiter, wobei einige Regionalverbände mehr Details zum 'Kompassmodell' fordern.",
-        "summary_easy": "Mainz 05 gewinnt nicht zu Hause. Das ist sehr schlecht. Es gibt auch eine Diskussion über eine neue Fußball-Liga. Manche wollen mehr Informationen.",
+        "headline_en": "Eintracht Frankfurt Advances in DFB-Pokal Amidst Controversies",
+        "headline_de": "Eintracht Frankfurt siegt im DFB-Pokal nach umstrittenem Spiel",
+        "headline_easy": "Eintracht Frankfurt gewinnt im Pokal",
+        "summary_en": "Eintracht Frankfurt has secured a spot in the DFB-Pokal round of 16 after a 3-1 victory against Hamburger SV. The match was marked by debates over a disallowed penalty for Hamburg and a potential red card.",
+        "summary_de": "Eintracht Frankfurt hat sich mit einem 3:1-Sieg gegen den Hamburger SV für das Achtelfinale des DFB-Pokals qualifiziert. Das Spiel wurde von Diskussionen über einen nicht gegebenen Elfmeter für Hamburg und einen möglichen Platzverweis überschattet.",
+        "summary_easy": "Eintracht Frankfurt hat ein Pokalspiel gegen Hamburg gewonnen. Das Ergebnis war 3:1. Es gab Streit über einen Elfmeter und eine Rote Karte.",
         "links": [
           {
-            "title": "BILD-Reporter erklärt - Darum ist die Heimkrise für Mainz 05 brandgefährlich",
-            "url": "https://www.bild.de/sport/fussball/bild-reporter-darum-ist-die-heimkrise-fuer-mainz-05-brandgefaehrlich-6adf5882c303dbdd29105d84"
+            "title": "Bei Pokalsieg in Hamburg - Diese zwei Hütter-Kniffe gehen voll auf!",
+            "url": "https://www.bild.de/sport/fussball/eintracht-frankfurt-diese-zwei-huetter-kniffe-gehen-voll-auf-6ae0d63a41a652332eb6df6a"
           },
           {
-            "title": "Zoff um Regionalliga-Reform - Wie der DFB beim Kompassmodell nachbessern soll",
-            "url": "https://www.bild.de/sport/fussball/zoff-um-regionalliga-reform-wie-der-dfb-beim-kompassmodell-nachbessern-soll-6adfa59e16ed143d64a1d64e"
+            "title": "Debatten um Elfmeter und Gelb-Rote Karte – glückliche Frankfurter setzen sich in Hamburg durch",
+            "url": "https://www.welt.de/sport/fussball/article6ae0d315f74d161423be0805/dfb-pokal-debatten-um-elfmeter-und-gelb-rote-karte-glueckliche-frankfurter-setzen-sich-in-hamburg-durch.html"
           }
         ]
       },
       {
         "type": "Sales & Offers",
         "emoji": "🛍️",
-        "headline_en": "Tegut Supermarkets Offer Up to 75% Off Before Edeka Takeover, DFB Pokal Match to be Broadcast Free-to-Air",
-        "headline_de": "Tegut-Supermärkte bieten bis zu 75% Rabatt vor Edeka-Übernahme, DFB-Pokalspiel wird frei empfangbar übertragen",
-        "headline_easy": "Tegut-Läden verkaufen alles billiger. Ein Fußballspiel kann man gratis sehen.",
-        "summary_en": "Tegut supermarkets in Frankfurt are in their final week of sales, offering discounts of up to 75% on remaining items as they prepare for takeover by Edeka. Football fans can watch the DFB Pokal match between HSV and Eintracht Frankfurt live and free-to-air on RTL.",
-        "summary_de": "Die Tegut-Supermärkte in Frankfurt sind in ihrer letzten Verkaufswoche und bieten bis zu 75% Rabatt auf Restbestände vor der Übernahme durch Edeka. Fußballfans können das DFB-Pokalspiel zwischen dem HSV und Eintracht Frankfurt live und kostenlos auf RTL verfolgen.",
-        "summary_easy": "Tegut-Supermärkte in Frankfurt haben bald Schlussverkauf. Es gibt bis zu 75 Prozent Rabatt. Man kann ein Fußballspiel von Eintracht Frankfurt gratis im Fernsehen sehen.",
+        "headline_en": "Eintracht Frankfurt Secures Pokal Round of 16 Spot",
+        "headline_de": "Eintracht Frankfurt erreicht Pokal-Achtelfinale",
+        "headline_easy": "Eintracht Frankfurt im Pokal weiter",
+        "summary_en": "Eintracht Frankfurt defeated Hamburger SV 3-1 to advance to the DFB-Pokal round of 16. Coach Adi Hütter's tactical decisions are credited with the win, though the game saw controversy regarding referee decisions.",
+        "summary_de": "Eintracht Frankfurt hat sich mit einem 3:1-Sieg gegen den Hamburger SV für das Achtelfinale des DFB-Pokals qualifiziert. Trainer Adi Hütters taktische Entscheidungen trugen zum Erfolg bei, obwohl das Spiel von umstrittenen Schiedsrichterentscheidungen geprägt war.",
+        "summary_easy": "Eintracht Frankfurt hat ein Pokalspiel gegen Hamburg gewonnen. Sie sind jetzt im nächsten Spiel. Der Trainer Adi Hütter hat gut geplant.",
         "links": [
           {
-            "title": "75 Prozent Rabatt: Endspurt beim Ausverkauf in den Tegut-Märkten",
-            "url": "https://www.faz.net/aktuell/rhein-main/wirtschaft/tegut-75-prozent-rabatt-in-der-letzten-abverkaufswoche-accg-201621456.html"
+            "title": "Bei Pokalsieg in Hamburg - Diese zwei Hütter-Kniffe gehen voll auf!",
+            "url": "https://www.bild.de/sport/fussball/eintracht-frankfurt-diese-zwei-huetter-kniffe-gehen-voll-auf-6ae0d63a41a652332eb6df6a"
           },
           {
-            "title": "HSV vs. Frankfurt live im Free-TV: Wo läuft das DFB-Pokal Spiel?",
-            "url": "https://www.teltarif.de/hamburg-frankfurt-rtl-dfb-pokal/news/107095.html"
+            "title": "Debatten um Elfmeter und Gelb-Rote Karte – glückliche Frankfurter setzen sich in Hamburg durch",
+            "url": "https://www.welt.de/sport/fussball/article6ae0d315f74d161423be0805/dfb-pokal-debatten-um-elfmeter-und-gelb-rote-karte-glueckliche-frankfurter-setzen-sich-in-hamburg-durch.html"
           }
         ]
       },
       {
         "type": "Local News",
         "emoji": "📍",
-        "headline_en": "Tegut Market Clearance Sale Nears End, Eintracht Frankfurt Faces DFB Pokal Match Broadcast",
-        "headline_de": "Tegut-Markt-Ausverkauf nähert sich dem Ende, Eintracht Frankfurt steht vor DFB-Pokal-Übertragung",
-        "headline_easy": "Tegut-Laden verkauft alles billig. Ein Fußballspiel mit Eintracht Frankfurt kann man sehen.",
-        "summary_en": "The Tegut supermarkets in Frankfurt are in their final week of sales, with discounts reaching up to 75% as they prepare to be taken over by Edeka. In sports news, the DFB Pokal match between HSV and Eintracht Frankfurt will be broadcast live and free-to-air on RTL.",
-        "summary_de": "Die Tegut-Supermärkte in Frankfurt befinden sich in ihrer letzten Verkaufswoche mit Rabatten von bis zu 75%, bevor sie von Edeka übernommen werden. Im Sportbereich wird das DFB-Pokalspiel zwischen dem HSV und Eintracht Frankfurt live und kostenlos auf RTL übertragen.",
-        "summary_easy": "Tegut-Läden in Frankfurt verkaufen fast alles. Sie geben bis zu 75 Prozent Rabatt. Ein Fußballspiel von Eintracht Frankfurt kann man gratis im Fernsehen sehen.",
+        "headline_en": "Frankfurt and Rhein-Main Region Updates: Political Shifts and University Concerns",
+        "headline_de": "Frankfurt und Rhein-Main: Aktuelle Themen aus Politik und Wissenschaft",
+        "headline_easy": "Nachrichten aus Frankfurt und der Region",
+        "summary_en": "Recent news from the Rhein-Main region includes declining support for the CDU in Hesse, and concerns at Goethe University regarding budget cuts. The F.A.Z. podcast covers these and other local issues, including a controversial award ceremony in Frankfurt.",
+        "summary_de": "Aktuelle Nachrichten aus der Rhein-Main-Region umfassen sinkende Umfragewerte für die CDU in Hessen und Sorgen an der Goethe-Universität wegen Kürzungen. Der F.A.Z.-Podcast beleuchtet diese und weitere regionale Themen, einschließlich einer umstrittenen Preisverleihung in Frankfurt.",
+        "summary_easy": "Die CDU verliert in Hessen Stimmen. An der Goethe-Universität gibt es Probleme wegen Geldkürzungen. Auch eine Preisvergabe in Frankfurt ist ein Thema.",
         "links": [
           {
-            "title": "75 Prozent Rabatt: Endspurt beim Ausverkauf in den Tegut-Märkten",
-            "url": "https://www.faz.net/aktuell/rhein-main/wirtschaft/tegut-75-prozent-rabatt-in-der-letzten-abverkaufswoche-accg-201621456.html"
-          },
-          {
-            "title": "HSV vs. Frankfurt live im Free-TV: Wo läuft das DFB-Pokal Spiel?",
-            "url": "https://www.teltarif.de/hamburg-frankfurt-rtl-dfb-pokal/news/107095.html"
+            "title": "Rhein-Main-Feierabendbriefing: Verluste für CDU in Umfrage, AfD legt zu",
+            "url": "https://www.faz.net/podcasts/rhein-main-feierabendbriefing/hessen-cdu-verliert-in-umfrage-an-zustimmung-201626344.html"
           }
         ]
       }
