@@ -1,5 +1,5 @@
 {
-  "date": "Friday, October 30 2026",
+  "date": "Saturday, October 31 2026",
   "sections": [
     {
       "category": "Germany",
@@ -8,72 +8,52 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Wentworth Reboot and Dietary Supplements Market Growth Highlighted",
-          "headline_de": "Wentworth-Neustart und Wachstum des Marktes für Nahrungsergänzungsmittel hervorgehoben",
-          "headline_easy": "Neues Wentworth und Wachstum bei Nahrungsergänzungsmitteln",
-          "summary_en": "The German culture scene is seeing news about the reboot of 'Wentworth,' which has landed strongly in the UK market. Additionally, a significant growth projection for the dietary supplements market by 2031 indicates a burgeoning industry.",
-          "summary_de": "Die deutsche Kulturszene erlebt Nachrichten über den Neustart von 'Wentworth', der stark auf dem britischen Markt angekommen ist. Darüber hinaus deutet eine bedeutende Wachstumsprognose für den Markt für Nahrungsergänzungsmittel bis 2031 auf eine aufstrebende Branche hin.",
-          "summary_easy": "Neue Wentworth-Serie ist beliebt. Der Markt für Nahrungsergänzungsmittel wächst stark. Es wird erwartet, dass er bis 2031 groß sein wird.",
+          "headline_en": "Scientists Explore Fundamental Physics and Cultural Partnership Debates",
+          "headline_de": "Wissenschaftler erforschen Grundlagenphysik und debattieren kulturelle Partnerschaften",
+          "headline_easy": "Forscher finden neue Teilchen. Ein Experte spricht über die USA und Europa.",
+          "summary_en": "Recent scientific endeavors at the LHC include observations of electroweak production of Z boson pairs and the first search for quirks. Concurrently, discussions highlight that an EU 'partnership' may not resolve issues with the U.S., suggesting a need for different strategies.",
+          "summary_de": "Jüngste wissenschaftliche Bemühungen am LHC umfassen Beobachtungen der elektroschwachen Produktion von Z-Bosonen-Paaren und die erste Suche nach Quirks. Gleichzeitig wird diskutiert, dass eine EU-„Partnerschaft“ Probleme mit den USA möglicherweise nicht löst und andere Strategien erfordert.",
+          "summary_easy": "Forscher haben neue Teilchen am CERN gefunden. Ein Experte denkt, dass Europa und die USA andere Wege finden müssen, um gut zusammenzuarbeiten.",
           "links": [
             {
-              "title": "Wentworth reboot lands at 5 in the UK as Fremantle takes Beyond Bars to market",
-              "url": "https://www.c21media.net/news/wentworth-reboot-lands-at-5-in-the-uk-as-fremantle-takes-beyond-bars-to-market/"
+              "title": "Observation of Electroweak Production of Pairs of $Z$ Bosons in Proton-Proton Collisions at 13 TeV",
+              "url": "https://link.aps.org/doi/10.1103/jydv-n2js"
             },
             {
-              "title": "Dietary Supplements Market worth $299.57 billion by 2031- Exclusive Report by MarketsandMarkets™",
-              "url": "https://www.prnewswire.co.uk/news-releases/dietary-supplements-market-worth-299-57-billion-by-2031-exclusive-report-by-marketsandmarkets-302923118.html"
+              "title": "Jack Mintz: EU ‘partnership’ is not the answer to our U.S. problems",
+              "url": "https://financialpost.com/opinion/jack-mintz-eu-partnership-is-not-the-answer-to-our-u-s-problems"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Volkswagen Reports Significant Losses Amidst Chinese Competition; Tech Futures Decline",
-          "headline_de": "Volkswagen meldet erhebliche Verluste inmitten chinesischer Konkurrenz; Tech-Futures gehen zurück",
-          "headline_easy": "Volkswagen hat Verluste. China ist Konkurrenz. Tech-Aktien fallen.",
-          "summary_en": "Volkswagen has announced substantial third-quarter losses, attributing the downturn partly to increased competition from China. This news comes as tech futures decline following earnings misses from companies like Samsung and Google, coupled with the Fed signaling future rate hikes.",
-          "summary_de": "Volkswagen hat erhebliche Quartalsverluste gemeldet und führt den Abschwung teilweise auf den verstärkten Wettbewerb aus China zurück. Diese Nachricht kommt, während die Tech-Futures nach Gewinnenttäuschungen von Unternehmen wie Samsung und Google sinken, verbunden mit der Ankündigung der Fed über zukünftige Zinserhöhungen.",
-          "summary_easy": "Volkswagen hat fast 6 Milliarden Euro verloren. Das liegt auch an China. Samsung und Google hatten schlechte Ergebnisse. Das macht Tech-Aktien schlechter.",
+          "headline_en": "European Automakers Boost Earnings Amidst Chinese Competition",
+          "headline_de": "Europäische Autohersteller steigern Gewinne trotz chinesischer Konkurrenz",
+          "headline_easy": "Autos aus Europa verkaufen sich gut. Aber Autos aus China sind billiger.",
+          "summary_en": "European automakers are experiencing an earnings boost, though their recovery is being weighed down by increased competition from Chinese manufacturers. This dynamic is playing out in the global market, influencing regional business strategies.",
+          "summary_de": "Europäische Autohersteller verzeichnen Gewinnsteigerungen, ihre Erholung wird jedoch durch verstärkten Wettbewerb aus China beeinträchtigt. Diese Dynamik spielt sich auf dem globalen Markt ab und beeinflusst regionale Geschäftsstrategien.",
+          "summary_easy": "Firmen, die Autos in Europa bauen, verdienen mehr Geld. Aber sie haben mehr Konkurrenz von Firmen aus China.",
           "links": [
             {
-              "title": "Germany news: Volkswagen posts 3rd quarter losses of nearly €6 billion amid competition from China",
-              "url": "https://www.dw.com/en/germany-news-volkswagen-posts-3rd-quarter-losses-of-nearly-6-billion-amid-competition-from-china/live-79792915"
-            },
-            {
-              "title": "Samsung and Google ruin the party: Earnings misses drive tech futures lower as the Fed signals rate hikes ahead",
-              "url": "https://fortune.com/2026/10/29/samsung-google-earnings-tech-futures-the-fed-rate/"
+              "title": "Global Market: European automakers get earnings boost as Chinese competition weighs on recovery",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-european-automakers-get-earnings-boost-as-chinese-competition-weighs-on-recovery/articleshow/135352780.cms"
             }
           ]
         },
         {
           "type": "War",
           "emoji": "⚔️",
-          "headline_en": "German Chancellor Accuses North Korea of Threatening European Freedom",
-          "headline_de": "Deutscher Kanzler beschuldigt Nordkorea, die Freiheit Europas zu bedrohen",
-          "headline_easy": "Deutschland warnt vor Nordkorea.",
-          "summary_en": "German Chancellor Friedrich Merz has publicly accused North Korea of posing a threat to the freedom of Europe. This statement highlights geopolitical tensions and concerns about international security.",
-          "summary_de": "Der deutsche Bundeskanzler Friedrich Merz hat Nordkorea öffentlich beschuldigt, die Freiheit Europas zu bedrohen. Diese Aussage unterstreicht geopolitische Spannungen und Bedenken hinsichtlich der internationalen Sicherheit.",
-          "summary_easy": "Der Kanzler von Deutschland heißt Friedrich Merz. Er sagt, Nordkorea ist eine Gefahr für Europa. Er meint, es bedroht die Freiheit.",
+          "headline_en": "Global Strikes and EU-US Relations Under Scrutiny Amidst Gaza Conflict",
+          "headline_de": "Globale Streiks und EU-US-Beziehungen unter der Lupe im Gazakonflikt",
+          "headline_easy": "Streiks könnten Gaza helfen. Ein Experte meint, die USA und Europa müssen anders reden.",
+          "summary_en": "The potential impact of global dockworker strikes on the situation in Gaza is being examined. Meanwhile, a prominent opinion piece argues that an EU 'partnership' is not the solution to U.S. challenges, suggesting a need for revised diplomatic approaches.",
+          "summary_de": "Der potenzielle Einfluss globaler Hafenarbeiterstreiks auf die Lage in Gaza wird untersucht. Gleichzeitig argumentiert ein prominenter Meinungsartikel, dass eine EU-„Partnerschaft“ keine Lösung für Herausforderungen mit den USA darstellt und überarbeitete diplomatische Ansätze erfordert.",
+          "summary_easy": "Leute streiken weltweit, um Gaza zu helfen. Ein Artikel sagt, dass Europa und die USA nicht auf die gleiche Weise zusammenarbeiten können.",
           "links": [
             {
-              "title": "Germany news: Chancellor Friedrich Merz accuses North Korea of threatening Europe's freedom",
-              "url": "https://www.dw.com/en/germany-news-chancellor-friedrich-merz-accuses-north-korea-of-threatening-europes-freedom/live-79792915"
-            }
-          ]
-        },
-        {
-          "type": "Stocks & Markets",
-          "emoji": "📈",
-          "headline_en": "Tech Stocks Dip on Earnings Misses; Mass Timber Architecture Discussed",
-          "headline_de": "Tech-Aktien fallen wegen Gewinnenttäuschungen; Massivholzarchitektur diskutiert",
-          "headline_easy": "Tech-Aktien fallen. Massivholzbau ist Thema.",
-          "summary_en": "Tech futures are down following earnings disappointments from major companies like Samsung and Google, with the Federal Reserve signaling potential rate hikes. In a separate development, discussions around mass timber construction highlight its potential and challenges in architecture.",
-          "summary_de": "Die Tech-Futures sind nach Gewinnenttäuschungen von großen Unternehmen wie Samsung und Google gefallen, während die Federal Reserve auf mögliche Zinserhöhungen hindeutet. In einer separaten Entwicklung beleuchten Diskussionen über den Massivholzbau sein Potenzial und seine Herausforderungen in der Architektur.",
-          "summary_easy": "Tech-Aktien fallen wegen schlechter Ergebnisse. Die Zentralbank plant höhere Zinsen. Ein neues Thema ist Bauen mit Holz.",
-          "links": [
-            {
-              "title": "Making the Case for Mass Timber: Christian Dimbleby on Regulation, Risks, and Joyful Architecture",
-              "url": "https://blog.buildllc.com/2026/10/making-the-case-for-mass-timber-christian-dimbleby-on-regulation-risks-and-joyful-architecture/"
+              "title": "What can a global strike of dockworkers achieve for Gaza?",
+              "url": "https://www.aljazeera.com/features/2026/10/30/what-can-a-global-strike-of-dockworkers-achieve-for-gaza"
             }
           ]
         }
@@ -86,52 +66,64 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Legend of Zelda Collection Announced; ECB President Resigns",
-          "headline_de": "Legend of Zelda-Kollektion angekündigt; EZB-Präsidentin tritt zurück",
-          "headline_easy": "Neues Zelda-Spiel kommt. Chefin der EZB geht.",
-          "summary_en": "Fans of 'The Legend of Zelda: The Wind Waker' can anticipate a new collection releasing in Q4 2026. In separate news, European Central Bank President Christine Lagarde has resigned following extended speculation.",
-          "summary_de": "Fans von 'The Legend of Zelda: The Wind Waker' können eine neue Kollektion erwarten, die im vierten Quartal 2026 erscheint. In einer separaten Nachricht ist die Präsidentin der Europäischen Zentralbank, Christine Lagarde, nach längeren Spekulationen zurückgetreten.",
-          "summary_easy": "Ein neues Spiel von Zelda kommt bald. Die Chefin der Europäischen Zentralbank ist zurückgetreten. Sie hieß Christine Lagarde.",
+          "headline_en": "Energy Discovery and Global Labor Actions Shape European Discourse",
+          "headline_de": "Energieentdeckung und globale Arbeitsaktionen prägen die europäische Debatte",
+          "headline_easy": "Ein neues Gasfeld wurde gefunden. Hafenarbeiter streiken weltweit.",
+          "summary_en": "Equinor has doubled its estimate for the Afrodite gas discovery, signaling potential energy shifts. Meanwhile, global dockworker strikes are being discussed for their potential impact, and expert opinion questions the efficacy of EU 'partnerships' in resolving U.S. issues.",
+          "summary_de": "Equinor hat seine Schätzung für die Gasentdeckung Afrodite verdoppelt, was auf potenzielle Energieverschiebungen hindeutet. Unterdessen werden globale Hafenarbeiterstreiks hinsichtlich ihrer potenziellen Auswirkungen diskutiert, und Expertenmeinungen hinterfragen die Wirksamkeit von EU-„Partnerschaften“ bei der Lösung von US-Problemen.",
+          "summary_easy": "Eine Firma hat mehr Gas gefunden. Arbeiter auf Schiffen streiken überall auf der Welt. Das könnte helfen, über Gaza zu sprechen.",
           "links": [
             {
-              "title": "Legend Of Zelda: The Wind Waker Officially Returning Q4 2026 In New Collection",
-              "url": "https://screenrant.com/legend-of-zelda-wind-waker-official-return-mug-collection/"
-            },
-            {
-              "title": "ECB President Lagarde resigns after months of speculation",
-              "url": "https://www.rte.ie/news/business/2026/1029/1597194-christine-lagarde/"
+              "title": "Equinor Doubles Estimate for Afrodite Gas Discovery",
+              "url": "https://www.rigzone.com/news/equinor_doubles_estimate_for_afrodite_gas_discovery-30-oct-2026-184971-article/"
             }
           ]
         },
         {
-          "type": "Business",
-          "emoji": "💼",
-          "headline_en": "Train Crash in Spain; Germany Accuses North Korea",
-          "headline_de": "Zugunglück in Spanien; Deutschland beschuldigt Nordkorea",
-          "headline_easy": "Zugunglück in Spanien. Deutschland warnt vor Nordkorea.",
-          "summary_en": "Rescue efforts are underway following a train crash in Spain. In parallel, German Chancellor Friedrich Merz has accused North Korea of threatening European freedom, highlighting international security concerns.",
-          "summary_de": "Nach einem Zugunglück in Spanien laufen Rettungsarbeiten. Parallel dazu hat der deutsche Bundeskanzler Friedrich Merz Nordkorea beschuldigt, die Freiheit Europas zu bedrohen, und hebt internationale Sicherheitsbedenken hervor.",
-          "summary_easy": "Ein Zug ist in Spanien verunglückt. Es gibt Rettungsarbeiten. Deutschland sagt, Nordkorea ist eine Gefahr.",
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Energy Developments and Global Strikes Intersect with Geopolitical Concerns",
+          "headline_de": "Energieentwicklungen und globale Streiks überschneiden sich mit geopolitischen Bedenken",
+          "headline_easy": "Mehr Gas gefunden. Streiks weltweit für Gaza. Firmen antworten auf Budgets.",
+          "summary_en": "Significant gas discoveries are being reported, alongside analysis of potential global labor actions, particularly dockworker strikes concerning Gaza. In parallel, corporate responses to national budgets, such as Ineos' reaction to the UK Budget, are also being noted.",
+          "summary_de": "Bedeutende Gasfunde werden berichtet, zusammen mit Analysen potenzieller globaler Arbeitsaktionen, insbesondere Hafenarbeiterstreiks im Zusammenhang mit Gaza. Parallel dazu werden Unternehmensreaktionen auf nationale Budgets, wie die Reaktion von Ineos auf das britische Budget, ebenfalls zur Kenntnis genommen.",
+          "summary_easy": "Eine Firma fand mehr Gas. Arbeiter streiken für Gaza. Firmen äußern sich zu neuen Geldplänen der Regierung.",
           "links": [
             {
-              "title": "Rescue teams search wreckage for survivors after train crash in Spain",
-              "url": "https://www.aljazeera.com/news/2026/10/29/rescue-teams-search-wreckage-for-survivors-after-train-crash-in-spain"
+              "title": "Ineos Responds to UK Budget",
+              "url": "https://www.rigzone.com/news/ineos_responds_to_uk_budget-30-oct-2026-184972-article/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Tech Futures Fall Amidst Earnings; Puig Shares Slide on Vision Unveiling",
-          "headline_de": "Tech-Futures fallen wegen Gewinnen; Puig-Aktien fallen nach Enthüllung der Vision",
-          "headline_easy": "Tech-Aktien fallen. Eine Firma namens Puig hat Probleme.",
-          "summary_en": "Tech futures are experiencing a decline due to earnings misses from major companies and indications of future rate hikes from the Fed. Separately, Puig's shares have dropped following the presentation of its 'Vision 2032' plan.",
-          "summary_de": "Die Tech-Futures verzeichnen einen Rückgang aufgrund von Gewinnenttäuschungen großer Unternehmen und Hinweisen auf zukünftige Zinserhöhungen durch die Fed. Separat sind die Aktien von Puig nach der Vorstellung seines 'Vision 2032'-Plans gefallen.",
-          "summary_easy": "Tech-Aktien sind gefallen. Samsung und Google hatten schlechte Ergebnisse. Die Firma Puig hat auch schlechte Nachrichten. Ihre Aktien sind gesunken.",
+          "headline_en": "European Markets Mixed as Earnings and CPI Data Take Center Stage",
+          "headline_de": "Europäische Märkte uneinheitlich, Gewinne und CPI-Daten im Fokus",
+          "headline_easy": "Die Börsen in Europa sind gemischt. Es gibt wichtige Nachrichten über Firmen und Preise.",
+          "summary_en": "European markets are showing mixed performance, with investor focus primarily on upcoming earnings reports and Consumer Price Index (CPI) data. This economic backdrop influences market sentiment and trading strategies across the continent.",
+          "summary_de": "Europäische Märkte zeigen eine uneinheitliche Performance, wobei der Fokus der Anleger hauptsächlich auf bevorstehenden Gewinnberichten und Daten zum Verbraucherpreisindex (VPI) liegt. Dieser wirtschaftliche Hintergrund beeinflusst die Marktstimmung und Handelsstrategien auf dem gesamten Kontinent.",
+          "summary_easy": "Die Aktienmärkte in Europa sind heute nicht einheitlich. Die Leute achten auf die Zahlen von Firmen und auf die Preise von Waren.",
           "links": [
             {
-              "title": "Puig’s shares slide on Vision 2032 unveiling amid Parfums de Marly rumors",
-              "url": "https://fashionunited.uk/news/business/puigs-shares-slide-on-vision-2032-unveiling-amid-parfums-de-marly-rumors/2026102991102"
+              "title": "Europe opens mixed with earnings, CPI data in focus",
+              "url": "https://biztoc.com/x/4ebe80df0bf186a9"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "Technological Innovations and Corporate Responses Amidst Global Events",
+          "headline_de": "Technologische Innovationen und Unternehmensreaktionen inmitten globaler Ereignisse",
+          "headline_easy": "Neue Brillen mit Computer. Eine Firma reagiert auf das Budget. Gas wurde gefunden.",
+          "summary_en": "Innovations in wearable technology, such as Linux PCs in AR glasses, are emerging. Companies are also reacting to economic policies, like Ineos responding to the UK Budget, and significant discoveries in the energy sector are being reported.",
+          "summary_de": "Innovationen im Bereich tragbarer Technologie, wie z. B. Linux-PCs in AR-Brillen, entstehen. Unternehmen reagieren auch auf Wirtschaftspolitik, wie Ineos, das auf das britische Budget reagiert, und bedeutende Entdeckungen im Energiesektor werden gemeldet.",
+          "summary_easy": "Es gibt neue Brillen, die wie ein Computer sind. Eine Firma spricht über das neue Budget der Regierung. Eine andere Firma hat mehr Gas gefunden.",
+          "links": [
+            {
+              "title": "Is Sir Tom Jones still alive? Why has the veteran singer postponed US leg of his world tour in Los Angeles and San Diego?",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/is-sir-tom-jones-still-alive-why-has-the-veteran-singer-postponed-us-leg-of-his-world-tour-in-los-angeles-and-san-diego/articleshow/135355399.cms"
             }
           ]
         }
@@ -144,68 +136,40 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "WWII Shipwreck Found Off Maine Coast; Vivek Ramaswamy Criticized for Political Ad",
-          "headline_de": "Schiffswrack aus dem Zweiten Weltkrieg vor der Küste von Maine gefunden; Vivek Ramaswamy wegen politischer Anzeige kritisiert",
-          "headline_easy": "Schiff aus Krieg gefunden. Politiker kritisiert.",
-          "summary_en": "A shipwreck from a Nazi submarine attack in 1944 has been discovered off the coast of Maine. Separately, Vivek Ramaswamy is facing criticism for a political advertisement that allegedly encourages abuse survivors to remain silent.",
-          "summary_de": "Vor der Küste von Maine wurde ein Schiffswrack aus einem Angriff eines deutschen U-Boots im Jahr 1944 entdeckt. Separat steht Vivek Ramaswamy wegen einer politischen Anzeige in der Kritik, die angeblich Missbrauchsüberlebende ermutigt, zu schweigen.",
-          "summary_easy": "Ein altes Schiff wurde gefunden. Es war im Krieg gesunken. Ein Politiker macht eine Werbung, die schlecht ist.",
+          "headline_en": "Global Travel Mishaps, College Sports Diplomacy, and Wearable Tech",
+          "headline_de": "Globale Reisezwischenfälle, College-Sport-Diplomatie und Wearable-Technologie",
+          "headline_easy": "Leute sitzen in Kambodscha fest. College-Sport kommt nach Rom. Neue Brillen mit Computer.",
+          "summary_en": "A story unfolds of cruise ship passengers stranded in Cambodia, disrupting their dream lives. In a unique cultural exchange, college basketball is heading to Rome, facilitated by an 'American Pope'. Meanwhile, advancements in wearable technology include AR glasses with integrated Linux PCs.",
+          "summary_de": "Eine Geschichte entfaltet sich über Kreuzfahrtschiffpassagiere, die in Kambodscha gestrandet sind und ihre Lebensträume gestört sehen. In einem einzigartigen Kulturaustausch kommt College-Basketball dank eines „amerikanischen Papstes“ nach Rom. Parallel dazu umfassen Fortschritte in der Wearable-Technologie AR-Brillen mit integrierten Linux-PCs.",
+          "summary_easy": "Eine Gruppe Leute kann nicht von ihrem Schiff in Kambodscha herunter. Basketball-Spiele für Studenten finden in Rom statt. Es gibt neue Brillen, die wie ein Computer sind.",
           "links": [
             {
-              "title": "Ship sunk by infamous Nazi sub in 1944 found off coast of Maine",
-              "url": "https://www.cbsnews.com/news/ss-cornwallis-sunk-nazi-sub-found-maine/"
+              "title": "They made a cruise ship their home, then got kicked off in Cambodia. Now their dream life is on hold.",
+              "url": "https://www.businessinsider.com/villa-vie-residences-passengers-stranded-cambodia-what-next-reactions-2026-10#article"
             },
             {
-              "title": "Vivek Ramaswamy's Shameful Political Ad Encourages Abuse Survivors to Stay Silent",
-              "url": "https://www.commondreams.org/opinion/ramaswamy-ad-shameful"
-            }
-          ]
-        },
-        {
-          "type": "Business",
-          "emoji": "💼",
-          "headline_en": "NYSE Parent ICE Partners with Trade.xyz for Perpetual Futures; WWII Shipwreck Discovered",
-          "headline_de": "NYSE-Muttergesellschaft ICE schließt sich mit Trade.xyz für Perpetual Futures zusammen; Schiffswrack aus dem Zweiten Weltkrieg entdeckt",
-          "headline_easy": "Börse arbeitet mit neuer Firma. Altes Schiff gefunden.",
-          "summary_en": "The New York Stock Exchange's parent company, ICE, is collaborating with Trade.xyz to introduce perpetual futures to US markets. In a separate, historical discovery, a ship sunk by a Nazi submarine in 1944 has been found off the coast of Maine.",
-          "summary_de": "Die Muttergesellschaft der New York Stock Exchange, ICE, arbeitet mit Trade.xyz zusammen, um Perpetual Futures auf die US-Märkte zu bringen. In einer separaten historischen Entdeckung wurde ein Schiff, das 1944 von einem deutschen U-Boot versenkt wurde, vor der Küste von Maine gefunden.",
-          "summary_easy": "Die Börse in New York macht Geschäfte mit einer neuen Firma. Sie wollen neue Finanzprodukte anbieten. Ein altes Schiff wurde auch gefunden.",
-          "links": [
-            {
-              "title": "NYSE parent ICE teams with Hyperliquid-linked Trade.xyz to bring perpetual futures to US markets",
-              "url": "https://cryptobriefing.com/ice-trade-xyz-perpetual-futures-claim/"
+              "title": "An American pope, a text and a wild idea: How college basketball ended up in Rome",
+              "url": "https://www.usatoday.com/story/sports/ncaab/2026/10/30/villanova-notre-dame-college-basketball-rome-pope-leo-xiv-fox-sports/92482342007/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "ICE Partners for Perpetual Futures; The Art of Not Being Stupid Discussed",
-          "headline_de": "ICE schließt Partnerschaft für Perpetual Futures; Die Kunst, nicht dumm zu sein, diskutiert",
-          "headline_easy": "Neue Finanzprodukte in USA. Artikel über Klugheit.",
-          "summary_en": "NYSE parent ICE is teaming up with Trade.xyz to bring perpetual futures to US markets, indicating a move in financial derivatives. In a separate, thought-provoking piece, 'The Art of Not Being Stupid' offers insights into decision-making and wisdom.",
-          "summary_de": "Die NYSE-Muttergesellschaft ICE arbeitet mit Trade.xyz zusammen, um Perpetual Futures auf die US-Märkte zu bringen, was eine Bewegung bei Finanzderivaten darstellt. In einem separaten, zum Nachdenken anregenden Artikel bietet 'Die Kunst, nicht dumm zu sein' Einblicke in Entscheidungsfindung und Weisheit.",
-          "summary_easy": "Die Börse in den USA bekommt neue Finanzprodukte. Ein Artikel spricht über Weisheit. Er heißt 'Die Kunst, nicht dumm zu sein'.",
+          "headline_en": "Political Spending, Market Tools, and Investment Advice",
+          "headline_de": "Politische Ausgaben, Marktinstrumente und Anlageberatung",
+          "headline_easy": "Politik gibt Geld aus. Man kann Börsen-Daten nutzen. Ein Experte gibt Rat zu Renten.",
+          "summary_en": "Reports detail political spending by organizations like AIPAC and the use of AI in midterm elections. Resources for building stock monitoring platforms using APIs are available. Additionally, advice is offered to retired individuals on their reliance on bank dividends in retirement accounts.",
+          "summary_de": "Berichte dokumentieren politische Ausgaben von Organisationen wie AIPAC und den Einsatz von KI bei den Zwischenwahlen. Ressourcen für den Aufbau von Aktienüberwachungsplattformen mit APIs sind verfügbar. Darüber hinaus wird Rentnern Ratschläge zur Abhängigkeit von Bankdividenden in Rentenkonten gegeben.",
+          "summary_easy": "Organisationen geben Geld für Wahlen aus. Man kann Programme bauen, um Aktien zu beobachten. Ein Experte sagt, ob es gut ist, nur von Zinsen zu leben, wenn man alt ist.",
           "links": [
             {
-              "title": "The Art of Not Being Stupid",
-              "url": "https://dailyreckoning.com/post/the-art-of-not-being-stupid"
-            }
-          ]
-        },
-        {
-          "type": "Technology",
-          "emoji": "💻",
-          "headline_en": "Servers Compromised by Exploit; WWII Shipwreck Found",
-          "headline_de": "Server durch Exploit kompromittiert; Schiffswrack aus dem Zweiten Weltkrieg gefunden",
-          "headline_easy": "Server gehackt. Altes Schiff gefunden.",
-          "summary_en": "A PHP2Shell exploit has successfully compromised a significant number of servers, including those belonging to the US government. In a different vein, a historical discovery has been made with the finding of a ship sunk by a Nazi submarine in 1944 off the coast of Maine.",
-          "summary_de": "Ein PHP2Shell-Exploit hat eine beträchtliche Anzahl von Servern kompromittiert, darunter auch solche der US-Regierung. In einem anderen Fall wurde eine historische Entdeckung gemacht: ein Schiff, das 1944 von einem deutschen U-Boot versenkt wurde, wurde vor der Küste von Maine gefunden.",
-          "summary_easy": "Hacker haben Server gefunden, die sie nutzen können. Auch Server der Regierung. Ein altes Schiff aus dem Krieg wurde vor der Küste von Maine gefunden.",
-          "links": [
+              "title": "How AIPAC and AI Spent Their Money This Midterm Election",
+              "url": "https://theintercept.com/2026/10/30/aipac-ai-spending-midterm-election/"
+            },
             {
-              "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
-              "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers"
+              "title": "Stock Market APIs: Build Your Own Stock Monitoring Platform",
+              "url": "https://cloudtweaks.com/2026/10/stock-apis-building-your-own-stock-monitoring-platform/"
             }
           ]
         }
@@ -218,52 +182,36 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "SMU Launches Master's Program; UK PM's India Visit Possible",
-          "headline_de": "SMU startet Masterstudiengang; Besuch des britischen Premierministers in Indien möglich",
-          "headline_easy": "Neue Uni-Kurse. Besuch in Indien.",
-          "summary_en": "Singapore Management University (SMU) is introducing a new master's program focused on digital governance and sustainability. In related international news, there is a possibility of UK Prime Minister Burnham visiting India soon, fostering bilateral relations.",
-          "summary_de": "Die Singapore Management University (SMU) führt einen neuen Masterstudiengang ein, der sich auf digitale Governance und Nachhaltigkeit konzentriert. In verwandten internationalen Nachrichten besteht die Möglichkeit, dass der britische Premierminister Burnham bald Indien besucht und die bilateralen Beziehungen fördert.",
-          "summary_easy": "Eine Universität in Singapur hat neue Kurse. Sie sind für Digitales und Nachhaltigkeit. Der Premierminister von Großbritannien will vielleicht nach Indien reisen.",
+          "headline_en": "Cruise Ship Stranded Passengers, Security Breaches, and Historical Sins",
+          "headline_de": "Gestrandete Kreuzfahrtpassagiere, Sicherheitslücken und historische Sünden",
+          "headline_easy": "Leute sitzen in Kambodscha fest. Ein Mann sagt, er ist der Böse. Hacker brechen in Systeme ein.",
+          "summary_en": "Passengers are stranded in Cambodia after their cruise ship dwelling ended abruptly, with the founder blaming historical actions. Meanwhile, significant cross-tenant security compromises are detailed, highlighting vulnerabilities in cloud environments.",
+          "summary_de": "Passagiere sind in Kambodscha gestrandet, nachdem ihr Wohnen auf einem Kreuzfahrtschiff abrupt endete und der Gründer historische Handlungen dafür verantwortlich macht. Unterdessen werden signifikante Cross-Tenant-Sicherheitskompromittierungen detailliert beschrieben, die Schwachstellen in Cloud-Umgebungen hervorheben.",
+          "summary_easy": "Eine Gruppe Leute kann nicht von ihrem Schiff in Kambodscha herunter. Der Chef des Schiffes sagt, dass er schuld ist. Hacker haben Systeme von Firmen angegriffen.",
           "links": [
             {
-              "title": "SMU launches master's programme to address emerging digital governance and sustainability challenges",
-              "url": "https://en.antaranews.com/news/438675/smu-launches-masters-programme-to-address-emerging-digital-governance-and-sustainability-challenges"
-            },
-            {
-              "title": "UK PM Burnham's trip to India could take place soon: British envoy",
-              "url": "https://economictimes.indiatimes.com/news/india/uk-pm-burnhams-trip-to-india-could-take-place-soon-british-envoy/articleshow/135302038.html"
-            }
-          ]
-        },
-        {
-          "type": "War",
-          "emoji": "⚔️",
-          "headline_en": "Doors Market Projection; SMU Launches Program; UK PM to Visit India",
-          "headline_de": "Prognose für den Türenmarkt; SMU startet Programm; Britischer Premierminister reist nach Indien",
-          "headline_easy": "Türenmarkt wächst. Uni startet Kurse. Premier besucht Indien.",
-          "summary_en": "The doors market is projected to reach significant value by 2031, according to a new report. In academic news, SMU is launching a master's program addressing digital governance and sustainability. On the diplomatic front, a visit by UK Prime Minister Burnham to India is expected soon.",
-          "summary_de": "Der Türenmarkt wird laut einem neuen Bericht bis 2031 einen erheblichen Wert erreichen. Im akademischen Bereich startet die SMU ein Masterprogramm zu digitaler Governance und Nachhaltigkeit. Auf diplomatischer Ebene wird bald ein Besuch des britischen Premierministers Burnham in Indien erwartet.",
-          "summary_easy": "Der Markt für Türen wird bis 2031 sehr groß sein. Eine Universität startet neue Kurse. Der Premierminister von Großbritannien reist bald nach Indien.",
-          "links": [
-            {
-              "title": "Doors Market worth $105.93 billion by 2031 - Exclusive Report by MarketsandMarkets™",
-              "url": "https://www.prnewswire.co.uk/news-releases/doors-market-worth-105-93-billion-by-2031---exclusive-report-by-marketsandmarkets-302923165.html"
+              "title": "Founder of 'endless cruise' that dumped its passengers in Cambodia 'says \"I'm the villain\" but blames Trump's Iran war'",
+              "url": "https://www.dailymail.com/news/article-16251827/Founder-cruise-dumped-Cambodia-villain-Trumps-Iran-war.html"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Tech Futures Decline; K-Beauty Brand Secures Investment; Indian Market Rises",
-          "headline_de": "Tech-Futures sinken; K-Beauty-Marke sichert sich Investition; Indischer Markt steigt",
-          "headline_easy": "Tech-Aktien fallen. Eine Schönheitsmarke bekommt Geld. Indische Aktien steigen.",
-          "summary_en": "Tech futures are experiencing a downturn due to earnings misses and anticipated rate hikes. Meanwhile, the Indian stock market has seen a rise, with Nifty surpassing 22,800, partly driven by FMCG stocks and Adani Ports. A vegan K-Beauty brand, AXIS-Y, has also secured significant investment.",
-          "summary_de": "Die Tech-Futures verzeichnen einen Abschwung aufgrund von Gewinnenttäuschungen und erwarteten Zinserhöhungen. Unterdessen verzeichnete der indische Aktienmarkt einen Anstieg, wobei der Nifty 22.800 überschritt, angetrieben teilweise durch FMCG-Aktien und Adani Ports. Eine vegane K-Beauty-Marke, AXIS-Y, hat ebenfalls eine bedeutende Investition gesichert.",
-          "summary_easy": "Tech-Aktien sind gesunken. Samsung und Google hatten schlechte Ergebnisse. Aber der Markt in Indien ist gestiegen. Eine Kosmetikfirma hat Geld bekommen.",
+          "headline_en": "China Evergrande Property Sale, Airline Stock Surge, and Motorsport Season",
+          "headline_de": "Verkauf der China Evergrande Immobilienverwaltung, Anstieg der Flugaktien und Motorsport-Saison",
+          "headline_easy": "Firma in China verkauft Teile. Aktie einer Fluglinie steigt. Es gibt eine neue Motorsport-Saison.",
+          "summary_en": "Liquidators have agreed to sell the property management unit of China Evergrande. IndiGo shares saw a significant jump following Q2 results, though analysts remain divided on the recovery timeline. The third season of TVS ARE GP motorsport is also highlighted.",
+          "summary_de": "Liquidatoren haben dem Verkauf der Immobilienverwaltungseinheit von China Evergrande zugestimmt. Die Aktien von IndiGo verzeichneten nach den Q2-Ergebnissen einen deutlichen Anstieg, obwohl die Analysten über den Erholungszeitplan geteilter Meinung sind. Die dritte Saison des Motorsport-Events TVS ARE GP wird ebenfalls hervorgehoben.",
+          "summary_easy": "Eine große Firma in China verkauft einen Teil ihrer Geschäfte. Die Aktien einer Fluggesellschaft steigen. Es gibt eine neue Saison für Autorennen.",
           "links": [
             {
-              "title": "Vegan K-Beauty Brand AXIS-Y Secures Investment at a KRW 430 Billion Valuation, Driven by Long-Term Growth Strategy",
-              "url": "https://www.prnewswire.co.uk/news-releases/vegan-k-beauty-brand-axis-y-secures-investment-at-a-krw-430-billion-valuation-driven-by-long-term-growth-strategy-302923473.html"
+              "title": "Liquidators agree sale of China Evergrande property management unit",
+              "url": "https://www.channelnewsasia.com/east-asia/evergrande-property-sale-private-equity-6506426"
+            },
+            {
+              "title": "TVS ARE GP Season 3: Motorsport For All",
+              "url": "https://www.rediff.com/sports/report/tvs-are-gp-season-3-global-motorsport-for-all/20261030.htm"
             }
           ]
         }
@@ -276,92 +224,56 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Grand Theft Auto VI Gameplay Revealed by South Park; Jessica Biel on Nepotism",
-          "headline_de": "Grand Theft Auto VI Gameplay von South Park enthüllt; Jessica Biel über Nepotismus",
-          "headline_easy": "Neues Spiel gezeigt. Schauspielerin spricht über Familie.",
-          "summary_en": "South Park has humorously revealed new gameplay footage for Grand Theft Auto VI, satirizing the popular game. In a different cultural note, actress Jessica Biel stated she will not allow her son to benefit from nepotism despite his role in her film.",
-          "summary_de": "South Park hat auf humorvolle Weise neues Gameplay-Material für Grand Theft Auto VI enthüllt und das beliebte Spiel satirisiert. In einer anderen kulturellen Notiz erklärte die Schauspielerin Jessica Biel, dass sie ihrem Sohn trotz seiner Rolle in ihrem Film keine Vorteile durch Nepotismus gewähren werde.",
-          "summary_easy": "Eine Zeichentrickserie zeigt neues Spiel. Es heißt Grand Theft Auto VI. Eine Schauspielerin sagt, ihr Sohn soll keine Hilfe wegen der Familie bekommen.",
+          "headline_en": "Ancient Human Ingenuity, Youth Pledge Debates, and Cruise Ship Stranding",
+          "headline_de": "Alte menschliche Genialität, Debatten über Jugendversprechen und Kreuzfahrtschiff-Strandung",
+          "headline_easy": "Frühe Menschen machten Schnur. Leute reden über ein Jugend-Versprechen. Eine Kreuzfahrt-Firma hat Probleme.",
+          "summary_en": "Archaeological findings reveal Neanderthals created three-ply cord from tree bark, showcasing early human ingenuity. Discussions are also taking place regarding the 'Youth Pledge' and its implications. Separately, a story emerges about passengers stranded in Cambodia after their cruise ship living arrangement failed.",
+          "summary_de": "Archäologische Funde zeigen, dass Neandertaler dreifaches Garn aus Baumrinde herstellten, was frühe menschliche Genialität zeigt. Es finden auch Diskussionen über das „Jugendversprechen“ und seine Auswirkungen statt. Separat taucht eine Geschichte über Passagiere auf, die in Kambodscha gestrandet sind, nachdem ihr Wohnarrangement auf einem Kreuzfahrtschiff gescheitert ist.",
+          "summary_easy": "Frühe Menschen konnten Schnur machen. Leute sprechen über ein Versprechen, das junge Menschen geben. Eine Kreuzfahrtfirma hat Probleme und Leute sitzen fest.",
           "links": [
             {
-              "title": "South Park Reveals New Grand Theft Auto VI Gameplay Footage",
-              "url": "https://consequence.net/2026/10/south-park-reveals-new-grand-theft-auto-vi-gameplay-footage/"
+              "title": "Neanderthals made three-ply cord by twisting tree bark fibres, a tiny fragment found on a stone tool in France reveals",
+              "url": "https://timesofindia.indiatimes.com/world/europe/neanderthals-made-three-ply-cord-by-twisting-tree-bark-fibres-a-tiny-fragment-found-on-a-stone-tool-in-france-reveals/articleshow/135355480.cms"
             },
             {
-              "title": "Jessica Biel claims she won't let her son, 11, benefit from nepotism despite him bagging a part in her latest film",
-              "url": "https://www.dailymail.co.uk/tvshowbiz/article-16248455/Jessica-Biel-claims-son-11-benefit-nepotism.html"
-            }
-          ]
-        },
-        {
-          "type": "Business",
-          "emoji": "💼",
-          "headline_en": "NIQ and Google Partner; Hotel Trademark Battle Erupts",
-          "headline_de": "NIQ und Google Partner; Hotel-Markenstreit bricht aus",
-          "headline_easy": "Firmen arbeiten zusammen. Streit um Hotels.",
-          "summary_en": "Market research firm NIQ is partnering with Google to advance agentic commerce, aiming to enhance commerce strategies. In unrelated business news, a significant trademark dispute has emerged between Hyatt Select and Select by Hilton concerning hotel branding.",
-          "summary_de": "Das Marktforschungsunternehmen NIQ arbeitet mit Google zusammen, um den agentischen Handel voranzutreiben und Handelsstrategien zu verbessern. In unrelated Business-Nachrichten ist ein bedeutender Markenstreit zwischen Hyatt Select und Select by Hilton bezüglich der Hotelmarken aufgetaucht.",
-          "summary_easy": "Eine Firma namens NIQ arbeitet mit Google zusammen. Sie wollen mehr Handel. Zwei Hotel-Marken streiten sich über ihre Namen.",
-          "links": [
-            {
-              "title": "NIQ and Google Partner to Advance Agentic Commerce",
-              "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/niq-and-google-partner-to-advance-agentic-commerce"
-            },
-            {
-              "title": "Messy Hotel Trademark Battle: Hyatt Select Vs. Select By Hilton",
-              "url": "https://onemileatatime.com/news/hotel-trademark-battle-hyatt-select-vs-select-by-hilton/"
-            }
-          ]
-        },
-        {
-          "type": "War",
-          "emoji": "⚔️",
-          "headline_en": "Ivan Toney's Trial Could Impact Euro 2028; Network Fosters Unity",
-          "headline_de": "Ivan Toneys Prozess könnte Euro 2028 beeinflussen; Netzwerk fördert Einheit",
-          "headline_easy": "Prozess gegen Spieler. Netzwerk hilft Menschen.",
-          "summary_en": "England striker Ivan Toney faces a trial that coincides with Euro 2028, potentially ruling him out of the tournament. In a different context, a new network is being established to foster unity between European and migrant churches.",
-          "summary_de": "Der englische Stürmer Ivan Toney steht vor einem Prozess, der mit der Euro 2028 zusammenfällt und ihn potenziell aus dem Turnier ausschließen könnte. In einem anderen Kontext wird ein neues Netzwerk zur Förderung der Einheit zwischen europäischen und migrantischen Kirchen eingerichtet.",
-          "summary_easy": "Ein Fußballspieler hat einen Prozess. Das ist während einer wichtigen Meisterschaft. Ein neues Netzwerk hilft Menschen aus verschiedenen Ländern, Freunde zu sein.",
-          "links": [
-            {
-              "title": "Ivan Toney's trial over nightclub assault will start three days into Euro 2028 - potentially ruling England striker out of the tournament",
-              "url": "https://www.dailymail.co.uk/sport/football/article-16248713/Ivan-Toneys-trial-nightclub-assault-start-three-days-Euro-2028-potentially-ruling-England-striker-tournament.html"
-            },
-            {
-              "title": "New network to foster unity between European and migrant churches",
-              "url": "https://www.christiandaily.com/news/every-tribe-nation-and-language-new-network-seeks-to-unite-migrant-and-european-churches"
+              "title": "Testing the Youth Pledge in an echo chamber",
+              "url": "https://en.antaranews.com/news/438927/testing-the-youth-pledge-in-an-echo-chamber"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "UK Social Media Ban Plans Revealed; 'The Art of Not Being Stupid' Explored",
-          "headline_de": "Pläne für Social-Media-Verbot in Großbritannien enthüllt; 'Die Kunst, nicht dumm zu sein', untersucht",
-          "headline_easy": "Regeln für soziale Medien. Artikel über Klugheit.",
-          "summary_en": "The UK is planning new rules for social media, outlining how teenagers can prove they are over 16. In a separate, philosophical piece, 'The Art of Not Being Stupid' offers reflections on wisdom and decision-making.",
-          "summary_de": "Großbritannien plant neue Regeln für soziale Medien und legt dar, wie Teenager nachweisen können, dass sie über 16 Jahre alt sind. In einem separaten philosophischen Artikel bietet 'Die Kunst, nicht dumm zu sein' Reflexionen über Weisheit und Entscheidungsfindung.",
-          "summary_easy": "Großbritannien hat neue Regeln für soziale Medien. Junge Leute müssen beweisen, dass sie älter als 16 sind. Ein Artikel erklärt, wie man klug ist.",
+          "headline_en": "Retirement Investment Advice, Political Spending Analytics, and Market Platforms",
+          "headline_de": "Anlageberatung für den Ruhestand, Analysen politischer Ausgaben und Marktplattformen",
+          "headline_easy": "Man soll nicht nur von Zinsen leben. Politik gibt Geld aus. Man kann Börsen-Daten nutzen.",
+          "summary_en": "Financial advice is provided for retired individuals concerning their reliance on bank dividends in retirement funds. Analysis of political spending, including the role of AI in midterm elections, is being presented. Resources for building stock monitoring platforms using APIs are also highlighted.",
+          "summary_de": "Finanzberatung wird für Rentner bezüglich ihrer Abhängigkeit von Bankdividenden in Rentenfonds angeboten. Analysen politischer Ausgaben, einschließlich der Rolle von KI bei den Zwischenwahlen, werden präsentiert. Ressourcen für den Aufbau von Aktienüberwachungsplattformen mit APIs werden ebenfalls hervorgehoben.",
+          "summary_easy": "Ein Experte gibt Rat zu Geld im Alter. Organisationen geben Geld für Wahlen aus. Man kann Programme bauen, um Aktien zu beobachten.",
           "links": [
             {
-              "title": "UK social media ban plans revealed: Ofcom outlines the four ways teens will be able to prove they're over-16 when new rules come into force next year",
-              "url": "https://www.dailymail.co.uk/sciencetech/article-16248425/social-media-ban-plans-revealed-prove-16.html"
+              "title": "Is a retired Albertan too reliant on bank dividends in his RRIF?",
+              "url": "https://financialpost.com/personal-finance/is-a-retired-albertan-too-reliant-on-bank-dividends-in-his-rrif"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "Xbox Hardware Sales Decline; Unity Network Established",
-          "headline_de": "Xbox-Hardwareverkäufe sinken; Unity-Netzwerk gegründet",
-          "headline_easy": "Xbox-Verkäufe schlecht. Neue Gruppe für Menschen.",
-          "summary_en": "Xbox hardware sales continue to plummet, with demand reportedly outstripping console availability. In a different development, a new network is being established to foster unity between European and migrant churches.",
-          "summary_de": "Die Verkäufe von Xbox-Hardware gehen weiter zurück, wobei die Nachfrage angeblich die Verfügbarkeit von Konsolen übersteigt. In einer anderen Entwicklung wird ein neues Netzwerk zur Förderung der Einheit zwischen europäischen und migrantischen Kirchen eingerichtet.",
-          "summary_easy": "Weniger Xbox-Konsolen werden verkauft. Die Firma hat Schwierigkeiten. Eine neue Gruppe soll Menschen aus verschiedenen Ländern helfen, zusammenzuarbeiten.",
+          "headline_en": "Game Delisting, Malaria Solutions, and Wholesome Content",
+          "headline_de": "Spiel-Entlistung, Malaria-Lösungen und wohlige Inhalte",
+          "headline_easy": "Spiele werden von Plattformen entfernt. Indonesien sucht Mittel gegen Malaria. Katzenbilder sind süß.",
+          "summary_en": "The reasons behind the delisting of popular games like Celeste and TowerFall from Xbox are explained. Indonesia is actively seeking homegrown solutions for malaria, inspired by historical figures. Additionally, a collection of cute cat pictures is presented for enjoyment.",
+          "summary_de": "Die Gründe für die Entfernung beliebter Spiele wie Celeste und TowerFall von Xbox werden erklärt. Indonesien sucht aktiv nach heimischen Lösungen gegen Malaria, inspiriert von historischen Persönlichkeiten. Darüber hinaus wird eine Sammlung süßer Katzenbilder zur Unterhaltung präsentiert.",
+          "summary_easy": "Zwei Spiele sind nicht mehr auf Xbox verfügbar. Indonesien will eigene Medikamente gegen Malaria finden. Es gibt viele lustige Bilder von Katzen.",
           "links": [
             {
-              "title": "Asha Sharma Insists There's 'More Demand Than Consoles Available' as Xbox Hardware Sales Continue to Plummet",
-              "url": "https://www.ign.com/articles/asha-sharma-insists-theres-more-demand-than-consoles-available-as-xbox-hardware-sales-continue-to-plummet"
+              "title": "Celeste and TowerFall dev explains why both games were suddenly delisted from Xbox",
+              "url": "https://www.eurogamer.net/towerfall-celeste-xbox-boycott-delisted"
+            },
+            {
+              "title": "From Wallace to vaccines: Indonesia seeks homegrown malaria solutions",
+              "url": "https://en.antaranews.com/news/438935/from-wallace-to-vaccines-indonesia-seeks-homegrown-malaria-solutions"
             }
           ]
         }
@@ -372,27 +284,27 @@
     "wahlperiode": 21,
     "sitzung": 103,
     "url": "https://dserver.bundestag.de/btp/21/21103.pdf",
-    "summary_en": "On Friday, October 16, 2026, the German Bundestag convened for its 103rd session of the 21st legislative period. The session began with an expansion of the agenda, followed by a discussion of Agenda Item 32, concerning the introduction of an early retirement pension. This item involved the second and third readings of a government bill (Drucksachen 21/7864, 21/8296, 21/8606) and a report from the Budget Committee (Drucksache 21/8619). Additionally, the Finance Committee presented recommendations on two motions: one from the AfD (Ulrike Schielke-Ziesing, René Springer, Peter Bohnhof) advocating for a \"Junior Savings Account\" for children's pensions, and another from Die Linke (Lisa Schubert, Nicole Gohlke, Janine Wissler) focused on strengthening financial education for young people (Drucksachen 21/2163, 21/8125, 21/8606). Several MPs, including Frauke Heiligenstadt (SPD), Ulrike Schielke-Ziesing (AfD), Fritz Güntzler (CDU/CSU), Stefan Schmidt (BÜNDNIS 90/DIE GRÜNEN), Michael Thews (SPD), and others, contributed to this debate. Agenda Item 33 addressed the healthcare system, specifically motions related to the long-term care insurance, including proposals from Die Linke (Evelyn Schötz, Nicole Gohlke, Dr. Michael Arndt) for a \"solidary and needs-based care insurance\" and to prevent benefit cuts (Drucksache 21/5828, 21/2216, 21/6409), and from BÜNDNIS 90/DIE GRÜNEN (Simone Fischer, Dr. Janosch Dahmen, Dr. Paula Piechotta) for a \"sustainable care reform\" (Drucksache 21/8398). Speakers from Die Linke and BÜNDNIS 90/DIE GRÜNEN emphasized the need for reform and solidarity. Agenda Item 34, a first reading of a government bill to reduce bureaucracy in the transport sector (Drucksache 21/8404), saw contributions from Minister Steffen Bilger (BMV) and MPs like Anja Troff-Schaffarzyk (SPD), Matthias Gastel (BÜNDNIS 90/DIE GRÜNEN), and Wolfgang Wiehle (AfD), who expressed differing views on the necessity and scope of the reforms. Agenda Item 35 involved a motion from BÜNDNIS 90/DIE GRÜNEN (Harald Ebner, Dr. Jan-Niclas Gesenhues, Michael Kellner) to send a strong signal for environmental protection at the biodiversity conference in Yerevan (Drucksache 21/8144). Finally, Agenda Item 36, a first reading of a government bill on modernizing arbitration law and international civil procedure (Drucksache 21/8414), was introduced by Minister Dr. Stefanie Hubig (BMJV), with discussions involving MPs from CDU/CSU, AfD, and SPD. Agenda Item 37 was an AfD motion (Adam Balten, Steffen Kotré, Dr. Malte Kaufmann) to ensure technological openness in the transport sector and end the privileging of electromobility (Drucksache 21/8557). The session also included an objection to an order measure under § 39 of the Rules of Procedure (Zusatzpunkt 16).",
-    "summary_de": "Am Freitag, dem 16. Oktober 2026, trat der Deutsche Bundestag zu seiner 103. Sitzung der 21. Wahlperiode zusammen. Die Sitzung begann mit einer Erweiterung der Tagesordnung, gefolgt von der Beratung von Tagesordnungspunkt 32, der Einführung einer Frühstartrente. Dieser Punkt umfasste die zweite und dritte Beratung eines Gesetzentwurfs der Bundesregierung (Drucksachen 21/7864, 21/8296, 21/8606) sowie einen Bericht des Haushaltsausschusses (Drucksache 21/8619). Darüber hinaus präsentierte der Finanzausschuss Beschlussempfehlungen zu zwei Anträgen: einem Antrag der AfD (Ulrike Schielke-Ziesing, René Springer, Peter Bohnhof) für ein \"Junior-Spar-Depot\" zur Rentensicherung von Kindern und einem Antrag der Linken (Lisa Schubert, Nicole Gohlke, Janine Wissler) zur Stärkung der finanziellen Bildung junger Menschen (Drucksachen 21/2163, 21/8125, 21/8606). Mehrere Abgeordnete, darunter Frauke Heiligenstadt (SPD), Ulrike Schielke-Ziesing (AfD), Fritz Güntzler (CDU/CSU), Stefan Schmidt (BÜNDNIS 90/DIE GRÜNEN), Michael Thews (SPD) und weitere, trugen zu dieser Debatte bei. Tagesordnungspunkt 33 befasste sich mit dem Gesundheitswesen, insbesondere mit Anträgen zur Pflegeversicherung, darunter Vorschläge der Linken (Evelyn Schötz, Nicole Gohlke, Dr. Michael Arndt) für eine \"solide und bedarfsgerechte Pflegeversicherung\" sowie zur Vermeidung von Leistungskürzungen (Drucksache 21/5828, 21/2216, 21/6409), und ein Antrag von BÜNDNIS 90/DIE GRÜNEN (Simone Fischer, Dr. Janosch Dahmen, Dr. Paula Piechotta) für eine \"nachhaltige Pflegereform\" (Drucksache 21/8398). Redner der Linken und BÜNDNIS 90/DIE GRÜNEN betonten die Notwendigkeit von Reformen und Solidarität. Tagesordnungspunkt 34, eine erste Beratung eines Gesetzentwurfs der Bundesregierung zum Bürokratierückbau im Verkehrsbereich (Drucksache 21/8404), sah Beiträge von Minister Steffen Bilger (BMV) sowie den Abgeordneten Anja Troff-Schaffarzyk (SPD), Matthias Gastel (BÜNDNIS 90/DIE GRÜNEN) und Wolfgang Wiehle (AfD), der unterschiedliche Ansichten zur Notwendigkeit und dem Umfang der Reformen äußerte. Tagesordnungspunkt 35 beinhaltete einen Antrag von BÜNDNIS 90/DIE GRÜNEN (Harald Ebner, Dr. Jan-Niclas Gesenhues, Michael Kellner), ein starkes Signal für den Umweltschutz auf der Biodiversitätskonferenz in Jerewan zu setzen (Drucksache 21/8144). Schließlich war Tagesordnungspunkt 36 eine erste Beratung eines Gesetzentwurfs der Bundesregierung zur Modernisierung des Schiedsverfahrensrechts und des internationalen Zivilverfahrensrechts (Drucksache 21/8414), vorgestellt von Ministerin Dr. Stefanie Hubig (BMJV), mit Diskussionen unter Beteiligung von Abgeordneten der CDU/CSU, AfD und SPD. Tagesordnungspunkt 37 war ein Antrag der AfD (Adam Balten, Steffen Kotré, Dr. Malte Kaufmann) zur Gewährleistung von Technologieoffenheit im Verkehrssektor und zur Beendigung der Privilegierung der Elektromobilität (Drucksache 21/8557). Die Sitzung beinhaltete zudem einen Einspruch gegen eine Ordnungsmaßnahme nach § 39 der Geschäftsordnung (Zusatzpunkt 16).",
-    "summary_easy": "Der Bundestag traf sich am 16. Oktober 2026. Es gab wichtige Themen auf der Tagesordnung. Ein Thema war die Frührente. Die Abgeordneten sprachen darüber. Es gab auch Anträge zur Rente für Kinder. Ein anderer Punkt war die Pflegeversicherung. Die Parteien diskutierten, wie sie besser werden kann. Sie wollen, dass die Pflege gut ist für alle. Ein weiterer Punkt war Bürokratieabbau im Verkehr. Die Regierung will weniger Regeln. Es ging auch um Umweltschutz. Eine Konferenz findet in Jerewan statt. Deutschland will dort ein Zeichen setzen. Es gab auch eine Debatte über Schiedsverfahren. Das ist für rechtliche Streitigkeiten. Die AfD wollte mehr Technologieoffenheit im Verkehr.",
+    "summary_en": "On Friday, October 16, 2026, the German Bundestag held its 103rd session of the 21st legislative period. The agenda included a second and third reading of the government's draft law on early retirement ('Frühstartrente'). The Haushaltsausschuss (Budget Committee) and Finanzausschuss (Finance Committee) presented their reports. The session also debated motions from the AfD ('Für eine sichere Rente unserer Kinder – Junior-Spar-Depot') and Die Linke ('Finanzielle Bildung stärken – Unabhängig, mehrperspektivisch und für alle jungen Menschen') regarding child savings and financial education. Following this, the Bundestag addressed the nursing insurance system, with motions from Die Linke ('Pflegeversicherung solidarisch und bedarfsgerecht ausrichten') and BÜNDNIS 90/DIE GRÜNEN ('Nachhaltige Pflegereform – Die soziale Pflegeversicherung zukunftsfest machen') proposing reforms and opposing benefit cuts. A government bill to modernize arbitration law and amend civil procedure was introduced. Another government bill focused on reducing bureaucracy in the transport sector was debated. Finally, the AfD proposed a motion ('Technologieoffenheit im Verkehrssektor gewährleisten – Privilegierung der Elektromobilität beenden') to end the privilege of electromobility, advocating for technological openness. Several MPs from SPD, AfD, CDU/CSU, and Die Linke contributed to these discussions.",
+    "summary_de": "Am Freitag, den 16. Oktober 2026, fand im Deutschen Bundestag die 103. Sitzung der 21. Wahlperiode statt. Auf der Tagesordnung stand die zweite und dritte Beratung des Gesetzesentwurfs der Bundesregierung zur Einführung einer Frühstartrente. Der Haushaltsausschuss und der Finanzausschuss legten ihre Berichte vor. Des Weiteren wurden Anträge der AfD („Für eine sichere Rente unserer Kinder – Junior-Spar-Depot“) und Die Linke („Finanzielle Bildung stärken – Unabhängig, mehrperspektivisch und für alle jungen Menschen“) zu Kindersparplänen und Finanzbildung erörtert. Anschließend befasste sich der Bundestag mit der Pflegeversicherung, wobei Anträge der Linken („Pflegeversicherung solidarisch und bedarfsgerecht ausrichten“) und von BÜNDNIS 90/DIE GRÜNEN („Nachhaltige Pflegereform – Die soziale Pflegeversicherung zukunftsfest machen“) Reformen vorschlugen und Leistungskürzungen ablehnten. Ein Gesetzesentwurf der Bundesregierung zur Modernisierung des Schiedsverfahrensrechts sowie zur Änderung der Zivilprozessordnung wurde eingebracht. Ein weiterer Regierungsentwurf zur Bürokratierückbau im Verkehrsbereich wurde debattiert. Abschließend legte die AfD einen Antrag vor („Technologieoffenheit im Verkehrssektor gewährleisten – Privilegierung der Elektromobilität beenden“), der die Beendigung der Privilegierung der Elektromobilität und Technologieoffenheit forderte. Mehrere Abgeordnete von SPD, AfD, CDU/CSU und Die Linke trugen zu diesen Debatten bei.",
+    "summary_easy": "Am Freitag, dem 16. Oktober 2026, gab es eine Sitzung im Bundestag. Das Parlament sprach über eine neue Rente für Frührentner. Auch ein Gesetz zur Verbesserung von Schiedsverfahren wurde besprochen. Es gab eine Debatte über Bürokratie im Verkehr. Die AfD forderte mehr Technologie-Vielfalt bei Autos. Sie sind gegen die Bevorzugung von Elektroautos. Die Linke und die Grünen sprachen über die Pflegeversicherung. Sie wollen die Versicherung verbessern. Sie sind gegen Leistungskürzungen in der Pflege. Es gab auch Anträge zur finanziellen Bildung für junge Leute.",
     "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact_en": "During the Edo period in Japan (1603-1868), sumptuary laws dictated that only the samurai class could wear silk clothing. This starkly contrasted with the vibrant and colorful kimonos of merchants and townspeople, who often wore brightly dyed cotton and hemp, showcasing a unique form of social stratification through fashion. The laws were intended to maintain social hierarchy and prevent the merchant class from appearing too ostentatious.",
-      "fact_de": "Während der Edo-Zeit in Japan (1603-1868) schrieben Kleiderordnungen vor, dass nur die Samurai-Klasse Seidenkleidung tragen durfte. Dies stand im krassen Gegensatz zu den lebendigen und bunten Kimonos von Kaufleuten und Bürgern, die oft farbig gefärbte Baumwolle und Hanf trugen und so eine einzigartige soziale Schichtung durch Mode zeigten. Die Gesetze sollten die soziale Hierarchie aufrechterhalten und verhindern, dass die Kaufmannsklasse zu prunkvoll erschien.",
-      "fact_easy": "In Japan gab es früher Gesetze, die sagten, wer Seide tragen darf. Nur Samurai durften Seide tragen. Andere Leute trugen bunte Kleider aus Baumwolle.",
-      "category": "Fashion",
-      "source_title": "Sumptuary Laws in Edo Japan",
-      "source_url": "https://www.japanesegifts.co.uk/blogs/news/sumptuary-laws-in-edo-japan"
+      "fact_en": "The iconic red carpet, a symbol of luxury and prestige, originated from the 1902 play 'The Great Train Robbery.' In the play, ushers used a red carpet to guide theatergoers to their seats, and the tradition was later adopted by Hollywood for film premieres.",
+      "fact_de": "Der ikonische rote Teppich, ein Symbol für Luxus und Prestige, stammt aus dem Theaterstück 'The Great Train Robbery' von 1902. In dem Stück benutzten Platzanweiser einen roten Teppich, um die Theaterbesucher zu ihren Plätzen zu leiten, und diese Tradition wurde später von Hollywood für Filmpremieren übernommen.",
+      "fact_easy": "Der rote Teppich ist sehr berühmt. Er kommt von einem alten Theaterstück. Später hat Hollywood ihn für Filmstarts benutzt.",
+      "category": "Traditions",
+      "source_title": "The Surprising Origin of the Red Carpet",
+      "source_url": "https://www.mentalfloss.com/article/548548/surprising-origin-red-carpet"
     },
     {
-      "fact_en": "The iconic 'Phrygian cap,' a conical, soft-felt hat with the tip bent forward, became a potent symbol of liberty during the French Revolution. It was previously associated with Phrygia in ancient Anatolia and was worn by freed slaves in Greece and Rome, thus carrying ancient connotations of emancipation and republicanism that resonated deeply with revolutionary ideals.",
-      "fact_de": "Die ikonische 'Phrygische Mütze', ein konischer, weicher Filzhut mit nach vorne gebogener Spitze, wurde während der Französischen Revolution zu einem mächtigen Symbol der Freiheit. Sie wurde zuvor mit Phrygien im antiken Anatolien in Verbindung gebracht und von befreiten Sklaven in Griechenland und Rom getragen, wodurch sie alte Konnotationen von Emanzipation und Republikanismus trug, die tief mit revolutionären Idealen in Einklang standen.",
-      "fact_easy": "Die 'Phrygische Mütze' ist ein Hut. Er wurde ein wichtiges Zeichen für Freiheit in der Französischen Revolution. Der Hut erinnerte an befreite Sklaven.",
-      "category": "Politics",
-      "source_title": "The Phrygian Cap: A Symbol of Liberty",
-      "source_url": "https://www.loc.gov/exhibitions/french-revolution-revolution-in-print/resources/the-phrygian-cap-a-symbol-of-liberty/"
+      "fact_en": "In ancient Rome, purple dye was so expensive and difficult to produce, made from thousands of sea snails, that only the emperor and the highest officials could afford to wear it. Wearing purple was a sign of immense wealth and power, and unauthorized use was punishable by death.",
+      "fact_de": "Im antiken Rom war der Purpurfarbstoff so teuer und schwierig herzustellen, gewonnen aus Tausenden von Meeresschnecken, dass nur der Kaiser und die höchsten Beamten ihn sich leisten konnten. Das Tragen von Purpur war ein Zeichen von immensem Reichtum und Macht, und unerlaubte Nutzung wurde mit dem Tod bestraft.",
+      "fact_easy": "Purpur war im alten Rom sehr teuer. Nur der Kaiser und wichtige Leute konnten ihn tragen. Er kam von Schnecken. Das war ein Zeichen von viel Geld.",
+      "category": "Fashion",
+      "source_title": "Tyrian Purple - Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Tyrian_purple"
     }
   ],
   "frankfurt": {
@@ -400,145 +312,84 @@
       {
         "type": "Events",
         "emoji": "🎪",
-        "headline_en": "Airlines Reroute Through Russia; Berlin Prepares for Advent Concerts; ECB Faces Interest Rate Dilemma",
-        "headline_de": "Fluglinien umleiten über Russland; Berlin bereitet sich auf Adventskonzerte vor; EZB steht vor Zinsentscheidungs-Dilemma",
-        "headline_easy": "Flugzeuge fliegen wieder über Russland. Berlin hat schöne Konzerte im Advent. Die EZB muss eine wichtige Entscheidung treffen.",
-        "summary_en": "Eva Air and China Airlines are now flying through Russian airspace to Europe again after several years, though the situation that prompted this change is evolving. Meanwhile, Berlin's opera houses and orchestras are preparing their Advent programs, offering a mix of classics and unique performances. The European Central Bank (ECB) faces a difficult decision on interest rates, balancing inflation concerns with the situation in the French bond market.",
-        "summary_de": "Eva Air und China Airlines fliegen nach mehreren Jahren wieder über den russischen Luftraum nach Europa, während sich die Umstände ändern. Gleichzeitig bereiten sich die Berliner Opernhäuser und Orchester auf ihre Adventsprogramme vor, die Klassiker und Besonderheiten bieten. Die Europäische Zentralbank (EZB) steht vor einer schwierigen Zinsentscheidung, die Inflation und Turbulenzen am französischen Anleihemarkt abwägen muss.",
-        "summary_easy": "Zwei Fluglinien fliegen wieder über Russland. Berlin hat viele Konzerte im Advent. Die EZB muss über Zinsen entscheiden. Das ist schwierig wegen der Inflation und Frankreich.",
+        "headline_en": "Amazon Launches Same-Day Grocery Delivery in Frankfurt",
+        "headline_de": "Amazon startet Same-Day-Lieferung für frische Lebensmittel in Frankfurt",
+        "headline_easy": "Amazon liefert jetzt Lebensmittel am selben Tag in Frankfurt.",
+        "summary_en": "Amazon is expanding its delivery services in Germany by offering same-day delivery for fresh groceries in select Frankfurt postal code areas. This new service aims to provide convenient and fast access to fresh food for residents.",
+        "summary_de": "Amazon erweitert sein Lieferangebot in Deutschland und bietet nun die Lieferung von frischen Lebensmitteln am selben Tag in ausgewählten Frankfurter Postleitzahlengebieten an. Dieser neue Service soll den Anwohnern einen bequemen und schnellen Zugang zu frischen Lebensmitteln ermöglichen.",
+        "summary_easy": "Amazon hat ein neues Angebot. Man kann jetzt frische Lebensmittel am selben Tag bekommen. Das geht in einigen Teilen von Frankfurt.",
         "links": [
           {
-            "title": "Nach mehreren Jahren ändern Eva Air und China Airlines ihre Routen und fliegen wieder über Russland nach Europa",
-            "url": "https://www.focus.de/reisen/flug/nach-mehreren-jahren-aendern-eva-air-und-china-airlines-ihre-routen-und-fliegen-wieder-ueber-russland-nach-europa_e7520613-fbe8-44f5-9ad3-9cfff895507a.html"
+            "title": "Amazon: Frische Lebensmittel per Same-Day-Lieferung in ersten deutschen Städten",
+            "url": "https://stadt-bremerhaven.de/amazon-frische-lebensmittel-per-same-day-lieferung-in-ersten-deutschen-staedten/"
           },
           {
-            "title": "Wo es jetzt schon lohnt, Karten zu kaufen: Das bieten die Berliner Orchester und Opernhäuser im Advent",
-            "url": "https://www.tagesspiegel.de/themenspeziale/unterwegsundfreizeit/wo-es-jetzt-schon-lohnt-karten-zu-kaufen-das-bieten-die-berliner-orchester-und-opernhauser-im-advent-16139643.html"
+            "title": "Strato down? Nutzer melden am Freitag massive Probleme - das ist bisher bekannt",
+            "url": "https://www.netzwelt.de/ist-down/260158-strato-down-nutzer-melden-freitag-massive-probleme-bisher-bekannt.html"
           }
         ]
       },
       {
         "type": "Crime",
         "emoji": "🚔",
-        "headline_en": "ECB Chief Lagarde to Resign; Blood Reserves Low in Hesse; Green Party Member Leaves",
-        "headline_de": "EZB-Chefin Lagarde tritt zurück; Blutreserven in Hessen knapp; Grünen-Mitglied verlässt Partei",
-        "headline_easy": "Die Chefin der EZB tritt zurück. Es gibt nicht genug Blut in Hessen. Ein Politiker verlässt die Grünen.",
-        "summary_en": "Christine Lagarde, the head of the European Central Bank, is reportedly planning to resign from her post on February 7, 2027. In local news, blood reserves in Hesse are critically low, while Vodafone services are being restored in Bad Vilbel and Frankfurt. Additionally, a long-time Green Party member in Frankfurt, Uwe Paulsen, is leaving the party due to sharp criticism of its leadership.",
-        "summary_de": "Berichten zufolge wird Christine Lagarde, die Chefin der Europäischen Zentralbank, ihr Amt am 7. Februar 2027 vorzeitig niederlegen. Lokal gibt es in Hessen einen Mangel an Blutreserven, während Vodafone-Dienste in Bad Vilbel und Frankfurt wieder verfügbar sind. Zudem verlässt der langjährige Frankfurter Grünen-Politiker Uwe Paulsen die Partei wegen scharfer Kritik am Führungsstil.",
-        "summary_easy": "Christine Lagarde gibt ihren Job als Chefin der EZB im Jahr 2027 auf. In Hessen gibt es zu wenig Blut. Ein Politiker verlässt die Grünen in Frankfurt. Er ist sauer auf die Parteiführung.",
+        "headline_en": "Frankfurt Youth Discuss Changes Over 20 Years, Protests Planned",
+        "headline_de": "Frankfurter Jugend diskutiert Veränderungen der letzten 20 Jahre, Proteste geplant",
+        "headline_easy": "Junge Leute in Frankfurt sprechen über ihr Leben. Sie wollen protestieren.",
+        "summary_en": "Young people in Frankfurt are set to protest this weekend, prompting a look at how their lives have changed over the past two decades. The discussion covers evolving concerns and experiences of Generation Z in the city.",
+        "summary_de": "Vertreter der Generation Z wollen an diesem Wochenende in Frankfurt protestieren. Der Artikel beleuchtet, wie sich das Leben junger Menschen in den letzten 20 Jahren verändert hat und welche Sorgen gleich geblieben sind.",
+        "summary_easy": "Junge Leute in Frankfurt wollen demonstrieren. Der Artikel erklärt, wie sich das Leben für junge Leute geändert hat. Manche Probleme sind gleich geblieben.",
         "links": [
           {
-            "title": "Christine Lagarde - Chefin von Europäischer Zentralbank tritt zurück",
-            "url": "https://www.bild.de/politik/christine-lagarde-chefin-von-europaeischer-zentralbank-tritt-zurueck-6ae31aa4ec13b5a805f8ac72"
+            "title": "Jugend in Frankfurt: War früher alles besser?",
+            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/so-hat-sich-das-leben-junger-menschen-in-frankfurt-veraendert-accg-201626566.html"
           },
           {
-            "title": "Rhein-Main-Liveblog: In Hessen werden die Blutreserven knapp",
-            "url": "https://www.faz.net/aktuell/rhein-main/in-hessen-werden-die-blutreserven-knapp-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
+            "title": "Er ist erst 15 Jahre alt - Sehen wir Sonntag das größte Talent der Bundesliga?",
+            "url": "https://www.bild.de/sport/fussball/bundesliga-mega-talent-15-koennte-am-sonntag-debuetieren-6ae3d5c1aacefa08f5b98ba2"
           }
         ]
       },
       {
         "type": "Sales & Offers",
         "emoji": "🛍️",
-        "headline_en": "ECB Chief Lagarde to Resign; Blood Reserves Low in Hesse; Green Party Member Leaves",
-        "headline_de": "EZB-Chefin Lagarde tritt zurück; Blutreserven in Hessen knapp; Grünen-Mitglied verlässt Partei",
-        "headline_easy": "Die Chefin der EZB tritt zurück. Es gibt nicht genug Blut in Hessen. Ein Politiker verlässt die Grünen.",
-        "summary_en": "Christine Lagarde, the head of the European Central Bank, is reportedly planning to resign from her post on February 7, 2027. In local news, blood reserves in Hesse are critically low, while Vodafone services are being restored in Bad Vilbel and Frankfurt. Additionally, a long-time Green Party member in Frankfurt, Uwe Paulsen, is leaving the party due to sharp criticism of its leadership.",
-        "summary_de": "Berichten zufolge wird Christine Lagarde, die Chefin der Europäischen Zentralbank, ihr Amt am 7. Februar 2027 vorzeitig niederlegen. Lokal gibt es in Hessen einen Mangel an Blutreserven, während Vodafone-Dienste in Bad Vilbel und Frankfurt wieder verfügbar sind. Zudem verlässt der langjährige Frankfurter Grünen-Politiker Uwe Paulsen die Partei wegen scharfer Kritik am Führungsstil.",
-        "summary_easy": "Christine Lagarde gibt ihren Job als Chefin der EZB im Jahr 2027 auf. In Hessen gibt es zu wenig Blut. Ein Politiker verlässt die Grünen in Frankfurt. Er ist sauer auf die Parteiführung.",
+        "headline_en": "Frankfurt Youth Discuss Generational Changes; Potential Bundesliga Star Debuts",
+        "headline_de": "Frankfurter Jugend diskutiert Generationenwandel; Möglicher Bundesliga-Star feiert Debüt",
+        "headline_easy": "Junge Leute in Frankfurt sprechen über ihr Leben. Ein junger Fußballer könnte debütieren.",
+        "summary_en": "This section touches upon the evolving lives of young people in Frankfurt and their concerns, with Generation Z planning protests. Separately, a 15-year-old is poised to make his Bundesliga debut, potentially becoming a significant talent.",
+        "summary_de": "Die Lebenswirklichkeit junger Menschen in Frankfurt und ihre Sorgen werden thematisiert, während die Generation Z Proteste plant. Parallel dazu steht ein 15-Jähriger kurz vor seinem Bundesliga-Debüt, was auf ein großes Talent hindeuten könnte.",
+        "summary_easy": "Junge Leute in Frankfurt reden über ihr Leben. Sie wollen protestieren. Ein sehr junger Fußballer soll bald spielen.",
         "links": [
           {
-            "title": "Christine Lagarde - Chefin von Europäischer Zentralbank tritt zurück",
-            "url": "https://www.bild.de/politik/christine-lagarde-chefin-von-europaeischer-zentralbank-tritt-zurueck-6ae31aa4ec13b5a805f8ac72"
+            "title": "Jugend in Frankfurt: War früher alles besser?",
+            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/so-hat-sich-das-leben-junger-menschen-in-frankfurt-veraendert-accg-201626566.html"
           },
           {
-            "title": "Rhein-Main-Liveblog: In Hessen werden die Blutreserven knapp",
-            "url": "https://www.faz.net/aktuell/rhein-main/in-hessen-werden-die-blutreserven-knapp-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
+            "title": "Er ist erst 15 Jahre alt - Sehen wir Sonntag das größte Talent der Bundesliga?",
+            "url": "https://www.bild.de/sport/fussball/bundesliga-mega-talent-15-koennte-am-sonntag-debuetieren-6ae3d5c1aacefa08f5b98ba2"
           }
         ]
       },
       {
         "type": "Local News",
         "emoji": "📍",
-        "headline_en": "ECB Chief Lagarde to Resign; Blood Reserves Low in Hesse; Green Party Member Leaves",
-        "headline_de": "EZB-Chefin Lagarde tritt zurück; Blutreserven in Hessen knapp; Grünen-Mitglied verlässt Partei",
-        "headline_easy": "Die Chefin der EZB tritt zurück. Es gibt nicht genug Blut in Hessen. Ein Politiker verlässt die Grünen.",
-        "summary_en": "Christine Lagarde, the head of the European Central Bank, is reportedly planning to resign from her post on February 7, 2027. In local news, blood reserves in Hesse are critically low, while Vodafone services are being restored in Bad Vilbel and Frankfurt. Additionally, a long-time Green Party member in Frankfurt, Uwe Paulsen, is leaving the party due to sharp criticism of its leadership.",
-        "summary_de": "Berichten zufolge wird Christine Lagarde, die Chefin der Europäischen Zentralbank, ihr Amt am 7. Februar 2027 vorzeitig niederlegen. Lokal gibt es in Hessen einen Mangel an Blutreserven, während Vodafone-Dienste in Bad Vilbel und Frankfurt wieder verfügbar sind. Zudem verlässt der langjährige Frankfurter Grünen-Politiker Uwe Paulsen die Partei wegen scharfer Kritik am Führungsstil.",
-        "summary_easy": "Christine Lagarde gibt ihren Job als Chefin der EZB im Jahr 2027 auf. In Hessen gibt es zu wenig Blut. Ein Politiker verlässt die Grünen in Frankfurt. Er ist sauer auf die Parteiführung.",
+        "headline_en": "Frankfurt's Youth Reflect on Changes; Potential Bundesliga Star Emerges",
+        "headline_de": "Frankfurter Jugend blickt auf Veränderungen; Möglicher Bundesliga-Star taucht auf",
+        "headline_easy": "Junge Leute in Frankfurt denken über ihr Leben nach. Ein junger Fußballer könnte bald spielen.",
+        "summary_en": "A discussion on how life for young people in Frankfurt has evolved over the last 20 years is highlighted, with Generation Z planning protests. The news also features a highly talented 15-year-old footballer who is expected to make his Bundesliga debut.",
+        "summary_de": "Es wird thematisiert, wie sich das Leben junger Menschen in Frankfurt in den letzten 20 Jahren verändert hat, während die Generation Z Proteste plant. Zudem wird ein sehr talentierter 15-jähriger Fußballer vorgestellt, der sein Bundesliga-Debüt geben soll.",
+        "summary_easy": "Junge Leute in Frankfurt reden über die letzten 20 Jahre. Sie wollen protestieren. Ein junger Fußballer ist sehr gut und wird vielleicht bald spielen.",
         "links": [
           {
-            "title": "Christine Lagarde - Chefin von Europäischer Zentralbank tritt zurück",
-            "url": "https://www.bild.de/politik/christine-lagarde-chefin-von-europaeischer-zentralbank-tritt-zurueck-6ae31aa4ec13b5a805f8ac72"
+            "title": "Jugend in Frankfurt: War früher alles besser?",
+            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/so-hat-sich-das-leben-junger-menschen-in-frankfurt-veraendert-accg-201626566.html"
           },
           {
-            "title": "Rhein-Main-Liveblog: In Hessen werden die Blutreserven knapp",
-            "url": "https://www.faz.net/aktuell/rhein-main/in-hessen-werden-die-blutreserven-knapp-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
+            "title": "Er ist erst 15 Jahre alt - Sehen wir Sonntag das größte Talent der Bundesliga?",
+            "url": "https://www.bild.de/sport/fussball/bundesliga-mega-talent-15-koennte-am-sonntag-debuetieren-6ae3d5c1aacefa08f5b98ba2"
           }
         ]
       }
     ]
   },
-  "dresden": [
-    {
-      "price": "350 €",
-      "address": "An der Gasanstalt 10, 01277 Dresden",
-      "district": "Seidnitz",
-      "size": "35 m²",
-      "rooms": "1.5",
-      "title": "Schöne 1,5 Zimmer Wohnung in ruhiger Lage",
-      "url": "https://www.immowelt.de/expose/2AZH65H",
-      "source": "Immowelt.de"
-    },
-    {
-      "price": "390 €",
-      "address": "Cunnersdorfer Straße 7, 01277 Dresden",
-      "district": "Seidnitz",
-      "size": "40 m²",
-      "rooms": "1.5",
-      "title": "Helle 1,5 Raum Wohnung mit Balkon",
-      "url": "https://www.immowelt.de/expose/2AZH67P",
-      "source": "Immowelt.de"
-    },
-    {
-      "price": "410 €",
-      "address": "Breitscheidstraße 13, 01156 Dresden",
-      "district": "Cossebaude",
-      "size": "45 m²",
-      "rooms": "2",
-      "title": "Gemütliche 2-Zimmer Wohnung in ruhiger Umgebung",
-      "url": "https://www.immowelt.de/expose/2AZH5S5",
-      "source": "Immowelt.de"
-    },
-    {
-      "price": "420 €",
-      "address": "Gleisschleife 5, 01189 Dresden",
-      "district": "Gittersee",
-      "size": "42 m²",
-      "rooms": "1.5",
-      "title": "Moderne 1,5 Zimmer Wohnung mit guter Anbindung",
-      "url": "https://www.immowelt.de/expose/2AZH69N",
-      "source": "Immowelt.de"
-    },
-    {
-      "price": "430 €",
-      "address": "Hofmannstraße 23, 01189 Dresden",
-      "district": "Gittersee",
-      "size": "48 m²",
-      "rooms": "2",
-      "title": "Zweigeschossige 2-Zimmer Wohnung im Souterrain",
-      "url": "https://www.immowelt.de/expose/2AZH69T",
-      "source": "Immowelt.de"
-    },
-    {
-      "price": "440 €",
-      "address": "Schleinitzstraße 1, 01157 Dresden",
-      "district": "Gorbitz",
-      "size": "46 m²",
-      "rooms": "2",
-      "title": "Helle 2-Zimmer Wohnung in Gorbitz",
-      "url": "https://www.immowelt.de/expose/2AZH6A1",
-      "source": "Immowelt.de"
-    }
-  ]
+  "dresden": []
 }
