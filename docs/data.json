@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, October 31 2026",
+  "date": "Sunday, November 01 2026",
   "sections": [
     {
       "category": "Germany",
@@ -8,52 +8,40 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Scientists Explore Fundamental Physics and Cultural Partnership Debates",
-          "headline_de": "Wissenschaftler erforschen Grundlagenphysik und debattieren kulturelle Partnerschaften",
-          "headline_easy": "Forscher finden neue Teilchen. Ein Experte spricht über die USA und Europa.",
-          "summary_en": "Recent scientific endeavors at the LHC include observations of electroweak production of Z boson pairs and the first search for quirks. Concurrently, discussions highlight that an EU 'partnership' may not resolve issues with the U.S., suggesting a need for different strategies.",
-          "summary_de": "Jüngste wissenschaftliche Bemühungen am LHC umfassen Beobachtungen der elektroschwachen Produktion von Z-Bosonen-Paaren und die erste Suche nach Quirks. Gleichzeitig wird diskutiert, dass eine EU-„Partnerschaft“ Probleme mit den USA möglicherweise nicht löst und andere Strategien erfordert.",
-          "summary_easy": "Forscher haben neue Teilchen am CERN gefunden. Ein Experte denkt, dass Europa und die USA andere Wege finden müssen, um gut zusammenzuarbeiten.",
+          "headline_en": "Volkswagen's Golf EV Development Halted Due to Affordability Issues; German Left Expresses Concern Over Pro-Palestine Allies; Poland's Judicial Actions Eyed for European Order Impact",
+          "headline_de": "VW Golf EV Entwicklung wegen Erschwinglichkeitsproblemen gestoppt; deutsche Linke äußert Bedenken wegen pro-palästinensischer Verbündeter; Polens Gerichtsentscheidungen für europäische Ordnung im Fokus",
+          "headline_easy": "VW kann Golf EV nicht bauen. Deutsche Linke hat Angst vor neuen Freunden. Polens Gericht ändert Europa.",
+          "summary_en": "Volkswagen has reportedly halted development of its Golf EV, citing financial constraints. Meanwhile, internal discussions within Germany's Left party reveal anxieties about their new pro-Palestine allies. In broader European affairs, Poland's judicial actions are seen as potentially shaping the post-war European order.",
+          "summary_de": "Volkswagen hat die Entwicklung seines Golf EV Berichten zufolge aus finanziellen Gründen gestoppt. Gleichzeitig zeigen interne Diskussionen in der deutschen Linken Ängste vor neuen pro-palästinensischen Verbündeten. In europäischen Angelegenheiten werden Polens Gerichtsentscheidungen als mögliche Weichenstellung für die Nachkriegsordnung angesehen.",
+          "summary_easy": "VW kann das Auto Golf EV nicht mehr bauen. Grund sind die Kosten. In Deutschland haben Politiker Angst vor neuen Freunden. Was in Polen passiert, kann Europa verändern.",
           "links": [
             {
-              "title": "Observation of Electroweak Production of Pairs of $Z$ Bosons in Proton-Proton Collisions at 13 TeV",
-              "url": "https://link.aps.org/doi/10.1103/jydv-n2js"
+              "title": "Golf EV on ice as Volkswagen \"simply cannot afford\" development",
+              "url": "https://www.autocar.co.uk/car-news/new-cars/golf-ev-ice-volkswagen-simply-cannot-afford-development"
             },
             {
-              "title": "Jack Mintz: EU ‘partnership’ is not the answer to our U.S. problems",
-              "url": "https://financialpost.com/opinion/jack-mintz-eu-partnership-is-not-the-answer-to-our-u-s-problems"
+              "title": "German Left Admit in Private They Are Afraid of Their New Pro-Palestine Allies",
+              "url": "https://www.breitbart.com/europe/2026/10/31/in-private-germanys-left-admit-theyre-afraid-of-their-pro-palestine-allies/"
             }
           ]
         },
         {
-          "type": "Business",
-          "emoji": "💼",
-          "headline_en": "European Automakers Boost Earnings Amidst Chinese Competition",
-          "headline_de": "Europäische Autohersteller steigern Gewinne trotz chinesischer Konkurrenz",
-          "headline_easy": "Autos aus Europa verkaufen sich gut. Aber Autos aus China sind billiger.",
-          "summary_en": "European automakers are experiencing an earnings boost, though their recovery is being weighed down by increased competition from Chinese manufacturers. This dynamic is playing out in the global market, influencing regional business strategies.",
-          "summary_de": "Europäische Autohersteller verzeichnen Gewinnsteigerungen, ihre Erholung wird jedoch durch verstärkten Wettbewerb aus China beeinträchtigt. Diese Dynamik spielt sich auf dem globalen Markt ab und beeinflusst regionale Geschäftsstrategien.",
-          "summary_easy": "Firmen, die Autos in Europa bauen, verdienen mehr Geld. Aber sie haben mehr Konkurrenz von Firmen aus China.",
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "European Markets Mixed Following Economic Data; Vontobel Co-CEO Shares Insights; Russia's Role as Disruptor Discussed",
+          "headline_de": "Europäische Märkte gemischt nach Wirtschaftsdaten; Vontobel Co-CEO teilt Einblicke; Russlands Rolle als Störfaktor diskutiert",
+          "headline_easy": "Börsen in Europa gehen rauf und runter. Ein Chef von Vontobel spricht. Russland ist ein Problem.",
+          "summary_en": "European stock markets experienced mixed performance following the release of economic data. In financial news, Vontobel's Co-CEO, Christel Rendu, shared insights on regulation and pragmatism. The geopolitical landscape is also highlighted with a discussion on Russia's role as a global disruptor.",
+          "summary_de": "Europäische Börsen zeigten nach Veröffentlichung von Wirtschaftsdaten eine gemischte Performance. Im Finanzbereich teilte die Co-CEO von Vontobel, Christel Rendu, Einblicke in Regulierung und Pragmatismus. Die geopolitische Landschaft wird ebenfalls mit einer Diskussion über Russlands Rolle als globaler Störfaktor hervorgehoben.",
+          "summary_easy": "Die Börsen in Europa waren heute unterschiedlich. Ein wichtiger Manager hat etwas Neues gesagt. Russland stört die Welt.",
           "links": [
             {
-              "title": "Global Market: European automakers get earnings boost as Chinese competition weighs on recovery",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-european-automakers-get-earnings-boost-as-chinese-competition-weighs-on-recovery/articleshow/135352780.cms"
-            }
-          ]
-        },
-        {
-          "type": "War",
-          "emoji": "⚔️",
-          "headline_en": "Global Strikes and EU-US Relations Under Scrutiny Amidst Gaza Conflict",
-          "headline_de": "Globale Streiks und EU-US-Beziehungen unter der Lupe im Gazakonflikt",
-          "headline_easy": "Streiks könnten Gaza helfen. Ein Experte meint, die USA und Europa müssen anders reden.",
-          "summary_en": "The potential impact of global dockworker strikes on the situation in Gaza is being examined. Meanwhile, a prominent opinion piece argues that an EU 'partnership' is not the solution to U.S. challenges, suggesting a need for revised diplomatic approaches.",
-          "summary_de": "Der potenzielle Einfluss globaler Hafenarbeiterstreiks auf die Lage in Gaza wird untersucht. Gleichzeitig argumentiert ein prominenter Meinungsartikel, dass eine EU-„Partnerschaft“ keine Lösung für Herausforderungen mit den USA darstellt und überarbeitete diplomatische Ansätze erfordert.",
-          "summary_easy": "Leute streiken weltweit, um Gaza zu helfen. Ein Artikel sagt, dass Europa und die USA nicht auf die gleiche Weise zusammenarbeiten können.",
-          "links": [
+              "title": "Vontobel: Insights from Co-CEO Christel Rendu",
+              "url": "https://www.swissinfo.ch/eng/finance-banking/regulation-must-be-proportionate-predictable-stable-and-pragmatic/92261260"
+            },
             {
-              "title": "What can a global strike of dockworkers achieve for Gaza?",
-              "url": "https://www.aljazeera.com/features/2026/10/30/what-can-a-global-strike-of-dockworkers-achieve-for-gaza"
+              "title": "Russia the Disruptor",
+              "url": "http://foreignpolicy.com/2026/10/30/russia-war-ukraine-books-us-history-kinzer-haslam-notte/"
             }
           ]
         }
@@ -66,64 +54,36 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Energy Discovery and Global Labor Actions Shape European Discourse",
-          "headline_de": "Energieentdeckung und globale Arbeitsaktionen prägen die europäische Debatte",
-          "headline_easy": "Ein neues Gasfeld wurde gefunden. Hafenarbeiter streiken weltweit.",
-          "summary_en": "Equinor has doubled its estimate for the Afrodite gas discovery, signaling potential energy shifts. Meanwhile, global dockworker strikes are being discussed for their potential impact, and expert opinion questions the efficacy of EU 'partnerships' in resolving U.S. issues.",
-          "summary_de": "Equinor hat seine Schätzung für die Gasentdeckung Afrodite verdoppelt, was auf potenzielle Energieverschiebungen hindeutet. Unterdessen werden globale Hafenarbeiterstreiks hinsichtlich ihrer potenziellen Auswirkungen diskutiert, und Expertenmeinungen hinterfragen die Wirksamkeit von EU-„Partnerschaften“ bei der Lösung von US-Problemen.",
-          "summary_easy": "Eine Firma hat mehr Gas gefunden. Arbeiter auf Schiffen streiken überall auf der Welt. Das könnte helfen, über Gaza zu sprechen.",
+          "headline_en": "German Left Expresses Private Fears Over Pro-Palestine Allies; Europe Faces Scrutiny on Data Protection Fines; Milan Football Player Honors Kaká",
+          "headline_de": "Deutsche Linke äußert private Ängste wegen pro-palästinensischer Verbündeter; Europa wird wegen Bußgeldern für Datenschutz geprüft; Mailänder Fußballspieler ehrt Kaká",
+          "headline_easy": "Deutsche Linke hat Angst vor neuen Freunden. Europa hat Probleme mit Geldstrafen für Daten. Ein Fußballer in Mailand mag Kaká.",
+          "summary_en": "Germany's Left party privately admits to fears concerning their new pro-Palestine allies. Europe's approach to data protection fines is under examination. In sports, a Milan player expresses honor in wearing a legendary jersey.",
+          "summary_de": "Die deutsche Linke gibt privat zu, Ängste bezüglich ihrer neuen pro-palästinensischen Verbündeten zu haben. Europas Vorgehen bei Bußgeldern für Datenschutz wird untersucht. Im Sport äußert ein Mailänder Spieler die Ehre, ein legendäres Trikot zu tragen.",
+          "summary_easy": "Politiker in Deutschland haben Angst vor neuen Freunden. Europa bekommt Fragen wegen Geldstrafen für Daten. Ein Fußballer ist stolz auf seine Nummer.",
           "links": [
             {
-              "title": "Equinor Doubles Estimate for Afrodite Gas Discovery",
-              "url": "https://www.rigzone.com/news/equinor_doubles_estimate_for_afrodite_gas_discovery-30-oct-2026-184971-article/"
-            }
-          ]
-        },
-        {
-          "type": "War",
-          "emoji": "⚔️",
-          "headline_en": "Energy Developments and Global Strikes Intersect with Geopolitical Concerns",
-          "headline_de": "Energieentwicklungen und globale Streiks überschneiden sich mit geopolitischen Bedenken",
-          "headline_easy": "Mehr Gas gefunden. Streiks weltweit für Gaza. Firmen antworten auf Budgets.",
-          "summary_en": "Significant gas discoveries are being reported, alongside analysis of potential global labor actions, particularly dockworker strikes concerning Gaza. In parallel, corporate responses to national budgets, such as Ineos' reaction to the UK Budget, are also being noted.",
-          "summary_de": "Bedeutende Gasfunde werden berichtet, zusammen mit Analysen potenzieller globaler Arbeitsaktionen, insbesondere Hafenarbeiterstreiks im Zusammenhang mit Gaza. Parallel dazu werden Unternehmensreaktionen auf nationale Budgets, wie die Reaktion von Ineos auf das britische Budget, ebenfalls zur Kenntnis genommen.",
-          "summary_easy": "Eine Firma fand mehr Gas. Arbeiter streiken für Gaza. Firmen äußern sich zu neuen Geldplänen der Regierung.",
-          "links": [
-            {
-              "title": "Ineos Responds to UK Budget",
-              "url": "https://www.rigzone.com/news/ineos_responds_to_uk_budget-30-oct-2026-184972-article/"
+              "title": "Europe Data Protection Fines Per Capita",
+              "url": "https://www.legiscope.com/blog/europe-data-protection-fines-per-capita.html"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "European Markets Mixed as Earnings and CPI Data Take Center Stage",
-          "headline_de": "Europäische Märkte uneinheitlich, Gewinne und CPI-Daten im Fokus",
-          "headline_easy": "Die Börsen in Europa sind gemischt. Es gibt wichtige Nachrichten über Firmen und Preise.",
-          "summary_en": "European markets are showing mixed performance, with investor focus primarily on upcoming earnings reports and Consumer Price Index (CPI) data. This economic backdrop influences market sentiment and trading strategies across the continent.",
-          "summary_de": "Europäische Märkte zeigen eine uneinheitliche Performance, wobei der Fokus der Anleger hauptsächlich auf bevorstehenden Gewinnberichten und Daten zum Verbraucherpreisindex (VPI) liegt. Dieser wirtschaftliche Hintergrund beeinflusst die Marktstimmung und Handelsstrategien auf dem gesamten Kontinent.",
-          "summary_easy": "Die Aktienmärkte in Europa sind heute nicht einheitlich. Die Leute achten auf die Zahlen von Firmen und auf die Preise von Waren.",
+          "headline_en": "Russia's Space Nuke Capability Raises Global Security Concerns; Oil Company Profits Surge; Binance Hack Leads to $6.3bn Loss",
+          "headline_de": "Russlands Weltraum-Nuklearwaffe wirft globale Sicherheitsbedenken auf; Gewinne von Ölkonzernen steigen stark; Binance-Hack führt zu Verlust von 6,3 Mrd. Dollar",
+          "headline_easy": "Russland hat eine neue Waffe im Weltraum. Das ist gefährlich. Öl-Firmen machen viel Geld. Eine Hacker-Attacke kostet 6,3 Milliarden Dollar.",
+          "summary_en": "Reports indicate Russia is developing a space-based nuclear weapon with devastating global potential. Meanwhile, oil companies are experiencing record-high profits. In the tech and finance sector, a major hack of Binance has resulted in a loss of $6.3 billion.",
+          "summary_de": "Berichten zufolge entwickelt Russland eine nukleare Waffe im Weltraum mit verheerendem globalem Potenzial. Unterdessen verzeichnen Ölkonzerne Rekordgewinne. Im Technologie- und Finanzsektor hat ein großer Hack von Binance zu einem Verlust von 6,3 Milliarden Dollar geführt.",
+          "summary_easy": "Russland entwickelt eine gefährliche Waffe im Weltraum. Öl-Firmen verdienen sehr viel Geld. Eine Hacker-Attacke auf Binance ist passiert und hat viel Geld gekostet.",
           "links": [
             {
-              "title": "Europe opens mixed with earnings, CPI data in focus",
-              "url": "https://biztoc.com/x/4ebe80df0bf186a9"
-            }
-          ]
-        },
-        {
-          "type": "Technology",
-          "emoji": "💻",
-          "headline_en": "Technological Innovations and Corporate Responses Amidst Global Events",
-          "headline_de": "Technologische Innovationen und Unternehmensreaktionen inmitten globaler Ereignisse",
-          "headline_easy": "Neue Brillen mit Computer. Eine Firma reagiert auf das Budget. Gas wurde gefunden.",
-          "summary_en": "Innovations in wearable technology, such as Linux PCs in AR glasses, are emerging. Companies are also reacting to economic policies, like Ineos responding to the UK Budget, and significant discoveries in the energy sector are being reported.",
-          "summary_de": "Innovationen im Bereich tragbarer Technologie, wie z. B. Linux-PCs in AR-Brillen, entstehen. Unternehmen reagieren auch auf Wirtschaftspolitik, wie Ineos, das auf das britische Budget reagiert, und bedeutende Entdeckungen im Energiesektor werden gemeldet.",
-          "summary_easy": "Es gibt neue Brillen, die wie ein Computer sind. Eine Firma spricht über das neue Budget der Regierung. Eine andere Firma hat mehr Gas gefunden.",
-          "links": [
+              "title": "Russia is developing doomsday space nuke capable of destroying thousands of satellites at once, with devastating global effect",
+              "url": "https://www.dailymail.co.uk/news/article-16251669/russia-nuclear-weapons-space-putin-pentagon-report.html"
+            },
             {
-              "title": "Is Sir Tom Jones still alive? Why has the veteran singer postponed US leg of his world tour in Los Angeles and San Diego?",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/is-sir-tom-jones-still-alive-why-has-the-veteran-singer-postponed-us-leg-of-his-world-tour-in-los-angeles-and-san-diego/articleshow/135355399.cms"
+              "title": "Oil company earnings skyrocket — again",
+              "url": "https://www.npr.org/2026/10/31/nx-s1-6008072/oil-company-profits-gasoline-diesel-prices"
             }
           ]
         }
@@ -136,40 +96,96 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Global Travel Mishaps, College Sports Diplomacy, and Wearable Tech",
-          "headline_de": "Globale Reisezwischenfälle, College-Sport-Diplomatie und Wearable-Technologie",
-          "headline_easy": "Leute sitzen in Kambodscha fest. College-Sport kommt nach Rom. Neue Brillen mit Computer.",
-          "summary_en": "A story unfolds of cruise ship passengers stranded in Cambodia, disrupting their dream lives. In a unique cultural exchange, college basketball is heading to Rome, facilitated by an 'American Pope'. Meanwhile, advancements in wearable technology include AR glasses with integrated Linux PCs.",
-          "summary_de": "Eine Geschichte entfaltet sich über Kreuzfahrtschiffpassagiere, die in Kambodscha gestrandet sind und ihre Lebensträume gestört sehen. In einem einzigartigen Kulturaustausch kommt College-Basketball dank eines „amerikanischen Papstes“ nach Rom. Parallel dazu umfassen Fortschritte in der Wearable-Technologie AR-Brillen mit integrierten Linux-PCs.",
-          "summary_easy": "Eine Gruppe Leute kann nicht von ihrem Schiff in Kambodscha herunter. Basketball-Spiele für Studenten finden in Rom statt. Es gibt neue Brillen, die wie ein Computer sind.",
+          "headline_en": "US Sports Viewership for Valkyries-Dream Game Hits 1.5 Million; FATF Intensifies Crackdown on Virtual Asset Crimes; Halloween Death of Houdini Recalled",
+          "headline_de": "US-Sportübertragung für Valkyries-Dream Game erreicht 1,5 Millionen Zuschauer; FATF verschärft Vorgehen gegen virtuelle Vermögensverbrechen; Halloweentod von Houdini erinnert",
+          "headline_easy": "1,5 Millionen Leute schauen Sport im TV. Geld-Betrug wird stärker bekämpft. Man erinnert sich an Houdinis Tod an Halloween.",
+          "summary_en": "US sports broadcasting saw a significant viewership of 1.5 million for the Valkyries-Dream Game. The Financial Action Task Force (FATF) is stepping up its global efforts against virtual asset crimes. A historical note marks the Halloween anniversary of Houdini's death.",
+          "summary_de": "Die US-Sportübertragung für das Valkyries-Dream Game verzeichnete eine beachtliche Zuschauerzahl von 1,5 Millionen. Die Financial Action Task Force (FATF) verstärkt ihre weltweiten Bemühungen gegen Verbrechen im Zusammenhang mit virtuellen Vermögenswerten. Eine historische Notiz markiert den Jahrestag von Houdinis Tod an Halloween.",
+          "summary_easy": "Viele Leute in den USA schauen Sport im Fernsehen. Die Polizei jagt Betrüger mit digitalem Geld. Man denkt an den berühmten Zauberer Houdini, der vor 100 Jahren an Halloween gestorben ist.",
           "links": [
             {
-              "title": "They made a cruise ship their home, then got kicked off in Cambodia. Now their dream life is on hold.",
-              "url": "https://www.businessinsider.com/villa-vie-residences-passengers-stranded-cambodia-what-next-reactions-2026-10#article"
+              "title": "USA Sports Delivers 1.5 Million Viewers for Valkyries-Dream Game 6 Thursday Matinee",
+              "url": "http://www.thefutoncritic.com/ratings/2026/10/31/usa-sports-delivers-15-million-viewers-for-valkyries-dream-game-6-thursday-matinee-83210/20261031usa01/"
             },
             {
-              "title": "An American pope, a text and a wild idea: How college basketball ended up in Rome",
-              "url": "https://www.usatoday.com/story/sports/ncaab/2026/10/30/villanova-notre-dame-college-basketball-rome-pope-leo-xiv-fox-sports/92482342007/"
+              "title": "FATF steps up global crackdown on virtual asset crimes, fraud and scam compounds",
+              "url": "https://www.thehindubusinessline.com/money-and-banking/fatf-steps-up-global-crackdown-on-virtual-asset-crimes-fraud-and-scam-compounds/article71649061.ece"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Michigan's Historic Railway Bridge Design Examined; Halloween Bat Viewing Opportunity in the Bay Area; Soccer Match Broadcast Details for Barcelona vs. Alaves",
+          "headline_de": "Historisches Eisenbahnbrückendesign in Michigan untersucht; Gelegenheit zur Fledermausbeobachtung an Halloween in der Bay Area; Übertragungsdetails für das Fußballspiel Barcelona gegen Alaves",
+          "headline_easy": "Eine alte Brücke in Michigan wird gezeigt. Man kann Fledermäuse sehen. Infos zum Fußballspiel Barcelona gegen Alaves.",
+          "summary_en": "A fascinating historical railway bridge in Michigan, featuring innovative designs, is highlighted. Residents in the Bay Area have an opportunity to observe bats up close during Halloween. Broadcast details for the La Liga soccer match between Barcelona and Alaves are provided.",
+          "summary_de": "Eine faszinierende historische Eisenbahnbrücke in Michigan mit innovativen Designs wird vorgestellt. Anwohner in der Bay Area haben die Gelegenheit, Fledermäuse zu Halloween aus nächster Nähe zu beobachten. Übertragungsdetails für das La Liga-Fußballspiel zwischen Barcelona und Alaves werden bereitgestellt.",
+          "summary_easy": "Eine alte Brücke in Michigan hat besondere Technik. Man kann an Halloween Fledermäuse sehen. Es gibt Informationen, wo man das Fußballspiel Barcelona gegen Alaves sehen kann.",
+          "links": [
+            {
+              "title": "In 1887, Michigan began building a railway bridge that could open in different ways for passing ships; three bridge designs worked together in one crossing",
+              "url": "https://economictimes.indiatimes.com/news/international/us/in-1887-michigan-began-building-a-railway-bridge-that-could-open-in-different-ways-for-passing-ships-three-bridge-designs-worked-together-in-one-crossing/articleshow/135346525.cms"
+            },
+            {
+              "title": "Halloween Treat: See the Bay Area’s Bats Up Close",
+              "url": "https://www.kqed.org/news/12107312/halloween-treat-see-the-bay-areas-bats-up-close"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Latino Voters in Texas Express Regret Over Trump Support; Sports Broadcast Details for Barcelona vs. Alaves; Bay Area Bats Highlighted for Halloween",
+          "headline_de": "Latino-Wähler in Texas äußern Bedauern über Trump-Unterstützung; Sportübertragungsdetails für Barcelona gegen Alaves; Fledermäuse in der Bay Area für Halloween hervorgehoben",
+          "headline_easy": "Wähler in Texas bereuen ihre Wahl von Trump. Infos zum Fußballspiel Barcelona gegen Alaves. Man kann Fledermäuse sehen.",
+          "summary_en": "Some Latino voters in Texas' Rio Grande Valley are reportedly regretting their past support for Donald Trump. Details on how to watch the Barcelona vs. Alaves soccer match are provided. Additionally, a Halloween-themed feature highlights bat sightings in the Bay Area.",
+          "summary_de": "Einige Latino-Wähler im Rio Grande Valley in Texas bereuen Berichten zufolge ihre frühere Unterstützung für Donald Trump. Details zur Übertragung des Fußballspiels Barcelona gegen Alaves werden bereitgestellt. Zusätzlich hebt eine Halloween-bezogene Vorstellung Fledermaussichtungen in der Bay Area hervor.",
+          "summary_easy": "Wähler in Texas sagen, sie haben Trump falsch gewählt. Man kann das Fußballspiel Barcelona gegen Alaves im Fernsehen sehen. An Halloween kann man Fledermäuse in der Nähe sehen.",
+          "links": [
+            {
+              "title": "‘Screwed Up’: Latino Voters In Texas’ Rio Grande Valley Regret Backing Trump In 2024",
+              "url": "https://www.huffpost.com/entry/latino-voters-texas-rio-grande-valley-trump-regret-voting-democratic_n_6ae386e8e4b09cd24b6cc1c4"
+            },
+            {
+              "title": "Where to watch Barcelona vs. Alaves live stream, TV channel, start time for La Liga match",
+              "url": "https://www.sportingnews.com/us/soccer/news/watch-barcelona-vs-alaves-live-stream-tv-channel-time-la-liga/c4bc451a14b47ea7d7b4df6b"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Political Spending, Market Tools, and Investment Advice",
-          "headline_de": "Politische Ausgaben, Marktinstrumente und Anlageberatung",
-          "headline_easy": "Politik gibt Geld aus. Man kann Börsen-Daten nutzen. Ein Experte gibt Rat zu Renten.",
-          "summary_en": "Reports detail political spending by organizations like AIPAC and the use of AI in midterm elections. Resources for building stock monitoring platforms using APIs are available. Additionally, advice is offered to retired individuals on their reliance on bank dividends in retirement accounts.",
-          "summary_de": "Berichte dokumentieren politische Ausgaben von Organisationen wie AIPAC und den Einsatz von KI bei den Zwischenwahlen. Ressourcen für den Aufbau von Aktienüberwachungsplattformen mit APIs sind verfügbar. Darüber hinaus wird Rentnern Ratschläge zur Abhängigkeit von Bankdividenden in Rentenkonten gegeben.",
-          "summary_easy": "Organisationen geben Geld für Wahlen aus. Man kann Programme bauen, um Aktien zu beobachten. Ein Experte sagt, ob es gut ist, nur von Zinsen zu leben, wenn man alt ist.",
+          "headline_en": "Ambani's Jio Achieves Status as India's Second-Largest Company; 'Idiocy' in Trump's Cronies' Actions Highlighted; Global Crackdown on Virtual Asset Crimes Intensifies",
+          "headline_de": "Ambani's Jio wird Indiens zweitgrößtes Unternehmen; 'Idiotie' in den Handlungen von Trumps Günstlingen hervorgehoben; Globale Verschärfung der Bekämpfung von Kriminalität mit virtuellen Vermögenswerten",
+          "headline_easy": "Jio in Indien ist jetzt die zweitgrößte Firma. Artikel über dumme Sachen von Trumps Freunden. Hacker mit digitalem Geld werden stärker bekämpft.",
+          "summary_en": "Mukesh Ambani's Jio has rapidly grown to become India's second-largest company. A critical article examines alleged 'idiocy' by associates of Donald Trump. Globally, the FATF is intensifying its crackdown on virtual asset crimes and fraud.",
+          "summary_de": "Mukesh Ambanis Jio ist schnell zum zweitgrößten Unternehmen Indiens aufgestiegen. Ein kritischer Artikel untersucht angebliche 'Idiotie' von Mitarbeitern Donald Trumps. Global intensiviert die FATF ihre Bekämpfung von Kriminalität und Betrug mit virtuellen Vermögenswerten.",
+          "summary_easy": "Die Firma Jio in Indien ist jetzt die zweitgrößte. Ein Artikel spricht über schlechte Entscheidungen von Leuten, die Trump helfen. Die Polizei weltweit jagt Betrüger, die digitales Geld nutzen.",
           "links": [
             {
-              "title": "How AIPAC and AI Spent Their Money This Midterm Election",
-              "url": "https://theintercept.com/2026/10/30/aipac-ai-spending-midterm-election/"
+              "title": "How Ambani’s Jio became India’s second-largest company",
+              "url": "https://www.aljazeera.com/news/2026/10/31/how-ambanis-jio-became-indias-second-largest-company"
             },
             {
-              "title": "Stock Market APIs: Build Your Own Stock Monitoring Platform",
-              "url": "https://cloudtweaks.com/2026/10/stock-apis-building-your-own-stock-monitoring-platform/"
+              "title": "‘World-Historic Levels Of Strategic Buffoonery:’ 285 Acts Of Idiocy Trump’s Cronies Hope You’ve Forgotten",
+              "url": "https://www.huffpost.com/entry/dumb-things-trump-has-done-so-far-second-term_n_6ab57494e4b0bad9a646389e"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "Houdini's Halloween Death Still a Mystery 100 Years Later; Texas Latino Voters Express Regret Over Trump Support; Barcelona vs. Alaves Soccer Match Broadcast Information",
+          "headline_de": "Halloweentod von Houdini 100 Jahre später immer noch ein Rätsel; Latino-Wähler in Texas äußern Bedauern über Trump-Unterstützung; Barcelona gegen Alaves Fußballspiel Übertragungsinformationen",
+          "headline_easy": "Houdinis Tod an Halloween ist ein Rätsel. Wähler in Texas bereuen, Trump gewählt zu haben. Infos zum Fußballspiel Barcelona gegen Alaves.",
+          "summary_en": "The circumstances surrounding Houdini's death on Halloween, 100 years ago, continue to be a subject of speculation. In political news, Latino voters in Texas' Rio Grande Valley are reportedly expressing regret over their 2024 Trump support. Broadcast details for the Barcelona vs. Alaves La Liga match are also provided.",
+          "summary_de": "Die Umstände von Houdinis Tod an Halloween vor 100 Jahren geben weiterhin Anlass zu Spekulationen. In politischen Nachrichten äußern Latino-Wähler im Rio Grande Valley in Texas Berichten zufolge Bedauern über ihre Unterstützung für Trump im Jahr 2024. Übertragungsdetails für das La Liga-Spiel Barcelona gegen Alaves werden ebenfalls bereitgestellt.",
+          "summary_easy": "Der Tod des Zauberers Houdini an Halloween ist seit 100 Jahren ein Rätsel. Wähler in Texas sagen, sie haben Trump falsch gewählt. Man kann das Fußballspiel Barcelona gegen Alaves im Fernsehen sehen.",
+          "links": [
+            {
+              "title": "Questions still haunt Houdini’s Halloween death 100 years later",
+              "url": "https://www.foxnews.com/us/questions-haunt-houdini-halloween-death-100-years-later"
             }
           ]
         }
@@ -182,36 +198,52 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Cruise Ship Stranded Passengers, Security Breaches, and Historical Sins",
-          "headline_de": "Gestrandete Kreuzfahrtpassagiere, Sicherheitslücken und historische Sünden",
-          "headline_easy": "Leute sitzen in Kambodscha fest. Ein Mann sagt, er ist der Böse. Hacker brechen in Systeme ein.",
-          "summary_en": "Passengers are stranded in Cambodia after their cruise ship dwelling ended abruptly, with the founder blaming historical actions. Meanwhile, significant cross-tenant security compromises are detailed, highlighting vulnerabilities in cloud environments.",
-          "summary_de": "Passagiere sind in Kambodscha gestrandet, nachdem ihr Wohnen auf einem Kreuzfahrtschiff abrupt endete und der Gründer historische Handlungen dafür verantwortlich macht. Unterdessen werden signifikante Cross-Tenant-Sicherheitskompromittierungen detailliert beschrieben, die Schwachstellen in Cloud-Umgebungen hervorheben.",
-          "summary_easy": "Eine Gruppe Leute kann nicht von ihrem Schiff in Kambodscha herunter. Der Chef des Schiffes sagt, dass er schuld ist. Hacker haben Systeme von Firmen angegriffen.",
+          "headline_en": "TIFF 2026 Spotlights Anime Co-Pros and Hungry Ghosts; India's Election Commission Faces Scrutiny Over Voting System; Cartoon Brew Features Animation News",
+          "headline_de": "TIFF 2026 beleuchtet Anime-Koproduktionen und hungrige Geister; Indiens Wahlkommission steht wegen Wahlsystem unter Beobachtung; Cartoon Brew präsentiert Animationsnachrichten",
+          "headline_easy": "TIFF zeigt Filme aus Anime. Indien hat Probleme mit Wahlen. Neue Filme zum Zeichnen.",
+          "summary_en": "The Toronto International Film Festival (TIFF) 2026 is highlighting anime co-productions and themes of 'Hungry Ghosts'. In India, the INDIA bloc is questioning the voting system and symbolically impeaching the Chief Election Commissioner. Cartoon Brew provides updates on animation news.",
+          "summary_de": "Das Toronto International Film Festival (TIFF) 2026 hebt Anime-Koproduktionen und Themen wie 'Hungry Ghosts' hervor. In Indien hinterfragt der INDIA-Block das Wahlsystem und leitet ein symbolisches Amtsenthebungsverfahren gegen den Chef-Wahlkommissar ein. Cartoon Brew liefert Updates zu Animationsnachrichten.",
+          "summary_easy": "In Indien gibt es Diskussionen über die Wahlen. Viele Leute schauen Filme, die gezeichnet sind. Es gibt neue Informationen über Zeichentrickfilme.",
           "links": [
             {
-              "title": "Founder of 'endless cruise' that dumped its passengers in Cambodia 'says \"I'm the villain\" but blames Trump's Iran war'",
-              "url": "https://www.dailymail.com/news/article-16251827/Founder-cruise-dumped-Cambodia-villain-Trumps-Iran-war.html"
+              "title": "TIFF 2026: Anime’s Co-Pros; Hungry Ghosts; Feature Spotlights",
+              "url": "https://www.cartoonbrew.com/newsletter/tiff-daily-2-tiffcom-hungry-ghosts-268772.html"
+            },
+            {
+              "title": "'Gen Z, Gen Alpha look to us with hope': INDIA bloc questions 'faulty' voting system as it conducts symbolic impeachment against CEC",
+              "url": "https://economictimes.indiatimes.com/news/politics-and-nation/india-blocs-symbolic-impeachment-of-cec-highlights-flaws-in-voting-system-amid-protests-over-electoral-rolls-mallikarjun-kharge-rahul-gandhi-meira-kumar-priyanka-gandhi-opposition-ramlila-maidan/articleshow/135398334.cms"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "China Evergrande Property Sale, Airline Stock Surge, and Motorsport Season",
-          "headline_de": "Verkauf der China Evergrande Immobilienverwaltung, Anstieg der Flugaktien und Motorsport-Saison",
-          "headline_easy": "Firma in China verkauft Teile. Aktie einer Fluglinie steigt. Es gibt eine neue Motorsport-Saison.",
-          "summary_en": "Liquidators have agreed to sell the property management unit of China Evergrande. IndiGo shares saw a significant jump following Q2 results, though analysts remain divided on the recovery timeline. The third season of TVS ARE GP motorsport is also highlighted.",
-          "summary_de": "Liquidatoren haben dem Verkauf der Immobilienverwaltungseinheit von China Evergrande zugestimmt. Die Aktien von IndiGo verzeichneten nach den Q2-Ergebnissen einen deutlichen Anstieg, obwohl die Analysten über den Erholungszeitplan geteilter Meinung sind. Die dritte Saison des Motorsport-Events TVS ARE GP wird ebenfalls hervorgehoben.",
-          "summary_easy": "Eine große Firma in China verkauft einen Teil ihrer Geschäfte. Die Aktien einer Fluggesellschaft steigen. Es gibt eine neue Saison für Autorennen.",
+          "headline_en": "India's Jio Emerges as Second-Largest Company; Vontobel Co-CEO Discusses Regulation; Global Market Trends and Russia's Disruptive Role Explored",
+          "headline_de": "Indiens Jio wird zweitgrößtes Unternehmen; Vontobel Co-CEO erörtert Regulierung; Globale Markttrends und Russlands störende Rolle untersucht",
+          "headline_easy": "Jio in Indien ist die zweitgrößte Firma. Ein Chef von Vontobel spricht über Regeln. Weltmarkt und Russland.",
+          "summary_en": "Jio, backed by Mukesh Ambani, has rapidly ascended to become India's second-largest company. Vontobel's Co-CEO, Christel Rendu, offers perspectives on regulatory frameworks. The piece also touches upon broader market dynamics and Russia's role as a geopolitical disruptor.",
+          "summary_de": "Jio, unterstützt von Mukesh Ambani, ist schnell zum zweitgrößten Unternehmen Indiens aufgestiegen. Die Co-CEO von Vontobel, Christel Rendu, bietet Perspektiven zu regulatorischen Rahmenbedingungen. Der Artikel berührt auch breitere Marktdynamiken und Russlands Rolle als geopolitischer Störfaktor.",
+          "summary_easy": "Die Firma Jio in Indien ist jetzt die zweitgrößte. Ein wichtiger Manager spricht über Regeln. Globale Märkte und Russland sind Thema.",
           "links": [
             {
-              "title": "Liquidators agree sale of China Evergrande property management unit",
-              "url": "https://www.channelnewsasia.com/east-asia/evergrande-property-sale-private-equity-6506426"
-            },
+              "title": "Links 10/31/2026",
+              "url": "https://www.nakedcapitalism.com/2026/10/links-10-31-2026.html"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "East Bengal Begins AFC Women's Champions League; TIFF 2026 Spotlights Anime and 'Hungry Ghosts'; Animation Industry News from Cartoon Brew",
+          "headline_de": "East Bengal beginnt AFC Women's Champions League; TIFF 2026 beleuchtet Anime und 'Hungry Ghosts'; Animationsbranche-Nachrichten von Cartoon Brew",
+          "headline_easy": "Frauenfußball in Asien. TIFF zeigt Anime-Filme. Neuigkeiten über gezeichnete Filme.",
+          "summary_en": "East Bengal Women's team is commencing their AFC Women's Champions League campaign, aiming for a historic knockout berth. The Toronto International Film Festival (TIFF) 2026 is highlighting anime co-productions and 'Hungry Ghosts'. Cartoon Brew provides the latest in animation industry news.",
+          "summary_de": "Das Frauenteam von East Bengal beginnt seine Kampagne in der AFC Women's Champions League mit dem Ziel, einen historischen Platz im K.o.-Durchgang zu erreichen. Das Toronto International Film Festival (TIFF) 2026 hebt Anime-Koproduktionen und Themen wie 'Hungry Ghosts' hervor. Cartoon Brew liefert die neuesten Nachrichten aus der Animationsbranche.",
+          "summary_easy": "Frauenfußball in Asien ist wichtig. Auf der TIFF gibt es Filme mit gezeichneten Figuren. Es gibt neue Infos über Filme, die gezeichnet sind.",
+          "links": [
             {
-              "title": "TVS ARE GP Season 3: Motorsport For All",
-              "url": "https://www.rediff.com/sports/report/tvs-are-gp-season-3-global-motorsport-for-all/20261030.htm"
+              "title": "East Bengal Begins AFC Women's Champions League Campaign",
+              "url": "https://www.rediff.com/sports/report/east-bengal-women-eye-historic-awcl-knockout-berth-at-home/20261031.htm"
             }
           ]
         }
@@ -224,56 +256,76 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Ancient Human Ingenuity, Youth Pledge Debates, and Cruise Ship Stranding",
-          "headline_de": "Alte menschliche Genialität, Debatten über Jugendversprechen und Kreuzfahrtschiff-Strandung",
-          "headline_easy": "Frühe Menschen machten Schnur. Leute reden über ein Jugend-Versprechen. Eine Kreuzfahrt-Firma hat Probleme.",
-          "summary_en": "Archaeological findings reveal Neanderthals created three-ply cord from tree bark, showcasing early human ingenuity. Discussions are also taking place regarding the 'Youth Pledge' and its implications. Separately, a story emerges about passengers stranded in Cambodia after their cruise ship living arrangement failed.",
-          "summary_de": "Archäologische Funde zeigen, dass Neandertaler dreifaches Garn aus Baumrinde herstellten, was frühe menschliche Genialität zeigt. Es finden auch Diskussionen über das „Jugendversprechen“ und seine Auswirkungen statt. Separat taucht eine Geschichte über Passagiere auf, die in Kambodscha gestrandet sind, nachdem ihr Wohnarrangement auf einem Kreuzfahrtschiff gescheitert ist.",
-          "summary_easy": "Frühe Menschen konnten Schnur machen. Leute sprechen über ein Versprechen, das junge Menschen geben. Eine Kreuzfahrtfirma hat Probleme und Leute sitzen fest.",
+          "headline_en": "India's Cotton Imports Expected to Rise; 'Saints Go Marching In' Article Published; UFC Champion Islam Makhachev Discusses Future Fights",
+          "headline_de": "Indiens Baumwollimporte werden voraussichtlich steigen; Artikel 'Saints Go Marching In' veröffentlicht; UFC-Champion Islam Makhachev diskutiert zukünftige Kämpfe",
+          "headline_easy": "Indien kauft mehr Baumwolle. Ein Artikel heißt 'Saints Go Marching In'. Ein Kämpfer spricht über seine Kämpfe.",
+          "summary_en": "India's cotton imports are projected to reach new peaks in the 2026-27 season due to crop concerns and duty relief. An article titled 'Today When The Saints Go Marching In…!' has been published. UFC champion Islam Makhachev indicated that his next fight might be one of his last.",
+          "summary_de": "Indiens Baumwollimporte werden voraussichtlich in der Saison 2026-27 aufgrund von Erntebedenken und Zollbefreiungen neue Höchststände erreichen. Ein Artikel mit dem Titel 'Today When The Saints Go Marching In…!' wurde veröffentlicht. UFC-Champion Islam Makhachev deutete an, dass sein nächster Kampf einer seiner letzten sein könnte.",
+          "summary_easy": "Indien kauft mehr Baumwolle. Ein Artikel ist neu erschienen. Ein Sportler sagt, er kämpft bald nicht mehr.",
           "links": [
             {
-              "title": "Neanderthals made three-ply cord by twisting tree bark fibres, a tiny fragment found on a stone tool in France reveals",
-              "url": "https://timesofindia.indiatimes.com/world/europe/neanderthals-made-three-ply-cord-by-twisting-tree-bark-fibres-a-tiny-fragment-found-on-a-stone-tool-in-france-reveals/articleshow/135355480.cms"
+              "title": "India’s 2026-27 cotton imports to scale new peak amid crop concerns, duty relief",
+              "url": "https://www.thehindubusinessline.com/economy/agri-business/indias-2026-27-cotton-imports-to-scale-new-peak-amid-crop-concerns-duty-relief/article71649049.ece"
             },
             {
-              "title": "Testing the Youth Pledge in an echo chamber",
-              "url": "https://en.antaranews.com/news/438927/testing-the-youth-pledge-in-an-echo-chamber"
+              "title": "Today When The Saints Go Marching In…!",
+              "url": "https://www.indiancatholicmatters.org/today-when-the-saints-go-marching-in/"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "'Percy Jackson and the Olympians' Featured at Lucca Comics & Games; India's Cotton Imports Expected to Rise; 'Saints Go Marching In' Article Published",
+          "headline_de": "'Percy Jackson und die Götter Griechenlands' auf der Lucca Comics & Games vorgestellt; Indiens Baumwollimporte werden voraussichtlich steigen; Artikel 'Saints Go Marching In' veröffentlicht",
+          "headline_easy": "Neue Show 'Percy Jackson'. Indien kauft mehr Baumwolle. Ein Artikel heißt 'Saints Go Marching In'.",
+          "summary_en": "'Percy Jackson and the Olympians' is a highlight at Lucca Comics & Games 2026. India's cotton imports are predicted to reach new heights due to crop concerns and duty relief. An article titled 'Today When The Saints Go Marching In…!' has been released.",
+          "summary_de": "'Percy Jackson und die Götter Griechenlands' ist ein Highlight auf der Lucca Comics & Games 2026. Indiens Baumwollimporte werden aufgrund von Erntebedenken und Zollbefreiung voraussichtlich neue Höchststände erreichen. Ein Artikel mit dem Titel 'Today When The Saints Go Marching In…!' wurde veröffentlicht.",
+          "summary_easy": "Es gibt eine neue Show über 'Percy Jackson'. Indien kauft mehr Baumwolle. Ein Artikel ist neu erschienen.",
+          "links": [
+            {
+              "title": "\"Percy Jackson and the Olympians\" Takes Over Lucca Comics & Games 2026",
+              "url": "http://www.thefutoncritic.com/news/2026/10/31/percy-jackson-and-the-olympians-takes-over-lucca-comics-and-games-2026-983215/20261031disney01/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Retirement Investment Advice, Political Spending Analytics, and Market Platforms",
-          "headline_de": "Anlageberatung für den Ruhestand, Analysen politischer Ausgaben und Marktplattformen",
-          "headline_easy": "Man soll nicht nur von Zinsen leben. Politik gibt Geld aus. Man kann Börsen-Daten nutzen.",
-          "summary_en": "Financial advice is provided for retired individuals concerning their reliance on bank dividends in retirement funds. Analysis of political spending, including the role of AI in midterm elections, is being presented. Resources for building stock monitoring platforms using APIs are also highlighted.",
-          "summary_de": "Finanzberatung wird für Rentner bezüglich ihrer Abhängigkeit von Bankdividenden in Rentenfonds angeboten. Analysen politischer Ausgaben, einschließlich der Rolle von KI bei den Zwischenwahlen, werden präsentiert. Ressourcen für den Aufbau von Aktienüberwachungsplattformen mit APIs werden ebenfalls hervorgehoben.",
-          "summary_easy": "Ein Experte gibt Rat zu Geld im Alter. Organisationen geben Geld für Wahlen aus. Man kann Programme bauen, um Aktien zu beobachten.",
+          "headline_en": "TV Viewing Picks for October 31, 2026; Oligarchs and Elections Endgame; Global Links and Analysis",
+          "headline_de": "TV-Sehempfehlungen für den 31. Oktober 2026; Oligarchen und das Endspiel der Wahlen; Globale Links und Analysen",
+          "headline_easy": "Was man am 31. Oktober schauen kann. Geld und Wahlen. Links und Texte über die Welt.",
+          "summary_en": "Viewers are offered TV and streaming recommendations for October 31, 2026, including Game 7 of the WNBA Finals. An analysis titled 'Oligarchs and Elections, the Endgame' is presented. A collection of global links and further analysis is also provided.",
+          "summary_de": "Zuschauern werden TV- und Streaming-Empfehlungen für den 31. Oktober 2026 angeboten, einschließlich Spiel 7 der WNBA Finals. Eine Analyse mit dem Titel 'Oligarchs and Elections, the Endgame' wird präsentiert. Eine Sammlung globaler Links und weiterer Analysen wird ebenfalls bereitgestellt.",
+          "summary_easy": "Es gibt Tipps, was man am 31. Oktober im Fernsehen sehen kann. Ein Artikel spricht über reiche Leute und Wahlen. Es gibt auch andere Texte über die Welt.",
           "links": [
             {
-              "title": "Is a retired Albertan too reliant on bank dividends in his RRIF?",
-              "url": "https://financialpost.com/personal-finance/is-a-retired-albertan-too-reliant-on-bank-dividends-in-his-rrif"
+              "title": "TV and streaming viewing picks for October 31, 2026: How to watch Game 7 of the WNBA Finals",
+              "url": "https://awfulannouncing.com/viewing-picks/october-31-2026-watch-game-7-wnba-finals.html"
+            },
+            {
+              "title": "Oligarchs and Elections, the Endgame",
+              "url": "https://www.nakedcapitalism.com/2026/10/oligarchs-and-elections-the-endgame.html"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "Game Delisting, Malaria Solutions, and Wholesome Content",
-          "headline_de": "Spiel-Entlistung, Malaria-Lösungen und wohlige Inhalte",
-          "headline_easy": "Spiele werden von Plattformen entfernt. Indonesien sucht Mittel gegen Malaria. Katzenbilder sind süß.",
-          "summary_en": "The reasons behind the delisting of popular games like Celeste and TowerFall from Xbox are explained. Indonesia is actively seeking homegrown solutions for malaria, inspired by historical figures. Additionally, a collection of cute cat pictures is presented for enjoyment.",
-          "summary_de": "Die Gründe für die Entfernung beliebter Spiele wie Celeste und TowerFall von Xbox werden erklärt. Indonesien sucht aktiv nach heimischen Lösungen gegen Malaria, inspiriert von historischen Persönlichkeiten. Darüber hinaus wird eine Sammlung süßer Katzenbilder zur Unterhaltung präsentiert.",
-          "summary_easy": "Zwei Spiele sind nicht mehr auf Xbox verfügbar. Indonesien will eigene Medikamente gegen Malaria finden. Es gibt viele lustige Bilder von Katzen.",
+          "headline_en": "Final Fantasy XIV Expansion Delayed; PyRDMNet Added to PyPI; 'Final Table' Cooking Competition Actors Trade Barbs",
+          "headline_de": "Final Fantasy XIV Erweiterung verzögert; PyRDMNet zu PyPI hinzugefügt; Schauspieler der Kochwettbewerbs-Serie 'Final Table' tauschen Spitzen aus",
+          "headline_easy": "Ein Spiel wird später kommen. Ein neues Werkzeug für Computer ist da. Schauspieler in einer Kochsendung streiten.",
+          "summary_en": "The 'Evercold' expansion for Final Fantasy XIV has been delayed, with new details shown but no gameplay footage of a key feature. The PyRDMNet library has been added to the Python Package Index (PyPI). Actors Ahn Hyo Seop and Chang Ryul exchanged sharp words on the set of the cooking competition show 'Final Table'.",
+          "summary_de": "Die 'Evercold'-Erweiterung für Final Fantasy XIV wurde verzögert, mit neuen Details, aber ohne Gameplay-Aufnahmen einer Schlüsselfunktion. Die PyRDMNet-Bibliothek wurde dem Python Package Index (PyPI) hinzugefügt. Die Schauspieler Ahn Hyo Seop und Chang Ryul tauschten scharfe Worte am Set der Kochwettbewerbs-Serie 'Final Table' aus.",
+          "summary_easy": "Ein Spiel, Final Fantasy, kommt später. Ein neues Programm für Computer ist jetzt verfügbar. Schauspieler in einer Kochshow reden schlecht übereinander.",
           "links": [
             {
-              "title": "Celeste and TowerFall dev explains why both games were suddenly delisted from Xbox",
-              "url": "https://www.eurogamer.net/towerfall-celeste-xbox-boycott-delisted"
+              "title": "Final Fantasy XIV: Evercold is delayed, shows off a new player Job, and more",
+              "url": "https://www.windowscentral.com/gaming/final-fantasy-xiv-evercold-gets-delayed-while-showing-off-more-trailers-and-info-yet-theres-no-gameplay-footage-of-the-one-feature-that-may-bring-me-back"
             },
             {
-              "title": "From Wallace to vaccines: Indonesia seeks homegrown malaria solutions",
-              "url": "https://en.antaranews.com/news/438935/from-wallace-to-vaccines-indonesia-seeks-homegrown-malaria-solutions"
+              "title": "pyrdmnet added to PyPI",
+              "url": "https://pypi.org/project/pyrdmnet/"
             }
           ]
         }
@@ -284,27 +336,27 @@
     "wahlperiode": 21,
     "sitzung": 103,
     "url": "https://dserver.bundestag.de/btp/21/21103.pdf",
-    "summary_en": "On Friday, October 16, 2026, the German Bundestag held its 103rd session of the 21st legislative period. The agenda included a second and third reading of the government's draft law on early retirement ('Frühstartrente'). The Haushaltsausschuss (Budget Committee) and Finanzausschuss (Finance Committee) presented their reports. The session also debated motions from the AfD ('Für eine sichere Rente unserer Kinder – Junior-Spar-Depot') and Die Linke ('Finanzielle Bildung stärken – Unabhängig, mehrperspektivisch und für alle jungen Menschen') regarding child savings and financial education. Following this, the Bundestag addressed the nursing insurance system, with motions from Die Linke ('Pflegeversicherung solidarisch und bedarfsgerecht ausrichten') and BÜNDNIS 90/DIE GRÜNEN ('Nachhaltige Pflegereform – Die soziale Pflegeversicherung zukunftsfest machen') proposing reforms and opposing benefit cuts. A government bill to modernize arbitration law and amend civil procedure was introduced. Another government bill focused on reducing bureaucracy in the transport sector was debated. Finally, the AfD proposed a motion ('Technologieoffenheit im Verkehrssektor gewährleisten – Privilegierung der Elektromobilität beenden') to end the privilege of electromobility, advocating for technological openness. Several MPs from SPD, AfD, CDU/CSU, and Die Linke contributed to these discussions.",
-    "summary_de": "Am Freitag, den 16. Oktober 2026, fand im Deutschen Bundestag die 103. Sitzung der 21. Wahlperiode statt. Auf der Tagesordnung stand die zweite und dritte Beratung des Gesetzesentwurfs der Bundesregierung zur Einführung einer Frühstartrente. Der Haushaltsausschuss und der Finanzausschuss legten ihre Berichte vor. Des Weiteren wurden Anträge der AfD („Für eine sichere Rente unserer Kinder – Junior-Spar-Depot“) und Die Linke („Finanzielle Bildung stärken – Unabhängig, mehrperspektivisch und für alle jungen Menschen“) zu Kindersparplänen und Finanzbildung erörtert. Anschließend befasste sich der Bundestag mit der Pflegeversicherung, wobei Anträge der Linken („Pflegeversicherung solidarisch und bedarfsgerecht ausrichten“) und von BÜNDNIS 90/DIE GRÜNEN („Nachhaltige Pflegereform – Die soziale Pflegeversicherung zukunftsfest machen“) Reformen vorschlugen und Leistungskürzungen ablehnten. Ein Gesetzesentwurf der Bundesregierung zur Modernisierung des Schiedsverfahrensrechts sowie zur Änderung der Zivilprozessordnung wurde eingebracht. Ein weiterer Regierungsentwurf zur Bürokratierückbau im Verkehrsbereich wurde debattiert. Abschließend legte die AfD einen Antrag vor („Technologieoffenheit im Verkehrssektor gewährleisten – Privilegierung der Elektromobilität beenden“), der die Beendigung der Privilegierung der Elektromobilität und Technologieoffenheit forderte. Mehrere Abgeordnete von SPD, AfD, CDU/CSU und Die Linke trugen zu diesen Debatten bei.",
-    "summary_easy": "Am Freitag, dem 16. Oktober 2026, gab es eine Sitzung im Bundestag. Das Parlament sprach über eine neue Rente für Frührentner. Auch ein Gesetz zur Verbesserung von Schiedsverfahren wurde besprochen. Es gab eine Debatte über Bürokratie im Verkehr. Die AfD forderte mehr Technologie-Vielfalt bei Autos. Sie sind gegen die Bevorzugung von Elektroautos. Die Linke und die Grünen sprachen über die Pflegeversicherung. Sie wollen die Versicherung verbessern. Sie sind gegen Leistungskürzungen in der Pflege. Es gab auch Anträge zur finanziellen Bildung für junge Leute.",
+    "summary_en": "On Friday, October 16, 2026, the 103rd session of the 21st German Bundestag took place. The session began with an extension of the agenda. Subsequently, the Bundestag debated and voted on several key legislative proposals and motions. A major focus was the \"Frühstartrente\" (early start pension) law, with the second and third readings of the government's draft, following reports from the Budget Committee and the Finance Committee. The Finance Committee also presented recommendations on motions concerning \"Junior-Spar-Depot\" (junior savings depot) proposed by the AfD and \"Finanzielle Bildung stärken\" (strengthening financial education) by Die Linke. The SPD, represented by Michael Thews, was involved in the debate on the early start pension. The AfD, through Ulrike Schielke-Ziesing and Iris Nieland, presented their views on savings and pensions. The CDU/CSU, with speakers like Fritz Güntzler and Dr. Carsten Brodesser, also participated in discussions. The session then moved to Agenda Item 33, concerning the nursing insurance, with motions from Die Linke ('Pflegeversicherung solidarisch und bedarfsgerecht ausrichten' - align nursing insurance solidaristically and needs-based) and BÜNDNIS 90/DIE GRÜNEN ('Nachhaltige Pflegereform' - sustainable nursing reform). Evelyn Schötz (Die Linke) and Simone Fischer (BÜNDNIS 90/DIE GRÜNEN) were key speakers on this topic. Agenda Item 34 focused on a government bill to reduce bureaucracy in the transport sector, with contributions from Steffen Bilger (Federal Minister BMV) and various MPs, including Wolfgang Wiehle (AfD) and Anja Troff-Schaffarzyk (SPD). Agenda Item 35 involved a motion by BÜNDNIS 90/DIE GRÜNEN to set a strong signal for the protection of living conditions at the biodiversity conference in Yerevan. Finally, Agenda Item 36 saw the first reading of a bill to modernize arbitration law and amend the Code of Civil Procedure regarding international civil procedure, with speeches by Dr. Stefanie Hubig (Federal Minister BMJV) and MPs from different parties.",
+    "summary_de": "Am Freitag, den 16. Oktober 2026, fand die 103. Sitzung der 21. Wahlperiode des Deutschen Bundestages statt. Die Sitzung begann mit einer Erweiterung der Tagesordnung. Anschließend diskutierte und beschloss der Bundestag mehrere wichtige Gesetzesentwürfe und Anträge. Ein Schwerpunkt war das Gesetz zur Einführung einer Frühstartrente, mit der zweiten und dritten Beratung des Regierungsentwurfs, gefolgt von Berichten des Haushaltsausschusses und des Finanzausschusses. Der Finanzausschuss legte auch Beschlussempfehlungen zu Anträgen der AfD (\"Junior-Spar-Depot\") und Die Linke (\"Finanzielle Bildung stärken\") vor. Die SPD, vertreten durch Michael Thews, beteiligte sich an der Debatte zur Frührente. Die AfD, mit Ulrike Schielke-Ziesing und Iris Nieland, präsentierte ihre Positionen zu Sparen und Renten. Die CDU/CSU, mit Rednern wie Fritz Güntzler und Dr. Carsten Brodesser, nahm ebenfalls an den Diskussionen teil. Weiter ging es mit Tagesordnungspunkt 33 zur Pflegeversicherung, mit Anträgen von Die Linke (\"Pflegeversicherung solidarisch und bedarfsgerecht ausrichten\") und BÜNDNIS 90/DIE GRÜNEN (\"Nachhaltige Pflegereform\"). Evelyn Schötz (Die Linke) und Simone Fischer (BÜNDNIS 90/DIE GRÜNEN) waren hier zentrale Sprecherinnen. Tagesordnungspunkt 34 befasste sich mit einem Gesetzentwurf der Bundesregierung zum Bürokratierückbau im Verkehrsbereich, mit Beiträgen von Bundesminister Steffen Bilger (BMV) und verschiedenen Abgeordneten, darunter Wolfgang Wiehle (AfD) und Anja Troff-Schaffarzyk (SPD). Tagesordnungspunkt 35 beinhaltete einen Antrag von BÜNDNIS 90/DIE GRÜNEN, bei der Biodiversitätskonferenz in Jerewan ein starkes Signal zum Schutz der Lebensgrundlagen zu setzen. Abschließend fand zu Tagesordnungspunkt 36 die erste Beratung eines Gesetzes zur Modernisierung des Schiedsverfahrensrechts sowie zu weiteren Änderungen der Zivilprozessordnung im Bereich des internationalen Zivilverfahrensrechts statt, mit Reden von Bundesministerin Dr. Stefanie Hubig (BMJV) und Abgeordneten verschiedener Fraktionen.",
+    "summary_easy": "Am Freitag, 16. Oktober 2026, war Bundestag. Das Parlament änderte zuerst die Tagesordnung. Dann ging es um das \"Frühstartrente\"-Gesetz. Das ist eine Rente für früheres Aufhören zu arbeiten. Die Regierung hat den Gesetzes-Entwurf gemacht. Der Haushalts-Ausschuss und der Finanz-Ausschuss haben darüber berichtet. Die AfD wollte ein \"Junior-Spar-Depot\" für Kinder. Die Linke wollte die Geld-Bildung für junge Leute stärken. Die SPD, CDU/CSU und Grüne haben auch gesprochen. Es ging um die Pflege-Versicherung. Die Linke und die Grünen haben Anträge dazu gestellt. Die Linke fordert eine faire Pflege-Versicherung. Die Grünen wollen die Pflege-Versicherung zukunftsfest machen. Ein anderes Thema war Bürokratie-Abbau im Verkehr. Das ist weniger Papierkram. Die Grünen forderten auch ein starkes Signal für Umweltschutz. Es gab auch eine erste Beratung zum Schieds-Verfahrensrecht.",
     "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact_en": "The iconic red carpet, a symbol of luxury and prestige, originated from the 1902 play 'The Great Train Robbery.' In the play, ushers used a red carpet to guide theatergoers to their seats, and the tradition was later adopted by Hollywood for film premieres.",
-      "fact_de": "Der ikonische rote Teppich, ein Symbol für Luxus und Prestige, stammt aus dem Theaterstück 'The Great Train Robbery' von 1902. In dem Stück benutzten Platzanweiser einen roten Teppich, um die Theaterbesucher zu ihren Plätzen zu leiten, und diese Tradition wurde später von Hollywood für Filmpremieren übernommen.",
-      "fact_easy": "Der rote Teppich ist sehr berühmt. Er kommt von einem alten Theaterstück. Später hat Hollywood ihn für Filmstarts benutzt.",
-      "category": "Traditions",
-      "source_title": "The Surprising Origin of the Red Carpet",
-      "source_url": "https://www.mentalfloss.com/article/548548/surprising-origin-red-carpet"
+      "fact_en": "During the reign of Queen Elizabeth I, sumptuary laws dictated what fabrics and colors commoners could wear. These laws were designed to maintain social hierarchy, with specific materials like ermine and purple reserved for royalty and the nobility.",
+      "fact_de": "Während der Herrschaft von Königin Elisabeth I. schrieben Kleiderordnungen vor, welche Stoffe und Farben gewöhnliche Leute tragen durften. Diese Gesetze sollten die soziale Hierarchie aufrechterhalten, wobei bestimmte Materialien wie Hermelin und Purpur der königlichen Familie und dem Adel vorbehalten waren.",
+      "fact_easy": "Königin Elisabeth I. hatte Regeln für Kleidung. Nur reiche Leute durften teure Stoffe und besondere Farben tragen. Das zeigte, wer wichtig war.",
+      "category": "Fashion",
+      "source_title": "Sumptuary Laws in Elizabethan England",
+      "source_url": "https://www.rct.uk/collection/200344/sumptuary-laws-in-elizabethan-england"
     },
     {
-      "fact_en": "In ancient Rome, purple dye was so expensive and difficult to produce, made from thousands of sea snails, that only the emperor and the highest officials could afford to wear it. Wearing purple was a sign of immense wealth and power, and unauthorized use was punishable by death.",
-      "fact_de": "Im antiken Rom war der Purpurfarbstoff so teuer und schwierig herzustellen, gewonnen aus Tausenden von Meeresschnecken, dass nur der Kaiser und die höchsten Beamten ihn sich leisten konnten. Das Tragen von Purpur war ein Zeichen von immensem Reichtum und Macht, und unerlaubte Nutzung wurde mit dem Tod bestraft.",
-      "fact_easy": "Purpur war im alten Rom sehr teuer. Nur der Kaiser und wichtige Leute konnten ihn tragen. Er kam von Schnecken. Das war ein Zeichen von viel Geld.",
-      "category": "Fashion",
-      "source_title": "Tyrian Purple - Wikipedia",
-      "source_url": "https://en.wikipedia.org/wiki/Tyrian_purple"
+      "fact_en": "The ancient city of Petra, carved into sandstone cliffs by the Nabataeans, had a sophisticated water management system that allowed it to thrive in an arid desert. They built dams, cisterns, and channels to collect and store rainwater, demonstrating advanced engineering for its time.",
+      "fact_de": "Die antike Stadt Petra, die von den Nabatäern in Sandsteinklippen gehauen wurde, verfügte über ein ausgeklügeltes Wassermanagementsystem, das ihr ermöglichte, in einer trockenen Wüste zu gedeihen. Sie bauten Dämme, Zisternen und Kanäle, um Regenwasser zu sammeln und zu speichern, was fortschrittliche Ingenieurskunst für ihre Zeit zeigte.",
+      "fact_easy": "Petra ist eine alte Stadt in Felsen gehauen. Die Menschen dort hatten gute Ideen für Wasser. Sie sammelten Regenwasser, damit sie in der Wüste leben konnten.",
+      "category": "Traditions",
+      "source_title": "Petra: The Rose-Red City Half as Old as Time",
+      "source_url": "https://whc.unesco.org/en/list/326/"
     }
   ],
   "frankfurt": {
@@ -312,80 +364,80 @@
       {
         "type": "Events",
         "emoji": "🎪",
-        "headline_en": "Amazon Launches Same-Day Grocery Delivery in Frankfurt",
-        "headline_de": "Amazon startet Same-Day-Lieferung für frische Lebensmittel in Frankfurt",
-        "headline_easy": "Amazon liefert jetzt Lebensmittel am selben Tag in Frankfurt.",
-        "summary_en": "Amazon is expanding its delivery services in Germany by offering same-day delivery for fresh groceries in select Frankfurt postal code areas. This new service aims to provide convenient and fast access to fresh food for residents.",
-        "summary_de": "Amazon erweitert sein Lieferangebot in Deutschland und bietet nun die Lieferung von frischen Lebensmitteln am selben Tag in ausgewählten Frankfurter Postleitzahlengebieten an. Dieser neue Service soll den Anwohnern einen bequemen und schnellen Zugang zu frischen Lebensmitteln ermöglichen.",
-        "summary_easy": "Amazon hat ein neues Angebot. Man kann jetzt frische Lebensmittel am selben Tag bekommen. Das geht in einigen Teilen von Frankfurt.",
+        "headline_en": "DWS Imposes Emergency Measures on Open Real Estate Fund; Leonor Fini Exhibition at Schirn; Bundesliga Top Match: Bayern vs. Dortmund",
+        "headline_de": "DWS verhängt Notmaßnahme für offenen Immobilienfonds; Leonor Fini Ausstellung in der Schirn; Bundesliga-Topspiel: Bayern gegen Dortmund",
+        "headline_easy": "DWS stoppt Auszahlungen. Eine Künstlerin wird in der Schirn gezeigt. Bayern spielt gegen Dortmund.",
+        "summary_en": "The DWS financial group has implemented emergency measures for its open real estate fund, halting payouts. In arts news, the Schirn Kunsthalle is showcasing an exhibition on the artist Leonor Fini, highlighting her unique work. On the sports front, a major Bundesliga clash is set for Saturday as Bayern Munich hosts Borussia Dortmund, with both teams currently tied at the top of the league table.",
+        "summary_de": "Die DWS-Finanzgruppe hat eine Notmaßnahme für ihren offenen Immobilienfonds erlassen und Auszahlungen gestoppt. In der Kunstwelt zeigt die Schirn Kunsthalle eine Ausstellung über die Künstlerin Leonor Fini und ihre besondere Arbeit. Am Samstag steht ein Bundesliga-Topspiel an, bei dem Bayern München Borussia Dortmund empfängt, beide Teams sind punktgleich an der Tabellenspitze.",
+        "summary_easy": "Die DWS zahlt kein Geld mehr aus einem Fonds. In der Schirn gibt es eine Ausstellung über die Künstlerin Leonor Fini. Am Samstag spielen Bayern und Dortmund Fußball. Beide sind oben in der Tabelle.",
         "links": [
           {
-            "title": "Amazon: Frische Lebensmittel per Same-Day-Lieferung in ersten deutschen Städten",
-            "url": "https://stadt-bremerhaven.de/amazon-frische-lebensmittel-per-same-day-lieferung-in-ersten-deutschen-staedten/"
+            "title": "DWS stoppt Auszahlungen: Notmaßnahme für Immobilienfonds",
+            "url": "https://www.faz.net/aktuell/finanzen/dws-stoppt-auszahlungen-notmassnahme-fuer-immobilienfonds-accg-201636215.html"
           },
           {
-            "title": "Strato down? Nutzer melden am Freitag massive Probleme - das ist bisher bekannt",
-            "url": "https://www.netzwelt.de/ist-down/260158-strato-down-nutzer-melden-freitag-massive-probleme-bisher-bekannt.html"
+            "title": "Leonor Fini: Merken Sie sich diese vier Buchstaben",
+            "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/kuenstlerin-fini-in-der-schirn-merken-sie-sich-diese-vier-buchstaben-201630699.html"
           }
         ]
       },
       {
         "type": "Crime",
         "emoji": "🚔",
-        "headline_en": "Frankfurt Youth Discuss Changes Over 20 Years, Protests Planned",
-        "headline_de": "Frankfurter Jugend diskutiert Veränderungen der letzten 20 Jahre, Proteste geplant",
-        "headline_easy": "Junge Leute in Frankfurt sprechen über ihr Leben. Sie wollen protestieren.",
-        "summary_en": "Young people in Frankfurt are set to protest this weekend, prompting a look at how their lives have changed over the past two decades. The discussion covers evolving concerns and experiences of Generation Z in the city.",
-        "summary_de": "Vertreter der Generation Z wollen an diesem Wochenende in Frankfurt protestieren. Der Artikel beleuchtet, wie sich das Leben junger Menschen in den letzten 20 Jahren verändert hat und welche Sorgen gleich geblieben sind.",
-        "summary_easy": "Junge Leute in Frankfurt wollen demonstrieren. Der Artikel erklärt, wie sich das Leben für junge Leute geändert hat. Manche Probleme sind gleich geblieben.",
+        "headline_en": "Eintracht Frankfurt Appoints New Sports Director from Nuremberg",
+        "headline_de": "Eintracht Frankfurt holt neuen Sportvorstand aus Nürnberg",
+        "headline_easy": "Eintracht Frankfurt hat einen neuen Sportchef gefunden. Er kommt aus Nürnberg.",
+        "summary_en": "Eintracht Frankfurt has found a successor for Markus Krösche in their search for a new sports director. The club is reportedly bringing in the sports director from 1. FC Nürnberg.",
+        "summary_de": "Eintracht Frankfurt hat bei der Suche nach einem Nachfolger für Markus Krösche einen neuen Sportvorstand gefunden. Der Verein holt den Sportvorstand vom Zweitligisten 1. FC Nürnberg.",
+        "summary_easy": "Eintracht Frankfurt sucht einen neuen Sportchef. Sie haben ihn gefunden. Er kommt aus Nürnberg.",
         "links": [
           {
-            "title": "Jugend in Frankfurt: War früher alles besser?",
-            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/so-hat-sich-das-leben-junger-menschen-in-frankfurt-veraendert-accg-201626566.html"
+            "title": "Nürnbergs Chatzialexiou wechselt nach Frankfurt",
+            "url": "https://www.tagesspiegel.de/sport/dpa-fussball-berichte-nurnbergs-chatzialexiou-wechselt-nach-frankfurt-16222932.html"
           },
           {
-            "title": "Er ist erst 15 Jahre alt - Sehen wir Sonntag das größte Talent der Bundesliga?",
-            "url": "https://www.bild.de/sport/fussball/bundesliga-mega-talent-15-koennte-am-sonntag-debuetieren-6ae3d5c1aacefa08f5b98ba2"
+            "title": "Klose bestätigt: Nürnbergs Sportvorstand nach Frankfurt",
+            "url": "https://www.tagesspiegel.de/sport/dpa-fussball-klose-bestatigt-nurnbergs-sportvorstand-nach-frankfurt-16222932.html"
           }
         ]
       },
       {
         "type": "Sales & Offers",
         "emoji": "🛍️",
-        "headline_en": "Frankfurt Youth Discuss Generational Changes; Potential Bundesliga Star Debuts",
-        "headline_de": "Frankfurter Jugend diskutiert Generationenwandel; Möglicher Bundesliga-Star feiert Debüt",
-        "headline_easy": "Junge Leute in Frankfurt sprechen über ihr Leben. Ein junger Fußballer könnte debütieren.",
-        "summary_en": "This section touches upon the evolving lives of young people in Frankfurt and their concerns, with Generation Z planning protests. Separately, a 15-year-old is poised to make his Bundesliga debut, potentially becoming a significant talent.",
-        "summary_de": "Die Lebenswirklichkeit junger Menschen in Frankfurt und ihre Sorgen werden thematisiert, während die Generation Z Proteste plant. Parallel dazu steht ein 15-Jähriger kurz vor seinem Bundesliga-Debüt, was auf ein großes Talent hindeuten könnte.",
-        "summary_easy": "Junge Leute in Frankfurt reden über ihr Leben. Sie wollen protestieren. Ein sehr junger Fußballer soll bald spielen.",
+        "headline_en": "Eintracht Frankfurt Secures New Sports Director from Nuremberg",
+        "headline_de": "Eintracht Frankfurt sichert sich neuen Sportvorstand aus Nürnberg",
+        "headline_easy": "Eintracht Frankfurt hat einen neuen Sportchef gefunden. Er kommt aus Nürnberg.",
+        "summary_en": "Eintracht Frankfurt has finalized its search for a new sports director, with reports indicating the club has secured a candidate from 1. FC Nürnberg. This appointment follows the departure of Markus Krösche.",
+        "summary_de": "Eintracht Frankfurt hat die Suche nach einem neuen Sportvorstand abgeschlossen. Berichten zufolge wird der Club den Sportvorstand von 1. FC Nürnberg verpflichten. Dies folgt auf den Abgang von Markus Krösche.",
+        "summary_easy": "Eintracht Frankfurt hat einen neuen Sportchef. Er kommt vom Club Nürnberg. Markus Krösche ist weg.",
         "links": [
           {
-            "title": "Jugend in Frankfurt: War früher alles besser?",
-            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/so-hat-sich-das-leben-junger-menschen-in-frankfurt-veraendert-accg-201626566.html"
+            "title": "Nürnbergs Chatzialexiou wechselt nach Frankfurt",
+            "url": "https://www.tagesspiegel.de/sport/dpa-fussball-berichte-nurnbergs-chatzialexiou-wechselt-nach-frankfurt-16222932.html"
           },
           {
-            "title": "Er ist erst 15 Jahre alt - Sehen wir Sonntag das größte Talent der Bundesliga?",
-            "url": "https://www.bild.de/sport/fussball/bundesliga-mega-talent-15-koennte-am-sonntag-debuetieren-6ae3d5c1aacefa08f5b98ba2"
+            "title": "Clubs bestätigen: Nürnbergs Sportvorstand nach Frankfurt",
+            "url": "https://www.tagesspiegel.de/sport/dpa-fussball-clubs-bestatigen-nurnbergs-sportvorstand-nach-frankfurt-16222932.html"
           }
         ]
       },
       {
         "type": "Local News",
         "emoji": "📍",
-        "headline_en": "Frankfurt's Youth Reflect on Changes; Potential Bundesliga Star Emerges",
-        "headline_de": "Frankfurter Jugend blickt auf Veränderungen; Möglicher Bundesliga-Star taucht auf",
-        "headline_easy": "Junge Leute in Frankfurt denken über ihr Leben nach. Ein junger Fußballer könnte bald spielen.",
-        "summary_en": "A discussion on how life for young people in Frankfurt has evolved over the last 20 years is highlighted, with Generation Z planning protests. The news also features a highly talented 15-year-old footballer who is expected to make his Bundesliga debut.",
-        "summary_de": "Es wird thematisiert, wie sich das Leben junger Menschen in Frankfurt in den letzten 20 Jahren verändert hat, während die Generation Z Proteste plant. Zudem wird ein sehr talentierter 15-jähriger Fußballer vorgestellt, der sein Bundesliga-Debüt geben soll.",
-        "summary_easy": "Junge Leute in Frankfurt reden über die letzten 20 Jahre. Sie wollen protestieren. Ein junger Fußballer ist sehr gut und wird vielleicht bald spielen.",
+        "headline_en": "Eintracht Frankfurt Hires New Sports Director from Nuremberg",
+        "headline_de": "Eintracht Frankfurt verpflichtet neuen Sportvorstand aus Nürnberg",
+        "headline_easy": "Eintracht Frankfurt hat einen neuen Sportchef gefunden. Er kommt aus Nürnberg.",
+        "summary_en": "Eintracht Frankfurt has reportedly found its new sports director, with the club set to appoint an individual from 1. FC Nürnberg to succeed Markus Krösche. This move signals a significant personnel change within the club's management.",
+        "summary_de": "Eintracht Frankfurt hat offenbar seinen neuen Sportvorstand gefunden. Der Verein wird einen Nachfolger für Markus Krösche vom 1. FC Nürnberg verpflichten. Dies ist eine wichtige Personalentscheidung für den Club.",
+        "summary_easy": "Eintracht Frankfurt bekommt einen neuen Sportchef. Er kommt vom Club Nürnberg. Er ersetzt Markus Krösche.",
         "links": [
           {
-            "title": "Jugend in Frankfurt: War früher alles besser?",
-            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/so-hat-sich-das-leben-junger-menschen-in-frankfurt-veraendert-accg-201626566.html"
+            "title": "Nürnbergs Chatzialexiou wechselt nach Frankfurt",
+            "url": "https://www.tagesspiegel.de/sport/dpa-fussball-berichte-nurnbergs-chatzialexiou-wechselt-nach-frankfurt-16222932.html"
           },
           {
-            "title": "Er ist erst 15 Jahre alt - Sehen wir Sonntag das größte Talent der Bundesliga?",
-            "url": "https://www.bild.de/sport/fussball/bundesliga-mega-talent-15-koennte-am-sonntag-debuetieren-6ae3d5c1aacefa08f5b98ba2"
+            "title": "Klose bestätigt: Nürnbergs Sportvorstand nach Frankfurt",
+            "url": "https://www.tagesspiegel.de/sport/dpa-fussball-klose-bestatigt-nurnbergs-sportvorstand-nach-frankfurt-16222932.html"
           }
         ]
       }
