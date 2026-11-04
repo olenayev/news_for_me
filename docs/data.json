@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, November 03 2026",
+  "date": "Wednesday, November 04 2026",
   "sections": [
     {
       "category": "Germany",
@@ -8,56 +8,52 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "New Font Family Launched, Indian Consultants in US Midterms Spotlight, Alstom Slashes Outlook",
-          "headline_de": "Neue Schriftartfamilie vorgestellt, indische Berater im US-Midterm-Fokus, Alstom senkt Ausblick",
-          "headline_easy": "Eine neue Schriftart gibt es. Indische Berater sind in den USA wichtig. Alstom hat schlechte Nachrichten.",
-          "summary_en": "The Conviva font family has been released. Meanwhile, Indian consultants are gaining prominence in the context of the US midterms. In business news, Alstom has significantly lowered its financial outlook for the second time this year.",
-          "summary_de": "Die Schriftartfamilie Conviva wurde veröffentlicht. Indische Berater rücken im Zusammenhang mit den US-Zwischenwahlen in den Fokus. Alstom hat seine Finanzprognose für das laufende Jahr zum zweiten Mal gesenkt.",
-          "summary_easy": "Die Schriftart Conviva ist neu. Indische Helfer sind in den USA wichtig. Alstom hat schlechtere Zahlen erwartet.",
+          "headline_en": "Merz, Zelenskyy Call for Europe to Shape Peace Deal Amidst Doubts on Russian Ceasefire Seriousness",
+          "headline_de": "Merz und Selenskyj fordern Europas Beteiligung an Friedensabkommen, zweifeln an russischem Waffenstillstand",
+          "headline_easy": "Merz und Selenskyj wollen Frieden. Sie sagen: Europa soll helfen. Russland will keinen Waffenstillstand.",
+          "summary_en": "Friedrich Merz expresses skepticism about Russia's genuine commitment to a ceasefire. He, along with Ukrainian President Zelenskyy, urges European nations to take a leading role in constructing a peace agreement. This call comes as concerns linger over Russia's intentions for a lasting truce.",
+          "summary_de": "Friedrich Merz äußert Zweifel an der Ernsthaftigkeit Russlands bezüglich eines Waffenstillstands. Gemeinsam mit dem ukrainischen Präsidenten Selenskyj fordert er die europäischen Länder auf, eine führende Rolle bei der Gestaltung eines Friedensabkommens zu übernehmen. Dies geschieht angesichts anhaltender Bedenken hinsichtlich der russischen Absichten für einen dauerhaften Waffenstillstand.",
+          "summary_easy": "Friedrich Merz glaubt nicht, dass Russland einen Waffenstillstand will. Er und Präsident Selenskyj bitten Europa: Helfen Sie mit dem Frieden. Es ist wichtig, dass Europa jetzt handelt.",
           "links": [
             {
-              "title": "Conviva Font Family by Fincker Font Cuisine",
-              "url": "https://weandthecolor.com/conviva-font-family-by-fincker-font-cuisine/213060"
-            },
-            {
-              "title": "As US midterms enter last lap, Indian \"consultants\" suddenly thrust into spotlight",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/as-us-midterms-enter-last-lap-indian-consultants-suddenly-thrust-into-spotlight/articleshow/135456125.cms"
+              "title": "Merz sees no sign Russia is serious about a ceasefire as he and Zelenskyy call for Europe to help shape a peace deal",
+              "url": "https://www.dw.com/en/merz-sees-no-sign-russia-is-serious-about-a-ceasefire-as-he-and-zelenskyy-call-for-europe-to-help-shape-a-peace-deal/a-79836026"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Alstom Cuts Outlook Again, Indian Consultants in US Midterms Spotlight, Silicone Fluids Market Grows",
-          "headline_de": "Alstom senkt erneut Ausblick, indische Berater im US-Midterm-Fokus, Markt für Silikonflüssigkeiten wächst",
-          "headline_easy": "Alstom hat schlechte Nachrichten. Indische Berater sind in den USA wichtig. Ein Markt für Flüssigkeiten wächst.",
-          "summary_en": "Alstom has lowered its financial outlook for the second time this year, causing its stock to fall. In political news, Indian consultants are becoming notable due to the US midterms. The global market for silicone fluids is projected to reach $10.15 billion by 2031.",
-          "summary_de": "Alstom hat seine Finanzprognose erneut gesenkt, was zu einem Kursverfall führte. Indische Berater gewinnen im Kontext der US-Zwischenwahlen an Bedeutung. Der weltweite Markt für Silikonflüssigkeiten wird bis 2031 voraussichtlich 10,15 Milliarden US-Dollar erreichen.",
-          "summary_easy": "Alstom hat schlechtere Zahlen. Indische Berater sind wichtig für die Wahlen in den USA. Ein Markt für Flüssigkeiten wird größer.",
+          "headline_en": "Higher Oil Prices Boost Saudi Aramco Profits Amidst Disruptions",
+          "headline_de": "Höhere Ölpreise steigern Gewinne von Saudi Aramco trotz Störungen",
+          "headline_easy": "Öl ist teurer geworden. Saudi Aramco verdient mehr Geld. Es gab Probleme durch Angriffe.",
+          "summary_en": "Saudi Aramco has reported increased profits, primarily driven by higher oil prices. This financial boost occurred despite ongoing disruptions, suggesting resilience in their operations and the market's reaction to global energy price fluctuations.",
+          "summary_de": "Saudi Aramco meldet gestiegene Gewinne, hauptsächlich aufgrund höherer Ölpreise. Dieser finanzielle Aufschwung erfolgte trotz anhaltender Störungen, was auf operative Widerstandsfähigkeit und die Marktreaktion auf globale Energiepreisschwankungen hindeutet.",
+          "summary_easy": "Saudi Aramco hat mehr Geld verdient. Das liegt an teurem Öl. Es gab aber auch Probleme durch Angriffe.",
           "links": [
             {
-              "title": "Silicone Fluids Market worth $10.15 billion by 2031 - Exclusive Report by MarketsandMarkets™",
-              "url": "https://www.prnewswire.co.uk/news-releases/silicone-fluids-market-worth-10-15-billion-by-2031---exclusive-report-by-marketsandmarkets-302926262.html"
+              "title": "Higher oil prices boost Saudi Aramco profits despite disruption from attacks",
+              "url": "https://abcnews.com/Business/wireStory/higher-oil-prices-boost-saudi-aramco-profits-despite-137801590"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Alstom Stock Plunges on Slashed Outlook, Economist's Plan to Fight Fascism, US Midterms Loom",
-          "headline_de": "Alstom-Aktie stürzt nach gesenktem Ausblick ab, Ökonomenplan gegen Faschismus, US-Zwischenwahlen rücken näher",
-          "headline_easy": "Die Aktie von Alstom ist gefallen. Ein Plan gegen Faschismus. Die Wahlen in den USA sind bald.",
-          "summary_en": "Alstom's stock price has dropped significantly after the company revised its outlook downwards for the second time this year. An economist proposes a strategy to combat fascism through lower prices. The US midterm elections are approaching, influencing political discussions.",
-          "summary_de": "Die Aktie von Alstom ist nach einer erneuten Senkung der Prognose stark gefallen. Ein Ökonom schlägt vor, Faschismus durch niedrigere Preise zu bekämpfen. Die US-Zwischenwahlen stehen bevor und beeinflussen die politische Diskussion.",
-          "summary_easy": "Die Alstom-Aktie ist billiger. Ein Mann hat eine Idee gegen Faschismus mit billigen Preisen. Die Wahlen in den USA kommen bald.",
+          "headline_en": "EU Warns of Fridge Cyberattack; Emergency Preparedness Advice Issued",
+          "headline_de": "Ein Cyberangriff auf Supermärkte in Europa hat eine Warnung der EU ausgelöst. In verwandten Nachrichten werden den Bürgern Ratschläge zum Führen von Notfallausrüstungs-Kits gegeben, mit Zusicherungen, sich nicht über Regierungsempfehlungen aufzuregen.",
+          "headline_easy": "Es gab einen Angriff auf Computer von Kühlschränken. Die EU warnt davor. Sie sagt auch: Keine Angst vor Notfall-Sachen haben.",
+          "summary_en": "A cyberattack targeting supermarkets across Europe has prompted a warning from the EU. In related news, advice is being shared with citizens on maintaining emergency preparedness kits, with reassurances not to panic about government recommendations.",
+          "summary_de": "",
+          "summary_easy": "",
           "links": [
             {
-              "title": "An Economist’s Plan to Fight Fascism Through Lower Prices",
-              "url": "https://newrepublic.com/article/217162/economist-plan-fight-fascism-lower-prices"
+              "title": "Fridge cyberattack on supermarkets across Europe prompts EU warning",
+              "url": "https://www.thelocal.com/20261103/fridge-cyberattack-on-supermarkets-across-europe-prompts-eu-warning"
             },
             {
-              "title": "US midterms loom, Tsipras abandons ‘tea and sympathy’, anti-establishment politics sells, and the suitors for EYDAP",
-              "url": "https://en.protothema.gr/2026/11/02/us-midterms-loom-tsipras-abandons-tea-and-sympathy-anti-establishment-politics-sells-and-the-suitors-for-eydap/"
+              "title": "Why you shouldn't panic about governments urging citizens to maintain emergency preparedness kits",
+              "url": "https://www.snopes.com//news/2026/11/03/emergency-preparedness-kits/"
             }
           ]
         }
@@ -70,68 +66,48 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "New Health Gadget, Football Star Stats Compared, Silicone Fluids Market Growth",
-          "headline_de": "Neues Gesundheitsgerät, Fußballer-Statistiken im Vergleich, Wachstum des Silikonflüssigkeiten-Marktes",
-          "headline_easy": "Ein neues Gerät für die Gesundheit. Man vergleicht Zahlen von Fußballspielern. Ein Markt für Flüssigkeiten wächst.",
-          "summary_en": "A new health gadget has been released that tracks brain blood flow to assess health. A comparison of football stars Jude Bellingham and Zidane's statistics is featured. The silicone fluids market is also expected to see substantial growth.",
-          "summary_de": "Ein neues Gesundheitsgerät zur Messung des Blutflusses im Gehirn wurde vorgestellt. Die Statistiken der Fußballstars Jude Bellingham und Zidane werden verglichen. Auch der Markt für Silikonflüssigkeiten wird voraussichtlich stark wachsen.",
+          "headline_en": "Brendan Fraser and Andrew Scott Star in WWII Thriller 'Pressure' Set for Netflix Release",
+          "headline_de": "Der Zweite Weltkrieg-Thriller 'Pressure' mit Brendan Fraser und Andrew Scott wird für eine Veröffentlichung auf Netflix geplant. Dieser Film erweitert das wachsende Inhaltsangebot der Streaming-Plattform und richtet sich an ein Publikum, das an historischen Dramen und Thrillern interessiert ist.",
+          "headline_easy": "Ein neuer Film mit Brendan Fraser und Andrew Scott kommt auf Netflix. Der Film heißt 'Pressure'. Er ist spannend und handelt vom Krieg.",
+          "summary_en": "The WWII thriller 'Pressure,' starring Brendan Fraser and Andrew Scott, is scheduled for a release on Netflix. This film adds to the growing catalog of content available on the streaming platform, appealing to audiences interested in historical dramas and thrillers.",
+          "summary_de": "",
           "summary_easy": "",
           "links": [
             {
-              "title": "New health gadget tracks brain blood flow and claims to reveal how healthy you are for $1.000",
-              "url": "https://www.notebookcheck.net/New-health-gadget-tracks-brain-blood-flow-and-claims-to-reveal-how-healthy-you-are-for-1-000.1440107.0.html"
-            },
-            {
-              "title": "Bellingham vs Zidane: How do the Real Madrid stars' stats compare?",
-              "url": "https://www.skysports.com/football/video/13607038/jude-bellingham-how-do-real-madrid-stars-stats-compare-with-the-rest-of-europe"
+              "title": "Brendan Fraser and Andrew Scott’s WWII Thriller ‘Pressure’ Sets Netflix Release",
+              "url": "https://www.whats-on-netflix.com/news/brendan-fraser-and-andrew-scotts-wwii-thriller-pressure-sets-netflix-release/"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Apollo's Office Culture, Silicone Fluids Market Growth, New Health Gadget",
-          "headline_de": "Apollos Bürokultur, Wachstum des Silikonflüssigkeiten-Marktes, neues Gesundheitsgerät",
-          "headline_easy": "Firma Apollo hat neue Regeln. Ein Markt für Flüssigkeiten wächst. Ein neues Gerät für Gesundheit.",
-          "summary_en": "Apollo's unique office culture is highlighted, where dress code is relaxed and interns have better office views than the CEO. The silicone fluids market is projected to reach $10.15 billion by 2031. A new health gadget monitors brain blood flow.",
-          "summary_de": "Die einzigartige Bürokultur von Apollo wird hervorgehoben, wo Kleidung weniger wichtig ist und Praktikanten bessere Ausblicke haben als der CEO. Der Markt für Silikonflüssigkeiten wird voraussichtlich 10,15 Milliarden US-Dollar erreichen. Ein neues Gesundheitsgerät misst den Blutfluss im Gehirn.",
-          "summary_easy": "Firma Apollo hat neue Regeln. Praktikanten haben gute Sicht. Der Markt für Flüssigkeiten wird größer. Ein Gerät für die Gesundheit ist neu.",
+          "headline_en": "Tech Stocks Dip as Apple's Q3 Report Affects Markets; Global Markets Mixed",
+          "headline_de": "Technologieaktien verzeichneten nach dem Bericht von Apple zum dritten Quartal einen Rückgang, was zu einer gemischten Performance an den globalen Märkten führte. Dieser Trend deutet auf Vorsicht der Anleger und eine Sensibilität gegenüber den Ertragsberichten großer Technologieunternehmen hin.",
+          "headline_easy": "Tech-Aktien sind gefallen. Der Grund ist der Bericht von Apple. Die Märkte auf der Welt laufen nicht gut.",
+          "summary_en": "Technology stocks experienced a decline following Apple's third-quarter report, contributing to mixed performance across global markets. This trend indicates investor caution and sensitivity to major tech company earnings reports.",
+          "summary_de": "",
+          "summary_easy": "",
           "links": [
             {
-              "title": "Apollo doesn’t care what you wear to the office—and gives interns a better office view than CEO Marc Rowan",
-              "url": "https://fortune.com/2026/11/02/f500d-apollo-culture-offices-work-housing-market-data/"
+              "title": "Tech Jumps Over Apple Q3 Report on Wall Street Pre-Bell; Asia, Europe Off",
+              "url": "https://biztoc.com/x/ba509d4b25b0a0bd"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Junk Bond Market Cracks, US Midterms Loom, Anti-Establishment Politics Sells",
-          "headline_de": "Markt für Ramschanleihen bricht ein, US-Zwischenwahlen rücken näher, Anti-Establishment-Politik verkauft sich",
-          "headline_easy": "Der Markt für Anleihen ist in Gefahr. Die Wahlen in den USA sind bald. Politik gegen das Establishment ist beliebt.",
-          "summary_en": "The junk bond market is showing signs of weakness, suggesting a potential end-game for AI. The US midterm elections are approaching, impacting political discourse. Anti-establishment politics is gaining traction.",
-          "summary_de": "Der Markt für Ramschanleihen zeigt Schwächezeichen, was auf ein mögliches Ende der KI-Blase hindeutet. Die US-Zwischenwahlen stehen bevor und beeinflussen den politischen Diskurs. Anti-Establishment-Politik gewinnt an Bedeutung.",
-          "summary_easy": "Der Markt für Anleihen hat Probleme. Die Wahlen in den USA kommen bald. Politik gegen die Regierung ist stark.",
+          "headline_en": "Apple's Margin Outlook Pressures Tech Stocks Amidst Oil Price Fluctuations",
+          "headline_de": "Apples gemeldeter Margenausblick übt Abwärtsdruck auf Tech-Aktien aus, während die Ölpreise Schwankungen unterliegen. Dieser doppelte Einfluss schafft ein komplexes Umfeld für Anleger, die sich in den aktuellen Marktbedingungen zurechtfinden müssen.",
+          "headline_easy": "Apple sagt, seine Gewinne könnten sinken. Darum fallen Tech-Aktien. Auch die Ölpreise sind nicht stabil.",
+          "summary_en": "Apple's reported margin outlook is exerting downward pressure on tech stocks, while oil prices are experiencing fluctuations. This dual influence creates a complex environment for investors navigating the current market conditions.",
+          "summary_de": "",
+          "summary_easy": "",
           "links": [
             {
-              "title": "Junk Bond Market Starts to Crack, in Further Sign AI End Game is Nearing",
-              "url": "https://www.nakedcapitalism.com/2026/11/junk-bond-market-starts-to-crack-in-further-sign-ai-end-game-is-nearing.html"
-            }
-          ]
-        },
-        {
-          "type": "Technology",
-          "emoji": "💻",
-          "headline_en": "Grocery Store Freezer Hacks, Apollo's Office Culture, Silicone Fluids Market Growth",
-          "headline_de": "Hacks in Supermarkt-Gefriertruhen, Apollos Bürokultur, Wachstum des Silikonflüssigkeiten-Marktes",
-          "headline_easy": "Einbruch in Gefriertruhen von Läden. Firma Apollo hat neue Regeln. Ein Markt für Flüssigkeiten wächst.",
-          "summary_en": "Europe is experiencing a new wave of cyberattacks targeting grocery store freezers. Apollo's company culture is discussed, focusing on its relaxed office environment. The silicone fluids market is also predicted to grow substantially.",
-          "summary_de": "Europa wird von einer neuen Welle von Cyberangriffen auf Gefriertruhen in Supermärkten heimgesucht. Die Unternehmenskultur von Apollo wird thematisiert, mit Fokus auf ein entspanntes Büroumfeld. Der Markt für Silikonflüssigkeiten wird ebenfalls voraussichtlich stark wachsen.",
-          "summary_easy": "Läden in Europa werden gehackt. Gefriertruhen sind das Ziel. Firma Apollo hat neue Regeln. Der Markt für Flüssigkeiten wird größer.",
-          "links": [
-            {
-              "title": "Europe hit by another wave of grocery store freezer hacks",
-              "url": "https://www.businessinsider.com/freezer-hack-europe-grocery-stores-belgium-sweden-supermarkets-france-cyberattack-2026-11#"
+              "title": "Apple margin outlook pressures tech as reported U.S. strike lifts oil",
+              "url": "https://www.cnbc.com/2026/11/03/apple-margin-oil-iran.html"
             }
           ]
         }
@@ -144,52 +120,52 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Tucker Carlson Warns of Nuclear Escalation, Judge Tosses DOJ Lawsuit, Trump Rallies for Midterms",
-          "headline_de": "Tucker Carlson warnt vor nuklearer Eskalation, Richter weist DOJ-Klage ab, Trump sammelt für Zwischenwahlen",
-          "headline_easy": "Ein Mann warnt vor Atomwaffen. Ein Richter stoppt eine Klage. Trump macht Wahlkampf.",
-          "summary_en": "Tucker Carlson has voiced concerns that Trump might use a nuclear weapon on Iran, leading to World War III. A judge has dismissed a Department of Justice lawsuit related to the Alaska Senate race. Donald Trump is actively campaigning ahead of the midterm elections.",
-          "summary_de": "Tucker Carlson äußert Bedenken, dass Trump Atomwaffen gegen Iran einsetzen könnte, was zu einem Weltkrieg führen würde. Ein Richter hat eine Klage des Justizministeriums im Zusammenhang mit der Senatswahl in Alaska abgewiesen. Donald Trump hält Wahlkampfveranstaltungen vor den Zwischenwahlen ab.",
-          "summary_easy": "Ein Mann sagt, Trump will Atomwaffen benutzen. Das ist gefährlich. Ein Richter hat eine Klage gestoppt. Trump macht Wahlkampf.",
+          "headline_en": "US Midterm Elections Polling Information Released; Wildfire Damage Projected to Triple",
+          "headline_de": "Informationen zu Wahlzeiten und Wahllokalen für die US-Zwischenwahlen sind nun verfügbar und unterstützen die Wähler bei der Teilnahme. Separat deuten Prognosen darauf hin, dass die US-Waldbrandschäden bis zur Mitte des Jahrhunderts verdreifacht werden könnten, wobei Ratschläge zur Risikominderung angeboten werden.",
+          "headline_easy": "Die Wahlen in den USA sind wichtig. Hier sind die Zeiten. Es gibt auch eine Warnung wegen Waldbränden. Sie werden stärker.",
+          "summary_en": "Information regarding polling hours and locations for the US midterm elections is now available, assisting voters in participating. Separately, projections indicate that US wildfire damage could triple by mid-century, with advice offered on risk reduction measures.",
+          "summary_de": "",
+          "summary_easy": "",
           "links": [
             {
-              "title": "Tucker Carlson claims Trump may be days away from using a nuke on Iran to destroy its Pickaxe mountain lair in move that would mean 'WW3 is inevitable'",
-              "url": "https://www.dailymail.com/news/article-16258265/Tucker-Carlson-warns-Trump-days-away-using-nuke-Iran-destroy-Pickaxe-mountain-lair-mean-WW3-inevitable.html"
+              "title": "US midterm elections 2026: When do polls open in your state? Check voting hours, closing times and how to find your polling place",
+              "url": "https://economictimes.indiatimes.com/news/international/us/us-midterm-elections-2026-what-time-do-polls-open-pennsylvania-voting-hours-opening-and-closing-times-where-do-i-vote-polling-place-locator-november-3/articleshow/135493607.cms"
             },
             {
-              "title": "Judge Tosses DOJ Lawsuit In Alaska Senate Race",
-              "url": "https://crooksandliars.com/2026/11/breaking-judge-tosses-doj-lawsuit-alaska"
+              "title": "US wildfire damage is on pace to triple by mid-century, but there are affordable ways to lower the risk",
+              "url": "https://theconversation.com/us-wildfire-damage-is-on-pace-to-triple-by-mid-century-but-there-are-affordable-ways-to-lower-the-risk-287940"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Economist's Plan to Fight Fascism, Telephone's History of Intimacy, Trump's Political Influence",
-          "headline_de": "Ökonomenplan gegen Faschismus, Geschichte des Telefons, Trumps politischer Einfluss",
-          "headline_easy": "Ein Plan gegen Faschismus. Die Geschichte des Telefons. Trump ist wichtig in der Politik.",
-          "summary_en": "An economist suggests lowering prices as a method to combat fascism. A review explores the historical relationship between telephones, intimacy, and control. Political developments, including Trump's influence and statements regarding potential conflict, are also noted.",
-          "summary_de": "Ein Ökonom schlägt niedrigere Preise als Mittel zur Bekämpfung des Faschismus vor. Eine Rezension untersucht die historische Beziehung zwischen Telefonen, Intimität und Kontrolle. Politische Entwicklungen, einschließlich Trumps Einfluss und Äußerungen zu möglichen Konflikten, werden ebenfalls bemerkt.",
-          "summary_easy": "Ein Mann hat eine Idee gegen Faschismus mit billigen Preisen. Man spricht über Telefone. Trump ist wichtig in der Politik.",
+          "headline_en": "US Futures Mixed Ahead of Midterm Elections; Emergency Preparedness Advice",
+          "headline_de": "US-Aktien-Futures zeigen eine gemischte Performance, während die Nation auf die Ergebnisse der Zwischenwahlen wartet. In nicht verwandten Nachrichten werden Ratschläge zum Führen von Notfallausrüstungs-Kits weitergegeben, mit der Zusicherung, dass die Bürger nicht von der Regierungsführung beunruhigt werden sollten.",
+          "headline_easy": "Die Aktienmärkte in den USA sind heute nicht stabil. Die Wahlen sind wichtig. Man soll keine Angst vor Notfall-Sachen haben.",
+          "summary_en": "US stock futures are showing mixed performance as the nation awaits the midterm election results. In unrelated news, advice is being shared about maintaining emergency preparedness kits, with reassurance that citizens should not be alarmed by government guidance.",
+          "summary_de": "",
+          "summary_easy": "",
           "links": [
             {
-              "title": "The Telephone’s Tangled History of Intimacy and Control",
-              "url": "https://www.newyorker.com/magazine/2026/11/09/the-telephone-james-gleick-book-review"
+              "title": "US futures mixed with all eyes on midterms",
+              "url": "https://biztoc.com/x/ff3c618c101efb1a"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "Trump's Veto Threat, Nuclear War Fears, DOJ Lawsuit Dismissed",
-          "headline_de": "Trumps Veto-Drohung, Angst vor Atomkrieg, Klage des DOJ abgewiesen",
-          "headline_easy": "Trump droht mit Veto. Angst vor Atomkrieg. Klage gestoppt.",
-          "summary_en": "President Trump has stated he will veto all legislation if Democrats win control. Fears of nuclear conflict are heightened by reports of his potential actions towards Iran. In legal news, a DOJ lawsuit concerning the Alaska Senate race has been dismissed.",
-          "summary_de": "Präsident Trump hat erklärt, er werde alle Gesetze blockieren, falls die Demokraten die Kontrolle gewinnen. Die Befürchtungen vor einem Atomkonflikt werden durch Berichte über seine möglichen Handlungen gegenüber Iran verstärkt. Rechtlich wurde eine Klage des Justizministeriums im Senatsrennen von Alaska abgewiesen.",
-          "summary_easy": "Trump sagt: Keine neuen Gesetze, wenn die Demokraten gewinnen. Es gibt Angst vor Atomwaffen. Eine Klage ist weg.",
+          "headline_en": "US Wildfire Damage to Triple; Trump Considers Nuclear Strike on Iran",
+          "headline_de": "Prognosen deuten darauf hin, dass sich die US-Waldbrandschäden bis zur Mitte des Jahrhunderts verdreifachen werden, was wachsende Umweltbedenken hervorhebt. Parallel dazu behauptet ein ehemaliger CIA-Agent, dass der ehemalige Präsident Trump einen Atomangriff auf den Iran erwägt, was auf ein angespanntes geopolitisches Klima hindeutet.",
+          "headline_easy": "Es wird mehr Waldbrände in den USA geben. Sie machen mehr Schaden. Trump könnte Iran mit Atomwaffen angreifen.",
+          "summary_en": "Projections suggest US wildfire damage will triple by mid-century, highlighting growing environmental concerns. In parallel, a former CIA agent claims that former President Trump is considering a nuclear strike on Iran, indicating a tense geopolitical climate.",
+          "summary_de": "",
+          "summary_easy": "",
           "links": [
             {
-              "title": "Trump: I will veto everything if Dems win",
-              "url": "https://biztoc.com/x/c6521d1d7a39cad4"
+              "title": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War - The New York Times",
+              "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186567712"
             }
           ]
         }
@@ -202,52 +178,36 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Apollo's Workplace Culture, Estée Lauder's Outlook, Silicone Fluids Market Growth",
-          "headline_de": "Apollos Arbeitsplatzkultur, Estée Lauders Ausblick, Wachstum des Silikonflüssigkeiten-Marktes",
-          "headline_easy": "Firma Apollo hat neue Regeln. Estée Lauder hat gute Zahlen. Ein Markt für Flüssigkeiten wächst.",
-          "summary_en": "Apollo's company culture is highlighted for its relaxed approach and employee perks. Estée Lauder has raised its financial outlook for FY 2027, driven by strong sales growth. The silicone fluids market is projected to reach $10.15 billion by 2031.",
-          "summary_de": "Die Unternehmenskultur von Apollo wird für ihren entspannten Ansatz und Mitarbeiterleistungen hervorgehoben. Estée Lauder hat seine Finanzprognose für das Geschäftsjahr 2027 aufgrund starker Umsatzsteigerungen angehoben. Der Markt für Silikonflüssigkeiten wird voraussichtlich 10,15 Milliarden US-Dollar erreichen.",
-          "summary_easy": "Firma Apollo hat neue Regeln. Praktikanten haben gute Sicht. Estée Lauder hat mehr Geld verdient. Der Markt für Flüssigkeiten wird größer.",
+          "headline_en": "Tech Stocks Down as Apple Reports; Natural Rubber Prices Soar",
+          "headline_de": "Technologieaktien sind nach dem Q3-Bericht von Apple gefallen, was die asiatischen Märkte beeinträchtigte. Gleichzeitig haben die Naturkautschukpreise mit 300 ₹ pro kg ein Allzeithoch erreicht, was auf erhebliche Verschiebungen auf den Rohstoffmärkten hindeutet.",
+          "headline_easy": "Tech-Aktien sind nicht gut gelaufen. Der Grund ist Apple. Naturkautschuk kostet jetzt viel Geld.",
+          "summary_en": "Technology stocks have seen a downturn following Apple's Q3 report, impacting Asian markets. Concurrently, natural rubber prices have reached an all-time high of ₹300 per kg, signaling significant shifts in commodity markets.",
+          "summary_de": "",
+          "summary_easy": "",
           "links": [
             {
-              "title": "Estée Lauder Raises FY 2027 Outlook as Q1 Sales Rise to $3.7B, Driven by Fragrance Growth",
-              "url": "http://wwd.com/beauty-industry-news/beauty-features/estee-lauder-raises-f2027-outlook-as-q1-sales-rise-1239395282/"
+              "title": "Natural rubber prices touch all-time high of ₹300 per kg",
+              "url": "https://www.thehindubusinessline.com/economy/agri-business/natural-rubber-prices-touch-all-time-high-of-300-per-kg/article71660468.ece"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Indian Stock Market Surges, Wall Street Rising Stars, Tilaknagar Industries Slides",
-          "headline_de": "Indischer Aktienmarkt steigt stark an, aufstrebende Stars der Wall Street, Tilaknagar Industries fällt",
-          "headline_easy": "Der Aktienmarkt in Indien ist gut. Es gibt wichtige Leute an der Börse. Eine Firma verliert Wert.",
-          "summary_en": "The Indian stock market, including Sensex and Nifty, experienced significant gains. A feature highlights rising stars on Wall Street. Tilaknagar Industries' stock has seen a decline following its Q2 results, despite positive brokerage sentiment.",
-          "summary_de": "Der indische Aktienmarkt, einschließlich Sensex und Nifty, verzeichnete deutliche Zuwächse. Eine Vorstellung beleuchtet aufstrebende Stars an der Wall Street. Die Aktie von Tilaknagar Industries ist nach ihren Q2-Ergebnissen gesunken, trotz positiver Analystenmeinungen.",
-          "summary_easy": "Der Markt in Indien ist gut. Die Zahlen sind hoch. Eine Firma ist nicht so erfolgreich. Die Aktie ist gefallen.",
+          "headline_en": "Nifty Crosses 23,800 on Falling Crude Prices; Apple's Ecosystem Risk Highlighted",
+          "headline_de": "Der Nifty-Index hat die Marke von 23.800 überschritten, gestützt durch fallende Rohölpreise und positive Gewinnberichte. In der Zwischenzeit werden laut Apples CEO Bedenken hinsichtlich des 'größten Risikos' für das Apple-Ökosystem geäußert.",
+          "headline_easy": "Der Nifty-Aktienmarkt ist gestiegen. Öl ist billiger geworden. Apple hat ein Problem mit seinem System.",
+          "summary_en": "The Nifty index has surpassed 23,800, buoyed by falling crude oil prices and positive earnings reports. Meanwhile, concerns are being raised about the 'biggest risk' to Apple's ecosystem, according to its CEO.",
+          "summary_de": "",
+          "summary_easy": "",
           "links": [
             {
-              "title": "Sensex today | Stock Market Highlights: Sensex surges 1,233 pts, Nifty ends above 23,400; Reliance, Tata Steel top gainers",
-              "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-2nd-november-2026/article71653748.ece"
+              "title": "Nifty crosses 23,800 for first time since August on falling crude prices, earnings boost",
+              "url": "https://www.thehindubusinessline.com/markets/nifty-crosses-23800-for-first-time-since-august-on-falling-crude-prices-earnings-boost/article71660642.ece"
             },
             {
-              "title": "Business Insider's 2026 Rising Stars of Wall Street",
-              "url": "https://www.businessinsider.com/wall-street-rising-stars-finance-leaders-2026-11#"
-            }
-          ]
-        },
-        {
-          "type": "Technology",
-          "emoji": "💻",
-          "headline_en": "Final Fantasy VII Revelation Announced, Apollo's Office Culture, Silicone Fluids Market Growth",
-          "headline_de": "Final Fantasy VII Revelation angekündigt, Apollos Bürokultur, Wachstum des Silikonflüssigkeiten-Marktes",
-          "headline_easy": "Neues Spiel Final Fantasy VII. Firma Apollo hat neue Regeln. Ein Markt für Flüssigkeiten wächst.",
-          "summary_en": "Square Enix has revealed details about Final Fantasy VII Revelation, focusing on its story and world exploration. Apollo's unique workplace culture is discussed, highlighting employee comfort. The silicone fluids market is projected for significant growth.",
-          "summary_de": "Square Enix hat Details zu Final Fantasy VII Revelation enthüllt, mit Fokus auf Geschichte und Welterkundung. Die einzigartige Arbeitsplatzkultur von Apollo wird diskutiert, die den Komfort der Mitarbeiter betont. Der Markt für Silikonflüssigkeiten wird für erhebliches Wachstum prognostiziert.",
-          "summary_easy": "Es gibt ein neues Spiel: Final Fantasy VII. Es geht um die Geschichte. Firma Apollo hat neue Regeln. Der Markt für Flüssigkeiten wird größer.",
-          "links": [
-            {
-              "title": "Square Enix’s Final Fantasy VII Revelation Moves Summons Out of Chadley’s VR, Yet Anchoring Story “Revelations” To World Exploration Steals The Show",
-              "url": "https://wccftech.com/square-enix-final-fantasy-vii-revelation-summons-story-world-exploration/"
+              "title": "What Apple CEO John Ternus isn’t talking about: “The biggest risk to the Apple ecosystem”",
+              "url": "https://fortune.com/2026/11/03/what-apple-ceo-john-ternus-isnt-talking-about-the-biggest-risk-to-the-apple-ecosystem/"
             }
           ]
         }
@@ -260,56 +220,68 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Footballer Balogun's Progress, Software Update Released, Final Fantasy VII Revelation",
-          "headline_de": "Fortschritte von Fußballer Balogun, Software-Update veröffentlicht, Final Fantasy VII Revelation",
-          "headline_easy": "Ein Fußballer macht Fortschritte. Ein Update für Software. Ein neues Spiel.",
-          "summary_en": "Footballer Folarin Balogun is making a positive step after a challenging summer. A new software version, onlyworlds 0.103.1, has been released. Square Enix has detailed its upcoming game, Final Fantasy VII Revelation.",
-          "summary_de": "Fußballspieler Folarin Balogun macht nach einem schwierigen Sommer einen positiven Schritt. Eine neue Software-Version, onlyworlds 0.103.1, wurde veröffentlicht. Square Enix hat Details zu seinem kommenden Spiel Final Fantasy VII Revelation bekannt gegeben.",
-          "summary_easy": "Ein Fußballer ist besser geworden. Es gibt ein neues Update für Computer. Ein neues Spiel heißt Final Fantasy VII.",
+          "headline_en": "Smog Chokes India and Pakistan; US Intelligence Sharing Fractured Under Trump",
+          "headline_de": "Schwerer Smog plagt Indien und Pakistan, wobei Lahore eine Luftqualität aufweist, die 60-mal höher ist als die WHO-Grenzwerte. Unterdessen wird berichtet, dass die US-Geheimdienstinformationen während der Trump-Administration fragmentiert sind, was die internationale Zusammenarbeit beeinträchtigt.",
+          "headline_easy": "Die Luft ist sehr schlecht in Indien und Pakistan. Die Luft ist nicht gut für die Menschen. Die USA reden weniger mit anderen Ländern, wenn Trump Präsident ist.",
+          "summary_en": "Severe smog is plaguing India and Pakistan, with Lahore experiencing air quality 60 times higher than WHO limits. Meanwhile, US intelligence sharing is reported to have fragmented during the Trump administration, impacting international cooperation.",
+          "summary_de": "",
+          "summary_easy": "",
           "links": [
             {
-              "title": "Folarin Balogun takes a first, tiny step toward moving on from a calamitous summer",
-              "url": "https://sports.yahoo.com/articles/folarin-balogun-takes-first-tiny-113859877.html"
+              "title": "Toxic smog is choking India and Pakistan: Pollution soars, with fine particulate levels in Lahore 60 times higher than the WHO limit",
+              "url": "https://en.protothema.gr/2026/11/03/toxic-smog-is-choking-india-and-pakistan-pollution-soars-with-fine-particulate-levels-in-lahore-60-times-higher-than-the-who-limit/"
             },
             {
-              "title": "onlyworlds 0.103.1",
-              "url": "https://pypi.org/project/onlyworlds/0.103.1/"
+              "title": "U.S. intelligence sharing has fractured under Trump, officials say",
+              "url": "https://www.yahoo.com/news/politics/articles/exclusive-us-intelligence-sharing-fractured-110514786.html"
             }
           ]
         },
         {
-          "type": "Business",
-          "emoji": "💼",
-          "headline_en": "Medical Trial Results, Music Festival Lineup Announced, Footballer Balogun's Progress",
-          "headline_de": "Ergebnisse einer medizinischen Studie, Musikfestival-Line-up angekündigt, Fortschritte von Fußballer Balogun",
-          "headline_easy": "Eine Studie mit Medizin. Ein Musikfestival kommt. Ein Fußballer macht Fortschritte.",
-          "summary_en": "A medical trial showed that a Sirolimus-Coated Balloon performed similarly to a Drug-Eluting Stent. The Mighty Hoopla Festival has announced its 2027 headliners, including Robyn and The Pussycat Dolls. Footballer Folarin Balogun is making progress.",
-          "summary_de": "Eine medizinische Studie ergab, dass ein Sirolimus-beschichteter Ballon ähnlich gut wie ein medikamentenfreisetzender Stent abschnitt. Das Mighty Hoopla Festival hat seine Headliner für 2027 bekannt gegeben, darunter Robyn und The Pussycat Dolls. Fußballspieler Folarin Balogun macht Fortschritte.",
-          "summary_easy": "Ein Test mit Medizin war gut. Ein Festival mit Musik hat neue Künstler. Ein Fußballer ist besser geworden.",
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Trump Faces Midterm Reckoning Amidst Severe Smog in India and Pakistan",
+          "headline_de": "Der ehemalige Präsident Trump steht vor einer bedeutenden Wahlabrechnung, da die Wähler an den US-Zwischenwahlen teilnehmen. Dieses Ereignis findet vor dem Hintergrund schweren Smogs statt, der Indien und Pakistan betrifft und globale ökologische und politische Herausforderungen hervorhebt.",
+          "headline_easy": "Heute sind Wahlen in den USA. Trump muss sehen, ob die Leute ihn mögen. In Indien und Pakistan gibt es viel Smog.",
+          "summary_en": "Former President Trump faces a significant electoral reckoning as voters participate in the US midterm elections. This event occurs against a backdrop of severe smog affecting India and Pakistan, highlighting global environmental and political challenges.",
+          "summary_de": "",
+          "summary_easy": "",
           "links": [
             {
-              "title": "Sirolimus-Coated Balloon Matches Drug-Eluting Stent at One Year in Large International TRANSFORM II Trial",
-              "url": "https://www.prnewswire.co.uk/news-releases/sirolimus-coated-balloon-matches-drug-eluting-stent-at-one-year-in-large-international-transform-ii-trial-302926334.html"
-            },
-            {
-              "title": "The Pussycat Dolls and Robyn will headline Mighty Hoopla Festival 2027: dates, tickets and prices",
-              "url": "https://www.timeout.com/london/news/mighty-hoopla-festival-2027-robyn-the-pussycat-dolls-tickets-prices-110226"
+              "title": "Trump faces day of reckoning as voters head to the polls for midterm elections",
+              "url": "https://www.irishtimes.com/world/us/2026/11/03/trump-faces-day-of-reckoning-as-voters-head-to-the-polls-for-midterm-elections/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Nuclear War Fears, Billionaire Wealth Growth, Telephone's History",
-          "headline_de": "Angst vor Atomkrieg, Vermögenswachstum von Milliardären, Geschichte des Telefons",
-          "headline_easy": "Angst vor Atomwaffen. Geld von reichen Leuten. Die Geschichte des Telefons.",
-          "summary_en": "Concerns about potential nuclear conflict are highlighted. Mukesh Ambani leads Forbes' list of billionaire wealth gainers. A review delves into the complex history of the telephone and its impact on intimacy and control.",
-          "summary_de": "Bedenken hinsichtlich eines möglichen Atomkonflikts werden hervorgehoben. Mukesh Ambani führt die Liste der Milliardäre mit Vermögenszuwachs von Forbes an. Eine Rezension befasst sich mit der komplexen Geschichte des Telefons und seinem Einfluss auf Intimität und Kontrolle.",
-          "summary_easy": "Man hat Angst vor Atomwaffen. Ein reicher Mann hat mehr Geld. Man spricht über die Geschichte von Telefonen.",
+          "headline_en": "Woman Jailed for GoFundMe Scam; Emergency Preparedness Advice Issued",
+          "headline_de": "Eine Frau in Tennessee wurde wegen der Erfindung einer Geschichte über eine verwundete Marine zur Einwerbung von GoFundMe-Spenden inhaftiert. In separaten Nachrichten werden Ratschläge zum Führen von Notfallausrüstungs-Kits weitergegeben, mit Zusicherungen an die Bürger, sich nicht über Regierungsempfehlungen aufzuregen.",
+          "headline_easy": "Eine Frau hat viel Geld auf GoFundMe bekommen, weil sie gelogen hat. Sie ist jetzt im Gefängnis. Es gibt auch Tipps, wie man sich auf Notfälle vorbereitet.",
+          "summary_en": "A woman in Tennessee has been jailed for fabricating a story about being a wounded Marine to solicit GoFundMe donations. In separate news, advice is being shared on maintaining emergency preparedness kits, with assurances to citizens not to panic about government recommendations.",
+          "summary_de": "",
+          "summary_easy": "",
           "links": [
             {
-              "title": "Ambani tops Forbes' billionaire gainers list with $6.3 bn wealth jump",
-              "url": "https://www.business-standard.com/companies/people/ambani-tops-forbes-billionaire-gainers-list-with-6-3-bn-wealth-jump-126110200975_1.html"
+              "title": "A Tennessee woman claimed she was a wounded Marine who survived an Afghanistan ambush; she used the story to obtain GoFundMe donations and was jailed",
+              "url": "https://timesofindia.indiatimes.com/world/us/a-tennessee-woman-claimed-she-was-a-wounded-marine-who-survived-an-afghanistan-ambush-she-used-the-story-to-obtain-gofundme-donations-and-was-jailed/articleshow/135494715.cms"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "Ram V Launches Mirror Maker Studios; Trump Considers Iran Strike",
+          "headline_de": "Ram V hat Mirror Maker Studios gestartet, was ein neues Unterfangen in der Kreativwirtschaft darstellt. In geopolitischen Nachrichten erwägt der ehemalige Präsident Trump Berichten zufolge einen Atomangriff auf den Iran, was auf hohe Spannungen in der Region hindeutet.",
+          "headline_easy": "Ram V hat ein neues Studio. Es heißt Mirror Maker. Trump denkt über einen Angriff auf Iran nach.",
+          "summary_en": "Ram V has launched Mirror Maker Studios, marking a new venture in the creative industry. In geopolitical news, former President Trump is reportedly considering a nuclear strike on Iran, indicating high tensions in the region.",
+          "summary_de": "",
+          "summary_easy": "",
+          "links": [
+            {
+              "title": "Ram V Launches Mirror Maker Studios And On YouTube Ahead Of Deicidium",
+              "url": "https://bleedingcool.com/comics/ram-v-launches-mirror-maker-studios-and-on-youtube-ahead-of-deicidium/"
             }
           ]
         }
@@ -320,27 +292,27 @@
     "wahlperiode": 21,
     "sitzung": 103,
     "url": "https://dserver.bundestag.de/btp/21/21103.pdf",
-    "summary_en": "The 103rd session of the 21st German Bundestag took place on Friday, October 16, 2026. The agenda included a significant debate on the \"Early Start Pension\" (Frühstartrente) bill, which underwent its second and third readings. The Budget Committee and the Finance Committee presented their reports on this matter. Key speakers addressing the \"Early Start Pension\" included Frauke Heiligenstadt (SPD), Michael Thews (SPD), Ulrike Schielke-Ziesing (AfD), Fritz Güntzler (CDU/CSU), and Stefan Schmidt (BÜNDNIS 90/DIE GRÜNEN). The session also covered motions concerning the \"Junior Savings Depot\" proposed by the AfD, advocating for secure pensions for children, and a proposal by Die Linke to strengthen financial education for young people. Several other agenda items were discussed, including a motion by Die Linke and the Greens to realign the nursing care insurance (Pflegeversicherung) to be more solidary and needs-based, and a motion by the Greens for a sustainable care reform to secure the social nursing care insurance for the future. The Bundestag also began its first reading of a government bill to modernize arbitration law and amend civil procedure rules for international civil proceedings. Another first reading concerned a government bill to reduce bureaucracy in the transport sector. Finally, the AfD introduced a motion to ensure technological openness in the transport sector and end the privileging of electromobility.",
-    "summary_de": "Die 103. Sitzung des Deutschen Bundestages der 21. Wahlperiode fand am Freitag, den 16. Oktober 2026, statt. Auf der Tagesordnung stand eine ausführliche Debatte über den Gesetzentwurf zur Einführung einer Frühstartrente, der in zweiter und dritter Beratung beraten wurde. Der Haushaltsausschuss und der Finanzausschuss legten ihre Berichte hierzu vor. Wichtige Redner zur Frühstartrente waren Frauke Heiligenstadt (SPD), Michael Thews (SPD), Ulrike Schielke-Ziesing (AfD), Fritz Güntzler (CDU/CSU) und Stefan Schmidt (BÜNDNIS 90/DIE GRÜNEN). Des Weiteren wurden Anträge zur \"Sicheren Rente unserer Kinder – Junior-Spardepot\" der AfD und zur Stärkung der finanziellen Bildung für junge Menschen durch Die Linke behandelt. Andere Tagesordnungspunkte umfassten einen Antrag von Die Linke und Bündnis 90/Die Grünen zur solidarischen und bedarfsgerechten Ausrichtung der Pflegeversicherung sowie einen Antrag der Grünen auf eine nachhaltige Pflegereform zur Zukunftsfestmachung der sozialen Pflegeversicherung. Der Bundestag begann zudem die erste Beratung eines Gesetzentwurfs der Bundesregierung zur Modernisierung des Schiedsverfahrensrechts und weiterer Änderungen der Zivilprozessordnung. Eine weitere erste Beratung betraf einen Gesetzentwurf der Bundesregierung zum Bürokratierückbau im Verkehrsbereich. Abschließend legte die AfD einen Antrag vor, die Technologieoffenheit im Verkehrssektor zu gewährleisten und die Privilegierung der Elektromobilität zu beenden.",
-    "summary_easy": "Am 16. Oktober 2026 gab es eine Sitzung im Bundestag. Die Abgeordneten sprachen über eine \"Frühstartrente\". Das ist eine Rente, die man früher bekommen kann. Frauke Heiligenstadt und Michael Thews von der SPD sprachen dafür. Ulrike Schielke-Ziesing und Fritz Güntzler von der AfD und CDU/CSU sprachen auch darüber. Die AfD möchte ein \"Junior-Spardepot\" für Kinder. Die Linke will jungen Menschen mehr über Geld beibringen. Es ging auch um die Pflegeversicherung. Die Grünen und Die Linke wollen sie besser machen. Es gab auch neue Gesetze zur Schlichtung von Streitigkeiten. Ein anderes neues Gesetz soll Bürokratie im Verkehr reduzieren. Die AfD fordert, dass alle Technologien im Verkehr erlaubt sein sollen.",
+    "summary_en": "The 103rd session of the 21st German Bundestag convened on Friday, October 16, 2026. The session focused on several key legislative proposals and motions. A primary agenda item, Topic 32a, involved the second and third readings of a government bill to introduce early retirement benefits, with reports from the Budget Committee and Finance Committee. Relatedly, the Finance Committee presented recommendations on motions concerning a \"Junior Savings Depot\" for children's pensions, proposed by the AfD (MPs Ulrike Schielke-Ziesing, René Springer, Peter Bohnhof), and a motion by Die Linke (MPs Lisa Schubert, Nicole Gohlke, Janine Wissler) to strengthen financial education for young people. Speakers included Michael Thews (SPD), Ulrike Schielke-Ziesing (AfD), Fritz Güntzler (CDU/CSU), Stefan Schmidt (BÜNDNIS 90/DIE GRÜNEN), Iris Nieland (AfD), Dr. Carsten Brodesser (CDU/CSU), Isabelle Vandre (Die Linke), Dr. Stefan Korbach (CDU/CSU), Torben Braga (AfD), Dr. Florian Dorn (CDU/CSU), and Diana Zimmer (AfD). Topic 33 addressed the care insurance system, with motions from Die Linke (MPs Evelyn Schötz, Nicole Gohlke, Dr. Michael Arndt) advocating for a \"Solidarity and Needs-Based Care Insurance\" and calling for \"No Benefit Cuts in Care.\" BÜNDNIS 90/DIE GRÜNEN (MPs Simone Fischer, Dr. Janosch Dahmen, Dr. Paula Piechotta) proposed a \"Sustainable Nursing Reform to Future-Proof Social Care Insurance.\" Contributors included Sören Pellmann (Die Linke), Sarah Vollath (Die Linke), Axel Müller (CDU/CSU), Tobias Ebenberger (AfD), Claudia Moll (SPD), Simone Fischer (BÜNDNIS 90/DIE GRÜNEN), Dr. Hendrik Streeck (CDU/CSU), Nicole Hess (AfD), Serdar Yüksel (SPD), Birgit Bessin (AfD), Misbah Khan (BÜNDNIS 90/DIE GRÜNEN), Evelyn Schötz (Die Linke), Katrin Staffler (CDU/CSU), and Ates Gürpinar (Die Linke). Topic 34 initiated the first reading of a government bill to reduce bureaucracy in the transport sector, with contributions from Steffen Bilger (Federal Minister BMV), Wolfgang Wiehle (AfD), Anja Troff-Schaffarzyk (SPD), Matthias Gastel (BÜNDNIS 90/DIE GRÜNEN), Sören Pellmann (Die Linke), Daniel Kölbl (CDU/CSU), Maximilian Kneller (AfD), Dirk Vöpel (SPD), Günter Baumgartner (CDU/CSU), Agnes Conrad (Die Linke). Topic 35 involved a motion by BÜNDNIS 90/DIE GRÜNEN (MPs Harald Ebner, Dr. Jan-Niclas Gesenhues, Michael Kellner) to send a strong signal for the protection of livelihoods at the World Biodiversity Conference in Yerevan. Speakers included Dr. Christina Baum (AfD), Emmi Zeulner (CDU/CSU), Ates Gürpinar (Die Linke), and Emmi Zeulner (CDU/CSU). Topic 36, a first reading, concerned a government bill to modernize arbitration law and amend civil procedure in international civil matters, with interventions by Dr. Stefanie Hubig (Federal Minister BMJV), Fabian Jacobi (AfD), Carl-Philipp Sassenrath (CDU/CSU), Dr. Till Steffen (BÜNDNIS 90/DIE GRÜNEN), Aaron Valent (Die Linke), Christian Moser (CDU/CSU), Daniel Rinkert (SPD), and Sebastian Steineke (CDU/CSU). Finally, Topic 37 debated an AfD motion (MPs Adam Balten, Steffen Kotré, Dr. Malte Kaufmann) to ensure technology openness in the transport sector and end the \"privileging of electromobility,\" with remarks from Adam Balten (AfD), Dr. Klaus Wiener (CDU/CSU), Karsten Hilse (AfD), Dr. Klaus Wiener (CDU/CSU), Julian Joswig (BÜNDNIS 90/DIE GRÜNEN), Dunja Kreiser (SPD). An objection to an order measure was also addressed.",
+    "summary_de": "Die 103. Sitzung des Deutschen Bundestages der 21. Wahlperiode fand am Freitag, den 16. Oktober 2026 statt. Die Sitzung konzentrierte sich auf mehrere wichtige Gesetzesentwürfe und Anträge. Ein zentraler Tagesordnungspunkt, TOP 32a, umfasste die zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Einführung einer Frühstartrente, mit Berichten des Haushaltsausschusses und des Finanzausschusses. In diesem Zusammenhang legte der Finanzausschuss Beschlussempfehlungen zu Anträgen vor: Zum einen der Antrag der AfD (Abgeordnete Ulrike Schielke-Ziesing, René Springer, Peter Bohnhof) für ein „Junior-Spar-Depot“ zur Sicherung der Rente von Kindern, zum anderen der Antrag von Die Linke (Abgeordnete Lisa Schubert, Nicole Gohlke, Janine Wissler) zur Stärkung der finanziellen Bildung junger Menschen. Es sprachen Michael Thews (SPD), Ulrike Schielke-Ziesing (AfD), Fritz Güntzler (CDU/CSU), Stefan Schmidt (BÜNDNIS 90/DIE GRÜNEN), Iris Nieland (AfD), Dr. Carsten Brodesser (CDU/CSU), Isabelle Vandre (Die Linke), Dr. Stefan Korbach (CDU/CSU), Torben Braga (AfD), Dr. Florian Dorn (CDU/CSU) und Diana Zimmer (AfD). TOP 33 befasste sich mit der Pflegeversicherung. Hierzu lagen Anträge von Die Linke (Abgeordnete Evelyn Schötz, Nicole Gohlke, Dr. Michael Arndt) für eine „solide und bedarfsgerechte Pflegeversicherung“ und für „keine Leistungskürzungen in der Pflege“ vor. BÜNDNIS 90/DIE GRÜNEN (Abgeordnete Simone Fischer, Dr. Janosch Dahmen, Dr. Paula Piechotta) brachten eine „nachhaltige Pflegereform zur Zukunftsfestmachung der sozialen Pflegeversicherung“ ein. Beteiligt waren unter anderem Sören Pellmann (Die Linke), Sarah Vollath (Die Linke), Axel Müller (CDU/CSU), Tobias Ebenberger (AfD), Claudia Moll (SPD), Simone Fischer (BÜNDNIS 90/DIE GRÜNEN), Dr. Hendrik Streeck (CDU/CSU), Nicole Hess (AfD), Serdar Yüksel (SPD), Birgit Bessin (AfD), Misbah Khan (BÜNDNIS 90/DIE GRÜNEN), Evelyn Schötz (Die Linke), Katrin Staffler (CDU/CSU) und Ates Gürpinar (Die Linke). TOP 34 leitete die erste Beratung eines Gesetzentwurfs der Bundesregierung zum Bürokratierückbau im Verkehrsbereich ein. Hierzu äußerten sich Steffen Bilger (Bundesminister BMV), Wolfgang Wiehle (AfD), Anja Troff-Schaffarzyk (SPD), Matthias Gastel (BÜNDNIS 90/DIE GRÜNEN), Sören Pellmann (Die Linke), Daniel Kölbl (CDU/CSU), Maximilian Kneller (AfD), Dirk Vöpel (SPD), Günter Baumgartner (CDU/CSU), Agnes Conrad (Die Linke). TOP 35 beinhaltete einen Antrag von BÜNDNIS 90/DIE GRÜNEN (Abgeordnete Harald Ebner, Dr. Jan-Niclas Gesenhues, Michael Kellner), auf der Weltbiodiversitätskonferenz in Jerewan ein starkes Signal für den Schutz der Lebensgrundlagen zu setzen. Es sprachen Dr. Christina Baum (AfD), Emmi Zeulner (CDU/CSU), Ates Gürpinar (Die Linke) und Emmi Zeulner (CDU/CSU). TOP 36, eine erste Beratung, betraf einen Gesetzentwurf der Bundesregierung zur Modernisierung des Schiedsverfahrensrechts sowie zu weiteren Änderungen der Zivilprozessordnung im Bereich des internationalen Zivilverfahrensrechts. Wortmeldungen kamen von Dr. Stefanie Hubig (Bundesministerin BMJV), Fabian Jacobi (AfD), Carl-Philipp Sassenrath (CDU/CSU), Dr. Till Steffen (BÜNDNIS 90/DIE GRÜNEN), Aaron Valent (Die Linke), Christian Moser (CDU/CSU), Daniel Rinkert (SPD), Sebastian Steineke (CDU/CSU). Abschließend wurde TOP 37 behandelt, ein Antrag der AfD (Abgeordnete Adam Balten, Steffen Kotré, Dr. Malte Kaufmann) zur Gewährleistung von Technologieoffenheit im Verkehrssektor und zur Beendigung der „Privilegierung der Elektromobilität“. Hierzu trugen Adam Balten (AfD), Dr. Klaus Wiener (CDU/CSU), Karsten Hilse (AfD), Dr. Klaus Wiener (CDU/CSU), Julian Joswig (BÜNDNIS 90/DIE GRÜNEN), Dunja Kreiser (SPD) vor. Zudem wurde ein Einspruch gegen eine Ordnungsmaßnahme behandelt.",
+    "summary_easy": "Der Bundestag hatte am 16. Oktober 2026 eine Sitzung. Es gab viele Themen. Ein Thema war eine neue Rente für frühes Rentenalter. Die Regierung hat einen Vorschlag gemacht. Es gab auch Anträge von Parteien. Die Partei AfD wollte ein Sparkonto für Kinder. Die Partei Die Linke wollte mehr Geld-Wissen für junge Leute. Viele Abgeordnete sprachen über diese Themen. Ein anderes wichtiges Thema war die Pflegeversicherung. Die Linke und die Grünen hatten Vorschläge gemacht. Sie wollen die Pflege gut machen. Die Regierung hat auch einen Vorschlag gemacht, um weniger Bürokratie im Verkehr zu haben. Die Grünen sprachen über Umweltschutz bei einer Welt-Konferenz. Die AfD sprach über Elektro-Autos und andere Technik. Es gab auch einen Vorschlag für neue Gesetze beim Schiedsverfahren. Ein Antrag wegen einer Ordnungsmaßnahme wurde auch besprochen.",
     "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact_en": "In ancient Rome, purple dye was so expensive and difficult to produce that only the emperor and the highest-ranking officials were allowed to wear it. This exclusivity turned purple into a symbol of imperial power and wealth, solidifying its association with royalty for centuries to come.",
-      "fact_de": "Im alten Rom war der Purpurfarbstoff so teuer und schwer herzustellen, dass nur der Kaiser und die ranghöchsten Beamten ihn tragen durften. Diese Exklusivität machte Purpur zu einem Symbol kaiserlicher Macht und Reichtum und festigte seine Assoziation mit Königtum für kommende Jahrhunderte.",
-      "fact_easy": "Im alten Rom war die Farbe Lila sehr teuer. Nur der Kaiser durfte sie tragen. Deshalb war Lila ein Zeichen für Macht und Reichtum.",
+      "fact_en": "In ancient Rome, the color Tyrian purple was so expensive and difficult to produce that only the emperor and highest-ranking officials were permitted to wear it. The dye was extracted from thousands of sea snails, with about 10,000 snails needed for just one gram of dye, making it literally worth its weight in gold.",
+      "fact_de": "Im antiken Rom war die Farbe Purpur von Tyros so teuer und schwierig herzustellen, dass nur der Kaiser und die ranghöchsten Beamten sie tragen durften. Der Farbstoff wurde aus Tausenden von Meeresschnecken gewonnen, wobei etwa 10.000 Schnecken für nur ein Gramm Farbe benötigt wurden, was sie buchstäblich ihren Gewicht in Gold wert machte.",
+      "fact_easy": "In alten Rom war Purpur sehr teuer. Nur der Kaiser und wichtige Leute durften es tragen. Man machte die Farbe aus vielen Schnecken.",
       "category": "Fashion",
-      "source_title": "Tyrian purple",
-      "source_url": "https://en.wikipedia.org/wiki/Tyrian_purple"
+      "source_title": "Tyrian Purple",
+      "source_url": "https://www.metmuseum.org/art/collection/search/409286"
     },
     {
-      "fact_en": "The original Olympic Games in ancient Greece were dedicated to Zeus and featured religious rituals and sacrifices alongside athletic competitions. The games were not just about sport but also a significant religious festival, with athletes competing to honor the gods.",
-      "fact_de": "Die ursprünglichen Olympischen Spiele im antiken Griechenland waren Zeus gewidmet und beinhalteten neben sportlichen Wettkämpfen auch religiöse Rituale und Opfergaben. Die Spiele waren nicht nur dem Sport gewidmet, sondern auch ein bedeutendes religiöses Fest, bei dem Athleten antraten, um die Götter zu ehren.",
-      "fact_easy": "Die alten Olympischen Spiele waren für den Gott Zeus. Es gab Wettkämpfe und religiöse Zeremonien. Die Athleten kämpften für die Götter.",
-      "category": "Religion",
-      "source_title": "Ancient Olympic Games",
-      "source_url": "https://en.wikipedia.org/wiki/Ancient_Olympic_Games"
+      "fact_en": "The tradition of blowing out candles on a birthday cake originated from ancient Greece, where people believed that the smoke from the candles carried their prayers and wishes to the gods. They also thought that the flickering flames represented the moon, and the circular cake symbolized it.",
+      "fact_de": "Die Tradition, Kerzen auf einer Geburtstagstorte auszublasen, stammt aus dem antiken Griechenland, wo die Menschen glaubten, dass der Rauch der Kerzen ihre Gebete und Wünsche zu den Göttern trug. Sie dachten auch, dass die flackernden Flammen den Mond darstellten und der runde Kuchen ihn symbolisierte.",
+      "fact_easy": "In Griechenland blies man Kerzen auf Kuchen aus. Man dachte, der Rauch bringt Gebete zu den Göttern. Der Kuchen war wie der Mond.",
+      "category": "Traditions",
+      "source_title": "The Origin of Birthday Candles",
+      "source_url": "https://www.smithsonianmag.com/smart-news/heres-the-real-origin-of-birthday-candles-180949857/"
     }
   ],
   "frankfurt": {
@@ -348,145 +320,84 @@
       {
         "type": "Events",
         "emoji": "🎪",
-        "headline_en": "Can Uzun Stars for Eintracht Frankfurt; Germany's World Championship Status Uncertain; Riots Erupt in Frankfurt After Gen-Z Demonstrations",
-        "headline_de": "Can Uzun glänzt für Eintracht Frankfurt; Deutschlands WM-Status unsicher; Krawalle in Frankfurt nach Gen-Z-Demonstrationen",
-        "headline_easy": "Can Uzun ist ein guter Spieler für Eintracht Frankfurt. Es ist unklar, ob Deutschland bei der WM spielen darf. In Frankfurt gab es nach Demonstrationen Gewalt.",
-        "summary_en": "Eintracht Frankfurt's talent Can Uzun impressed in a recent match with strong performance metrics. Meanwhile, Germany's participation in the 2027 Ice Hockey World Championship is at risk due to potential government intervention regarding Russia's inclusion. Frankfurt also experienced significant unrest and arrests following Gen-Z demonstrations, with authorities condemning the violence.",
-        "summary_de": "Eintrachts Talent Can Uzun überzeugte zuletzt mit starken Leistungen. Unterdessen steht Deutschlands Teilnahme an der Eishockey-WM 2027 auf der Kippe, da die Bundesregierung Russlands Start verhindern könnte. Frankfurt erlebte zudem nach Gen-Z-Demonstrationen erhebliche Ausschreitungen mit zahlreichen Festnahmen, wobei die Gewalt verurteilt wurde.",
-        "summary_easy": "Can Uzun hat gut für Eintracht Frankfurt gespielt. Es gibt ein Problem mit der Eishockey-Weltmeisterschaft. In Frankfurt gab es Gewalt und die Polizei hat viele Leute festgenommen.",
+        "headline_en": "Columnist Links Zeil Disturbances to Specific Community, CDU Politician Disappointed with Merz, New EV Competitor Arrives",
+        "headline_de": "Kolumnist verbindet Zeil-Vorfälle mit bestimmter Community, CDU-Politikerin enttäuscht von Merz, neuer E-Auto-Konkurrent.",
+        "headline_easy": "Ein Experte spricht über Probleme auf der Zeil. Eine Politikerin ist enttäuscht von Herrn Merz. Ein neues Elektro-Auto ist da.",
+        "summary_en": "A columnist attributes recent disturbances on the Zeil to a specific Arab-Muslim milieu, highlighting Frankfurt's high percentage of residents with migration backgrounds. Meanwhile, a CDU politician expresses disappointment after a meeting with Friedrich Merz, describing his demeanor as condescending. In automotive news, the Jaecoo 5 EV is introduced as a new competitor in the electric SUV market.",
+        "summary_de": "Ein Kolumnist führt jüngste Störungen auf der Zeil auf ein bestimmtes arabisch-muslimisches Milieu zurück und hebt den hohen Anteil von Menschen mit Migrationshintergrund in Frankfurt hervor. Gleichzeitig äußert eine CDU-Politikerin Enttäuschung nach einem Treffen mit Friedrich Merz und beschreibt dessen Auftreten als herablassend. In der Automobilbranche wird der Jaecoo 5 EV als neuer Konkurrent im Segment der Elektro-SUVs vorgestellt.",
+        "summary_easy": "Ein Experte sagt, es gibt ein Problem mit einer Gruppe von Menschen auf der Zeil. Eine Politikerin hat mit Herrn Merz gesprochen und ist nicht zufrieden. Ein neues Elektro-Auto namens Jaecoo 5 EV ist jetzt auf dem Markt. Es ist ein neues Auto, das mit anderen Autos konkurriert.",
         "links": [
           {
-            "title": "SO ist Uzun wirklich ein Unterschiedsspieler",
-            "url": "https://www.bild.de/sport/fussball/eintracht-frankfurt-so-ist-can-uzun-wirklich-ein-unterschiedsspieler-6ae862727c6a13952d3adf60"
+            "title": "„Es gibt auf der Zeil ein Milieu, arabisch-muslimisch, das dort die Zone besetzt hält“: Kolumnist Reinhard Mohr ist gebürtiger Frankfurter. Er spricht nach den Halloween-Krawallen von einem „speziellen Problem“. „In Frankfurt liegt der Anteil der Menschen mit Migrationshintergrund bei 58 Prozent“, so Mohr.",
+            "url": "https://www.welt.de/politik/ausland/video6ae9c51136ba9db5f4e970ec/krawalle-in-frankfurt-es-gibt-auf-der-zeil-ein-milieu-arabisch-muslimisch-das-dort-die-zone-besetzt-haelt.html"
           },
           {
-            "title": "Bundesregierung könnte Russlands WM-Start noch verhindern",
-            "url": "https://www.n-tv.de/sport/eishockey/Bundesregierung-koennte-Russlands-WM-Start-noch-verhindern-id31484700.html"
+            "title": "„Fast herablassend. Wirklich befremdlich“ – CDU-Politikerin rechnet nach Aussprache mit Merz ab: Nach der Aussprache mit Kanzler Merz zieht eine CDU-Kreisvorsitzende aus Brandenburg ein ernüchterndes Fazit. Selbst glühende Merz-Anhänger seien enttäuscht gewesen, sie habe viel „Augenrollen gesehen“. ",
+            "url": "https://www.welt.de/politik/deutschland/article6ae99f43e54274d5b379d4b5/desiree-schrade-fast-herablassend-wirklich-befremdlich-cdu-politikerin-rechnet-nach-aussprache-mit-merz-ab.html"
           }
         ]
       },
       {
         "type": "Crime",
         "emoji": "🚔",
-        "headline_en": "Interior Minister Opposes Further Gen-Z Marches; Over 30 Arrests After Riots; Police Protection for Looted Shops; Hessian Interior Minister Questions Further Demonstrations After Violence",
-        "headline_de": "Innenminister Poseck gegen weitere GenZ-Aufzüge; Über 30 Festnahmen nach Krawallen; Polizeischutz für geplünderte Läden; Hessens Innenminister stellt weitere Demonstrationen nach Gewalt infrage",
-        "headline_easy": "Der Innenminister will keine weiteren Demonstrationen von GenZ. Nach den Krawallen gab es mehr als 30 Festnahmen. Die Polizei schützt Läden, die geplündert wurden. Der Innenminister von Hessen denkt über weitere Demonstrationen nach.",
-        "summary_en": "Following riots and extensive destruction linked to Gen-Z demonstrations in Frankfurt, Hessian Interior Minister Poseck is calling for a tougher stance and opposes further marches, with over 30 arrests made. Police are providing protection to looted stores, and the minister is questioning whether future demonstrations should be permitted given the 'uninhibited violence'.",
-        "summary_de": "Nach Krawallen und Zerstörung im Zusammenhang mit Gen-Z-Demonstrationen in Frankfurt fordert Innenminister Poseck eine härtere Gangart und spricht sich gegen weitere Aufzüge aus; über 30 Festnahmen gab es bereits. Die Polizei schützt geplünderte Läden, und der Minister hinterfragt die Zulassung weiterer Demonstrationen angesichts der \"enthemmten Gewalt\".",
-        "summary_easy": "In Frankfurt gab es Gewalt und Zerstörung. Der Innenminister sagt: Keine weiteren Demonstrationen. Die Polizei hat mehr als 30 Leute festgenommen. Manche Läden wurden geplündert und brauchen jetzt Schutz.",
+        "headline_en": "Major Raid Targets \"Crime as a Service\" Network, Debate Over 'Migrantisch' Terminology Continues, Press Freedom Enemies Listed",
+        "headline_de": "Große Razzia gegen „Crime as a Service“, Debatte um „migrantisch“ im Kabinett, Feinde der Pressefreiheit.",
+        "headline_easy": "Polizei hat eine kriminelle Gruppe gestoppt. Es gibt eine Diskussion über das Wort „migrantisch“. Journalisten haben Feinde.",
+        "summary_en": "Police conducted a large-scale raid across three federal states against a criminal organization accused of operating a shadow banking system that moved hundreds of millions of euros abroad for commissions. Meanwhile, a political debate is ongoing within the cabinet regarding the term 'migrantisch.' Separately, an organization has listed 33 opponents of independent media, including, for the first time, US President Donald Trump.",
+        "summary_de": "Die Polizei hat in drei Bundesländern eine Razzia gegen eine kriminelle Organisation durchgeführt, die ein Schattenbankwesen betrieben haben soll und hunderte Millionen Euro gegen Provision ins Ausland transferierte. Gleichzeitig läuft im Kabinett eine politische Debatte über den Begriff „migrantisch“. Eine Organisation hat zudem 33 Gegner unabhängiger Medien aufgelistet, darunter erstmals US-Präsident Donald Trump.",
+        "summary_easy": "Die Polizei hat eine wichtige Aktion gemacht und kriminelle Leute gefasst. Sie haben wohl Geld ins Ausland geschickt. In der Politik gibt es eine Diskussion über ein Wort. Journalisten sind wichtig, aber manche Leute mögen sie nicht. Auch Donald Trump ist auf einer Liste.",
         "links": [
           {
-            "title": "Rhein-Main-Liveblog: Innenminister Poseck gegen weitere GenZ-Aufzüge",
-            "url": "https://www.faz.net/aktuell/rhein-main/innenminister-poseck-gegen-weitere-genz-aufzuege-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
+            "title": "Großer Einsatz: Razzia gegen „Crime as a Service“: In drei Bundesländern ist die Polizei gegen eine kriminelle Vereinigung vorgegangen. Sie soll ein Schattenbankwesen eingerichtet haben, das gegen Provision mehrere hundert Millionen Euro ins außereuropäische Ausland brachte.",
+            "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/grosse-razzia-gegen-crime-as-a-service-accg-201647293.html"
           },
           {
-            "title": "„Enthemmte Gewalt“: Hessens Innenminister stellt nach Ausschreitungen weitere Demonstrationen infrage",
-            "url": "https://www.tagesspiegel.de/politik/enthemmte-gewalt-hessens-innenminister-stellt-nach-ausschreitungen-weitere-demonstrationen-infrage-16228633.html"
+            "title": "Feinde der Pressefreiheit, Welle wächst, Was gilt als Fakt?: 1. Die Feinde der Pressefreiheit 2026 (reporter-ohne-grenzen.de) Die Organisation Reporter ohne Grenzen (ROG) listet 33 Gegner unabhängiger Medien auf. Erstmals findet sich auch US-Präsident Donald Trump darunter, dessen Angriffe auf kritische Medien die USA …",
+            "url": "https://bildblog.de/155216/feinde-der-pressefreiheit-welle-waechst-was-gilt-als-fakt/"
           }
         ]
       },
       {
         "type": "Sales & Offers",
         "emoji": "🛍️",
-        "headline_en": "Interior Minister Opposes Further Gen-Z Marches; Over 30 Arrests After Riots; Police Protection for Looted Shops; Hessian Interior Minister Questions Further Demonstrations After Violence",
-        "headline_de": "Innenminister Poseck gegen weitere GenZ-Aufzüge; Über 30 Festnahmen nach Krawallen; Polizeischutz für geplünderte Läden; Hessens Innenminister stellt weitere Demonstrationen nach Gewalt infrage",
-        "headline_easy": "Der Innenminister will keine weiteren Demonstrationen von GenZ. Nach den Krawallen gab es mehr als 30 Festnahmen. Die Polizei schützt Läden, die geplündert wurden. Der Innenminister von Hessen denkt über weitere Demonstrationen nach.",
-        "summary_en": "Following riots and extensive destruction linked to Gen-Z demonstrations in Frankfurt, Hessian Interior Minister Poseck is calling for a tougher stance and opposes further marches, with over 30 arrests made. Police are providing protection to looted stores, and the minister is questioning whether future demonstrations should be permitted given the 'uninhibited violence'.",
-        "summary_de": "Nach Krawallen und Zerstörung im Zusammenhang mit Gen-Z-Demonstrationen in Frankfurt fordert Innenminister Poseck eine härtere Gangart und spricht sich gegen weitere Aufzüge aus; über 30 Festnahmen gab es bereits. Die Polizei schützt geplünderte Läden, und der Minister hinterfragt die Zulassung weiterer Demonstrationen angesichts der \"enthemmten Gewalt\".",
-        "summary_easy": "In Frankfurt gab es Gewalt und Zerstörung. Der Innenminister sagt: Keine weiteren Demonstrationen. Die Polizei hat mehr als 30 Leute festgenommen. Manche Läden wurden geplündert und brauchen jetzt Schutz.",
+        "headline_en": "Major Raid on 'Crime as a Service', Press Freedom Critics Listed, Migrantisch Debate",
+        "headline_de": "Razzia gegen Kriminelle, Liste von Pressefeinden, Debatte über „migrantisch“.",
+        "headline_easy": "Polizei war sehr aktiv gegen Kriminelle. Manche Leute sind gegen freie Presse. Es gibt eine Diskussion in der Politik.",
+        "summary_en": "A large police operation targeted a criminal organization suspected of running a shadow banking system that laundered hundreds of millions of euros. In related news, a list of 'enemies of press freedom' has been published, including notable figures like Donald Trump. A political debate concerning the term 'migrantisch' is also highlighted.",
+        "summary_de": "Eine großangelegte Polizeiaktion richtete sich gegen eine kriminelle Organisation, die mutmaßlich ein Schattenbankwesen betrieb und Hunderte Millionen Euro wusch. In einem anderen Bericht wird eine Liste von „Feinden der Pressefreiheit“ veröffentlicht, auf der auch prominente Namen wie Donald Trump zu finden sind. Eine politische Debatte über den Begriff „migrantisch“ wird ebenfalls thematisiert.",
+        "summary_easy": "Die Polizei hat eine kriminelle Gruppe gestoppt, die wohl viel Geld versteckt hat. Es gibt eine Liste von Leuten, die keine freie Presse mögen. In der Politik wird über ein Wort gestritten.",
         "links": [
           {
-            "title": "Rhein-Main-Liveblog: Innenminister Poseck gegen weitere GenZ-Aufzüge",
-            "url": "https://www.faz.net/aktuell/rhein-main/innenminister-poseck-gegen-weitere-genz-aufzuege-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
+            "title": "Großer Einsatz: Razzia gegen „Crime as a Service“: In drei Bundesländern ist die Polizei gegen eine kriminelle Vereinigung vorgegangen. Sie soll ein Schattenbankwesen eingerichtet haben, das gegen Provision mehrere hundert Millionen Euro ins außereuropäische Ausland brachte.",
+            "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/grosse-razzia-gegen-crime-as-a-service-accg-201647293.html"
           },
           {
-            "title": "„Enthemmte Gewalt“: Hessens Innenminister stellt nach Ausschreitungen weitere Demonstrationen infrage",
-            "url": "https://www.tagesspiegel.de/politik/enthemmte-gewalt-hessens-innenminister-stellt-nach-ausschreitungen-weitere-demonstrationen-infrage-16228633.html"
+            "title": "Feinde der Pressefreiheit, Welle wächst, Was gilt als Fakt?: 1. Die Feinde der Pressefreiheit 2026 (reporter-ohne-grenzen.de) Die Organisation Reporter ohne Grenzen (ROG) listet 33 Gegner unabhängiger Medien auf. Erstmals findet sich auch US-Präsident Donald Trump darunter, dessen Angriffe auf kritische Medien die USA …",
+            "url": "https://bildblog.de/155216/feinde-der-pressefreiheit-welle-waechst-was-gilt-als-fakt/"
           }
         ]
       },
       {
         "type": "Local News",
         "emoji": "📍",
-        "headline_en": "Interior Minister Opposes Further Gen-Z Marches; Over 30 Arrests After Riots; Police Protection for Looted Shops; Hessian Interior Minister Questions Further Demonstrations After Violence",
-        "headline_de": "Innenminister Poseck gegen weitere GenZ-Aufzüge; Über 30 Festnahmen nach Krawallen; Polizeischutz für geplünderte Läden; Hessens Innenminister stellt weitere Demonstrationen nach Gewalt infrage",
-        "headline_easy": "Der Innenminister will keine weiteren Demonstrationen von GenZ. Nach den Krawallen gab es mehr als 30 Festnahmen. Die Polizei schützt Läden, die geplündert wurden. Der Innenminister von Hessen denkt über weitere Demonstrationen nach.",
-        "summary_en": "Following riots and extensive destruction linked to Gen-Z demonstrations in Frankfurt, Hessian Interior Minister Poseck is calling for a tougher stance and opposes further marches, with over 30 arrests made. Police are providing protection to looted stores, and the minister is questioning whether future demonstrations should be permitted given the 'uninhibited violence'.",
-        "summary_de": "Nach Krawallen und Zerstörung im Zusammenhang mit Gen-Z-Demonstrationen in Frankfurt fordert Innenminister Poseck eine härtere Gangart und spricht sich gegen weitere Aufzüge aus; über 30 Festnahmen gab es bereits. Die Polizei schützt geplünderte Läden, und der Minister hinterfragt die Zulassung weiterer Demonstrationen angesichts der \"enthemmten Gewalt\".",
-        "summary_easy": "In Frankfurt gab es Gewalt und Zerstörung. Der Innenminister sagt: Keine weiteren Demonstrationen. Die Polizei hat mehr als 30 Leute festgenommen. Manche Läden wurden geplündert und brauchen jetzt Schutz.",
+        "headline_en": "Raid on 'Crime as a Service', Press Freedom Critics Listed, Political Debate Over 'Migrantisch'",
+        "headline_de": "Razzia gegen Kriminelle, Liste von Pressefeinden, politische Debatte über „migrantisch“.",
+        "headline_easy": "Polizei hat gegen Kriminelle ermittelt. Es gibt eine Liste von Leuten, die freie Presse nicht mögen. In der Politik gibt es eine Diskussion.",
+        "summary_en": "A significant police operation targeted a criminal organization across three federal states, accused of operating a shadow banking system that moved hundreds of millions of euros abroad. The report also touches upon the broader context of press freedom, mentioning a list of its opponents. Additionally, a political debate within the cabinet regarding the term 'migrantisch' is noted.",
+        "summary_de": "Eine bedeutende Polizeioperation richtete sich gegen eine kriminelle Organisation in drei Bundesländern, die beschuldigt wird, ein Schattenbankwesen betrieben zu haben, das hunderte Millionen Euro ins Ausland transferierte. Der Bericht berührt auch den breiteren Kontext der Pressefreiheit und erwähnt eine Liste ihrer Gegner. Des Weiteren wird eine politische Debatte im Kabinett über den Begriff „migrantisch“ hervorgehoben.",
+        "summary_easy": "Die Polizei hat eine große Razzia gemacht gegen Kriminelle. Diese Leute haben wohl viel Geld ins Ausland geschickt. Es gibt auch eine Nachricht über Leute, die freie Presse nicht mögen. Und in der Politik wird über ein Wort gestritten.",
         "links": [
           {
-            "title": "Rhein-Main-Liveblog: Innenminister Poseck gegen weitere GenZ-Aufzüge",
-            "url": "https://www.faz.net/aktuell/rhein-main/innenminister-poseck-gegen-weitere-genz-aufzuege-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
+            "title": "Großer Einsatz: Razzia gegen „Crime as a Service“: In drei Bundesländern ist die Polizei gegen eine kriminelle Vereinigung vorgegangen. Sie soll ein Schattenbankwesen eingerichtet haben, das gegen Provision mehrere hundert Millionen Euro ins außereuropäische Ausland brachte.",
+            "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/grosse-razzia-gegen-crime-as-a-service-accg-201647293.html"
           },
           {
-            "title": "„Enthemmte Gewalt“: Hessens Innenminister stellt nach Ausschreitungen weitere Demonstrationen infrage",
-            "url": "https://www.tagesspiegel.de/politik/enthemmte-gewalt-hessens-innenminister-stellt-nach-ausschreitungen-weitere-demonstrationen-infrage-16228633.html"
+            "title": "Feinde der Pressefreiheit, Welle wächst, Was gilt als Fakt?: 1. Die Feinde der Pressefreiheit 2026 (reporter-ohne-grenzen.de) Die Organisation Reporter ohne Grenzen (ROG) listet 33 Gegner unabhängiger Medien auf. Erstmals findet sich auch US-Präsident Donald Trump darunter, dessen Angriffe auf kritische Medien die USA …",
+            "url": "https://bildblog.de/155216/feinde-der-pressefreiheit-welle-waechst-was-gilt-als-fakt/"
           }
         ]
       }
     ]
   },
-  "dresden": [
-    {
-      "price": "390 €",
-      "address": "Amirpalaustraße 23, 01139 Dresden",
-      "district": "Cotta",
-      "size": "45 m²",
-      "rooms": "2",
-      "title": "Schöne 2-Zimmer-Wohnung in Dresden Cotta",
-      "url": "https://www.immowelt.de/expose/2B52U56",
-      "source": "Immowelt.de"
-    },
-    {
-      "price": "400 €",
-      "address": "Pestalozzistraße 15, 01309 Dresden",
-      "district": "Blasewitz",
-      "size": "50 m²",
-      "rooms": "2",
-      "title": "Helle 2-Zimmer-Wohnung in ruhiger Lage",
-      "url": "https://www.immobilienscout24.de/expose/143895708",
-      "source": "Immoscout24.de"
-    },
-    {
-      "price": "410 €",
-      "address": "Bergmannstraße 8, 01277 Dresden",
-      "district": "Striesen-Süd",
-      "size": "48 m²",
-      "rooms": "1.5",
-      "title": "Charmante 1.5 Zimmer Wohnung in Striesen",
-      "url": "https://www.immowelt.de/expose/2AY5A56",
-      "source": "Immowelt.de"
-    },
-    {
-      "price": "420 €",
-      "address": "Schlossstraße 7, 01067 Dresden",
-      "district": "Altstadt",
-      "size": "40 m²",
-      "rooms": "1",
-      "title": "Gemütliches 1-Zimmer-Apartment im Herzen der Altstadt",
-      "url": "https://www.wg-gesucht.de/wohnung-in-dresden/0734851316/",
-      "source": "WG-Gesucht.de"
-    },
-    {
-      "price": "435 €",
-      "address": "Zwickauer Straße 31, 01156 Dresden",
-      "district": "Plauen",
-      "size": "55 m²",
-      "rooms": "2",
-      "title": "2-Zimmer-Wohnung in zentraler Lage von Plauen",
-      "url": "https://www.vonovia.de/mieten/wohnung-finden/sachsen/dresden/zwickauer-strasse-31",
-      "source": "Vonovia.de"
-    },
-    {
-      "price": "440 €",
-      "address": "Königsbrücker Straße 123, 01099 Dresden",
-      "district": "Neustadt",
-      "size": "42 m²",
-      "rooms": "1",
-      "title": "Einzimmerwohnung in der lebendigen Neustadt",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/1-zimmer-wohnung-fuer-max-2-personen/2781807138-208-1851",
-      "source": "Kleinanzeigen.de"
-    }
-  ]
+  "dresden": []
 }
