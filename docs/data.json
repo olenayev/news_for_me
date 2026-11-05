@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, November 04 2026",
+  "date": "Thursday, November 05 2026",
   "sections": [
     {
       "category": "Germany",
@@ -8,52 +8,64 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Merz, Zelenskyy Call for Europe to Shape Peace Deal Amidst Doubts on Russian Ceasefire Seriousness",
-          "headline_de": "Merz und Selenskyj fordern Europas Beteiligung an Friedensabkommen, zweifeln an russischem Waffenstillstand",
-          "headline_easy": "Merz und Selenskyj wollen Frieden. Sie sagen: Europa soll helfen. Russland will keinen Waffenstillstand.",
-          "summary_en": "Friedrich Merz expresses skepticism about Russia's genuine commitment to a ceasefire. He, along with Ukrainian President Zelenskyy, urges European nations to take a leading role in constructing a peace agreement. This call comes as concerns linger over Russia's intentions for a lasting truce.",
-          "summary_de": "Friedrich Merz äußert Zweifel an der Ernsthaftigkeit Russlands bezüglich eines Waffenstillstands. Gemeinsam mit dem ukrainischen Präsidenten Selenskyj fordert er die europäischen Länder auf, eine führende Rolle bei der Gestaltung eines Friedensabkommens zu übernehmen. Dies geschieht angesichts anhaltender Bedenken hinsichtlich der russischen Absichten für einen dauerhaften Waffenstillstand.",
-          "summary_easy": "Friedrich Merz glaubt nicht, dass Russland einen Waffenstillstand will. Er und Präsident Selenskyj bitten Europa: Helfen Sie mit dem Frieden. Es ist wichtig, dass Europa jetzt handelt.",
+          "headline_en": "Skeleton Found Beneath Prague Castle; Identity Debated Over Time",
+          "headline_de": "Skelett unter der Prager Burg gefunden; Identität über die Zeit umstritten",
+          "headline_easy": "Man fand ein Skelett unter der Burg in Prag. Man weiß nicht genau, wer es war.",
+          "summary_en": "A skeleton unearthed beneath Prague Castle has a debated history, initially identified as a Viking by the Nazis and later reclassified as a Slavic warrior. The discovery prompts reflection on historical interpretations.",
+          "summary_de": "Ein Skelett unter der Prager Burg hat eine umstrittene Geschichte. Zuerst nannten die Nazis es ein Wikingergrab, später war es ein slawischer Krieger. Der Fund regt zum Nachdenken über historische Deutungen an.",
+          "summary_easy": "Ein Skelett wurde unter der Burg in Prag gefunden. Die Menschen haben verschiedene Ideen, wer das war. Früher dachten sie, es ist ein Wikinger. Später dachten sie, es ist ein slawischer Krieger.",
           "links": [
             {
-              "title": "Merz sees no sign Russia is serious about a ceasefire as he and Zelenskyy call for Europe to help shape a peace deal",
-              "url": "https://www.dw.com/en/merz-sees-no-sign-russia-is-serious-about-a-ceasefire-as-he-and-zelenskyy-call-for-europe-to-help-shape-a-peace-deal/a-79836026"
+              "title": "A skeleton was found beneath Prague Castle. The Nazis called him a Viking; later it became a Slavonic warrior",
+              "url": "https://economictimes.indiatimes.com/news/new-updates/a-skeleton-was-found-beneath-prague-castle-the-nazis-called-him-a-viking-later-it-became-a-slavonic-warrior/articleshow/135536663.cms"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Higher Oil Prices Boost Saudi Aramco Profits Amidst Disruptions",
-          "headline_de": "Höhere Ölpreise steigern Gewinne von Saudi Aramco trotz Störungen",
-          "headline_easy": "Öl ist teurer geworden. Saudi Aramco verdient mehr Geld. Es gab Probleme durch Angriffe.",
-          "summary_en": "Saudi Aramco has reported increased profits, primarily driven by higher oil prices. This financial boost occurred despite ongoing disruptions, suggesting resilience in their operations and the market's reaction to global energy price fluctuations.",
-          "summary_de": "Saudi Aramco meldet gestiegene Gewinne, hauptsächlich aufgrund höherer Ölpreise. Dieser finanzielle Aufschwung erfolgte trotz anhaltender Störungen, was auf operative Widerstandsfähigkeit und die Marktreaktion auf globale Energiepreisschwankungen hindeutet.",
-          "summary_easy": "Saudi Aramco hat mehr Geld verdient. Das liegt an teurem Öl. Es gab aber auch Probleme durch Angriffe.",
+          "headline_en": "Skoda May End Ice Hockey Worlds Sponsorship if Russia Participates",
+          "headline_de": "Skoda könnte Eishockey-WM-Sponsoring beenden, wenn Russland teilnimmt",
+          "headline_easy": "Skoda will vielleicht nicht mehr die Eishockey-WM sponsern, wenn Russland dabei ist.",
+          "summary_en": "Automaker Skoda is considering withdrawing its sponsorship of the Ice Hockey World Championships if Russia is allowed to compete. This decision highlights the growing pressure on organizations to take stances on geopolitical issues.",
+          "summary_de": "Der Autohersteller Skoda erwägt, sein Sponsoring der Eishockey-Weltmeisterschaft zu beenden, falls Russland teilnehmen darf. Diese Entscheidung unterstreicht den wachsenden Druck auf Organisationen, zu geopolitischen Themen Stellung zu beziehen.",
+          "summary_easy": "Skoda macht Autos. Sie sponsern die Eishockey-Weltmeisterschaft. Wenn Russland spielt, will Skoda nicht mehr sponsern. Das ist eine wichtige Entscheidung.",
           "links": [
             {
-              "title": "Higher oil prices boost Saudi Aramco profits despite disruption from attacks",
-              "url": "https://abcnews.com/Business/wireStory/higher-oil-prices-boost-saudi-aramco-profits-despite-137801590"
+              "title": "Skoda to reconsider ice hockey worlds sponsorship if Russia plays",
+              "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:261104-930-943062/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "EU Warns of Fridge Cyberattack; Emergency Preparedness Advice Issued",
-          "headline_de": "Ein Cyberangriff auf Supermärkte in Europa hat eine Warnung der EU ausgelöst. In verwandten Nachrichten werden den Bürgern Ratschläge zum Führen von Notfallausrüstungs-Kits gegeben, mit Zusicherungen, sich nicht über Regierungsempfehlungen aufzuregen.",
-          "headline_easy": "Es gab einen Angriff auf Computer von Kühlschränken. Die EU warnt davor. Sie sagt auch: Keine Angst vor Notfall-Sachen haben.",
-          "summary_en": "A cyberattack targeting supermarkets across Europe has prompted a warning from the EU. In related news, advice is being shared with citizens on maintaining emergency preparedness kits, with reassurances not to panic about government recommendations.",
-          "summary_de": "",
-          "summary_easy": "",
+          "headline_en": "Google Offers Voluntary Buyouts in Five More Countries Following Hiring Spree",
+          "headline_de": "Google bietet nach Einstellungswelle in fünf weiteren Ländern freiwillige Abfindungen an",
+          "headline_easy": "Google gibt Menschen Geld, wenn sie gehen wollen. Das ist in fünf neuen Ländern.",
+          "summary_en": "Google is expanding its voluntary buyout program to five additional countries after a period of extensive hiring. The move signals a potential shift in the company's workforce strategy.",
+          "summary_de": "Google erweitert sein Programm für freiwillige Abfindungen auf fünf weitere Länder nach einer Phase intensiver Einstellungen. Dieser Schritt deutet auf eine mögliche Veränderung in der Personalstrategie des Unternehmens hin.",
+          "summary_easy": "Google hat viele neue Leute eingestellt. Jetzt bietet Google einigen Leuten Geld an, wenn sie gehen möchten. Das passiert in fünf neuen Ländern.",
           "links": [
             {
-              "title": "Fridge cyberattack on supermarkets across Europe prompts EU warning",
-              "url": "https://www.thelocal.com/20261103/fridge-cyberattack-on-supermarkets-across-europe-prompts-eu-warning"
-            },
+              "title": "Google expands voluntary buyouts to 5 more countries after hiring spree: Is India included?",
+              "url": "https://www.livemint.com/companies/news/google-expands-voluntary-buyouts-to-5-more-countries-after-hiring-spree-is-india-included-11793785376239.html"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "Recurring Equipment Issues Plague Indian Shooters at ISSF World Championships",
+          "headline_de": "Wiederkehrende Ausrüstungsprobleme plagen indische Schützen bei der ISSF-Weltmeisterschaft",
+          "headline_easy": "Indische Schützen haben Probleme mit ihrer Ausrüstung. Das passiert bei der Weltmeisterschaft.",
+          "summary_en": "Indian shooters have been significantly hampered by recurring equipment issues at the ISSF World Championships, leading to disqualifications. This recurring problem raises concerns about the preparedness and support for the athletes.",
+          "summary_de": "Indische Schützen werden bei der ISSF-Weltmeisterschaft durch wiederkehrende Ausrüstungsprobleme stark behindert, was zu Disqualifikationen führt. Dieses wiederkehrende Problem wirft Bedenken hinsichtlich der Vorbereitung und Unterstützung der Athleten auf.",
+          "summary_easy": "Indische Sportschützen haben Probleme mit ihrer Ausrüstung. Ihre Waffen funktionieren nicht richtig. Deshalb dürfen einige nicht mehr schießen.",
+          "links": [
             {
-              "title": "Why you shouldn't panic about governments urging citizens to maintain emergency preparedness kits",
-              "url": "https://www.snopes.com//news/2026/11/03/emergency-preparedness-kits/"
+              "title": "Recurring Equipment Issues Plague Indian Shooters",
+              "url": "https://www.rediff.com/sports/report/shambhavi-kshirsagar-disqualified-at-issf-world-championships/20261104.htm"
             }
           ]
         }
@@ -66,48 +78,48 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Brendan Fraser and Andrew Scott Star in WWII Thriller 'Pressure' Set for Netflix Release",
-          "headline_de": "Der Zweite Weltkrieg-Thriller 'Pressure' mit Brendan Fraser und Andrew Scott wird für eine Veröffentlichung auf Netflix geplant. Dieser Film erweitert das wachsende Inhaltsangebot der Streaming-Plattform und richtet sich an ein Publikum, das an historischen Dramen und Thrillern interessiert ist.",
-          "headline_easy": "Ein neuer Film mit Brendan Fraser und Andrew Scott kommt auf Netflix. Der Film heißt 'Pressure'. Er ist spannend und handelt vom Krieg.",
-          "summary_en": "The WWII thriller 'Pressure,' starring Brendan Fraser and Andrew Scott, is scheduled for a release on Netflix. This film adds to the growing catalog of content available on the streaming platform, appealing to audiences interested in historical dramas and thrillers.",
-          "summary_de": "",
-          "summary_easy": "",
+          "headline_en": "AI Agents Generating Data Beyond Monitoring Capacity",
+          "headline_de": "KI-Agenten generieren Daten, die nicht mehr überwacht werden können",
+          "headline_easy": "Künstliche Intelligenz macht Daten. Man kann nicht mehr alle Daten sehen.",
+          "summary_en": "Artificial intelligence agents are producing vast amounts of data that organizations are struggling to monitor. This poses a significant challenge for data management and security.",
+          "summary_de": "Künstliche Intelligenz-Agenten erzeugen riesige Datenmengen, die Organisationen nur schwer überwachen können. Dies stellt eine erhebliche Herausforderung für Datenmanagement und -sicherheit dar.",
+          "summary_easy": "Künstliche Intelligenz (KI) ist wie ein Computer, der Dinge lernt. KI macht sehr viele Daten. Firmen können nicht alle diese Daten kontrollieren. Das ist ein Problem.",
           "links": [
             {
-              "title": "Brendan Fraser and Andrew Scott’s WWII Thriller ‘Pressure’ Sets Netflix Release",
-              "url": "https://www.whats-on-netflix.com/news/brendan-fraser-and-andrew-scotts-wwii-thriller-pressure-sets-netflix-release/"
+              "title": "Your AI agents are generating data you can’t afford to monitor",
+              "url": "https://www.techradar.com/pro/your-ai-agents-are-generating-data-you-cant-afford-to-monitor"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Tech Stocks Dip as Apple's Q3 Report Affects Markets; Global Markets Mixed",
-          "headline_de": "Technologieaktien verzeichneten nach dem Bericht von Apple zum dritten Quartal einen Rückgang, was zu einer gemischten Performance an den globalen Märkten führte. Dieser Trend deutet auf Vorsicht der Anleger und eine Sensibilität gegenüber den Ertragsberichten großer Technologieunternehmen hin.",
-          "headline_easy": "Tech-Aktien sind gefallen. Der Grund ist der Bericht von Apple. Die Märkte auf der Welt laufen nicht gut.",
-          "summary_en": "Technology stocks experienced a decline following Apple's third-quarter report, contributing to mixed performance across global markets. This trend indicates investor caution and sensitivity to major tech company earnings reports.",
-          "summary_de": "",
-          "summary_easy": "",
+          "headline_en": "Thomas Cook India: Sterling Holidays Demerger Expected by July 2027",
+          "headline_de": "Thomas Cook Indien: Abspaltung von Sterling Holidays bis Juli 2027 erwartet",
+          "headline_easy": "Thomas Cook will Sterling Holidays trennen. Das passiert bis Juli 2027.",
+          "summary_en": "Thomas Cook India anticipates completing the demerger of Sterling Holidays by July 2027, driven by strong demand in the MICE (Meetings, Incentives, Conferences, and Exhibitions) travel sector. This move aims to streamline operations.",
+          "summary_de": "Thomas Cook Indien rechnet mit dem Abschluss der Abspaltung von Sterling Holidays bis Juli 2027, angetrieben durch die starke Nachfrage im MICE-Reisesektor (Tagungen, Anreize, Konferenzen und Ausstellungen). Dieser Schritt zielt auf eine Straffung der Abläufe ab.",
+          "summary_easy": "Thomas Cook ist eine Reisefirma. Sie wollen ihre Firma Sterling Holidays ab Juli 2027 alleine machen lassen. Viele Leute reisen für Arbeit und Treffen. Deshalb ist das eine gute Idee.",
           "links": [
             {
-              "title": "Tech Jumps Over Apple Q3 Report on Wall Street Pre-Bell; Asia, Europe Off",
-              "url": "https://biztoc.com/x/ba509d4b25b0a0bd"
+              "title": "Sterling Holidays demerger may be completed by July 2027: Thomas Cook",
+              "url": "https://www.business-standard.com/companies/news/thomas-cook-india-sterling-holidays-demerger-july-2027-mice-travel-demand-126110400993_1.html"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Apple's Margin Outlook Pressures Tech Stocks Amidst Oil Price Fluctuations",
-          "headline_de": "Apples gemeldeter Margenausblick übt Abwärtsdruck auf Tech-Aktien aus, während die Ölpreise Schwankungen unterliegen. Dieser doppelte Einfluss schafft ein komplexes Umfeld für Anleger, die sich in den aktuellen Marktbedingungen zurechtfinden müssen.",
-          "headline_easy": "Apple sagt, seine Gewinne könnten sinken. Darum fallen Tech-Aktien. Auch die Ölpreise sind nicht stabil.",
-          "summary_en": "Apple's reported margin outlook is exerting downward pressure on tech stocks, while oil prices are experiencing fluctuations. This dual influence creates a complex environment for investors navigating the current market conditions.",
-          "summary_de": "",
-          "summary_easy": "",
+          "headline_en": "Stock Markets React Positively to Election Results, Trump Acknowledges Losses",
+          "headline_de": "Börsen reagieren positiv auf Wahlergebnisse, Trump erkennt Verluste an",
+          "headline_easy": "Die Börse freut sich über das Ergebnis der Wahl. Trump sagt, er hat verloren.",
+          "summary_en": "Stock markets have shown positive reactions, described as a 'stunning rebuke,' to recent election outcomes. Former President Trump has indicated he will accept the midterm losses, though his underlying stance is not expected to change.",
+          "summary_de": "Die Aktienmärkte haben positiv auf die jüngsten Wahlergebnisse reagiert, die als 'umwerfende Zurückweisung' bezeichnet werden. Ex-Präsident Trump hat angedeutet, dass er die Ergebnisse der Zwischenwahlen akzeptieren wird, obwohl keine Änderung seiner grundsätzlichen Haltung erwartet wird.",
+          "summary_easy": "Die Börse mag die Ergebnisse der Wahl. Die Leute nennen es eine 'starke Ablehnung'. Trump sagt, er nimmt die Niederlage an. Aber er wird sich wahrscheinlich nicht ändern.",
           "links": [
             {
-              "title": "Apple margin outlook pressures tech as reported U.S. strike lifts oil",
-              "url": "https://www.cnbc.com/2026/11/03/apple-margin-oil-iran.html"
+              "title": "Stock markets celebrate a ‘stunning rebuke’: Trump says he will accept midterm losses—but don’t expect defeat to change him",
+              "url": "https://fortune.com/2026/11/04/midterms-elections-stock-markets-stunning-rebuke-trump-accept-loss-vote/"
             }
           ]
         }
@@ -120,52 +132,36 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "US Midterm Elections Polling Information Released; Wildfire Damage Projected to Triple",
-          "headline_de": "Informationen zu Wahlzeiten und Wahllokalen für die US-Zwischenwahlen sind nun verfügbar und unterstützen die Wähler bei der Teilnahme. Separat deuten Prognosen darauf hin, dass die US-Waldbrandschäden bis zur Mitte des Jahrhunderts verdreifacht werden könnten, wobei Ratschläge zur Risikominderung angeboten werden.",
-          "headline_easy": "Die Wahlen in den USA sind wichtig. Hier sind die Zeiten. Es gibt auch eine Warnung wegen Waldbränden. Sie werden stärker.",
-          "summary_en": "Information regarding polling hours and locations for the US midterm elections is now available, assisting voters in participating. Separately, projections indicate that US wildfire damage could triple by mid-century, with advice offered on risk reduction measures.",
-          "summary_de": "",
-          "summary_easy": "",
+          "headline_en": "Abdul El-Sayed's Historic Win Against Trump's Influence",
+          "headline_de": "Abdul El-Sayeds historischer Sieg gegen Trumps Einfluss",
+          "headline_easy": "Abdul El-Sayed hat gewonnen. Er hat gegen Trumps Einfluss gekämpft.",
+          "summary_en": "Abdul El-Sayed achieved a historic victory, overcoming divisive rhetoric often associated with Donald Trump's campaigns. His success is highlighted as a triumph against hate-fueled politics.",
+          "summary_de": "Abdul El-Sayed errang einen historischen Sieg und überwand die spaltende Rhetorik, die oft mit Donald Trumps Wahlkämpfen verbunden ist. Sein Erfolg wird als Triumph über hasserfüllte Politik hervorgehoben.",
+          "summary_easy": "Abdul El-Sayed hat eine wichtige Wahl gewonnen. Er hat gegen Hass-Politik gewonnen, die von Trump kam. Er hat gezeigt, dass man das schaffen kann.",
           "links": [
             {
-              "title": "US midterm elections 2026: When do polls open in your state? Check voting hours, closing times and how to find your polling place",
-              "url": "https://economictimes.indiatimes.com/news/international/us/us-midterm-elections-2026-what-time-do-polls-open-pennsylvania-voting-hours-opening-and-closing-times-where-do-i-vote-polling-place-locator-november-3/articleshow/135493607.cms"
-            },
-            {
-              "title": "US wildfire damage is on pace to triple by mid-century, but there are affordable ways to lower the risk",
-              "url": "https://theconversation.com/us-wildfire-damage-is-on-pace-to-triple-by-mid-century-but-there-are-affordable-ways-to-lower-the-risk-287940"
+              "title": "‘Call me senator’: How Abdul El-Sayed beat Trump’s hate to create history",
+              "url": "https://www.aljazeera.com/news/2026/11/4/call-me-senator-how-abdul-el-sayed-beat-trumps-hate-to-create-history"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "US Futures Mixed Ahead of Midterm Elections; Emergency Preparedness Advice",
-          "headline_de": "US-Aktien-Futures zeigen eine gemischte Performance, während die Nation auf die Ergebnisse der Zwischenwahlen wartet. In nicht verwandten Nachrichten werden Ratschläge zum Führen von Notfallausrüstungs-Kits weitergegeben, mit der Zusicherung, dass die Bürger nicht von der Regierungsführung beunruhigt werden sollten.",
-          "headline_easy": "Die Aktienmärkte in den USA sind heute nicht stabil. Die Wahlen sind wichtig. Man soll keine Angst vor Notfall-Sachen haben.",
-          "summary_en": "US stock futures are showing mixed performance as the nation awaits the midterm election results. In unrelated news, advice is being shared about maintaining emergency preparedness kits, with reassurance that citizens should not be alarmed by government guidance.",
-          "summary_de": "",
-          "summary_easy": "",
+          "headline_en": "US Stocks Rally as Democrats Regain Control of Congress",
+          "headline_de": "US-Aktienmärkte steigen, als die Demokraten die Kontrolle über den Kongress zurückgewinnen",
+          "headline_easy": "Die Börse in den USA steigt. Die Demokraten haben den Kongress gewonnen.",
+          "summary_en": "US stock markets experienced a significant surge, with Dow futures jumping 800 points, following the news that Democrats have retaken control of Congress. Tokyo stocks also ended lower amidst this volatile trade.",
+          "summary_de": "Die US-Aktienmärkte verzeichneten einen deutlichen Anstieg, wobei die Dow-Futures um 800 Punkte zulegten, nachdem bekannt wurde, dass die Demokraten die Kontrolle über den Kongress zurückgewonnen haben. Auch die Tokioter Aktien schlossen im Zuge dieses volatilen Handels niedriger.",
+          "summary_easy": "Die Aktienmärkte in Amerika sind gut gelaufen. Der Dow-Index ist stark gestiegen. Das passierte, weil die Demokraten im Kongress gewonnen haben. In Tokio waren die Aktien nicht so gut.",
           "links": [
             {
-              "title": "US futures mixed with all eyes on midterms",
-              "url": "https://biztoc.com/x/ff3c618c101efb1a"
-            }
-          ]
-        },
-        {
-          "type": "Technology",
-          "emoji": "💻",
-          "headline_en": "US Wildfire Damage to Triple; Trump Considers Nuclear Strike on Iran",
-          "headline_de": "Prognosen deuten darauf hin, dass sich die US-Waldbrandschäden bis zur Mitte des Jahrhunderts verdreifachen werden, was wachsende Umweltbedenken hervorhebt. Parallel dazu behauptet ein ehemaliger CIA-Agent, dass der ehemalige Präsident Trump einen Atomangriff auf den Iran erwägt, was auf ein angespanntes geopolitisches Klima hindeutet.",
-          "headline_easy": "Es wird mehr Waldbrände in den USA geben. Sie machen mehr Schaden. Trump könnte Iran mit Atomwaffen angreifen.",
-          "summary_en": "Projections suggest US wildfire damage will triple by mid-century, highlighting growing environmental concerns. In parallel, a former CIA agent claims that former President Trump is considering a nuclear strike on Iran, indicating a tense geopolitical climate.",
-          "summary_de": "",
-          "summary_easy": "",
-          "links": [
+              "title": "Tokyo stocks end lower in volatile trade as U.S. Democrats retake Congress",
+              "url": "https://freerepublic.com/focus/f-news/4401744/posts"
+            },
             {
-              "title": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War - The New York Times",
-              "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186567712"
+              "title": "Dow futures soar 800 points after Dems flip Congress",
+              "url": "https://biztoc.com/x/26fdbd3f53e39e60"
             }
           ]
         }
@@ -178,36 +174,64 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Tech Stocks Down as Apple Reports; Natural Rubber Prices Soar",
-          "headline_de": "Technologieaktien sind nach dem Q3-Bericht von Apple gefallen, was die asiatischen Märkte beeinträchtigte. Gleichzeitig haben die Naturkautschukpreise mit 300 ₹ pro kg ein Allzeithoch erreicht, was auf erhebliche Verschiebungen auf den Rohstoffmärkten hindeutet.",
-          "headline_easy": "Tech-Aktien sind nicht gut gelaufen. Der Grund ist Apple. Naturkautschuk kostet jetzt viel Geld.",
-          "summary_en": "Technology stocks have seen a downturn following Apple's Q3 report, impacting Asian markets. Concurrently, natural rubber prices have reached an all-time high of ₹300 per kg, signaling significant shifts in commodity markets.",
-          "summary_de": "",
-          "summary_easy": "",
+          "headline_en": "Celebrity Hairstylist John Frieda Passes Away at 75",
+          "headline_de": "Berühmter Haarstylist John Frieda stirbt mit 75 Jahren",
+          "headline_easy": "Der berühmte Friseur John Frieda ist tot. Er war 75 Jahre alt.",
+          "summary_en": "Renowned celebrity hairstylist John Frieda has died at the age of 75. His contributions to the fashion and beauty industry have left a lasting legacy.",
+          "summary_de": "Der bekannte Promi-Haarstylist John Frieda ist im Alter von 75 Jahren gestorben. Seine Beiträge zur Mode- und Schönheitsindustrie hinterlassen ein bleibendes Erbe.",
+          "summary_easy": "John Frieda war ein sehr bekannter Friseur. Er hat viele berühmte Leute frisiert. Er ist jetzt gestorben. Er war 75 Jahre alt. Er hat die Modewelt verändert.",
           "links": [
             {
-              "title": "Natural rubber prices touch all-time high of ₹300 per kg",
-              "url": "https://www.thehindubusinessline.com/economy/agri-business/natural-rubber-prices-touch-all-time-high-of-300-per-kg/article71660468.ece"
+              "title": "Celebrity hairstylist John Frieda dies aged 75",
+              "url": "https://www.irishtimes.com/life-style/fashion/2026/11/04/celebrity-hairstylist-john-frieda-dies-aged-75/"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Stranded Cruise Ship Odyssey Departs Cambodia Without Passengers",
+          "headline_de": "Gestrandetes Kreuzfahrtschiff Odyssey verlässt Kambodscha ohne Passagiere",
+          "headline_easy": "Das Kreuzfahrtschiff Odyssey ist weg. Es war in Kambodscha gestrandet. Es sind keine Passagiere mehr da.",
+          "summary_en": "The cruise ship Odyssey, which was stranded in Cambodia, has departed the country. The ship left without any passengers on board, indicating a resolution to its situation.",
+          "summary_de": "Das Kreuzfahrtschiff Odyssey, das in Kambodscha gestrandet war, hat das Land verlassen. Das Schiff fuhr ohne Passagiere ab, was auf eine Lösung seiner Situation hindeutet.",
+          "summary_easy": "Ein großes Schiff, die Odyssey, war in Kambodscha festgefahren. Jetzt fährt das Schiff weg. Es sind keine Leute mehr darauf. Das Problem ist gelöst.",
+          "links": [
+            {
+              "title": "Stranded cruise ship Odyssey leaves Cambodia with no passengers",
+              "url": "https://abcnews.com/International/wireStory/stranded-cruise-ship-odyssey-leaves-cambodia-passengers-137840393"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Nifty Crosses 23,800 on Falling Crude Prices; Apple's Ecosystem Risk Highlighted",
-          "headline_de": "Der Nifty-Index hat die Marke von 23.800 überschritten, gestützt durch fallende Rohölpreise und positive Gewinnberichte. In der Zwischenzeit werden laut Apples CEO Bedenken hinsichtlich des 'größten Risikos' für das Apple-Ökosystem geäußert.",
-          "headline_easy": "Der Nifty-Aktienmarkt ist gestiegen. Öl ist billiger geworden. Apple hat ein Problem mit seinem System.",
-          "summary_en": "The Nifty index has surpassed 23,800, buoyed by falling crude oil prices and positive earnings reports. Meanwhile, concerns are being raised about the 'biggest risk' to Apple's ecosystem, according to its CEO.",
-          "summary_de": "",
-          "summary_easy": "",
+          "headline_en": "US Midterm Election Results Boost Renewable Energy Stocks",
+          "headline_de": "US-Zwischenwahlergebnisse beflügeln Aktien von erneuerbaren Energien",
+          "headline_easy": "Gute Nachrichten für erneuerbare Energie-Aktien. Die Demokraten haben in den USA gewonnen.",
+          "summary_en": "Renewable energy stocks have seen a significant rise following the US Democrats' success in the midterm elections. This surge suggests investor confidence in the future of green energy policies.",
+          "summary_de": "Aktien von erneuerbaren Energien sind nach dem Erfolg der US-Demokraten bei den Zwischenwahlen deutlich gestiegen. Dieser Anstieg deutet auf das Vertrauen der Anleger in die Zukunft von Politiken für grüne Energie hin.",
+          "summary_easy": "Die Aktien von Firmen, die grüne Energie machen, sind gestiegen. Das passiert, weil die Demokraten in Amerika gewonnen haben. Investoren glauben jetzt mehr an grüne Energie.",
           "links": [
             {
-              "title": "Nifty crosses 23,800 for first time since August on falling crude prices, earnings boost",
-              "url": "https://www.thehindubusinessline.com/markets/nifty-crosses-23800-for-first-time-since-august-on-falling-crude-prices-earnings-boost/article71660642.ece"
-            },
+              "title": "Renewables Stocks Soar as Democrats Sweep U.S. Congress",
+              "url": "https://oilprice.com/Latest-Energy-News/World-News/Renewables-Stocks-Soar-as-Democrats-Sweep-US-Congress.html"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "Cabinet Reshuffle in an Asian Nation: New Roles Assigned",
+          "headline_de": "Kabinettumbildung in einem asiatischen Land: Neue Rollen zugewiesen",
+          "headline_easy": "In einem Land in Asien gibt es neue Minister. Paul ist jetzt für Tourismus zuständig. Timothy hat mehr Macht.",
+          "summary_en": "A cabinet reshuffle has occurred in an unnamed Asian nation, with significant changes in ministerial responsibilities. Paul has been appointed to lead the Ministry of Tourism, while Timothy has been granted more power.",
+          "summary_de": "In einem nicht genannten asiatischen Land hat eine Kabinettsumbildung stattgefunden, mit bedeutenden Änderungen der Ministerverantwortlichkeiten. Paul wurde zum Leiter des Tourismusministeriums ernannt, während Timothy mehr Macht erhielt.",
+          "summary_easy": "In einem Land in Asien haben sich die Minister geändert. Paul ist jetzt für den Tourismus zuständig. Timothy hat jetzt mehr Aufgaben und Macht bekommen. Das ist eine wichtige Änderung für die Regierung.",
+          "links": [
             {
-              "title": "What Apple CEO John Ternus isn’t talking about: “The biggest risk to the Apple ecosystem”",
-              "url": "https://fortune.com/2026/11/03/what-apple-ceo-john-ternus-isnt-talking-about-the-biggest-risk-to-the-apple-ecosystem/"
+              "title": "Conrad’s Cabinet Shake-Up: Paul Gets Tourism, Timothy Gets Power",
+              "url": "https://southasiaviews.com/featured/conrads-cabinet-shake-up-paul-gets-tourism-timothy-gets-power/"
             }
           ]
         }
@@ -220,68 +244,80 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Smog Chokes India and Pakistan; US Intelligence Sharing Fractured Under Trump",
-          "headline_de": "Schwerer Smog plagt Indien und Pakistan, wobei Lahore eine Luftqualität aufweist, die 60-mal höher ist als die WHO-Grenzwerte. Unterdessen wird berichtet, dass die US-Geheimdienstinformationen während der Trump-Administration fragmentiert sind, was die internationale Zusammenarbeit beeinträchtigt.",
-          "headline_easy": "Die Luft ist sehr schlecht in Indien und Pakistan. Die Luft ist nicht gut für die Menschen. Die USA reden weniger mit anderen Ländern, wenn Trump Präsident ist.",
-          "summary_en": "Severe smog is plaguing India and Pakistan, with Lahore experiencing air quality 60 times higher than WHO limits. Meanwhile, US intelligence sharing is reported to have fragmented during the Trump administration, impacting international cooperation.",
-          "summary_de": "",
-          "summary_easy": "",
+          "headline_en": "Reed Jobs's Yosemite Fund Raises $350 Million for Cancer Research",
+          "headline_de": "Yosemite Fund von Reed Jobs sammelt 350 Millionen US-Dollar für Krebsforschung",
+          "headline_easy": "Reed Jobs hat eine Stiftung. Sie hat 350 Millionen Dollar gesammelt. Das Geld ist für die Krebsforschung.",
+          "summary_en": "Reed Jobs's venture capital firm Yosemite has successfully raised $350 million for its second fund, aiming to make cancer non-lethal. This significant investment highlights a commitment to advancing medical research.",
+          "summary_de": "Reed Jobs' Risikokapitalgesellschaft Yosemite hat erfolgreich 350 Millionen US-Dollar für ihren zweiten Fonds gesammelt, mit dem Ziel, Krebs nicht mehr tödlich zu machen. Diese bedeutende Investition unterstreicht das Engagement für die Weiterentwicklung der medizinischen Forschung.",
+          "summary_easy": "Reed Jobs hat eine Firma namens Yosemite. Die Firma hat viel Geld gesammelt, 350 Millionen Dollar. Das Geld soll helfen, Krebs heilbar zu machen. Das ist gut für die Medizin.",
           "links": [
             {
-              "title": "Toxic smog is choking India and Pakistan: Pollution soars, with fine particulate levels in Lahore 60 times higher than the WHO limit",
-              "url": "https://en.protothema.gr/2026/11/03/toxic-smog-is-choking-india-and-pakistan-pollution-soars-with-fine-particulate-levels-in-lahore-60-times-higher-than-the-who-limit/"
-            },
+              "title": "Reed Jobs’s Yosemite raises $350 million second fund to make cancer non-lethal",
+              "url": "https://fortune.com/2026/11/04/reed-jobs-yosemite-raises-350-million-second-fund-make-cancer-non-lethal/"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "AI's Impact on Delivery Speed Measured in New Study",
+          "headline_de": "KI-Auswirkungen auf Liefergeschwindigkeit in neuer Studie gemessen",
+          "headline_easy": "Wie schnell Dinge geliefert werden, wenn man Künstliche Intelligenz benutzt. Das wird gemessen.",
+          "summary_en": "A new study is measuring the impact of artificial intelligence on delivery speed. This research aims to understand how AI can optimize logistics and improve efficiency in supply chains.",
+          "summary_de": "Eine neue Studie misst die Auswirkungen künstlicher Intelligenz auf die Liefergeschwindigkeit. Diese Forschung zielt darauf ab zu verstehen, wie KI Logistik optimieren und die Effizienz in Lieferketten verbessern kann.",
+          "summary_easy": "Diese Nachricht ist über künstliche Intelligenz (KI). KI ist wie ein kluger Computer. Die Nachricht fragt: Macht KI die Lieferung von Dingen schneller? Forscher messen das jetzt.",
+          "links": [
             {
-              "title": "U.S. intelligence sharing has fractured under Trump, officials say",
-              "url": "https://www.yahoo.com/news/politics/articles/exclusive-us-intelligence-sharing-fractured-110514786.html"
+              "title": "Measuring AI’s Impact on Delivery Speed",
+              "url": "https://www.oreilly.com/radar/measuring-ais-impact-on-delivery-speed/#BlogPosting"
             }
           ]
         },
         {
           "type": "War",
           "emoji": "⚔️",
-          "headline_en": "Trump Faces Midterm Reckoning Amidst Severe Smog in India and Pakistan",
-          "headline_de": "Der ehemalige Präsident Trump steht vor einer bedeutenden Wahlabrechnung, da die Wähler an den US-Zwischenwahlen teilnehmen. Dieses Ereignis findet vor dem Hintergrund schweren Smogs statt, der Indien und Pakistan betrifft und globale ökologische und politische Herausforderungen hervorhebt.",
-          "headline_easy": "Heute sind Wahlen in den USA. Trump muss sehen, ob die Leute ihn mögen. In Indien und Pakistan gibt es viel Smog.",
-          "summary_en": "Former President Trump faces a significant electoral reckoning as voters participate in the US midterm elections. This event occurs against a backdrop of severe smog affecting India and Pakistan, highlighting global environmental and political challenges.",
-          "summary_de": "",
-          "summary_easy": "",
+          "headline_en": "Man Sentenced for Fraudulently Collecting Funds for Veteran and Cancer Charities",
+          "headline_de": "Mann wegen betrügerischer Einziehung von Geldern für Veteranen- und Krebsstiftungen verurteilt",
+          "headline_easy": "Ein Mann hat falsche Spenden gesammelt. Das Geld war für Soldaten und kranke Kinder. Er hat über 200.000 Dollar gestohlen.",
+          "summary_en": "A Maryland man has been sentenced to five years in prison for creating fake charities that solicited donations for veterans and breast cancer research, ultimately stealing over $200,000. This case highlights the exploitation of charitable causes.",
+          "summary_de": "Ein Mann aus Maryland wurde zu fünf Jahren Gefängnis verurteilt, weil er gefälschte Wohltätigkeitsorganisationen gegründet hatte, die Spenden für Veteranen und Brustkrebsforschung sammelten, und dabei über 200.000 US-Dollar gestohlen hat. Dieser Fall verdeutlicht die Ausbeutung wohltätiger Zwecke.",
+          "summary_easy": "Ein Mann hat betrogen. Er hat gesagt, er sammelt Geld für Soldaten und kranke Kinder. Aber er hat das Geld für sich genommen. Er hat 200.000 Dollar gestohlen. Jetzt muss er ins Gefängnis.",
           "links": [
             {
-              "title": "Trump faces day of reckoning as voters head to the polls for midterm elections",
-              "url": "https://www.irishtimes.com/world/us/2026/11/03/trump-faces-day-of-reckoning-as-voters-head-to-the-polls-for-midterm-elections/"
+              "title": "Maryland man sentenced to 5 years after creating fake charities linked to veterans, breast cancer and childhood leukaemia and stealing over $200,000",
+              "url": "https://timesofindia.indiatimes.com/world/us/maryland-man-sentenced-to-5-years-after-creating-fake-charities-linked-to-veterans-breast-cancer-and-childhood-leukaemia-and-stealing-over-200000/articleshow/135538308.cms"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Woman Jailed for GoFundMe Scam; Emergency Preparedness Advice Issued",
-          "headline_de": "Eine Frau in Tennessee wurde wegen der Erfindung einer Geschichte über eine verwundete Marine zur Einwerbung von GoFundMe-Spenden inhaftiert. In separaten Nachrichten werden Ratschläge zum Führen von Notfallausrüstungs-Kits weitergegeben, mit Zusicherungen an die Bürger, sich nicht über Regierungsempfehlungen aufzuregen.",
-          "headline_easy": "Eine Frau hat viel Geld auf GoFundMe bekommen, weil sie gelogen hat. Sie ist jetzt im Gefängnis. Es gibt auch Tipps, wie man sich auf Notfälle vorbereitet.",
-          "summary_en": "A woman in Tennessee has been jailed for fabricating a story about being a wounded Marine to solicit GoFundMe donations. In separate news, advice is being shared on maintaining emergency preparedness kits, with assurances to citizens not to panic about government recommendations.",
-          "summary_de": "",
-          "summary_easy": "",
+          "headline_en": "Millionaire Installs Electric Fence Around Mansion, Neighbors Compare It to POW Camp",
+          "headline_de": "Millionär installiert Elektrosicherheitszaun um Villa, Nachbarn vergleichen ihn mit Kriegsgefangenenlager",
+          "headline_easy": "Ein reicher Mann hat einen Zaun um sein Haus gemacht. Der Zaun hat Strom. Die Nachbarn sagen, es sieht aus wie ein Gefängnis.",
+          "summary_en": "A wealthy businessman has installed an electric fence around his multi-million-pound mansion in Notting Hill to deter foxes. Neighbors have expressed concern, likening the fence to a prisoner-of-war camp due to its imposing appearance.",
+          "summary_de": "Ein wohlhabender Geschäftsmann hat um seine millionenschwere Villa in Notting Hill einen Elektrosicherheitszaun installiert, um Füchse abzuschrecken. Nachbarn äußerten Bedenken und verglichen den Zaun wegen seines imposanten Aussehens mit einem Kriegsgefangenenlager.",
+          "summary_easy": "Ein sehr reicher Mann lebt in einem großen Haus. Er hat einen Zaun um sein Haus gebaut. Der Zaun hat Strom, um Tiere fernzuhalten. Die Nachbarn finden, der Zaun sieht furchteinflößend aus. Sie sagen, er ist wie ein Lager für Kriegsgefangene.",
           "links": [
             {
-              "title": "A Tennessee woman claimed she was a wounded Marine who survived an Afghanistan ambush; she used the story to obtain GoFundMe donations and was jailed",
-              "url": "https://timesofindia.indiatimes.com/world/us/a-tennessee-woman-claimed-she-was-a-wounded-marine-who-survived-an-afghanistan-ambush-she-used-the-story-to-obtain-gofundme-donations-and-was-jailed/articleshow/135494715.cms"
+              "title": "A millionaire businessman installed an electric fence around his £44.5 million Notting Hill mansion to keep foxes away; neighbours say it looks like a prisoner-of-war camp",
+              "url": "https://timesofindia.indiatimes.com/world/uk/a-millionaire-businessman-installed-an-electric-fence-around-his-44-5-million-notting-hill-mansion-to-keep-foxes-away-neighbours-say-it-looks-like-a-prisoner-of-war-camp/articleshow/135537514.cms"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "Ram V Launches Mirror Maker Studios; Trump Considers Iran Strike",
-          "headline_de": "Ram V hat Mirror Maker Studios gestartet, was ein neues Unterfangen in der Kreativwirtschaft darstellt. In geopolitischen Nachrichten erwägt der ehemalige Präsident Trump Berichten zufolge einen Atomangriff auf den Iran, was auf hohe Spannungen in der Region hindeutet.",
-          "headline_easy": "Ram V hat ein neues Studio. Es heißt Mirror Maker. Trump denkt über einen Angriff auf Iran nach.",
-          "summary_en": "Ram V has launched Mirror Maker Studios, marking a new venture in the creative industry. In geopolitical news, former President Trump is reportedly considering a nuclear strike on Iran, indicating high tensions in the region.",
-          "summary_de": "",
-          "summary_easy": "",
+          "headline_en": "Rafael Nadal Joins Real Madrid's Board of Directors",
+          "headline_de": "Rafael Nadal tritt dem Vorstand von Real Madrid bei",
+          "headline_easy": "Tennisspieler Rafael Nadal ist jetzt im Vorstand von Real Madrid.",
+          "summary_en": "Tennis legend Rafael Nadal has been appointed to the board of directors at Real Madrid. This move marks a significant crossover between the world of sports and football club management.",
+          "summary_de": "Tennislegende Rafael Nadal wurde in den Vorstand von Real Madrid berufen. Dieser Schritt markiert eine bedeutende Überschneidung zwischen der Welt des Sports und dem Management eines Fußballvereins.",
+          "summary_easy": "Rafael Nadal ist ein berühmter Tennisspieler. Jetzt ist er auch ein Teil vom Fußballverein Real Madrid. Er ist jetzt im Vorstand. Das ist eine interessante neue Rolle für ihn.",
           "links": [
             {
-              "title": "Ram V Launches Mirror Maker Studios And On YouTube Ahead Of Deicidium",
-              "url": "https://bleedingcool.com/comics/ram-v-launches-mirror-maker-studios-and-on-youtube-ahead-of-deicidium/"
+              "title": "BREAKING: Tennis legend Nadal joins Real Madrid’s board of directors",
+              "url": "https://www.101greatgoals.com/football/la-liga/beaking-tennis-legend-rafael-nadal-joins-real-madrids-board-of-directors/"
             }
           ]
         }
@@ -290,29 +326,29 @@
   ],
   "bundestag": {
     "wahlperiode": 21,
-    "sitzung": 103,
-    "url": "https://dserver.bundestag.de/btp/21/21103.pdf",
-    "summary_en": "The 103rd session of the 21st German Bundestag convened on Friday, October 16, 2026. The session focused on several key legislative proposals and motions. A primary agenda item, Topic 32a, involved the second and third readings of a government bill to introduce early retirement benefits, with reports from the Budget Committee and Finance Committee. Relatedly, the Finance Committee presented recommendations on motions concerning a \"Junior Savings Depot\" for children's pensions, proposed by the AfD (MPs Ulrike Schielke-Ziesing, René Springer, Peter Bohnhof), and a motion by Die Linke (MPs Lisa Schubert, Nicole Gohlke, Janine Wissler) to strengthen financial education for young people. Speakers included Michael Thews (SPD), Ulrike Schielke-Ziesing (AfD), Fritz Güntzler (CDU/CSU), Stefan Schmidt (BÜNDNIS 90/DIE GRÜNEN), Iris Nieland (AfD), Dr. Carsten Brodesser (CDU/CSU), Isabelle Vandre (Die Linke), Dr. Stefan Korbach (CDU/CSU), Torben Braga (AfD), Dr. Florian Dorn (CDU/CSU), and Diana Zimmer (AfD). Topic 33 addressed the care insurance system, with motions from Die Linke (MPs Evelyn Schötz, Nicole Gohlke, Dr. Michael Arndt) advocating for a \"Solidarity and Needs-Based Care Insurance\" and calling for \"No Benefit Cuts in Care.\" BÜNDNIS 90/DIE GRÜNEN (MPs Simone Fischer, Dr. Janosch Dahmen, Dr. Paula Piechotta) proposed a \"Sustainable Nursing Reform to Future-Proof Social Care Insurance.\" Contributors included Sören Pellmann (Die Linke), Sarah Vollath (Die Linke), Axel Müller (CDU/CSU), Tobias Ebenberger (AfD), Claudia Moll (SPD), Simone Fischer (BÜNDNIS 90/DIE GRÜNEN), Dr. Hendrik Streeck (CDU/CSU), Nicole Hess (AfD), Serdar Yüksel (SPD), Birgit Bessin (AfD), Misbah Khan (BÜNDNIS 90/DIE GRÜNEN), Evelyn Schötz (Die Linke), Katrin Staffler (CDU/CSU), and Ates Gürpinar (Die Linke). Topic 34 initiated the first reading of a government bill to reduce bureaucracy in the transport sector, with contributions from Steffen Bilger (Federal Minister BMV), Wolfgang Wiehle (AfD), Anja Troff-Schaffarzyk (SPD), Matthias Gastel (BÜNDNIS 90/DIE GRÜNEN), Sören Pellmann (Die Linke), Daniel Kölbl (CDU/CSU), Maximilian Kneller (AfD), Dirk Vöpel (SPD), Günter Baumgartner (CDU/CSU), Agnes Conrad (Die Linke). Topic 35 involved a motion by BÜNDNIS 90/DIE GRÜNEN (MPs Harald Ebner, Dr. Jan-Niclas Gesenhues, Michael Kellner) to send a strong signal for the protection of livelihoods at the World Biodiversity Conference in Yerevan. Speakers included Dr. Christina Baum (AfD), Emmi Zeulner (CDU/CSU), Ates Gürpinar (Die Linke), and Emmi Zeulner (CDU/CSU). Topic 36, a first reading, concerned a government bill to modernize arbitration law and amend civil procedure in international civil matters, with interventions by Dr. Stefanie Hubig (Federal Minister BMJV), Fabian Jacobi (AfD), Carl-Philipp Sassenrath (CDU/CSU), Dr. Till Steffen (BÜNDNIS 90/DIE GRÜNEN), Aaron Valent (Die Linke), Christian Moser (CDU/CSU), Daniel Rinkert (SPD), and Sebastian Steineke (CDU/CSU). Finally, Topic 37 debated an AfD motion (MPs Adam Balten, Steffen Kotré, Dr. Malte Kaufmann) to ensure technology openness in the transport sector and end the \"privileging of electromobility,\" with remarks from Adam Balten (AfD), Dr. Klaus Wiener (CDU/CSU), Karsten Hilse (AfD), Dr. Klaus Wiener (CDU/CSU), Julian Joswig (BÜNDNIS 90/DIE GRÜNEN), Dunja Kreiser (SPD). An objection to an order measure was also addressed.",
-    "summary_de": "Die 103. Sitzung des Deutschen Bundestages der 21. Wahlperiode fand am Freitag, den 16. Oktober 2026 statt. Die Sitzung konzentrierte sich auf mehrere wichtige Gesetzesentwürfe und Anträge. Ein zentraler Tagesordnungspunkt, TOP 32a, umfasste die zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Einführung einer Frühstartrente, mit Berichten des Haushaltsausschusses und des Finanzausschusses. In diesem Zusammenhang legte der Finanzausschuss Beschlussempfehlungen zu Anträgen vor: Zum einen der Antrag der AfD (Abgeordnete Ulrike Schielke-Ziesing, René Springer, Peter Bohnhof) für ein „Junior-Spar-Depot“ zur Sicherung der Rente von Kindern, zum anderen der Antrag von Die Linke (Abgeordnete Lisa Schubert, Nicole Gohlke, Janine Wissler) zur Stärkung der finanziellen Bildung junger Menschen. Es sprachen Michael Thews (SPD), Ulrike Schielke-Ziesing (AfD), Fritz Güntzler (CDU/CSU), Stefan Schmidt (BÜNDNIS 90/DIE GRÜNEN), Iris Nieland (AfD), Dr. Carsten Brodesser (CDU/CSU), Isabelle Vandre (Die Linke), Dr. Stefan Korbach (CDU/CSU), Torben Braga (AfD), Dr. Florian Dorn (CDU/CSU) und Diana Zimmer (AfD). TOP 33 befasste sich mit der Pflegeversicherung. Hierzu lagen Anträge von Die Linke (Abgeordnete Evelyn Schötz, Nicole Gohlke, Dr. Michael Arndt) für eine „solide und bedarfsgerechte Pflegeversicherung“ und für „keine Leistungskürzungen in der Pflege“ vor. BÜNDNIS 90/DIE GRÜNEN (Abgeordnete Simone Fischer, Dr. Janosch Dahmen, Dr. Paula Piechotta) brachten eine „nachhaltige Pflegereform zur Zukunftsfestmachung der sozialen Pflegeversicherung“ ein. Beteiligt waren unter anderem Sören Pellmann (Die Linke), Sarah Vollath (Die Linke), Axel Müller (CDU/CSU), Tobias Ebenberger (AfD), Claudia Moll (SPD), Simone Fischer (BÜNDNIS 90/DIE GRÜNEN), Dr. Hendrik Streeck (CDU/CSU), Nicole Hess (AfD), Serdar Yüksel (SPD), Birgit Bessin (AfD), Misbah Khan (BÜNDNIS 90/DIE GRÜNEN), Evelyn Schötz (Die Linke), Katrin Staffler (CDU/CSU) und Ates Gürpinar (Die Linke). TOP 34 leitete die erste Beratung eines Gesetzentwurfs der Bundesregierung zum Bürokratierückbau im Verkehrsbereich ein. Hierzu äußerten sich Steffen Bilger (Bundesminister BMV), Wolfgang Wiehle (AfD), Anja Troff-Schaffarzyk (SPD), Matthias Gastel (BÜNDNIS 90/DIE GRÜNEN), Sören Pellmann (Die Linke), Daniel Kölbl (CDU/CSU), Maximilian Kneller (AfD), Dirk Vöpel (SPD), Günter Baumgartner (CDU/CSU), Agnes Conrad (Die Linke). TOP 35 beinhaltete einen Antrag von BÜNDNIS 90/DIE GRÜNEN (Abgeordnete Harald Ebner, Dr. Jan-Niclas Gesenhues, Michael Kellner), auf der Weltbiodiversitätskonferenz in Jerewan ein starkes Signal für den Schutz der Lebensgrundlagen zu setzen. Es sprachen Dr. Christina Baum (AfD), Emmi Zeulner (CDU/CSU), Ates Gürpinar (Die Linke) und Emmi Zeulner (CDU/CSU). TOP 36, eine erste Beratung, betraf einen Gesetzentwurf der Bundesregierung zur Modernisierung des Schiedsverfahrensrechts sowie zu weiteren Änderungen der Zivilprozessordnung im Bereich des internationalen Zivilverfahrensrechts. Wortmeldungen kamen von Dr. Stefanie Hubig (Bundesministerin BMJV), Fabian Jacobi (AfD), Carl-Philipp Sassenrath (CDU/CSU), Dr. Till Steffen (BÜNDNIS 90/DIE GRÜNEN), Aaron Valent (Die Linke), Christian Moser (CDU/CSU), Daniel Rinkert (SPD), Sebastian Steineke (CDU/CSU). Abschließend wurde TOP 37 behandelt, ein Antrag der AfD (Abgeordnete Adam Balten, Steffen Kotré, Dr. Malte Kaufmann) zur Gewährleistung von Technologieoffenheit im Verkehrssektor und zur Beendigung der „Privilegierung der Elektromobilität“. Hierzu trugen Adam Balten (AfD), Dr. Klaus Wiener (CDU/CSU), Karsten Hilse (AfD), Dr. Klaus Wiener (CDU/CSU), Julian Joswig (BÜNDNIS 90/DIE GRÜNEN), Dunja Kreiser (SPD) vor. Zudem wurde ein Einspruch gegen eine Ordnungsmaßnahme behandelt.",
-    "summary_easy": "Der Bundestag hatte am 16. Oktober 2026 eine Sitzung. Es gab viele Themen. Ein Thema war eine neue Rente für frühes Rentenalter. Die Regierung hat einen Vorschlag gemacht. Es gab auch Anträge von Parteien. Die Partei AfD wollte ein Sparkonto für Kinder. Die Partei Die Linke wollte mehr Geld-Wissen für junge Leute. Viele Abgeordnete sprachen über diese Themen. Ein anderes wichtiges Thema war die Pflegeversicherung. Die Linke und die Grünen hatten Vorschläge gemacht. Sie wollen die Pflege gut machen. Die Regierung hat auch einen Vorschlag gemacht, um weniger Bürokratie im Verkehr zu haben. Die Grünen sprachen über Umweltschutz bei einer Welt-Konferenz. Die AfD sprach über Elektro-Autos und andere Technik. Es gab auch einen Vorschlag für neue Gesetze beim Schiedsverfahren. Ein Antrag wegen einer Ordnungsmaßnahme wurde auch besprochen.",
+    "sitzung": 104,
+    "url": "https://dserver.bundestag.de/btp/21/21104.pdf",
+    "summary_en": "The 104th session of the 21st legislative period of the German Bundestag took place on Wednesday, November 4, 2026. The session began with the expansion and handling of the agenda. A key decision was the removal of agenda item 10. Subsequent committee referrals were also addressed. The main portion of the session focused on the \"Questioning of the Federal Government,\" featuring Federal Minister for Special Tasks Nina Warken and Federal Minister AA Dr. Johann David Wadephul. Several Members of Parliament (MPs) from various parties participated in the questioning. Marc Henrichmann (CDU/CSU) and Markus Frohnmaier (AfD) raised questions and made statements. Jan van Aken (Die Linke) and Sebastian Roloff (SPD) also contributed to the discussion. Dr. Irene Mihalic (BÜNDNIS 90/DIE GRÜNEN) and Adis Ahmetovic (SPD) were among the MPs engaging with the ministers. Pierre Lamely and Dr. Alexander Wolf (both AfD) posed questions, as did Tilman Kuban and Jürgen Hardt (both CDU/CSU). Deborah Düring, Boris Mijatović, Luise Amtsberg, and Robin Wagener (all BÜNDNIS 90/DIE GRÜNEN) also participated. Lea Reisner (Die Linke) and Angelika Glöckner (SPD) contributed to the debate. Dr. Ralf Stegner (SPD) was also involved in the proceedings. The transcript details exchanges regarding governmental responsibilities and policies, with ministers responding to inquiries from the opposition and coalition partners.",
+    "summary_de": "Die 104. Sitzung der 21. Wahlperiode des Deutschen Bundestages fand am Mittwoch, den 4. November 2026, statt. Die Sitzung begann mit der Erweiterung und Abwicklung der Tagesordnung. Eine wichtige Entscheidung war die Absetzung des Tagesordnungspunktes 10. Des Weiteren wurden nachträgliche Ausschussüberweisungen behandelt. Der Hauptteil der Sitzung widmete sich der „Befragung der Bundesregierung“ mit Bundesministerin für besondere Aufgaben Nina Warken und Bundesminister AA Dr. Johann David Wadephul. Mehrere Bundestagsabgeordnete verschiedener Fraktionen beteiligten sich an der Befragung. Marc Henrichmann (CDU/CSU) und Markus Frohnmaier (AfD) stellten Fragen und gaben Erklärungen ab. Jan van Aken (Die Linke) und Sebastian Roloff (SPD) trugen ebenfalls zur Diskussion bei. Dr. Irene Mihalic (BÜNDNIS 90/DIE GRÜNEN) und Adis Ahmetovic (SPD) gehörten zu den Abgeordneten, die mit den Ministern interagierten. Pierre Lamely und Dr. Alexander Wolf (beide AfD) stellten Fragen, ebenso wie Tilman Kuban und Jürgen Hardt (beide CDU/CSU). Deborah Düring, Boris Mijatović, Luise Amtsberg und Robin Wagener (alle BÜNDNIS 90/DIE GRÜNEN) nahmen ebenfalls teil. Lea Reisner (Die Linke) und Angelika Glöckner (SPD) trugen zur Debatte bei. Dr. Ralf Stegner (SPD) war ebenfalls an den Beratungen beteiligt. Das Transkript detailliert den Austausch über Regierungsaufgaben und -politiken, wobei die Minister auf Anfragen der Opposition und der Koalitionspartner antworteten.",
+    "summary_easy": "Heute ist Mittwoch, der 4. November 2026. Der Bundestag hält seine 104. Sitzung ab. Zuerst sprechen die Abgeordneten über die Tagesordnung. Sie beschließen, Punkt 10 von der Liste zu streichen. Dann werden noch mehr Punkte an Ausschüsse geschickt. Danach befragen die Abgeordneten die Regierung. Ministerin Nina Warken und Minister Dr. Johann David Wadephul antworten. Abgeordnete von CDU/CSU und AfD stellen Fragen. Auch Abgeordnete von Die Linke und SPD sind dabei. Grüne Abgeordnete diskutieren ebenfalls mit. Die Minister erklären die Arbeit der Regierung. Die Abgeordneten kritisieren oder loben.",
     "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact_en": "In ancient Rome, the color Tyrian purple was so expensive and difficult to produce that only the emperor and highest-ranking officials were permitted to wear it. The dye was extracted from thousands of sea snails, with about 10,000 snails needed for just one gram of dye, making it literally worth its weight in gold.",
-      "fact_de": "Im antiken Rom war die Farbe Purpur von Tyros so teuer und schwierig herzustellen, dass nur der Kaiser und die ranghöchsten Beamten sie tragen durften. Der Farbstoff wurde aus Tausenden von Meeresschnecken gewonnen, wobei etwa 10.000 Schnecken für nur ein Gramm Farbe benötigt wurden, was sie buchstäblich ihren Gewicht in Gold wert machte.",
-      "fact_easy": "In alten Rom war Purpur sehr teuer. Nur der Kaiser und wichtige Leute durften es tragen. Man machte die Farbe aus vielen Schnecken.",
+      "fact_en": "During the French Revolution, sans-culottes, the common people, wore long trousers instead of the knee-breeches (culottes) favored by the aristocracy. This fashion choice became a powerful symbol of revolutionary ideals and opposition to the monarchy, demonstrating how clothing could signify political allegiance.",
+      "fact_de": "Während der Französischen Revolution trugen die Sansculotten, das einfache Volk, lange Hosen anstelle der Kniebundhosen (Culottes), die vom Adel bevorzugt wurden. Diese Modeentscheidung wurde zu einem mächtigen Symbol revolutionärer Ideale und des Widerstands gegen die Monarchie und zeigte, wie Kleidung politische Zugehörigkeit signalisieren konnte.",
+      "fact_easy": "Die Sansculotten trugen lange Hosen. Das war ein Zeichen gegen den König. Ihre Kleidung zeigte ihre politische Meinung.",
       "category": "Fashion",
-      "source_title": "Tyrian Purple",
-      "source_url": "https://www.metmuseum.org/art/collection/search/409286"
+      "source_title": "French Revolution | History",
+      "source_url": "https://www.history.com/topics/european-history/french-revolution"
     },
     {
-      "fact_en": "The tradition of blowing out candles on a birthday cake originated from ancient Greece, where people believed that the smoke from the candles carried their prayers and wishes to the gods. They also thought that the flickering flames represented the moon, and the circular cake symbolized it.",
-      "fact_de": "Die Tradition, Kerzen auf einer Geburtstagstorte auszublasen, stammt aus dem antiken Griechenland, wo die Menschen glaubten, dass der Rauch der Kerzen ihre Gebete und Wünsche zu den Göttern trug. Sie dachten auch, dass die flackernden Flammen den Mond darstellten und der runde Kuchen ihn symbolisierte.",
-      "fact_easy": "In Griechenland blies man Kerzen auf Kuchen aus. Man dachte, der Rauch bringt Gebete zu den Göttern. Der Kuchen war wie der Mond.",
+      "fact_en": "The tradition of throwing rice at newlyweds is thought to have originated in ancient Rome, where it was believed to ward off evil spirits and promote fertility for the couple. This practice evolved over centuries, with rice eventually replacing older offerings like grain or nuts in many cultures.",
+      "fact_de": "Der Brauch, bei Hochzeiten Reis zu werfen, soll im antiken Rom entstanden sein, wo man glaubte, dass er böse Geister abwehrt und die Fruchtbarkeit des Paares fördert. Diese Praxis entwickelte sich über Jahrhunderte, wobei Reis in vielen Kulturen schließlich ältere Gaben wie Getreide oder Nüsse ersetzte.",
+      "fact_easy": "Früher warfen Menschen Reis bei Hochzeiten. Sie glaubten, das schützt vor bösen Geistern. Reis sollte dem Paar Glück bringen.",
       "category": "Traditions",
-      "source_title": "The Origin of Birthday Candles",
-      "source_url": "https://www.smithsonianmag.com/smart-news/heres-the-real-origin-of-birthday-candles-180949857/"
+      "source_title": "Wedding Traditions: Why Do We Throw Rice?",
+      "source_url": "https://www.brides.com/story/wedding-traditions-rice-throw"
     }
   ],
   "frankfurt": {
@@ -320,80 +356,80 @@
       {
         "type": "Events",
         "emoji": "🎪",
-        "headline_en": "Columnist Links Zeil Disturbances to Specific Community, CDU Politician Disappointed with Merz, New EV Competitor Arrives",
-        "headline_de": "Kolumnist verbindet Zeil-Vorfälle mit bestimmter Community, CDU-Politikerin enttäuscht von Merz, neuer E-Auto-Konkurrent.",
-        "headline_easy": "Ein Experte spricht über Probleme auf der Zeil. Eine Politikerin ist enttäuscht von Herrn Merz. Ein neues Elektro-Auto ist da.",
-        "summary_en": "A columnist attributes recent disturbances on the Zeil to a specific Arab-Muslim milieu, highlighting Frankfurt's high percentage of residents with migration backgrounds. Meanwhile, a CDU politician expresses disappointment after a meeting with Friedrich Merz, describing his demeanor as condescending. In automotive news, the Jaecoo 5 EV is introduced as a new competitor in the electric SUV market.",
-        "summary_de": "Ein Kolumnist führt jüngste Störungen auf der Zeil auf ein bestimmtes arabisch-muslimisches Milieu zurück und hebt den hohen Anteil von Menschen mit Migrationshintergrund in Frankfurt hervor. Gleichzeitig äußert eine CDU-Politikerin Enttäuschung nach einem Treffen mit Friedrich Merz und beschreibt dessen Auftreten als herablassend. In der Automobilbranche wird der Jaecoo 5 EV als neuer Konkurrent im Segment der Elektro-SUVs vorgestellt.",
-        "summary_easy": "Ein Experte sagt, es gibt ein Problem mit einer Gruppe von Menschen auf der Zeil. Eine Politikerin hat mit Herrn Merz gesprochen und ist nicht zufrieden. Ein neues Elektro-Auto namens Jaecoo 5 EV ist jetzt auf dem Markt. Es ist ein neues Auto, das mit anderen Autos konkurriert.",
+        "headline_en": "Klopp's Squad Decisions Loom, Moore Struggles at 1. FC Köln",
+        "headline_de": "Klopps Kaderentscheidungen stehen an, Moore kämpft beim 1. FC Köln",
+        "headline_easy": "Jürgen Klopp muss Spieler auswählen. Ein junger Spieler hat Probleme in Köln.",
+        "summary_en": "National coach Jürgen Klopp is set to finalize his squad, with tough decisions and potential disappointments expected. Meanwhile, 19-year-old Mikey Moore is facing a challenging time at 1. FC Köln, struggling to secure a starting position with no goals or assists.",
+        "summary_de": "Bundestrainer Jürgen Klopp wird seinen Kader finalisieren, wobei harte Entscheidungen und mögliche Enttäuschungen erwartet werden. Gleichzeitig hat der 19-jährige Mikey Moore beim 1. FC Köln eine schwierige Zeit, kämpft um einen Stammplatz und verzeichnet weder Tore noch Vorlagen.",
+        "summary_easy": "Jürgen Klopp muss bald entscheiden, wer in die Fußball-Nationalmannschaft kommt. Es gibt viele Spieler, und nicht alle können dabei sein. Ein junger Fußballer namens Mikey Moore hat es gerade schwer beim 1. FC Köln.",
         "links": [
           {
-            "title": "„Es gibt auf der Zeil ein Milieu, arabisch-muslimisch, das dort die Zone besetzt hält“: Kolumnist Reinhard Mohr ist gebürtiger Frankfurter. Er spricht nach den Halloween-Krawallen von einem „speziellen Problem“. „In Frankfurt liegt der Anteil der Menschen mit Migrationshintergrund bei 58 Prozent“, so Mohr.",
-            "url": "https://www.welt.de/politik/ausland/video6ae9c51136ba9db5f4e970ec/krawalle-in-frankfurt-es-gibt-auf-der-zeil-ein-milieu-arabisch-muslimisch-das-dort-die-zone-besetzt-haelt.html"
+            "title": "Zu viel Druck? - Murks mit Köln-Star Moore: Kein Tor, keine Vorlage, kein Stammplatz: Mikey Moore (19) hat es schwer beim 1. FC Köln.",
+            "url": "https://www.bild.de/sport/fussball/1-fc-koeln-zu-viel-druck-murks-mit-koeln-star-mikey-moore-6aeae6dd748580e4813c35d2"
           },
           {
-            "title": "„Fast herablassend. Wirklich befremdlich“ – CDU-Politikerin rechnet nach Aussprache mit Merz ab: Nach der Aussprache mit Kanzler Merz zieht eine CDU-Kreisvorsitzende aus Brandenburg ein ernüchterndes Fazit. Selbst glühende Merz-Anhänger seien enttäuscht gewesen, sie habe viel „Augenrollen gesehen“. ",
-            "url": "https://www.welt.de/politik/deutschland/article6ae99f43e54274d5b379d4b5/desiree-schrade-fast-herablassend-wirklich-befremdlich-cdu-politikerin-rechnet-nach-aussprache-mit-merz-ab.html"
+            "title": "Jetzt zeigt sich, auf wen Klopp wirklich setzt: Am Donnerstag nominiert Jürgen Klopp zum zweiten Mal seinen Kader. Der Bundestrainer muss das Aufgebot deutlich reduzieren. Es drohen Härtefälle. Eine Personalie sorgt schon für Diskussionen.",
+            "url": "https://www.welt.de/sport/fussball/article6aeac3a4955da465e2264cca/nationalmannschaft-jetzt-zeigt-sich-auf-wen-juergen-klopp-wirklich-setzt.html"
           }
         ]
       },
       {
         "type": "Crime",
         "emoji": "🚔",
-        "headline_en": "Major Raid Targets \"Crime as a Service\" Network, Debate Over 'Migrantisch' Terminology Continues, Press Freedom Enemies Listed",
-        "headline_de": "Große Razzia gegen „Crime as a Service“, Debatte um „migrantisch“ im Kabinett, Feinde der Pressefreiheit.",
-        "headline_easy": "Polizei hat eine kriminelle Gruppe gestoppt. Es gibt eine Diskussion über das Wort „migrantisch“. Journalisten haben Feinde.",
-        "summary_en": "Police conducted a large-scale raid across three federal states against a criminal organization accused of operating a shadow banking system that moved hundreds of millions of euros abroad for commissions. Meanwhile, a political debate is ongoing within the cabinet regarding the term 'migrantisch.' Separately, an organization has listed 33 opponents of independent media, including, for the first time, US President Donald Trump.",
-        "summary_de": "Die Polizei hat in drei Bundesländern eine Razzia gegen eine kriminelle Organisation durchgeführt, die ein Schattenbankwesen betrieben haben soll und hunderte Millionen Euro gegen Provision ins Ausland transferierte. Gleichzeitig läuft im Kabinett eine politische Debatte über den Begriff „migrantisch“. Eine Organisation hat zudem 33 Gegner unabhängiger Medien aufgelistet, darunter erstmals US-Präsident Donald Trump.",
-        "summary_easy": "Die Polizei hat eine wichtige Aktion gemacht und kriminelle Leute gefasst. Sie haben wohl Geld ins Ausland geschickt. In der Politik gibt es eine Diskussion über ein Wort. Journalisten sind wichtig, aber manche Leute mögen sie nicht. Auch Donald Trump ist auf einer Liste.",
+        "headline_en": "Raids Target Criminal Networks, National-Bank Under Investigation",
+        "headline_de": "Razzien gegen kriminelle Netzwerke, National-Bank unter Ermittlung",
+        "headline_easy": "Polizei hat Kriminelle gesucht. Eine Bank wird wegen Steuerbetrug untersucht.",
+        "summary_en": "German police have conducted widespread raids targeting criminal organizations, including those involved in 'Crime as a Service' and suspected far-left extremists. In a separate incident, the National-Bank in Essen faced a large-scale operation by authorities investigating suspected severe tax evasion.",
+        "summary_de": "Die deutsche Polizei hat umfassende Razzien gegen kriminelle Organisationen durchgeführt, darunter auch gegen solche, die 'Crime as a Service' anbieten, sowie mutmaßliche Linksextremisten. In einem separaten Fall war die National-Bank in Essen von einem Großeinsatz der Behörden betroffen, die wegen des Verdachts auf schwere Steuerhinterziehung ermitteln.",
+        "summary_easy": "Die Polizei in Deutschland hat viele Razzien gemacht. Sie hat gegen kriminelle Gruppen ermittelt. Auch die National-Bank in Essen wurde durchsucht. Es geht um den Verdacht auf Steuerbetrug.",
         "links": [
           {
-            "title": "Großer Einsatz: Razzia gegen „Crime as a Service“: In drei Bundesländern ist die Polizei gegen eine kriminelle Vereinigung vorgegangen. Sie soll ein Schattenbankwesen eingerichtet haben, das gegen Provision mehrere hundert Millionen Euro ins außereuropäische Ausland brachte.",
-            "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/grosse-razzia-gegen-crime-as-a-service-accg-201647293.html"
+            "title": "Deutschland: Harte Schläge gegen kriminelle Vereinigungen: Mit Razzien ist die Polizei gegen verschiedene Netzwerke von Kriminellen vorgegangen. Dabei ging es einerseits um die Kriminalitätsform \"Crime as a Service\". Im Fokus standen außerdem mutmaßliche Linksextremisten. An der Großrazzia gegen \"Crime as a Service\" …",
+            "url": "https://www.dw.com/de/deutschland-harte-schlaege-gegen-kriminelle-vereinigungen/a-79843275"
           },
           {
-            "title": "Feinde der Pressefreiheit, Welle wächst, Was gilt als Fakt?: 1. Die Feinde der Pressefreiheit 2026 (reporter-ohne-grenzen.de) Die Organisation Reporter ohne Grenzen (ROG) listet 33 Gegner unabhängiger Medien auf. Erstmals findet sich auch US-Präsident Donald Trump darunter, dessen Angriffe auf kritische Medien die USA …",
-            "url": "https://bildblog.de/155216/feinde-der-pressefreiheit-welle-waechst-was-gilt-als-fakt/"
+            "title": "Staatsanwaltschaft: Durchsuchungen bei National-Bank in NRW und Hessen: Bei der National-Bank in Essen gab es einen Großeinsatz der Behörden. Ermittelt wird wegen des Anfangsverdachts der schweren Steuerhinterziehung.",
+            "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/national-bank-in-essen-razzia-wegen-steuerhinterziehung-201647920.html"
           }
         ]
       },
       {
         "type": "Sales & Offers",
         "emoji": "🛍️",
-        "headline_en": "Major Raid on 'Crime as a Service', Press Freedom Critics Listed, Migrantisch Debate",
-        "headline_de": "Razzia gegen Kriminelle, Liste von Pressefeinden, Debatte über „migrantisch“.",
-        "headline_easy": "Polizei war sehr aktiv gegen Kriminelle. Manche Leute sind gegen freie Presse. Es gibt eine Diskussion in der Politik.",
-        "summary_en": "A large police operation targeted a criminal organization suspected of running a shadow banking system that laundered hundreds of millions of euros. In related news, a list of 'enemies of press freedom' has been published, including notable figures like Donald Trump. A political debate concerning the term 'migrantisch' is also highlighted.",
-        "summary_de": "Eine großangelegte Polizeiaktion richtete sich gegen eine kriminelle Organisation, die mutmaßlich ein Schattenbankwesen betrieb und Hunderte Millionen Euro wusch. In einem anderen Bericht wird eine Liste von „Feinden der Pressefreiheit“ veröffentlicht, auf der auch prominente Namen wie Donald Trump zu finden sind. Eine politische Debatte über den Begriff „migrantisch“ wird ebenfalls thematisiert.",
-        "summary_easy": "Die Polizei hat eine kriminelle Gruppe gestoppt, die wohl viel Geld versteckt hat. Es gibt eine Liste von Leuten, die keine freie Presse mögen. In der Politik wird über ein Wort gestritten.",
+        "headline_en": "Environmental Office Chief Retires, Criminal Investigations Underway",
+        "headline_de": "Umweltamtschef geht in Ruhestand, kriminelle Ermittlungen laufen",
+        "headline_easy": "Ein wichtiger Chef in Hessen geht in Rente. Es gibt auch Ermittlungen gegen kriminelle Gruppen und eine Bank.",
+        "summary_en": "Thomas Schmid, the president of the Hessian State Office for Nature Conservation, Environment and Geology and founder of Germany's first climate center, is retiring. Meanwhile, police are cracking down on criminal networks, with investigations also focusing on potential tax evasion at the National-Bank.",
+        "summary_de": "Thomas Schmid, Präsident des Hessischen Landesamts für Naturschutz, Umwelt und Geologie und Gründer des ersten Klimazentrums Deutschlands, tritt in den Ruhestand. Gleichzeitig geht die Polizei gegen kriminelle Netzwerke vor, und es gibt Ermittlungen wegen des Verdachts auf Steuerhinterziehung bei der National-Bank.",
+        "summary_easy": "Thomas Schmid, ein wichtiger Chef für Umwelt in Hessen, hört auf. Er hat das erste Klimazentrum in Deutschland gegründet. Die Polizei ist auch gegen kriminelle Gruppen aktiv. Eine Bank wird wegen Steuerproblemen untersucht.",
         "links": [
           {
-            "title": "Großer Einsatz: Razzia gegen „Crime as a Service“: In drei Bundesländern ist die Polizei gegen eine kriminelle Vereinigung vorgegangen. Sie soll ein Schattenbankwesen eingerichtet haben, das gegen Provision mehrere hundert Millionen Euro ins außereuropäische Ausland brachte.",
-            "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/grosse-razzia-gegen-crime-as-a-service-accg-201647293.html"
+            "title": "Amtschef in Hessen: Gründer des ersten Klimazentrums in Deutschland hört auf: In seiner Amtszeit als Präsident des Hessischen Landesamts für Naturschutz, Umwelt und Geologie hat Thomas Schmid alles gewollt, nur nicht verwalten. Jetzt geht er in Ruhestand.",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/hessisches-landesamt-als-vorreiter-thomas-schmid-hat-deutschlands-erstes-klimazentrum-gegruendet-nun-geht-er-accg-201225112.html"
           },
           {
-            "title": "Feinde der Pressefreiheit, Welle wächst, Was gilt als Fakt?: 1. Die Feinde der Pressefreiheit 2026 (reporter-ohne-grenzen.de) Die Organisation Reporter ohne Grenzen (ROG) listet 33 Gegner unabhängiger Medien auf. Erstmals findet sich auch US-Präsident Donald Trump darunter, dessen Angriffe auf kritische Medien die USA …",
-            "url": "https://bildblog.de/155216/feinde-der-pressefreiheit-welle-waechst-was-gilt-als-fakt/"
+            "title": "Staatsanwaltschaft: Durchsuchungen bei National-Bank in NRW und Hessen: Bei der National-Bank in Essen gab es einen Großeinsatz der Behörden. Ermittelt wird wegen des Anfangsverdachts der schweren Steuerhinterziehung.",
+            "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/national-bank-in-essen-razzia-wegen-steuerhinterziehung-201647920.html"
           }
         ]
       },
       {
         "type": "Local News",
         "emoji": "📍",
-        "headline_en": "Raid on 'Crime as a Service', Press Freedom Critics Listed, Political Debate Over 'Migrantisch'",
-        "headline_de": "Razzia gegen Kriminelle, Liste von Pressefeinden, politische Debatte über „migrantisch“.",
-        "headline_easy": "Polizei hat gegen Kriminelle ermittelt. Es gibt eine Liste von Leuten, die freie Presse nicht mögen. In der Politik gibt es eine Diskussion.",
-        "summary_en": "A significant police operation targeted a criminal organization across three federal states, accused of operating a shadow banking system that moved hundreds of millions of euros abroad. The report also touches upon the broader context of press freedom, mentioning a list of its opponents. Additionally, a political debate within the cabinet regarding the term 'migrantisch' is noted.",
-        "summary_de": "Eine bedeutende Polizeioperation richtete sich gegen eine kriminelle Organisation in drei Bundesländern, die beschuldigt wird, ein Schattenbankwesen betrieben zu haben, das hunderte Millionen Euro ins Ausland transferierte. Der Bericht berührt auch den breiteren Kontext der Pressefreiheit und erwähnt eine Liste ihrer Gegner. Des Weiteren wird eine politische Debatte im Kabinett über den Begriff „migrantisch“ hervorgehoben.",
-        "summary_easy": "Die Polizei hat eine große Razzia gemacht gegen Kriminelle. Diese Leute haben wohl viel Geld ins Ausland geschickt. Es gibt auch eine Nachricht über Leute, die freie Presse nicht mögen. Und in der Politik wird über ein Wort gestritten.",
+        "headline_en": "Hessian Environmental Office Chief Retires, Major Crime Raids Conducted",
+        "headline_de": "Hessischer Umweltamtschef geht in Rente, große Razzien gegen Kriminalität",
+        "headline_easy": "Ein wichtiger Chef in Hessen hört auf. Die Polizei hat kriminelle Gruppen bekämpft. Eine Bank wird untersucht.",
+        "summary_en": "Thomas Schmid, the founder of Germany's first climate center and head of the Hessian State Office for Nature Conservation, Environment and Geology, is stepping down. This news comes alongside significant police action against criminal networks, including those involved in 'Crime as a Service,' and investigations into suspected tax evasion at the National-Bank.",
+        "summary_de": "Thomas Schmid, Gründer des ersten Klimazentrums Deutschlands und Präsident des Hessischen Landesamts für Naturschutz, Umwelt und Geologie, tritt in den Ruhestand. Diese Nachricht überschneidet sich mit bedeutenden Polizeieinsätzen gegen kriminelle Netzwerke, darunter auch im Bereich 'Crime as a Service', sowie mit Ermittlungen wegen des Verdachts auf Steuerhinterziehung bei der National-Bank.",
+        "summary_easy": "Thomas Schmid, der Chef des Umweltamtes in Hessen, geht in Rente. Er hat das erste Klimazentrum in Deutschland gegründet. Die Polizei war sehr aktiv gegen Kriminelle. Es gibt auch eine Untersuchung bei der National-Bank wegen Steuern.",
         "links": [
           {
-            "title": "Großer Einsatz: Razzia gegen „Crime as a Service“: In drei Bundesländern ist die Polizei gegen eine kriminelle Vereinigung vorgegangen. Sie soll ein Schattenbankwesen eingerichtet haben, das gegen Provision mehrere hundert Millionen Euro ins außereuropäische Ausland brachte.",
-            "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/grosse-razzia-gegen-crime-as-a-service-accg-201647293.html"
+            "title": "Amtschef in Hessen: Gründer des ersten Klimazentrums in Deutschland hört auf: In seiner Amtszeit als Präsident des Hessischen Landesamts für Naturschutz, Umwelt und Geologie hat Thomas Schmid alles gewollt, nur nicht verwalten. Jetzt geht er in Ruhestand.",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/hessisches-landesamt-als-vorreiter-thomas-schmid-hat-deutschlands-erstes-klimazentrum-gegruendet-nun-geht-er-accg-201225112.html"
           },
           {
-            "title": "Feinde der Pressefreiheit, Welle wächst, Was gilt als Fakt?: 1. Die Feinde der Pressefreiheit 2026 (reporter-ohne-grenzen.de) Die Organisation Reporter ohne Grenzen (ROG) listet 33 Gegner unabhängiger Medien auf. Erstmals findet sich auch US-Präsident Donald Trump darunter, dessen Angriffe auf kritische Medien die USA …",
-            "url": "https://bildblog.de/155216/feinde-der-pressefreiheit-welle-waechst-was-gilt-als-fakt/"
+            "title": "Deutschland: Harte Schläge gegen kriminelle Vereinigungen: Mit Razzien ist die Polizei gegen verschiedene Netzwerke von Kriminellen vorgegangen. Dabei ging es einerseits um die Kriminalitätsform \"Crime as a Service\". Im Fokus standen außerdem mutmaßliche Linksextremisten. An der Großrazzia gegen \"Crime as a Service\" …",
+            "url": "https://www.dw.com/de/deutschland-harte-schlaege-gegen-kriminelle-vereinigungen/a-79843275"
           }
         ]
       }
