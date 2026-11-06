@@ -1,5 +1,5 @@
 {
-  "date": "Thursday, November 05 2026",
+  "date": "Friday, November 06 2026",
   "sections": [
     {
       "category": "Germany",
@@ -8,64 +8,80 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Skeleton Found Beneath Prague Castle; Identity Debated Over Time",
-          "headline_de": "Skelett unter der Prager Burg gefunden; Identität über die Zeit umstritten",
-          "headline_easy": "Man fand ein Skelett unter der Burg in Prag. Man weiß nicht genau, wer es war.",
-          "summary_en": "A skeleton unearthed beneath Prague Castle has a debated history, initially identified as a Viking by the Nazis and later reclassified as a Slavic warrior. The discovery prompts reflection on historical interpretations.",
-          "summary_de": "Ein Skelett unter der Prager Burg hat eine umstrittene Geschichte. Zuerst nannten die Nazis es ein Wikingergrab, später war es ein slawischer Krieger. Der Fund regt zum Nachdenken über historische Deutungen an.",
-          "summary_easy": "Ein Skelett wurde unter der Burg in Prag gefunden. Die Menschen haben verschiedene Ideen, wer das war. Früher dachten sie, es ist ein Wikinger. Später dachten sie, es ist ein slawischer Krieger.",
+          "headline_en": "Fuellkrug's Goal Rush Earns Him Recall to Germany Squad",
+          "headline_de": "Fuellkrugs Torlauf sichert ihm Rückkehr in die deutsche Nationalmannschaft",
+          "headline_easy": "Fuellkrug schießt viele Tore. Er darf wieder für Deutschland spielen.",
+          "summary_en": "Striker Niclas Fuellkrug has been recalled to the German national squad following a series of impressive goal-scoring performances. His recent form has boosted his chances for selection.",
+          "summary_de": "Stürmer Niclas Fuellkrug wurde nach einer Reihe beeindruckender Torerfolge wieder in die deutsche Nationalmannschaft berufen. Seine aktuelle Form hat seine Chancen auf eine Auswahl erhöht.",
+          "summary_easy": "Der Fußballspieler Niclas Fuellkrug ist wieder in der deutschen Mannschaft. Er hat viele Tore geschossen. Das ist gut für ihn.",
           "links": [
             {
-              "title": "A skeleton was found beneath Prague Castle. The Nazis called him a Viking; later it became a Slavonic warrior",
-              "url": "https://economictimes.indiatimes.com/news/new-updates/a-skeleton-was-found-beneath-prague-castle-the-nazis-called-him-a-viking-later-it-became-a-slavonic-warrior/articleshow/135536663.cms"
+              "title": "In-form Fuellkrug back in Germany squad after goal rush",
+              "url": "https://www.channelnewsasia.com/sport/in-form-fuellkrug-back-in-germany-squad-after-goal-rush-6527431"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Skoda May End Ice Hockey Worlds Sponsorship if Russia Participates",
-          "headline_de": "Skoda könnte Eishockey-WM-Sponsoring beenden, wenn Russland teilnimmt",
-          "headline_easy": "Skoda will vielleicht nicht mehr die Eishockey-WM sponsern, wenn Russland dabei ist.",
-          "summary_en": "Automaker Skoda is considering withdrawing its sponsorship of the Ice Hockey World Championships if Russia is allowed to compete. This decision highlights the growing pressure on organizations to take stances on geopolitical issues.",
-          "summary_de": "Der Autohersteller Skoda erwägt, sein Sponsoring der Eishockey-Weltmeisterschaft zu beenden, falls Russland teilnehmen darf. Diese Entscheidung unterstreicht den wachsenden Druck auf Organisationen, zu geopolitischen Themen Stellung zu beziehen.",
-          "summary_easy": "Skoda macht Autos. Sie sponsern die Eishockey-Weltmeisterschaft. Wenn Russland spielt, will Skoda nicht mehr sponsern. Das ist eine wichtige Entscheidung.",
+          "headline_en": "Germany Streamlines Visa Process for Turkish Businesspeople",
+          "headline_de": "Deutschland vereinfacht das Visumverfahren für türkische Geschäftsleute",
+          "headline_easy": "Deutschland macht Visa für Leute aus der Türkei einfacher. Sie sind Geschäftsleute.",
+          "summary_en": "Germany is accelerating visa procedures for Turkish businesspeople to facilitate bilateral trade and investment. This move aims to strengthen economic ties between the two nations.",
+          "summary_de": "Deutschland beschleunigt die Visumverfahren für türkische Geschäftsleute, um den bilateralen Handel und die Investitionen zu erleichtern. Dieser Schritt zielt darauf ab, die wirtschaftlichen Beziehungen zwischen beiden Ländern zu stärken.",
+          "summary_easy": "Deutschland hilft Geschäftsleuten aus der Türkei. Sie bekommen schneller ein Visum. Das ist gut für Handel und Wirtschaft.",
           "links": [
             {
-              "title": "Skoda to reconsider ice hockey worlds sponsorship if Russia plays",
-              "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:261104-930-943062/"
+              "title": "Germany to speed up visa procedures for Turkish businesspeople",
+              "url": "https://www.hurriyetdailynews.com/germany-to-speed-up-visa-procedures-for-turkish-businesspeople-229065"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Russia and Ukraine Exchange Airstrikes Amid Resumed Reconstruction Talks",
+          "headline_de": "Russland und Ukraine tauschen Luftangriffe aus, während Wiederaufbaugespräche wieder aufgenommen werden",
+          "headline_easy": "Russland und die Ukraine greifen sich mit Flugzeugen an. Sie sprechen wieder über Wiederaufbau.",
+          "summary_en": "Russia and Ukraine have engaged in reciprocal airstrikes, coinciding with the resumption of talks focused on reconstruction and security. The ongoing conflict continues to impact the region.",
+          "summary_de": "Russland und die Ukraine haben gegenseitige Luftangriffe durchgeführt, die mit der Wiederaufnahme von Gesprächen über Wiederaufbau und Sicherheit zusammenfallen. Der anhaltende Konflikt wirkt sich weiterhin auf die Region aus.",
+          "summary_easy": "Russland und die Ukraine kämpfen. Es gibt Luftangriffe. Sie reden aber auch über den Wiederaufbau.",
+          "links": [
+            {
+              "title": "Russia and Ukraine trade airstrikes as reconstruction and security talks resume",
+              "url": "https://abcnews.com/International/wireStory/russia-ukraine-trade-airstrikes-reconstruction-security-talks-resume-137871457"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Google Offers Voluntary Buyouts in Five More Countries Following Hiring Spree",
-          "headline_de": "Google bietet nach Einstellungswelle in fünf weiteren Ländern freiwillige Abfindungen an",
-          "headline_easy": "Google gibt Menschen Geld, wenn sie gehen wollen. Das ist in fünf neuen Ländern.",
-          "summary_en": "Google is expanding its voluntary buyout program to five additional countries after a period of extensive hiring. The move signals a potential shift in the company's workforce strategy.",
-          "summary_de": "Google erweitert sein Programm für freiwillige Abfindungen auf fünf weitere Länder nach einer Phase intensiver Einstellungen. Dieser Schritt deutet auf eine mögliche Veränderung in der Personalstrategie des Unternehmens hin.",
-          "summary_easy": "Google hat viele neue Leute eingestellt. Jetzt bietet Google einigen Leuten Geld an, wenn sie gehen möchten. Das passiert in fünf neuen Ländern.",
+          "headline_en": "German Word of the Day: 'Kuschelbeziehung'",
+          "headline_de": "Deutsches Wort des Tages: Kuschelbeziehung",
+          "headline_easy": "Deutsches Wort: Kuschelbeziehung",
+          "summary_en": "Today's featured German word is 'Kuschelbeziehung,' which describes a close, comfortable, and affectionate relationship. This term often implies a warm and informal bond.",
+          "summary_de": "Das heutige deutsche Wort ist 'Kuschelbeziehung'. Es beschreibt eine enge, gemütliche und liebevolle Beziehung. Dieser Begriff impliziert oft eine warme und informelle Bindung.",
+          "summary_easy": "Heute lernen wir ein deutsches Wort. Es heißt 'Kuschelbeziehung'. Das bedeutet, man ist sehr gut und eng befreundet.",
           "links": [
             {
-              "title": "Google expands voluntary buyouts to 5 more countries after hiring spree: Is India included?",
-              "url": "https://www.livemint.com/companies/news/google-expands-voluntary-buyouts-to-5-more-countries-after-hiring-spree-is-india-included-11793785376239.html"
+              "title": "German word of the day: Kuschelbeziehung",
+              "url": "https://www.thelocal.de/20261105/german-word-of-the-day-kuschelbeziehung"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "Recurring Equipment Issues Plague Indian Shooters at ISSF World Championships",
-          "headline_de": "Wiederkehrende Ausrüstungsprobleme plagen indische Schützen bei der ISSF-Weltmeisterschaft",
-          "headline_easy": "Indische Schützen haben Probleme mit ihrer Ausrüstung. Das passiert bei der Weltmeisterschaft.",
-          "summary_en": "Indian shooters have been significantly hampered by recurring equipment issues at the ISSF World Championships, leading to disqualifications. This recurring problem raises concerns about the preparedness and support for the athletes.",
-          "summary_de": "Indische Schützen werden bei der ISSF-Weltmeisterschaft durch wiederkehrende Ausrüstungsprobleme stark behindert, was zu Disqualifikationen führt. Dieses wiederkehrende Problem wirft Bedenken hinsichtlich der Vorbereitung und Unterstützung der Athleten auf.",
-          "summary_easy": "Indische Sportschützen haben Probleme mit ihrer Ausrüstung. Ihre Waffen funktionieren nicht richtig. Deshalb dürfen einige nicht mehr schießen.",
+          "headline_en": "Chinese Nation-State Threat Activity Decreases in Late 2026",
+          "headline_de": "Chinesische staatliche Bedrohungsaktivitäten sinken Ende 2026",
+          "headline_easy": "China macht weniger Cyber-Angriffe. Das ist gut für die Sicherheit.",
+          "summary_en": "Activity from Chinese nation-state threat actors has seen a significant drop in the second and third quarters of 2026. This decline suggests a potential shift in cyber operations.",
+          "summary_de": "Die Aktivität chinesischer staatlicher Bedrohungsakteure ist im zweiten und dritten Quartal 2026 stark zurückgegangen. Dieser Rückgang deutet auf eine mögliche Verlagerung der Cyberoperationen hin.",
+          "summary_easy": "Aktivitäten von China im Internet sind weniger geworden. Das war im zweiten und dritten Teil von 2026. Das ist gut für die Computersicherheit.",
           "links": [
             {
-              "title": "Recurring Equipment Issues Plague Indian Shooters",
-              "url": "https://www.rediff.com/sports/report/shambhavi-kshirsagar-disqualified-at-issf-world-championships/20261104.htm"
+              "title": "Chinese Nation-State Threat Activity Falls Sharply in Q2 and Q3 2026",
+              "url": "https://www.infosecurity-magazine.com/news/chinese-nation-activity-falls/"
             }
           ]
         }
@@ -78,48 +94,64 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "AI Agents Generating Data Beyond Monitoring Capacity",
-          "headline_de": "KI-Agenten generieren Daten, die nicht mehr überwacht werden können",
-          "headline_easy": "Künstliche Intelligenz macht Daten. Man kann nicht mehr alle Daten sehen.",
-          "summary_en": "Artificial intelligence agents are producing vast amounts of data that organizations are struggling to monitor. This poses a significant challenge for data management and security.",
-          "summary_de": "Künstliche Intelligenz-Agenten erzeugen riesige Datenmengen, die Organisationen nur schwer überwachen können. Dies stellt eine erhebliche Herausforderung für Datenmanagement und -sicherheit dar.",
-          "summary_easy": "Künstliche Intelligenz (KI) ist wie ein Computer, der Dinge lernt. KI macht sehr viele Daten. Firmen können nicht alle diese Daten kontrollieren. Das ist ein Problem.",
+          "headline_en": "Bomb Threats Disrupt European Flights Following Earlier Hoaxes",
+          "headline_de": "Bombenwarnungen stören europäische Flüge nach früheren Scherzen",
+          "headline_easy": "Flüge in Europa sind umgeleitet wegen falschen Bombenwarnungen.",
+          "summary_en": "Multiple flights across Europe were diverted due to bomb threats, raising concerns about security and the impact of false alarms. This follows a pattern of earlier reported hoaxes.",
+          "summary_de": "Mehrere Flüge in ganz Europa wurden wegen Bombenwarnungen umgeleitet, was Bedenken hinsichtlich der Sicherheit und der Auswirkungen von Fehlalarmen aufwirft. Dies folgt einem Muster früherer gemeldeter Scherze.",
+          "summary_easy": "Mehrere Flüge in Europa mussten umgeleitet werden. Es gab Bombenwarnungen. Das passierte auch schon früher mit falschen Warnungen.",
           "links": [
             {
-              "title": "Your AI agents are generating data you can’t afford to monitor",
-              "url": "https://www.techradar.com/pro/your-ai-agents-are-generating-data-you-cant-afford-to-monitor"
+              "title": "Multiple flights in Europe diverted because of bomb threats after earlier hoaxes",
+              "url": "https://www.news4jax.com/business/2026/11/05/multiple-flights-in-europe-diverted-because-of-bomb-threats-after-earlier-hoaxes/"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Thomas Cook India: Sterling Holidays Demerger Expected by July 2027",
-          "headline_de": "Thomas Cook Indien: Abspaltung von Sterling Holidays bis Juli 2027 erwartet",
-          "headline_easy": "Thomas Cook will Sterling Holidays trennen. Das passiert bis Juli 2027.",
-          "summary_en": "Thomas Cook India anticipates completing the demerger of Sterling Holidays by July 2027, driven by strong demand in the MICE (Meetings, Incentives, Conferences, and Exhibitions) travel sector. This move aims to streamline operations.",
-          "summary_de": "Thomas Cook Indien rechnet mit dem Abschluss der Abspaltung von Sterling Holidays bis Juli 2027, angetrieben durch die starke Nachfrage im MICE-Reisesektor (Tagungen, Anreize, Konferenzen und Ausstellungen). Dieser Schritt zielt auf eine Straffung der Abläufe ab.",
-          "summary_easy": "Thomas Cook ist eine Reisefirma. Sie wollen ihre Firma Sterling Holidays ab Juli 2027 alleine machen lassen. Viele Leute reisen für Arbeit und Treffen. Deshalb ist das eine gute Idee.",
+          "headline_en": "European Flights Diverted Amidst Bomb Threats",
+          "headline_de": "Europäische Flüge wegen Bombenwarnungen umgeleitet",
+          "headline_easy": "Flüge in Europa sind umgeleitet wegen falschen Bombenwarnungen.",
+          "summary_en": "Several flights operating within Europe experienced diversions as a result of bomb threats. The incidents have prompted investigations into the nature of these threats.",
+          "summary_de": "Mehrere Flüge innerhalb Europas wurden wegen Bombenwarnungen umgeleitet. Die Vorfälle haben zu Ermittlungen über die Art dieser Bedrohungen geführt.",
+          "summary_easy": "Mehrere Flüge in Europa wurden umgeleitet. Es gab Bombenwarnungen. Die Polizei untersucht das.",
           "links": [
             {
-              "title": "Sterling Holidays demerger may be completed by July 2027: Thomas Cook",
-              "url": "https://www.business-standard.com/companies/news/thomas-cook-india-sterling-holidays-demerger-july-2027-mice-travel-demand-126110400993_1.html"
+              "title": "Multiple flights in Europe diverted because of bomb threats after earlier hoaxes",
+              "url": "https://www.clickondetroit.com/business/2026/11/05/multiple-flights-in-europe-diverted-because-of-bomb-threats-after-earlier-hoaxes/"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Drone Composites Market Set for Significant Growth by 2031",
+          "headline_de": "Markt für Drohnenverbundwerkstoffe soll bis 2031 erheblich wachsen",
+          "headline_easy": "Der Markt für Teile von Drohnen wird größer. Das passiert bis 2031.",
+          "summary_en": "The drone composites market is projected to reach $13.59 billion by 2031, driven by advancements in drone technology and increasing applications across various sectors. This growth indicates a strong demand for specialized materials.",
+          "summary_de": "Der Markt für Drohnenverbundwerkstoffe wird voraussichtlich bis 2031 13,59 Milliarden US-Dollar erreichen, angetrieben durch Fortschritte in der Drohnentechnologie und zunehmende Anwendungen in verschiedenen Sektoren. Dieses Wachstum deutet auf eine starke Nachfrage nach spezialisierten Materialien hin.",
+          "summary_easy": "Der Markt für Materialien für Drohnen wird bis zum Jahr 2031 sehr groß sein. Er wird 13,59 Milliarden Dollar wert sein. Das liegt an neuen Technologien und mehr Drohnen.",
+          "links": [
+            {
+              "title": "Drone Composites Market worth $13.59 billion by 2031 - Exclusive Report by MarketsandMarkets™",
+              "url": "https://www.prnewswire.co.uk/news-releases/drone-composites-market-worth-13-59-billion-by-2031---exclusive-report-by-marketsandmarkets-302930374.html"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Stock Markets React Positively to Election Results, Trump Acknowledges Losses",
-          "headline_de": "Börsen reagieren positiv auf Wahlergebnisse, Trump erkennt Verluste an",
-          "headline_easy": "Die Börse freut sich über das Ergebnis der Wahl. Trump sagt, er hat verloren.",
-          "summary_en": "Stock markets have shown positive reactions, described as a 'stunning rebuke,' to recent election outcomes. Former President Trump has indicated he will accept the midterm losses, though his underlying stance is not expected to change.",
-          "summary_de": "Die Aktienmärkte haben positiv auf die jüngsten Wahlergebnisse reagiert, die als 'umwerfende Zurückweisung' bezeichnet werden. Ex-Präsident Trump hat angedeutet, dass er die Ergebnisse der Zwischenwahlen akzeptieren wird, obwohl keine Änderung seiner grundsätzlichen Haltung erwartet wird.",
-          "summary_easy": "Die Börse mag die Ergebnisse der Wahl. Die Leute nennen es eine 'starke Ablehnung'. Trump sagt, er nimmt die Niederlage an. Aber er wird sich wahrscheinlich nicht ändern.",
+          "headline_en": "Mid-air Chaos as Europe-bound Flights Diverted Due to Bomb Threats",
+          "headline_de": "Chaos in der Luft: Europa-Flüge wegen Bombenwarnungen umgeleitet",
+          "headline_easy": "Flüge nach Europa sind umgeleitet wegen falschen Bombenwarnungen.",
+          "summary_en": "Several flights destined for Europe were rerouted due to bomb threats, causing mid-air disruptions and passenger concern. The incidents are under investigation.",
+          "summary_de": "Mehrere Flüge mit Ziel Europa wurden wegen Bombenwarnungen umgeleitet, was zu Störungen in der Luft und Besorgnis bei den Passagieren führte. Die Vorfälle werden untersucht.",
+          "summary_easy": "Flüge nach Europa wurden umgeleitet. Es gab Bombenwarnungen. Das hat für Probleme gesorgt.",
           "links": [
             {
-              "title": "Stock markets celebrate a ‘stunning rebuke’: Trump says he will accept midterm losses—but don’t expect defeat to change him",
-              "url": "https://fortune.com/2026/11/04/midterms-elections-stock-markets-stunning-rebuke-trump-accept-loss-vote/"
+              "title": "Mid-air chaos: Multiple flights in Europe diverted due to bomb threats",
+              "url": "https://timesofindia.indiatimes.com/world/europe/mid-air-chaos-multiple-flights-in-europe-diverted-due-to-bomb-threats/articleshow/135570328.cms"
             }
           ]
         }
@@ -132,36 +164,64 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Abdul El-Sayed's Historic Win Against Trump's Influence",
-          "headline_de": "Abdul El-Sayeds historischer Sieg gegen Trumps Einfluss",
-          "headline_easy": "Abdul El-Sayed hat gewonnen. Er hat gegen Trumps Einfluss gekämpft.",
-          "summary_en": "Abdul El-Sayed achieved a historic victory, overcoming divisive rhetoric often associated with Donald Trump's campaigns. His success is highlighted as a triumph against hate-fueled politics.",
-          "summary_de": "Abdul El-Sayed errang einen historischen Sieg und überwand die spaltende Rhetorik, die oft mit Donald Trumps Wahlkämpfen verbunden ist. Sein Erfolg wird als Triumph über hasserfüllte Politik hervorgehoben.",
-          "summary_easy": "Abdul El-Sayed hat eine wichtige Wahl gewonnen. Er hat gegen Hass-Politik gewonnen, die von Trump kam. Er hat gezeigt, dass man das schaffen kann.",
+          "headline_en": "Democrats Poised to Reshape US Following Historic Midterm Wins",
+          "headline_de": "Demokraten wollen die USA nach historischen Zwischenwahlsiegen umgestalten",
+          "headline_easy": "Die Demokraten haben viel gewonnen. Sie wollen jetzt Amerika verändern.",
+          "summary_en": "Following significant victories in the midterm elections, Democrats are preparing to implement changes aimed at reshaping the United States. The election results signal a shift in the political landscape.",
+          "summary_de": "Nach bedeutenden Siegen bei den Zwischenwahlen bereiten sich die Demokraten darauf vor, Änderungen umzusetzen, die auf die Umgestaltung der Vereinigten Staaten abzielen. Die Wahlergebnisse signalisieren eine Veränderung in der politischen Landschaft.",
+          "summary_easy": "Die Demokraten haben die Wahl gewonnen. Sie wollen jetzt vieles im Land ändern. Das ist ein neues politisches Zeichen.",
           "links": [
             {
-              "title": "‘Call me senator’: How Abdul El-Sayed beat Trump’s hate to create history",
-              "url": "https://www.aljazeera.com/news/2026/11/4/call-me-senator-how-abdul-el-sayed-beat-trumps-hate-to-create-history"
+              "title": "Democrats look to reshape US after historic midterm victories",
+              "url": "https://www.irishtimes.com/world/us/2026/11/05/democrats-look-to-reshape-us-after-historic-midterm-victories/"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Record Turnout at Canton Fair Highlights Global Trade Confidence",
+          "headline_de": "Rekordbeteiligung auf der Canton Fair unterstreicht globales Handelsvertrauen",
+          "headline_easy": "Die Canton Fair hatte viele Besucher aus anderen Ländern. Das zeigt, dass die Leute Handel mögen.",
+          "summary_en": "The 140th Canton Fair concluded with a record number of overseas buyers, signaling strong confidence in global trade. The event showcased significant international participation and business activity.",
+          "summary_de": "Die 140. Canton Fair wurde mit einer Rekordzahl ausländischer Käufer abgeschlossen, was auf ein starkes Vertrauen in den globalen Handel hindeutet. Die Veranstaltung zeigte eine signifikante internationale Beteiligung und Geschäftsaktivität.",
+          "summary_easy": "Auf der Canton Fair waren viele Käufer aus dem Ausland. Das ist ein Rekord. Es zeigt, dass der Handel mit anderen Ländern gut ist.",
+          "links": [
+            {
+              "title": "140th Canton Fair Closes with Record Overseas Buyer Attendance, Highlighting Global Trade Confidence",
+              "url": "https://www.prnewswire.co.uk/news-releases/140th-canton-fair-closes-with-record-overseas-buyer-attendance-highlighting-global-trade-confidence-302930662.html"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "US Launches Drone Strikes Against Cartels in Venezuela",
+          "headline_de": "US starten Drohnenangriffe gegen Kartelle in Venezuela",
+          "headline_easy": "Die USA greifen mit Drohnen Kartelle in Venezuela an.",
+          "summary_en": "The United States has initiated drone strikes targeting cartels in Venezuela, marking a new phase in operations within the South American nation. This action is part of broader efforts to combat transnational criminal organizations.",
+          "summary_de": "Die Vereinigten Staaten haben Drohnenangriffe auf Kartelle in Venezuela gestartet und markieren damit eine neue Phase der Operationen in dem südamerikanischen Land. Diese Maßnahme ist Teil breiterer Bemühungen zur Bekämpfung transnationaler krimineller Organisationen.",
+          "summary_easy": "Die USA führen Drohnenangriffe gegen kriminelle Gruppen in Venezuela durch. Das ist ein neuer Schritt, um Kriminalität zu bekämpfen.",
+          "links": [
+            {
+              "title": "U.S. Begins Cartel Drone Strikes in Former Cartel Haven Venezuela",
+              "url": "https://www.breitbart.com/border/2026/11/05/u-s-begins-cartel-drone-strikes-in-former-cartel-haven-venezuela/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "US Stocks Rally as Democrats Regain Control of Congress",
-          "headline_de": "US-Aktienmärkte steigen, als die Demokraten die Kontrolle über den Kongress zurückgewinnen",
-          "headline_easy": "Die Börse in den USA steigt. Die Demokraten haben den Kongress gewonnen.",
-          "summary_en": "US stock markets experienced a significant surge, with Dow futures jumping 800 points, following the news that Democrats have retaken control of Congress. Tokyo stocks also ended lower amidst this volatile trade.",
-          "summary_de": "Die US-Aktienmärkte verzeichneten einen deutlichen Anstieg, wobei die Dow-Futures um 800 Punkte zulegten, nachdem bekannt wurde, dass die Demokraten die Kontrolle über den Kongress zurückgewonnen haben. Auch die Tokioter Aktien schlossen im Zuge dieses volatilen Handels niedriger.",
-          "summary_easy": "Die Aktienmärkte in Amerika sind gut gelaufen. Der Dow-Index ist stark gestiegen. Das passierte, weil die Demokraten im Kongress gewonnen haben. In Tokio waren die Aktien nicht so gut.",
+          "headline_en": "Whimsical Wienermobile from the 1930s Featured",
+          "headline_de": "Skurril: Wienermobil aus den 1930er Jahren vorgestellt",
+          "headline_easy": "Ein altes Auto, das wie eine Wurst aussieht, wird gezeigt.",
+          "summary_en": "A unique 1930s pedal car, the Wienermobile, designed to promote hot dogs on wheels, is being highlighted. This nostalgic vehicle represents an early form of mobile advertising.",
+          "summary_de": "Ein einzigartiges Tretfahrzeug aus den 1930er Jahren, das Wienermobil, das dazu diente, Hot Dogs auf Rädern zu bewerben, wird vorgestellt. Dieses nostalgische Fahrzeug repräsentiert eine frühe Form der mobilen Werbung.",
+          "summary_easy": "Es geht um ein altes Auto von 1930. Es heißt Wienermobile. Es wurde gemacht, um für Hot Dogs zu werben.",
           "links": [
             {
-              "title": "Tokyo stocks end lower in volatile trade as U.S. Democrats retake Congress",
-              "url": "https://freerepublic.com/focus/f-news/4401744/posts"
-            },
-            {
-              "title": "Dow futures soar 800 points after Dems flip Congress",
-              "url": "https://biztoc.com/x/26fdbd3f53e39e60"
+              "title": "meet the wienermobile, the 1930s quirky pedal car that put hot dogs on wheels",
+              "url": "https://www.designboom.com/technology/wienermobile-1930s-quirky-pedal-car-hot-dogs-wheels-oscar-mayer-bringatrailer/"
             }
           ]
         }
@@ -174,64 +234,32 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Celebrity Hairstylist John Frieda Passes Away at 75",
-          "headline_de": "Berühmter Haarstylist John Frieda stirbt mit 75 Jahren",
-          "headline_easy": "Der berühmte Friseur John Frieda ist tot. Er war 75 Jahre alt.",
-          "summary_en": "Renowned celebrity hairstylist John Frieda has died at the age of 75. His contributions to the fashion and beauty industry have left a lasting legacy.",
-          "summary_de": "Der bekannte Promi-Haarstylist John Frieda ist im Alter von 75 Jahren gestorben. Seine Beiträge zur Mode- und Schönheitsindustrie hinterlassen ein bleibendes Erbe.",
-          "summary_easy": "John Frieda war ein sehr bekannter Friseur. Er hat viele berühmte Leute frisiert. Er ist jetzt gestorben. Er war 75 Jahre alt. Er hat die Modewelt verändert.",
+          "headline_en": "Xiaomi Plans Global Right-Hand Drive Expansion for 2028",
+          "headline_de": "Xiaomi plant globale Expansion für Rechtslenker für 2028",
+          "headline_easy": "Xiaomi will 2028 Autos mit Lenkrad auf der rechten Seite verkaufen. Das ist für viele Länder.",
+          "summary_en": "Chinese technology giant Xiaomi is preparing for a global rollout of right-hand drive vehicles by 2028. This strategic move aims to capture markets where driving is done on the left side of the road.",
+          "summary_de": "Der chinesische Technologiegigant Xiaomi bereitet sich auf die globale Einführung von Rechtslenker-Fahrzeugen bis 2028 vor. Dieser strategische Schritt zielt darauf ab, Märkte zu erschließen, in denen auf der linken Straßenseite gefahren wird.",
+          "summary_easy": "Xiaomi plant, Autos für Länder zu verkaufen, wo man auf der linken Seite fährt. Das passiert im Jahr 2028. Es sind Autos mit dem Lenkrad rechts.",
           "links": [
             {
-              "title": "Celebrity hairstylist John Frieda dies aged 75",
-              "url": "https://www.irishtimes.com/life-style/fashion/2026/11/04/celebrity-hairstylist-john-frieda-dies-aged-75/"
-            }
-          ]
-        },
-        {
-          "type": "Business",
-          "emoji": "💼",
-          "headline_en": "Stranded Cruise Ship Odyssey Departs Cambodia Without Passengers",
-          "headline_de": "Gestrandetes Kreuzfahrtschiff Odyssey verlässt Kambodscha ohne Passagiere",
-          "headline_easy": "Das Kreuzfahrtschiff Odyssey ist weg. Es war in Kambodscha gestrandet. Es sind keine Passagiere mehr da.",
-          "summary_en": "The cruise ship Odyssey, which was stranded in Cambodia, has departed the country. The ship left without any passengers on board, indicating a resolution to its situation.",
-          "summary_de": "Das Kreuzfahrtschiff Odyssey, das in Kambodscha gestrandet war, hat das Land verlassen. Das Schiff fuhr ohne Passagiere ab, was auf eine Lösung seiner Situation hindeutet.",
-          "summary_easy": "Ein großes Schiff, die Odyssey, war in Kambodscha festgefahren. Jetzt fährt das Schiff weg. Es sind keine Leute mehr darauf. Das Problem ist gelöst.",
-          "links": [
-            {
-              "title": "Stranded cruise ship Odyssey leaves Cambodia with no passengers",
-              "url": "https://abcnews.com/International/wireStory/stranded-cruise-ship-odyssey-leaves-cambodia-passengers-137840393"
+              "title": "Xiaomi plans global right-hand drive push for 2028",
+              "url": "https://www.notebookcheck.net/Xiaomi-plans-global-right-hand-drive-push-for-2028.1443120.0.html"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "US Midterm Election Results Boost Renewable Energy Stocks",
-          "headline_de": "US-Zwischenwahlergebnisse beflügeln Aktien von erneuerbaren Energien",
-          "headline_easy": "Gute Nachrichten für erneuerbare Energie-Aktien. Die Demokraten haben in den USA gewonnen.",
-          "summary_en": "Renewable energy stocks have seen a significant rise following the US Democrats' success in the midterm elections. This surge suggests investor confidence in the future of green energy policies.",
-          "summary_de": "Aktien von erneuerbaren Energien sind nach dem Erfolg der US-Demokraten bei den Zwischenwahlen deutlich gestiegen. Dieser Anstieg deutet auf das Vertrauen der Anleger in die Zukunft von Politiken für grüne Energie hin.",
-          "summary_easy": "Die Aktien von Firmen, die grüne Energie machen, sind gestiegen. Das passiert, weil die Demokraten in Amerika gewonnen haben. Investoren glauben jetzt mehr an grüne Energie.",
+          "headline_en": "Indian Rupee Stabilizes Amid Cooling Oil Concerns and Trader Momentum",
+          "headline_de": "Indische Rupie stabilisiert sich inmitten abkühlender Öl-Sorgen und Händler-Schwung",
+          "headline_easy": "Der Wert der indischen Währung (Rupie) ist stabiler. Sorgen wegen Öl sind weniger geworden.",
+          "summary_en": "The Indian Rupee has found stability as concerns over oil prices ease, with traders closely monitoring market momentum. The currency's performance reflects a more positive economic outlook.",
+          "summary_de": "Die indische Rupie hat Stabilität gefunden, da die Sorgen über die Ölpreise nachlassen und die Händler die Marktdynamik genau beobachten. Die Leistung der Währung spiegelt eine positivere Wirtschaftsaussicht wider.",
+          "summary_easy": "Der Wert der indischen Rupie ist gestiegen. Das liegt daran, dass die Sorgen wegen des Öls weniger sind. Händler beobachten den Markt.",
           "links": [
             {
-              "title": "Renewables Stocks Soar as Democrats Sweep U.S. Congress",
-              "url": "https://oilprice.com/Latest-Energy-News/World-News/Renewables-Stocks-Soar-as-Democrats-Sweep-US-Congress.html"
-            }
-          ]
-        },
-        {
-          "type": "Technology",
-          "emoji": "💻",
-          "headline_en": "Cabinet Reshuffle in an Asian Nation: New Roles Assigned",
-          "headline_de": "Kabinettumbildung in einem asiatischen Land: Neue Rollen zugewiesen",
-          "headline_easy": "In einem Land in Asien gibt es neue Minister. Paul ist jetzt für Tourismus zuständig. Timothy hat mehr Macht.",
-          "summary_en": "A cabinet reshuffle has occurred in an unnamed Asian nation, with significant changes in ministerial responsibilities. Paul has been appointed to lead the Ministry of Tourism, while Timothy has been granted more power.",
-          "summary_de": "In einem nicht genannten asiatischen Land hat eine Kabinettsumbildung stattgefunden, mit bedeutenden Änderungen der Ministerverantwortlichkeiten. Paul wurde zum Leiter des Tourismusministeriums ernannt, während Timothy mehr Macht erhielt.",
-          "summary_easy": "In einem Land in Asien haben sich die Minister geändert. Paul ist jetzt für den Tourismus zuständig. Timothy hat jetzt mehr Aufgaben und Macht bekommen. Das ist eine wichtige Änderung für die Regierung.",
-          "links": [
-            {
-              "title": "Conrad’s Cabinet Shake-Up: Paul Gets Tourism, Timothy Gets Power",
-              "url": "https://southasiaviews.com/featured/conrads-cabinet-shake-up-paul-gets-tourism-timothy-gets-power/"
+              "title": "Rupee finds its footing as oil worries cool, traders watch flow momentum",
+              "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-finds-its-footing-as-oil-worries-cool-traders-watch-flow-momentum/articleshow/135569527.cms"
             }
           ]
         }
@@ -244,80 +272,64 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Reed Jobs's Yosemite Fund Raises $350 Million for Cancer Research",
-          "headline_de": "Yosemite Fund von Reed Jobs sammelt 350 Millionen US-Dollar für Krebsforschung",
-          "headline_easy": "Reed Jobs hat eine Stiftung. Sie hat 350 Millionen Dollar gesammelt. Das Geld ist für die Krebsforschung.",
-          "summary_en": "Reed Jobs's venture capital firm Yosemite has successfully raised $350 million for its second fund, aiming to make cancer non-lethal. This significant investment highlights a commitment to advancing medical research.",
-          "summary_de": "Reed Jobs' Risikokapitalgesellschaft Yosemite hat erfolgreich 350 Millionen US-Dollar für ihren zweiten Fonds gesammelt, mit dem Ziel, Krebs nicht mehr tödlich zu machen. Diese bedeutende Investition unterstreicht das Engagement für die Weiterentwicklung der medizinischen Forschung.",
-          "summary_easy": "Reed Jobs hat eine Firma namens Yosemite. Die Firma hat viel Geld gesammelt, 350 Millionen Dollar. Das Geld soll helfen, Krebs heilbar zu machen. Das ist gut für die Medizin.",
+          "headline_en": "Cristiano Ronaldo Bids Emotional Farewell to Portugal National Team",
+          "headline_de": "Cristiano Ronaldo verabschiedet sich emotional von der portugiesischen Nationalmannschaft",
+          "headline_easy": "Cristiano Ronaldo sagt auf Wiedersehen zu seiner Nationalmannschaft. Er hat eine emotionale Rede gehalten.",
+          "summary_en": "Football superstar Cristiano Ronaldo has delivered an emotional farewell speech to his national team, marking the end of a significant chapter in his international career. His passion for the sport remains evident.",
+          "summary_de": "Fußballsuperstar Cristiano Ronaldo hat eine emotionale Abschiedsrede für seine Nationalmannschaft gehalten und damit das Ende eines bedeutenden Kapitels seiner internationalen Karriere markiert. Seine Leidenschaft für den Sport bleibt offensichtlich.",
+          "summary_easy": "Cristiano Ronaldo hat eine Rede gehalten. Er sagt Tschüss zu seinem Fußballteam von Portugal. Er ist sehr traurig, aber auch stolz.",
           "links": [
             {
-              "title": "Reed Jobs’s Yosemite raises $350 million second fund to make cancer non-lethal",
-              "url": "https://fortune.com/2026/11/04/reed-jobs-yosemite-raises-350-million-second-fund-make-cancer-non-lethal/"
+              "title": "Cristiano Ronaldo bids emotional farewell to national team: Read full speech",
+              "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/there-is-only-one-passion-portugal-cristiano-ronaldo-bids-emotional-farewell-to-national-team-read-full-speech/articleshow/135572086.cms"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "AI's Impact on Delivery Speed Measured in New Study",
-          "headline_de": "KI-Auswirkungen auf Liefergeschwindigkeit in neuer Studie gemessen",
-          "headline_easy": "Wie schnell Dinge geliefert werden, wenn man Künstliche Intelligenz benutzt. Das wird gemessen.",
-          "summary_en": "A new study is measuring the impact of artificial intelligence on delivery speed. This research aims to understand how AI can optimize logistics and improve efficiency in supply chains.",
-          "summary_de": "Eine neue Studie misst die Auswirkungen künstlicher Intelligenz auf die Liefergeschwindigkeit. Diese Forschung zielt darauf ab zu verstehen, wie KI Logistik optimieren und die Effizienz in Lieferketten verbessern kann.",
-          "summary_easy": "Diese Nachricht ist über künstliche Intelligenz (KI). KI ist wie ein kluger Computer. Die Nachricht fragt: Macht KI die Lieferung von Dingen schneller? Forscher messen das jetzt.",
+          "headline_en": "Cristiano Ronaldo Retires from International Football",
+          "headline_de": "Cristiano Ronaldo tritt vom internationalen Fußball zurück",
+          "headline_easy": "Cristiano Ronaldo spielt nicht mehr für die Nationalmannschaft.",
+          "summary_en": "Legendary footballer Cristiano Ronaldo has announced his retirement from international football. The decision comes after a long and illustrious career representing his country on the world stage.",
+          "summary_de": "Der legendäre Fußballer Cristiano Ronaldo hat seinen Rücktritt vom internationalen Fußball angekündigt. Die Entscheidung folgt auf eine lange und glanzvolle Karriere, in der er sein Land auf der Weltbühne vertreten hat.",
+          "summary_easy": "Cristiano Ronaldo hört auf mit dem Fußball für sein Land. Er hat sehr lange gespielt. Jetzt ist es Zeit für etwas Neues.",
           "links": [
             {
-              "title": "Measuring AI’s Impact on Delivery Speed",
-              "url": "https://www.oreilly.com/radar/measuring-ais-impact-on-delivery-speed/#BlogPosting"
-            }
-          ]
-        },
-        {
-          "type": "War",
-          "emoji": "⚔️",
-          "headline_en": "Man Sentenced for Fraudulently Collecting Funds for Veteran and Cancer Charities",
-          "headline_de": "Mann wegen betrügerischer Einziehung von Geldern für Veteranen- und Krebsstiftungen verurteilt",
-          "headline_easy": "Ein Mann hat falsche Spenden gesammelt. Das Geld war für Soldaten und kranke Kinder. Er hat über 200.000 Dollar gestohlen.",
-          "summary_en": "A Maryland man has been sentenced to five years in prison for creating fake charities that solicited donations for veterans and breast cancer research, ultimately stealing over $200,000. This case highlights the exploitation of charitable causes.",
-          "summary_de": "Ein Mann aus Maryland wurde zu fünf Jahren Gefängnis verurteilt, weil er gefälschte Wohltätigkeitsorganisationen gegründet hatte, die Spenden für Veteranen und Brustkrebsforschung sammelten, und dabei über 200.000 US-Dollar gestohlen hat. Dieser Fall verdeutlicht die Ausbeutung wohltätiger Zwecke.",
-          "summary_easy": "Ein Mann hat betrogen. Er hat gesagt, er sammelt Geld für Soldaten und kranke Kinder. Aber er hat das Geld für sich genommen. Er hat 200.000 Dollar gestohlen. Jetzt muss er ins Gefängnis.",
-          "links": [
-            {
-              "title": "Maryland man sentenced to 5 years after creating fake charities linked to veterans, breast cancer and childhood leukaemia and stealing over $200,000",
-              "url": "https://timesofindia.indiatimes.com/world/us/maryland-man-sentenced-to-5-years-after-creating-fake-charities-linked-to-veterans-breast-cancer-and-childhood-leukaemia-and-stealing-over-200000/articleshow/135538308.cms"
+              "title": "Cristiano Ronaldo announces retirement from international football",
+              "url": "https://www.dw.com/en/cristiano-ronaldo-announces-retirement-from-international-football/a-79864361"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Millionaire Installs Electric Fence Around Mansion, Neighbors Compare It to POW Camp",
-          "headline_de": "Millionär installiert Elektrosicherheitszaun um Villa, Nachbarn vergleichen ihn mit Kriegsgefangenenlager",
-          "headline_easy": "Ein reicher Mann hat einen Zaun um sein Haus gemacht. Der Zaun hat Strom. Die Nachbarn sagen, es sieht aus wie ein Gefängnis.",
-          "summary_en": "A wealthy businessman has installed an electric fence around his multi-million-pound mansion in Notting Hill to deter foxes. Neighbors have expressed concern, likening the fence to a prisoner-of-war camp due to its imposing appearance.",
-          "summary_de": "Ein wohlhabender Geschäftsmann hat um seine millionenschwere Villa in Notting Hill einen Elektrosicherheitszaun installiert, um Füchse abzuschrecken. Nachbarn äußerten Bedenken und verglichen den Zaun wegen seines imposanten Aussehens mit einem Kriegsgefangenenlager.",
-          "summary_easy": "Ein sehr reicher Mann lebt in einem großen Haus. Er hat einen Zaun um sein Haus gebaut. Der Zaun hat Strom, um Tiere fernzuhalten. Die Nachbarn finden, der Zaun sieht furchteinflößend aus. Sie sagen, er ist wie ein Lager für Kriegsgefangene.",
+          "headline_en": "NBA MVP Narrative Shifts Towards Victor Wembanyama After Stellar Performance",
+          "headline_de": "NBA MVP-Narrativ verschiebt sich nach Wembanyamas starker Leistung zugunsten von Victor Wembanyama",
+          "headline_easy": "Der junge Spieler Victor Wembanyama spielt sehr gut. Viele Leute denken, er könnte der beste Spieler werden.",
+          "summary_en": "The NBA MVP discussion is increasingly leaning towards Victor Wembanyama following his exceptional performance, including a remarkable 52-point, 24-rebound game with 8 blocks. His talent is reshaping the league's narrative.",
+          "summary_de": "Die Diskussion um den NBA MVP tendiert nach Victor Wembanyamas außergewöhnlicher Leistung, einschließlich eines bemerkenswerten Spiels mit 52 Punkten, 24 Rebounds und 8 Blocks, zunehmend zu ihm. Sein Talent verändert die Erzählung der Liga.",
+          "summary_easy": "Ein junger Spieler namens Victor Wembanyama hat sehr gut gespielt. Er hat viele Punkte und Rebounds gemacht. Manche Leute denken, er ist der beste Spieler.",
           "links": [
             {
-              "title": "A millionaire businessman installed an electric fence around his £44.5 million Notting Hill mansion to keep foxes away; neighbours say it looks like a prisoner-of-war camp",
-              "url": "https://timesofindia.indiatimes.com/world/uk/a-millionaire-businessman-installed-an-electric-fence-around-his-44-5-million-notting-hill-mansion-to-keep-foxes-away-neighbours-say-it-looks-like-a-prisoner-of-war-camp/articleshow/135537514.cms"
+              "title": "“Luka Doncic Has No Chance It’s Over” – NBA World Swings MVP Narrative in Victor Wembanyama’s Favor After Mammoth 52-24 Game With 8 Blocks",
+              "url": "https://collegefootballnetwork.com/nba/luka-doncic-has-no-chance-its-over-nba-world-swings-mvp-narrative-in-victor-wembanyamas-favor-after-mammoth-52-24-game-with-8-blocks/?utm_medium=rss&amp;utm_source=nordot"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "Rafael Nadal Joins Real Madrid's Board of Directors",
-          "headline_de": "Rafael Nadal tritt dem Vorstand von Real Madrid bei",
-          "headline_easy": "Tennisspieler Rafael Nadal ist jetzt im Vorstand von Real Madrid.",
-          "summary_en": "Tennis legend Rafael Nadal has been appointed to the board of directors at Real Madrid. This move marks a significant crossover between the world of sports and football club management.",
-          "summary_de": "Tennislegende Rafael Nadal wurde in den Vorstand von Real Madrid berufen. Dieser Schritt markiert eine bedeutende Überschneidung zwischen der Welt des Sports und dem Management eines Fußballvereins.",
-          "summary_easy": "Rafael Nadal ist ein berühmter Tennisspieler. Jetzt ist er auch ein Teil vom Fußballverein Real Madrid. Er ist jetzt im Vorstand. Das ist eine interessante neue Rolle für ihn.",
+          "headline_en": "London Named Europe's Top City for Nightlife",
+          "headline_de": "London zur besten Stadt Europas für Nachtleben ernannt",
+          "headline_easy": "London ist die beste Stadt in Europa für Nachtleben. Das sagt ein Bericht.",
+          "summary_en": "A recent report has declared London as the best city in Europe for nightlife, highlighting its vibrant scene and diverse entertainment options. The city's offerings cater to a wide range of tastes.",
+          "summary_de": "Ein aktueller Bericht hat London zur besten Stadt Europas für Nachtleben erklärt und hebt ihre lebendige Szene und vielfältigen Unterhaltungsmöglichkeiten hervor. Das Angebot der Stadt richtet sich an ein breites Spektrum von Geschmäckern.",
+          "summary_easy": "London ist die beste Stadt für Ausgehen am Abend in Europa. Das steht in einem neuen Bericht. Es gibt viele gute Clubs und Bars.",
           "links": [
             {
-              "title": "BREAKING: Tennis legend Nadal joins Real Madrid’s board of directors",
-              "url": "https://www.101greatgoals.com/football/la-liga/beaking-tennis-legend-rafael-nadal-joins-real-madrids-board-of-directors/"
+              "title": "London is the best city in Europe for nightlife, according to a new report",
+              "url": "https://www.timeout.com/london/news/london-after-dark-best-in-europe-for-nightlife-110526"
             }
           ]
         }
@@ -326,29 +338,29 @@
   ],
   "bundestag": {
     "wahlperiode": 21,
-    "sitzung": 104,
-    "url": "https://dserver.bundestag.de/btp/21/21104.pdf",
-    "summary_en": "The 104th session of the 21st legislative period of the German Bundestag took place on Wednesday, November 4, 2026. The session began with the expansion and handling of the agenda. A key decision was the removal of agenda item 10. Subsequent committee referrals were also addressed. The main portion of the session focused on the \"Questioning of the Federal Government,\" featuring Federal Minister for Special Tasks Nina Warken and Federal Minister AA Dr. Johann David Wadephul. Several Members of Parliament (MPs) from various parties participated in the questioning. Marc Henrichmann (CDU/CSU) and Markus Frohnmaier (AfD) raised questions and made statements. Jan van Aken (Die Linke) and Sebastian Roloff (SPD) also contributed to the discussion. Dr. Irene Mihalic (BÜNDNIS 90/DIE GRÜNEN) and Adis Ahmetovic (SPD) were among the MPs engaging with the ministers. Pierre Lamely and Dr. Alexander Wolf (both AfD) posed questions, as did Tilman Kuban and Jürgen Hardt (both CDU/CSU). Deborah Düring, Boris Mijatović, Luise Amtsberg, and Robin Wagener (all BÜNDNIS 90/DIE GRÜNEN) also participated. Lea Reisner (Die Linke) and Angelika Glöckner (SPD) contributed to the debate. Dr. Ralf Stegner (SPD) was also involved in the proceedings. The transcript details exchanges regarding governmental responsibilities and policies, with ministers responding to inquiries from the opposition and coalition partners.",
-    "summary_de": "Die 104. Sitzung der 21. Wahlperiode des Deutschen Bundestages fand am Mittwoch, den 4. November 2026, statt. Die Sitzung begann mit der Erweiterung und Abwicklung der Tagesordnung. Eine wichtige Entscheidung war die Absetzung des Tagesordnungspunktes 10. Des Weiteren wurden nachträgliche Ausschussüberweisungen behandelt. Der Hauptteil der Sitzung widmete sich der „Befragung der Bundesregierung“ mit Bundesministerin für besondere Aufgaben Nina Warken und Bundesminister AA Dr. Johann David Wadephul. Mehrere Bundestagsabgeordnete verschiedener Fraktionen beteiligten sich an der Befragung. Marc Henrichmann (CDU/CSU) und Markus Frohnmaier (AfD) stellten Fragen und gaben Erklärungen ab. Jan van Aken (Die Linke) und Sebastian Roloff (SPD) trugen ebenfalls zur Diskussion bei. Dr. Irene Mihalic (BÜNDNIS 90/DIE GRÜNEN) und Adis Ahmetovic (SPD) gehörten zu den Abgeordneten, die mit den Ministern interagierten. Pierre Lamely und Dr. Alexander Wolf (beide AfD) stellten Fragen, ebenso wie Tilman Kuban und Jürgen Hardt (beide CDU/CSU). Deborah Düring, Boris Mijatović, Luise Amtsberg und Robin Wagener (alle BÜNDNIS 90/DIE GRÜNEN) nahmen ebenfalls teil. Lea Reisner (Die Linke) und Angelika Glöckner (SPD) trugen zur Debatte bei. Dr. Ralf Stegner (SPD) war ebenfalls an den Beratungen beteiligt. Das Transkript detailliert den Austausch über Regierungsaufgaben und -politiken, wobei die Minister auf Anfragen der Opposition und der Koalitionspartner antworteten.",
-    "summary_easy": "Heute ist Mittwoch, der 4. November 2026. Der Bundestag hält seine 104. Sitzung ab. Zuerst sprechen die Abgeordneten über die Tagesordnung. Sie beschließen, Punkt 10 von der Liste zu streichen. Dann werden noch mehr Punkte an Ausschüsse geschickt. Danach befragen die Abgeordneten die Regierung. Ministerin Nina Warken und Minister Dr. Johann David Wadephul antworten. Abgeordnete von CDU/CSU und AfD stellen Fragen. Auch Abgeordnete von Die Linke und SPD sind dabei. Grüne Abgeordnete diskutieren ebenfalls mit. Die Minister erklären die Arbeit der Regierung. Die Abgeordneten kritisieren oder loben.",
+    "sitzung": 105,
+    "url": "https://dserver.bundestag.de/btp/21/21105.pdf",
+    "summary_en": "The 105th session of the 21st German Bundestag took place on November 5, 2026. The session began with birthday congratulations for MPs Sandra Stein and Dr. Kirsten Kappert-Gonther. A vote was held to elect Dr. Yannick Bury as a full member and Thomas Silberhorn as a deputy member of the Administrative Council of the German-French Youth Office. The main focus of the session was the first reading of the \"Law for the Reorganization of Long-Term Care Insurance (Pflege neuordnungsgesetz)\" (Drucksache 21/8869). This was debated alongside several related motions, including one from Die Linke on strengthening and securing \"Verhinderungspflege\" (respite care) and \"Entlastungsbetrag\" (relief contributions) (Drucksachen 21/8927, 21/8928). Federal Minister of Health (BMG) Dr. Carsten Linnemann presented the government's proposal. MPs Nicole Hess (AfD), Dagmar Schmidt (SPD), Simone Fischer (BÜNDNIS 90/DIE GRÜNEN), Luigi Pantisano (Die Linke), Simone Borchardt (CDU/CSU), Ates Gürpinar (Die Linke), Claudia Weiss (AfD), Claudia Moll (SPD), Dr. Kirsten Kappert-Gonther (BÜNDNIS 90/DIE GRÜNEN), Evelyn Schötz (Die Linke), Emmi Zeulner (CDU/CSU), Stella Merendino (Die Linke), Carina Schießl (AfD), Dr. Christos Pantazis (SPD), Martin Sichert (AfD), and Dr. Hendrik Streeck (CDU/CSU) all contributed to the debate on long-term care. Additional agenda items included a debate on protecting democracies and forging alliances (Drucksache 21/8901) and several discussions on strengthening international law and the International Criminal Court (ICC), with contributions from the BÜNDNIS 90/DIE GRÜNEN and Die Linke, as well as a joint motion from CDU/CSU and SPD. A special debate commemorated the 15th anniversary of the NSU (National Socialist Underground) terrorist group's discovery. Finally, the Bundestag began the second and third readings of an AfD-initiated bill to combat juvenile crime and discussed a motion on protecting children and adolescents from religious coercion and group dynamics.",
+    "summary_de": "Die 105. Sitzung des Deutschen Bundestages der 21. Wahlperiode fand am 5. November 2026 statt. Die Sitzung begann mit Geburtstagsglückwünschen für die Abgeordneten Sandra Stein und Dr. Kirsten Kappert-Gonther. Es folgte die Wahl von Dr. Yannick Bury zum ordentlichen Mitglied und Thomas Silberhorn zur Stellvertretung in den Verwaltungsrat des Deutsch-Französischen Jugendwerks. Der Hauptpunkt der Tagesordnung war die erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Neuordnung der Pflegeversicherung (Pflege neuordnungsgesetz) (Drucksache 21/8869). Dies wurde zusammen mit mehreren Anträgen debattiert, darunter ein Antrag der Fraktion Die Linke zur Stärkung und Sicherung der Verhinderungspflege sowie zur Gewährung von Entlastungsbeträgen (Drucksachen 21/8927, 21/8928). Bundesminister für Gesundheit (BMG) Dr. Carsten Linnemann stellte den Regierungsentwurf vor. Abgeordnete wie Nicole Hess (AfD), Dagmar Schmidt (SPD), Simone Fischer (BÜNDNIS 90/DIE GRÜNEN), Luigi Pantisano (Die Linke), Simone Borchardt (CDU/CSU), Ates Gürpinar (Die Linke), Claudia Weiss (AfD), Claudia Moll (SPD), Dr. Kirsten Kappert-Gonther (BÜNDNIS 90/DIE GRÜNEN), Evelyn Schötz (Die Linke), Emmi Zeulner (CDU/CSU), Stella Merendino (Die Linke), Carina Schießl (AfD), Dr. Christos Pantazis (SPD), Martin Sichert (AfD) und Dr. Hendrik Streeck (CDU/CSU) beteiligten sich an der Debatte zur Pflegeversicherung. Weitere Tagesordnungspunkte umfassten eine Debatte zum Schutz von Demokratien und zum Schmieden von Bündnissen (Drucksache 21/8901) sowie mehrere Beratungen zur Stärkung des Völkerrechts und des Internationalen Strafgerichtshofs (ICC), mit Beiträgen von BÜNDNIS 90/DIE GRÜNEN und Die Linke sowie einem gemeinsamen Antrag von CDU/CSU und SPD. Eine vereinbarte Debatte gedachte des 15. Jahrestages der Aufdeckung des NSU-Komplexes. Schließlich begann die zweite und dritte Beratung eines AfD-Gesetzentwurfs zur besseren Bekämpfung der Kriminalität von Kindern und Jugendlichen und die Beratung eines Antrags zum Schutz von Kindern und Jugendlichen vor religiösem Zwang.",
+    "summary_easy": "Heute war der 5. November 2026. Der Bundestag hatte seine 105. Sitzung. Zuerst wurden Abgeordnete, die Geburtstag hatten, beglückwünscht. Dann wurde neu gewählt. Dr. Yannick Bury und Thomas Silberhorn bekommen neue Aufgaben. Ein wichtiges Thema war die Pflegeversicherung. Es geht um neue Regeln für die Pflege. Bundesgesundheitsminister Dr. Carsten Linnemann sprach dazu. Viele Abgeordnete aus verschiedenen Parteien haben diskutiert. Sie sprachen über Hilfe für Kranke und für ihre Familien. Ein anderes Thema war, wie man Demokratien schützen kann. Es gab auch eine Debatte über das Völkerrecht. Und über den Internationalen Strafgerichtshof. Der NSU-Terrorismus wurde auch besprochen. Die Abgeordneten erinnerten an die Opfer. Es gab auch eine Debatte über Jugendkriminalität. Und wie man Kinder vor Zwang schützen kann.",
     "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact_en": "During the French Revolution, sans-culottes, the common people, wore long trousers instead of the knee-breeches (culottes) favored by the aristocracy. This fashion choice became a powerful symbol of revolutionary ideals and opposition to the monarchy, demonstrating how clothing could signify political allegiance.",
-      "fact_de": "Während der Französischen Revolution trugen die Sansculotten, das einfache Volk, lange Hosen anstelle der Kniebundhosen (Culottes), die vom Adel bevorzugt wurden. Diese Modeentscheidung wurde zu einem mächtigen Symbol revolutionärer Ideale und des Widerstands gegen die Monarchie und zeigte, wie Kleidung politische Zugehörigkeit signalisieren konnte.",
-      "fact_easy": "Die Sansculotten trugen lange Hosen. Das war ein Zeichen gegen den König. Ihre Kleidung zeigte ihre politische Meinung.",
+      "fact_en": "During the Victorian era, corsets were often reinforced with whalebone, a flexible yet strong material derived from baleen plates in the mouths of certain whales. The pressure exerted by these corsets could lead to physical deformities and health issues, yet they remained a symbol of feminine elegance and social status.",
+      "fact_de": "Während des Viktorianischen Zeitalters wurden Korsetts oft mit Fischbein verstärkt, einem flexiblen und dennoch starken Material, das aus den Bartplatten im Maul bestimmter Wale gewonnen wurde. Der durch diese Korsetts ausgeübte Druck konnte zu körperlichen Verformungen und Gesundheitsproblemen führen, dennoch blieben sie ein Symbol für weibliche Eleganz und sozialen Status.",
+      "fact_easy": "Früher trugen Frauen Korsetts. Diese waren aus Fischbein gemacht. Das war nicht gut für die Gesundheit.",
       "category": "Fashion",
-      "source_title": "French Revolution | History",
-      "source_url": "https://www.history.com/topics/european-history/french-revolution"
+      "source_title": "Victorian Era Fashion",
+      "source_url": "https://www.vam.ac.uk/collections/victorian-dress"
     },
     {
-      "fact_en": "The tradition of throwing rice at newlyweds is thought to have originated in ancient Rome, where it was believed to ward off evil spirits and promote fertility for the couple. This practice evolved over centuries, with rice eventually replacing older offerings like grain or nuts in many cultures.",
-      "fact_de": "Der Brauch, bei Hochzeiten Reis zu werfen, soll im antiken Rom entstanden sein, wo man glaubte, dass er böse Geister abwehrt und die Fruchtbarkeit des Paares fördert. Diese Praxis entwickelte sich über Jahrhunderte, wobei Reis in vielen Kulturen schließlich ältere Gaben wie Getreide oder Nüsse ersetzte.",
-      "fact_easy": "Früher warfen Menschen Reis bei Hochzeiten. Sie glaubten, das schützt vor bösen Geistern. Reis sollte dem Paar Glück bringen.",
-      "category": "Traditions",
-      "source_title": "Wedding Traditions: Why Do We Throw Rice?",
-      "source_url": "https://www.brides.com/story/wedding-traditions-rice-throw"
+      "fact_en": "The practice of 'Jubilee fasting' was common among early Christians, who would abstain from food on Wednesdays and Fridays to commemorate the betrayal and crucifixion of Jesus. This tradition was seen as a way to honor Jesus' sacrifice and demonstrate devotion through self-discipline and penance.",
+      "fact_de": "Die Praxis des 'Jubiläumsfastens' war bei frühen Christen verbreitet, die mittwochs und freitags auf Nahrung verzichteten, um den Verrat und die Kreuzigung Jesu zu gedenken. Diese Tradition wurde als eine Möglichkeit angesehen, Jesu Opfer zu ehren und Hingabe durch Selbstdisziplin und Buße zu zeigen.",
+      "fact_easy": "Frühe Christen fasteten mittwochs und freitags. Sie taten das zu Ehren von Jesus. Das war ein Zeichen ihres Glaubens.",
+      "category": "Religion",
+      "source_title": "Christian Fasting Traditions",
+      "source_url": "https://www.britannica.com/topic/fasting/Christianity"
     }
   ],
   "frankfurt": {
@@ -356,80 +368,192 @@
       {
         "type": "Events",
         "emoji": "🎪",
-        "headline_en": "Klopp's Squad Decisions Loom, Moore Struggles at 1. FC Köln",
-        "headline_de": "Klopps Kaderentscheidungen stehen an, Moore kämpft beim 1. FC Köln",
-        "headline_easy": "Jürgen Klopp muss Spieler auswählen. Ein junger Spieler hat Probleme in Köln.",
-        "summary_en": "National coach Jürgen Klopp is set to finalize his squad, with tough decisions and potential disappointments expected. Meanwhile, 19-year-old Mikey Moore is facing a challenging time at 1. FC Köln, struggling to secure a starting position with no goals or assists.",
-        "summary_de": "Bundestrainer Jürgen Klopp wird seinen Kader finalisieren, wobei harte Entscheidungen und mögliche Enttäuschungen erwartet werden. Gleichzeitig hat der 19-jährige Mikey Moore beim 1. FC Köln eine schwierige Zeit, kämpft um einen Stammplatz und verzeichnet weder Tore noch Vorlagen.",
-        "summary_easy": "Jürgen Klopp muss bald entscheiden, wer in die Fußball-Nationalmannschaft kommt. Es gibt viele Spieler, und nicht alle können dabei sein. Ein junger Fußballer namens Mikey Moore hat es gerade schwer beim 1. FC Köln.",
+        "headline_en": "Germany's Plan B: Climate Adaptation Strategies Under Scrutiny",
+        "headline_de": "Deutschlands Plan B: Strategien zur Klimaanpassung auf dem Prüfstand",
+        "headline_easy": "Deutschland überlegt, wie es sich an den Klimawandel anpasst.",
+        "summary_en": "As climate change impacts like heatwaves, droughts, and floods intensify in Germany, the effectiveness and progress of regional adaptation strategies are being questioned. A look into Germany's 'Plan B' for climate adaptation reveals varying levels of progress across different regions.",
+        "summary_de": "Die Folgen des Klimawandels wie Hitze, Dürre und Überschwemmungen werden in Deutschland immer heftiger. Die Wirksamkeit und der Fortschritt regionaler Anpassungsstrategien werden hinterfragt. Ein Blick auf Deutschlands 'Plan B' zur Klimaanpassung zeigt unterschiedliche Fortschritte in verschiedenen Regionen.",
+        "summary_easy": "Der Klimawandel macht uns Probleme. Deutschland hat einen Plan, um sich anzupassen. Aber die Pläne sind in den Regionen verschieden.",
         "links": [
           {
-            "title": "Zu viel Druck? - Murks mit Köln-Star Moore: Kein Tor, keine Vorlage, kein Stammplatz: Mikey Moore (19) hat es schwer beim 1. FC Köln.",
-            "url": "https://www.bild.de/sport/fussball/1-fc-koeln-zu-viel-druck-murks-mit-koeln-star-mikey-moore-6aeae6dd748580e4813c35d2"
-          },
+            "title": "Plan B für Deutschland: Wie weit sind wir bei Strategien zur Klimaanpassung?",
+            "url": "https://t3n.de/news/plan-b-fuer-deutschland-wie-weit-sind-wir-bei-strategien-zur-klimaanpassung-1771472/"
+          }
+        ]
+      },
+      {
+        "type": "Events",
+        "emoji": "🎪",
+        "headline_en": "DFB Squad Announced: Füllkrug Returns, Youngster Mohya Included",
+        "headline_de": "DFB-Kader nominiert: Füllkrug kehrt zurück, Nachwuchstalent Mohya dabei",
+        "headline_easy": "Fußballspieler Füllkrug ist wieder im DFB-Team. Auch ein junger Spieler ist neu dabei.",
+        "summary_en": "Bundesliga top scorer Niclas Füllkrug has been recalled to the German national team after an impressive run of nine goals in eight games. The squad also features a surprise inclusion: 17-year-old Wael Mohya from Mönchengladbach, prompting a look into coach Klopp's selection decisions.",
+        "summary_de": "Bundesliga-Toptorschütze Niclas Füllkrug kehrt nach neun Toren in acht Spielen ins DFB-Aufgebot zurück. Eine Überraschung ist die Nominierung des 17-jährigen Wael Mohya von Mönchengladbach, was Anlass gibt, Klopps Entscheidungen zu analysieren.",
+        "summary_easy": "Niclas Füllkrug hat viele Tore geschossen. Er spielt jetzt wieder für Deutschland. Ein junger Spieler namens Wael Mohya ist auch neu im Team.",
+        "links": [
           {
-            "title": "Jetzt zeigt sich, auf wen Klopp wirklich setzt: Am Donnerstag nominiert Jürgen Klopp zum zweiten Mal seinen Kader. Der Bundestrainer muss das Aufgebot deutlich reduzieren. Es drohen Härtefälle. Eine Personalie sorgt schon für Diskussionen.",
-            "url": "https://www.welt.de/sport/fussball/article6aeac3a4955da465e2264cca/nationalmannschaft-jetzt-zeigt-sich-auf-wen-juergen-klopp-wirklich-setzt.html"
+            "title": "Füllkrug und Mohya im DFB-Kader: Klopps Nations-League-Nominierungen im Überblick",
+            "url": "https://www.dw.com/de/f%C3%BCllkrug-und-mohya-im-dfb-kader-klopps-nations-league-nominierungen-im-%C3%BCberblick/a-79860844"
+          }
+        ]
+      },
+      {
+        "type": "Events",
+        "emoji": "🎪",
+        "headline_en": "Airport Malaria in Frankfurt: Genetic Analysis Reveals Cause",
+        "headline_de": "Flughafen-Malaria in Frankfurt: Genanalysen decken Ursachen auf",
+        "headline_easy": "In Frankfurt gab es Malaria. Acht Menschen wurden krank, drei starben. Forscher haben die Ursache gefunden.",
+        "summary_en": "Eight people contracted malaria in Frankfurt, with three fatalities, leading to an investigation into the outbreak. Genetic analyses have now shed light on the specific causes behind these cases of 'airport malaria'.",
+        "summary_de": "Acht Menschen infizierten sich in Frankfurt mit Malaria, drei von ihnen starben. Genanalysen haben nun die genauen Ursachen für diese Fälle von 'Flughafen-Malaria' aufgezeigt.",
+        "summary_easy": "In Frankfurt wurden acht Menschen krank wegen Malaria. Drei Menschen sind gestorben. Die Forscher wissen jetzt, warum das passiert ist.",
+        "links": [
+          {
+            "title": "Flughafen-Malaria in Frankfurt am Main: Genanalysen deuten auf die Ursachen hin",
+            "url": "https://www.morgenpost.de/panorama/article413594523/flughafen-malaria-in-frankfurt-am-main-genanalysen-deuten-auf-die-ursachen-hin.html"
           }
         ]
       },
       {
         "type": "Crime",
         "emoji": "🚔",
-        "headline_en": "Raids Target Criminal Networks, National-Bank Under Investigation",
-        "headline_de": "Razzien gegen kriminelle Netzwerke, National-Bank unter Ermittlung",
-        "headline_easy": "Polizei hat Kriminelle gesucht. Eine Bank wird wegen Steuerbetrug untersucht.",
-        "summary_en": "German police have conducted widespread raids targeting criminal organizations, including those involved in 'Crime as a Service' and suspected far-left extremists. In a separate incident, the National-Bank in Essen faced a large-scale operation by authorities investigating suspected severe tax evasion.",
-        "summary_de": "Die deutsche Polizei hat umfassende Razzien gegen kriminelle Organisationen durchgeführt, darunter auch gegen solche, die 'Crime as a Service' anbieten, sowie mutmaßliche Linksextremisten. In einem separaten Fall war die National-Bank in Essen von einem Großeinsatz der Behörden betroffen, die wegen des Verdachts auf schwere Steuerhinterziehung ermitteln.",
-        "summary_easy": "Die Polizei in Deutschland hat viele Razzien gemacht. Sie hat gegen kriminelle Gruppen ermittelt. Auch die National-Bank in Essen wurde durchsucht. Es geht um den Verdacht auf Steuerbetrug.",
+        "headline_en": "Hessian State Parliament: Three CDU Representatives Vie for Vice President Position",
+        "headline_de": "Landtag Hessen: Drei CDU-Abgeordnete wollen Vizepräsident werden",
+        "headline_easy": "Drei Politiker von der CDU wollen eine wichtige Stelle im Hessischen Landtag bekommen.",
+        "summary_en": "The CDU parliamentary group in the Hessian State Parliament will vote next Tuesday to elect a successor for Frank Lortz as Vice President. The delay in the decision is due to a specific background, as three candidates are competing for the position.",
+        "summary_de": "Die Unionsfraktion im Hessischen Landtag stimmt am kommenden Dienstag über den Nachfolger von Frank Lortz als Vizepräsident ab. Die Verzögerung hat einen besonderen Hintergrund, da drei Kandidaten um das Amt konkurrieren.",
+        "summary_easy": "Der Landtag in Hessen wählt einen neuen Chef. Drei Politiker von der CDU wollen diese Stelle. Die Wahl ist nächste Woche.",
         "links": [
           {
-            "title": "Deutschland: Harte Schläge gegen kriminelle Vereinigungen: Mit Razzien ist die Polizei gegen verschiedene Netzwerke von Kriminellen vorgegangen. Dabei ging es einerseits um die Kriminalitätsform \"Crime as a Service\". Im Fokus standen außerdem mutmaßliche Linksextremisten. An der Großrazzia gegen \"Crime as a Service\" …",
-            "url": "https://www.dw.com/de/deutschland-harte-schlaege-gegen-kriminelle-vereinigungen/a-79843275"
-          },
+            "title": "Landtag Hessen: Drei CDU-Abgeordnete wollen Vizepräsident werden",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/kampfabstimmung-in-der-cdu-hessen-drei-bewerber-wollen-spitzenamt-im-landtag-accg-201651475.html"
+          }
+        ]
+      },
+      {
+        "type": "Crime",
+        "emoji": "🚔",
+        "headline_en": "Rhein-Main Live Blog: Increased Controls in Giessen Lead to Arrests",
+        "headline_de": "Rhein-Main-Liveblog: Zahlreiche Festnahmen durch mehr Kontrollen in Gießen",
+        "headline_easy": "In Gießen gab es mehr Polizei-Kontrollen. Viele Menschen wurden festgenommen.",
+        "summary_en": "Increased police controls in Giessen have resulted in numerous arrests. The Rhein-Main live blog also reports on a cellar fire in a residential building in Zwingenberg, a notary receiving probation for defrauding an inheritance, and further discoveries of needles in Halloween candy.",
+        "summary_de": "Erhöhte Polizeikontrollen in Gießen führten zu zahlreichen Festnahmen. Das Rhein-Main-Liveblog berichtet zudem über einen Kellerbrand in einem Wohnhaus in Zwingenberg, die Verurteilung eines Notars auf Bewährung wegen Erbschleicherei und weitere Funde von Nadeln in Halloween-Süßigkeiten.",
+        "summary_easy": "Die Polizei hat in Gießen mehr kontrolliert. Viele Leute wurden festgenommen. Es gab auch einen Brand und Nadeln in Süßigkeiten.",
+        "links": [
           {
-            "title": "Staatsanwaltschaft: Durchsuchungen bei National-Bank in NRW und Hessen: Bei der National-Bank in Essen gab es einen Großeinsatz der Behörden. Ermittelt wird wegen des Anfangsverdachts der schweren Steuerhinterziehung.",
-            "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/national-bank-in-essen-razzia-wegen-steuerhinterziehung-201647920.html"
+            "title": "Rhein-Main-Liveblog: Zahlreiche Festnahmen durch mehr Kontrollen in Gießen",
+            "url": "https://www.faz.net/aktuell/rhein-main/zahlreiche-festnahmen-durch-mehr-kontrollen-in-giessen-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
+          }
+        ]
+      },
+      {
+        "type": "Crime",
+        "emoji": "🚔",
+        "headline_en": "Eintracht Frankfurt Welcomes Former Captain David Abraham as Special Training Guest",
+        "headline_de": "Ex-Kapitän ist in Frankfurt - Besonderer Trainingsgast bei Eintracht",
+        "headline_easy": "Der frühere Kapitän von Eintracht Frankfurt war beim Training zu Besuch.",
+        "summary_en": "Former Eintracht Frankfurt captain David Abraham made a surprise visit to the team's training session, arriving from sunny Argentina to the colder German weather. His presence was a special occasion for the club.",
+        "summary_de": "Der frühere Kapitän von Eintracht Frankfurt, David Abraham, war zu einem besonderen Trainingsbesuch angereist. Er kam aus dem sonnigen Argentinien in die deutsche Kälte, um dem Team beizuwohnen.",
+        "summary_easy": "David Abraham war früher Kapitän bei Eintracht Frankfurt. Er ist jetzt wieder in Frankfurt. Er hat das Training besucht.",
+        "links": [
+          {
+            "title": "Ex-Kapitän ist in Frankfurt - Besonderer Trainingsgast bei Eintracht",
+            "url": "https://www.bild.de/sport/fussball/eintracht-frankfurt-huetters-ex-kapitaen-ueberraschend-beim-training-6aeb385199c6bf1f5f1aab5c"
           }
         ]
       },
       {
         "type": "Sales & Offers",
         "emoji": "🛍️",
-        "headline_en": "Environmental Office Chief Retires, Criminal Investigations Underway",
-        "headline_de": "Umweltamtschef geht in Ruhestand, kriminelle Ermittlungen laufen",
-        "headline_easy": "Ein wichtiger Chef in Hessen geht in Rente. Es gibt auch Ermittlungen gegen kriminelle Gruppen und eine Bank.",
-        "summary_en": "Thomas Schmid, the president of the Hessian State Office for Nature Conservation, Environment and Geology and founder of Germany's first climate center, is retiring. Meanwhile, police are cracking down on criminal networks, with investigations also focusing on potential tax evasion at the National-Bank.",
-        "summary_de": "Thomas Schmid, Präsident des Hessischen Landesamts für Naturschutz, Umwelt und Geologie und Gründer des ersten Klimazentrums Deutschlands, tritt in den Ruhestand. Gleichzeitig geht die Polizei gegen kriminelle Netzwerke vor, und es gibt Ermittlungen wegen des Verdachts auf Steuerhinterziehung bei der National-Bank.",
-        "summary_easy": "Thomas Schmid, ein wichtiger Chef für Umwelt in Hessen, hört auf. Er hat das erste Klimazentrum in Deutschland gegründet. Die Polizei ist auch gegen kriminelle Gruppen aktiv. Eine Bank wird wegen Steuerproblemen untersucht.",
+        "headline_en": "Hessian State Parliament: Three CDU Representatives Vie for Vice President Position",
+        "headline_de": "Landtag Hessen: Drei CDU-Abgeordnete wollen Vizepräsident werden",
+        "headline_easy": "Drei Politiker von der CDU wollen eine wichtige Stelle im Hessischen Landtag bekommen.",
+        "summary_en": "The CDU parliamentary group in the Hessian State Parliament will vote next Tuesday to elect a successor for Frank Lortz as Vice President. The delay in the decision is due to a specific background, as three candidates are competing for the position.",
+        "summary_de": "Die Unionsfraktion im Hessischen Landtag stimmt am kommenden Dienstag über den Nachfolger von Frank Lortz als Vizepräsident ab. Die Verzögerung hat einen besonderen Hintergrund, da drei Kandidaten um das Amt konkurrieren.",
+        "summary_easy": "Der Landtag in Hessen wählt einen neuen Chef. Drei Politiker von der CDU wollen diese Stelle. Die Wahl ist nächste Woche.",
         "links": [
           {
-            "title": "Amtschef in Hessen: Gründer des ersten Klimazentrums in Deutschland hört auf: In seiner Amtszeit als Präsident des Hessischen Landesamts für Naturschutz, Umwelt und Geologie hat Thomas Schmid alles gewollt, nur nicht verwalten. Jetzt geht er in Ruhestand.",
-            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/hessisches-landesamt-als-vorreiter-thomas-schmid-hat-deutschlands-erstes-klimazentrum-gegruendet-nun-geht-er-accg-201225112.html"
-          },
+            "title": "Landtag Hessen: Drei CDU-Abgeordnete wollen Vizepräsident werden",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/kampfabstimmung-in-der-cdu-hessen-drei-bewerber-wollen-spitzenamt-im-landtag-accg-201651475.html"
+          }
+        ]
+      },
+      {
+        "type": "Sales & Offers",
+        "emoji": "🛍️",
+        "headline_en": "Rhein-Main Live Blog: Increased Controls in Giessen Lead to Arrests",
+        "headline_de": "Rhein-Main-Liveblog: Zahlreiche Festnahmen durch mehr Kontrollen in Gießen",
+        "headline_easy": "In Gießen gab es mehr Polizei-Kontrollen. Viele Menschen wurden festgenommen.",
+        "summary_en": "Increased police controls in Giessen have resulted in numerous arrests. The Rhein-Main live blog also reports on a cellar fire in a residential building in Zwingenberg, a notary receiving probation for defrauding an inheritance, and further discoveries of needles in Halloween candy.",
+        "summary_de": "Erhöhte Polizeikontrollen in Gießen führten zu zahlreichen Festnahmen. Das Rhein-Main-Liveblog berichtet zudem über einen Kellerbrand in einem Wohnhaus in Zwingenberg, die Verurteilung eines Notars auf Bewährung wegen Erbschleicherei und weitere Funde von Nadeln in Halloween-Süßigkeiten.",
+        "summary_easy": "Die Polizei hat in Gießen mehr kontrolliert. Viele Leute wurden festgenommen. Es gab auch einen Brand und Nadeln in Süßigkeiten.",
+        "links": [
           {
-            "title": "Staatsanwaltschaft: Durchsuchungen bei National-Bank in NRW und Hessen: Bei der National-Bank in Essen gab es einen Großeinsatz der Behörden. Ermittelt wird wegen des Anfangsverdachts der schweren Steuerhinterziehung.",
-            "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/national-bank-in-essen-razzia-wegen-steuerhinterziehung-201647920.html"
+            "title": "Rhein-Main-Liveblog: Zahlreiche Festnahmen durch mehr Kontrollen in Gießen",
+            "url": "https://www.faz.net/aktuell/rhein-main/zahlreiche-festnahmen-durch-mehr-kontrollen-in-giessen-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
+          }
+        ]
+      },
+      {
+        "type": "Sales & Offers",
+        "emoji": "🛍️",
+        "headline_en": "Eintracht Frankfurt Welcomes Former Captain David Abraham as Special Training Guest",
+        "headline_de": "Ex-Kapitän ist in Frankfurt - Besonderer Trainingsgast bei Eintracht",
+        "headline_easy": "Der frühere Kapitän von Eintracht Frankfurt war beim Training zu Besuch.",
+        "summary_en": "Former Eintracht Frankfurt captain David Abraham made a surprise visit to the team's training session, arriving from sunny Argentina to the colder German weather. His presence was a special occasion for the club.",
+        "summary_de": "Der frühere Kapitän von Eintracht Frankfurt, David Abraham, war zu einem besonderen Trainingsbesuch angereist. Er kam aus dem sonnigen Argentinien in die deutsche Kälte, um dem Team beizuwohnen.",
+        "summary_easy": "David Abraham war früher Kapitän bei Eintracht Frankfurt. Er ist jetzt wieder in Frankfurt. Er hat das Training besucht.",
+        "links": [
+          {
+            "title": "Ex-Kapitän ist in Frankfurt - Besonderer Trainingsgast bei Eintracht",
+            "url": "https://www.bild.de/sport/fussball/eintracht-frankfurt-huetters-ex-kapitaen-ueberraschend-beim-training-6aeb385199c6bf1f5f1aab5c"
           }
         ]
       },
       {
         "type": "Local News",
         "emoji": "📍",
-        "headline_en": "Hessian Environmental Office Chief Retires, Major Crime Raids Conducted",
-        "headline_de": "Hessischer Umweltamtschef geht in Rente, große Razzien gegen Kriminalität",
-        "headline_easy": "Ein wichtiger Chef in Hessen hört auf. Die Polizei hat kriminelle Gruppen bekämpft. Eine Bank wird untersucht.",
-        "summary_en": "Thomas Schmid, the founder of Germany's first climate center and head of the Hessian State Office for Nature Conservation, Environment and Geology, is stepping down. This news comes alongside significant police action against criminal networks, including those involved in 'Crime as a Service,' and investigations into suspected tax evasion at the National-Bank.",
-        "summary_de": "Thomas Schmid, Gründer des ersten Klimazentrums Deutschlands und Präsident des Hessischen Landesamts für Naturschutz, Umwelt und Geologie, tritt in den Ruhestand. Diese Nachricht überschneidet sich mit bedeutenden Polizeieinsätzen gegen kriminelle Netzwerke, darunter auch im Bereich 'Crime as a Service', sowie mit Ermittlungen wegen des Verdachts auf Steuerhinterziehung bei der National-Bank.",
-        "summary_easy": "Thomas Schmid, der Chef des Umweltamtes in Hessen, geht in Rente. Er hat das erste Klimazentrum in Deutschland gegründet. Die Polizei war sehr aktiv gegen Kriminelle. Es gibt auch eine Untersuchung bei der National-Bank wegen Steuern.",
+        "headline_en": "Hessian State Parliament: Three CDU Representatives Vie for Vice President Position",
+        "headline_de": "Landtag Hessen: Drei CDU-Abgeordnete wollen Vizepräsident werden",
+        "headline_easy": "Drei Politiker von der CDU wollen eine wichtige Stelle im Hessischen Landtag bekommen.",
+        "summary_en": "The CDU parliamentary group in the Hessian State Parliament will vote next Tuesday to elect a successor for Frank Lortz as Vice President. The delay in the decision is due to a specific background, as three candidates are competing for the position.",
+        "summary_de": "Die Unionsfraktion im Hessischen Landtag stimmt am kommenden Dienstag über den Nachfolger von Frank Lortz als Vizepräsident ab. Die Verzögerung hat einen besonderen Hintergrund, da drei Kandidaten um das Amt konkurrieren.",
+        "summary_easy": "Der Landtag in Hessen wählt einen neuen Chef. Drei Politiker von der CDU wollen diese Stelle. Die Wahl ist nächste Woche.",
         "links": [
           {
-            "title": "Amtschef in Hessen: Gründer des ersten Klimazentrums in Deutschland hört auf: In seiner Amtszeit als Präsident des Hessischen Landesamts für Naturschutz, Umwelt und Geologie hat Thomas Schmid alles gewollt, nur nicht verwalten. Jetzt geht er in Ruhestand.",
-            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/hessisches-landesamt-als-vorreiter-thomas-schmid-hat-deutschlands-erstes-klimazentrum-gegruendet-nun-geht-er-accg-201225112.html"
-          },
+            "title": "Landtag Hessen: Drei CDU-Abgeordnete wollen Vizepräsident werden",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/kampfabstimmung-in-der-cdu-hessen-drei-bewerber-wollen-spitzenamt-im-landtag-accg-201651475.html"
+          }
+        ]
+      },
+      {
+        "type": "Local News",
+        "emoji": "📍",
+        "headline_en": "Rhein-Main Live Blog: Increased Controls in Giessen Lead to Arrests",
+        "headline_de": "Rhein-Main-Liveblog: Zahlreiche Festnahmen durch mehr Kontrollen in Gießen",
+        "headline_easy": "In Gießen gab es mehr Polizei-Kontrollen. Viele Menschen wurden festgenommen.",
+        "summary_en": "Increased police controls in Giessen have resulted in numerous arrests. The Rhein-Main live blog also reports on a cellar fire in a residential building in Zwingenberg, a notary receiving probation for defrauding an inheritance, and further discoveries of needles in Halloween candy.",
+        "summary_de": "Erhöhte Polizeikontrollen in Gießen führten zu zahlreichen Festnahmen. Das Rhein-Main-Liveblog berichtet zudem über einen Kellerbrand in einem Wohnhaus in Zwingenberg, die Verurteilung eines Notars auf Bewährung wegen Erbschleicherei und weitere Funde von Nadeln in Halloween-Süßigkeiten.",
+        "summary_easy": "Die Polizei hat in Gießen mehr kontrolliert. Viele Leute wurden festgenommen. Es gab auch einen Brand und Nadeln in Süßigkeiten.",
+        "links": [
           {
-            "title": "Deutschland: Harte Schläge gegen kriminelle Vereinigungen: Mit Razzien ist die Polizei gegen verschiedene Netzwerke von Kriminellen vorgegangen. Dabei ging es einerseits um die Kriminalitätsform \"Crime as a Service\". Im Fokus standen außerdem mutmaßliche Linksextremisten. An der Großrazzia gegen \"Crime as a Service\" …",
-            "url": "https://www.dw.com/de/deutschland-harte-schlaege-gegen-kriminelle-vereinigungen/a-79843275"
+            "title": "Rhein-Main-Liveblog: Zahlreiche Festnahmen durch mehr Kontrollen in Gießen",
+            "url": "https://www.faz.net/aktuell/rhein-main/zahlreiche-festnahmen-durch-mehr-kontrollen-in-giessen-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
+          }
+        ]
+      },
+      {
+        "type": "Local News",
+        "emoji": "📍",
+        "headline_en": "Eintracht Frankfurt Welcomes Former Captain David Abraham as Special Training Guest",
+        "headline_de": "Ex-Kapitän ist in Frankfurt - Besonderer Trainingsgast bei Eintracht",
+        "headline_easy": "Der frühere Kapitän von Eintracht Frankfurt war beim Training zu Besuch.",
+        "summary_en": "Former Eintracht Frankfurt captain David Abraham made a surprise visit to the team's training session, arriving from sunny Argentina to the colder German weather. His presence was a special occasion for the club.",
+        "summary_de": "Der frühere Kapitän von Eintracht Frankfurt, David Abraham, war zu einem besonderen Trainingsbesuch angereist. Er kam aus dem sonnigen Argentinien in die deutsche Kälte, um dem Team beizuwohnen.",
+        "summary_easy": "David Abraham war früher Kapitän bei Eintracht Frankfurt. Er ist jetzt wieder in Frankfurt. Er hat das Training besucht.",
+        "links": [
+          {
+            "title": "Ex-Kapitän ist in Frankfurt - Besonderer Trainingsgast bei Eintracht",
+            "url": "https://www.bild.de/sport/fussball/eintracht-frankfurt-huetters-ex-kapitaen-ueberraschend-beim-training-6aeb385199c6bf1f5f1aab5c"
           }
         ]
       }
