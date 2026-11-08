@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, November 07 2026",
+  "date": "Sunday, November 08 2026",
   "sections": [
     {
       "category": "Germany",
@@ -8,48 +8,56 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Koln Star Said El Mala Addresses PSG Transfer Links and Future",
-          "headline_de": "Köln-Star Said El Mala äußert sich zu PSG-Transfergerüchten und seiner Zukunft",
-          "headline_easy": "Fußballer Said El Mala spricht über Wechsel zu PSG.",
-          "summary_en": "Bundesliga breakout star Said El Mala has broken his silence on links to a transfer to PSG. The Koln player addressed speculation about his future with the French giants.",
-          "summary_de": "Der aufstrebende Bundesliga-Star Said El Mala hat sich zu Gerüchten über einen Wechsel zu PSG geäußert. Der Kölner Spieler sprach über Spekulationen bezüglich seiner Zukunft bei den französischen Spitzenklubs.",
-          "summary_easy": "Der Fußballspieler Said El Mala spricht über Gerüchte. Er könnte zu Paris Saint-Germain wechseln. Er sagt etwas über seine Zukunft.",
+          "headline_en": "Physicist Manipulates Light for Invisibility, Microsoft Data Centre Faces AI Protests",
+          "headline_de": "Physiker manipuliert Licht für Unsichtbarkeit, Microsoft-Rechenzentrum steht KI-Protesten gegenüber",
+          "headline_easy": "Ein Wissenschaftler macht Dinge unsichtbar. Microsoft hat ein neues Projekt, aber Leute protestieren.",
+          "summary_en": "A physicist at Israel's Weizmann Institute is experimenting with manipulating light to create invisibility. Meanwhile, Microsoft's $1 billion data centre project in Amsterdam is facing protests due to concerns over AI infrastructure costs.",
+          "summary_de": "Ein Physiker am Weizmann-Institut in Israel experimentiert damit, Licht zu manipulieren, um Unsichtbarkeit zu schaffen. Gleichzeitig steht Microsofts Rechenzentrumsprojekt für 1 Milliarde US-Dollar in Amsterdam wegen Bedenken hinsichtlich der KI-Infrastrukturkosten vor Protesten.",
+          "summary_easy": "Ein Wissenschaftler kann Dinge mit Licht unsichtbar machen. In Amsterdam gibt es Proteste wegen einer neuen Computeranlage von Microsoft. Die Anlage ist teuer und für KI.",
           "links": [
             {
-              "title": "‘An immense club’ – Koln star Said El Mala breaks silence on PSG transfer links as Bundesliga breakout star addresses future",
-              "url": "https://www.goal.com/en-us/news/said-el-mala-psg-transfer-links-bundesliga-koln/bltd7c35e22d10a0cd7"
+              "title": "A physicist at Israel's Weizmann Institute is manipulating light to make objects invisible",
+              "url": "https://www.haaretz.com/science-and-health/2026-11-07/ty-article-magazine/this-physicist-is-manipulating-light-to-make-objects-invisible/000001a1-b568-d041-a5f9-f56927a40000"
+            },
+            {
+              "title": "Microsoft's $1 billion Amsterdam data centre project faces protests over AI infrastructure costs- details inside",
+              "url": "https://www.livemint.com/companies/news/microsofts-1-billion-amsterdam-data-centre-project-faces-protests-over-ai-infrastructure-costs-details-inside-11794048139305.html"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Beko's FlexiStart Enables Cheaper Appliance Usage",
-          "headline_de": "Beko's FlexiStart ermöglicht günstigere Gerätenutzung",
-          "headline_easy": "Neue Technik hilft beim Strom sparen.",
-          "summary_en": "Beko's new FlexiStart technology allows households to run appliances during off-peak hours when electricity is cheaper. This innovation aims to reduce energy costs for consumers.",
-          "summary_de": "Beko's neue FlexiStart-Technologie ermöglicht es Haushalten, Geräte zu Randzeiten zu betreiben, wenn der Strom günstiger ist. Diese Innovation zielt darauf ab, die Energiekosten für Verbraucher zu senken.",
-          "summary_easy": "Die neue Technik von Beko heißt FlexiStart. Sie hilft Familien, Geräte zu nutzen, wenn Strom billig ist. Das spart Geld.",
+          "headline_en": "Microsoft Data Centre Project Faces Protests; New AI Tool Added to PyPI",
+          "headline_de": "Microsoft-Rechenzentrumsprojekt steht vor Protesten; Neues KI-Tool zu PyPI hinzugefügt",
+          "headline_easy": "Proteste gegen Microsofts Datenzentrum. Ein neues Werkzeug für KI ist jetzt verfügbar.",
+          "summary_en": "Microsoft's significant investment in an Amsterdam data centre is encountering public opposition due to the costs associated with AI infrastructure. Separately, a new AI-related tool named 'roguegpt' has been made available on the PyPI platform.",
+          "summary_de": "Microsofts bedeutende Investition in ein Amsterdamer Rechenzentrum stößt auf öffentlichen Widerstand wegen der Kosten für KI-Infrastruktur. Separat wurde ein neues KI-bezogenes Werkzeug namens 'roguegpt' auf der PyPI-Plattform verfügbar gemacht.",
+          "summary_easy": "Leute protestieren gegen Microsofts neues Rechenzentrum in Amsterdam. Es geht um die Kosten für KI. Ein neues Programm für KI namens 'roguegpt' ist jetzt auf PyPI.",
           "links": [
             {
-              "title": "Beko's FlexiStart helps households run appliances when electricity is cheaper",
-              "url": "https://www.prnewswire.co.uk/news-releases/bekos-flexistart-helps-households-run-appliances-when-electricity-is-cheaper-302931969.html"
+              "title": "roguegpt added to PyPI",
+              "url": "https://pypi.org/project/roguegpt/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Quantinuum Reports Strong Q3 2026 Results, Raises Full-Year Outlook",
-          "headline_de": "Quantinuum meldet starke Q3 2026 Ergebnisse und erhöht den Ausblick für das Gesamtjahr",
-          "headline_easy": "Eine Firma hat gute Zahlen. Sie erwartet mehr Geld.",
-          "summary_en": "Quantinuum has announced its third-quarter 2026 financial results, which show strong performance. The company has also raised its revenue outlook for the full year.",
-          "summary_de": "Quantinuum hat seine Finanzergebnisse für das dritte Quartal 2026 bekannt gegeben, die eine starke Leistung zeigen. Das Unternehmen hat auch seinen Umsatz-Ausblick für das Gesamtjahr angehoben.",
-          "summary_easy": "Die Firma Quantinuum hat gute Ergebnisse im dritten Quartal. Sie glaubt, dass sie im ganzen Jahr mehr Geld verdienen wird.",
+          "headline_en": "Economic News from Nepal, Unusual Weekend Finds, and Entertainment News",
+          "headline_de": "Wirtschaftsnachrichten aus Nepal, ungewöhnliche Funde am Wochenende und Unterhaltungsnachrichten",
+          "headline_easy": "Nachrichten aus Nepal. Seltsame Dinge am Wochenende. Nachrichten über Unterhaltung.",
+          "summary_en": "This section features a mix of disparate news items, including an economic digest from Nepal, a collection of unusual and interesting finds from the weekend, and details on the cast's insights into their characters from 'The Remarried Empress'.",
+          "summary_de": "Dieser Abschnitt enthält eine Mischung aus unterschiedlichen Nachrichten, darunter ein Wirtschaftsüberblick aus Nepal, eine Sammlung ungewöhnlicher und interessanter Funde vom Wochenende sowie Details zu den Einblicken der Darsteller in ihre Charaktere aus 'The Remarried Empress'.",
+          "summary_easy": "Hier sind verschiedene Nachrichten. Es gibt Wirtschaftsnachrichten aus Nepal. Man findet auch seltsame Dinge. Und es gibt Neuigkeiten über Schauspieler.",
           "links": [
             {
-              "title": "Quantinuum Reports Third Quarter 2026 Results and Raises Full-Year Revenue Outlook",
-              "url": "https://www.prnewswire.co.uk/news-releases/quantinuum-reports-third-quarter-2026-results-and-raises-full-year-revenue-outlook-302931318.html"
+              "title": "Economic Digest: A Snapshot of Nepal’s Business News",
+              "url": "https://english.khabarhub.com/2026/07/574760/"
+            },
+            {
+              "title": "This Week’s Weird and Wonderful—November 6, 2026",
+              "url": "https://bringatrailer.com/2026/11/06/this-weeks-weird-and-wonderful-november-6-2026/"
             }
           ]
         }
@@ -62,52 +70,60 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Forbidden Druid vs. Starling Murmur: Short-Travel Trail Bike Comparison",
-          "headline_de": "Forbidden Druid vs. Starling Murmur: Vergleich von Kurzfederweg-Trailbikes",
-          "headline_easy": "Zwei Fahrräder für Trails werden verglichen.",
-          "summary_en": "A comparison of two short-travel trail bikes, the Forbidden Druid and the Starling Murmur, has been published. This review assesses their performance in their first round of testing.",
-          "summary_de": "Ein Vergleich von zwei Kurzfederweg-Trailbikes, dem Forbidden Druid und dem Starling Murmur, wurde veröffentlicht. Diese Bewertung bewertet ihre Leistung in ihrer ersten Testrunde.",
-          "summary_easy": "Zwei Fahrräder für Mountainbiker werden getestet. Sie heißen Forbidden Druid und Starling Murmur. Man vergleicht, wie gut sie sind.",
+          "headline_en": "Formula 1 Team Principal's Comments; Microsoft Data Centre Protests; New Software Tool Released",
+          "headline_de": "Äußerungen des Formel-1-Teamchefs; Proteste gegen Microsoft-Rechenzentrum; Neues Software-Tool veröffentlicht",
+          "headline_easy": "Ein Formel-1-Chef spricht. Proteste gegen Microsoft. Ein neues Computer-Programm ist da.",
+          "summary_en": "Formula 1 team principal Fred Vasseur has reportedly spoken with drivers Hamilton and Leclerc. Meanwhile, Microsoft's $1 billion Amsterdam data centre faces protests related to AI infrastructure costs. A new software tool, 'litscan-2', has also been released.",
+          "summary_de": "Formel-1-Teamchef Fred Vasseur hat Berichten zufolge mit den Fahrern Hamilton und Leclerc gesprochen. Unterdessen steht Microsofts Rechenzentrum für 1 Milliarde US-Dollar in Amsterdam wegen der Kosten für KI-Infrastruktur vor Protesten. Ein neues Software-Tool, 'litscan-2', wurde ebenfalls veröffentlicht.",
+          "summary_easy": "Der Chef eines Formel-1-Teams hat mit Fahrern gesprochen. In Amsterdam gibt es Proteste gegen ein neues großes Rechenzentrum von Microsoft. Es ist teuer für KI. Ein neues Computer-Programm namens 'litscan-2' ist auch veröffentlicht worden.",
           "links": [
             {
-              "title": "Forbidden Druid vs. Starling Murmur: Short-travel trail bikes, round 1",
-              "url": "https://www.singletracks.com/mtb-gear/forbidden-druid-vs-starling-murmur-short-travel-trail-bikes-round-1-survey/"
-            }
-          ]
-        },
-        {
-          "type": "Business",
-          "emoji": "💼",
-          "headline_en": "Dutch Launch Reveals Smuggler Adaptation, Says MP",
-          "headline_de": "Niederländische Markteinführung zeigt Anpassung von Schmugglern, sagt Abgeordneter",
-          "headline_easy": "Neue Regeln in Holland zeigen, dass Schmuggler anders arbeiten.",
-          "summary_en": "A recent launch in the Netherlands has highlighted that smugglers are adapting their methods, according to a Member of Parliament. This indicates a shift in how illegal activities are being conducted.",
-          "summary_de": "Eine kürzliche Markteinführung in den Niederlanden hat gezeigt, dass Schmuggler ihre Methoden anpassen, so ein Parlamentsmitglied. Dies deutet auf eine Veränderung in der Art und Weise hin, wie illegale Aktivitäten durchgeführt werden.",
-          "summary_easy": "Eine neue Sache in Holland zeigt etwas. Schmuggler ändern ihre Arbeit. Ein Politiker sagt das.",
-          "links": [
+              "title": "Vasseur has spoken to Hamilton and Leclerc",
+              "url": "https://www.pitpass.com/84074/Vasseur-has-spoken-to-Hamilton-and-Leclerc"
+            },
             {
-              "title": "Dutch launch shows smugglers are adapting, says MP",
-              "url": "https://www.bbc.co.uk/news/articles/c689zzvl5yp8o"
+              "title": "litscan-2 0.1.0",
+              "url": "https://pypi.org/project/litscan-2/0.1.0/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Stockpiled Food and AI Fears: European Markets Slide",
-          "headline_de": "Gegenstände auf Vorrat und KI-Ängste: Europäische Märkte rutschen ab",
-          "headline_easy": "Märkte in Europa gehen nach unten. Es gibt Sorgen wegen KI.",
-          "summary_en": "Asian and European markets experienced a slide, mirroring a downturn on U.S. markets driven by fears surrounding artificial intelligence. In a separate story, a man stockpiled 600 tins of food for a potential 100-day survival.",
-          "summary_de": "Die asiatischen und europäischen Märkte verzeichneten einen Rückgang, der einen Abwärtstrend an den US-Märkten widerspiegelt, der durch Ängste im Zusammenhang mit künstlicher Intelligenz verursacht wurde. In einer separaten Meldung hat ein Mann 600 Dosen Lebensmittel für ein potenzielles 100-tägiges Überleben gehortet.",
-          "summary_easy": "Die Börsen in Asien und Europa sind gefallen. Das liegt an Angst vor KI. Ein Mann hat 600 Dosen Essen gekauft.",
+          "headline_en": "AI Bubble Fears in Ireland; Security Grey Zone Discussed; US Midterm Election Impact",
+          "headline_de": "KI-Blasenängste in Irland; Sicherheitsgrauzone diskutiert; Auswirkungen der US-Zwischenwahlen",
+          "headline_easy": "Angst vor KI-Blase in Irland. Diskussion über Sicherheit. Was nach US-Wahlen passiert.",
+          "summary_en": "Concerns are rising in Ireland about the potential impact if the AI bubble bursts, given its role in the AI supply chain. Elsewhere, discussions explore the 'security grey zone' between peace and war, and the implications of the US midterm elections, including political shifts and potential financial impacts.",
+          "summary_de": "In Irland steigen die Bedenken hinsichtlich der potenziellen Auswirkungen eines Platzens der KI-Blase, angesichts seiner Rolle in der KI-Lieferkette. Andernorts werden die 'Grauzone der Sicherheit' zwischen Frieden und Krieg und die Auswirkungen der US-Zwischenwahlen, einschließlich politischer Veränderungen und möglicher finanzieller Auswirkungen, diskutiert.",
+          "summary_easy": "Es gibt Angst in Irland wegen KI. Das Land ist wichtig für KI-Produkte. Man spricht über Sicherheit und den Krieg. Man spricht auch über die Wahlen in Amerika und Geld.",
           "links": [
             {
-              "title": "'Money won't be any good when the supermarkets run out': Man, 71, reveals he's stockpiled 600 tins of food in his garden shed that could feed him for 100 days",
-              "url": "https://www.dailymail.co.uk/lifestyle/article-16271025/Money-wont-good-supermarkets-run-Man-71-reveals-hes-stockpiled-600-tins-food-garden-shed-feed-100-days.html"
+              "title": "Trump humbled at home, but what next abroad?",
+              "url": "https://www.livemint.com/opinion/online-views/trump-us-midterm-election-democratic-victory-republican-11794032555831.html"
             },
             {
-              "title": "Asian and European markets slide after AI fears sent U.S. markets tumbling",
-              "url": "https://biztoc.com/x/105b52c5f6531937"
+              "title": "Cliff Taylor: Ireland is a key link in the AI supply chain. What happens if the bubble bursts?",
+              "url": "https://www.irishtimes.com/opinion/2026/11/07/cliff-taylor-if-the-ai-bubble-bursts-irelands-exposure-will-be-significant/"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "Italian Minister's Data Leaked; Macklemore's Tour Issues; F1 Team Principal's Communication",
+          "headline_de": "Daten des italienischen Ministers geleakt; Macklemores Tourprobleme; Kommunikation des F1-Teamchefs",
+          "headline_easy": "Persönliche Daten eines Ministers sind weg. Macklemore hat Probleme mit seiner Tour. Ein Formel-1-Chef spricht.",
+          "summary_en": "Italy's Foreign Minister has reported a leak of his personal data on the dark web. In entertainment news, Macklemore has accused US venues of blocking his 'Free Palestine' tour. Formula 1 team principal Vasseur has reportedly been in contact with drivers Hamilton and Leclerc.",
+          "summary_de": "Italiens Außenminister hat einen Diebstahl seiner persönlichen Daten im Darknet gemeldet. In den Unterhaltungsnachrichten hat Macklemore US-Veranstaltungsorten vorgeworfen, seine 'Free Palestine'-Tour zu blockieren. Formel-1-Teamchef Vasseur stand Berichten zufolge in Kontakt mit den Fahrern Hamilton und Leclerc.",
+          "summary_easy": "Persönliche Daten eines italienischen Ministers wurden gestohlen. Ein Sänger namens Macklemore hat Probleme mit Konzerten in Amerika. Der Chef eines Formel-1-Teams hat mit Fahrern gesprochen.",
+          "links": [
+            {
+              "title": "Italy's foreign minister says his personal data was leaked on dark web",
+              "url": "https://www.business-standard.com/world-news/italy-s-foreign-minister-says-his-personal-data-was-leaked-on-dark-web-126110700730_1.html"
+            },
+            {
+              "title": "Macklemore Accuses Madison Square Garden and Other U.S. Venues of Blocking His 'Free Palestine' Tour",
+              "url": "https://www.breitbart.com/entertainment/2026/11/07/macklemore-accuses-madison-square-garden-and-other-u-s-venues-of-blocking-his-free-palestine-tour/"
             }
           ]
         }
@@ -120,48 +136,56 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "New Apple Products Launch: OLED iPad Mini, M6 iMac, MacBook Pros",
-          "headline_de": "Neue Apple-Produkte starten: OLED iPad Mini, M6 iMac, MacBook Pros",
-          "headline_easy": "Neue Geräte von Apple sind da.",
-          "summary_en": "Apple has released new products including the OLED iPad Mini, M6 iMac, and updated MacBook Pros. These devices are available for purchase starting today.",
-          "summary_de": "Apple hat neue Produkte auf den Markt gebracht, darunter das OLED iPad Mini, den M6 iMac und aktualisierte MacBook Pros. Diese Geräte sind ab heute erhältlich.",
-          "summary_easy": "Neue Produkte von Apple sind jetzt zu kaufen. Dazu gehören ein iPad Mini mit OLED und ein neuer iMac. Auch neue MacBook Pros sind da.",
+          "headline_en": "Post-Trump Political Analysis; Socialist Governance; Affordable Humanoid Robot",
+          "headline_de": "Politische Analyse nach Trump; Sozialistische Regierungsführung; Bezahlbarer humanoider Roboter",
+          "headline_easy": "Was passiert nach Trump? Ein Bürgermeister ist sozialistisch. Ein kleiner Roboter ist günstig.",
+          "summary_en": "Discussions are underway regarding the political landscape following the Trump era, including the challenges of socialist governance in a city influenced by the Trump administration. Additionally, a new, affordable humanoid robot, the StarBot Spark, has been developed in the US.",
+          "summary_de": "Es laufen Diskussionen über die politische Landschaft nach der Trump-Ära, einschließlich der Herausforderungen sozialistischer Regierungsführung in einer von der Trump-Regierung beeinflussten Stadt. Darüber hinaus wurde in den USA ein neuer, erschwinglicher humanoider Roboter, der StarBot Spark, entwickelt.",
+          "summary_easy": "Man redet darüber, was nach Trump kommt. Eine Bürgermeisterin ist sozialistisch und muss mit Trumps Politik umgehen. Es gibt einen neuen, günstigen Roboter für Menschen.",
           "links": [
             {
-              "title": "OLED iPad Mini, M6 iMac, and New MacBook Pros Available From Today",
-              "url": "https://www.macrumors.com/2026/11/06/ipad-mini-oled-and-m6-imac-available-today/"
-            }
-          ]
-        },
-        {
-          "type": "Business",
-          "emoji": "💼",
-          "headline_en": "Mexico Poised to Become US's First $1 Trillion Trade Partner",
-          "headline_de": "Mexiko wird voraussichtlich der erste 1-Billionen-Dollar-Handelspartner der USA",
-          "headline_easy": "Mexiko und die USA handeln bald für eine Billion Dollar.",
-          "summary_en": "Mexico is on track to become the United States' first trillion-dollar trade partner. This significant milestone reflects the deepening economic relationship between the two North American nations.",
-          "summary_de": "Mexiko ist auf dem besten Weg, der erste Billionen-Dollar-Handelspartner der Vereinigten Staaten zu werden. Dieser bedeutende Meilenstein spiegelt die sich vertiefende Wirtschaftsbeziehung zwischen den beiden nordamerikanischen Nationen wider.",
-          "summary_easy": "Mexiko und die USA machen bald sehr viel Handel. Es wird eine Billion Dollar sein. Das ist das erste Mal, dass ein Land so viel handelt.",
-          "links": [
+              "title": "Breaking the Decade-Long Trump Fever",
+              "url": "https://www.newyorker.com/magazine/2026/11/16/breaking-the-decade-long-trump-fever"
+            },
             {
-              "title": "Mexico On Track To Be United States’ First $1 Trillion Trade Partner",
-              "url": "https://biztoc.com/x/d3815a851f6426dd"
+              "title": "How a Socialist Can Govern a City Under the Thumb of the Trump Administration",
+              "url": "https://theintercept.com/2026/11/07/janeese-lewis-george-dsa-dc-mayor/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Sunrise Energy Metals Shares Fall Amid Investment Decision",
-          "headline_de": "Sunrise Energy Metals Aktien fallen nach Investitionsentscheidung",
-          "headline_easy": "Aktien einer Firma sind gefallen.",
-          "summary_en": "Shares of Sunrise Energy Metals have experienced an 8% drop following a recent investment decision regarding the Syerston Scandium project. The decline marks a deepening slide for the company's stock.",
-          "summary_de": "Die Aktien von Sunrise Energy Metals sind nach einer kürzlichen Investitionsentscheidung bezüglich des Syerston Scandium-Projekts um 8 % gefallen. Dieser Rückgang markiert einen anhaltenden Abschwung für die Aktie des Unternehmens.",
-          "summary_easy": "Die Aktien der Firma Sunrise Energy Metals sind um 8 % gesunken. Das passierte nach einer wichtigen Entscheidung. Es geht um ein Projekt für Scandium.",
+          "headline_en": "Financial Impacts of 'Bluenami'; Midterm Election Outcomes; Drug Company Stock Holdings",
+          "headline_de": "Finanzielle Auswirkungen von 'Bluenami'; Ergebnisse der Zwischenwahlen; Aktienbestände von Pharmaunternehmen",
+          "headline_easy": "Geld-Effekte von 'Bluenami'. Was nach Wahlen passiert. Aktien von Pharma-Firmen.",
+          "summary_en": "The financial implications of a 'bluenami' event are being analyzed, alongside the broader consequences of the US midterm elections, including voter sentiment and political outcomes. A notable point concerns appointees who retain drug company stock while involved in healthcare policy decisions.",
+          "summary_de": "Die finanziellen Auswirkungen eines 'Bluenami'-Ereignisses werden analysiert, zusammen mit den breiteren Folgen der US-Zwischenwahlen, einschließlich der Wählerstimmung und politischer Ergebnisse. Ein bemerkenswerter Punkt betrifft ernannte Beamte, die Aktien von Pharmaunternehmen behalten, während sie an Entscheidungen zur Gesundheitspolitik beteiligt sind.",
+          "summary_easy": "Es gibt wichtige Geld-Effekte wegen etwas, das 'Bluenami' heißt. Man spricht über die Wahlen in Amerika und was danach kommt. Bestimmte Leute dürfen Aktien von Pharma-Firmen behalten, obwohl sie über Gesundheit entscheiden.",
           "links": [
             {
-              "title": "Sunrise Energy Metals Shares Sink 8% Days After Syerston Scandium Investment Decision as Slide Deepens",
-              "url": "https://www.ibtimes.com.au/sunrise-energy-metals-shares-fall-after-syerston-approval-1878039"
+              "title": "5 financial impacts from the 'bluenami'",
+              "url": "https://www.rte.ie/news/business/2026/1107/1598303-5-financial-impacts-from-the-bluenami/"
+            },
+            {
+              "title": "‘We outvoted the billionaires’: What comes next after the US midterm elections?",
+              "url": "https://www.irishtimes.com/life-style/people/2026/11/07/we-outvoted-the-billionaires-what-comes-next-after-the-us-midterm-elections/"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "Post-Trump Political Commentary; Socialist Governance; Affordable Humanoid Robot Development",
+          "headline_de": "Politische Kommentare nach Trump; Sozialistische Regierungsführung; Entwicklung erschwinglicher humanoider Roboter",
+          "headline_easy": "Politik nach Trump. Eine sozialistische Stadtführung. Ein günstiger Roboter.",
+          "summary_en": "Discussions delve into the political aftermath of the Trump era, examining socialist governance models in challenging urban environments. Technology news includes the development of the StarBot Spark, an affordable humanoid robot created in the US.",
+          "summary_de": "Diskussionen befassen sich mit den politischen Folgen der Trump-Ära und untersuchen sozialistische Regierungsmodelle in herausfordernden städtischen Umgebungen. Technologienachrichten umfassen die Entwicklung des StarBot Spark, eines erschwinglichen humanoiden Roboters, der in den USA entwickelt wurde.",
+          "summary_easy": "Man redet über die Politik nach der Zeit von Trump. Eine sozialistische Bürgermeisterin regiert in einer Stadt. Ein neuer Roboter für Menschen ist günstig und wurde in Amerika gebaut.",
+          "links": [
+            {
+              "title": "Kim You Jung Prepares To Say Goodbye To Park Jinyoung After Her Final Spy Mission In “100 Days Of Deception”",
+              "url": "http://www.soompi.com/article/1884859wpp/kim-you-jung-prepares-to-say-goodbye-to-park-jinyoung-after-her-final-spy-mission-in-100-days-of-deception"
             }
           ]
         }
@@ -174,48 +198,36 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "India Gears Up for Elections: Voter Inclusion Drive Underway",
-          "headline_de": "Indien bereitet sich auf Wahlen vor: Wählerregistrierungskampagne läuft",
-          "headline_easy": "In Indien gibt es bald Wahlen. Wähler können sich noch anmelden.",
-          "summary_en": "As India prepares for upcoming elections, the Election Commission is providing an opportunity for voters excluded from draft electoral rolls in seven states to get included in the final list. This initiative aims to ensure broader participation.",
-          "summary_de": "Während sich Indien auf die bevorstehenden Wahlen vorbereitet, bietet die Wahlkommission Wählern, die von den Entwürfen der Wählerverzeichnisse in sieben Bundesstaaten ausgeschlossen wurden, die Möglichkeit, in die endgültige Liste aufgenommen zu werden. Diese Initiative zielt auf eine breitere Beteiligung ab.",
-          "summary_easy": "Indien hat bald Wahlen. Die Wahlkommission hilft Menschen, die nicht in der Liste stehen. Sie können sich noch eintragen lassen.",
+          "headline_en": "Global Monuments Lit for Red Week; 'AI Book Scam' Under Investigation",
+          "headline_de": "Globale Monumente für Rote Woche erleuchtet; 'KI-Buchbetrug' wird untersucht",
+          "headline_easy": "Denkmäler leuchten für Rote Woche. Untersuchung wegen 'KI-Buch-Betrug'.",
+          "summary_en": "Monuments worldwide will be illuminated to celebrate Red Week 2026. In India, authorities are investigating an alleged 'AI book scam' and seeking an apology from a political party.",
+          "summary_de": "Denkmäler weltweit werden zur Feier der Roten Woche 2026 beleuchtet. In Indien untersuchen die Behörden einen angeblichen 'KI-Buchbetrug' und fordern eine Entschuldigung von einer politischen Partei.",
+          "summary_easy": "Auf der ganzen Welt werden wichtige Gebäude für die 'Rote Woche' angestrahlt. In Indien wird ein Betrug mit KI-Büchern untersucht. Die Regierung verlangt eine Entschuldigung.",
           "links": [
             {
-              "title": "EC gives voters excluded from draft electoral rolls in 7 states another chance to get included in final list",
-              "url": "https://timesofindia.indiatimes.com/india/ec-gives-voters-excluded-from-draft-electoral-rolls-in-7-states-another-chance-to-apply/articleshow/135604039.cms"
+              "title": "Monuments around the world to be lit up for Red Week 2026",
+              "url": "https://www.ewtnnews.com/world/europe/monuments-around-the-world-to-be-lit-up-for-red-week-2026"
+            },
+            {
+              "title": "TVK govt to probe ‘AI book scam’ under DMK, seeks ‘unconditional apology’",
+              "url": "https://timesofindia.indiatimes.com/city/chennai/tvk-govt-to-probe-ai-book-scam-under-dmk-seeks-unconditional-apology/articleshow/135634489.cms"
             }
           ]
         },
         {
-          "type": "Business",
-          "emoji": "💼",
-          "headline_en": "Trump's Political Influence and India's Role in Global Markets",
-          "headline_de": "Trumps politischer Einfluss und Indiens Rolle auf den globalen Märkten",
-          "headline_easy": "Die Politik von Trump ist wichtig für Indien.",
-          "summary_en": "The recent political landscape, including the implications of Trump's influence, is being analyzed for its impact on India's global standing. The connection between political shifts and economic partnerships is a key focus.",
-          "summary_de": "Die jüngste politische Landschaft, einschließlich der Auswirkungen von Trumps Einfluss, wird auf ihre Auswirkungen auf Indiens globale Position analysiert. Die Verbindung zwischen politischen Veränderungen und wirtschaftlichen Partnerschaften steht im Mittelpunkt.",
-          "summary_easy": "Die Politik von Trump ist wichtig. Sie beeinflusst Indien. Man spricht darüber, wie das Indien hilft.",
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "TB Detection Training in India; Global Monuments for Red Week",
+          "headline_de": "Schulung zur TB-Erkennung in Indien; Globale Monumente für Rote Woche",
+          "headline_easy": "Schulung in Indien für Krankheit. Denkmäler leuchten weltweit.",
+          "summary_en": "AIIMS Deoghar has trained 235 health workers in Tuberculosis detection. In a separate cultural event, monuments globally will be illuminated for Red Week 2026.",
+          "summary_de": "AIIMS Deoghar hat 235 Gesundheitspersonal in der Tuberkulose-Erkennung geschult. Bei einer separaten kulturellen Veranstaltung werden weltweit Denkmäler zur Feier der Roten Woche 2026 beleuchtet.",
+          "summary_easy": "In Indien werden Gesundheitshelfer in der Erkennung von TB geschult. Auf der ganzen Welt werden wichtige Gebäude für die 'Rote Woche' angestrahlt.",
           "links": [
             {
-              "title": "Trump’s Republican rout: Why India matters",
-              "url": "https://timesofindia.indiatimes.com/toi-blogs/beyond-borders/trumps-republican-rout-why-india-matters/articleshow/135604409.cms"
-            }
-          ]
-        },
-        {
-          "type": "Stocks & Markets",
-          "emoji": "📈",
-          "headline_en": "Indian Stocks Outperform Amid Global Market Downturn Driven by AI Fears",
-          "headline_de": "Indische Aktien übertreffen trotz globalem Marktabschwung aufgrund von KI-Ängsten",
-          "headline_easy": "Indische Aktien sind gut. Andere Märkte sind schlecht wegen KI.",
-          "summary_en": "Indian stocks are proving to be Asia's lone bright spot, performing well despite a broader market slide attributed to fears surrounding artificial intelligence. Both Asian and European markets have tumbled following a rout on Wall Street.",
-          "summary_de": "Indische Aktien erweisen sich als einziger Lichtblick Asiens und schneiden trotz eines breiteren Marktabschwungs, der auf Ängste im Zusammenhang mit künstlicher Intelligenz zurückzuführen ist, gut ab. Sowohl die asiatischen als auch die europäischen Märkte sind nach einem Einbruch an der Wall Street eingebrochen.",
-          "summary_easy": "Aktien in Indien sind gut. Die Märkte in anderen Ländern sind schlecht. Das liegt an Angst vor KI. Wall Street war auch schlecht.",
-          "links": [
-            {
-              "title": "Anti-AI trade makes Indian stocks Asia’s lone bright spot",
-              "url": "https://www.thehindubusinessline.com/markets/anti-ai-trade-makes-indian-stocks-asias-lone-bright-spot/article71673785.ece"
+              "title": "AIIMS Deoghar trains 235 health workers in TB detection",
+              "url": "https://timesofindia.indiatimes.com/city/ranchi/aiims-deoghar-trains-235-health-workers-in-tb-detection/articleshow/135634696.cms"
             }
           ]
         }
@@ -228,64 +240,60 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Tennis Star Jannik Sinner Parts Ways with Coach Darren Cahill",
-          "headline_de": "Tennisstar Jannik Sinner trennt sich von Trainer Darren Cahill",
-          "headline_easy": "Tennisspieler Jannik Sinner hat neuen Trainer.",
-          "summary_en": "World No. 1 Jannik Sinner has ended his coaching relationship with Darren Cahill. Sinner will now work with Grand Slam-winning mentor Magnus Norman.",
-          "summary_de": "Der Weltranglistenerste Jannik Sinner hat seine Trainerbeziehung mit Darren Cahill beendet. Sinner wird nun mit dem Grand-Slam-Sieger Magnus Norman zusammenarbeiten.",
-          "summary_easy": "Der Tennisspieler Jannik Sinner hat einen neuen Trainer. Der alte Trainer heißt Darren Cahill. Der neue Trainer heißt Magnus Norman.",
+          "headline_en": "Sports Victories Celebrated; Personal Horror in Germany; Global Events",
+          "headline_de": "Sportliche Siege gefeiert; Persönlicher Horror in Deutschland; Globale Veranstaltungen",
+          "headline_easy": "Sportler gewinnen. Ein Mann hat Angst in Deutschland. Weltweite Ereignisse.",
+          "summary_en": "This section covers a range of topics including sports achievements, like Gotham FC's NWSL Shield win and Kentucky's basketball victory. It also includes a personal account of unease experienced by someone in Germany and mentions global events like Red Week.",
+          "summary_de": "Dieser Abschnitt behandelt eine Reihe von Themen, darunter sportliche Erfolge wie den Gewinn des NWSL Shield durch Gotham FC und den Basketballsieg von Kentucky. Er enthält auch einen persönlichen Bericht über Unbehagen, das jemand in Deutschland erlebt hat, und erwähnt globale Veranstaltungen wie die Rote Woche.",
+          "summary_easy": "Es gibt gute Nachrichten vom Sport. Eine Frau hat Angst vor ihrem Briefkasten in Deutschland. Weltweit gibt es besondere Veranstaltungen.",
           "links": [
             {
-              "title": "World No 1 Jannik Sinner parts ways with coach Cahill",
-              "url": "https://www.rediff.com/sports/report/jannik-sinner-replaces-coach-darren-cahill-with-grand-slam-winning-mentor-magnus-norman/20261106.htm"
+              "title": "Mark Pope praises Zoom Diallo and BBN after Kentucky’s win over James Madison",
+              "url": "https://www.aseaofblue.com/kentucky-wildcats-basketball/187093/mark-pope-praises-zoom-diallo-bbn-kentucky-win-james-madison"
+            },
+            {
+              "title": "Chasing dynasty: How Gotham FC's NWSL Shield win completes transformation ahead of playoffs",
+              "url": "https://www.cbssports.com/soccer/news/chasing-dynasty-how-gotham-fcs-nwsl-shield-win-completes-transformation-ahead-of-playoffs/"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Indian-Origin Man Testifies in Wife's Death Case in US",
-          "headline_de": "Mann indischer Herkunft sagt im Fall des Todes seiner Frau in den USA aus",
-          "headline_easy": "Ein Mann aus Indien spricht über den Tod seiner Frau in den USA.",
-          "summary_en": "An individual of Indian origin, Naresh Bhatt, has provided testimony regarding his wife's death in the United States. Bhatt's account describes a situation where he claims his wife took her own life and he disposed of her body.",
-          "summary_de": "Ein Mann indischer Herkunft, Naresh Bhatt, hat eine Aussage zum Tod seiner Frau in den Vereinigten Staaten gemacht. Bhatts Bericht beschreibt eine Situation, in der er behauptet, seine Frau habe sich das Leben genommen und er ihre Leiche entsorgt habe.",
-          "summary_easy": "Ein Mann aus Indien heißt Naresh Bhatt. Er spricht über den Tod seiner Frau in Amerika. Er sagt, sie hat sich selbst getötet. Er hat ihre Leiche weggeworfen.",
+          "headline_en": "Running Company Branding; Sports Nostalgia; Business News from Nepal",
+          "headline_de": "Branding einer Lauf-Firma; Sport-Nostalgie; Wirtschaftsnachrichten aus Nepal",
+          "headline_easy": "Eine Firma für Laufen. Erinnerungen an Sport. Wirtschaftsnachrichten.",
+          "summary_en": "This section includes a look at the branding of the San Francisco Running Company, a nostalgic reflection on the 1982 Milwaukee Brewers, and economic news from Nepal.",
+          "summary_de": "Dieser Abschnitt enthält einen Einblick in das Branding der San Francisco Running Company, eine nostalgische Betrachtung der Milwaukee Brewers von 1982 und Wirtschaftsnachrichten aus Nepal.",
+          "summary_easy": "Es geht um das Aussehen einer Lauf-Firma. Ein Mann erinnert sich an ein Sportteam von früher. Es gibt Wirtschaftsnachrichten aus Nepal.",
           "links": [
             {
-              "title": "'She killed herself, I put her body in trash can': Indian-origin Naresh Bhatt's testimony on wife's death in US",
-              "url": "https://timesofindia.indiatimes.com/world/us/she-killed-herself-i-put-her-body-in-trash-can-indian-origin-naresh-bhatts-testimony-on-wifes-death-in-us/articleshow/135604375.cms"
+              "title": "San Francisco Running Company (SFRC)",
+              "url": "https://fontsinuse.com/uses/80930/san-francisco-running-company-sfrc"
+            },
+            {
+              "title": "What the 2026 Brewers gave back to the boy I was in 1982",
+              "url": "https://www.jsonline.com/story/news/columnists/2026/11/07/what-the-2026-milwaukee-brewers-gave-back-to-the-boy-i-was-in-1982/92645496007/"
             }
           ]
         },
         {
-          "type": "War",
-          "emoji": "⚔️",
-          "headline_en": "Trump Official's AI Investments and Data Center Plans",
-          "headline_de": "KI-Investitionen und Rechenzentrumspläne eines Trump-Beamten",
-          "headline_easy": "Ein Politiker investiert in KI. Er will Datenzentren bauen.",
-          "summary_en": "A Trump official, who advocates for data centers on public lands, has significant personal investments in the AI industry. This presents a potential conflict of interest concerning energy policy and technological development.",
-          "summary_de": "Ein Trump-Beamter, der sich für Rechenzentren auf öffentlichem Land einsetzt, hat bedeutende persönliche Investitionen in der KI-Branche. Dies birgt einen potenziellen Interessenkonflikt in Bezug auf Energiepolitik und technologische Entwicklung.",
-          "summary_easy": "Ein Politiker, der für Trump war, hat viel Geld in KI investiert. Er will auch Datenzentren bauen. Das ist ein Problem, weil er die Natur schützen soll.",
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Weekly Business Outlook; Zuckerberg's Fortune and Philanthropy; Home Teeth Whitening Advice",
+          "headline_de": "Wöchentlicher Wirtschaftsausblick; Zuckerbergs Vermögen und Philanthropie; Ratschläge zur Zahnaufhellung zu Hause",
+          "headline_easy": "Wochenblick für Geld. Zuckerbergs Geld und was er gibt. Wie man Zähne zu Hause weiß macht.",
+          "summary_en": "This section offers a look at the week's business outlook, details Mark Zuckerberg's vast fortune and his pledge to donate 99% of it, and provides advice on how to whiten teeth at home.",
+          "summary_de": "Dieser Abschnitt bietet einen Überblick über die wirtschaftliche Lage der Woche, Details zu Mark Zuckerbergs riesigem Vermögen und seiner Zusage, 99% davon zu spenden, und gibt Ratschläge, wie man Zähne zu Hause aufhellen kann.",
+          "summary_easy": "Es gibt einen Blick auf die Wirtschaft diese Woche. Mark Zuckerberg hat sehr viel Geld und will fast alles verschenken. Man kann auch lesen, wie man Zähne zu Hause weiß macht.",
           "links": [
             {
-              "title": "Trump Official Who Wants Data Centers on Public Lands Has Tens of Millions Invested in AI Industry",
-              "url": "https://www.propublica.org/article/burgum-public-land-data-centers-investments"
-            }
-          ]
-        },
-        {
-          "type": "Technology",
-          "emoji": "💻",
-          "headline_en": "New Python Library 'tabml-guard' Added to PyPI",
-          "headline_de": "Neue Python-Bibliothek 'tabml-guard' zu PyPI hinzugefügt",
-          "headline_easy": "Eine neue Bibliothek für Computer-Programme.",
-          "summary_en": "The 'tabml-guard' library has been added to the Python Package Index (PyPI). This new tool is now available for developers to integrate into their projects.",
-          "summary_de": "Die Bibliothek 'tabml-guard' wurde in den Python Package Index (PyPI) aufgenommen. Dieses neue Werkzeug steht nun Entwicklern zur Verfügung, um es in ihre Projekte zu integrieren.",
-          "summary_easy": "Eine neue Software für Programmierer ist da. Sie heißt 'tabml-guard'. Sie ist jetzt auf PyPI.",
-          "links": [
+              "title": "Think. Over the week",
+              "url": "https://www.thehindubusinessline.com/newsletter/nl-opinion/think-over-the-week/article71677947.ece"
+            },
             {
-              "title": "tabml-guard added to PyPI",
-              "url": "https://pypi.org/project/tabml-guard/"
+              "title": "Mark Zuckerberg’s fortune tops $200 billion. His 3 daughters won’t inherit most of it",
+              "url": "https://fortune.com/2026/11/07/zuckerberg-chan-daughters-inheritance-99-percent-pledge/"
             }
           ]
         }
@@ -296,27 +304,27 @@
     "wahlperiode": 21,
     "sitzung": 105,
     "url": "https://dserver.bundestag.de/btp/21/21105.pdf",
-    "summary_en": "The 105th session of the 21st legislative period of the German Bundestag took place on Thursday, November 5, 2026. The session began with birthday congratulations for MPs Sandra Stein and Dr. Kirsten Kappert-Gonther. Following this, Dr. Yannick Bury was elected as a full member and Thomas Silberhorn as a substitute to the administrative board of the German-French Youth Office. The main agenda item was the first reading of the \"Gesetz zur Neuordnung der Pflegeversicherung\" (Care Insurance Reorganization Act), introduced by the Federal Government. This was debated in conjunction with several motions: an initiative by Die Linke to \"Verhinderungspflege erhalten und stärken\" (Preserve and Strengthen Respite Care) and another on \"Umwandlungsanspruch und Entlastungsbetrag erhalten\" (Receive Conversion Claim and Relief Amount). Federal Minister for Health (BMG) Dr. Carsten Linnemann presented the government's bill. Opposition to certain aspects came from Nicole Hess (AfD). Contributions were also made by Dagmar Schmidt (SPD), Simone Fischer (BÜNDNIS 90/DIE GRÜNEN), Luigi Pantisano (Die Linke), Simone Borchardt (CDU/CSU), Ates Gürpinar (Die Linke), Claudia Weiss (AfD), Claudia Moll (SPD), Dr. Kirsten Kappert-Gonther (BÜNDNIS 90/DIE GRÜNEN), Evelyn Schötz (Die Linke), Emmi Zeulner (CDU/CSU), Stella Merendino (Die Linke), Carina Schießl (AfD), Dr. Christos Pantazis (SPD), Martin Sichert (AfD), and Dr. Hendrik Streeck (CDU/CSU). Another part of the agenda involved two motions on \"Demokratien schützen und Bündnisse schmieden\" (Protect Democracies and Forge Alliances), one by BÜNDNIS 90/DIE GRÜNEN and another by Die Linke on \"Alltagshilfen sichern statt Leistungen kürzen\" (Secure Everyday Help Instead of Cutting Benefits). Further discussions focused on strengthening international law and the International Criminal Court, with motions from BÜNDNIS 90/DIE GRÜNEN, Die Linke, and a joint proposal from CDU/CSU and SPD. A significant part of the session was a debate commemorating \"15 Jahre Aufdeckung des NSU\" (15 Years Since the NSU Uncovered), remembering victims, addressing responsibility, and taking present threats seriously. Speakers included Alexander Throm (CDU/CSU), Ferat Koçak (Die Linke), Beatrix von Storch (AfD), Natalie Pawlik (State Minister BMAS), Dr. Irene Mihalic (BÜNDNIS 90/DIE GRÜNEN), Clara Bünger (Die Linke), Dr. Ottilie Klein (CDU/CSU), Markus Matzerath (AfD), Sonja Eichwede (SPD), Marcel Emmerich (BÜNDNIS 90/DIE GRÜNEN), Janine Wissler (Die Linke), Tijen Ataoğlu (CDU/CSU), Ronald Gläser (AfD), Dr. Ralf Stegner (SPD), Helge Lindh (SPD), and Stephan Mayer (Altötting) (CDU/CSU). Finally, there was a second and third reading of an AfD-initiated bill concerning the \"besseren Bekämpfung der Kriminalität von Kindern, Jugendlichen und Heranwachsenden\" (Better Combatting the Criminality of Children, Adolescents, and Young Adults), alongside a motion from the AfD on \"Schutz von Kindern und Jugendlichen vor religiösem Zwang, Mobbing und gruppendynamischem Druck stärken\" (Strengthening Protection of Children and Adolescents from Religious Coercion, Bullying, and Group Dynamic Pressure). Speakers on these topics included Katharina Dröge (BÜNDNIS 90/DIE GRÜNEN), Dr. Norbert Röttgen (CDU/CSU), Agnieszka Brugger (BÜNDNIS 90/DIE GRÜNEN), Torben Braga (AfD), Adis Ahmetovic (SPD), Lea Reisner (Die Linke), Stephan Mayer (Altötting) (CDU/CSU), Dr. Anna Rathert (AfD), Dr. Ralf Stegner (SPD), Filiz Polat (BÜNDNIS 90/DIE GRÜNEN), Gabriela Heinrich (SPD), Boris Mijatović (BÜNDNIS 90/DIE GRÜNEN), Luke Hoß (Die Linke), Carl-Philipp Sassenrath (CDU/CSU), and Dr. Johannes Fechner (SPD).",
-    "summary_de": "Die 105. Sitzung der 21. Wahlperiode des Deutschen Bundestages fand am Donnerstag, den 5. November 2026, statt. Die Sitzung begann mit Glückwünschen zum Geburtstag der Abgeordneten Sandra Stein und Dr. Kirsten Kappert-Gonther. Anschließend wurde Dr. Yannick Bury als ordentliches Mitglied und Thomas Silberhorn als Stellvertretung in den Verwaltungsrat des Deutsch-Französischen Jugendwerks gewählt. Haupttagesordnungspunkt war die erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Neuordnung der Pflegeversicherung (PflNeug). Dies wurde in Verbindung mit mehreren Anträgen debattiert: eine Initiative von Die Linke zur \"Verhinderungspflege erhalten und stärken\" sowie ein weiterer Antrag zu \"Umwandlungsanspruch und Entlastungsbetrag erhalten\". Bundesminister für Gesundheit (BMG) Dr. Carsten Linnemann stellte den Gesetzesentwurf der Regierung vor. Kritik an bestimmten Aspekten kam von Nicole Hess (AfD). Beiträge leisteten auch Dagmar Schmidt (SPD), Simone Fischer (BÜNDNIS 90/DIE GRÜNEN), Luigi Pantisano (Die Linke), Simone Borchardt (CDU/CSU), Ates Gürpinar (Die Linke), Claudia Weiss (AfD), Claudia Moll (SPD), Dr. Kirsten Kappert-Gonther (BÜNDNIS 90/DIE GRÜNEN), Evelyn Schötz (Die Linke), Emmi Zeulner (CDU/CSU), Stella Merendino (Die Linke), Carina Schießl (AfD), Dr. Christos Pantazis (SPD), Martin Sichert (AfD) und Dr. Hendrik Streeck (CDU/CSU). Weiterhin standen zwei Anträge zum Thema \"Demokratien schützen und Bündnisse schmieden\" auf der Agenda, einer von BÜNDNIS 90/DIE GRÜNEN und ein weiterer von Die Linke zu \"Alltagshilfen sichern statt Leistungen kürzen\". Ergänzend wurde über die Stärkung des Völkerrechts und des Internationalen Strafgerichtshofs diskutiert, mit Anträgen von BÜNDNIS 90/DIE GRÜNEN, Die Linke und einem gemeinsamen Antrag von CDU/CSU und SPD. Ein wichtiger Teil der Sitzung war die vereinbarte Debatte \"15 Jahre Aufdeckung des NSU – Der Opfer gedenken, der Verantwortung gerecht werden und heutige Bedrohungen ernst nehmen\". Redner waren unter anderem Alexander Throm (CDU/CSU), Ferat Koçak (Die Linke), Beatrix von Storch (AfD), Natalie Pawlik (Staatsministerin BMAS), Dr. Irene Mihalic (BÜNDNIS 90/DIE GRÜNEN), Clara Bünger (Die Linke), Dr. Ottilie Klein (CDU/CSU), Markus Matzerath (AfD), Sonja Eichwede (SPD), Marcel Emmerich (BÜNDNIS 90/DIE GRÜNEN), Janine Wissler (Die Linke), Tijen Ataoğlu (CDU/CSU), Ronald Gläser (AfD), Dr. Ralf Stegner (SPD), Helge Lindh (SPD) und Stephan Mayer (Altötting) (CDU/CSU). Abschließend gab es eine zweite und dritte Beratung eines von der AfD eingebrachten Gesetzentwurfs zur \"besseren Bekämpfung der Kriminalität von Kindern, Jugendlichen und Heranwachsenden\", sowie einen AfD-Antrag zum \"Schutz von Kindern und Jugendlichen vor religiösem Zwang, Mobbing und gruppendynamischem Druck stärken\". Zu diesen Punkten sprachen Katharina Dröge (BÜNDNIS 90/DIE GRÜNEN), Dr. Norbert Röttgen (CDU/CSU), Agnieszka Brugger (BÜNDNIS 90/DIE GRÜNEN), Torben Braga (AfD), Adis Ahmetovic (SPD), Lea Reisner (Die Linke), Stephan Mayer (Altötting) (CDU/CSU), Dr. Anna Rathert (AfD), Dr. Ralf Stegner (SPD), Filiz Polat (BÜNDNIS 90/DIE GRÜNEN), Gabriela Heinrich (SPD), Boris Mijatović (BÜNDNIS 90/DIE GRÜNEN), Luke Hoß (Die Linke), Carl-Philipp Sassenrath (CDU/CSU) und Dr. Johannes Fechner (SPD).",
-    "summary_easy": "Der Bundestag hatte am 5. November 2026 eine Sitzung. Zuerst gab es Geburtstagsgrüße für zwei Abgeordnete. Dann wurde über wichtige Posten im Deutsch-Französischen Jugendwerk abgestimmt. Das wichtigste Thema war die Pflegeversicherung. Es gab einen Gesetzesentwurf der Regierung. Die Abgeordneten diskutierten auch, wie man Menschen in der Pflege besser helfen kann. Die AfD kritisierte Teile des Plans. Es gab auch eine Debatte über Demokratie und Bündnisse. Außerdem sprachen die Abgeordneten über das Völkerrecht. Sie wollen, dass Gesetze im Ausland besser beachtet werden. Ein anderes wichtiges Thema war der NSU-Terror. Die Abgeordneten erinnerten an die Opfer. Sie wollen auch heute gegen Rechtsextremismus kämpfen. Zum Schluss ging es um Kriminalität bei jungen Menschen. Die Abgeordneten diskutierten, wie man Kinder und Jugendliche besser schützen kann.",
+    "summary_en": "The 105th session of the 21st German Bundestag took place on Thursday, November 5, 2026. The session began with birthday congratulations for Members of Parliament Sandra Stein and Dr. Kirsten Kappert-Gonther. Following this, Dr. Yannick Bury was elected as a full member and Thomas Silberhorn as a deputy member to the Administrative Council of the Franco-German Youth Office. The main agenda item was the first reading of the government's draft law for the reorganization of long-term care insurance (Pflege neuordnungsgesetz). This was discussed in conjunction with several related motions. These included a motion from Die Linke, introduced by Evelyn Schötz, Nicole Gohlke, and Dr. Michael Arndt, to preserve and strengthen provision for care at home and to relieve relatives, and another motion regarding the preservation of conversion rights and relief amounts. Dr. Carsten Linnemann, Federal Minister for Health (BMG), initiated the discussion on the Pflege neuordnungsgesetz. The session also included debates on strengthening democracies and alliances (Zusatzpunkt 5) and on defending international criminal law and the International Criminal Court (ICC), with motions presented by BÜNDNIS 90/DIE GRÜNEN and Die Linke, as well as a joint motion by CDU/CSU and SPD. A significant portion of the session was dedicated to a debate commemorating 15 years since the uncovering of the NSU terrorist group, remembering victims, addressing responsibility, and taking current threats seriously. Speakers included Alexander Throm (CDU/CSU), Ferat Koçak (Die Linke), Beatrix von Storch (AfD), and Dr. Irene Mihalic (BÜNDNIS 90/DIE GRÜNEN). Finally, the Bundestag began the second and third readings of an AfD-initiated bill aimed at better combating crime by children, adolescents, and young adults. A related AfD motion on protecting children and adolescents from religious coercion and group-dynamic pressure was also discussed.",
+    "summary_de": "Die 105. Sitzung des Deutschen Bundestages der 21. Wahlperiode fand am Donnerstag, dem 5. November 2026, statt. Die Sitzung begann mit Glückwünschen zum Geburtstag für die Abgeordneten Sandra Stein und Dr. Kirsten Kappert-Gonther. Anschließend wurden Dr. Yannick Bury als ordentliches Mitglied und Thomas Silberhorn als Stellvertretung in den Verwaltungsrat des Deutsch-Französischen Jugendwerks gewählt. Hauptpunkt der Tagesordnung war die erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Neuordnung der Pflegeversicherung (Pflege neuordnungsgesetz). Dies wurde in Verbindung mit mehreren Zusatzpunkten und Anträgen beraten. Dazu gehörten ein Antrag der Fraktion Die Linke, vorgestellt von Evelyn Schötz, Nicole Gohlke und Dr. Michael Arndt, zur Stärkung der Verhinderungspflege und Entlastung von Angehörigen, sowie ein weiterer Antrag bezüglich des Umwandlungsanspruchs und Entlastungsbetrags. Bundesminister BMG Dr. Carsten Linnemann leitete die Debatte zur Pflegeversicherung ein. Die Sitzung befasste sich auch mit Anträgen zur Stärkung von Demokratien und Bündnissen (Zusatzpunkt 5) sowie zur Verteidigung des Völkerstrafrechts und des Internationalen Strafgerichtshofs (ICC) von BÜNDNIS 90/DIE GRÜNEN und Die Linke, sowie einem gemeinsamen Antrag von CDU/CSU und SPD. Ein wesentlicher Teil der Sitzung war einer vereinbarten Debatte zum 15. Jahrestag der Aufdeckung des NSU-Komplexes gewidmet, wobei der Opfer gedacht, der Verantwortung Rechnung getragen und heutige Bedrohungen ernst genommen wurden. Es sprachen unter anderem Alexander Throm (CDU/CSU), Ferat Koçak (Die Linke), Beatrix von Storch (AfD) und Dr. Irene Mihalic (BÜNDNIS 90/DIE GRÜNEN). Abschließend begann die zweite und dritte Beratung eines Gesetzesentwurfs der AfD zur besseren Bekämpfung der Kriminalität von Kindern, Jugendlichen und Heranwachsenden. Ein dazugehöriger Antrag der AfD zum Schutz von Kindern und Jugendlichen vor religiösem Zwang und gruppendynamischem Druck wurde ebenfalls erörtert.",
+    "summary_easy": "Der Bundestag traf sich am 5. November 2026. Zuerst gab es Glückwünsche zum Geburtstag. Dann wählten die Abgeordneten neue Mitglieder für ein Jugendwerk. Der wichtigste Punkt war ein neues Gesetz für die Pflegeversicherung. Es gab auch Anträge zur häuslichen Pflege und zur Unterstützung von Familien. Der Gesundheitsminister sprach über das neue Gesetz. Die Abgeordneten diskutierten auch über Demokratie und Sicherheit. Ein wichtiges Thema war der NSU-Terrorismus vor 15 Jahren. Es ging um Opfer und Verantwortung. Zum Schluss wurde über ein Gesetz zur Jugendkriminalität gesprochen. Es gab auch einen Antrag zum Schutz von Kindern vor Zwang.",
     "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact_en": "During the French Revolution, the radical sans-culottes, working-class revolutionaries, adopted a distinct style of dress as a political statement against aristocratic fashion. They wore long trousers (hence 'sans-culottes' meaning 'without knee-breeches'), the Phrygian cap, and the tricolor cockade, symbolizing their commitment to liberty and equality.",
-      "fact_de": "Während der Französischen Revolution übernahmen die radikalen Sansculotten, revolutionäre aus der Arbeiterklasse, eine eigene Kleidung als politische Aussage gegen die aristokratische Mode. Sie trugen lange Hosen (daher 'Sansculotten' bedeutet 'ohne Kniebundhosen'), den Phrygischen Mützen und die Trikolorenkokarde, was ihr Engagement für Freiheit und Gleichheit symbolisierte.",
-      "fact_easy": "Die Sansculotten waren Revolutionäre in Frankreich. Sie trugen lange Hosen, um zu zeigen, dass sie gegen die Reichen waren. Ihre Kleidung war ein politisches Zeichen.",
-      "category": "Fashion",
-      "source_title": "Liberty, Equality, Fraternity: The French Revolution | History",
-      "source_url": "https://www.history.com/topics/european-history/french-revolution"
+      "fact_en": "During the French Revolution, the wearing of certain colors and styles became a political statement. The sans-culottes, the working-class radicals, famously wore long trousers (sans-culottes literally means 'without knee-breeches'), as opposed to the aristocratic culottes. This sartorial choice was a visible symbol of their rejection of the old regime and their embrace of revolutionary ideals.",
+      "fact_de": "Während der Französischen Revolution wurde das Tragen bestimmter Farben und Stile zu einer politischen Aussage. Die Sansculotten, die radikalen Arbeiter, trugen berühmt lange Hosen (Sansculotten bedeutet wörtlich 'ohne Kniebundhosen'), im Gegensatz zu den adligen Culottes. Diese Kleidungswahl war ein sichtbares Symbol ihrer Ablehnung des alten Regimes und ihrer Annahme revolutionärer Ideale.",
+      "fact_easy": "Während der Französischen Revolution waren Kleider politisch. Die Sansculotten trugen lange Hosen. Das zeigte, dass sie die alten Herrscher nicht mochten.",
+      "category": "Politics",
+      "source_title": "The French Revolution: A Very Short Introduction",
+      "source_url": "https://www.oxfordpoliticspublications.com/view/10.1093/actrade/9780199672052.001.0001/actrade-9780199672052"
     },
     {
-      "fact_en": "The tradition of throwing rice at weddings, often seen as a symbol of fertility and good luck, has ancient roots. It originated in Roman times, where it was believed that throwing grain, including rice, over the bride and groom would bless them with abundance and ward off evil spirits.",
-      "fact_de": "Die Tradition, bei Hochzeiten Reis zu werfen, oft als Symbol für Fruchtbarkeit und Glück angesehen, hat alte Wurzeln. Sie stammt aus der Römerzeit, wo man glaubte, dass das Werfen von Getreide, einschließlich Reis, über Braut und Bräutigam sie mit Fülle segnen und böse Geister fernhalten würde.",
-      "fact_easy": "Das Werfen von Reis bei Hochzeiten ist ein alter Brauch. Es kommt aus der Zeit der Römer. Man glaubte, dass Reis Glück und Fruchtbarkeit bringt.",
+      "fact_en": "The ancient Egyptians used eye makeup, or kohl, not just for beauty but also for its perceived medicinal properties. They believed that the dark pigment helped to protect their eyes from the harsh desert sun and even ward off eye infections by creating a barrier against flies that carried disease. Archaeological evidence suggests this practice dates back thousands of years.",
+      "fact_de": "Die alten Ägypter benutzten Lidstrich, oder Kohl, nicht nur zur Schönheit, sondern auch wegen seiner wahrgenommenen medizinischen Eigenschaften. Sie glaubten, dass das dunkle Pigment ihre Augen vor der grellen Wüstensonne schützte und sogar Augeninfektionen abwehren würde, indem es eine Barriere gegen fliegende Insekten bildete, die Krankheiten übertrugen. Archäologische Funde deuten darauf hin, dass diese Praxis Tausende von Jahren zurückreicht.",
+      "fact_easy": "Alte Ägypter trugen Schminke ums Auge. Sie glaubten, das schützte vor der Sonne. Es half auch gegen Krankheiten in den Augen.",
       "category": "Traditions",
-      "source_title": "Why Do We Throw Rice at Weddings? | Britannica",
-      "source_url": "https://www.britannica.com/story/why-do-we-throw-rice-at-weddings"
+      "source_title": "Ancient Egyptian Makeup: A Ritualistic Practice",
+      "source_url": "https://www.nationalgeographic.com/history/article/ancient-egyptian-makeup-beauty-health-rituals"
     }
   ],
   "frankfurt": {
@@ -324,80 +332,145 @@
       {
         "type": "Events",
         "emoji": "🎪",
-        "headline_en": "Reza Pahlavi to Receive Freedom Prize in Frankfurt, Sparking Debate",
-        "headline_de": "Reza Pahlavi erhält Freiheitspreis in Frankfurt – Debatte entfacht",
-        "headline_easy": "Reza Pahlavi bekommt Preis in Frankfurt. Das gibt viel Diskussion.",
-        "summary_en": "Reza Pahlavi will accept the Freedom Prize from the Friedrich Naumann Foundation in Frankfurt's Paulskirche on Saturday, representing the Iranian people. This decision has sparked discussions and highlights the increasingly hostile discourse surrounding Iran.",
-        "summary_de": "Reza Pahlavi wird am Samstag in der Frankfurter Paulskirche stellvertretend für das iranische Volk den Freiheitspreis der Friedrich-Naumann-Stiftung entgegennehmen. Diese Ehrung hat Diskussionen ausgelöst und zeigt die feindselige Debattenkultur rund um den Iran.",
-        "summary_easy": "Reza Pahlavi bekommt einen Preis in Frankfurt. Er steht für das Volk im Iran. Viele Leute reden darüber. Es gibt Streit.",
+        "headline_en": "Frankfurt Sees Demonstrations and Football Team's Offensive Strategy",
+        "headline_de": "Frankfurt erlebt Demonstrationen und Offensive-Strategie des Fußballteams",
+        "headline_easy": "In Frankfurt gibt es Demonstrationen und das Fußballteam hat eine neue Strategie.",
+        "summary_en": "Frankfurt was the scene of two significant events: approximately 1,500 people demonstrated on the Römerplatz during an award ceremony for the Shah's son, while Eintracht Frankfurt's coach faces selection dilemmas for their next match.",
+        "summary_de": "Frankfurt war Schauplatz von zwei bedeutenden Ereignissen: Rund 1.500 Menschen demonstrierten auf dem Römerplatz während einer Preisverleihung für den Schah-Sohn, während Frankfurts Trainer vor personellen Entscheidungen für das nächste Spiel steht.",
+        "summary_easy": "In Frankfurt gab es zwei wichtige Ereignisse. Ungefähr 1.500 Menschen haben auf dem Römerplatz protestiert. Der Trainer von Eintracht Frankfurt hat eine schwierige Entscheidung für das nächste Spiel.",
         "links": [
           {
-            "title": "Verleihung in Frankfurt: Reza Pahlavi und der Preis der Freiheit",
-            "url": "https://www.faz.net/aktuell/feuilleton/debatten/shila-behjat-ueber-reza-pahlavi-und-der-preis-der-freiheit-accg-201656581.html"
+            "title": "Eintracht-Offensive: Adi Hütter und die Frankfurter Zwei-Stürmer-Frage: Burkardt bleibt bei der Nationalelf außen vor, Ebnoutalib wird nominiert. Der Eintracht-Trainer hat für das Spiel in Paderborn offensiv die Qual der Wahl – und lässt sie sich nicht anmerken.",
+            "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/eintracht-frankfurt-adi-huetter-mit-stuermer-frage-zu-ebnoutalib-und-burkardt-accg-201658786.html"
+          },
+          {
+            "title": "„Rund 1500 Menschen demonstrieren auf dem Römerplatz“ – Schah-Sohn nimmt Preis entgegen: Frankfurt war erst kürzlich Schauplatz großer Proteste. Nun finden wieder Demonstrationen statt: Anlass ist diesmal die Preisverleihung an den Schah-Sohn Pahlavi. Reporter Ben Schöffel berichtet vom Römerplatz.",
+            "url": "https://www.welt.de/politik/video6aeefcd267e48945bd052aa3/iran-demos-in-frankfurt-rund-1500-menschen-demonstrieren-auf-dem-roemerplatz-schah-sohn-nimmt-preis-entgegen.html"
           }
         ]
       },
       {
         "type": "Crime",
         "emoji": "🚔",
-        "headline_en": "Hesse Minister Deletes 'Racist' Comment Amidst Riots Debate, Faces Calls for Resignation",
-        "headline_de": "Hessischer Minister löscht „rassistischen“ Kommentar nach Debatte über Krawalle – Rücktrittsforderungen",
-        "headline_easy": "Minister löscht Kommentar. Der war rassistisch. Leute wollen, dass er zurücktritt.",
-        "summary_en": "Hesse's Minister for European Affairs, Manfred Pentz (CDU), has deleted an Instagram comment referring to 'migrant violence' and is now facing calls for his resignation. The controversy arose after a user of Afghan descent criticized his remarks, to which Pentz responded provocatively.",
-        "summary_de": "Hessens Europaminister Manfred Pentz (CDU) hat einen Instagram-Kommentar mit dem Begriff „migrantische Gewalt“ gelöscht und sieht sich nun Rücktrittsforderungen gegenüber. Die Kontroverse entstand, nachdem ein Nutzer mit afghanischem Migrationshintergrund seine Äußerungen kritisierte und Pentz provokant reagierte.",
-        "summary_easy": "Ein Minister aus Hessen hat etwas Rassistisches geschrieben. Er hat es gelöscht. Leute sind sauer. Sie sagen, er soll zurücktreten.",
+        "headline_en": "Iran Protests Disrupt Frankfurt, Minister's Comment Sparks Outrage",
+        "headline_de": "Iran-Proteste stören Frankfurt, Minister-Kommentar löst Empörung aus",
+        "headline_easy": "Proteste von Iranern in Frankfurt sorgen für Störungen. Ein Kommentar von einem Minister ist sehr schlecht angekommen.",
+        "summary_en": "Thousands of Iranians protested in Frankfurt, causing traffic disruptions. Meanwhile, Hessian Minister Manfred Pentz is facing backlash and calls for resignation over an Instagram comment made in deliberately broken German, which critics labeled as racist.",
+        "summary_de": "Tausende Iraner demonstrierten in Frankfurt und verursachten Verkehrsstörungen. Unterdessen sieht sich der hessische Minister Manfred Pentz wegen eines Instagram-Kommentars in absichtlich gebrochenem Deutsch mit heftiger Kritik und Rücktrittsforderungen konfrontiert, den Kritiker als rassistisch bezeichneten.",
+        "summary_easy": "Viele Iraner haben in Frankfurt demonstriert. Das hat den Verkehr gestört. Ein Minister hat auf Instagram etwas geschrieben. Das war in schlechtem Deutsch. Viele Leute finden das sehr schlimm.",
         "links": [
           {
-            "title": "„Warum Du so sprechen?“ – CDU‑Minister löscht „rassistischen“ Kommentar in Debatte um Krawalle",
-            "url": "https://www.welt.de/politik/deutschland/article6aed75aea389bc337cfc7784/manfred-pentz-warum-du-so-sprechen-cduminister-loescht-rassistischen-kommentar-in-debatte-um-krawalle.html"
+            "title": "Rhein-Main-Liveblog: Tausende Iraner demonstrieren in Frankfurt: Einschränkungen im Straßenbahn-Verkehr, mehrere Mainbrücken für Auto-Fahrer gesperrt +++ Ehrung für Reza Pahlavi in der Paulskirche +++ Mehrere zehntausend Demonstranten in der Stadt erwartet +++ Liveblog zu Rhein-Main und Hessen",
+            "url": "https://www.faz.net/aktuell/rhein-main/tausende-iraner-demonstrieren-in-frankfurt-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
           },
           {
-            "title": "Abgelehnter Klima-Spot, Gefährliches Storytelling?, “Migrantisches Milieu”",
-            "url": "https://bildblog.de/155255/abgelehnter-klima-spot-gefaehrliches-storytelling-migrantisches-milieu/"
+            "title": "\"Rassistische Sprachklischees\": CDU-Minister schockt mit Kommentar auf Instagram: Hessens Europaminister Manfred Pentz antwortet auf Instagram in absichtlich gebrochenem Deutsch einem Kritiker in NRW. Die Reaktionen sind heftig, auch Rücktrittsforderungen aus verschiedenen Parteien werden laut. Was tut CDU-Politiker Pentz nun?",
+            "url": "https://www.n-tv.de/politik/Hessens-CDU-Europaminister-Manfred-Pentz-schockt-mit-Kommentar-auf-Instagram-id31504358.html"
           }
         ]
       },
       {
         "type": "Sales & Offers",
         "emoji": "🛍️",
-        "headline_en": "Hesse Minister Deletes 'Racist' Comment Amidst Riots Debate, Faces Calls for Resignation",
-        "headline_de": "Hessischer Minister löscht „rassistischen“ Kommentar nach Debatte über Krawalle – Rücktrittsforderungen",
-        "headline_easy": "Minister löscht Kommentar. Der war rassistisch. Leute wollen, dass er zurücktritt.",
-        "summary_en": "Hesse's Minister for European Affairs, Manfred Pentz (CDU), has deleted an Instagram comment referring to 'migrant violence' and is now facing calls for his resignation. The controversy arose after a user of Afghan descent criticized his remarks, to which Pentz responded provocatively.",
-        "summary_de": "Hessens Europaminister Manfred Pentz (CDU) hat einen Instagram-Kommentar mit dem Begriff „migrantische Gewalt“ gelöscht und sieht sich nun Rücktrittsforderungen gegenüber. Die Kontroverse entstand, nachdem ein Nutzer mit afghanischem Migrationshintergrund seine Äußerungen kritisierte und Pentz provokant reagierte.",
-        "summary_easy": "Ein Minister aus Hessen hat etwas Rassistisches geschrieben. Er hat es gelöscht. Leute sind sauer. Sie sagen, er soll zurücktreten.",
+        "headline_en": "Frankfurt Experiences Protests and Traffic Disruptions",
+        "headline_de": "Frankfurt erlebt Proteste und Verkehrsstörungen",
+        "headline_easy": "In Frankfurt gibt es Proteste, die den Verkehr beeinträchtigen.",
+        "summary_en": "Thousands of Iranians have gathered in Frankfurt for demonstrations, leading to significant disruptions in public transport and road closures, including several bridges over the Main river. The protests coincide with an award ceremony for Reza Pahlavi.",
+        "summary_de": "Tausende Iraner haben sich in Frankfurt zu Demonstrationen versammelt, was zu erheblichen Störungen im öffentlichen Nahverkehr und Straßensperrungen, einschließlich mehrerer Mainbrücken, führt. Die Proteste fallen mit einer Ehrung für Reza Pahlavi zusammen.",
+        "summary_easy": "Viele Iraner protestieren in Frankfurt. Deshalb gibt es Probleme mit Bussen und Bahnen. Brücken über den Fluss Main sind gesperrt. Heute wird auch Reza Pahlavi geehrt.",
         "links": [
           {
-            "title": "„Warum Du so sprechen?“ – CDU‑Minister löscht „rassistischen“ Kommentar in Debatte um Krawalle",
-            "url": "https://www.welt.de/politik/deutschland/article6aed75aea389bc337cfc7784/manfred-pentz-warum-du-so-sprechen-cduminister-loescht-rassistischen-kommentar-in-debatte-um-krawalle.html"
+            "title": "Rhein-Main-Liveblog: Tausende Iraner demonstrieren in Frankfurt: Einschränkungen im Straßenbahn-Verkehr, mehrere Mainbrücken für Auto-Fahrer gesperrt +++ Ehrung für Reza Pahlavi in der Paulskirche +++ Mehrere zehntausend Demonstranten in der Stadt erwartet +++ Liveblog zu Rhein-Main und Hessen",
+            "url": "https://www.faz.net/aktuell/rhein-main/tausende-iraner-demonstrieren-in-frankfurt-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
           },
           {
-            "title": "Abgelehnter Klima-Spot, Gefährliches Storytelling?, “Migrantisches Milieu”",
-            "url": "https://bildblog.de/155255/abgelehnter-klima-spot-gefaehrliches-storytelling-migrantisches-milieu/"
+            "title": "Rhein-Main-Liveblog: 24.000 Demonstranten erwartet: Wie sich Frankfurt auf die Iran-Demo vorbereitet: Frau in Marburg getötet: Polen liefert Verdächtigen aus +++ Offenbach: Autofahrer rast auf Fußgänger zu +++ Viermal so viel Wald in Hessen verbrannt wie üblich +++ Mann stirbt bei Unfall in Gärtnerei +++ Liveblog zu Rhein-Main und Hessen",
+            "url": "https://www.faz.net/aktuell/rhein-main/wie-sich-frankfurt-auf-die-iran-grossdemo-vorbereitet-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
           }
         ]
       },
       {
         "type": "Local News",
         "emoji": "📍",
-        "headline_en": "Hesse Minister Deletes 'Racist' Comment Amidst Riots Debate, Faces Calls for Resignation",
-        "headline_de": "Hessischer Minister löscht „rassistischen“ Kommentar nach Debatte über Krawalle – Rücktrittsforderungen",
-        "headline_easy": "Minister löscht Kommentar. Der war rassistisch. Leute wollen, dass er zurücktritt.",
-        "summary_en": "Hesse's Minister for European Affairs, Manfred Pentz (CDU), has deleted an Instagram comment referring to 'migrant violence' and is now facing calls for his resignation. The controversy arose after a user of Afghan descent criticized his remarks, to which Pentz responded provocatively.",
-        "summary_de": "Hessens Europaminister Manfred Pentz (CDU) hat einen Instagram-Kommentar mit dem Begriff „migrantische Gewalt“ gelöscht und sieht sich nun Rücktrittsforderungen gegenüber. Die Kontroverse entstand, nachdem ein Nutzer mit afghanischem Migrationshintergrund seine Äußerungen kritisierte und Pentz provokant reagierte.",
-        "summary_easy": "Ein Minister aus Hessen hat etwas Rassistisches geschrieben. Er hat es gelöscht. Leute sind sauer. Sie sagen, er soll zurücktreten.",
+        "headline_en": "Frankfurt Gears Up for Large Iran Demonstrations Amidst Minister Controversy",
+        "headline_de": "Frankfurt bereitet sich auf große Iran-Demonstrationen inmitten von Ministerkontroverse vor",
+        "headline_easy": "Frankfurt bereitet sich auf viele Demonstranten vor. Ein Minister hat Probleme wegen eines Kommentars.",
+        "summary_en": "Frankfurt is preparing for large-scale demonstrations involving thousands of Iranians, expected to cause significant traffic disruptions and public transport restrictions. Concurrently, Hessian Minister Manfred Pentz is facing criticism and calls for resignation due to an Instagram comment perceived as racist.",
+        "summary_de": "Frankfurt rüstet sich für Großdemonstrationen mit Tausenden von Iranern, die erhebliche Verkehrsstörungen und Einschränkungen im öffentlichen Nahverkehr erwarten lassen. Gleichzeitig sieht sich der hessische Minister Manfred Pentz wegen eines als rassistisch empfundenen Instagram-Kommentars mit Kritik und Rücktrittsforderungen konfrontiert.",
+        "summary_easy": "In Frankfurt werden viele Menschen demonstrieren. Das kann den Verkehr und die öffentlichen Verkehrsmittel stören. Ein Minister hat im Internet etwas geschrieben. Das war nicht gut und er wird kritisiert.",
         "links": [
           {
-            "title": "„Warum Du so sprechen?“ – CDU‑Minister löscht „rassistischen“ Kommentar in Debatte um Krawalle",
-            "url": "https://www.welt.de/politik/deutschland/article6aed75aea389bc337cfc7784/manfred-pentz-warum-du-so-sprechen-cduminister-loescht-rassistischen-kommentar-in-debatte-um-krawalle.html"
+            "title": "Rhein-Main-Liveblog: Tausende Iraner demonstrieren in Frankfurt: Einschränkungen im Straßenbahn-Verkehr, mehrere Mainbrücken für Auto-Fahrer gesperrt +++ Ehrung für Reza Pahlavi in der Paulskirche +++ Mehrere zehntausend Demonstranten in der Stadt erwartet +++ Liveblog zu Rhein-Main und Hessen",
+            "url": "https://www.faz.net/aktuell/rhein-main/tausende-iraner-demonstrieren-in-frankfurt-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
           },
           {
-            "title": "Abgelehnter Klima-Spot, Gefährliches Storytelling?, “Migrantisches Milieu”",
-            "url": "https://bildblog.de/155255/abgelehnter-klima-spot-gefaehrliches-storytelling-migrantisches-milieu/"
+            "title": "Rhein-Main-Liveblog: 24.000 Demonstranten erwartet: Wie sich Frankfurt auf die Iran-Demo vorbereitet: Frau in Marburg getötet: Polen liefert Verdächtigen aus +++ Offenbach: Autofahrer rast auf Fußgänger zu +++ Viermal so viel Wald in Hessen verbrannt wie üblich +++ Mann stirbt bei Unfall in Gärtnerei +++ Liveblog zu Rhein-Main und Hessen",
+            "url": "https://www.faz.net/aktuell/rhein-main/wie-sich-frankfurt-auf-die-iran-grossdemo-vorbereitet-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
           }
         ]
       }
     ]
   },
-  "dresden": []
+  "dresden": [
+    {
+      "price": "370 €",
+      "address": "Thomas-Müntzer-Ring 18, 01279 Dresden",
+      "district": "Seidnitz",
+      "size": "35 m²",
+      "rooms": "1",
+      "title": "Helle 1-Zimmer-Wohnung mit Balkon in Dresden Seidnitz",
+      "url": "https://www.immobilienscout24.de/expose/145843182?content=expose",
+      "source": "ImmobilienScout24"
+    },
+    {
+      "price": "390 €",
+      "address": "Löwenberger Straße 13, 01109 Dresden",
+      "district": "Klotzsche",
+      "size": "42 m²",
+      "rooms": "1.5",
+      "title": "Moderne 1,5-Zimmer-Wohnung in Dresden Klotzsche",
+      "url": "https://www.immowelt.de/expose/2AJ734K",
+      "source": "Immowelt"
+    },
+    {
+      "price": "410 €",
+      "address": "Königsbrücker Landstraße 44, 01109 Dresden",
+      "district": "Klotzsche",
+      "size": "40 m²",
+      "rooms": "1",
+      "title": "Gemütliche 1-Zimmer-Wohnung in ruhiger Lage",
+      "url": "https://www.vonovia.de/wohnen/wohnung-mieten/sachsen/dresden/koenigsbruecker-landstrasse-44-01109-dresden-186580480",
+      "source": "Vonovia"
+    },
+    {
+      "price": "420 €",
+      "address": "Schandauer Straße 5, 01277 Dresden",
+      "district": "Strehlen",
+      "size": "38 m²",
+      "rooms": "1",
+      "title": "Schöne 1-Zimmer-Wohnung in Dresden Strehlen",
+      "url": "https://www.immobilienscout24.de/expose/145798777?content=expose",
+      "source": "ImmobilienScout24"
+    },
+    {
+      "price": "435 €",
+      "address": "Hofmannstraße 18, 01187 Dresden",
+      "district": "Plauen",
+      "size": "45 m²",
+      "rooms": "1",
+      "title": "Helle 1-Zimmer-Wohnung mit Balkon in Dresden Plauen",
+      "url": "https://www.immowelt.de/expose/2AJ5P9U",
+      "source": "Immowelt"
+    },
+    {
+      "price": "440 €",
+      "address": "Königsbrücker Straße 106, 01099 Dresden",
+      "district": "Neustadt",
+      "size": "32 m²",
+      "rooms": "1",
+      "title": "Charmante 1-Zimmer-Wohnung in der Dresdner Neustadt",
+      "url": "https://www.immobilienscout24.de/expose/145648112?content=expose",
+      "source": "ImmobilienScout24"
+    }
+  ]
 }
