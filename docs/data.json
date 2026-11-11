@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, November 10 2026",
+  "date": "Wednesday, November 11 2026",
   "sections": [
     {
       "category": "Germany",
@@ -8,64 +8,36 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "EU Aims to Pick New ECB Chief by Year-End",
-          "headline_de": "EU will bis Jahresende neuen EZB-Chef wählen",
-          "headline_easy": "EU will neuen Chef für die EZB finden",
-          "summary_en": "The European Union is working towards selecting a new chief for the European Central Bank (ECB) before the end of the year. This decision is a significant step in the EU's economic governance.",
-          "summary_de": "Die Europäische Union arbeitet daran, bis Ende des Jahres einen neuen Chef für die Europäische Zentralbank (EZB) auszuwählen. Diese Entscheidung ist ein wichtiger Schritt für die Wirtschaftsführung der EU.",
-          "summary_easy": "Die EU will bis Ende des Jahres einen neuen Chef für die Europäische Zentralbank finden. Das ist wichtig für die Wirtschaft in der EU.",
+          "headline_en": "Merz: Google Cloud is sovereign enough for intelligence agencies",
+          "headline_de": "Merz: Google Cloud ist souverän genug für Geheimdienste",
+          "headline_easy": "Merz sagt: Google Cloud ist gut genug für Geheimdienste.",
+          "summary_en": "Friedrich Merz stated that Google Cloud possesses sufficient sovereignty for German intelligence agencies. This statement comes amid discussions about data security and the use of cloud services by governmental bodies.",
+          "summary_de": "Friedrich Merz erklärte, dass Google Cloud über genügend Souveränität für deutsche Geheimdienste verfügt. Diese Aussage fiel inmitten von Diskussionen über Datensicherheit und die Nutzung von Cloud-Diensten durch staatliche Stellen.",
+          "summary_easy": "Friedrich Merz hat etwas gesagt. Er meint, Google Cloud ist sicher genug für die Geheimdienste in Deutschland. Es gibt Gespräche über Datensicherheit.",
           "links": [
             {
-              "title": "EU aims to pick new ECB chief by year-end",
-              "url": "https://www.dw.com/en/eu-aims-to-pick-new-ecb-chief-by-year-end/a-79898169"
+              "title": "Merz: Google Cloud is sovereign enough for intelligence agencies",
+              "url": "https://www.heise.de/en/news/Merz-Google-Cloud-is-sovereign-enough-for-intelligence-agencies-11508564.html"
             }
           ]
         },
         {
-          "type": "Business",
-          "emoji": "💼",
-          "headline_en": "AMD Leads NVIDIA In GPU Sales, Capturing 47% Share According To Amazon US October Data",
-          "headline_de": "AMD überholt NVIDIA bei GPU-Verkäufen und erreicht 47 % Marktanteil laut Amazon US Oktoberdaten",
-          "headline_easy": "AMD verkauft mehr Grafikkarten als NVIDIA",
-          "summary_en": "New data from Amazon US for October indicates that AMD has surpassed NVIDIA in GPU sales, securing a 47% market share. This suggests a shift in the competitive landscape for graphics processing units.",
-          "summary_de": "Neue Daten von Amazon US für Oktober deuten darauf hin, dass AMD NVIDIA bei den GPU-Verkäufen überholt und sich einen Marktanteil von 47 % gesichert hat. Dies deutet auf eine Veränderung in der Wettbewerbslandschaft für Grafikprozessoren hin.",
-          "summary_easy": "Laut Daten von Amazon hat AMD im Oktober mehr Grafikkarten verkauft als NVIDIA. AMD hat jetzt 47% Marktanteil.",
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Refueling tankers moved to Germany due to unspecified Iran threat, official says",
+          "headline_de": "Betankungstanker wegen ungenannter Iran-Bedrohung nach Deutschland verlegt, sagt Beamter",
+          "headline_easy": "Flugzeuge werden nach Deutschland gebracht wegen einer Gefahr aus Iran.",
+          "summary_en": "Refueling tankers have been moved to Germany from the UK due to an unspecified threat from Iran. This military repositioning indicates heightened regional tensions and precautionary measures.",
+          "summary_de": "Betankungstanker wurden wegen einer ungenannten Bedrohung aus dem Iran von Großbritannien nach Deutschland verlegt. Diese militärische Umlagerung deutet auf erhöhte regionale Spannungen und vorsorgliche Maßnahmen hin.",
+          "summary_easy": "Flugzeuge, die andere Flugzeuge betanken, sind nach Deutschland gebracht worden. Das war aus England. Grund ist eine Gefahr aus dem Iran. Man will vorsichtig sein.",
           "links": [
             {
-              "title": "AMD Leads NVIDIA In GPU Sales, Capturing 47% Share According To Amazon US October Data",
-              "url": "https://wccftech.com/amd-leads-nvidia-in-gpu-sales-capturing-47-share-according-to-amazon-us-october-data/"
-            }
-          ]
-        },
-        {
-          "type": "Stocks & Markets",
-          "emoji": "📈",
-          "headline_en": "What is MegaSpeed? The Nvidia chip buyer in the spotlight after Jensen Huang’s affair",
-          "headline_de": "Was ist MegaSpeed? Der Käufer von Nvidia-Chips im Rampenlicht nach der Affäre von Jensen Huang",
-          "headline_easy": "Wer ist MegaSpeed? Eine Firma, die Nvidia-Chips kauft",
-          "summary_en": "MegaSpeed, a buyer of Nvidia chips, has come under scrutiny following revelations about an affair involving Nvidia CEO Jensen Huang. The company's role and the implications of the personal scandal are now being examined.",
-          "summary_de": "MegaSpeed, ein Käufer von Nvidia-Chips, ist nach Enthüllungen über eine Affäre von Nvidia-CEO Jensen Huang in den Fokus geraten. Die Rolle des Unternehmens und die Auswirkungen des persönlichen Skandals werden nun untersucht.",
-          "summary_easy": "Die Firma MegaSpeed kauft Nvidia-Chips. Sie steht jetzt im Interesse, weil es um eine Affäre von Nvidia-Chef Jensen Huang geht.",
-          "links": [
+              "title": "Refueling tankers moved to Germany due to unspecified Iran threat, official says",
+              "url": "https://abcnews.com/International/refueling-tankers-moved-uk-germany-due-unspecified-iran/story?id=138004946"
+            },
             {
-              "title": "What is MegaSpeed? The Nvidia chip buyer in the spotlight after Jensen Haung’s affair",
-              "url": "https://www.cnbc.com/2026/11/09/megaspeed-nvidia-jensen-huang-alice-huang.html"
-            }
-          ]
-        },
-        {
-          "type": "Technology",
-          "emoji": "💻",
-          "headline_en": "Amine-Based Epoxy Hardeners Market worth $5.90 billion by 2031 - Exclusive Report by MarketsandMarkets™",
-          "headline_de": "Markt für aminbasierte Epoxidhärter im Wert von 5,90 Milliarden US-Dollar bis 2031 – Exklusivbericht von MarketsandMarkets™",
-          "headline_easy": "Markt für Harze wird größer",
-          "summary_en": "The global market for amine-based epoxy hardeners is projected to reach $5.90 billion by 2031. This growth is detailed in an exclusive report by MarketsandMarkets™, highlighting key trends and forecasts in the chemical industry.",
-          "summary_de": "Der globale Markt für aminbasierte Epoxidhärter wird voraussichtlich bis 2031 5,90 Milliarden US-Dollar erreichen. Dieses Wachstum wird in einem exklusiven Bericht von MarketsandMarkets™ detailliert beschrieben, der wichtige Trends und Prognosen in der chemischen Industrie aufzeigt.",
-          "summary_easy": "Der Markt für bestimmte Harze (Epoxidhärter) wird bis 2031 5,9 Milliarden Dollar wert sein. Das sagt ein Bericht.",
-          "links": [
-            {
-              "title": "Amine-Based Epoxy Hardeners Market worth $5.90 billion by 2031 - Exclusive Report by MarketsandMarkets™",
-              "url": "https://www.prnewswire.co.uk/news-releases/amine-based-epoxy-hardeners-market-worth-5-90-billion-by-2031---exclusive-report-by-marketsandmarkets-302931923.html"
+              "title": "U.S. military moves aircraft from RAF Mildenhall base in U.K. to Germany, Spain, reportedly due to Iran threat",
+              "url": "https://freerepublic.com/focus/f-news/4402469/posts"
             }
           ]
         }
@@ -78,48 +50,48 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Your smart home devices are vulnerable to cyberattack — protect yourself with these tips",
-          "headline_de": "Ihre Smart-Home-Geräte sind anfällig für Cyberangriffe – schützen Sie sich mit diesen Tipps",
-          "headline_easy": "Sicherheit für Ihre Geräte zu Hause",
-          "summary_en": "Smart home devices are increasingly at risk of cyberattacks. Experts are providing tips on how to protect these devices and personal data from potential threats.",
-          "summary_de": "Smart-Home-Geräte sind zunehmend Cyberangriffen ausgesetzt. Experten geben Tipps, wie diese Geräte und persönlichen Daten vor potenziellen Bedrohungen geschützt werden können.",
-          "summary_easy": "Geräte für Ihr smartes Zuhause können von Hackern angegriffen werden. Hier sind Tipps, wie Sie sich und Ihre Daten schützen.",
+          "headline_en": "Why young protesters in France are turning against TV channel CNews",
+          "headline_de": "Warum junge Demonstranten in Frankreich sich von TV-Kanal CNews abwenden",
+          "headline_easy": "Junge Leute in Frankreich mögen den TV-Sender CNews nicht mehr.",
+          "summary_en": "Young protesters in France are increasingly expressing dissatisfaction with the television channel CNews. This shift in public opinion suggests growing concerns about the channel's content or editorial stance.",
+          "summary_de": "Junge Demonstranten in Frankreich äußern zunehmend ihre Unzufriedenheit mit dem Fernsehsender CNews. Dieser Meinungsumschwung deutet auf wachsende Bedenken hinsichtlich des Inhalts oder der redaktionellen Haltung des Senders hin.",
+          "summary_easy": "Junge Menschen in Frankreich protestieren. Sie sind nicht zufrieden mit dem Fernsehsender CNews. Sie finden den Sender nicht gut.",
           "links": [
             {
-              "title": "Your smart home devices are vulnerable to cyberattack — protect yourself with these tips",
-              "url": "https://www.theblaze.com/tech/iot-cyberattacks"
+              "title": "Why young protesters in France are turning against TV channel CNews",
+              "url": "https://theconversation.com/why-young-protesters-in-france-are-turning-against-tv-channel-cnews-296167"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "After French Blood Service Hack, Eight Steps to Secure Hospital Cold Storage",
-          "headline_de": "Nach Hack des französischen Blutdienstes: Acht Schritte zur Sicherung der Kühlkette von Krankenhäusern",
-          "headline_easy": "Sicherheit für Kühllager in Krankenhäusern",
-          "summary_en": "Following a cyberattack on the French blood service, critical security measures for hospital cold storage have been outlined. Eight key steps are proposed to enhance the protection of vital medical supplies.",
-          "summary_de": "Nach einem Cyberangriff auf den französischen Blutdienst wurden wichtige Sicherheitsmaßnahmen für die Kühlkette von Krankenhäusern dargelegt. Acht wichtige Schritte werden vorgeschlagen, um den Schutz lebenswichtiger medizinischer Vorräte zu verbessern.",
-          "summary_easy": "Der französische Blutdienst wurde gehackt. Nun gibt es acht wichtige Tipps, wie Krankenhäuser ihre Kühllager besser schützen können.",
+          "headline_en": "Venture Global plans to become the world’s largest gas exporter in a year—and now aims to build power for hyperscaler data centers",
+          "headline_de": "Venture Global will im nächsten Jahr der weltgrößte Gasexporteur werden – und plant nun, Strom für Hyperscale-Rechenzentren zu liefern",
+          "headline_easy": "Venture Global will mehr Gas verkaufen. Sie wollen auch Strom für große Computer bauen.",
+          "summary_en": "Venture Global aims to become the world's largest gas exporter within a year and is expanding into providing power for hyperscale data centers. This strategic move signifies a dual focus on energy export and supporting the growing demands of the digital infrastructure.",
+          "summary_de": "Venture Global hat das Ziel, innerhalb eines Jahres der weltgrößte Gasexporteur zu werden, und expandiert in die Stromversorgung für Hyperscale-Rechenzentren. Dieser strategische Schritt bedeutet eine doppelte Fokussierung auf den Energieexport und die Unterstützung des wachsenden Bedarfs der digitalen Infrastruktur.",
+          "summary_easy": "Venture Global will bald das meiste Gas weltweit verkaufen. Sie wollen auch Strom machen. Dieser Strom ist für sehr große Computer-Zentren.",
           "links": [
             {
-              "title": "After French Blood Service Hack, Eight Steps to Secure Hospital Cold Storage",
-              "url": "https://healthsystemcio.com/2026/11/09/cold-storage-security-steps/"
+              "title": "Venture Global plans to become the world’s largest gas exporter in a year—and now aims to build power for hyperscaler data centers",
+              "url": "https://fortune.com/2026/11/10/venture-global-worlds-largest-gas-exporter-power-data-centers-hyperscalers/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Continuous Insulation Market worth $67.74 billion by 2031 - Exclusive Report by MarketsandMarkets™",
-          "headline_de": "Markt für kontinuierliche Dämmung im Wert von 67,74 Milliarden US-Dollar bis 2031 – Exklusivbericht von MarketsandMarkets™",
-          "headline_easy": "Markt für Dämmung wird größer",
-          "summary_en": "The continuous insulation market is expected to grow significantly, reaching a valuation of $67.74 billion by 2031. This projection is detailed in an exclusive report by MarketsandMarkets™, indicating substantial growth in the construction materials sector.",
-          "summary_de": "Der Markt für kontinuierliche Dämmung wird voraussichtlich erheblich wachsen und bis 2031 einen Wert von 67,74 Milliarden US-Dollar erreichen. Diese Prognose wird in einem exklusiven Bericht von MarketsandMarkets™ detailliert, der ein erhebliches Wachstum im Sektor der Baumaterialien aufzeigt.",
-          "summary_easy": "Der Markt für Dämmstoffe wird bis 2031 sehr groß sein, nämlich 67,74 Milliarden Dollar. Das sagt ein Bericht.",
+          "headline_en": "FBI is ‘looking into’ Jensen Huang, as critics pick over the weaknesses in Nvidia’s corporate governance structure",
+          "headline_de": "FBI ermittelt gegen Jensen Huang, während Kritiker die Schwächen in Nvidias Unternehmensführungsstruktur untersuchen",
+          "headline_easy": "Die Polizei untersucht Jensen Huang wegen Nvidia. Kritiker finden Fehler in der Firma.",
+          "summary_en": "The FBI is reportedly investigating Jensen Huang amidst growing scrutiny of Nvidia's corporate governance. Critics are examining potential weaknesses in the company's structure and leadership.",
+          "summary_de": "Berichten zufolge ermittelt das FBI gegen Jensen Huang inmitten der zunehmenden Überprüfung der Unternehmensführung von Nvidia. Kritiker untersuchen potenzielle Schwächen in der Struktur und Führung des Unternehmens.",
+          "summary_easy": "Die Polizei macht eine Untersuchung bei Jensen Huang. Er ist wichtig bei der Firma Nvidia. Kritiker denken, die Firma hat Probleme.",
           "links": [
             {
-              "title": "Continuous Insulation Market worth $67.74 billion by 2031 - Exclusive Report by MarketsandMarkets™",
-              "url": "https://www.prnewswire.co.uk/news-releases/continuous-insulation-market-worth-67-74-billion-by-2031---exclusive-report-by-marketsandmarkets-302931842.html"
+              "title": "FBI is ‘looking into’ Jensen Huang, as critics pick over the weaknesses in Nvidia’s corporate governance structure",
+              "url": "https://fortune.com/2026/11/10/fbi-looking-into-jensen-huang-nvidia-corporate-governance/"
             }
           ]
         }
@@ -132,64 +104,48 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Expanding Teen Account Protections to Teens Around the World",
-          "headline_de": "Erweiterung des Schutzes von Teenager-Konten auf Teenager weltweit",
-          "headline_easy": "Mehr Schutz für junge Leute online",
-          "summary_en": "Social media platforms are expanding their safety features to better protect teenage accounts globally. These new measures aim to enhance privacy and security for young users worldwide.",
-          "summary_de": "Social-Media-Plattformen erweitern ihre Sicherheitsfunktionen zum besseren Schutz von Teenager-Konten weltweit. Diese neuen Maßnahmen zielen darauf ab, die Privatsphäre und Sicherheit für junge Nutzer weltweit zu verbessern.",
-          "summary_easy": "Online-Plattformen geben jungen Leuten mehr Schutz für ihre Konten. Das soll ihre Daten und ihre Privatsphäre besser schützen.",
+          "headline_en": "U.S. Marine Calls Alaska Airlines Employee “Anti-Military” After Being Denied A Free Upgrade",
+          "headline_de": "US-Marine bezeichnet Alaska Airlines Angestellten als \"anti-militärisch\", nachdem ihm ein kostenloser Upgrade verweigert wurde",
+          "headline_easy": "Ein Soldat der US-Marine war sauer auf Alaska Airlines. Er bekam keinen kostenlosen Sitzplatz-Upgrade.",
+          "summary_en": "A U.S. Marine accused an Alaska Airlines employee of being \"anti-military\" after being denied a complimentary upgrade. The incident highlights a dispute over customer service and perceived respect for military personnel.",
+          "summary_de": "Ein US-Marine beschuldigte einen Mitarbeiter von Alaska Airlines, \"anti-militärisch\" zu sein, nachdem ihm ein kostenloser Upgrade verweigert wurde. Der Vorfall beleuchtet einen Streit über Kundenservice und wahrgenommene Achtung vor Militärpersonal.",
+          "summary_easy": "Ein Soldat in der Marine war verärgert. Ein Mitarbeiter von Alaska Airlines gab ihm keinen besseren Sitzplatz. Der Soldat sagte, der Mitarbeiter sei gegen das Militär.",
           "links": [
             {
-              "title": "Expanding Teen Account Protections to Teens Around the World",
-              "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/"
+              "title": "U.S. Marine Calls Alaska Airlines Employee “Anti-Military” After Being Denied A Free Upgrade",
+              "url": "https://liveandletsfly.com/alaska-airlines-marine-free-upgrade-dispute/"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Russia wants Abu Dhabi talks to focus on security",
-          "headline_de": "Russland will, dass sich die Gespräche in Abu Dhabi auf Sicherheit konzentrieren",
-          "headline_easy": "Russland will über Sicherheit sprechen",
-          "summary_en": "Russia has expressed its desire for upcoming talks in Abu Dhabi to prioritize discussions on security matters. This indicates a focus on geopolitical and defense-related issues in the proposed agenda.",
-          "summary_de": "Russland hat seinen Wunsch geäußert, dass sich die bevorstehenden Gespräche in Abu Dhabi auf Sicherheitsfragen konzentrieren sollen. Dies deutet auf eine Fokussierung auf geopolitische und verteidigungsbezogene Themen in der vorgeschlagenen Agenda hin.",
-          "summary_easy": "Russland möchte, dass in Gesprächen in Abu Dhabi zuerst über Sicherheit gesprochen wird. Es geht um politische und militärische Themen.",
+          "headline_en": "iPhone 20 Pro Rumors Point to These Ten Big Changes",
+          "headline_de": "iPhone 20 Pro Gerüchte deuten auf diese zehn großen Änderungen hin",
+          "headline_easy": "Es gibt neue Gerüchte über das iPhone 20 Pro. Es soll zehn neue Sachen haben.",
+          "summary_en": "Rumors surrounding the upcoming iPhone 20 Pro suggest ten significant changes are expected. These potential updates could include new features and design modifications for Apple's flagship smartphone.",
+          "summary_de": "Gerüchte über das kommende iPhone 20 Pro deuten auf zehn bedeutende Änderungen hin. Diese potenziellen Aktualisierungen könnten neue Funktionen und Designänderungen für Apples Flaggschiff-Smartphone umfassen.",
+          "summary_easy": "Es gibt neue Infos über das iPhone 20 Pro. Man erwartet zehn große Änderungen. Das ist ein neues Handy von Apple.",
           "links": [
             {
-              "title": "Russia wants Abu Dhabi talks to focus on security",
-              "url": "https://biztoc.com/x/eac01a18e1c6c0dc"
+              "title": "iPhone 20 Pro Rumors Point to These Ten Big Changes",
+              "url": "https://www.macrumors.com/2026/11/10/iphone-20-pro-rumors-ten-big-changes/"
             }
           ]
         },
         {
           "type": "War",
           "emoji": "⚔️",
-          "headline_en": "Russia-Ukraine peace talks: From territorial disputes to Nato - key issues on Abu Dhabi agenda",
-          "headline_de": "Russland-Ukraine-Friedensgespräche: Von territorialen Streitigkeiten bis zur NATO – Schlüsselthemen auf der Agenda von Abu Dhabi",
-          "headline_easy": "Gespräche über Frieden zwischen Russland und Ukraine",
-          "summary_en": "Upcoming peace talks between Russia and Ukraine in Abu Dhabi are set to address key issues including territorial disputes and NATO's role. The agenda highlights the complex challenges in achieving a resolution.",
-          "summary_de": "Bevorstehende Friedensgespräche zwischen Russland und der Ukraine in Abu Dhabi werden wichtige Themen wie territoriale Streitigkeiten und die Rolle der NATO behandeln. Die Agenda unterstreicht die komplexen Herausforderungen bei der Erzielung einer Einigung.",
-          "summary_easy": "Es gibt Gespräche über Frieden zwischen Russland und der Ukraine. Sie finden in Abu Dhabi statt. Es geht um Gebiete und die NATO.",
+          "headline_en": "Cancer uses antioxidants to disarm the immune system, scientists discover",
+          "headline_de": "Krebs nutzt Antioxidantien, um das Immunsystem zu entwaffnen, entdecken Wissenschaftler",
+          "headline_easy": "Krebs benutzt Antioxidantien, um die Abwehrkräfte des Körpers zu stoppen. Das haben Forscher herausgefunden.",
+          "summary_en": "Scientists have discovered that cancer cells can utilize antioxidants to evade and disarm the body's immune system. This finding sheds light on a new mechanism by which tumors can suppress immune responses.",
+          "summary_de": "Wissenschaftler haben entdeckt, dass Krebszellen Antioxidantien nutzen können, um das Immunsystem des Körpers zu umgehen und zu entwaffnen. Dieser Fund beleuchtet einen neuen Mechanismus, durch den Tumore Immunreaktionen unterdrücken können.",
+          "summary_easy": "Forscher haben etwas Neues entdeckt. Krebszellen benutzen Antioxidantien. Das hilft dem Krebs, die Abwehrkräfte des Körpers zu schwächen. So kann der Krebs besser wachsen.",
           "links": [
             {
-              "title": "Russia-Ukraine peace talks: From territorial disputes to Nato - key issues on Abu Dhabi agenda",
-              "url": "https://timesofindia.indiatimes.com/world/europe/russia-ukraine-peace-talks-from-territorial-disputes-to-nato-key-issues-on-abu-dhabi-agenda/articleshow/135680892.cms"
-            }
-          ]
-        },
-        {
-          "type": "Stocks & Markets",
-          "emoji": "📈",
-          "headline_en": "Dow futures up 450 pts as markets continue recovery",
-          "headline_de": "Dow-Futures steigen um 450 Punkte, da die Märkte die Erholung fortsetzen",
-          "headline_easy": "Aktienmärkte steigen",
-          "summary_en": "Dow futures have seen a significant increase of 450 points, indicating a positive trend in market recovery. This surge suggests growing investor confidence and a positive outlook for the stock market.",
-          "summary_de": "Die Dow-Futures sind um 450 Punkte gestiegen, was auf einen positiven Trend bei der Markterholung hindeutet. Dieser Anstieg deutet auf wachsendes Investorenvertrauen und eine positive Aussicht für den Aktienmarkt hin.",
-          "summary_easy": "Die Aktienmärkte steigen. Der Dow-Index ist um 450 Punkte gestiegen. Das zeigt, dass die Märkte sich erholen.",
-          "links": [
-            {
-              "title": "Dow futures up 450 pts as markets continue recovery",
-              "url": "https://biztoc.com/x/845deb33195479c9"
+              "title": "Cancer uses antioxidants to disarm the immune system, scientists discover",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261104084021.htm"
             }
           ]
         }
@@ -202,64 +158,16 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Why investing in green technology is a strategic imperative for India—and how the RDI fund can help",
-          "headline_de": "Warum Investitionen in grüne Technologie für Indien eine strategische Notwendigkeit sind – und wie der RDI-Fonds helfen kann",
-          "headline_easy": "Grüne Technik ist wichtig für Indien",
-          "summary_en": "Investing in green technology is a strategic priority for India, offering significant benefits for its development. The RDI fund is highlighted as a key resource to support these investments and promote sustainable growth.",
-          "summary_de": "Investitionen in grüne Technologie sind eine strategische Priorität für Indien und bieten erhebliche Vorteile für seine Entwicklung. Der RDI-Fonds wird als wichtige Ressource zur Unterstützung dieser Investitionen und zur Förderung nachhaltigen Wachstums hervorgehoben.",
-          "summary_easy": "Indien muss in grüne Technik investieren. Das ist gut für das Land. Ein Fonds namens RDI kann dabei helfen.",
+          "headline_en": "Shenzhen Unveils APEC China 2026 Host-City Theme Song and Music Video",
+          "headline_de": "Shenzhen enthüllt das APEC China 2026 Host-City-Themenlied und Musikvideo",
+          "headline_easy": "Shenzhen hat ein Lied und ein Video für die APEC-Veranstaltung gemacht.",
+          "summary_en": "Shenzhen has launched its official theme song and music video for hosting APEC China 2026. This initiative aims to promote the city and the upcoming international event.",
+          "summary_de": "Shenzhen hat sein offizielles Themenlied und Musikvideo für die Ausrichtung der APEC China 2026 vorgestellt. Diese Initiative zielt darauf ab, die Stadt und die bevorstehende internationale Veranstaltung zu bewerben.",
+          "summary_easy": "Shenzhen ist der Ort für die APEC-Veranstaltung im Jahr 2026. Die Stadt hat jetzt ein Lied und ein Musikvideo gemacht. Das soll die Stadt und die Veranstaltung bekannt machen.",
           "links": [
             {
-              "title": "Why investing in green technology is a strategic imperative for India—and how the RDI fund can help",
-              "url": "https://www.livemint.com/opinion/online-views/why-investing-in-green-technology-is-a-strategic-imperative-for-india-how-the-rdi-fund-can-help-11794214566381.html"
-            }
-          ]
-        },
-        {
-          "type": "Business",
-          "emoji": "💼",
-          "headline_en": "Nifty holds 25,000 after volatile session; PSU Banks surge 3.7%, IT drags",
-          "headline_de": "Nifty hält bei 25.000 nach volatiler Sitzung; PSU Banks steigen um 3,7 %, IT zieht zurück",
-          "headline_easy": "Börse Indien: Nifty bleibt bei 25.000",
-          "summary_en": "The Indian stock market's Nifty index managed to hold the 25,000 mark despite a volatile trading session. Public Sector Undertaking (PSU) banks saw a significant rise of 3.7%, while the Information Technology (IT) sector experienced a downturn.",
-          "summary_de": "Der indische Aktienindex Nifty konnte trotz einer volatilen Handelssitzung die Marke von 25.000 Punkten halten. Banken im öffentlichen Sektor (PSU) verzeichneten einen deutlichen Anstieg von 3,7 %, während der Sektor der Informationstechnologie (IT) einen Rückgang erlebte.",
-          "summary_easy": "Die Börse in Indien hat sich erholt. Der Nifty-Index ist bei 25.000 Punkten geblieben. Banken sind gestiegen, die IT-Branche aber gefallen.",
-          "links": [
-            {
-              "title": "Nifty holds 25,000 after volatile session; PSU Banks surge 3.7%, IT drags",
-              "url": "https://www.thehindubusinessline.com/markets/nifty-holds-25000-after-volatile-session-psu-banks-surge-37-it-drags/article71682374.ece"
-            }
-          ]
-        },
-        {
-          "type": "Stocks & Markets",
-          "emoji": "📈",
-          "headline_en": "Broker’s Call: Mrs Bector Food (Buy)",
-          "headline_de": "Broker-Empfehlung: Mrs Bector Food (Kaufen)",
-          "headline_easy": "Aktien-Tipp: Mrs Bector Food kaufen",
-          "summary_en": "A financial analyst has issued a 'Buy' recommendation for the shares of Mrs Bector Food. This suggests a positive outlook on the company's future performance and potential for growth in the stock market.",
-          "summary_de": "Ein Finanzanalyst hat eine Kaufempfehlung für die Aktien von Mrs Bector Food herausgegeben. Dies deutet auf eine positive Einschätzung der zukünftigen Leistung des Unternehmens und seines Wachstumspotenzials am Aktienmarkt hin.",
-          "summary_easy": "Ein Experte empfiehlt, Aktien der Firma Mrs Bector Food zu kaufen. Das bedeutet, er glaubt, dass die Firma gut verdienen wird.",
-          "links": [
-            {
-              "title": "Broker’s Call: Mrs Bector Food (Buy)",
-              "url": "https://www.thehindubusinessline.com/markets/brokers-call-mrs-bector-food-buy/article71682126.ece"
-            }
-          ]
-        },
-        {
-          "type": "Technology",
-          "emoji": "💻",
-          "headline_en": "At least 21 migrants and refugees die trying to reach Greece’s Crete",
-          "headline_de": "Mindestens 21 Migranten und Flüchtlinge sterben bei dem Versuch, Griechenlands Kreta zu erreichen",
-          "headline_easy": "Menschen sterben auf dem Weg nach Kreta",
-          "summary_en": "Tragically, at least 21 migrants and refugees have lost their lives while attempting to reach the Greek island of Crete. This incident highlights the perilous journeys undertaken by individuals seeking refuge.",
-          "summary_de": "Tragischerweise kamen mindestens 21 Migranten und Flüchtlinge ums Leben, als sie versuchten, die griechische Insel Kreta zu erreichen. Dieser Vorfall unterstreicht die gefährlichen Reisen von Menschen, die Zuflucht suchen.",
-          "summary_easy": "Mindestens 21 Menschen sind gestorben. Sie versuchten, die Insel Kreta in Griechenland zu erreichen. Ihre Reise war sehr gefährlich.",
-          "links": [
-            {
-              "title": "At least 21 migrants and refugees die trying to reach Greece’s Crete",
-              "url": "https://www.aljazeera.com/news/2026/11/9/at-least-21-migrants-and-refugees-die-trying-to-reach-greeces-crete"
+              "title": "Shenzhen Unveils APEC China 2026 Host-City Theme Song and Music Video",
+              "url": "https://en.antaranews.com/news/441651/shenzhen-unveils-apec-china-2026-host-city-theme-song-and-music-video"
             }
           ]
         }
@@ -272,32 +180,80 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Russell Brand's inner circle of celebrity friends: From David Walliams to Jonathan Ross and Noel Fielding...and those who 'abandoned him' at rape trial",
-          "headline_de": "Russell Brands engster Kreis von Prominenten Freunden: Von David Walliams bis Jonathan Ross und Noel Fielding ... und diejenigen, die ihn während des Vergewaltigungsprozesses 'verlassen' haben",
-          "headline_easy": "Freunde von Russell Brand",
-          "summary_en": "The report details the inner circle of celebrity friends of Russell Brand, including notable figures like David Walliams, Jonathan Ross, and Noel Fielding. It also mentions individuals who reportedly distanced themselves during his rape trial.",
-          "summary_de": "Der Bericht beschreibt den engsten Kreis von Prominentenfreunden von Russell Brand, darunter bekannte Persönlichkeiten wie David Walliams, Jonathan Ross und Noel Fielding. Er erwähnt auch Personen, die sich während seines Vergewaltigungsprozesses Berichten zufolge distanziert haben.",
-          "summary_easy": "Es geht um die berühmten Freunde von Russell Brand. Namen wie David Walliams, Jonathan Ross und Noel Fielding werden genannt. Manche Freunde sollen ihn während seines Prozesses nicht unterstützt haben.",
+          "headline_en": "Virtual fruit fly brains can play Doom and trade bitcoin",
+          "headline_de": "Virtuelle Fruchtfliegenhirne können Doom spielen und Bitcoin handeln",
+          "headline_easy": "Kleine Computer-Gehirne, die wie Fliegen sind, können ein Spiel namens Doom spielen und mit Bitcoin handeln.",
+          "summary_en": "Researchers have developed virtual fruit fly brains capable of playing the video game Doom and even trading Bitcoin. This innovative use of artificial intelligence demonstrates advanced computational capabilities.",
+          "summary_de": "Forscher haben virtuelle Fruchtfliegenhirne entwickelt, die das Videospiel Doom spielen und sogar Bitcoin handeln können. Dieser innovative Einsatz künstlicher Intelligenz zeigt fortgeschrittene computergestützte Fähigkeiten.",
+          "summary_easy": "Forscher haben Computer-Gehirne gemacht. Sie sind wie Gehirne von kleinen Fliegen. Diese Computer-Gehirne können das Spiel Doom spielen. Sie können auch mit Bitcoin handeln.",
           "links": [
             {
-              "title": "Russell Brand's inner circle of celebrity friends: From David Walliams to Jonathan Ross and Noel Fielding...and those who 'abandoned him' at rape trial",
-              "url": "https://www.dailymail.com/crime-desk/article-16277667/Russell-Brands-inner-circle-David-Walliams-Jonathan-Ross-Noel-Fielding.html"
+              "title": "Virtual fruit fly brains can play Doom and trade bitcoin",
+              "url": "https://www.scientificamerican.com/article/virtual-fruit-fly-brains-can-play-doom-and-trade-bitcoin/"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Total Energies Team Saved, Becomes Xefi",
+          "headline_de": "Team Total Energies gerettet, wird Xefi",
+          "headline_easy": "Ein Team namens Total Energies ist gerettet worden. Es heißt jetzt Xefi.",
+          "summary_en": "The cycling team previously known as Total Energies has been saved and will now compete under the name Xefi. This rebranding marks a new chapter for the team following financial restructuring or sponsorship changes.",
+          "summary_de": "Die Radsportmannschaft, die früher als Total Energies bekannt war, wurde gerettet und wird nun unter dem Namen Xefi antreten. Dieses Rebranding markiert ein neues Kapitel für das Team nach finanzieller Umstrukturierung oder Sponsorenwechseln.",
+          "summary_easy": "Ein Radsportteam hieß früher Total Energies. Jetzt ist es gerettet. Das Team hat einen neuen Namen: Xefi. Es geht weiter für das Team.",
+          "links": [
+            {
+              "title": "Total Energies Team Saved, Becomes Xefi",
+              "url": "https://inrng.com/2026/11/total-energies-team-xefi/"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "MHA deputy secretary to step down, take on LTA CEO position from May 1",
+          "headline_de": "Stellvertretender Staatssekretär des MHA tritt zurück und übernimmt ab dem 1. Mai die Position des LTA-CEO",
+          "headline_easy": "Ein wichtiger Mann vom MHA geht weg. Er wird der Chef (CEO) bei der LTA ab Mai.",
+          "summary_en": "The Deputy Secretary of the Ministry of Home Affairs (MHA) will be stepping down from their current role to assume the position of CEO at the Land Transport Authority (LTA) starting May 1st. This represents a significant leadership transition.",
+          "summary_de": "Der stellvertretende Staatssekretär des Ministeriums für Inneres (MHA) tritt von seiner derzeitigen Position zurück, um ab dem 1. Mai die Position des CEO bei der Land Transport Authority (LTA) zu übernehmen. Dies stellt einen bedeutenden Führungswechsel dar.",
+          "summary_easy": "Eine wichtige Person im MHA wird einen neuen Job bekommen. Sie hört beim MHA auf. Ab dem 1. Mai wird sie Chefin (CEO) bei der LTA sein.",
+          "links": [
+            {
+              "title": "MHA deputy secretary to step down, take on LTA CEO position from May 1",
+              "url": "https://www.channelnewsasia.com/singapore/mha-lta-ceo-htx-mot-6539046"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "CISA and the FBI Warn Of Attacks against Industrial Refrigeration Controllers",
-          "headline_de": "CISA und das FBI warnen vor Angriffen auf industrielle Kühlungssteuerungen",
-          "headline_easy": "Gefahr für Kühlsysteme",
-          "summary_en": "The Cybersecurity and Infrastructure Security Agency (CISA) and the FBI have issued a joint warning regarding cyberattacks targeting industrial refrigeration controllers. This poses a significant risk to critical infrastructure and supply chains.",
-          "summary_de": "Die Cybersecurity and Infrastructure Security Agency (CISA) und das FBI haben eine gemeinsame Warnung vor Cyberangriffen auf industrielle Kühlungssteuerungen herausgegeben. Dies stellt ein erhebliches Risiko für kritische Infrastrukturen und Lieferketten dar.",
-          "summary_easy": "Sicherheitsbehörden warnen vor Hacker-Angriffen. Sie zielen auf Systeme ab, die Kühlung kontrollieren. Das ist gefährlich für wichtige Bereiche wie Fabriken und Lager.",
+          "headline_en": "The 78 must-have toys this Christmas for every age group and budget - as picked by John Lewis, Amazon and children's gift experts",
+          "headline_de": "Die 78 unverzichtbaren Spielzeuge dieses Weihnachten für jede Altersgruppe und jedes Budget – ausgewählt von John Lewis, Amazon und Kinderspielzeugexperten",
+          "headline_easy": "Hier sind 78 Spielzeuge, die man zu Weihnachten kaufen sollte. Sie sind für alle Altersgruppen und Preise.",
+          "summary_en": "A curated list of 78 essential toys for Christmas has been compiled, considering various age groups and budgets. The selection comes from experts at John Lewis, Amazon, and children's gift specialists.",
+          "summary_de": "Eine kuratierte Liste von 78 unverzichtbaren Spielzeugen für Weihnachten wurde zusammengestellt, unter Berücksichtigung verschiedener Altersgruppen und Budgets. Die Auswahl stammt von Experten von John Lewis, Amazon und Kinderspielzeugspezialisten.",
+          "summary_easy": "Es gibt eine Liste mit 78 Spielzeugen für Weihnachten. Man muss sie haben. Die Liste ist für alle Kinder und alle Geldbeutel. Experten haben die Spielzeuge ausgesucht.",
           "links": [
             {
-              "title": "CISA and the FBI Warn Of Attacks against Industrial Refrigeration Controllers",
-              "url": "https://securityaffairs.com/202730/hacking/cisa-and-the-fbi-warn-of-attacks-against-industrial-refrigeration-controllers.html"
+              "title": "The 78 must-have toys this Christmas for every age group and budget - as picked by John Lewis, Amazon and children's gift experts",
+              "url": "https://www.dailymail.com/lifestyle/article-16226835/The-78-toys-Christmas-age-group-budget-picked-John-Lewis-Amazon-childrens-gift-experts.html"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "This unassuming sculpture lays bare the darkest impulses of consumer desire",
+          "headline_de": "Diese unscheinbare Skulptur legt die dunkelsten Impulse des Konsumwunsches offen",
+          "headline_easy": "Eine kleine Skulptur zeigt, wie sehr Menschen Dinge kaufen wollen.",
+          "summary_en": "An exhibition featuring an unassuming sculpture is reportedly revealing the deeper, darker aspects of consumer desire. The artwork is said to provoke thought about materialism and societal impulses.",
+          "summary_de": "Eine Ausstellung mit einer unscheinbaren Skulptur enthüllt angeblich die tieferen, dunkleren Aspekte des Konsumwunsches. Das Kunstwerk soll zum Nachdenken über Materialismus und gesellschaftliche Impulse anregen.",
+          "summary_easy": "Es gibt eine Kunstausstellung. Dort gibt es eine kleine Skulptur. Die Skulptur zeigt, wie sehr Menschen Dinge kaufen wollen. Sie zeigt auch die schlechten Seiten davon.",
+          "links": [
+            {
+              "title": "This unassuming sculpture lays bare the darkest impulses of consumer desire",
+              "url": "https://www.dazeddigital.com/art-photography/article/71324/1/lorenza-longhi-art-basel-paris-2026-exhibition-protests-luxury?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=this-unassuming-sculpture-lays-bare-the-darkest-impulses-of-consumer-desire"
             }
           ]
         }
@@ -308,27 +264,27 @@
     "wahlperiode": 21,
     "sitzung": 106,
     "url": "https://dserver.bundestag.de/btp/21/21106.pdf",
-    "summary_en": "The 106th session of the German Bundestag on November 6, 2026, covered a diverse agenda. The session began with an extension of the agenda. A primary focus was the second and third reading of a bill to amend the Criminal Code, strengthening legal protection against \"K.-o.-Tropfen\" (knockout drops), with contributions from Sonja Eichwede (SPD), Stephan Brandner (AfD), Susanne Hierl (CDU/CSU), Dr. Lena Gumnior (BÜNDNIS 90/DIE GRÜNEN), and Luke Hoß (Die Linke). Several AfD motions were debated, including one by Peter Boehringer and others to reduce the EU budget to relieve German taxpayers, and another by Carolin Bachmann and others to uphold subsidiarity and stop centralization, opposing national partnership plans detrimental to German municipalities. Speakers on these included Knuth Meyer-Soltau (AfD), Peter Boehringer (AfD), Tobias Matthias Peterka (AfD), and Rainer Groß (AfD). The Bundestag also discussed climate policy, with an agreement by the CDU/CSU and SPD on the Antalya World Climate Conference, framing climate protection as a future investment and competitive factor. The BÜNDNIS 90/DIE GRÜNEN, represented by Lisa Badum, proposed taxing fossil fuel profits to leverage the climate conference as an independence driver. Die Linke, through Violetta Bock and Dr. Fabian Fahl, advocated for global climate justice, fulfilling commitments, reforming the global financial architecture, and making reparations. An AfD motion by Leif-Erik Holm and others to end German participation in the Intergovernmental Panel on Climate Change was also addressed, with Karsten Hilse (AfD) and Anna Aeikens (CDU/CSU) speaking. Finally, the first reading of a bill to amend the financing of the Federal Agency for Motorways and Other Federal Trunk Roads was held, with contributions from Steffen Bilger (BMV).",
-    "summary_de": "Die 106. Sitzung des Deutschen Bundestages am 6. November 2026 befasste sich mit einer breiten Palette von Themen. Zu Beginn der Sitzung wurde die Tagesordnung erweitert. Ein Hauptpunkt war die zweite und dritte Beratung eines Gesetzentwurfs zur Änderung des Strafgesetzbuches zur Stärkung des strafrechtlichen Schutzes vor sogenannten \"K.-o.-Tropfen\", zu dem Sonja Eichwede (SPD), Stephan Brandner (AfD), Susanne Hierl (CDU/CSU), Dr. Lena Gumnior (BÜNDNIS 90/DIE GRÜNEN) und Luke Hoß (Die Linke) sprachen. Mehrere Anträge der AfD wurden debattiert, darunter ein Antrag von Peter Boehringer und weiteren Abgeordneten zur Verringerung des EU-Haushalts zur Entlastung der deutschen Steuerzahler, sowie ein Antrag von Carolin Bachmann und weiteren Abgeordneten zur Wahrung der Subsidiarität und Beendigung der Zentralisierung, der sich gegen nationale Partnerschaftspläne zulasten deutscher Kommunen richtet. Zu diesen Anträgen sprachen unter anderem Knuth Meyer-Soltau (AfD), Peter Boehringer (AfD), Tobias Matthias Peterka (AfD) und Rainer Groß (AfD). Der Bundestag erörterte zudem die Klimapolitik; die Koalition aus CDU/CSU und SPD legte einen Antrag zur Weltklimakonferenz in Antalya vor, der Klimaschutz als Zukunftsinvestition und Wettbewerbsfaktor betrachtet. BÜNDNIS 90/DIE GRÜNEN, vertreten durch Lisa Badum, schlug vor, fossile Profite zu besteuern, um die Klimakonferenz als Motor für Unabhängigkeit zu nutzen. Die Linke, vertreten durch Violetta Bock und Dr. Fabian Fahl, forderte globale Klimagerechtigkeit, die Einhaltung von Verpflichtungen, eine Reform der globalen Finanzarchitektur und Reparationen. Ein Antrag der AfD von Leif-Erik Holm und anderen zur Beendigung der deutschen Beteiligung am Zwischenstaatlichen Ausschuss für Klimaänderungen wurde ebenfalls thematisiert, mit Beiträgen von Karsten Hilse (AfD) und Anna Aeikens (CDU/CSU). Abschließend fand die erste Beratung eines Gesetzentwurfs zur Änderung der Finanzierung der Autobahn GmbH des Bundes statt, zu dem Steffen Bilger (BMV) sprach.",
-    "summary_easy": "Am 6. November 2026 fand eine Sitzung des Bundestages statt. Die Abgeordneten sprachen über viele wichtige Themen. Zuerst wurde ein Gesetz besprochen, das Menschen besser vor \"K.-o.-Tropfen\" schützen soll. Viele Politiker aus verschiedenen Parteien sagten dazu etwas. Die AfD-Partei wollte, dass die Europäische Union weniger Geld ausgibt. Sie sagten auch, dass Deutschland nicht mehr Geld an Brüssel geben soll. Die Politiker sprachen auch über das Klima. Die Parteien CDU/CSU und SPD sagten, dass Klimaschutz gut für die Zukunft ist. Die Grünen wollten, dass reiche Firmen, die viel für das Klima tun, mehr Geld bezahlen. Die Partei Die Linke forderte mehr Klimagerechtigkeit für alle Länder. Es ging auch darum, ob Deutschland bei einer Klimakonferenz mitmachen soll. Zum Schluss wurde ein neues Gesetz zur Finanzierung der Autobahnen besprochen.",
+    "summary_en": "The 106th session of the 21st legislative period of the German Bundestag took place on Friday, November 6, 2026. The session began with an extension of the agenda. The Bundestag then proceeded to the second and third readings of a bill to amend the Criminal Code, aiming to strengthen legal protection against \"knock-out drops.\" Speakers included Sonja Eichwede (SPD), Stephan Brandner (AfD), Susanne Hierl (CDU/CSU), Dr. Lena Gumnior (BÜNDNIS 90/DIE GRÜNEN), Luke Hoß (Die Linke), and Carmen Wegge (SPD), generally supporting the bill. The session also addressed an AfD motion to reduce the EU budget to relieve German taxpayers (Drucksache 21/8906), with Peter Boehringer (AfD) speaking. Another AfD motion concerned maintaining subsidiarity and preventing centralization, specifically regarding national partnership plans impacting German municipalities (Drucksache 21/8907), with speakers like Marc Bernhard and Sebastian Münzenmaier (AfD) and Knuth Meyer-Soltau (AfD). The Bundestag discussed the World Climate Conference in Antalya, with motions from the CDU/CSU and SPD emphasizing climate protection as an investment and competitive factor (Drucksache 21/8913). The Greens, represented by Lisa Badum, proposed leveraging fossil fuel profits and the conference for independence (Drucksache 21/8876). Die Linke presented two motions on global climate justice, financial architecture reform, and reparations (Drucksache 21/8580), and another on global solidarity and preventing greenwashing (Drucksache 21/2535). The AfD motion to end German participation in the Intergovernmental Panel on Climate Change (IPCC) and realign national scientific policy advice was also debated (Drucksachen 21/4464, 21/4891). Finally, the Bundestag began its first reading of a government bill to amend the financing of the Federal Agency for Motorways and Other Federal Trunk Roads (Drucksache 21/8868), with Federal Minister BMV Steffen Bilger speaking.",
+    "summary_de": "Die 106. Sitzung der 21. Wahlperiode des Deutschen Bundestages fand am Freitag, den 6. November 2026 statt. Die Sitzung begann mit einer Erweiterung der Tagesordnung. Anschließend befasste sich der Bundestag mit der zweiten und dritten Beratung eines Gesetzesentwurfs zur Änderung des Strafgesetzbuches zur Stärkung des strafrechtlichen Schutzes vor sogenannten K.-o.-Tropfen. Es sprachen Sonja Eichwede (SPD), Stephan Brandner (AfD), Susanne Hierl (CDU/CSU), Dr. Lena Gumnior (BÜNDNIS 90/DIE GRÜNEN), Luke Hoß (Die Linke) und Carmen Wegge (SPD), die das Gesetz im Allgemeinen unterstützten. Des Weiteren wurde ein Antrag der AfD zur Verringerung des EU-Haushalts zur Entlastung deutscher Steuerzahler (Drucksache 21/8906) behandelt, zu dem Peter Boehringer (AfD) sprach. Ein weiterer Antrag der AfD zur Wahrung der Subsidiarität und Verhinderung von Zentralisierung, insbesondere bezüglich nationaler Partnerschaftspläne, die deutsche Kommunen betreffen (Drucksache 21/8907), wurde von Abgeordneten wie Marc Bernhard und Sebastian Münzenmaier (AfD) sowie Knuth Meyer-Soltau (AfD) thematisiert. Die Weltklimakonferenz in Antalya wurde ebenfalls diskutiert, mit Anträgen der CDU/CSU und SPD, die Klimaschutz als Investition und Wettbewerbsfaktor betonten (Drucksache 21/8913). Die Grünen, vertreten durch Lisa Badum, schlugen vor, fossile Profite und die Konferenz zur Unabhängigkeit zu nutzen (Drucksache 21/8876). Die Linke legte zwei Anträge zur globalen Klimagerechtigkeit, Finanzarchitekturreform und Reparationen (Drucksache 21/8580) sowie zur globalen Solidarität und Verhinderung von Greenwashing (Drucksache 21/2535) vor. Der AfD-Antrag zur Beendigung der Mitwirkung Deutschlands am IPCC und zur Neuausrichtung der nationalen wissenschaftlichen Politikberatung wurde ebenfalls debattiert (Drucksachen 21/4464, 21/4891). Abschließend begann die erste Beratung eines Regierungsentwurfs zur Änderung der Finanzierung der Autobahn- und Bundesstraßeninfrastruktur (Drucksache 21/8868), bei der Bundesminister BMV Steffen Bilger sprach.",
+    "summary_easy": "Heute ist der 6. November 2026. Der Bundestag hat sich getroffen. Zuerst wurde die Tagesordnung erweitert. Dann sprachen Politiker über ein neues Gesetz. Dieses Gesetz soll Menschen besser vor \"K.-o.-Tropfen\" schützen. Viele Politiker von SPD, CDU/CSU, Grünen und Linken finden das gut. Die AfD hat Anträge gestellt. Ein Antrag war gegen einen großen EU-Haushalt. Sie wollen, dass deutsche Steuerzahler weniger zahlen. Ein anderer AfD-Antrag war gegen mehr Zentralismus in Deutschland. Es ging um Pläne, die Kommunen betreffen. Viele Anträge gab es zur Klimakonferenz. Parteien sprachen über Klimaschutz als wichtige Investition. Es gab auch eine Debatte über die Forschung zum Klima. Zum Schluss wurde über die Finanzierung von Autobahnen gesprochen. Das war ein erster Schritt zur Beratung eines neuen Gesetzes.",
     "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact_en": "During the Dutch 'Tulip Mania' in the 17th century, tulip bulbs became so valuable that they were traded like currency, with some single bulbs fetching the price of houses. This speculative bubble, driven by intense public desire for the exotic flowers, ultimately burst in 1637, causing widespread financial ruin.",
-      "fact_de": "Während der niederländischen 'Tulpenmanie' im 17. Jahrhundert wurden Tulpenzwiebeln so wertvoll, dass sie wie Währung gehandelt wurden und einzelne Zwiebeln den Preis von Häusern erzielen konnten. Diese Spekulationsblase, angetrieben von starkem öffentlichem Verlangen nach den exotischen Blumen, platzte schließlich 1637 und verursachte weit verbreitete finanzielle Ruinen.",
-      "fact_easy": "Im 17. Jahrhundert gab es in den Niederlanden etwas, das 'Tulpenmanie' hieß. Tulpenzwiebeln waren sehr teuer. Manchmal kosteten sie so viel wie ein Haus. Dann platzte die Blase und viele Leute verloren Geld.",
-      "category": "Traditions",
-      "source_title": "Tulip Mania - Wikipedia",
-      "source_url": "https://en.wikipedia.org/wiki/Tulip_mania"
+      "fact_en": "During the Edo period in Japan (1603-1868), sumptuary laws dictated what colors and fabrics commoners could wear. Elaborate kimonos made of silk were reserved for the samurai class, and even then, certain intricate designs were heavily regulated to distinguish rank.",
+      "fact_de": "Während der Edo-Zeit in Japan (1603-1868) schrieben Kleiderordnungen vor, welche Farben und Stoffe gewöhnliche Bürger tragen durften. Aufwendige Kimonos aus Seide waren der Samurai-Klasse vorbehalten, und selbst dann waren bestimmte komplizierte Muster stark reglementiert, um den Rang zu unterscheiden.",
+      "fact_easy": "In Japan gab es Regeln, welche Farben und Stoffe man tragen durfte. Nur reiche Leute durften besondere Kimonos tragen.",
+      "category": "Fashion",
+      "source_title": "The Met Museum: Japanese Art - Edo Period",
+      "source_url": "https://www.metmuseum.org/toah/hd/edo/hd_edo.htm"
     },
     {
-      "fact_en": "The iconic red color of the British Royal Mail's post boxes was chosen for a practical reason: to be easily visible and to deter vandalism. The vibrant hue makes them stand out against most backgrounds, ensuring they can be spotted quickly by postal workers and the public alike.",
-      "fact_de": "Die ikonische rote Farbe der Briefkästen der britischen Royal Mail wurde aus einem praktischen Grund gewählt: Sie sollte leicht sichtbar sein und Vandalismus verhindern. Der leuchtende Farbton hebt sie von den meisten Hintergründen ab und stellt sicher, dass sie sowohl von Postangestellten als auch von der Öffentlichkeit schnell erkannt werden können.",
-      "fact_easy": "Die roten Briefkästen in Großbritannien sind rot, damit man sie gut sehen kann. Das hilft der Post und den Leuten. So werden die Briefkästen nicht so leicht beschädigt.",
+      "fact_en": "The traditional Scottish kilt's pattern, known as a 'tartan,' was not originally unique to individual clans. It was only in the 19th century that tartans became associated with specific Scottish families, largely due to romanticized depictions in literature and fashion.",
+      "fact_de": "Das traditionelle schottische Kiltmuster, bekannt als 'Tartan', war ursprünglich nicht einzigartig für einzelne Clans. Erst im 19. Jahrhundert wurden Tartans mit bestimmten schottischen Familien in Verbindung gebracht, hauptsächlich aufgrund romantischer Darstellungen in Literatur und Mode.",
+      "fact_easy": "Schotten tragen oft Kilts. Die Muster auf den Kilts waren nicht immer für Familien. Erst später wurden die Muster zu Familien-Zeichen.",
       "category": "Traditions",
-      "source_title": "Why are Royal Mail postboxes red? - Royal Mail Group Ltd",
-      "source_url": "https://www.royalmail.com/about-us/our-heritage/postboxes"
+      "source_title": "National Museums Scotland: Tartan",
+      "source_url": "https://www.nms.ac.uk/explore-more/collections-stories/scottish-history/tartan/"
     }
   ],
   "frankfurt": {
@@ -336,141 +292,84 @@
       {
         "type": "Events",
         "emoji": "🎪",
-        "headline_en": "Early Christmas Shopping Discounts in Frankfurt City Center",
-        "headline_de": "Frühe Weihnachts-Rabatte: Innenstadt-Besuch lohnt sich jetzt",
-        "headline_easy": "In der Frankfurter Innenstadt gibt es jetzt Rabatte für Weihnachtsgeschenke.",
-        "summary_en": "Frankfurt's city center is offering early discounts on Christmas gifts. Some stores are already advertising 'Mid Sale' promotions, while others are offering reduced prices due to upcoming closures. This presents an opportunity for shoppers to find bargains before the main Black Friday sales.",
-        "summary_de": "Die Frankfurter Innenstadt bietet jetzt frühe Rabatte auf Weihnachtsgeschenke an. Einige Geschäfte werben bereits mit „Mid Sale“-Aktionen, während andere wegen bevorstehender Schließungen reduzierte Preise anbieten. Dies bietet Käufern die Möglichkeit, Schnäppchen vor den Haupt-Black-Friday-Verkäufen zu finden.",
-        "summary_easy": "Du kannst jetzt schon günstige Weihnachtsgeschenke kaufen. Manche Geschäfte haben 'Mid Sale'. Andere Geschäfte machen Rabatt, weil sie bald schließen.",
+        "headline_en": "Online Grocery Delivery Intensifies: Amazon and Rewe Challenge Traditional Supermarkets",
+        "headline_de": "Online-Lebensmittel-Lieferungen intensivieren sich: Amazon und Rewe fordern traditionelle Supermärkte heraus",
+        "headline_easy": "Lebensmittel online kaufen: Amazon und Rewe werden schneller.",
+        "summary_en": "Amazon and Rewe are launching new initiatives focused on rapid grocery delivery, signaling a significant shift in how consumers access food. This intensified competition raises questions about the future relevance of traditional brick-and-mortar supermarkets in the face of growing online ordering trends.",
+        "summary_de": "Amazon und Rewe starten neue Initiativen mit schnellen Lebensmittellieferungen, was einen bedeutenden Wandel in der Lebensmittelbeschaffung darstellt. Dieser verschärfte Wettbewerb wirft Fragen zur zukünftigen Relevanz traditioneller Supermärkte angesichts wachsender Online-Bestellungen auf.",
+        "summary_easy": "Amazon und Rewe bieten jetzt sehr schnelle Lieferungen von Lebensmitteln an. Immer mehr Menschen kaufen Lebensmittel online. Das ist eine neue Herausforderung für normale Supermärkte.",
         "links": [
           {
-            "title": "Sonderangebote: Warum sich der Gang in die Innenstadt jetzt lohnt",
-            "url": "https://www.faz.net/aktuell/rhein-main/wirtschaft/sonderrabatte-warum-sich-der-gang-in-die-innenstadt-jetzt-lohnt-accg-201655510.html"
+            "title": "Amazon und Rewe greifen an: Wird der Supermarkt überflüssig?",
+            "url": "https://www.teltarif.de/supermarkt-bestellen-lebensmittel-online/news/107483.html"
+          },
+          {
+            "title": "World Design Capital: Wie der Aktivismus museal wird",
+            "url": "https://www.faz.net/aktuell/rhein-main/kultur/world-design-capital-frankfurt-wie-der-aktivismus-ins-museum-kommt-accg-201663006.html"
           }
         ]
       },
       {
         "type": "Crime",
         "emoji": "🚔",
-        "headline_en": "Frankfurt Crime and Regional News Roundup",
-        "headline_de": "Frankfurt Kriminalität und Regionales: Messerangriffe und Bahn-Pläne",
-        "headline_easy": "Nachrichten aus Frankfurt und der Region: Streit mit Messer und Brücken-Pläne.",
-        "summary_en": "A live blog for the Rhein-Main region reports on various incidents, including two men being injured with knives in Frankfurt. Other news includes charges filed after a shooting in Gießen, a family losing their home in a fire, and a Point Alpha award for ex-General Ben Hodges. The blog also mentions the Bahn's plans for a new bridge over the Main in Frankfurt.",
-        "summary_de": "Ein Live-Blog für die Rhein-Main-Region berichtet über verschiedene Vorfälle, darunter zwei Männer, die in Frankfurt mit Messern verletzt wurden. Weitere Nachrichten umfassen eine Anklageerhebung nach einer Schießerei in Gießen, eine Familie, die ihr Zuhause bei einem Brand verlor, und die Verleihung des Point-Alpha-Preises an Ex-General Ben Hodges. Der Blog erwähnt auch die Pläne der Bahn für eine neue Brücke über den Main in Frankfurt.",
-        "summary_easy": "In Frankfurt wurden zwei Männer mit einem Messer verletzt. In Gießen gab es eine Schießerei. Eine Familie hat ihr Haus durch Feuer verloren. Die Bahn plant eine neue Brücke über den Main.",
+        "headline_en": "Traffic Disruptions, Campus Protests, and Infrastructure Plans in Rhein-Main",
+        "headline_de": "Verkehrsbehinderungen, Campus-Proteste und Infrastrukturpläne in Rhein-Main",
+        "headline_easy": "Verkehrsprobleme, Proteste und Baupläne im Rhein-Main-Gebiet",
+        "summary_en": "The Rhein-Main region is experiencing a mix of incidents, including a full closure of the A3 motorway due to an overturned trailer and two serious injuries from a collision on the B260. Additionally, the University of Kassel has withdrawn criminal charges following a lecture hall occupation, and the Bahn plans to build a new bridge over the Main in Frankfurt.",
+        "summary_de": "In der Rhein-Main-Region gab es verschiedene Vorfälle, darunter eine Vollsperrung der A3 wegen eines umgestürzten Anhängers und zwei Schwerverletzte bei einer Kollision auf der B260. Außerdem hat die Universität Kassel Strafanträge nach einer Hörsaalbesetzung zurückgezogen und die Bahn plant den Bau einer neuen Mainbrücke in Frankfurt.",
+        "summary_easy": "Auf der Autobahn A3 gab es eine Sperrung wegen eines umgekippten Anhängers. Zwei Menschen wurden verletzt. In Kassel gibt es keine Strafen mehr nach einem Protest im Hörsaal. Die Bahn baut eine neue Brücke über den Main.",
         "links": [
           {
-            "title": "Bahn will neue Brücke über Main in Frankfurt schlagen: Anklage erhoben nach Schüssen mitten in Gießen +++ Ehepaar mit acht Kindern nach Brand ohne Zuhause +++ Point-Alpha-Preis an Ex-General Ben Hodges verliehen +++ Zwei Männer in Frankfurt mit Messer verletzt +++ Liveblog zu Rhein-Main und Hessen",
-            "url": "https://www.faz.net/aktuell/rhein-main/bahn-will-neue-bruecke-ueber-den-main-in-frankfurt-schlagen-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
+            "title": "Rhein-Main-Liveblog: Vollsperrung auf A3 wegen umgestürzten Anhänger: Zwei Schwerverletzte bei Kollision auf B260",
+            "url": "https://www.faz.net/aktuell/rhein-main/zwei-schwerverletzte-bei-kollision-auf-b260-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
           },
           {
-            "title": "Hinweise des Tages: Hier finden Sie einen Überblick über interessante Beiträge aus anderen Medien und Veröffentlichungen.",
-            "url": "https://www.nachdenkseiten.de/?p=158667"
+            "title": "Statt hinzuschauen, spricht man von «ollen Kamellen» – in Marburg werden seit Jahren islamistische Umtriebe verdrängt",
+            "url": "https://www.nzz.ch/feuilleton/statt-hinzuschauen-spricht-man-von-ollen-kamellen-in-marburg-werden-seit-jahren-islamistische-umtriebe-verdraengt-ld.10053974"
           }
         ]
       },
       {
         "type": "Sales & Offers",
         "emoji": "🛍️",
-        "headline_en": "Frankfurt's City Center Offers Early Shopping Discounts",
-        "headline_de": "Frankfurter Innenstadt lockt mit frühen Rabatten",
-        "headline_easy": "Du kannst jetzt schon in Frankfurt Geschenke günstiger kaufen.",
-        "summary_en": "Shoppers in Frankfurt's city center can take advantage of early discounts on Christmas gifts. Some stores are already promoting 'Mid Sale' offers, and others are providing reduced prices due to impending closures, making it a good time to shop before peak sales periods.",
-        "summary_de": "Einkäufer in der Frankfurter Innenstadt können von frühen Rabatten auf Weihnachtsgeschenke profitieren. Einige Geschäfte bewerben bereits „Mid Sale“-Angebote, und andere bieten aufgrund bevorstehender Schließungen reduzierte Preise an, was es zu einer guten Zeit zum Einkaufen vor den Spitzenverkaufszeiten macht.",
-        "summary_easy": "Kaufe jetzt schon Weihnachtsgeschenke in Frankfurt. Manche Geschäfte haben 'Mid Sale'. Andere geben Rabatt, weil sie bald schließen.",
+        "headline_en": "Transfer Speculation: Eintracht Frankfurt Interested in Kalimuendo",
+        "headline_de": "Transfer-Spekulation: Eintracht Frankfurt an Kalimuendo interessiert",
+        "headline_easy": "Fußball: Frankfurt will Spieler Kalimuendo.",
+        "summary_en": "Eintracht Frankfurt is reportedly exploring options to sign player Arnaud Kalimuendo, with Nottingham Forest setting a €30 million price tag. This transfer speculation is part of ongoing updates on player movements, rumors, and contract extensions in the football world.",
+        "summary_de": "Eintracht Frankfurt prüft offenbar die Verpflichtung von Spieler Arnaud Kalimuendo, wobei Nottingham Forest eine Ablösesumme von 30 Millionen Euro fordert. Diese Transfergerüchte sind Teil aktueller Berichte über Spielerwechsel, Gerüchte und Vertragsverlängerungen im Fußball.",
+        "summary_easy": "Eintracht Frankfurt denkt über den Spieler Arnaud Kalimuendo nach. Andere Vereine wollen viel Geld für ihn. Es gibt viele Nachrichten über Spieler, die wechseln.",
         "links": [
           {
-            "title": "Bahn will neue Brücke über Main in Frankfurt schlagen: Anklage erhoben nach Schüssen mitten in Gießen +++ Ehepaar mit acht Kindern nach Brand ohne Zuhause +++ Point-Alpha-Preis an Ex-General Ben Hodges verliehen +++ Zwei Männer in Frankfurt mit Messer verletzt +++ Liveblog zu Rhein-Main und Hessen",
-            "url": "https://www.faz.net/aktuell/rhein-main/bahn-will-neue-bruecke-ueber-den-main-in-frankfurt-schlagen-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
+            "title": "Transfer-Ticker: Kalimuendo bleibt ein Thema: Frankfurt prüft seine Möglichkeiten",
+            "url": "https://www.n-tv.de/sport/fussball/transfermarkt/Transfer-Ticker-Eintracht-Frankfurt-an-Arnaud-Kalimuendo-interessiert-Nottingham-Forest-fordert-30-Millionen-Euro-id31512511.html"
           },
           {
-            "title": "Hinweise des Tages: Hier finden Sie einen Überblick über interessante Beiträge aus anderen Medien und Veröffentlichungen.",
-            "url": "https://www.nachdenkseiten.de/?p=158667"
+            "title": "Rhein-Main-Liveblog: Vollsperrung auf A3 wegen umgestürzten Anhänger: Zwei Schwerverletzte bei Kollision auf B260",
+            "url": "https://www.faz.net/aktuell/rhein-main/zwei-schwerverletzte-bei-kollision-auf-b260-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
           }
         ]
       },
       {
         "type": "Local News",
         "emoji": "📍",
-        "headline_en": "Frankfurt and Rhein-Main Regional News Update",
-        "headline_de": "Frankfurt und Rhein-Main: Aktuelle Nachrichten und Entwicklungen",
-        "headline_easy": "Nachrichten aus Frankfurt und der Region Rhein-Main.",
-        "summary_en": "The Rhein-Main region's live blog covers a range of local news, including two men being injured in a knife incident in Frankfurt. Other updates include legal proceedings in Gießen, a family displaced by a fire, an award presented to General Ben Hodges, and plans by the Bahn for a new bridge over the Main river in Frankfurt.",
-        "summary_de": "Der Live-Blog der Region Rhein-Main deckt eine Reihe lokaler Nachrichten ab, darunter die Verletzung von zwei Männern bei einem Messerangriff in Frankfurt. Weitere Aktualisierungen umfassen Gerichtsverfahren in Gießen, eine durch einen Brand vertriebene Familie, die Verleihung eines Preises an General Ben Hodges und Pläne der Bahn für eine neue Brücke über den Main in Frankfurt.",
-        "summary_easy": "In Frankfurt wurden zwei Männer verletzt. In Gießen gab es eine Schießerei. Eine Familie verlor ihr Haus durch Feuer. Die Bahn plant eine neue Brücke über den Main.",
+        "headline_en": "Regional Incidents: Traffic Chaos, Campus Unrest, and Infrastructure Developments",
+        "headline_de": "Regionale Vorfälle: Verkehrschaos, Campus-Unruhen und Infrastrukturentwicklungen",
+        "headline_easy": "Nachrichten aus der Region: Verkehr, Proteste und neue Brücke.",
+        "summary_en": "The Rhein-Main area faces traffic disruptions, including a full A3 closure and a collision with two serious injuries on the B260. Meanwhile, the University of Kassel dropped charges after a lecture hall occupation, and plans are underway for a new bridge over the Main in Frankfurt.",
+        "summary_de": "Die Region Rhein-Main verzeichnet Verkehrsbehinderungen, darunter eine Vollsperrung der A3 und eine Kollision mit zwei Schwerverletzten auf der B260. Die Universität Kassel hat Strafanträge nach einer Hörsaalbesetzung zurückgezogen, und es gibt Pläne für eine neue Mainbrücke in Frankfurt.",
+        "summary_easy": "Auf der A3 gab es eine Sperrung. Zwei Menschen wurden verletzt. In Kassel gab es einen Protest, jetzt gibt es keine Strafe. Die Bahn baut eine neue Brücke über den Main in Frankfurt.",
         "links": [
           {
-            "title": "Bahn will neue Brücke über Main in Frankfurt schlagen: Anklage erhoben nach Schüssen mitten in Gießen +++ Ehepaar mit acht Kindern nach Brand ohne Zuhause +++ Point-Alpha-Preis an Ex-General Ben Hodges verliehen +++ Zwei Männer in Frankfurt mit Messer verletzt +++ Liveblog zu Rhein-Main und Hessen",
-            "url": "https://www.faz.net/aktuell/rhein-main/bahn-will-neue-bruecke-ueber-den-main-in-frankfurt-schlagen-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
+            "title": "Rhein-Main-Liveblog: Vollsperrung auf A3 wegen umgestürzten Anhänger: Zwei Schwerverletzte bei Kollision auf B260",
+            "url": "https://www.faz.net/aktuell/rhein-main/zwei-schwerverletzte-bei-kollision-auf-b260-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
           },
           {
-            "title": "Hinweise des Tages: Hier finden Sie einen Überblick über interessante Beiträge aus anderen Medien und Veröffentlichungen.",
-            "url": "https://www.nachdenkseiten.de/?p=158667"
+            "title": "Statt hinzuschauen, spricht man von «ollen Kamellen» – in Marburg werden seit Jahren islamistische Umtriebe verdrängt",
+            "url": "https://www.nzz.ch/feuilleton/statt-hinzuschauen-spricht-man-von-ollen-kamellen-in-marburg-werden-seit-jahren-islamistische-umtriebe-verdraengt-ld.10053974"
           }
         ]
       }
     ]
   },
-  "dresden": [
-    {
-      "price": "370 €",
-      "address": "Leipziger Str. 113, 01127 Dresden",
-      "district": "Cotta",
-      "size": "30",
-      "rooms": "1",
-      "title": "Sonnige 1-Zimmer-Wohnung in guter Lage (Nähe Zentrum)",
-      "url": "https://www.immobilienscout24.de/expose/148622762",
-      "source": "Immoscout24.de"
-    },
-    {
-      "price": "385 €",
-      "address": "Marienstraße 18, 01156 Dresden",
-      "district": "Cossebaude",
-      "size": "35",
-      "rooms": "1.5",
-      "title": "Helle 1,5-Zimmer-Wohnung mit Balkon in ruhiger Umgebung",
-      "url": "https://www.immowelt.de/expose/2AJB49L",
-      "source": "Immowelt.de"
-    },
-    {
-      "price": "410 €",
-      "address": "Bergmannstraße 4, 01067 Dresden",
-      "district": "Seevorstadt",
-      "size": "38",
-      "rooms": "1",
-      "title": "Moderne 1-Zimmer-Wohnung zentral gelegen mit guter Infrastruktur",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/1-zimmer-wohnung-in-dresden-seevorstadt-zentral-410-euro/2680698738-209-3119",
-      "source": "Kleinanzeigen.de"
-    },
-    {
-      "price": "420 €",
-      "address": "Pillnitzer Landstraße 10, 01324 Dresden",
-      "district": "Loschwitz",
-      "size": "40",
-      "rooms": "1",
-      "title": "Gemütliche 1-Zimmer-Wohnung mit Blick ins Grüne",
-      "url": "https://www.vonovia.de/wohnen/mietwohnung/dresden/pillnitzer-landstr-10/M21077901",
-      "source": "Vonovia.de"
-    },
-    {
-      "price": "435 €",
-      "address": "Schillingstraße 2, 01099 Dresden",
-      "district": "Neustadt",
-      "size": "42",
-      "rooms": "1.5",
-      "title": "Attraktive 1,5-Zimmer-Wohnung in beliebter Lage der Neustadt",
-      "url": "https://www.wohnungsboerse.net/mietwohnungen-dresden/wohnung-42m2/2817950",
-      "source": "Wohnungsboerse.net"
-    },
-    {
-      "price": "440 €",
-      "address": "Hofmannstraße 6, 01187 Dresden",
-      "district": "Plauen",
-      "size": "45",
-      "rooms": "2",
-      "title": "2-Zimmer-Wohnung mit guter Verkehrsanbindung in Dresden Plauen",
-      "url": "https://www.wg-gesucht.de/wohnung-in-dresden-plauen.7167821.html",
-      "source": "WG-Gesucht.de"
-    }
-  ]
+  "dresden": []
 }

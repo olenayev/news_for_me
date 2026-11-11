@@ -1,0 +1,375 @@
+{
+  "date": "Wednesday, November 11 2026",
+  "sections": [
+    {
+      "category": "Germany",
+      "emoji": "🇩🇪",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Merz: Google Cloud is sovereign enough for intelligence agencies",
+          "headline_de": "Merz: Google Cloud ist souverän genug für Geheimdienste",
+          "headline_easy": "Merz sagt: Google Cloud ist gut genug für Geheimdienste.",
+          "summary_en": "Friedrich Merz stated that Google Cloud possesses sufficient sovereignty for German intelligence agencies. This statement comes amid discussions about data security and the use of cloud services by governmental bodies.",
+          "summary_de": "Friedrich Merz erklärte, dass Google Cloud über genügend Souveränität für deutsche Geheimdienste verfügt. Diese Aussage fiel inmitten von Diskussionen über Datensicherheit und die Nutzung von Cloud-Diensten durch staatliche Stellen.",
+          "summary_easy": "Friedrich Merz hat etwas gesagt. Er meint, Google Cloud ist sicher genug für die Geheimdienste in Deutschland. Es gibt Gespräche über Datensicherheit.",
+          "links": [
+            {
+              "title": "Merz: Google Cloud is sovereign enough for intelligence agencies",
+              "url": "https://www.heise.de/en/news/Merz-Google-Cloud-is-sovereign-enough-for-intelligence-agencies-11508564.html"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Refueling tankers moved to Germany due to unspecified Iran threat, official says",
+          "headline_de": "Betankungstanker wegen ungenannter Iran-Bedrohung nach Deutschland verlegt, sagt Beamter",
+          "headline_easy": "Flugzeuge werden nach Deutschland gebracht wegen einer Gefahr aus Iran.",
+          "summary_en": "Refueling tankers have been moved to Germany from the UK due to an unspecified threat from Iran. This military repositioning indicates heightened regional tensions and precautionary measures.",
+          "summary_de": "Betankungstanker wurden wegen einer ungenannten Bedrohung aus dem Iran von Großbritannien nach Deutschland verlegt. Diese militärische Umlagerung deutet auf erhöhte regionale Spannungen und vorsorgliche Maßnahmen hin.",
+          "summary_easy": "Flugzeuge, die andere Flugzeuge betanken, sind nach Deutschland gebracht worden. Das war aus England. Grund ist eine Gefahr aus dem Iran. Man will vorsichtig sein.",
+          "links": [
+            {
+              "title": "Refueling tankers moved to Germany due to unspecified Iran threat, official says",
+              "url": "https://abcnews.com/International/refueling-tankers-moved-uk-germany-due-unspecified-iran/story?id=138004946"
+            },
+            {
+              "title": "U.S. military moves aircraft from RAF Mildenhall base in U.K. to Germany, Spain, reportedly due to Iran threat",
+              "url": "https://freerepublic.com/focus/f-news/4402469/posts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Europe",
+      "emoji": "🇪🇺",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Why young protesters in France are turning against TV channel CNews",
+          "headline_de": "Warum junge Demonstranten in Frankreich sich von TV-Kanal CNews abwenden",
+          "headline_easy": "Junge Leute in Frankreich mögen den TV-Sender CNews nicht mehr.",
+          "summary_en": "Young protesters in France are increasingly expressing dissatisfaction with the television channel CNews. This shift in public opinion suggests growing concerns about the channel's content or editorial stance.",
+          "summary_de": "Junge Demonstranten in Frankreich äußern zunehmend ihre Unzufriedenheit mit dem Fernsehsender CNews. Dieser Meinungsumschwung deutet auf wachsende Bedenken hinsichtlich des Inhalts oder der redaktionellen Haltung des Senders hin.",
+          "summary_easy": "Junge Menschen in Frankreich protestieren. Sie sind nicht zufrieden mit dem Fernsehsender CNews. Sie finden den Sender nicht gut.",
+          "links": [
+            {
+              "title": "Why young protesters in France are turning against TV channel CNews",
+              "url": "https://theconversation.com/why-young-protesters-in-france-are-turning-against-tv-channel-cnews-296167"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Venture Global plans to become the world’s largest gas exporter in a year—and now aims to build power for hyperscaler data centers",
+          "headline_de": "Venture Global will im nächsten Jahr der weltgrößte Gasexporteur werden – und plant nun, Strom für Hyperscale-Rechenzentren zu liefern",
+          "headline_easy": "Venture Global will mehr Gas verkaufen. Sie wollen auch Strom für große Computer bauen.",
+          "summary_en": "Venture Global aims to become the world's largest gas exporter within a year and is expanding into providing power for hyperscale data centers. This strategic move signifies a dual focus on energy export and supporting the growing demands of the digital infrastructure.",
+          "summary_de": "Venture Global hat das Ziel, innerhalb eines Jahres der weltgrößte Gasexporteur zu werden, und expandiert in die Stromversorgung für Hyperscale-Rechenzentren. Dieser strategische Schritt bedeutet eine doppelte Fokussierung auf den Energieexport und die Unterstützung des wachsenden Bedarfs der digitalen Infrastruktur.",
+          "summary_easy": "Venture Global will bald das meiste Gas weltweit verkaufen. Sie wollen auch Strom machen. Dieser Strom ist für sehr große Computer-Zentren.",
+          "links": [
+            {
+              "title": "Venture Global plans to become the world’s largest gas exporter in a year—and now aims to build power for hyperscaler data centers",
+              "url": "https://fortune.com/2026/11/10/venture-global-worlds-largest-gas-exporter-power-data-centers-hyperscalers/"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "FBI is ‘looking into’ Jensen Huang, as critics pick over the weaknesses in Nvidia’s corporate governance structure",
+          "headline_de": "FBI ermittelt gegen Jensen Huang, während Kritiker die Schwächen in Nvidias Unternehmensführungsstruktur untersuchen",
+          "headline_easy": "Die Polizei untersucht Jensen Huang wegen Nvidia. Kritiker finden Fehler in der Firma.",
+          "summary_en": "The FBI is reportedly investigating Jensen Huang amidst growing scrutiny of Nvidia's corporate governance. Critics are examining potential weaknesses in the company's structure and leadership.",
+          "summary_de": "Berichten zufolge ermittelt das FBI gegen Jensen Huang inmitten der zunehmenden Überprüfung der Unternehmensführung von Nvidia. Kritiker untersuchen potenzielle Schwächen in der Struktur und Führung des Unternehmens.",
+          "summary_easy": "Die Polizei macht eine Untersuchung bei Jensen Huang. Er ist wichtig bei der Firma Nvidia. Kritiker denken, die Firma hat Probleme.",
+          "links": [
+            {
+              "title": "FBI is ‘looking into’ Jensen Huang, as critics pick over the weaknesses in Nvidia’s corporate governance structure",
+              "url": "https://fortune.com/2026/11/10/fbi-looking-into-jensen-huang-nvidia-corporate-governance/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "US",
+      "emoji": "🇺🇸",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "U.S. Marine Calls Alaska Airlines Employee “Anti-Military” After Being Denied A Free Upgrade",
+          "headline_de": "US-Marine bezeichnet Alaska Airlines Angestellten als \"anti-militärisch\", nachdem ihm ein kostenloser Upgrade verweigert wurde",
+          "headline_easy": "Ein Soldat der US-Marine war sauer auf Alaska Airlines. Er bekam keinen kostenlosen Sitzplatz-Upgrade.",
+          "summary_en": "A U.S. Marine accused an Alaska Airlines employee of being \"anti-military\" after being denied a complimentary upgrade. The incident highlights a dispute over customer service and perceived respect for military personnel.",
+          "summary_de": "Ein US-Marine beschuldigte einen Mitarbeiter von Alaska Airlines, \"anti-militärisch\" zu sein, nachdem ihm ein kostenloser Upgrade verweigert wurde. Der Vorfall beleuchtet einen Streit über Kundenservice und wahrgenommene Achtung vor Militärpersonal.",
+          "summary_easy": "Ein Soldat in der Marine war verärgert. Ein Mitarbeiter von Alaska Airlines gab ihm keinen besseren Sitzplatz. Der Soldat sagte, der Mitarbeiter sei gegen das Militär.",
+          "links": [
+            {
+              "title": "U.S. Marine Calls Alaska Airlines Employee “Anti-Military” After Being Denied A Free Upgrade",
+              "url": "https://liveandletsfly.com/alaska-airlines-marine-free-upgrade-dispute/"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "iPhone 20 Pro Rumors Point to These Ten Big Changes",
+          "headline_de": "iPhone 20 Pro Gerüchte deuten auf diese zehn großen Änderungen hin",
+          "headline_easy": "Es gibt neue Gerüchte über das iPhone 20 Pro. Es soll zehn neue Sachen haben.",
+          "summary_en": "Rumors surrounding the upcoming iPhone 20 Pro suggest ten significant changes are expected. These potential updates could include new features and design modifications for Apple's flagship smartphone.",
+          "summary_de": "Gerüchte über das kommende iPhone 20 Pro deuten auf zehn bedeutende Änderungen hin. Diese potenziellen Aktualisierungen könnten neue Funktionen und Designänderungen für Apples Flaggschiff-Smartphone umfassen.",
+          "summary_easy": "Es gibt neue Infos über das iPhone 20 Pro. Man erwartet zehn große Änderungen. Das ist ein neues Handy von Apple.",
+          "links": [
+            {
+              "title": "iPhone 20 Pro Rumors Point to These Ten Big Changes",
+              "url": "https://www.macrumors.com/2026/11/10/iphone-20-pro-rumors-ten-big-changes/"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Cancer uses antioxidants to disarm the immune system, scientists discover",
+          "headline_de": "Krebs nutzt Antioxidantien, um das Immunsystem zu entwaffnen, entdecken Wissenschaftler",
+          "headline_easy": "Krebs benutzt Antioxidantien, um die Abwehrkräfte des Körpers zu stoppen. Das haben Forscher herausgefunden.",
+          "summary_en": "Scientists have discovered that cancer cells can utilize antioxidants to evade and disarm the body's immune system. This finding sheds light on a new mechanism by which tumors can suppress immune responses.",
+          "summary_de": "Wissenschaftler haben entdeckt, dass Krebszellen Antioxidantien nutzen können, um das Immunsystem des Körpers zu umgehen und zu entwaffnen. Dieser Fund beleuchtet einen neuen Mechanismus, durch den Tumore Immunreaktionen unterdrücken können.",
+          "summary_easy": "Forscher haben etwas Neues entdeckt. Krebszellen benutzen Antioxidantien. Das hilft dem Krebs, die Abwehrkräfte des Körpers zu schwächen. So kann der Krebs besser wachsen.",
+          "links": [
+            {
+              "title": "Cancer uses antioxidants to disarm the immune system, scientists discover",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261104084021.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Asia",
+      "emoji": "🌏",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Shenzhen Unveils APEC China 2026 Host-City Theme Song and Music Video",
+          "headline_de": "Shenzhen enthüllt das APEC China 2026 Host-City-Themenlied und Musikvideo",
+          "headline_easy": "Shenzhen hat ein Lied und ein Video für die APEC-Veranstaltung gemacht.",
+          "summary_en": "Shenzhen has launched its official theme song and music video for hosting APEC China 2026. This initiative aims to promote the city and the upcoming international event.",
+          "summary_de": "Shenzhen hat sein offizielles Themenlied und Musikvideo für die Ausrichtung der APEC China 2026 vorgestellt. Diese Initiative zielt darauf ab, die Stadt und die bevorstehende internationale Veranstaltung zu bewerben.",
+          "summary_easy": "Shenzhen ist der Ort für die APEC-Veranstaltung im Jahr 2026. Die Stadt hat jetzt ein Lied und ein Musikvideo gemacht. Das soll die Stadt und die Veranstaltung bekannt machen.",
+          "links": [
+            {
+              "title": "Shenzhen Unveils APEC China 2026 Host-City Theme Song and Music Video",
+              "url": "https://en.antaranews.com/news/441651/shenzhen-unveils-apec-china-2026-host-city-theme-song-and-music-video"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "World",
+      "emoji": "🌍",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Virtual fruit fly brains can play Doom and trade bitcoin",
+          "headline_de": "Virtuelle Fruchtfliegenhirne können Doom spielen und Bitcoin handeln",
+          "headline_easy": "Kleine Computer-Gehirne, die wie Fliegen sind, können ein Spiel namens Doom spielen und mit Bitcoin handeln.",
+          "summary_en": "Researchers have developed virtual fruit fly brains capable of playing the video game Doom and even trading Bitcoin. This innovative use of artificial intelligence demonstrates advanced computational capabilities.",
+          "summary_de": "Forscher haben virtuelle Fruchtfliegenhirne entwickelt, die das Videospiel Doom spielen und sogar Bitcoin handeln können. Dieser innovative Einsatz künstlicher Intelligenz zeigt fortgeschrittene computergestützte Fähigkeiten.",
+          "summary_easy": "Forscher haben Computer-Gehirne gemacht. Sie sind wie Gehirne von kleinen Fliegen. Diese Computer-Gehirne können das Spiel Doom spielen. Sie können auch mit Bitcoin handeln.",
+          "links": [
+            {
+              "title": "Virtual fruit fly brains can play Doom and trade bitcoin",
+              "url": "https://www.scientificamerican.com/article/virtual-fruit-fly-brains-can-play-doom-and-trade-bitcoin/"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Total Energies Team Saved, Becomes Xefi",
+          "headline_de": "Team Total Energies gerettet, wird Xefi",
+          "headline_easy": "Ein Team namens Total Energies ist gerettet worden. Es heißt jetzt Xefi.",
+          "summary_en": "The cycling team previously known as Total Energies has been saved and will now compete under the name Xefi. This rebranding marks a new chapter for the team following financial restructuring or sponsorship changes.",
+          "summary_de": "Die Radsportmannschaft, die früher als Total Energies bekannt war, wurde gerettet und wird nun unter dem Namen Xefi antreten. Dieses Rebranding markiert ein neues Kapitel für das Team nach finanzieller Umstrukturierung oder Sponsorenwechseln.",
+          "summary_easy": "Ein Radsportteam hieß früher Total Energies. Jetzt ist es gerettet. Das Team hat einen neuen Namen: Xefi. Es geht weiter für das Team.",
+          "links": [
+            {
+              "title": "Total Energies Team Saved, Becomes Xefi",
+              "url": "https://inrng.com/2026/11/total-energies-team-xefi/"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "MHA deputy secretary to step down, take on LTA CEO position from May 1",
+          "headline_de": "Stellvertretender Staatssekretär des MHA tritt zurück und übernimmt ab dem 1. Mai die Position des LTA-CEO",
+          "headline_easy": "Ein wichtiger Mann vom MHA geht weg. Er wird der Chef (CEO) bei der LTA ab Mai.",
+          "summary_en": "The Deputy Secretary of the Ministry of Home Affairs (MHA) will be stepping down from their current role to assume the position of CEO at the Land Transport Authority (LTA) starting May 1st. This represents a significant leadership transition.",
+          "summary_de": "Der stellvertretende Staatssekretär des Ministeriums für Inneres (MHA) tritt von seiner derzeitigen Position zurück, um ab dem 1. Mai die Position des CEO bei der Land Transport Authority (LTA) zu übernehmen. Dies stellt einen bedeutenden Führungswechsel dar.",
+          "summary_easy": "Eine wichtige Person im MHA wird einen neuen Job bekommen. Sie hört beim MHA auf. Ab dem 1. Mai wird sie Chefin (CEO) bei der LTA sein.",
+          "links": [
+            {
+              "title": "MHA deputy secretary to step down, take on LTA CEO position from May 1",
+              "url": "https://www.channelnewsasia.com/singapore/mha-lta-ceo-htx-mot-6539046"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "The 78 must-have toys this Christmas for every age group and budget - as picked by John Lewis, Amazon and children's gift experts",
+          "headline_de": "Die 78 unverzichtbaren Spielzeuge dieses Weihnachten für jede Altersgruppe und jedes Budget – ausgewählt von John Lewis, Amazon und Kinderspielzeugexperten",
+          "headline_easy": "Hier sind 78 Spielzeuge, die man zu Weihnachten kaufen sollte. Sie sind für alle Altersgruppen und Preise.",
+          "summary_en": "A curated list of 78 essential toys for Christmas has been compiled, considering various age groups and budgets. The selection comes from experts at John Lewis, Amazon, and children's gift specialists.",
+          "summary_de": "Eine kuratierte Liste von 78 unverzichtbaren Spielzeugen für Weihnachten wurde zusammengestellt, unter Berücksichtigung verschiedener Altersgruppen und Budgets. Die Auswahl stammt von Experten von John Lewis, Amazon und Kinderspielzeugspezialisten.",
+          "summary_easy": "Es gibt eine Liste mit 78 Spielzeugen für Weihnachten. Man muss sie haben. Die Liste ist für alle Kinder und alle Geldbeutel. Experten haben die Spielzeuge ausgesucht.",
+          "links": [
+            {
+              "title": "The 78 must-have toys this Christmas for every age group and budget - as picked by John Lewis, Amazon and children's gift experts",
+              "url": "https://www.dailymail.com/lifestyle/article-16226835/The-78-toys-Christmas-age-group-budget-picked-John-Lewis-Amazon-childrens-gift-experts.html"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "This unassuming sculpture lays bare the darkest impulses of consumer desire",
+          "headline_de": "Diese unscheinbare Skulptur legt die dunkelsten Impulse des Konsumwunsches offen",
+          "headline_easy": "Eine kleine Skulptur zeigt, wie sehr Menschen Dinge kaufen wollen.",
+          "summary_en": "An exhibition featuring an unassuming sculpture is reportedly revealing the deeper, darker aspects of consumer desire. The artwork is said to provoke thought about materialism and societal impulses.",
+          "summary_de": "Eine Ausstellung mit einer unscheinbaren Skulptur enthüllt angeblich die tieferen, dunkleren Aspekte des Konsumwunsches. Das Kunstwerk soll zum Nachdenken über Materialismus und gesellschaftliche Impulse anregen.",
+          "summary_easy": "Es gibt eine Kunstausstellung. Dort gibt es eine kleine Skulptur. Die Skulptur zeigt, wie sehr Menschen Dinge kaufen wollen. Sie zeigt auch die schlechten Seiten davon.",
+          "links": [
+            {
+              "title": "This unassuming sculpture lays bare the darkest impulses of consumer desire",
+              "url": "https://www.dazeddigital.com/art-photography/article/71324/1/lorenza-longhi-art-basel-paris-2026-exhibition-protests-luxury?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=this-unassuming-sculpture-lays-bare-the-darkest-impulses-of-consumer-desire"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "bundestag": {
+    "wahlperiode": 21,
+    "sitzung": 106,
+    "url": "https://dserver.bundestag.de/btp/21/21106.pdf",
+    "summary_en": "The 106th session of the 21st legislative period of the German Bundestag took place on Friday, November 6, 2026. The session began with an extension of the agenda. The Bundestag then proceeded to the second and third readings of a bill to amend the Criminal Code, aiming to strengthen legal protection against \"knock-out drops.\" Speakers included Sonja Eichwede (SPD), Stephan Brandner (AfD), Susanne Hierl (CDU/CSU), Dr. Lena Gumnior (BÜNDNIS 90/DIE GRÜNEN), Luke Hoß (Die Linke), and Carmen Wegge (SPD), generally supporting the bill. The session also addressed an AfD motion to reduce the EU budget to relieve German taxpayers (Drucksache 21/8906), with Peter Boehringer (AfD) speaking. Another AfD motion concerned maintaining subsidiarity and preventing centralization, specifically regarding national partnership plans impacting German municipalities (Drucksache 21/8907), with speakers like Marc Bernhard and Sebastian Münzenmaier (AfD) and Knuth Meyer-Soltau (AfD). The Bundestag discussed the World Climate Conference in Antalya, with motions from the CDU/CSU and SPD emphasizing climate protection as an investment and competitive factor (Drucksache 21/8913). The Greens, represented by Lisa Badum, proposed leveraging fossil fuel profits and the conference for independence (Drucksache 21/8876). Die Linke presented two motions on global climate justice, financial architecture reform, and reparations (Drucksache 21/8580), and another on global solidarity and preventing greenwashing (Drucksache 21/2535). The AfD motion to end German participation in the Intergovernmental Panel on Climate Change (IPCC) and realign national scientific policy advice was also debated (Drucksachen 21/4464, 21/4891). Finally, the Bundestag began its first reading of a government bill to amend the financing of the Federal Agency for Motorways and Other Federal Trunk Roads (Drucksache 21/8868), with Federal Minister BMV Steffen Bilger speaking.",
+    "summary_de": "Die 106. Sitzung der 21. Wahlperiode des Deutschen Bundestages fand am Freitag, den 6. November 2026 statt. Die Sitzung begann mit einer Erweiterung der Tagesordnung. Anschließend befasste sich der Bundestag mit der zweiten und dritten Beratung eines Gesetzesentwurfs zur Änderung des Strafgesetzbuches zur Stärkung des strafrechtlichen Schutzes vor sogenannten K.-o.-Tropfen. Es sprachen Sonja Eichwede (SPD), Stephan Brandner (AfD), Susanne Hierl (CDU/CSU), Dr. Lena Gumnior (BÜNDNIS 90/DIE GRÜNEN), Luke Hoß (Die Linke) und Carmen Wegge (SPD), die das Gesetz im Allgemeinen unterstützten. Des Weiteren wurde ein Antrag der AfD zur Verringerung des EU-Haushalts zur Entlastung deutscher Steuerzahler (Drucksache 21/8906) behandelt, zu dem Peter Boehringer (AfD) sprach. Ein weiterer Antrag der AfD zur Wahrung der Subsidiarität und Verhinderung von Zentralisierung, insbesondere bezüglich nationaler Partnerschaftspläne, die deutsche Kommunen betreffen (Drucksache 21/8907), wurde von Abgeordneten wie Marc Bernhard und Sebastian Münzenmaier (AfD) sowie Knuth Meyer-Soltau (AfD) thematisiert. Die Weltklimakonferenz in Antalya wurde ebenfalls diskutiert, mit Anträgen der CDU/CSU und SPD, die Klimaschutz als Investition und Wettbewerbsfaktor betonten (Drucksache 21/8913). Die Grünen, vertreten durch Lisa Badum, schlugen vor, fossile Profite und die Konferenz zur Unabhängigkeit zu nutzen (Drucksache 21/8876). Die Linke legte zwei Anträge zur globalen Klimagerechtigkeit, Finanzarchitekturreform und Reparationen (Drucksache 21/8580) sowie zur globalen Solidarität und Verhinderung von Greenwashing (Drucksache 21/2535) vor. Der AfD-Antrag zur Beendigung der Mitwirkung Deutschlands am IPCC und zur Neuausrichtung der nationalen wissenschaftlichen Politikberatung wurde ebenfalls debattiert (Drucksachen 21/4464, 21/4891). Abschließend begann die erste Beratung eines Regierungsentwurfs zur Änderung der Finanzierung der Autobahn- und Bundesstraßeninfrastruktur (Drucksache 21/8868), bei der Bundesminister BMV Steffen Bilger sprach.",
+    "summary_easy": "Heute ist der 6. November 2026. Der Bundestag hat sich getroffen. Zuerst wurde die Tagesordnung erweitert. Dann sprachen Politiker über ein neues Gesetz. Dieses Gesetz soll Menschen besser vor \"K.-o.-Tropfen\" schützen. Viele Politiker von SPD, CDU/CSU, Grünen und Linken finden das gut. Die AfD hat Anträge gestellt. Ein Antrag war gegen einen großen EU-Haushalt. Sie wollen, dass deutsche Steuerzahler weniger zahlen. Ein anderer AfD-Antrag war gegen mehr Zentralismus in Deutschland. Es ging um Pläne, die Kommunen betreffen. Viele Anträge gab es zur Klimakonferenz. Parteien sprachen über Klimaschutz als wichtige Investition. Es gab auch eine Debatte über die Forschung zum Klima. Zum Schluss wurde über die Finanzierung von Autobahnen gesprochen. Das war ein erster Schritt zur Beratung eines neuen Gesetzes.",
+    "ukrainian_men": "Kein Thema in dieser Sitzung."
+  },
+  "facts": [
+    {
+      "fact_en": "During the Edo period in Japan (1603-1868), sumptuary laws dictated what colors and fabrics commoners could wear. Elaborate kimonos made of silk were reserved for the samurai class, and even then, certain intricate designs were heavily regulated to distinguish rank.",
+      "fact_de": "Während der Edo-Zeit in Japan (1603-1868) schrieben Kleiderordnungen vor, welche Farben und Stoffe gewöhnliche Bürger tragen durften. Aufwendige Kimonos aus Seide waren der Samurai-Klasse vorbehalten, und selbst dann waren bestimmte komplizierte Muster stark reglementiert, um den Rang zu unterscheiden.",
+      "fact_easy": "In Japan gab es Regeln, welche Farben und Stoffe man tragen durfte. Nur reiche Leute durften besondere Kimonos tragen.",
+      "category": "Fashion",
+      "source_title": "The Met Museum: Japanese Art - Edo Period",
+      "source_url": "https://www.metmuseum.org/toah/hd/edo/hd_edo.htm"
+    },
+    {
+      "fact_en": "The traditional Scottish kilt's pattern, known as a 'tartan,' was not originally unique to individual clans. It was only in the 19th century that tartans became associated with specific Scottish families, largely due to romanticized depictions in literature and fashion.",
+      "fact_de": "Das traditionelle schottische Kiltmuster, bekannt als 'Tartan', war ursprünglich nicht einzigartig für einzelne Clans. Erst im 19. Jahrhundert wurden Tartans mit bestimmten schottischen Familien in Verbindung gebracht, hauptsächlich aufgrund romantischer Darstellungen in Literatur und Mode.",
+      "fact_easy": "Schotten tragen oft Kilts. Die Muster auf den Kilts waren nicht immer für Familien. Erst später wurden die Muster zu Familien-Zeichen.",
+      "category": "Traditions",
+      "source_title": "National Museums Scotland: Tartan",
+      "source_url": "https://www.nms.ac.uk/explore-more/collections-stories/scottish-history/tartan/"
+    }
+  ],
+  "frankfurt": {
+    "topics": [
+      {
+        "type": "Events",
+        "emoji": "🎪",
+        "headline_en": "Online Grocery Delivery Intensifies: Amazon and Rewe Challenge Traditional Supermarkets",
+        "headline_de": "Online-Lebensmittel-Lieferungen intensivieren sich: Amazon und Rewe fordern traditionelle Supermärkte heraus",
+        "headline_easy": "Lebensmittel online kaufen: Amazon und Rewe werden schneller.",
+        "summary_en": "Amazon and Rewe are launching new initiatives focused on rapid grocery delivery, signaling a significant shift in how consumers access food. This intensified competition raises questions about the future relevance of traditional brick-and-mortar supermarkets in the face of growing online ordering trends.",
+        "summary_de": "Amazon und Rewe starten neue Initiativen mit schnellen Lebensmittellieferungen, was einen bedeutenden Wandel in der Lebensmittelbeschaffung darstellt. Dieser verschärfte Wettbewerb wirft Fragen zur zukünftigen Relevanz traditioneller Supermärkte angesichts wachsender Online-Bestellungen auf.",
+        "summary_easy": "Amazon und Rewe bieten jetzt sehr schnelle Lieferungen von Lebensmitteln an. Immer mehr Menschen kaufen Lebensmittel online. Das ist eine neue Herausforderung für normale Supermärkte.",
+        "links": [
+          {
+            "title": "Amazon und Rewe greifen an: Wird der Supermarkt überflüssig?",
+            "url": "https://www.teltarif.de/supermarkt-bestellen-lebensmittel-online/news/107483.html"
+          },
+          {
+            "title": "World Design Capital: Wie der Aktivismus museal wird",
+            "url": "https://www.faz.net/aktuell/rhein-main/kultur/world-design-capital-frankfurt-wie-der-aktivismus-ins-museum-kommt-accg-201663006.html"
+          }
+        ]
+      },
+      {
+        "type": "Crime",
+        "emoji": "🚔",
+        "headline_en": "Traffic Disruptions, Campus Protests, and Infrastructure Plans in Rhein-Main",
+        "headline_de": "Verkehrsbehinderungen, Campus-Proteste und Infrastrukturpläne in Rhein-Main",
+        "headline_easy": "Verkehrsprobleme, Proteste und Baupläne im Rhein-Main-Gebiet",
+        "summary_en": "The Rhein-Main region is experiencing a mix of incidents, including a full closure of the A3 motorway due to an overturned trailer and two serious injuries from a collision on the B260. Additionally, the University of Kassel has withdrawn criminal charges following a lecture hall occupation, and the Bahn plans to build a new bridge over the Main in Frankfurt.",
+        "summary_de": "In der Rhein-Main-Region gab es verschiedene Vorfälle, darunter eine Vollsperrung der A3 wegen eines umgestürzten Anhängers und zwei Schwerverletzte bei einer Kollision auf der B260. Außerdem hat die Universität Kassel Strafanträge nach einer Hörsaalbesetzung zurückgezogen und die Bahn plant den Bau einer neuen Mainbrücke in Frankfurt.",
+        "summary_easy": "Auf der Autobahn A3 gab es eine Sperrung wegen eines umgekippten Anhängers. Zwei Menschen wurden verletzt. In Kassel gibt es keine Strafen mehr nach einem Protest im Hörsaal. Die Bahn baut eine neue Brücke über den Main.",
+        "links": [
+          {
+            "title": "Rhein-Main-Liveblog: Vollsperrung auf A3 wegen umgestürzten Anhänger: Zwei Schwerverletzte bei Kollision auf B260",
+            "url": "https://www.faz.net/aktuell/rhein-main/zwei-schwerverletzte-bei-kollision-auf-b260-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
+          },
+          {
+            "title": "Statt hinzuschauen, spricht man von «ollen Kamellen» – in Marburg werden seit Jahren islamistische Umtriebe verdrängt",
+            "url": "https://www.nzz.ch/feuilleton/statt-hinzuschauen-spricht-man-von-ollen-kamellen-in-marburg-werden-seit-jahren-islamistische-umtriebe-verdraengt-ld.10053974"
+          }
+        ]
+      },
+      {
+        "type": "Sales & Offers",
+        "emoji": "🛍️",
+        "headline_en": "Transfer Speculation: Eintracht Frankfurt Interested in Kalimuendo",
+        "headline_de": "Transfer-Spekulation: Eintracht Frankfurt an Kalimuendo interessiert",
+        "headline_easy": "Fußball: Frankfurt will Spieler Kalimuendo.",
+        "summary_en": "Eintracht Frankfurt is reportedly exploring options to sign player Arnaud Kalimuendo, with Nottingham Forest setting a €30 million price tag. This transfer speculation is part of ongoing updates on player movements, rumors, and contract extensions in the football world.",
+        "summary_de": "Eintracht Frankfurt prüft offenbar die Verpflichtung von Spieler Arnaud Kalimuendo, wobei Nottingham Forest eine Ablösesumme von 30 Millionen Euro fordert. Diese Transfergerüchte sind Teil aktueller Berichte über Spielerwechsel, Gerüchte und Vertragsverlängerungen im Fußball.",
+        "summary_easy": "Eintracht Frankfurt denkt über den Spieler Arnaud Kalimuendo nach. Andere Vereine wollen viel Geld für ihn. Es gibt viele Nachrichten über Spieler, die wechseln.",
+        "links": [
+          {
+            "title": "Transfer-Ticker: Kalimuendo bleibt ein Thema: Frankfurt prüft seine Möglichkeiten",
+            "url": "https://www.n-tv.de/sport/fussball/transfermarkt/Transfer-Ticker-Eintracht-Frankfurt-an-Arnaud-Kalimuendo-interessiert-Nottingham-Forest-fordert-30-Millionen-Euro-id31512511.html"
+          },
+          {
+            "title": "Rhein-Main-Liveblog: Vollsperrung auf A3 wegen umgestürzten Anhänger: Zwei Schwerverletzte bei Kollision auf B260",
+            "url": "https://www.faz.net/aktuell/rhein-main/zwei-schwerverletzte-bei-kollision-auf-b260-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
+          }
+        ]
+      },
+      {
+        "type": "Local News",
+        "emoji": "📍",
+        "headline_en": "Regional Incidents: Traffic Chaos, Campus Unrest, and Infrastructure Developments",
+        "headline_de": "Regionale Vorfälle: Verkehrschaos, Campus-Unruhen und Infrastrukturentwicklungen",
+        "headline_easy": "Nachrichten aus der Region: Verkehr, Proteste und neue Brücke.",
+        "summary_en": "The Rhein-Main area faces traffic disruptions, including a full A3 closure and a collision with two serious injuries on the B260. Meanwhile, the University of Kassel dropped charges after a lecture hall occupation, and plans are underway for a new bridge over the Main in Frankfurt.",
+        "summary_de": "Die Region Rhein-Main verzeichnet Verkehrsbehinderungen, darunter eine Vollsperrung der A3 und eine Kollision mit zwei Schwerverletzten auf der B260. Die Universität Kassel hat Strafanträge nach einer Hörsaalbesetzung zurückgezogen, und es gibt Pläne für eine neue Mainbrücke in Frankfurt.",
+        "summary_easy": "Auf der A3 gab es eine Sperrung. Zwei Menschen wurden verletzt. In Kassel gab es einen Protest, jetzt gibt es keine Strafe. Die Bahn baut eine neue Brücke über den Main in Frankfurt.",
+        "links": [
+          {
+            "title": "Rhein-Main-Liveblog: Vollsperrung auf A3 wegen umgestürzten Anhänger: Zwei Schwerverletzte bei Kollision auf B260",
+            "url": "https://www.faz.net/aktuell/rhein-main/zwei-schwerverletzte-bei-kollision-auf-b260-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
+          },
+          {
+            "title": "Statt hinzuschauen, spricht man von «ollen Kamellen» – in Marburg werden seit Jahren islamistische Umtriebe verdrängt",
+            "url": "https://www.nzz.ch/feuilleton/statt-hinzuschauen-spricht-man-von-ollen-kamellen-in-marburg-werden-seit-jahren-islamistische-umtriebe-verdraengt-ld.10053974"
+          }
+        ]
+      }
+    ]
+  },
+  "dresden": []
+}
