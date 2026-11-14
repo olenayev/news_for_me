@@ -1,5 +1,5 @@
 {
-  "date": "Friday, November 13 2026",
+  "date": "Saturday, November 14 2026",
   "sections": [
     {
       "category": "Germany",
@@ -8,52 +8,56 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Indo-German JV Bets on Diaper and Sanitary Napkin Material Production in India",
-          "headline_de": "Indo-deutsche JV setzt auf die Herstellung von Windel- und Damenbindenmaterial in Indien",
-          "headline_easy": "Deutsche und indische Firmen machen Material für Windeln in Indien.",
-          "summary_en": "An Indo-German joint venture, Benecore, is investing ₹200 crore to establish production of diaper and sanitary napkin materials in India. This move signifies a significant investment in the Indian manufacturing sector for hygiene products.",
-          "summary_de": "Ein deutsch-indisches Joint Venture, Benecore, investiert 200 Crore Rupien in die Herstellung von Windel- und Damenbindenmaterial in Indien. Dieser Schritt bedeutet eine bedeutende Investition in den indischen Produktionssektor für Hygieneprodukte.",
-          "summary_easy": "Eine Firma aus Deutschland und Indien investiert Geld. Sie machen Material für Windeln und Hygieneprodukte für Frauen. Das ist wichtig für Indien.",
+          "headline_en": "Nmecha to avoid repeating controversial goal celebration; Mercedes-Benz halts future investments.",
+          "headline_de": "Nmecha wird umstrittene Torjubel-Wiederholung vermeiden; Mercedes-Benz stoppt zukünftige Investitionen.",
+          "headline_easy": "Nmecha macht seinen Jubel nicht nochmal. Mercedes-Benz investiert nicht mehr in Deutschland.",
+          "summary_en": "Footballer Nmecha has stated he will not repeat a controversial goal celebration. In business news, Mercedes-Benz announced it is halting all future investments in Germany.",
+          "summary_de": "Fußballspieler Nmecha hat erklärt, dass er einen umstrittenen Torjubel nicht wiederholen wird. In Wirtschaftsnachrichten kündigte Mercedes-Benz an, alle zukünftigen Investitionen in Deutschland einzustellen.",
+          "summary_easy": "Ein Fußballspieler, Nmecha, sagt, er macht seinen Jubel nicht mehr. Die Firma Mercedes-Benz hört auf, in Deutschland Geld zu geben.",
           "links": [
             {
-              "title": "Indo-German JV Benecore bets ₹200 crore on making diaper, sanitary napkin material in India",
-              "url": "https://www.livemint.com/companies/news/indo-german-jv-benecore-rs-200-crore-diaper-sanitary-napkin-material-india-11794478439798.html"
+              "title": "Germany's Nmecha won't repeat controversial goal celebration",
+              "url": "https://www.dw.com/en/germanys-nmecha-wont-repeat-controversial-goal-celebration/a-79937994"
+            },
+            {
+              "title": "Mercedes-Benz to halt ‘all future investments’ in Germany",
+              "url": "https://www.irishtimes.com/business/2026/11/13/mercedes-benz-to-halt-all-future-investments-in-germany/"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Operation TorNado leads to arrests; Nmecha avoids controversial celebration; Mercedes-Benz halts investments.",
+          "headline_de": "Operation TorNado führt zu Verhaftungen; Nmecha vermeidet kontroversen Jubel; Mercedes-Benz stoppt Investitionen.",
+          "headline_easy": "Viele Leute wurden bei einer Aktion gefasst. Nmecha macht seinen Jubel nicht nochmal. Mercedes-Benz gibt kein Geld mehr in Deutschland.",
+          "summary_en": "A large-scale operation dubbed TorNado has resulted in numerous arrests on the dark web. In sports, Nmecha will not repeat a controversial goal celebration, and Mercedes-Benz is halting future investments in Germany.",
+          "summary_de": "Eine groß angelegte Operation namens TorNado hat zu zahlreichen Festnahmen im Darknet geführt. Im Sport wird Nmecha einen umstrittenen Torjubel nicht wiederholen, und Mercedes-Benz stellt zukünftige Investitionen in Deutschland ein.",
+          "summary_easy": "Viele Leute wurden festgenommen. Nmecha macht seinen Jubel nicht mehr. Mercedes-Benz investiert nicht mehr in Deutschland.",
+          "links": [
+            {
+              "title": "354 dark web vendors and buyers arrested in Operation TorNado",
+              "url": "https://www.helpnetsecurity.com/2026/11/13/europol-dark-web-arrests-cybercrime/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Germany Holds Significant Gold Reserves, India Among Top Countries",
-          "headline_de": "Deutschland hält bedeutende Goldreserven, Indien gehört zu den Top-Ländern",
-          "headline_easy": "Deutschland hat viel Gold. Indien ist auch bei den Ländern mit viel Gold.",
-          "summary_en": "An analysis of global gold reserves reveals that Germany possesses a substantial amount, ranking it among the world's top countries. India also features prominently in the list of nations with the highest gold holdings.",
-          "summary_de": "Eine Analyse der globalen Goldreserven zeigt, dass Deutschland eine beträchtliche Menge besitzt und damit zu den führenden Ländern der Welt zählt. Indien ist ebenfalls prominent auf der Liste der Länder mit den höchsten Goldbeständen vertreten.",
-          "summary_easy": "Es gibt eine Liste von Ländern mit viel Gold. Deutschland hat sehr viel Gold. Auch Indien hat viel Gold.",
+          "headline_en": "Today's Germany news roundup includes market updates and broader societal commentary.",
+          "headline_de": "Die heutigen Nachrichten aus Deutschland umfassen Marktnachrichten und breitere gesellschaftliche Kommentare.",
+          "headline_easy": "Nachrichten aus Deutschland heute. Es geht um Märkte und Leute.",
+          "summary_en": "A roundup of news from Germany features market insights and broader discussions on societal trends, including commentary on the potential collapse of Western Civilization.",
+          "summary_de": "Eine Zusammenfassung von Nachrichten aus Deutschland enthält Markteinblicke und breitere Diskussionen über gesellschaftliche Trends, einschließlich Kommentare zum möglichen Zusammenbruch der westlichen Zivilisation.",
+          "summary_easy": "Es gibt Nachrichten aus Deutschland. Es geht um Wirtschaft und die Gesellschaft.",
           "links": [
             {
-              "title": "World’s top countries with highest gold reserves: Is India ranked among top 10?",
-              "url": "https://m.economictimes.com/wealth/invest/worlds-top-countries-with-highest-gold-reserves-is-india-ranked-among-top-10/india-has-880-tonnes-of-gold-which-countries-hold-more/slideshow/135754158.cms"
-            }
-          ]
-        },
-        {
-          "type": "Technology",
-          "emoji": "💻",
-          "headline_en": "Football Icons Garner Attention in Sports and Technology News",
-          "headline_de": "Fußball-Ikonen erregen Aufmerksamkeit in Sport- und Technologie-Nachrichten",
-          "headline_easy": "Fußball-Stars sind in den Nachrichten.",
-          "summary_en": "Prominent football figures like Pep Guardiola are making headlines not only for their sporting achievements but also for their personal interests, including admiration for American sports icons. Coach Michael Carrick's sacking also remains a notable sports event.",
-          "summary_de": "Bekannte Fußballpersönlichkeiten wie Pep Guardiola machen Schlagzeilen, nicht nur wegen ihrer sportlichen Erfolge, sondern auch wegen ihrer persönlichen Interessen, einschließlich der Bewunderung für amerikanische Sportikonen. Die Entlassung von Trainer Michael Carrick bleibt ebenfalls ein bemerkenswertes Sportereignis.",
-          "summary_easy": "Viele Nachrichten handeln von Fußball. Ein Trainer wurde entlassen. Ein anderer Fußballer mag Sportler aus Amerika.",
-          "links": [
-            {
-              "title": "Pep Guardiola has already named two American sports icons he absolutely loves",
-              "url": "https://www.hitc.com/pep-guardiola-has-already-named-two-american-sports-icons-he-absolutely-loves/"
+              "title": "Today in Germany: A roundup of the latest news on Friday",
+              "url": "https://www.thelocal.de/20261113/today-in-germany-a-roundup-of-the-latest-news-on-friday-148"
             },
             {
-              "title": "Coach Michael Carrick sacked by Manchester United",
-              "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:261112-930-984360/"
+              "title": "Collapse of Western Civilization—Why It’s Accelerating Now",
+              "url": "https://www.lewrockwell.com/2026/11/doug-casey/collapse-of-western-civilization-why-its-accelerating-now/"
             }
           ]
         }
@@ -66,40 +70,40 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Tata Steel CEO Discusses Capex Goals; BBC Documentary Explores Eco-Anxiety in Children",
-          "headline_de": "Tata Steel CEO bespricht Investitionspläne; BBC-Dokumentation erforscht Öko-Angst bei Kindern",
-          "headline_easy": "Eine Firma plant Ausgaben. Eine Doku zeigt Kinder und Sorgen um die Umwelt.",
-          "summary_en": "Tata Steel's CEO, TV Narendran, outlined the company's capital expenditure targets of ₹20,000 crore for the current financial year. Separately, a BBC documentary highlights eco-anxiety by following eight children on a nature field trip.",
-          "summary_de": "Der CEO von Tata Steel, TV Narendran, stellte die Investitionspläne des Unternehmens in Höhe von 20.000 Crore Rupien für das laufende Geschäftsjahr vor. Eine BBC-Dokumentation thematisiert Öko-Angst, indem sie acht Kinder auf einen Natur-Ausflug begleitet.",
-          "summary_easy": "Der Chef von Tata Steel plant viel Geld auszugeben. Eine Dokumentation im Fernsehen zeigt Kinder. Die Kinder reden über die Sorgen um die Umwelt.",
+          "headline_en": "Hoax bomb threats target Italian schools; Operation TorNado arrests; Western and Islamic civilization discussed.",
+          "headline_de": "Gefälschte Bombendrohungen zielen auf italienische Schulen; Operation TorNado-Festnahmen; Westliche und islamische Zivilisation diskutiert.",
+          "headline_easy": "Schulen in Italien bekommen falsche Bomben-Drohungen. Viele Leute wurden bei einer Aktion gefasst. Es geht um Kulturen.",
+          "summary_en": "Italian schools experienced a wave of hoax bomb threats, leading to evacuations. Meanwhile, Operation TorNado has resulted in significant arrests on the dark web, and discussions on the foundations of Western and Islamic civilization continue.",
+          "summary_de": "Italienische Schulen erlebten eine Welle von falschen Bombendrohungen, die zu Evakuierungen führten. Unterdessen führte die Operation TorNado zu bedeutenden Festnahmen im Darknet, und Diskussionen über die Grundlagen der westlichen und islamischen Zivilisation werden fortgesetzt.",
+          "summary_easy": "In Italien gab es falsche Bomben-Drohungen an Schulen. Viele Leute wurden festgenommen. Es gibt eine Diskussion über Kulturen.",
           "links": [
             {
-              "title": "Targeting a capex of ₹20,000 crore this financial year: Tata Steel’s TV Narendran",
-              "url": "https://www.thehindubusinessline.com/companies/targeting-a-capex-of-20000-crore-this-financial-year-tata-steels-tv-narendran/article71692867.ece"
+              "title": "Italy: 77 Schools Evacuated After New Round of Hoax Bomb Threats",
+              "url": "https://www.breitbart.com/europe/2026/11/13/italy-77-schools-evacuated-after-new-round-of-hoax-bomb-threats/"
             },
             {
-              "title": "BBC documentary takes eight children on a nature field trip to explore eco-anxiety",
-              "url": "https://theconversation.com/bbc-documentary-takes-eight-children-on-a-nature-field-trip-to-explore-eco-anxiety-296327"
+              "title": "The Unchosen Brothers: A Biblical key to Western and Islamic civilization",
+              "url": "https://www.israelnationalnews.com/news/436149"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Nvidia Leadership Under Scrutiny Amidst Potential Succession Plans",
-          "headline_de": "Nvidia-Führung unter Beobachtung angesichts möglicher Nachfolgepläne",
-          "headline_easy": "Die Chefs von Nvidia könnten wechseln. Es gibt wichtige Nachrichten über die Firma.",
-          "summary_en": "Nvidia's future leadership is being discussed, with potential succession plans for CEO Jensen Huang emerging. The company is reportedly preparing an exit strategy, and concerns about its knowledge of spying and chip smuggling are being raised.",
-          "summary_de": "Die zukünftige Führung von Nvidia wird diskutiert, wobei mögliche Nachfolgepläne für CEO Jensen Huang auftauchen. Das Unternehmen bereitet angeblich eine Ausstiegsstrategie vor, und es werden Bedenken hinsichtlich seines Wissens über Spionage und Chip-Schmuggel geäußert.",
-          "summary_easy": "Die Firma Nvidia hat vielleicht neue Chefs. Der Chef Jensen Huang könnte gehen. Es gibt auch Nachrichten über Spionage.",
+          "headline_en": "Leadership strategies and market outlook discussed; farmer support measures proposed.",
+          "headline_de": "Führungsstrategien und Marktausblick diskutiert; Unterstützungsmaßnahmen für Landwirte vorgeschlagen.",
+          "headline_easy": "Es geht um gute Chefs. Es gibt Ideen für Bauern.",
+          "summary_en": "Analysis delves into the effective leadership strategies behind successful companies like Hilton, alongside market outlooks. Additionally, new proposals for supporting farmers, referred to as a 'New Deal for Farmers,' are being considered.",
+          "summary_de": "Analysen befassen sich mit effektiven Führungsstrategien erfolgreicher Unternehmen wie Hilton, neben Marktaussichten. Darüber hinaus werden neue Vorschläge zur Unterstützung von Landwirten, als 'New Deal for Farmers' bezeichnet, in Betracht gezogen.",
+          "summary_easy": "Man redet über gute Chefs. Es gibt neue Pläne für Bauern.",
           "links": [
             {
-              "title": "Nvidia preps exit strategy for Jensen Huang as Trump Administration is warned to preserve documents about its knowledge of spying and chip smuggling",
-              "url": "https://fortune.com/2026/11/12/nvidia-exit-jensen-huang-affair-trump-preserve-documents-spying-chip-smuggling/"
+              "title": "The unglamorous leadership strategy behind Hilton, the world’s best workplace",
+              "url": "https://fortune.com/2026/11/13/hilton-ceo-chris-nassetta-leadership-worlds-best-workplace/"
             },
             {
-              "title": "Can Nvidia survive without Jensen Huang?",
-              "url": "https://fortune.com/2026/11/12/nvidia-without-jensen-huang-affairs/"
+              "title": "Beyond RFS: A New Deal for Farmers",
+              "url": "https://wattsupwiththat.com/2026/11/13/beyond-rfs-a-new-deal-for-farmers/"
             }
           ]
         }
@@ -112,60 +116,36 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "NFL Honors Veterans Day; Italy vs. France UEFA Nations League Match Broadcast in USA; Godzilla Comics Recommended",
-          "headline_de": "NFL ehrt den Veterans Day; Italien gegen Frankreich UEFA Nations League Spiel in den USA ausgestrahlt; Godzilla Comics empfohlen",
-          "headline_easy": "Die NFL feiert Veteranen. Ein Fußballspiel wird gezeigt. Es gibt Buchtipps über Monster.",
-          "summary_en": "The NFL and its teams observed Veterans Day with tributes to military service members. Soccer fans in the US can watch the Italy vs. France UEFA Nations League match. For comic enthusiasts, a list of Godzilla-themed comics is recommended for fans of 'Godzilla Minus Zero'.",
-          "summary_de": "Die NFL und ihre Teams gedachten des Veterans Day mit Ehrungen für Militärangehörige. Fußballfans in den USA können das UEFA-Nations-League-Spiel Italien gegen Frankreich verfolgen. Für Comic-Fans werden Godzilla-Comics als Empfehlung für Liebhaber von 'Godzilla Minus Zero' gegeben.",
-          "summary_easy": "Die NFL hat den Tag der Veteranen gefeiert. Ein Fußballspiel kann man in den USA sehen. Wenn man Monster mag, gibt es neue Buchtipps.",
+          "headline_en": "Microsoft 365 outage impacts services worldwide; Operation TorNado arrests; oil supply exceeds demand.",
+          "headline_de": "Microsoft 365-Ausfall beeinträchtigt Dienste weltweit; Operation TorNado-Festnahmen; Ölversorgung übersteigt Nachfrage.",
+          "headline_easy": "Microsoft hat Probleme. Viele Leute wurden im Internet gefasst. Es gibt viel Öl.",
+          "summary_en": "A massive Microsoft 365 outage has disrupted services globally, including Outlook and Teams. Operation TorNado has led to significant arrests on the dark web. In economic news, global oil supply is projected to exceed demand in the fourth quarter.",
+          "summary_de": "Ein massiver Microsoft 365-Ausfall hat weltweit Dienste beeinträchtigt, darunter Outlook und Teams. Operation TorNado hat zu bedeutenden Festnahmen im Darknet geführt. In Wirtschaftsnachrichten wird erwartet, dass die globale Ölversorgung im vierten Quartal die Nachfrage übersteigen wird.",
+          "summary_easy": "Microsoft hat Probleme mit seinen Diensten. Viele Leute wurden festgenommen. Es gibt mehr Öl als gebraucht wird.",
           "links": [
             {
-              "title": "NFL and all its teams honored memory of military service members on Veterans Day without any fumbles",
-              "url": "https://www.foxnews.com/outkick-sports/nfl-all-teams-honored-memory-military-service-members-veterans-day-without-fumbles"
-            },
-            {
-              "title": "Loved Godzilla Minus Zero? These 5 Comics Deliver More Monster Mayhem",
-              "url": "http://comicbook.com/comics/list/loved-godzilla-minus-zero-these-5-comics-deliver-more-monster-mayhem/"
+              "title": "Massive Microsoft 365 Outage Disrupts Outlook, Teams, Copilot And More Worldwide As Recovery Remains Ongoing",
+              "url": "https://wccftech.com/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-and-more-worldwide-as-recovery-remains-ongoing/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Nvidia CEO Jensen Huang Faces Board Scrutiny Amidst Potential Ouster",
-          "headline_de": "Nvidia-CEO Jensen Huang steht angesichts möglicher Absetzung im Fokus des Vorstands",
-          "headline_easy": "Der Chef von Nvidia könnte entlassen werden. Die Firma Nvidia ist wichtig.",
-          "summary_en": "Nvidia's CEO, Jensen Huang, is reportedly facing potential ouster as the board weighs his future. Reports suggest the company is preparing an exit strategy, and concerns about its dealings with the Trump Administration regarding spying and chip smuggling have surfaced.",
-          "summary_de": "Nvidias CEO, Jensen Huang, steht angeblich vor einer möglichen Absetzung, da der Vorstand seine Zukunft prüft. Berichten zufolge bereitet das Unternehmen eine Ausstiegsstrategie vor, und Bedenken hinsichtlich seiner Geschäfte mit der Trump-Administration bezüglich Spionage und Chip-Schmuggel sind aufgetaucht.",
-          "summary_easy": "Der Chef von Nvidia, Jensen Huang, ist vielleicht nicht mehr Chef. Die Firma Nvidia macht Chip-Technik. Es gibt auch Probleme mit der Regierung.",
+          "headline_en": "IAEA concerns over Iran's nuclear program; Trump's Asia visit; AI race and Nvidia's CEO.",
+          "headline_de": "IAEA-Bedenken hinsichtlich des iranischen Atomprogramms; Trumps Asienreise; KI-Rennen und Nvidias CEO.",
+          "headline_easy": "Die IAEA macht sich Sorgen um Iran. Trump reist nach Asien. Es geht um KI.",
+          "summary_en": "The IAEA has expressed increasing concern regarding Iran's nuclear enrichment activities. President Trump is set to embark on a visit to Asia. The ongoing AI race and its implications, including a hypothetical scenario involving Nvidia's CEO, are also being discussed.",
+          "summary_de": "Die IAEO hat wachsende Besorgnis über die iranischen Urananreicherungsaktivitäten geäußert. Präsident Trump wird eine Reise nach Asien antreten. Das laufende KI-Rennen und seine Auswirkungen, einschließlich eines hypothetischen Szenarios mit dem CEO von Nvidia, werden ebenfalls diskutiert.",
+          "summary_easy": "Die IAEA ist besorgt über Iran. Trump fährt nach Asien. Es gibt ein Rennen um künstliche Intelligenz.",
           "links": [
             {
-              "title": "Nvidia CEO Jensen Huang faces ouster as board weighs future",
-              "url": "https://ldd.news/business/nvidia-ceo-jensen-huang-faces-ouster-as-board-weighs-future/"
+              "title": "IAEA increasingly concerned about Iranian enrichment plant, its report says",
+              "url": "https://www.channelnewsasia.com/world/iaea-un-report-concern-iran-nuclear-plant-6549176"
             },
             {
-              "title": "Man Utd squad 'hoping' for Unai Emery appointment as USMNT boss Mauricio Pochettino prepares to replace Michael Carrick in the Old Trafford hotseat",
-              "url": "https://www.goal.com/en-us/news/man-utd-unai-emery-mauricio-pochettino-usmnt/blta1466839fc319f7d"
-            }
-          ]
-        },
-        {
-          "type": "Technology",
-          "emoji": "💻",
-          "headline_en": "Pep Guardiola's NBA Player Preferences; NFL Honors Veterans Day; Italy-France Soccer Match Broadcast",
-          "headline_de": "Pep Guardiolas NBA-Spielerpräferenzen; NFL ehrt den Veterans Day; Italien-Frankreich Fußballspiel wird übertragen",
-          "headline_easy": "Ein Fußballtrainer mag NBA-Spieler. Die NFL feiert Veteranen. Ein Fußballspiel wird gezeigt.",
-          "summary_en": "Pep Guardiola has shared his favorite modern NBA players, post-Michael Jordan. The NFL observed Veterans Day with tributes. Soccer fans in the US can watch the Italy vs. France UEFA Nations League match live.",
-          "summary_de": "Pep Guardiola hat seine bevorzugten modernen NBA-Spieler nach Michael Jordan geteilt. Die NFL gedachte am Veterans Day mit Ehrungen. Fußballfans in den USA können das Spiel der UEFA Nations League zwischen Italien und Frankreich live verfolgen.",
-          "summary_easy": "Ein Trainer mag Basketballspieler aus Amerika. Die NFL hat Soldaten geehrt. Man kann ein Fußballspiel sehen.",
-          "links": [
-            {
-              "title": "Who Pep Guardiola previously named as his favourite modern NBA players post-Michael Jordan",
-              "url": "https://www.hitc.com/who-pep-guardiola-previously-named-as-his-favourite-modern-nba-players-post-michael-jordan/"
-            },
-            {
-              "title": "How to watch Italy vs France match in the USA: Live stream and TV for 2026-27 UEFA Nations League",
-              "url": "https://worldsoccertalk.com/watch-on-us-tv/how-to-watch-italy-vs-france-match-in-the-usa-live-stream-and-tv-for-2026-27-uefa-nations-league/"
+              "title": "A spy took out Nvidia’s CEO. Here’s how America still wins the AI race",
+              "url": "https://www.foxnews.com/opinion/spy-took-out-nvidias-ceo-heres-how-america-still-wins-ai-race"
             }
           ]
         }
@@ -178,68 +158,40 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Nvidia CEO Jensen Huang's Future Uncertain Amidst Scandal; Hotel Groove Shinjuku Wins Luxury Award",
-          "headline_de": "Die Zukunft von Nvidia-CEO Jensen Huang ist angesichts des Skandals ungewiss; Hotel Groove Shinjuku gewinnt Luxuspreis",
-          "headline_easy": "Der Chef von Nvidia könnte gehen. Ein Hotel in Tokio gewinnt einen Preis.",
-          "summary_en": "Nvidia's board is reportedly considering the future of CEO Jensen Huang amidst a scandal. In other news, HOTEL GROOVE SHINJUKU, A PARKROYAL Hotel, has received a prestigious World Luxury Award for the second consecutive year.",
-          "summary_de": "Der Vorstand von Nvidia erwägt Berichten zufolge die Zukunft von CEO Jensen Huang inmitten eines Skandals. In anderen Nachrichten hat das HOTEL GROOVE SHINJUKU, A PARKROYAL Hotel, zum zweiten Mal in Folge einen angesehenen World Luxury Award erhalten.",
-          "summary_easy": "Der Chef von Nvidia hat vielleicht Probleme. Ein Hotel in Japan hat einen Preis gewonnen. Das Hotel hat den Preis zweimal bekommen.",
+          "headline_en": "SilentAir hijacks telecom networks in Asia; RuPaul's Drag Race ends Las Vegas residency; Air India and SIA partnership discussed.",
+          "headline_de": "SilentAir entführt Telekommunikationsnetze in Asien; RuPaul's Drag Race beendet Las Vegas-Residenz; Partnerschaft von Air India und SIA diskutiert.",
+          "headline_easy": "Eine neue Technik stiehlt Daten in Asien. Eine Show hört auf. Es geht um Fluglinien.",
+          "summary_en": "A new cyber threat, SilentAir, is hijacking Asian telecom networks to spy on users. In entertainment, RuPaul's Drag Race Live! is concluding its Las Vegas residency. The partnership between Air India and SIA is also under review.",
+          "summary_de": "Eine neue Cyber-Bedrohung, SilentAir, entführt asiatische Telekommunikationsnetze, um Benutzer auszuspionieren. Im Unterhaltungsbereich beendet RuPaul's Drag Race Live! seine Residenz in Las Vegas. Auch die Partnerschaft zwischen Air India und SIA wird überprüft.",
+          "summary_easy": "Eine neue Technik stiehlt Daten in Asien. Eine Show endet. Es gibt eine Geschichte über Fluglinien.",
           "links": [
             {
-              "title": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
-              "url": "https://www.aljazeera.com/news/2026/11/12/nvidia-board-weighs-jensen-huangs-future-can-it-remove-its-founder"
+              "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
+              "url": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html"
             },
             {
-              "title": "HOTEL GROOVE SHINJUKU, A PARKROYAL Hotel Wins at the World Luxury Awards 2026 for the Second Consecutive Year",
-              "url": "https://en.antaranews.com/news/442163/hotel-groove-shinjuku-a-parkroyal-hotel-wins-at-the-world-luxury-awards-2026-for-the-second-consecutive-year"
-            }
-          ]
-        },
-        {
-          "type": "War",
-          "emoji": "⚔️",
-          "headline_en": "India U19 Cricket Team Secures Semifinal Win Against Afghanistan; Nvidia Leadership in Question",
-          "headline_de": "Indiens U19 Cricket-Team sichert sich Halbfinalsieg gegen Afghanistan; Nvidia-Führung in Frage gestellt",
-          "headline_easy": "Indische Jugend-Cricket-Spieler gewinnen. Der Chef von Nvidia hat Probleme.",
-          "summary_en": "The India U19 cricket team achieved an impressive eight-wicket victory over Afghanistan in their semifinal match, advancing to the final. Concurrently, questions are being raised about the leadership of Nvidia CEO Jensen Huang amidst a scandal.",
-          "summary_de": "Das indische U19-Cricket-Team errang einen beeindruckenden Acht-Wicket-Sieg gegen Afghanistan im Halbfinale und zog ins Finale ein. Gleichzeitig werden im Zuge eines Skandals Fragen zur Führung von Nvidia-CEO Jensen Huang aufgeworfen.",
-          "summary_easy": "Junge Cricket-Spieler aus Indien haben gewonnen. Sie spielen gegen Pakistan im Finale. Der Chef von Nvidia hat Probleme.",
-          "links": [
-            {
-              "title": "Raichandani's 93 powers India U19 to 8-wicket semifinal win over Afghanistan",
-              "url": "https://timesofindia.indiatimes.com/sports/cricket/news/lakshya-raichandanis-93-powers-india-u19-to-eight-wicket-semifinal-win-over-afghanistan-sets-up-blockbuster-final-against-pakistan/articleshow/135768235.cms"
+              "title": "Air India and SIA: not all marriages are made in heaven",
+              "url": "https://www.livemint.com/opinion/air-india-sia-marriages-heaven-union-11794554085175.html"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Nvidia Faces Scrutiny Over CEO's Future and Chip Smuggling Allegations",
-          "headline_de": "Nvidia im Visier wegen der Zukunft des CEOs und Vorwürfen des Chip-Schmuggels",
-          "headline_easy": "Die Firma Nvidia hat Probleme mit dem Chef und dem Handel von Chips.",
-          "summary_en": "Nvidia's CEO, Jensen Huang, is under scrutiny as the company prepares an exit strategy, with markets bracing for news on his fate. Allegations of spying and chip smuggling involving the Trump Administration and a firm named Megaspeed are also being investigated.",
-          "summary_de": "Nvidias CEO, Jensen Huang, steht im Rampenlicht, da das Unternehmen eine Ausstiegsstrategie vorbereitet und die Märkte sich auf Nachrichten über sein Schicksal vorbereiten. Vorwürfe über Spionage und Chip-Schmuggel unter Beteiligung der Trump-Administration und eines Unternehmens namens Megaspeed werden ebenfalls untersucht.",
-          "summary_easy": "Der Chef von Nvidia, Jensen Huang, könnte gehen. Die Firma Nvidia verkauft Computer-Chips. Es gibt auch Probleme mit dem Handel von Chips.",
+          "headline_en": "Nvidia's CEO and leadership trends; medical experts gather for collagen innovation summit; Jensen Huang's recent days.",
+          "headline_de": "Nvidias CEO und Führungstrends; Medizinexperten treffen sich zum Gipfel für Kollageninnovationen; Jensens Huang letzte Tage.",
+          "headline_easy": "Es geht um den Chef von Nvidia. Leute treffen sich für Medizin. Der Chef von Nvidia ist nicht gut.",
+          "summary_en": "Discussions around Nvidia's CEO, Jensen Huang, touch upon leadership trends and his recent personal struggles. Meanwhile, medical experts from the Asia-Pacific region gathered for a summit celebrating 25 years of collagen innovation.",
+          "summary_de": "Diskussionen über Nvidias CEO, Jensen Huang, berühren Führungstrends und seine jüngsten persönlichen Schwierigkeiten. Unterdessen versammelten sich Medizinexperten aus der asiatisch-pazifischen Region zu einem Gipfel, der 25 Jahre Kollageninnovationen feiert.",
+          "summary_easy": "Man redet über den Chef von Nvidia. Es gab ein Treffen für Medizin. Der Chef von Nvidia hatte Probleme.",
           "links": [
             {
-              "title": "Megaspeed, chip firm at center of Nvidia scandal, pledges to cooperate with U.S. investigation",
-              "url": "https://www.nbcnews.com/tech/tech-news/megaspeed-statement-nvidia-jensen-huang-alice-us-exports-chips-china-rcna608939"
-            }
-          ]
-        },
-        {
-          "type": "Technology",
-          "emoji": "💻",
-          "headline_en": "Nvidia Board Considers Ousting CEO Jensen Huang; India U19 Cricket Team Advances",
-          "headline_de": "Nvidia-Vorstand erwägt Absetzung von CEO Jensen Huang; Indiens U19 Cricket-Team rückt vor",
-          "headline_easy": "Der Chef von Nvidia könnte gehen. Junge Cricket-Spieler aus Indien gewinnen.",
-          "summary_en": "Nvidia's board is reportedly considering removing CEO Jensen Huang following a scandal, with his future uncertain. In sports, the India U19 cricket team secured a significant semifinal win against Afghanistan, advancing to the final.",
-          "summary_de": "Der Vorstand von Nvidia erwägt Berichten zufolge die Absetzung von CEO Jensen Huang nach einem Skandal, seine Zukunft ist ungewiss. Im Sport sicherte sich das indische U19-Cricket-Team einen bedeutenden Halbfinalsieg gegen Afghanistan und zog ins Finale ein.",
-          "summary_easy": "Der Chef von Nvidia hat vielleicht Probleme. Die Firma denkt darüber nach. Junge Cricket-Spieler aus Indien haben ein wichtiges Spiel gewonnen.",
-          "links": [
+              "title": "Nvidia’s Jensen Huang and Troubling Rise of the Imperial CEO",
+              "url": "https://newrepublic.com/article/217955/nvidia-jensen-huang-troubling-rise-imperial-ceo"
+            },
             {
-              "title": "Nvidia Board Moves to Oust CEO Jensen Huang After Affair Scandal",
-              "url": "https://www.pymnts.com/personnel/2026/nvidia-board-moves-to-oust-ceo-jensen-huang-after-affair-scandal/"
+              "title": "Inside the dismal final days of Jensen Huang: a broken man heard saying things like ‘whatever’ and ‘I don’t care’",
+              "url": "https://fortune.com/2026/11/13/inside-the-dismal-final-days-of-jensen-huang-a-broken-man-heard-saying-things-like-whatever-and-i-dont-care/"
             }
           ]
         }
@@ -252,88 +204,80 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Jensen Huang Faces Scrutiny in Taiwan; PS5 RPG Gets New Release Date; U2 Concert Available",
-          "headline_de": "Jensen Huang steht in Taiwan unter Beobachtung; PS5 RPG erhält neues Veröffentlichungsdatum; U2-Konzert verfügbar",
-          "headline_easy": "Ein Chef hat Probleme in seiner Heimat. Ein neues Spiel für PS5 kommt bald. Ein Konzert von U2 ist zu sehen.",
-          "summary_en": "Scandal-hit Nvidia CEO Jensen Huang is facing public scrutiny in his birthplace, Taiwan. Gamers can look forward to a new release date for an anticipated PS5 RPG. Music fans can access U2's 'Carnaval de Luz' concert from 2026.",
-          "summary_de": "Der skandalumwitterte Nvidia-CEO Jensen Huang sieht sich in seiner Heimat Taiwan öffentlicher Kritik ausgesetzt. Spieler können sich auf ein neues Veröffentlichungsdatum für ein mit Spannung erwartetes PS5-Rollenspiel freuen. Musikfans können sich das U2-Konzert 'Carnaval de Luz' aus dem Jahr 2026 ansehen.",
-          "summary_easy": "Ein Chef hat Probleme. Die Leute reden über ihn. Ein neues Videospiel kommt bald. Man kann ein Konzert von der Band U2 sehen.",
+          "headline_en": "Frankie Muniz recovers after crash; F1 reporter loses pass; WWII veteran shares life story.",
+          "headline_de": "Frankie Muniz erholt sich nach Unfall; F1-Reporter verliert Akkreditierung; Zweiter-Weltkriegs-Veteran teilt Lebensgeschichte.",
+          "headline_easy": "Frankie Muniz geht es gut nach einem Unfall. Ein Reporter darf kein Rennen mehr sehen. Ein alter Soldat erzählt seine Geschichte.",
+          "summary_en": "Actor Frankie Muniz expressed gratitude for recovering after a recent crash. Separately, an F1 reporter has lost their press pass following an incident. A 101-year-old WWII veteran shared his life story and nearly 72-year marriage.",
+          "summary_de": "Schauspieler Frankie Muniz zeigte sich dankbar für seine Genesung nach einem kürzlichen Unfall. Separat hat ein F1-Reporter nach einem Vorfall seine Presseakkreditierung verloren. Ein 101-jähriger Veteran des Zweiten Weltkriegs teilte seine Lebensgeschichte und seine fast 72-jährige Ehe.",
+          "summary_easy": "Frankie Muniz ist froh, dass er nach einem Unfall laufen kann. Ein Reporter darf kein Rennen mehr sehen. Ein alter Soldat erzählt von seinem Leben.",
           "links": [
             {
-              "title": "Scandal-hit Jensen Huang loses his shine in his birthplace Taiwan",
-              "url": "https://abcnews.com/International/wireStory/scandal-hit-jensen-huang-loses-shine-birthplace-taiwan-138073575"
+              "title": "Frankie Muniz 'grateful to be walking' after crash",
+              "url": "https://www.rte.ie/entertainment/2026/1113/1599102-frankie-muniz-grateful-to-be-walking-after-crash/"
             },
             {
-              "title": "U2 – Carnaval De Luz (2026) |",
-              "url": "https://post.rlsbb.cc/u2-carnaval-de-luz-2026/"
+              "title": "A 101-year-old US veteran who earned two Purple Hearts during World War II says his wife helped him rebuild his life; Joseph Allegretti has now recalled their nearly 72-year marriage in a new Veterans Day interview",
+              "url": "https://timesofindia.indiatimes.com/world/us/a-101-year-old-us-veteran-who-earned-two-purple-hearts-during-world-war-ii-says-his-wife-helped-him-rebuild-his-life-joseph-allegretti-has-now-recalled-their-nearly-72-year-marriage-in-a-new-veterans-day-interview/articleshow/135800521.cms"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Nvidia CEO Jensen Huang Faces Scrutiny in Taiwan; Git Source Control Evolution Discussed",
-          "headline_de": "Nvidia-CEO Jensen Huang steht in Taiwan unter Beobachtung; Entwicklung der Git-Quellcodeverwaltung diskutiert",
-          "headline_easy": "Der Chef von Nvidia hat Probleme. Es gibt neue Ideen für Computer-Programme.",
-          "summary_en": "Nvidia CEO Jensen Huang is facing increased scrutiny in Taiwan due to recent scandals. In the tech world, a discussion explores the evolution of Git from file-based systems to more comprehensive source control solutions.",
-          "summary_de": "Nvidia-CEO Jensen Huang sieht sich aufgrund jüngster Skandale in Taiwan zunehmender Kritik ausgesetzt. In der Tech-Welt untersucht eine Diskussion die Entwicklung von Git von dateibasierten Systemen hin zu umfassenderen Lösungen für die Quellcodeverwaltung.",
-          "summary_easy": "Der Chef von Nvidia, Jensen Huang, hat Probleme. Die Leute reden über ihn in Taiwan. Es gibt auch eine Idee für Computer-Programme.",
+          "headline_en": "Scouting report on Jason Witten's coaching future; Frankie Muniz recovering from crash; F1 reporter loses pass.",
+          "headline_de": "Scouting-Bericht über Jason Wittens Coaching-Zukunft; Frankie Muniz erholt sich von Unfall; F1-Reporter verliert Akkreditierung.",
+          "headline_easy": "Es gibt einen Bericht über einen Trainer. Frankie Muniz geht es gut. Ein Reporter darf kein Rennen mehr sehen.",
+          "summary_en": "Jon Gruden provides a scouting report on Jason Witten's potential as a future coach. In other news, Frankie Muniz is recovering well after an accident, and an F1 reporter has lost their press pass.",
+          "summary_de": "Jon Gruden liefert einen Scouting-Bericht über Jason Wittens Potenzial als zukünftiger Trainer. In anderen Nachrichten erholt sich Frankie Muniz gut von einem Unfall, und ein F1-Reporter hat seine Presseakkreditierung verloren.",
+          "summary_easy": "Es gibt eine Einschätzung über einen möglichen Trainer. Frankie Muniz ist nach einem Unfall okay. Ein Reporter darf kein Rennen mehr sehen.",
           "links": [
             {
-              "title": "Why Git Needs Help: Moving from Files to Systems for Source Control",
-              "url": "https://www.oreilly.com/radar/why-git-needs-help-moving-from-files-to-systems-for-source-control/#BlogPosting"
+              "title": "Jon Gruden gives his scouting report on why Jason Witten has 'superstar' coaching future",
+              "url": "https://www.oklahoman.com/story/sports/college/sooners/2026/11/13/ou-football-jason-witten-jon-gruden-coaching-future-las-vegas-raiders/92743221007/"
+            },
+            {
+              "title": "Reporter Who Called Leclerc a ‘Sneaky Little B*****d’ Loses F1 Pass, Blames Vasseur",
+              "url": "https://www.motorbiscuit.com/reporter-who-called-leclerc-a-sneaky-little-bd-loses-f1-pass-blames-vasseur/"
             }
           ]
         },
         {
           "type": "War",
           "emoji": "⚔️",
-          "headline_en": "Disney World Resort Rules Tightened; Git Source Control Evolution; Jensen Huang Scrutiny",
-          "headline_de": "Disney World Resort-Regeln verschärft; Entwicklung der Git-Quellcodeverwaltung; Jensen Huang-Untersuchung",
-          "headline_easy": "Neue Regeln im Disney Park. Es gibt neue Ideen für Computer-Programme. Ein Chef hat Probleme.",
-          "summary_en": "Disney World has implemented stricter new resort rules that may impact holiday resort hopping. A technical discussion delves into the evolution of Git for source control. Meanwhile, Nvidia CEO Jensen Huang faces scrutiny in Taiwan following scandals.",
-          "summary_de": "Disney World hat strengere neue Resort-Regeln eingeführt, die das Resort-Hopping über die Feiertage beeinträchtigen könnten. Eine technische Diskussion befasst sich mit der Entwicklung von Git für die Quellcodeverwaltung. Unterdessen steht Nvidia-CEO Jensen Huang nach Skandalen in Taiwan unter Beobachtung.",
-          "summary_easy": "Es gibt neue Regeln im Disney Park. Das macht es schwer, von einem Ort zum anderen zu gehen. Es gibt neue Ideen für Computer-Programme. Der Chef von Nvidia hat Probleme.",
+          "headline_en": "Adani Group faces airport pushback; discussions on lost Black stars; remembrance of WWII veterans.",
+          "headline_de": "Adani-Gruppe stößt auf Widerstand bei Flughafenvorhaben; Diskussionen über verlorene schwarze Stars; Gedenken an Veteranen des Zweiten Weltkriegs.",
+          "headline_easy": "Es gibt Probleme mit einem Flughafen. Es geht um Schauspieler, die gestorben sind. Man denkt an alte Soldaten.",
+          "summary_en": "The Adani Group is encountering pushback over its Navi Mumbai airport plans, posing a test to its dominance. Discussions also commemorate 'Beloved Black Stars We Lost in 2026', reflecting on notable figures. Remembrance of World War II veterans and their stories continues.",
+          "summary_de": "Die Adani-Gruppe stößt auf Widerstand gegen ihre Flughafenpläne in Navi Mumbai, was eine Prüfung ihrer Dominanz darstellt. Diskussionen gedenken auch 'Beloved Black Stars We Lost in 2026' und reflektieren über bemerkenswerte Persönlichkeiten. Das Gedenken an Veteranen des Zweiten Weltkriegs und ihre Geschichten wird fortgesetzt.",
+          "summary_easy": "Es gibt Probleme mit einem Flughafenprojekt. Man erinnert sich an gestorbene Schauspieler. Man denkt an alte Soldaten.",
           "links": [
             {
-              "title": "Locked Out of the Lobby? How Disney World’s Strict New Resort Rules Are Crushing Holiday Resort Hopping",
-              "url": "https://insidethemagic.net/2026/11/disney-worlds-new-resort-restrictions-making-resort-hoping-difficult-this-holiday-season-rl1/"
-            }
-          ]
-        },
-        {
-          "type": "Stocks & Markets",
-          "emoji": "📈",
-          "headline_en": "Climate Change Impacts on Health; BBC Documentary on Eco-Anxiety; Walmart Black Friday Deals",
-          "headline_de": "Auswirkungen des Klimawandels auf die Gesundheit; BBC-Dokumentation über Öko-Angst; Walmart Black Friday Angebote",
-          "headline_easy": "Klima ändert die Gesundheit. Doku über Sorgen um die Umwelt. Es gibt Angebote bei Walmart.",
-          "summary_en": "New insights reveal that climate change affects the health of women and men differently, with current tracking systems failing to capture this nuance. A BBC documentary explores eco-anxiety by following children on a nature field trip. Early Walmart Black Friday deals are also highlighted.",
-          "summary_de": "Neue Erkenntnisse zeigen, dass der Klimawandel die Gesundheit von Frauen und Männern unterschiedlich beeinflusst, wobei die aktuellen Verfolgungssysteme diese Nuance nicht erfassen. Eine BBC-Dokumentation erforscht die Öko-Angst, indem sie Kinder auf einen Natur-Ausflug begleitet. Frühe Walmart Black Friday-Angebote werden ebenfalls hervorgehoben.",
-          "summary_easy": "Klima ändert die Gesundheit von Menschen. Eine Doku zeigt Kinder und ihre Sorgen um die Umwelt. Es gibt auch Angebote für den Black Friday bei Walmart.",
-          "links": [
-            {
-              "title": "Climate change has different consequences for the health of women and men – but the systems tracking it don’t reflect that",
-              "url": "https://theconversation.com/climate-change-has-different-consequences-for-the-health-of-women-and-men-but-the-systems-tracking-it-dont-reflect-that-296199"
+              "title": "Irma P. Hall and the Beloved Black Stars We Lost in 2026",
+              "url": "https://www.theroot.com/irma-p-hall-and-the-beloved-black-stars-we-lost-in-202-2000083991"
             },
             {
-              "title": "Walmart Black Friday 2026 Event 1 Is Live: Best Early Gaming, TV, LEGO and 4K Blu-Ray Deals",
-              "url": "https://www.ign.com/articles/walmart-black-friday-deals-2026-event-1"
+              "title": "The Adani Group faces pushback over its Navi Mumbai airport moves—here’s why it’s a test of the conglomerate’s dominance",
+              "url": "https://www.livemint.com/opinion/online-views/the-adani-group-faces-pushback-over-its-navi-mumbai-airport-moves-here-s-why-it-s-a-test-of-the-conglomerate-s-dominance-11794565304116.html"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "NFL's 'White Out' Game; Disney World Resort Rules; Git Source Control Evolution",
-          "headline_de": "NFLs 'White Out'-Spiel; Disney World Resort-Regeln; Entwicklung der Git-Quellcodeverwaltung",
-          "headline_easy": "Ein NFL-Spiel in Weiß. Neue Regeln im Disney Park. Neue Ideen für Computer-Programme.",
-          "summary_en": "The New York Giants are calling for a 'White Out' at MetLife Stadium for their game against the Commanders. Disney World has implemented stricter resort rules potentially affecting holiday visits. A technical article discusses the evolution of Git for source control.",
-          "summary_de": "Die New York Giants rufen zu einem 'White Out' im MetLife Stadium für ihr Spiel gegen die Commanders auf. Disney World hat strengere Resort-Regeln eingeführt, die Feiertagsbesuche beeinträchtigen könnten. Ein technischer Artikel befasst sich mit der Entwicklung von Git für die Quellcodeverwaltung.",
-          "summary_easy": "Die New Yorker Giants wollen, dass alle weiße Kleidung tragen. Das ist für ein Spiel. Im Disney Park gibt es neue Regeln. Es gibt neue Ideen für Computer-Programme.",
+          "headline_en": "Continent fights to refine oil; new software package released; Shabbat Shalom message.",
+          "headline_de": "Kontinent kämpft um die Raffination von Öl; neues Softwarepaket veröffentlicht; Botschaft zum Schabbat Schalom.",
+          "headline_easy": "Afrika will sein Öl selbst verarbeiten. Ein neues Programm ist da. Gute Wünsche für den Sabbat.",
+          "summary_en": "A continent is striving to gain more control over its oil refinement processes. A new software package, 'canlix', has been released and added to PyPI. A message of 'Shabbat Shalom' is shared.",
+          "summary_de": "Ein Kontinent bemüht sich, mehr Kontrolle über seine Ölraffinationsprozesse zu erlangen. Ein neues Softwarepaket, 'canlix', wurde veröffentlicht und zu PyPI hinzugefügt. Eine Nachricht von 'Shabbat Shalom' wird geteilt.",
+          "summary_easy": "Ein Kontinent will sein Öl selbst machen. Ein neues Programm ist fertig. Es gibt eine nette Nachricht.",
           "links": [
             {
-              "title": "New York Giants call for 'White Out' at MetLife Stadium vs. Commanders",
-              "url": "https://giantswire.usatoday.com/story/sports/nfl/giants/2026/11/12/new-york-giants-call-white-out-metlife-stadium-commanders/92734449007/"
+              "title": "This continent is fighting to refine its own oil. Can its richest man help?",
+              "url": "https://rt-english.com/africa/648706-oil-capital-and-africa-sovereignty/"
+            },
+            {
+              "title": "canlix added to PyPI",
+              "url": "https://pypi.org/project/canlix/"
             }
           ]
         }
@@ -344,27 +288,27 @@
     "wahlperiode": 21,
     "sitzung": 108,
     "url": "https://dserver.bundestag.de/btp/21/21108.pdf",
-    "summary_en": "On Thursday, November 12, 2026, the German Bundestag held its 108th session of the 21st legislative period. The session began with several procedural matters, including the subsequent referral of a committee item and the election of Mareike Hermeier to the board of the \"Fonds zur Finanzierung der kerntechnischen Entsorgung\" and Jan Metzler to the administrative board of the Federal Agency for Real Estate Tasks.  The main legislative focus was the \"Startchancen- und Qualitätsentwicklungsgesetz\" (SCQEG) concerning childcare, which underwent its second and third readings, along with a report from the Budget Committee. Following this, the Bundestag debated two motions from the AfD: one titled \"Stop the deindustrialization – End the European Green Deal and EU centralism,\" with contributions from Micha Fehre, Tobias Teich, Peter Boehringer, and the AfD faction, and another titled \"Stop the wave of insolvencies – Strengthen the German economy,\" introduced by Bernd Schattner, Leif-Erik Holm, Steffen Kotré, and the AfD faction. The SPD's Truels Reichardt and Dagmar Schmidt, the CDU/CSU's Ralph Edelhäußer and Michael Hose, and BÜNDNIS 90/DIE GRÜNEN's Dr. Anja Reinalter and Denise Loop also spoke on various agenda items.  The session also included the second and third readings of a bill for more justice through strengthening the customs administration and combating financial crime, as well as a recommendation from the Finance Committee on combating financial crime and money laundering, and a motion from Die Linke regarding customs reform. Finally, the Bundestag discussed a bill to amend the Renewable Energy Sources Act and other regulations for implementing EU directives in the electricity sector, alongside a related motion from BÜNDNIS 90/DIE GRÜNEN on a fair Renewable Energy Sources Act.",
-    "summary_de": "Am Donnerstag, dem 12. November 2026, fand im Deutschen Bundestag die 108. Sitzung der 21. Wahlperiode statt. Die Sitzung begann mit mehreren prozeduralen Punkten, darunter die nachträgliche Ausschussüberweisung und die Wahl von Mareike Hermeier in das Kuratorium der Stiftung „Fonds zur Finanzierung der kerntechnischen Entsorgung“ sowie von Jan Metzler in den Verwaltungsrat bei der Bundesanstalt für Immobilienaufgaben.  Der Schwerpunkt der Gesetzgebungsarbeit lag auf dem „Startchancen- und Qualitätsentwicklungsgesetz“ (SCQEG) zur Kinderbetreuung, das die zweite und dritte Beratung durchlief, sowie einem Bericht des Haushaltsausschusses.  Anschließend debattierte der Bundestag zwei Anträge der AfD: einen mit dem Titel „Stopp der Deindustrialisierung – Beendigung des European Green Deal und des EU-Zentralismus“, zu dem Micha Fehre, Tobias Teich, Peter Boehringer und die AfD-Fraktion sprachen, sowie einen weiteren mit dem Titel „Insolvenzwelle stoppen – Deutsche Wirtschaft stärken“, eingebracht von Bernd Schattner, Leif-Erik Holm, Steffen Kotré und der AfD-Fraktion.  Auch Truels Reichardt und Dagmar Schmidt (SPD), Ralph Edelhäußer und Michael Hose (CDU/CSU) sowie Dr. Anja Reinalter und Denise Loop (BÜNDNIS 90/DIE GRÜNEN) trugen zu verschiedenen Tagesordnungspunkten bei.  Die Sitzung umfasste auch die zweite und dritte Beratung eines Gesetzentwurfs für mehr Gerechtigkeit durch Stärkung der Zollverwaltung und Bekämpfung der Finanzkriminalität, eine Beschlussempfehlung des Finanzausschusses zur Bekämpfung von Finanzkriminalität und Geldwäsche sowie einen Antrag der Linken zur Zollreform.  Abschließend befasste sich der Bundestag mit einem Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer Vorschriften zur Umsetzung von EU-Vorgaben im Stromsektor, zusammen mit einem verwandten Antrag von BÜNDNIS 90/DIE GRÜNEN für ein faires Erneuerbare-Energien-Gesetz.",
-    "summary_easy": "Der Bundestag traf sich am 12. November 2026. Zuerst wurden einige Dinge im Parlament geregelt. Zwei Abgeordnete wurden neu in wichtige Gremien gewählt. Dann wurde über ein Gesetz für bessere Kinderbetreuung gesprochen. Danach gab es Debatten über zwei Anträge der AfD-Partei. Ein Antrag sprach gegen die Deindustrialisierung. Der andere Antrag wollte mehr für deutsche Firmen tun. Auch andere Parteien wie SPD, CDU/CSU und Grüne haben gesprochen. Es ging auch um ein Gesetz zur stärkeren Zollverwaltung und gegen Finanzkriminalität. Die Abgeordneten diskutierten auch ein neues Gesetz für erneuerbare Energien. Es gab Anträge von Grünen und der Linken zu diesen Themen.",
+    "summary_en": "On Thursday, November 12, 2026, the German Bundestag convened for its 108th session of the 21st legislative period. The session began with procedural matters, including the subsequent referral of committee assignments and the election of Mareike Hermeier to the \"Fonds zur Finanzierung der kerntechnischen Entsorgung\" Kuratorium and Jan Metzler to the administrative board of the Bundesanstalt für Immobilienaufgaben. The main legislative agenda focused on several key areas. First, the Bundestag debated the second and third readings of the \"Startchancen- und Qualitätsentwicklungsgesetz – SCQEG,\" aimed at improving children's starting opportunities and quality in childcare, with reports from the Budget Committee. Secondly, two AfD motions were presented: one titled \"Stopp der Deindustrialisierung – Beendigung des European Green Deal und des EU-Zentralismus\" and another, \"Insolvenzwelle stoppen – Deutsche Wirtschaft stärken.\" Speakers from the AfD, CDU/CSU, SPD, and BÜNDNIS 90/DIE GRÜNEN participated in the debates, with the AfD framing their proposals as essential for economic stability. Thirdly, the Bundestag conducted the second and third readings of a government bill \"zur Stärkung der Zollverwaltung und zur Bekämpfung der Finanzkriminalität,\" alongside a report from the Finance Committee. This included discussing proposals from BÜNDNIS 90/DIE GRÜNEN on combating financial crime and money laundering, and from Die Linke on expanding customs reform and returning seized assets. Finally, the session addressed the \"Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes\" (EEG amendment) to implement EU directives in the electricity sector, alongside a BÜNDNIS 90/DIE GRÜNEN motion on \"Energiewende gemeinsam gestalten.\" MPs from the SPD, AfD, CDU/CSU, and BÜNDNIS 90/DIE GRÜNEN contributed to these discussions.",
+    "summary_de": "Am Donnerstag, den 12. November 2026, trat der Deutsche Bundestag zu seiner 108. Sitzung der 21. Wahlperiode zusammen. Die Sitzung begann mit Verfahrensfragen, einschließlich nachträglicher Ausschussüberweisungen sowie der Wahl von Mareike Hermeier in das Kuratorium der Stiftung „Fonds zur Finanzierung der kerntechnischen Entsorgung“ und Jan Metzler in den Verwaltungsrat der Bundesanstalt für Immobilienaufgaben. Die Hauptgeschäfte des Parlaments konzentrierten sich auf mehrere Kernbereiche. Erstens debattierte der Bundestag die zweite und dritte Beratung des „Startchancen- und Qualitätsentwicklungsgesetzes – SCQEG“, das die Startchancen von Kindern und die Qualität in der Kindertagesbetreuung verbessern soll, mit Berichten des Haushaltsausschusses. Zweitens wurden zwei Anträge der AfD vorgestellt: einer mit dem Titel „Stopp der Deindustrialisierung – Beendigung des European Green Deal und des EU-Zentralismus“ und ein weiterer, „Insolvenzwelle stoppen – Deutsche Wirtschaft stärken“. Abgeordnete der AfD, CDU/CSU, SPD und BÜNDNIS 90/DIE GRÜNEN beteiligten sich an den Debatten, wobei die AfD ihre Vorschläge als essenziell für die wirtschaftliche Stabilität darstellte. Drittens führte der Bundestag die zweite und dritte Beratung eines Gesetzentwurfs der Bundesregierung „zur Stärkung der Zollverwaltung und zur Bekämpfung der Finanzkriminalität“ durch, begleitet von einem Bericht des Finanzausschusses. Dies beinhaltete die Beratung von Anträgen von BÜNDNIS 90/DIE GRÜNEN zur Bekämpfung von Finanzkriminalität und Geldwäsche sowie von Die Linke zur Erweiterung der Zollreform und Rückgabe beschlagnahmten Vermögens. Abschließend befasste sich die Sitzung mit dem „Gesetz zur Änderung des Erneuerbaren-Energien-Gesetzes“ (EEG-Novelle) zur Umsetzung von EU-Vorgaben im Stromsektor, parallel zu einem Antrag von BÜNDNIS 90/DIE GRÜNEN zur „Energiewende gemeinsam gestalten“. Abgeordnete von SPD, AfD, CDU/CSU und BÜNDNIS 90/DIE GRÜNEN trugen zu diesen Beratungen bei.",
+    "summary_easy": "Der Bundestag traf sich am 12. November 2026. Zuerst wurden neue Mitglieder für wichtige Gremien gewählt. Dann ging es um ein neues Gesetz für Kindergärten. Es soll die Betreuung und die Chancen für Kinder verbessern. Danach sprach die AfD über die Wirtschaft. Sie will die Industrie schützen und den \"Green Deal\" beenden. Andere Parteien diskutierten mit. Es gab auch ein Gesetz zur Stärkung des Zolls. Dieses Gesetz soll Finanzkriminalität bekämpfen. Parteien sprachen über Geldwäsche und Steuerbetrug. Zum Schluss ging es um erneuerbare Energien. Ein neues Gesetz soll den Ausbau von Wind- und Solarkraft fördern. Alle wichtigen Themen wurden besprochen.",
     "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact_en": "During the Byzantine Empire, the color purple was so exclusive to royalty that it was known as 'imperial purple.' The dye was made from thousands of sea snails, making it incredibly expensive and accessible only to the emperor and high-ranking officials. Wearing purple without imperial permission could lead to severe punishment.",
-      "fact_de": "Während des Byzantinischen Reiches war die Farbe Purpur so exklusiv für Könige, dass sie als 'kaiserliches Purpur' bekannt war. Der Farbstoff wurde aus Tausenden von Meeresschnecken gewonnen, was ihn unglaublich teuer und nur für den Kaiser und hochrangige Beamte zugänglich machte. Das Tragen von Purpur ohne kaiserliche Erlaubnis konnte zu strengen Strafen führen.",
-      "fact_easy": "Im alten Byzanz war die Farbe Purpur nur für Könige. Sie nannten es 'kaiserliches Purpur'. Es war sehr teuer, weil es aus Schnecken gemacht wurde. Nur der Kaiser durfte es tragen.",
+      "fact_en": "During the Renaissance, European sumptuary laws dictated what clothing colors and fabrics people of different social classes could wear. For example, only royalty and high nobility were permitted to wear purple, a notoriously expensive dye derived from murex sea snails, symbolizing their elevated status and wealth.",
+      "fact_de": "Während der Renaissance schrieben europäische Kleiderordnungen vor, welche Farben und Stoffe Menschen verschiedener sozialer Schichten tragen durften. Beispielsweise war nur dem Königshaus und dem Hochadel erlaubt, Purpur zu tragen, ein notorisch teures Färbemittel, das aus Purpurschnecken gewonnen wurde und ihren erhöhten Status und Reichtum symbolisierte.",
+      "fact_easy": "Früher gab es Gesetze für Kleidung. Nur reiche und wichtige Leute durften teure Farben wie Purpur tragen. Das zeigte, dass sie etwas Besonderes waren.",
       "category": "Fashion",
-      "source_title": "Imperial purple - Wikipedia",
-      "source_url": "https://en.wikipedia.org/wiki/Imperial_purple"
+      "source_title": "Sumptuary laws - Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Sumptuary_laws"
     },
     {
-      "fact_en": "In ancient Rome, urine was a valuable commodity used for laundry and even as a mouthwash. The ammonia in urine acted as a powerful cleaning agent and disinfectant. Public urination receptacles were common, and the collected urine was taxed and sold.",
-      "fact_de": "Im antiken Rom war Urin eine wertvolle Ware, die zum Wäschewaschen und sogar als Mundwasser verwendet wurde. Das Ammoniak im Urin wirkte als starkes Reinigungsmittel und Desinfektionsmittel. Öffentliche Urinalgefäße waren üblich, und der gesammelte Urin wurde besteuert und verkauft.",
-      "fact_easy": "Im alten Rom war Urin wichtig. Man benutzte ihn für Wäsche und als Mundwasser. Urin reinigt gut. Man sammelte Urin und verkaufte ihn.",
+      "fact_en": "The iconic white wedding dress, popularized by Queen Victoria's marriage to Prince Albert in 1840, was not a longstanding tradition before her. Previously, brides wore their best dress, regardless of color, often opting for red, blue, or even black for practical reasons and religious symbolism.",
+      "fact_de": "Das ikonische weiße Brautkleid, das durch die Hochzeit von Königin Victoria mit Prinz Albert im Jahr 1840 populär wurde, war davor keine langjährige Tradition. Zuvor trugen Bräute ihr bestes Kleid, unabhängig von der Farbe, und wählten oft Rot, Blau oder sogar Schwarz aus praktischen Gründen und religiöser Symbolik.",
+      "fact_easy": "Vor 1840 trugen Bräute kein weißes Kleid. Königin Victoria heiratete in Weiß und machte das beliebt. Früher trugen Frauen oft rote oder blaue Kleider zur Hochzeit.",
       "category": "Traditions",
-      "source_title": "The Surprising History of Urine - History",
-      "source_url": "https://www.history.com/news/the-surprising-history-of-urine"
+      "source_title": "When Did People Start Wearing White Wedding Dresses? - Brides",
+      "source_url": "https://www.brides.com/story/history-of-white-wedding-dresses"
     }
   ],
   "frankfurt": {
@@ -372,145 +316,84 @@
       {
         "type": "Events",
         "emoji": "🎪",
-        "headline_en": "Climate Protest Causes Traffic Disruptions in Berlin; Frankfurt Museum Features Eerie Art; Local Chicken Joint Named 'Restaurant of the Year'",
-        "headline_de": "Klimaprotest sorgt für Einschränkungen in Berlin; Frankfurter Museum zeigt unheimliche Kunst; Lokales Hähnchenrestaurant wird 'Restaurant des Jahres'",
-        "headline_easy": "Klima-Demo in Berlin: Es gibt Sperrungen. Ein Museum in Frankfurt zeigt besondere Kunst. Ein Restaurant in Frankfurt ist sehr gut.",
-        "summary_en": "A 'Fridays for Future' demonstration in Berlin will cause traffic restrictions. In Frankfurt, the Deutsches Romantikmuseum is exhibiting unsettling works by mentally ill artists from the Prinzhorn Collection. Meanwhile, the Frankfurt eatery 'Chicken Onda' has been named 'Restaurant of the Year' by Uber Eats for its Korean Fried Chicken.",
-        "summary_de": "Eine 'Fridays for Future'-Demonstration in Berlin führt zu Einschränkungen im Verkehr. In Frankfurt zeigt das Deutsche Romantikmuseum beunruhigende Werke psychisch kranker Künstler aus der Sammlung Prinzhorn. Zudem wurde das Frankfurter Lokal 'Chicken Onda' von Uber Eats zum 'Restaurant des Jahres' gekürt.",
-        "summary_easy": "Eine Demo für das Klima ist in Berlin. Es gibt dort Sperrungen. Ein Museum in Frankfurt zeigt Bilder von kranken Künstlern. Ein Restaurant mit Hähnchen ist in Frankfurt das beste Restaurant.",
+        "headline_en": "Top Sprinter Gina Lückenkemper Joins Eintracht Frankfurt Ahead of 2028 Olympics",
+        "headline_de": "Top-Sprinterin Lückenkemper wechselt zu Eintracht Frankfurt",
+        "headline_easy": "Die schnelle Läuferin Lückenkemper ist jetzt bei Eintracht Frankfurt.",
+        "summary_en": "German top sprinter Gina Lückenkemper is making a significant career move by joining Eintracht Frankfurt. This move is part of her preparation for the 2028 Olympic Games.",
+        "summary_de": "Die deutsche Top-Sprinterin Gina Lückenkemper wechselt zu Eintracht Frankfurt. Dieser Schritt ist Teil ihrer Vorbereitung auf die Olympischen Spiele 2028.",
+        "summary_easy": "Gina Lückenkemper ist eine sehr schnelle Läuferin. Sie wechselt zu Eintracht Frankfurt. Das ist gut für die Olympischen Spiele 2028.",
         "links": [
           {
-            "title": "„Fridays for Future“-Demo am Freitag: Hier gibt es in Mitte Einschränkungen",
-            "url": "https://www.morgenpost.de/berlin/article413659793/fridays-for-future-demo-am-freitag-hier-gibt-es-in-mitte-einschraenkungen.html"
+            "title": "Top-Sprinterin Lückenkemper - Wechsel-Hammer um Gold-Gina: Die schnellste Frau Deutschlands wechselt zu Eintracht Frankfurt!",
+            "url": "https://www.bild.de/sport/fussball/gina-lueckenkemper-wechselt-zu-eintracht-frankfurt-6af6e0d75a72dceba1d61376"
           },
           {
-            "title": "Sammlung Prinzhorn: Ausstellung zeigt Werke psychisch kranker Künstler",
-            "url": "https://www.faz.net/aktuell/rhein-main/kultur/frankfurt-sammlung-prinzhorn-im-romantik-museum-zeigt-werke-psychisch-kranker-kuenstler-accg-201656029.html"
+            "title": "Schon für den Dortmund-Kracher - Blessin verrät seinen Kühn-Plan",
+            "url": "https://www.bild.de/sport/fussball/schon-fuer-den-dortmund-kracher-blessin-verraet-seinen-kuehn-plan-6af65ef85a72dceba1d60d53"
           }
         ]
       },
       {
         "type": "Crime",
         "emoji": "🚔",
-        "headline_en": "Drunk Driver Crashes in Groß-Gerau; Pepper Spray Incident at Wiesbaden School; Power Outage Hits Frankfurt Courts; Historical Plaque Honors Jewish Girls in Westend",
-        "headline_de": "Betrunkener LKW-Fahrer kracht in Zaun in Groß-Gerau; Reizgas-Einsatz an Schule in Wiesbaden; Stromausfall legt Frankfurter Gerichte lahm; Gedenktafel für jüdische Mädchen im Westend",
-        "headline_easy": "Auto fährt gegen Zaun. Reizgas an einer Schule. Strom war weg in Gerichten. Eine Tafel erinnert an Mädchen.",
-        "summary_en": "A live blog reports multiple incidents: a drunk truck driver crashed in Groß-Gerau, a 13-year-old used pepper spray at a Wiesbaden school, and a power outage disrupted Frankfurt courts. In historical news, a plaque in Frankfurt's Westend commemorates Jewish schoolgirls who found refuge there.",
-        "summary_de": "Ein Liveblog berichtet über verschiedene Vorfälle: Ein alkoholisierter Lkw-Fahrer verursachte einen Unfall in Groß-Gerau, eine 13-Jährige setzte Reizgas an einer Schule in Wiesbaden ein und ein Stromausfall legte Frankfurter Gerichte lahm. Historisch erinnert eine Gedenktafel in Frankfurt-Westend an jüdische Schülerinnen, die dort Unterschlupf fanden.",
-        "summary_easy": "Es gab einen Unfall mit einem LKW. Ein Mädchen hat Reizgas benutzt. In Gerichten gab es keinen Strom. Eine Tafel erinnert an jüdische Mädchen.",
+        "headline_en": "Nanoplastics in the Brain: Frankfurt Artists Explore Impact on Thinking",
+        "headline_de": "Nanoplastik im Gehirn: Frankfurter Künstler erforschen Auswirkungen auf das Denken",
+        "headline_easy": "Plastik im Gehirn: Was macht das mit uns?",
+        "summary_en": "Frankfurt-based artists Ruth Fühner and Oliver Augst have created a live audio play exploring the potential impact of nanoplastics in our brains. The work delves into how this plastic might alter our thinking and perceptions.",
+        "summary_de": "Frankfurter Künstler Ruth Fühner und Oliver Augst haben ein Live-Hörstück über Nanoplastik im Gehirn geschaffen. Es untersucht, wie Plastik unser Denken verändern könnte.",
+        "summary_easy": "Künstler in Frankfurt machen ein Hörstück. Es geht um Plastik in unserem Gehirn. Plastik kann vielleicht unser Denken verändern.",
         "links": [
           {
-            "title": "Rhein-Main-Liveblog: Groß-Gerau: Alkoholisierter Lastwagenfahrer kracht in Zaun",
-            "url": "https://www.faz.net/aktuell/rhein-main/gross-gerau-alkoholisierter-lastwagenfahrer-kracht-in-zaun-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
+            "title": "Welt voller Kunststoff: Das Plastik in unseren Hirnen: Was passiert, wenn das Plastik in unseren Gehirnen unser Denken verändert?",
+            "url": "https://www.faz.net/aktuell/rhein-main/kultur/beeinflusst-nanoplastik-im-koerper-unser-denken-frankfurter-kuenstler-suchen-antworten-201675612.html"
           },
           {
-            "title": "DER ANDERE BLICK - Gen-Z-Porteste: Die Krawalldemonstranten setzen viel mehr als die innere Sicherheit aufs Spiel",
-            "url": "https://www.nzz.ch/der-andere-blick/gen-z-porteste-die-krawalldemonstranten-setzen-viel-mehr-als-die-innere-sicherheit-aufs-spiel-ld.10060672"
+            "title": "Top-Sprinterin Lückenkemper - Wechsel-Hammer um Gold-Gina: Die schnellste Frau Deutschlands wechselt zu Eintracht Frankfurt!",
+            "url": "https://www.bild.de/sport/fussball/gina-lueckenkemper-wechselt-zu-eintracht-frankfurt-6af6e0d75a72dceba1d61376"
           }
         ]
       },
       {
         "type": "Sales & Offers",
         "emoji": "🛍️",
-        "headline_en": "Live Blog Updates: Drunk Driver Incident, School Pepper Spray, Frankfurt Court Power Outage, Historical Memorial Plaque",
-        "headline_de": "Liveblog-Aktualisierungen: Unfall mit betrunkenem Fahrer, Reizgas an Schule, Stromausfall in Frankfurter Gerichten, historische Gedenktafel",
-        "headline_easy": "News aus der Region: Unfall, Reizgas, kein Strom, eine Gedenktafel.",
-        "summary_en": "A live blog covers several regional incidents including a drunk truck driver crashing in Groß-Gerau and a pepper spray incident at a Wiesbaden school. It also mentions a power outage affecting Frankfurt courts. Additionally, a historical report details a memorial plaque in Frankfurt's Westend honoring Jewish girls.",
-        "summary_de": "Ein Liveblog berichtet über verschiedene regionale Vorfälle, darunter ein Unfall eines betrunkenen Lkw-Fahrers in Groß-Gerau und ein Reizgas-Einsatz an einer Schule in Wiesbaden. Ebenso wird ein Stromausfall erwähnt, der Frankfurter Gerichte betraf. Des Weiteren thematisiert ein historischer Bericht eine Gedenktafel im Frankfurter Westend, die jüdischen Mädchen gewidmet ist.",
-        "summary_easy": "Es gibt aktuelle Nachrichten. Ein LKW hatte einen Unfall. Ein Mädchen hat Reizgas benutzt. Gerichte hatten keinen Strom. Eine Tafel erinnert an Mädchen.",
+        "headline_en": "Top Sprinter Gina Lückenkemper Joins Eintracht Frankfurt",
+        "headline_de": "Sprint-Ass Lückenkemper wechselt zu Eintracht Frankfurt",
+        "headline_easy": "Die schnelle Läuferin Lückenkemper ist jetzt bei Eintracht Frankfurt.",
+        "summary_en": "German track and field star Gina Lückenkemper, a highly successful athlete, will now compete for Eintracht Frankfurt. This significant transfer is part of her preparation for the 2028 Olympic Games.",
+        "summary_de": "Die erfolgreiche deutsche Leichtathletin Gina Lückenkemper wird künftig für Eintracht Frankfurt antreten. Dieser Wechsel ist Teil ihrer Vorbereitung auf die Olympischen Spiele 2028.",
+        "summary_easy": "Gina Lückenkemper ist eine gute Läuferin. Sie wechselt zu Eintracht Frankfurt. Das ist gut für die Olympischen Spiele 2028.",
         "links": [
           {
-            "title": "Rhein-Main-Liveblog: Groß-Gerau: Alkoholisierter Lastwagenfahrer kracht in Zaun",
-            "url": "https://www.faz.net/aktuell/rhein-main/gross-gerau-alkoholisierter-lastwagenfahrer-kracht-in-zaun-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
+            "title": "Top-Sprinterin Lückenkemper - Wechsel-Hammer um Gold-Gina: Die schnellste Frau Deutschlands wechselt zu Eintracht Frankfurt!",
+            "url": "https://www.bild.de/sport/fussball/gina-lueckenkemper-wechselt-zu-eintracht-frankfurt-6af6e0d75a72dceba1d61376"
           },
           {
-            "title": "DER ANDERE BLICK - Gen-Z-Porteste: Die Krawalldemonstranten setzen viel mehr als die innere Sicherheit aufs Spiel",
-            "url": "https://www.nzz.ch/der-andere-blick/gen-z-porteste-die-krawalldemonstranten-setzen-viel-mehr-als-die-innere-sicherheit-aufs-spiel-ld.10060672"
+            "title": "Wechsel-Coup: Sprint-Ass Lückenkemper wechselt von Berlin nach Frankfurt",
+            "url": "https://www.tagesspiegel.de/berlin/dpa-wechsel-coup-sprint-ass-luckenkemper-wechselt-von-berlin-nach-frankfurt-16280728.html"
           }
         ]
       },
       {
         "type": "Local News",
         "emoji": "📍",
-        "headline_en": "Regional Incidents: Drunk Driver, School Pepper Spray, Court Power Outage; Historical Plaque Unveiled",
-        "headline_de": "Regionale Vorfälle: Betrunkener Fahrer, Reizgas an Schule, Stromausfall in Gerichten; Gedenktafel enthüllt",
-        "headline_easy": "News aus der Stadt und Region: Unfall, Reizgas, kein Strom, Gedenken.",
-        "summary_en": "A live blog reports on local events including a drunk truck driver's crash in Groß-Gerau, a pepper spray incident at a Wiesbaden school, and a power outage affecting Frankfurt courts. Separately, a historical remembrance is noted with a plaque in Frankfurt's Westend honoring Jewish girls who were housed there.",
-        "summary_de": "Ein Liveblog berichtet über lokale Ereignisse, darunter den Unfall eines betrunkenen Lkw-Fahrers in Groß-Gerau, einen Vorfall mit Reizgas an einer Schule in Wiesbaden und einen Stromausfall, der Frankfurter Gerichte betraf. Separat wird an eine historische Gedenktafel im Frankfurter Westend erinnert, die jüdischen Mädchen gewidmet ist.",
-        "summary_easy": "Es gab einen Unfall mit einem LKW. Ein Mädchen hat Reizgas benutzt. Gerichte hatten keinen Strom. Eine Tafel erinnert an Mädchen.",
+        "headline_en": "Sprint Champion Gina Lückenkemper Joins Eintracht Frankfurt",
+        "headline_de": "Sprint-Ass Lückenkemper wechselt zu Eintracht Frankfurt",
+        "headline_easy": "Die schnelle Läuferin Lückenkemper ist jetzt bei Eintracht Frankfurt.",
+        "summary_en": "Germany's fastest woman, Gina Lückenkemper, has made a major career move by signing with Eintracht Frankfurt. The 29-year-old sprinter aims for the 2028 Olympic Games with her new club.",
+        "summary_de": "Deutschlands schnellste Frau, Gina Lückenkemper, wechselt zu Eintracht Frankfurt. Die 29-jährige Sprinterin peilt die Olympischen Spiele 2028 mit ihrem neuen Verein an.",
+        "summary_easy": "Gina Lückenkemper ist die schnellste Frau in Deutschland. Sie ist jetzt bei Eintracht Frankfurt. Sie möchte 2028 bei den Olympischen Spielen laufen.",
         "links": [
           {
-            "title": "Rhein-Main-Liveblog: Groß-Gerau: Alkoholisierter Lastwagenfahrer kracht in Zaun",
-            "url": "https://www.faz.net/aktuell/rhein-main/gross-gerau-alkoholisierter-lastwagenfahrer-kracht-in-zaun-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
+            "title": "Top-Sprinterin Lückenkemper - Wechsel-Hammer um Gold-Gina: Die schnellste Frau Deutschlands wechselt zu Eintracht Frankfurt!",
+            "url": "https://www.bild.de/sport/fussball/gina-lueckenkemper-wechselt-zu-eintracht-frankfurt-6af6e0d75a72dceba1d61376"
           },
           {
-            "title": "DER ANDERE BLICK - Gen-Z-Porteste: Die Krawalldemonstranten setzen viel mehr als die innere Sicherheit aufs Spiel",
-            "url": "https://www.nzz.ch/der-andere-blick/gen-z-porteste-die-krawalldemonstranten-setzen-viel-mehr-als-die-innere-sicherheit-aufs-spiel-ld.10060672"
+            "title": "Wechsel-Coup: Sprint-Ass Lückenkemper wechselt von Berlin nach Frankfurt",
+            "url": "https://www.tagesspiegel.de/berlin/dpa-wechsel-coup-sprint-ass-luckenkemper-wechselt-von-berlin-nach-frankfurt-16280728.html"
           }
         ]
       }
     ]
   },
-  "dresden": [
-    {
-      "price": "380 €",
-      "address": "Leisniger Platz 14, 01159 Dresden",
-      "district": "Cotta",
-      "size": "45 m²",
-      "rooms": "2",
-      "title": "Gemütliche 2-Zimmer-Wohnung in Dresden-Cotta",
-      "url": "https://www.immobilienscout24.de/expose/144071773",
-      "source": "Immoscout24.de"
-    },
-    {
-      "price": "400 €",
-      "address": "Münchner Platz 1, 01187 Dresden",
-      "district": "Südvorstadt",
-      "size": "40 m²",
-      "rooms": "1.5",
-      "title": "Helle 1.5-Zimmer-Wohnung in zentraler Lage",
-      "url": "https://www.immowelt.de/expose/26896069",
-      "source": "Immowelt.de"
-    },
-    {
-      "price": "415 €",
-      "address": "Hohmannstraße 17, 01277 Dresden",
-      "district": "Striesen",
-      "size": "50 m²",
-      "rooms": "2",
-      "title": "Sonnige 2-Zimmer-Wohnung in Striesen",
-      "url": "https://www.vonovia.de/wohnung-suchen/dresden/hohmannstrasse-17/4787678",
-      "source": "Vonovia.de"
-    },
-    {
-      "price": "420 €",
-      "address": "Breitscheidstraße 10, 01156 Dresden",
-      "district": "Löbtau",
-      "size": "48 m²",
-      "rooms": "2",
-      "title": "Ruhige 2-Zimmer-Wohnung in Dresden-Löbtau",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-in-dresden-loebtau-kaltmiete-420-/2757951293-208-9926",
-      "source": "Kleinanzeigen.de"
-    },
-    {
-      "price": "430 €",
-      "address": "Rudolf-Leonhard-Straße 28, 01097 Dresden",
-      "district": "Neustadt",
-      "size": "42 m²",
-      "rooms": "1.5",
-      "title": "Moderne 1.5-Zimmer-Wohnung in der Neustadt",
-      "url": "https://www.wg-gesucht.de/wohnung-dresden/rudolf-leonhard-strasse-28/5825073/",
-      "source": "WG-Gesucht.de"
-    },
-    {
-      "price": "445 €",
-      "address": "Hinterbergstraße 5, 01279 Dresden",
-      "district": "Zschertnitz",
-      "size": "55 m²",
-      "rooms": "2",
-      "title": "Großzügige 2-Zimmer-Wohnung in Zschertnitz",
-      "url": "https://www.wohnungsboerse.net/immobilien/dresden/wohnung-kaltmiete-unter-450-euro/hinterbergstrasse-5/1234567",
-      "source": "Wohnungsboerse.net"
-    }
-  ]
+  "dresden": []
 }
