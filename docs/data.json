@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, November 14 2026",
+  "date": "Sunday, November 15 2026",
   "sections": [
     {
       "category": "Germany",
@@ -8,56 +8,56 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Nmecha to avoid repeating controversial goal celebration; Mercedes-Benz halts future investments.",
-          "headline_de": "Nmecha wird umstrittene Torjubel-Wiederholung vermeiden; Mercedes-Benz stoppt zukünftige Investitionen.",
-          "headline_easy": "Nmecha macht seinen Jubel nicht nochmal. Mercedes-Benz investiert nicht mehr in Deutschland.",
-          "summary_en": "Footballer Nmecha has stated he will not repeat a controversial goal celebration. In business news, Mercedes-Benz announced it is halting all future investments in Germany.",
-          "summary_de": "Fußballspieler Nmecha hat erklärt, dass er einen umstrittenen Torjubel nicht wiederholen wird. In Wirtschaftsnachrichten kündigte Mercedes-Benz an, alle zukünftigen Investitionen in Deutschland einzustellen.",
-          "summary_easy": "Ein Fußballspieler, Nmecha, sagt, er macht seinen Jubel nicht mehr. Die Firma Mercedes-Benz hört auf, in Deutschland Geld zu geben.",
+          "headline_en": "Zelenskyy suggests Ukraine security deal could go to referendum; Travelogue details extensive trips to Germany and Greenland; Arsenal defender scores brace.",
+          "headline_de": "Selenskyj: Sicherheitsabkommen für die Ukraine könnte per Referendum entschieden werden; Reisebericht beschreibt umfangreiche Reisen nach Deutschland und Grönland; Arsenal-Verteidiger erzielt zwei Tore.",
+          "headline_easy": "Ukraine: Selenskyj spricht über ein Referendum für ein Sicherheitsabkommen. Eine Person berichtet von Reisen nach Deutschland und Grönland. Ein Fußballspieler hat zwei Tore geschossen.",
+          "summary_en": "Ukrainian President Zelenskyy indicated that a security deal might be put to a referendum. Separately, a travelogue recounts multiple transatlantic flights for a family trip to Germany, including a detour through Greenland. In football news, an Arsenal defender scored twice for his national team.",
+          "summary_de": "Der ukrainische Präsident Selenskyj deutete an, dass ein Sicherheitsabkommen per Referendum entschieden werden könnte. Ein Reisebericht schildert zudem umfangreiche Reisen nach Deutschland und Grönland. Ein Fußballverteidiger von Arsenal erzielte zwei Tore für seine Nationalmannschaft.",
+          "summary_easy": "Der Präsident der Ukraine, Selenskyj, sagt, dass die Menschen über ein Sicherheitsabkommen abstimmen könnten. Eine Familie reiste oft nach Deutschland und nach Grönland. Ein Fußballspieler schoss zwei Tore für sein Land.",
           "links": [
             {
-              "title": "Germany's Nmecha won't repeat controversial goal celebration",
-              "url": "https://www.dw.com/en/germanys-nmecha-wont-repeat-controversial-goal-celebration/a-79937994"
+              "title": "Ukraine: Zelenskyy says security deal could go to referendum",
+              "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535"
             },
             {
-              "title": "Mercedes-Benz to halt ‘all future investments’ in Germany",
-              "url": "https://www.irishtimes.com/business/2026/11/13/mercedes-benz-to-halt-all-future-investments-in-germany/"
+              "title": "Taking My Kids To Germany Turned Into Three Transatlantic Round Trips And A Detour Through Greenland",
+              "url": "https://liveandletsfly.com/summer-europe-trip-report-introduction/"
             }
           ]
         },
         {
-          "type": "War",
-          "emoji": "⚔️",
-          "headline_en": "Operation TorNado leads to arrests; Nmecha avoids controversial celebration; Mercedes-Benz halts investments.",
-          "headline_de": "Operation TorNado führt zu Verhaftungen; Nmecha vermeidet kontroversen Jubel; Mercedes-Benz stoppt Investitionen.",
-          "headline_easy": "Viele Leute wurden bei einer Aktion gefasst. Nmecha macht seinen Jubel nicht nochmal. Mercedes-Benz gibt kein Geld mehr in Deutschland.",
-          "summary_en": "A large-scale operation dubbed TorNado has resulted in numerous arrests on the dark web. In sports, Nmecha will not repeat a controversial goal celebration, and Mercedes-Benz is halting future investments in Germany.",
-          "summary_de": "Eine groß angelegte Operation namens TorNado hat zu zahlreichen Festnahmen im Darknet geführt. Im Sport wird Nmecha einen umstrittenen Torjubel nicht wiederholen, und Mercedes-Benz stellt zukünftige Investitionen in Deutschland ein.",
-          "summary_easy": "Viele Leute wurden festgenommen. Nmecha macht seinen Jubel nicht mehr. Mercedes-Benz investiert nicht mehr in Deutschland.",
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Turkey pressures critics using espionage accusations; Ukraine security deal may face referendum; Travel woes and football news also featured.",
+          "headline_de": "Türkei setzt Kritiker unter Druck durch Spionagevorwürfe; Sicherheitsabkommen der Ukraine könnte Referendum sehen; Reiseberichte und Fußball-Nachrichten ebenfalls enthalten.",
+          "headline_easy": "Die Türkei nutzt Spionagevorwürfe gegen Kritiker. Die Ukraine spricht über ein Referendum für ein Sicherheitsabkommen. Es gibt auch Berichte über Reisen und Fußball.",
+          "summary_en": "Turkey is reportedly using espionage accusations as a tactic to pressure government critics. Meanwhile, Ukrainian President Zelenskyy has stated that a security deal for Ukraine could be put to a referendum. The content also includes a personal travel narrative and football news.",
+          "summary_de": "Berichten zufolge nutzt die Türkei Spionagevorwürfe als Taktik, um Kritiker der Regierung unter Druck zu setzen. Unterdessen hat der ukrainische Präsident Selenskyj erklärt, dass ein Sicherheitsabkommen für die Ukraine per Referendum entschieden werden könnte. Die Inhalte umfassen auch eine persönliche Reiseerzählung und Fußballnachrichten.",
+          "summary_easy": "Die Türkei beschuldigt Leute der Spionage, um sie zu kontrollieren. Selenskyj sagt, die Ukraine könnte über ein Abkommen abstimmen. Es gibt auch Artikel über Reisen und Fußball.",
           "links": [
             {
-              "title": "354 dark web vendors and buyers arrested in Operation TorNado",
-              "url": "https://www.helpnetsecurity.com/2026/11/13/europol-dark-web-arrests-cybercrime/"
+              "title": "Turkey uses espionage accusations to pressure government critics",
+              "url": "https://www.dw.com/en/turkey-uses-espionage-accusations-to-pressure-government-critics/a-79943768"
+            },
+            {
+              "title": "Espionage accusations: a pressure tactic for Turkish government critics",
+              "url": "https://www.dw.com/en/espionage-accusations-a-pressure-tactic-for-turkish-government-critics/a-79943768"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Today's Germany news roundup includes market updates and broader societal commentary.",
-          "headline_de": "Die heutigen Nachrichten aus Deutschland umfassen Marktnachrichten und breitere gesellschaftliche Kommentare.",
-          "headline_easy": "Nachrichten aus Deutschland heute. Es geht um Märkte und Leute.",
-          "summary_en": "A roundup of news from Germany features market insights and broader discussions on societal trends, including commentary on the potential collapse of Western Civilization.",
-          "summary_de": "Eine Zusammenfassung von Nachrichten aus Deutschland enthält Markteinblicke und breitere Diskussionen über gesellschaftliche Trends, einschließlich Kommentare zum möglichen Zusammenbruch der westlichen Zivilisation.",
-          "summary_easy": "Es gibt Nachrichten aus Deutschland. Es geht um Wirtschaft und die Gesellschaft.",
+          "headline_en": "Turkey pressures critics via espionage accusations; Extensive travel narrative; Global Microsoft outage impacts services.",
+          "headline_de": "Türkei übt durch Spionagevorwürfe Druck auf Kritiker aus; Umfangreiche Reiseroute; Globale Microsoft-Störung beeinträchtigt Dienste.",
+          "headline_easy": "Die Türkei beschuldigt Kritiker der Spionage. Eine Person berichtet von einer langen Reise. Microsoft hatte eine weltweite Störung.",
+          "summary_en": "Turkey is reportedly using espionage accusations to pressure critics. A personal account details a lengthy family travel experience involving multiple flights. Additionally, a significant global outage affected Microsoft services.",
+          "summary_de": "Berichten zufolge nutzt die Türkei Spionagevorwürfe, um Kritiker unter Druck zu setzen. Ein persönlicher Bericht schildert eine langwierige Reiseerfahrung einer Familie mit mehreren Flügen. Darüber hinaus beeinträchtigte eine bedeutende weltweite Störung die Microsoft-Dienste.",
+          "summary_easy": "Die Türkei beschuldigt Leute der Spionage. Eine Person erzählt von einer langen Reise mit vielen Flügen. Microsoft-Dienste hatten eine weltweite Störung.",
           "links": [
             {
-              "title": "Today in Germany: A roundup of the latest news on Friday",
-              "url": "https://www.thelocal.de/20261113/today-in-germany-a-roundup-of-the-latest-news-on-friday-148"
-            },
-            {
-              "title": "Collapse of Western Civilization—Why It’s Accelerating Now",
-              "url": "https://www.lewrockwell.com/2026/11/doug-casey/collapse-of-western-civilization-why-its-accelerating-now/"
+              "title": "Microsoft services fully restored after global outage",
+              "url": "https://www.rte.ie/news/2026/1114/1599205-microsoft-outage/"
             }
           ]
         }
@@ -70,40 +70,48 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Hoax bomb threats target Italian schools; Operation TorNado arrests; Western and Islamic civilization discussed.",
-          "headline_de": "Gefälschte Bombendrohungen zielen auf italienische Schulen; Operation TorNado-Festnahmen; Westliche und islamische Zivilisation diskutiert.",
-          "headline_easy": "Schulen in Italien bekommen falsche Bomben-Drohungen. Viele Leute wurden bei einer Aktion gefasst. Es geht um Kulturen.",
-          "summary_en": "Italian schools experienced a wave of hoax bomb threats, leading to evacuations. Meanwhile, Operation TorNado has resulted in significant arrests on the dark web, and discussions on the foundations of Western and Islamic civilization continue.",
-          "summary_de": "Italienische Schulen erlebten eine Welle von falschen Bombendrohungen, die zu Evakuierungen führten. Unterdessen führte die Operation TorNado zu bedeutenden Festnahmen im Darknet, und Diskussionen über die Grundlagen der westlichen und islamischen Zivilisation werden fortgesetzt.",
-          "summary_easy": "In Italien gab es falsche Bomben-Drohungen an Schulen. Viele Leute wurden festgenommen. Es gibt eine Diskussion über Kulturen.",
+          "headline_en": "Greek PM targets strong economic growth; Ukraine security deal may face referendum; Extensive European travel experiences.",
+          "headline_de": "Griechischer Premierminister strebt starkes Wirtschaftswachstum an; Sicherheitsabkommen der Ukraine könnte Referendum sehen; Umfangreiche Reiseerlebnisse in Europa.",
+          "headline_easy": "Der griechische Regierungschef will starkes Wachstum. Die Ukraine könnte über ein Abkommen abstimmen. Jemand erzählt von Reisen in Europa.",
+          "summary_en": "The Prime Minister of Greece has outlined ambitious economic growth targets, aiming for double the eurozone average ahead of upcoming elections. In parallel, Ukrainian President Zelenskyy mentioned that a security deal could be put to a referendum. The news also includes personal accounts of extensive travel within Europe.",
+          "summary_de": "Der griechische Premierminister hat ehrgeizige Wachstumsziele für die Wirtschaft dargelegt und strebt das Doppelte des Eurozonen-Durchschnitts vor den bevorstehenden Wahlen an. Parallel dazu erwähnte der ukrainische Präsident Selenskyj, dass ein Sicherheitsabkommen per Referendum entschieden werden könnte. Die Nachrichten enthalten auch persönliche Berichte über umfangreiche Reisen innerhalb Europas.",
+          "summary_easy": "Der Chef von Griechenland will, dass die Wirtschaft stark wächst. Die Ukraine könnte über ein Sicherheitsabkommen abstimmen. Eine Person berichtet von vielen Reisen in Europa.",
           "links": [
             {
-              "title": "Italy: 77 Schools Evacuated After New Round of Hoax Bomb Threats",
-              "url": "https://www.breitbart.com/europe/2026/11/13/italy-77-schools-evacuated-after-new-round-of-hoax-bomb-threats/"
-            },
+              "title": "Greek PM tells Wall Street Journal that Greece aims for growth twice the eurozone average ahead of 2027 elections",
+              "url": "https://en.protothema.gr/2026/11/14/greek-pm-tells-wall-street-journal-that-greece-aims-for-growth-twice-the-eurozone-average-ahead-of-2027-elections/"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Ukraine aid impacting US military; Greece targets strong economic growth; Zelenskyy suggests security deal referendum.",
+          "headline_de": "Ukraine-Hilfe beeinträchtigt US-Militär; Griechenland strebt starkes Wirtschaftswachstum an; Selenskyj schlägt Referendum für Sicherheitsabkommen vor.",
+          "headline_easy": "Hilfe für die Ukraine schadet dem US-Militär. Griechenland will starkes Wirtschaftswachstum. Selenskyj denkt über ein Referendum nach.",
+          "summary_en": "US military aid to Ukraine is reportedly having a negative impact on the US armed forces. Greece, meanwhile, is setting ambitious economic growth targets. Ukrainian President Zelenskyy has also suggested that a security deal for Ukraine could be put to a referendum.",
+          "summary_de": "Die US-Militärhilfe für die Ukraine wirkt sich Berichten zufolge negativ auf die US-Streitkräfte aus. Griechenland setzt unterdessen ehrgeizige Wachstumsziele. Der ukrainische Präsident Selenskyj hat außerdem vorgeschlagen, ein Sicherheitsabkommen für die Ukraine per Referendum entscheiden zu lassen.",
+          "summary_easy": "Die Hilfe für die Ukraine ist schlecht für das US-Militär. Griechenland will, dass seine Wirtschaft stark wächst. Selenskyj sagt, die Ukraine könnte über ein Abkommen abstimmen.",
+          "links": [
             {
-              "title": "The Unchosen Brothers: A Biblical key to Western and Islamic civilization",
-              "url": "https://www.israelnationalnews.com/news/436149"
+              "title": "Ukraine aid hurts US military – Pentagon",
+              "url": "https://rt-english.com/news/648834-ukraine-aid-hurts-us-military/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Leadership strategies and market outlook discussed; farmer support measures proposed.",
-          "headline_de": "Führungsstrategien und Marktausblick diskutiert; Unterstützungsmaßnahmen für Landwirte vorgeschlagen.",
-          "headline_easy": "Es geht um gute Chefs. Es gibt Ideen für Bauern.",
-          "summary_en": "Analysis delves into the effective leadership strategies behind successful companies like Hilton, alongside market outlooks. Additionally, new proposals for supporting farmers, referred to as a 'New Deal for Farmers,' are being considered.",
-          "summary_de": "Analysen befassen sich mit effektiven Führungsstrategien erfolgreicher Unternehmen wie Hilton, neben Marktaussichten. Darüber hinaus werden neue Vorschläge zur Unterstützung von Landwirten, als 'New Deal for Farmers' bezeichnet, in Betracht gezogen.",
-          "summary_easy": "Man redet über gute Chefs. Es gibt neue Pläne für Bauern.",
+          "headline_en": "Microsoft services restored after global outage; Personal travelogue of journeys to Germany; Global tech disruptions.",
+          "headline_de": "Microsoft-Dienste nach globalem Ausfall wiederhergestellt; Persönlicher Reisebericht über Reisen nach Deutschland; Globale Tech-Störungen.",
+          "headline_easy": "Microsoft-Dienste funktionieren wieder nach einer weltweiten Störung. Eine Person berichtet von Reisen nach Deutschland. Es gab Probleme mit Technik.",
+          "summary_en": "Microsoft services have been fully restored following a significant global outage that disrupted businesses and governments. A personal travelogue details extensive journeys, including trips to Germany. The broader theme includes disruptions in technology services.",
+          "summary_de": "Die Microsoft-Dienste wurden nach einem bedeutenden weltweiten Ausfall, der Unternehmen und Regierungen beeinträchtigte, wieder vollständighergestellt. Ein persönlicher Reisebericht schildert umfangreiche Reisen, einschließlich Fahrten nach Deutschland. Das allgemeinere Thema umfasst Störungen bei Technologie-Diensten.",
+          "summary_easy": "Microsoft hat seine Dienste wieder repariert. Zuvor gab es weltweit Probleme. Eine Person erzählt von Reisen nach Deutschland. Technik hatte Probleme.",
           "links": [
             {
-              "title": "The unglamorous leadership strategy behind Hilton, the world’s best workplace",
-              "url": "https://fortune.com/2026/11/13/hilton-ceo-chris-nassetta-leadership-worlds-best-workplace/"
-            },
-            {
-              "title": "Beyond RFS: A New Deal for Farmers",
-              "url": "https://wattsupwiththat.com/2026/11/13/beyond-rfs-a-new-deal-for-farmers/"
+              "title": "Microsoft restores service to Outlook and Teams after historic outage crippled businesses, governments",
+              "url": "https://nypost.com/2026/11/14/business/microsoft-restores-service-to-outlook-and-teams-after-historic-outage-crippled-businesses-governments/"
             }
           ]
         }
@@ -116,36 +124,48 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Microsoft 365 outage impacts services worldwide; Operation TorNado arrests; oil supply exceeds demand.",
-          "headline_de": "Microsoft 365-Ausfall beeinträchtigt Dienste weltweit; Operation TorNado-Festnahmen; Ölversorgung übersteigt Nachfrage.",
-          "headline_easy": "Microsoft hat Probleme. Viele Leute wurden im Internet gefasst. Es gibt viel Öl.",
-          "summary_en": "A massive Microsoft 365 outage has disrupted services globally, including Outlook and Teams. Operation TorNado has led to significant arrests on the dark web. In economic news, global oil supply is projected to exceed demand in the fourth quarter.",
-          "summary_de": "Ein massiver Microsoft 365-Ausfall hat weltweit Dienste beeinträchtigt, darunter Outlook und Teams. Operation TorNado hat zu bedeutenden Festnahmen im Darknet geführt. In Wirtschaftsnachrichten wird erwartet, dass die globale Ölversorgung im vierten Quartal die Nachfrage übersteigen wird.",
-          "summary_easy": "Microsoft hat Probleme mit seinen Diensten. Viele Leute wurden festgenommen. Es gibt mehr Öl als gebraucht wird.",
+          "headline_en": "Russia reports casualties amid Ukraine claims of US floating NATO membership; Greece targets strong economic growth; Zelenskyy suggests security deal referendum.",
+          "headline_de": "Russland meldet Opfer, während die Ukraine behauptet, die USA hätten NATO-Mitgliedschaft ins Spiel gebracht; Griechenland strebt starkes Wirtschaftswachstum an; Selenskyj schlägt Referendum für Sicherheitsabkommen vor.",
+          "headline_easy": "Russland meldet Tote. Die Ukraine sagt, die USA hätten über NATO gesprochen. Griechenland will starkes Wirtschaftswachstum. Selenskyj denkt über ein Referendum nach.",
+          "summary_en": "Russia has reported casualties amid claims from Ukraine that the US had floated the idea of NATO membership. Greece's Prime Minister has set ambitious economic growth targets. Separately, Ukrainian President Zelenskyy indicated that a security deal might be put to a referendum.",
+          "summary_de": "Russland hat Opfer gemeldet, während die Ukraine behauptet, die USA hätten die Idee der NATO-Mitgliedschaft ins Spiel gebracht. Der griechische Premierminister hat ehrgeizige Wachstumsziele für die Wirtschaft festgelegt. Separat hat der ukrainische Präsident Selenskyj angedeutet, dass ein Sicherheitsabkommen per Referendum entschieden werden könnte.",
+          "summary_easy": "In Russland gab es Tote. Die Ukraine sagt, die USA sprachen über die NATO. Der Chef von Griechenland will gutes Wirtschaftswachstum. Selenskyj sagt, die Ukraine könnte über ein Abkommen abstimmen.",
           "links": [
             {
-              "title": "Massive Microsoft 365 Outage Disrupts Outlook, Teams, Copilot And More Worldwide As Recovery Remains Ongoing",
-              "url": "https://wccftech.com/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-and-more-worldwide-as-recovery-remains-ongoing/"
+              "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+              "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Portugal vs Denmark UEFA Nations League match broadcast details; Russia reports casualties amid Ukraine claims of US floating NATO membership; Greece targets strong economic growth.",
+          "headline_de": "Übertragungsdetails für das Spiel Portugal gegen Dänemark in der UEFA Nations League; Russland meldet Opfer, während die Ukraine behauptet, die USA hätten NATO-Mitgliedschaft ins Spiel gebracht; Griechenland strebt starkes Wirtschaftswachstum an.",
+          "headline_easy": "Details zur Übertragung des Spiels Portugal gegen Dänemark. Russland meldet Tote. Die Ukraine sagt, die USA sprachen über NATO. Griechenland will Wirtschaftswachstum.",
+          "summary_en": "Details for watching the Portugal vs. Denmark UEFA Nations League match in the USA are available. Russia has reported casualties following Ukraine's claim that the US had floated the possibility of NATO membership. Greece, meanwhile, is pursuing strong economic growth targets.",
+          "summary_de": "Details zur Übertragung des Spiels Portugal gegen Dänemark in der UEFA Nations League in den USA sind verfügbar. Russland hat Opfer gemeldet, nachdem die Ukraine behauptet hatte, die USA hätten die Möglichkeit einer NATO-Mitgliedschaft ins Spiel gebracht. Griechenland verfolgt unterdessen ehrgeizige Wachstumsziele für seine Wirtschaft.",
+          "summary_easy": "Man kann das Spiel Portugal gegen Dänemark im Fernsehen sehen. In Russland gab es Tote. Die Ukraine sagt, die USA sprachen über die NATO. Griechenland will, dass seine Wirtschaft gut läuft.",
+          "links": [
+            {
+              "title": "How to watch Portugal vs Denmark match in the USA: Live stream and TV for 2026-27 UEFA Nations League",
+              "url": "https://worldsoccertalk.com/watch-on-us-tv/how-to-watch-portugal-vs-denmark-match-in-the-usa-live-stream-and-tv-for-2026-27-uefa-nations-league/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "IAEA concerns over Iran's nuclear program; Trump's Asia visit; AI race and Nvidia's CEO.",
-          "headline_de": "IAEA-Bedenken hinsichtlich des iranischen Atomprogramms; Trumps Asienreise; KI-Rennen und Nvidias CEO.",
-          "headline_easy": "Die IAEA macht sich Sorgen um Iran. Trump reist nach Asien. Es geht um KI.",
-          "summary_en": "The IAEA has expressed increasing concern regarding Iran's nuclear enrichment activities. President Trump is set to embark on a visit to Asia. The ongoing AI race and its implications, including a hypothetical scenario involving Nvidia's CEO, are also being discussed.",
-          "summary_de": "Die IAEO hat wachsende Besorgnis über die iranischen Urananreicherungsaktivitäten geäußert. Präsident Trump wird eine Reise nach Asien antreten. Das laufende KI-Rennen und seine Auswirkungen, einschließlich eines hypothetischen Szenarios mit dem CEO von Nvidia, werden ebenfalls diskutiert.",
-          "summary_easy": "Die IAEA ist besorgt über Iran. Trump fährt nach Asien. Es gibt ein Rennen um künstliche Intelligenz.",
+          "headline_en": "Microsoft services restored after global outage; Chinese censorship concerns over cocktail book; Kraken's Anthropic IPO offer details.",
+          "headline_de": "Microsoft-Dienste nach globalem Ausfall wiederhergestellt; Chinesische Zensur-Bedenken bezüglich Cocktailbuch; Details zum IPO-Angebot von Kraken für Anthropic.",
+          "headline_easy": "Microsoft-Dienste funktionieren wieder. Es gibt Sorgen wegen chinesischer Zensur bei einem Buch. Informationen zum IPO von Kraken.",
+          "summary_en": "Microsoft's services have been fully restored following a widespread global outage. Concerns have been raised about Chinese censorship affecting an American cocktail book. Additionally, details about Kraken's IPO offer for Anthropic have been released.",
+          "summary_de": "Die Microsoft-Dienste wurden nach einem weit verbreiteten globalen Ausfall vollständig wiederhergestellt. Es wurden Bedenken hinsichtlich der chinesischen Zensur geäußert, die ein amerikanisches Cocktailbuch betrifft. Darüber hinaus wurden Details zum IPO-Angebot von Kraken für Anthropic veröffentlicht.",
+          "summary_easy": "Microsoft hat seine Dienste wieder repariert. Es gibt Sorgen wegen Zensur in China bei einem Buch. Es gibt neue Informationen über das IPO von Kraken.",
           "links": [
             {
-              "title": "IAEA increasingly concerned about Iranian enrichment plant, its report says",
-              "url": "https://www.channelnewsasia.com/world/iaea-un-report-concern-iran-nuclear-plant-6549176"
-            },
-            {
-              "title": "A spy took out Nvidia’s CEO. Here’s how America still wins the AI race",
-              "url": "https://www.foxnews.com/opinion/spy-took-out-nvidias-ceo-heres-how-america-still-wins-ai-race"
+              "title": "What Is Kraken’s Anthropic IPO Offer? ANTx Requests Open With a 5% Spread",
+              "url": "https://bitcoinfoundation.org/news/companies/what-is-krakens-anthropic-ipo-offer-antx-requests-open-with-a-5-spread/"
             }
           ]
         }
@@ -158,40 +178,48 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "SilentAir hijacks telecom networks in Asia; RuPaul's Drag Race ends Las Vegas residency; Air India and SIA partnership discussed.",
-          "headline_de": "SilentAir entführt Telekommunikationsnetze in Asien; RuPaul's Drag Race beendet Las Vegas-Residenz; Partnerschaft von Air India und SIA diskutiert.",
-          "headline_easy": "Eine neue Technik stiehlt Daten in Asien. Eine Show hört auf. Es geht um Fluglinien.",
-          "summary_en": "A new cyber threat, SilentAir, is hijacking Asian telecom networks to spy on users. In entertainment, RuPaul's Drag Race Live! is concluding its Las Vegas residency. The partnership between Air India and SIA is also under review.",
-          "summary_de": "Eine neue Cyber-Bedrohung, SilentAir, entführt asiatische Telekommunikationsnetze, um Benutzer auszuspionieren. Im Unterhaltungsbereich beendet RuPaul's Drag Race Live! seine Residenz in Las Vegas. Auch die Partnerschaft zwischen Air India und SIA wird überprüft.",
-          "summary_easy": "Eine neue Technik stiehlt Daten in Asien. Eine Show endet. Es gibt eine Geschichte über Fluglinien.",
+          "headline_en": "Xi, Trump, and Putin to hold trilateral summit at APEC; China expanding military presence in Laos and Cambodia; Unprecedented joint meeting planned.",
+          "headline_de": "Xi, Trump und Putin werden auf dem APEC-Treffen ein trilaterales Gipfeltreffen abhalten; China erweitert seine Militärpräsenz in Laos und Kambodscha; Beispielloses gemeinsames Treffen geplant.",
+          "headline_easy": "Xi, Trump und Putin treffen sich bei APEC. China baut Militär in Laos und Kambodscha aus. Ein besonderes Treffen ist geplant.",
+          "summary_en": "Leaders Xi, Trump, and Putin are scheduled to hold a historic trilateral summit during the APEC meeting. Concerns are rising about China potentially expanding its military presence in Laos and Cambodia. An unprecedented joint meeting involving these leaders has been announced by the White House.",
+          "summary_de": "Die Staatschefs Xi, Trump und Putin werden während des APEC-Treffens ein historisches trilaterales Gipfeltreffen abhalten. Es wachsen Bedenken, dass China seine Militärpräsenz in Laos und Kambodscha ausweiten könnte. Ein beispielloses gemeinsames Treffen dieser Staatschefs wurde vom Weißen Haus angekündigt.",
+          "summary_easy": "Xi, Trump und Putin treffen sich bei einem wichtigen Treffen. China baut vielleicht mehr Militär in Laos und Kambodscha. Ein Treffen von ihnen wird es zum ersten Mal geben.",
           "links": [
             {
-              "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
-              "url": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html"
-            },
+              "title": "Xi, Trump and Putin to hold historic trilateral summit at APEC meet",
+              "url": "https://www.business-standard.com/world-news/xi-trump-and-putin-to-hold-historic-trilateral-summit-at-apec-meet-126111400913_1.html"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Xi, Trump, and Putin to hold trilateral summit at APEC; China expanding military presence in Laos and Cambodia; Unprecedented joint meeting planned.",
+          "headline_de": "Xi, Trump und Putin werden auf dem APEC-Treffen ein trilaterales Gipfeltreffen abhalten; China erweitert seine Militärpräsenz in Laos und Kambodscha; Beispielloses gemeinsames Treffen geplant.",
+          "headline_easy": "Xi, Trump und Putin treffen sich bei APEC. China baut Militär in Laos und Kambodscha aus. Ein besonderes Treffen ist geplant.",
+          "summary_en": "A significant trilateral summit involving Xi, Trump, and Putin is scheduled to take place at the APEC meeting. Simultaneously, there are reports and questions about China's expanding military presence in Laos and Cambodia. The White House has confirmed plans for an unprecedented joint meeting of these leaders.",
+          "summary_de": "Ein bedeutendes trilaterales Gipfeltreffen mit Xi, Trump und Putin ist für das APEC-Treffen angesetzt. Gleichzeitig gibt es Berichte und Fragen zur wachsenden Militärpräsenz Chinas in Laos und Kambodscha. Das Weiße Haus hat Pläne für ein beispielloses gemeinsames Treffen dieser Staatschefs bestätigt.",
+          "summary_easy": "Xi, Trump und Putin treffen sich bei einem wichtigen Treffen. Es gibt Fragen, ob China mehr Militär in Laos und Kambodscha baut. Ein Treffen von ihnen wird es zum ersten Mal geben.",
+          "links": [
             {
-              "title": "Air India and SIA: not all marriages are made in heaven",
-              "url": "https://www.livemint.com/opinion/air-india-sia-marriages-heaven-union-11794554085175.html"
+              "title": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, White House says",
+              "url": "https://biztoc.com/x/baea273f958711dc"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Nvidia's CEO and leadership trends; medical experts gather for collagen innovation summit; Jensen Huang's recent days.",
-          "headline_de": "Nvidias CEO und Führungstrends; Medizinexperten treffen sich zum Gipfel für Kollageninnovationen; Jensens Huang letzte Tage.",
-          "headline_easy": "Es geht um den Chef von Nvidia. Leute treffen sich für Medizin. Der Chef von Nvidia ist nicht gut.",
-          "summary_en": "Discussions around Nvidia's CEO, Jensen Huang, touch upon leadership trends and his recent personal struggles. Meanwhile, medical experts from the Asia-Pacific region gathered for a summit celebrating 25 years of collagen innovation.",
-          "summary_de": "Diskussionen über Nvidias CEO, Jensen Huang, berühren Führungstrends und seine jüngsten persönlichen Schwierigkeiten. Unterdessen versammelten sich Medizinexperten aus der asiatisch-pazifischen Region zu einem Gipfel, der 25 Jahre Kollageninnovationen feiert.",
-          "summary_easy": "Man redet über den Chef von Nvidia. Es gab ein Treffen für Medizin. Der Chef von Nvidia hatte Probleme.",
+          "headline_en": "Microsoft services restored after global outage; REI Holiday Sale deals; Chinese censorship battle over cocktail book.",
+          "headline_de": "Microsoft-Dienste nach globalem Ausfall wiederhergestellt; Angebote für den REI-Weihnachtsverkauf; Zensurkampf Chinas wegen Cocktailbuch.",
+          "headline_easy": "Microsoft-Dienste funktionieren wieder. Es gibt Angebote für den REI-Verkauf. Sorgen wegen Zensur in China bei einem Buch.",
+          "summary_en": "Microsoft's global services have been fully restored after a significant outage. The article also mentions deals available during the REI Holiday Sale. Furthermore, it touches upon a censorship battle concerning an American cocktail book in China.",
+          "summary_de": "Die globalen Dienste von Microsoft wurden nach einer bedeutenden Störung vollständig wiederhergestellt. Der Artikel erwähnt auch Angebote, die während des REI-Weihnachtsverkaufs erhältlich sind. Darüber hinaus thematisiert er einen Zensurkampf bezüglich eines amerikanischen Cocktailbuchs in China.",
+          "summary_easy": "Microsoft hat seine Dienste wieder repariert. Es gibt Angebote im REI-Verkauf. Es gibt Sorgen wegen Zensur in China bei einem Buch.",
           "links": [
             {
-              "title": "Nvidia’s Jensen Huang and Troubling Rise of the Imperial CEO",
-              "url": "https://newrepublic.com/article/217955/nvidia-jensen-huang-troubling-rise-imperial-ceo"
-            },
-            {
-              "title": "Inside the dismal final days of Jensen Huang: a broken man heard saying things like ‘whatever’ and ‘I don’t care’",
-              "url": "https://fortune.com/2026/11/13/inside-the-dismal-final-days-of-jensen-huang-a-broken-man-heard-saying-things-like-whatever-and-i-dont-care/"
+              "title": "The 21 Best REI Holiday Sale Outdoor Deals (2026)",
+              "url": "https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/"
             }
           ]
         }
@@ -204,80 +232,48 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Frankie Muniz recovers after crash; F1 reporter loses pass; WWII veteran shares life story.",
-          "headline_de": "Frankie Muniz erholt sich nach Unfall; F1-Reporter verliert Akkreditierung; Zweiter-Weltkriegs-Veteran teilt Lebensgeschichte.",
-          "headline_easy": "Frankie Muniz geht es gut nach einem Unfall. Ein Reporter darf kein Rennen mehr sehen. Ein alter Soldat erzählt seine Geschichte.",
-          "summary_en": "Actor Frankie Muniz expressed gratitude for recovering after a recent crash. Separately, an F1 reporter has lost their press pass following an incident. A 101-year-old WWII veteran shared his life story and nearly 72-year marriage.",
-          "summary_de": "Schauspieler Frankie Muniz zeigte sich dankbar für seine Genesung nach einem kürzlichen Unfall. Separat hat ein F1-Reporter nach einem Vorfall seine Presseakkreditierung verloren. Ein 101-jähriger Veteran des Zweiten Weltkriegs teilte seine Lebensgeschichte und seine fast 72-jährige Ehe.",
-          "summary_easy": "Frankie Muniz ist froh, dass er nach einem Unfall laufen kann. Ein Reporter darf kein Rennen mehr sehen. Ein alter Soldat erzählt von seinem Leben.",
+          "headline_en": "New software package 'naiwasay' added to PyPI; Portugal vs Denmark match broadcast details; AI revolutionizes perfume industry.",
+          "headline_de": "Neues Softwarepaket 'naiwasay' zu PyPI hinzugefügt; Übertragungsdetails für das Spiel Portugal gegen Dänemark; KI revolutioniert die Parfümindustrie.",
+          "headline_easy": "Neue Software 'naiwasay' ist verfügbar. Man kann das Spiel Portugal gegen Dänemark sehen. KI hilft bei Parfüm.",
+          "summary_en": "A new software package named 'naiwasay' has been added to the Python Package Index (PyPI). Information is available on how to watch the Portugal vs. Denmark UEFA Nations League match in the USA. Additionally, Artificial Intelligence is significantly impacting the perfume industry by addressing sensory challenges.",
+          "summary_de": "Ein neues Softwarepaket namens 'naiwasay' wurde dem Python Package Index (PyPI) hinzugefügt. Informationen zur Übertragung des Spiels Portugal gegen Dänemark in der UEFA Nations League in den USA sind verfügbar. Darüber hinaus hat Künstliche Intelligenz die Parfümindustrie durch die Bewältigung sensorischer Herausforderungen maßgeblich beeinflusst.",
+          "summary_easy": "Es gibt neue Software namens 'naiwasay'. Man kann das Spiel Portugal gegen Dänemark sehen. KI hilft der Parfümindustrie.",
           "links": [
             {
-              "title": "Frankie Muniz 'grateful to be walking' after crash",
-              "url": "https://www.rte.ie/entertainment/2026/1113/1599102-frankie-muniz-grateful-to-be-walking-after-crash/"
-            },
-            {
-              "title": "A 101-year-old US veteran who earned two Purple Hearts during World War II says his wife helped him rebuild his life; Joseph Allegretti has now recalled their nearly 72-year marriage in a new Veterans Day interview",
-              "url": "https://timesofindia.indiatimes.com/world/us/a-101-year-old-us-veteran-who-earned-two-purple-hearts-during-world-war-ii-says-his-wife-helped-him-rebuild-his-life-joseph-allegretti-has-now-recalled-their-nearly-72-year-marriage-in-a-new-veterans-day-interview/articleshow/135800521.cms"
+              "title": "naiwasay added to PyPI",
+              "url": "https://pypi.org/project/naiwasay/"
             }
           ]
         },
         {
-          "type": "Business",
-          "emoji": "💼",
-          "headline_en": "Scouting report on Jason Witten's coaching future; Frankie Muniz recovering from crash; F1 reporter loses pass.",
-          "headline_de": "Scouting-Bericht über Jason Wittens Coaching-Zukunft; Frankie Muniz erholt sich von Unfall; F1-Reporter verliert Akkreditierung.",
-          "headline_easy": "Es gibt einen Bericht über einen Trainer. Frankie Muniz geht es gut. Ein Reporter darf kein Rennen mehr sehen.",
-          "summary_en": "Jon Gruden provides a scouting report on Jason Witten's potential as a future coach. In other news, Frankie Muniz is recovering well after an accident, and an F1 reporter has lost their press pass.",
-          "summary_de": "Jon Gruden liefert einen Scouting-Bericht über Jason Wittens Potenzial als zukünftiger Trainer. In anderen Nachrichten erholt sich Frankie Muniz gut von einem Unfall, und ein F1-Reporter hat seine Presseakkreditierung verloren.",
-          "summary_easy": "Es gibt eine Einschätzung über einen möglichen Trainer. Frankie Muniz ist nach einem Unfall okay. Ein Reporter darf kein Rennen mehr sehen.",
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Coinbase Custody moves to federal trust bank; Personal relationship issue discussed; Batman collectibles available.",
+          "headline_de": "Coinbase Custody wechselt zu einer föderalen Treuhandbank; Persönliches Beziehungsproblem diskutiert; Batman-Sammlerstücke verfügbar.",
+          "headline_easy": "Coinbase Custody hat eine neue Bank. Jemand hat ein Problem in seiner Beziehung. Es gibt Batman-Figuren zu kaufen.",
+          "summary_en": "Coinbase Custody is transitioning to a federal trust bank, requiring significant capital reserves. A personal advice column addresses a relationship issue involving concerns about a partner's physical characteristics. Furthermore, collectible Batman figures are now in stock.",
+          "summary_de": "Coinbase Custody wechselt zu einer föderalen Treuhandbank, was erhebliche Kapitalreserven erfordert. Eine persönliche Ratgeberspalte behandelt ein Beziehungsproblem, das Bedenken hinsichtlich der körperlichen Merkmale eines Partners beinhaltet. Darüber hinaus sind sammelbare Batman-Figuren nun auf Lager.",
+          "summary_easy": "Coinbase Custody hat eine neue Bank. Eine Person schreibt über ein Problem mit ihrem Mann. Es gibt Batman-Spielzeug zu kaufen.",
           "links": [
             {
-              "title": "Jon Gruden gives his scouting report on why Jason Witten has 'superstar' coaching future",
-              "url": "https://www.oklahoman.com/story/sports/college/sooners/2026/11/13/ou-football-jason-witten-jon-gruden-coaching-future-las-vegas-raiders/92743221007/"
-            },
-            {
-              "title": "Reporter Who Called Leclerc a ‘Sneaky Little B*****d’ Loses F1 Pass, Blames Vasseur",
-              "url": "https://www.motorbiscuit.com/reporter-who-called-leclerc-a-sneaky-little-bd-loses-f1-pass-blames-vasseur/"
-            }
-          ]
-        },
-        {
-          "type": "War",
-          "emoji": "⚔️",
-          "headline_en": "Adani Group faces airport pushback; discussions on lost Black stars; remembrance of WWII veterans.",
-          "headline_de": "Adani-Gruppe stößt auf Widerstand bei Flughafenvorhaben; Diskussionen über verlorene schwarze Stars; Gedenken an Veteranen des Zweiten Weltkriegs.",
-          "headline_easy": "Es gibt Probleme mit einem Flughafen. Es geht um Schauspieler, die gestorben sind. Man denkt an alte Soldaten.",
-          "summary_en": "The Adani Group is encountering pushback over its Navi Mumbai airport plans, posing a test to its dominance. Discussions also commemorate 'Beloved Black Stars We Lost in 2026', reflecting on notable figures. Remembrance of World War II veterans and their stories continues.",
-          "summary_de": "Die Adani-Gruppe stößt auf Widerstand gegen ihre Flughafenpläne in Navi Mumbai, was eine Prüfung ihrer Dominanz darstellt. Diskussionen gedenken auch 'Beloved Black Stars We Lost in 2026' und reflektieren über bemerkenswerte Persönlichkeiten. Das Gedenken an Veteranen des Zweiten Weltkriegs und ihre Geschichten wird fortgesetzt.",
-          "summary_easy": "Es gibt Probleme mit einem Flughafenprojekt. Man erinnert sich an gestorbene Schauspieler. Man denkt an alte Soldaten.",
-          "links": [
-            {
-              "title": "Irma P. Hall and the Beloved Black Stars We Lost in 2026",
-              "url": "https://www.theroot.com/irma-p-hall-and-the-beloved-black-stars-we-lost-in-202-2000083991"
-            },
-            {
-              "title": "The Adani Group faces pushback over its Navi Mumbai airport moves—here’s why it’s a test of the conglomerate’s dominance",
-              "url": "https://www.livemint.com/opinion/online-views/the-adani-group-faces-pushback-over-its-navi-mumbai-airport-moves-here-s-why-it-s-a-test-of-the-conglomerate-s-dominance-11794565304116.html"
+              "title": "Coinbase Custody Moves to a Federal Trust Bank That Must Keep $60 Million in Capital",
+              "url": "https://www.dcforecasts.com/cryptocurrency-exchange-news/coinbase-custody-national-trust-company-occ-approval/"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "Continent fights to refine oil; new software package released; Shabbat Shalom message.",
-          "headline_de": "Kontinent kämpft um die Raffination von Öl; neues Softwarepaket veröffentlicht; Botschaft zum Schabbat Schalom.",
-          "headline_easy": "Afrika will sein Öl selbst verarbeiten. Ein neues Programm ist da. Gute Wünsche für den Sabbat.",
-          "summary_en": "A continent is striving to gain more control over its oil refinement processes. A new software package, 'canlix', has been released and added to PyPI. A message of 'Shabbat Shalom' is shared.",
-          "summary_de": "Ein Kontinent bemüht sich, mehr Kontrolle über seine Ölraffinationsprozesse zu erlangen. Ein neues Softwarepaket, 'canlix', wurde veröffentlicht und zu PyPI hinzugefügt. Eine Nachricht von 'Shabbat Shalom' wird geteilt.",
-          "summary_easy": "Ein Kontinent will sein Öl selbst machen. Ein neues Programm ist fertig. Es gibt eine nette Nachricht.",
+          "headline_en": "New software packages 'uccharan' and 'naiwasay' added to PyPI; Portugal vs Denmark match broadcast details; AI aids cosmetic giants.",
+          "headline_de": "Neue Softwarepakete 'uccharan' und 'naiwasay' zu PyPI hinzugefügt; Übertragungsdetails für das Spiel Portugal gegen Dänemark; KI hilft Kosmetikgiganten.",
+          "headline_easy": "Neue Software 'uccharan' und 'naiwasay' sind verfügbar. Man kann das Spiel Portugal gegen Dänemark sehen. KI hilft bei Kosmetik.",
+          "summary_en": "Two new software packages, 'uccharan' and 'naiwasay', have been added to PyPI. Information on watching the Portugal vs. Denmark UEFA Nations League match in the USA is provided. Additionally, Artificial Intelligence is assisting major cosmetic companies in overcoming industry-specific challenges.",
+          "summary_de": "Zwei neue Softwarepakete, 'uccharan' und 'naiwasay', wurden zu PyPI hinzugefügt. Informationen zur Übertragung des Spiels Portugal gegen Dänemark in der UEFA Nations League in den USA werden bereitgestellt. Darüber hinaus unterstützt Künstliche Intelligenz große Kosmetikunternehmen bei der Bewältigung branchenspezifischer Herausforderungen.",
+          "summary_easy": "Es gibt neue Software namens 'uccharan' und 'naiwasay'. Man kann das Spiel Portugal gegen Dänemark sehen. KI hilft Kosmetikfirmen.",
           "links": [
             {
-              "title": "This continent is fighting to refine its own oil. Can its richest man help?",
-              "url": "https://rt-english.com/africa/648706-oil-capital-and-africa-sovereignty/"
-            },
-            {
-              "title": "canlix added to PyPI",
-              "url": "https://pypi.org/project/canlix/"
+              "title": "uccharan added to PyPI",
+              "url": "https://pypi.org/project/uccharan/"
             }
           ]
         }
@@ -288,27 +284,27 @@
     "wahlperiode": 21,
     "sitzung": 108,
     "url": "https://dserver.bundestag.de/btp/21/21108.pdf",
-    "summary_en": "On Thursday, November 12, 2026, the German Bundestag convened for its 108th session of the 21st legislative period. The session began with procedural matters, including the subsequent referral of committee assignments and the election of Mareike Hermeier to the \"Fonds zur Finanzierung der kerntechnischen Entsorgung\" Kuratorium and Jan Metzler to the administrative board of the Bundesanstalt für Immobilienaufgaben. The main legislative agenda focused on several key areas. First, the Bundestag debated the second and third readings of the \"Startchancen- und Qualitätsentwicklungsgesetz – SCQEG,\" aimed at improving children's starting opportunities and quality in childcare, with reports from the Budget Committee. Secondly, two AfD motions were presented: one titled \"Stopp der Deindustrialisierung – Beendigung des European Green Deal und des EU-Zentralismus\" and another, \"Insolvenzwelle stoppen – Deutsche Wirtschaft stärken.\" Speakers from the AfD, CDU/CSU, SPD, and BÜNDNIS 90/DIE GRÜNEN participated in the debates, with the AfD framing their proposals as essential for economic stability. Thirdly, the Bundestag conducted the second and third readings of a government bill \"zur Stärkung der Zollverwaltung und zur Bekämpfung der Finanzkriminalität,\" alongside a report from the Finance Committee. This included discussing proposals from BÜNDNIS 90/DIE GRÜNEN on combating financial crime and money laundering, and from Die Linke on expanding customs reform and returning seized assets. Finally, the session addressed the \"Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes\" (EEG amendment) to implement EU directives in the electricity sector, alongside a BÜNDNIS 90/DIE GRÜNEN motion on \"Energiewende gemeinsam gestalten.\" MPs from the SPD, AfD, CDU/CSU, and BÜNDNIS 90/DIE GRÜNEN contributed to these discussions.",
-    "summary_de": "Am Donnerstag, den 12. November 2026, trat der Deutsche Bundestag zu seiner 108. Sitzung der 21. Wahlperiode zusammen. Die Sitzung begann mit Verfahrensfragen, einschließlich nachträglicher Ausschussüberweisungen sowie der Wahl von Mareike Hermeier in das Kuratorium der Stiftung „Fonds zur Finanzierung der kerntechnischen Entsorgung“ und Jan Metzler in den Verwaltungsrat der Bundesanstalt für Immobilienaufgaben. Die Hauptgeschäfte des Parlaments konzentrierten sich auf mehrere Kernbereiche. Erstens debattierte der Bundestag die zweite und dritte Beratung des „Startchancen- und Qualitätsentwicklungsgesetzes – SCQEG“, das die Startchancen von Kindern und die Qualität in der Kindertagesbetreuung verbessern soll, mit Berichten des Haushaltsausschusses. Zweitens wurden zwei Anträge der AfD vorgestellt: einer mit dem Titel „Stopp der Deindustrialisierung – Beendigung des European Green Deal und des EU-Zentralismus“ und ein weiterer, „Insolvenzwelle stoppen – Deutsche Wirtschaft stärken“. Abgeordnete der AfD, CDU/CSU, SPD und BÜNDNIS 90/DIE GRÜNEN beteiligten sich an den Debatten, wobei die AfD ihre Vorschläge als essenziell für die wirtschaftliche Stabilität darstellte. Drittens führte der Bundestag die zweite und dritte Beratung eines Gesetzentwurfs der Bundesregierung „zur Stärkung der Zollverwaltung und zur Bekämpfung der Finanzkriminalität“ durch, begleitet von einem Bericht des Finanzausschusses. Dies beinhaltete die Beratung von Anträgen von BÜNDNIS 90/DIE GRÜNEN zur Bekämpfung von Finanzkriminalität und Geldwäsche sowie von Die Linke zur Erweiterung der Zollreform und Rückgabe beschlagnahmten Vermögens. Abschließend befasste sich die Sitzung mit dem „Gesetz zur Änderung des Erneuerbaren-Energien-Gesetzes“ (EEG-Novelle) zur Umsetzung von EU-Vorgaben im Stromsektor, parallel zu einem Antrag von BÜNDNIS 90/DIE GRÜNEN zur „Energiewende gemeinsam gestalten“. Abgeordnete von SPD, AfD, CDU/CSU und BÜNDNIS 90/DIE GRÜNEN trugen zu diesen Beratungen bei.",
-    "summary_easy": "Der Bundestag traf sich am 12. November 2026. Zuerst wurden neue Mitglieder für wichtige Gremien gewählt. Dann ging es um ein neues Gesetz für Kindergärten. Es soll die Betreuung und die Chancen für Kinder verbessern. Danach sprach die AfD über die Wirtschaft. Sie will die Industrie schützen und den \"Green Deal\" beenden. Andere Parteien diskutierten mit. Es gab auch ein Gesetz zur Stärkung des Zolls. Dieses Gesetz soll Finanzkriminalität bekämpfen. Parteien sprachen über Geldwäsche und Steuerbetrug. Zum Schluss ging es um erneuerbare Energien. Ein neues Gesetz soll den Ausbau von Wind- und Solarkraft fördern. Alle wichtigen Themen wurden besprochen.",
+    "summary_en": "The 108th session of the 21st German Bundestag took place on November 12, 2026. The session began with procedural matters, including the subsequent referral of a motion to committee and the election of Mareike Hermeier to the board of the \"Fonds zur Finanzierung der kerntechnischen Entsorgung\" and Jan Metzler to the administrative board of the Federal Agency for Real Estate Tasks. The main agenda item was the second and third reading of the \"Startchancen- und Qualitätsentwicklungsgesetz – SCQEG\" (Start-up Chances and Quality Development Act), aiming to improve children's early educational opportunities and the quality of childcare. Following this, the Bundestag debated two motions from the AfD. The first, \"Stopp der Deindustrialisierung – Beendigung des European Green Deal und des EU-Zentralismus\" (Stop Deindustrialization - End the European Green Deal and EU Centralism), proposed halting the European Green Deal and EU centralism. Speakers from the AfD, including Micha Fehre and Tobias Teich, argued against the Green Deal's perceived negative impact on German industry. The CDU/CSU, represented by Tilman Kuban and Michael Hose, while also expressing concerns about economic competitiveness, offered a more nuanced critique. The SPD and BÜNDNIS 90/DIE GRÜNEN, through speakers like Dr. Lina Seitzl, Dagmar Schmidt, and Dr. Anja Reinalter, defended the Green Deal's objectives and the importance of climate protection. The second AfD motion, \"Insolvenzwelle stoppen – Deutsche Wirtschaft stärken\" (Stop the Insolvency Wave - Strengthen the German Economy), also focused on economic challenges. The session then moved to the second and third readings of a bill for more justice through strengthening the customs administration and combating financial crime, discussed alongside proposals from BÜNDNIS 90/DIE GRÜNEN and Die Linke concerning combating financial crime and customs reform. Finally, the Bundestag addressed amendments to the Renewable Energy Sources Act (EEG) and related regulations to implement EU directives in the electricity sector, with contributions from the CDU/CSU, AfD, and SPD.",
+    "summary_de": "Die 108. Sitzung des Deutschen Bundestages der 21. Wahlperiode fand am 12. November 2026 statt. Die Sitzung begann mit Verfahrensfragen, einschließlich nachträglicher Ausschussüberweisungen und der Wahl von Mareike Hermeier in das Kuratorium der Stiftung „Fonds zur Finanzierung der kerntechnischen Entsorgung“ sowie Jan Metzler in den Verwaltungsrat der Bundesanstalt für Immobilienaufgaben. Hauptberatungspunkt war die zweite und dritte Beratung des „Startchancen- und Qualitätsentwicklungsgesetzes – SCQEG“, das die Startchancen von Kindern und die Qualität der Kindertagesbetreuung verbessern soll. Anschließend debattierte der Bundestag zwei Anträge der AfD. Der erste, „Stopp der Deindustrialisierung – Beendigung des European Green Deal und des EU-Zentralismus“, forderte die Beendigung des European Green Deal und des EU-Zentralismus. AfD-Abgeordnete wie Micha Fehre und Tobias Teich argumentierten gegen die wahrgenommenen negativen Auswirkungen des Green Deal auf die deutsche Industrie. Die CDU/CSU, vertreten durch Tilman Kuban und Michael Hose, äußerte zwar ebenfalls Bedenken hinsichtlich der wirtschaftlichen Wettbewerbsfähigkeit, bot jedoch eine differenziertere Kritik. Die SPD und BÜNDNIS 90/DIE GRÜNEN, durch Redner wie Dr. Lina Seitzl, Dagmar Schmidt und Dr. Anja Reinalter, verteidigten die Ziele des Green Deal und die Bedeutung des Klimaschutzes. Der zweite AfD-Antrag, „Insolvenzwelle stoppen – Deutsche Wirtschaft stärken“, befasste sich ebenfalls mit wirtschaftlichen Herausforderungen. Die Sitzung fuhr fort mit der zweiten und dritten Beratung eines Gesetzentwurfs für mehr Gerechtigkeit durch Stärkung der Zollverwaltung und Bekämpfung der Finanzkriminalität, parallel zu Anträgen von BÜNDNIS 90/DIE GRÜNEN und Die Linke zur Bekämpfung der Finanzkriminalität und Zollreform. Abschließend behandelte der Bundestag Änderungen des Erneuerbare-Energien-Gesetzes (EEG) und weiterer Vorschriften zur Umsetzung unionsrechtlicher Vorgaben im Stromsektor, mit Beiträgen von CDU/CSU, AfD und SPD.",
+    "summary_easy": "Am 12. November 2026 war der Bundestag in Sitzung 108. Zuerst gab es Wahlen für wichtige Gremien. Dann wurde über ein neues Gesetz für Kinder gesprochen. Dieses Gesetz soll Kitas besser machen. Danach sprach die AfD über den \"Green Deal\" von Europa. Sie sagte, das schadet Deutschland. Andere Parteien verteidigten den \"Green Deal\". Sie sagten, Klimaschutz ist wichtig. Es gab auch eine Debatte über die Wirtschaft. Viele Firmen haben Probleme. Der Bundestag sprach auch über den Zoll. Es ging darum, Kriminalität und Geldwäsche zu stoppen. Zum Schluss ging es um erneuerbare Energien. Das sind Strom und Wärme aus Sonne und Wind.",
     "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact_en": "During the Renaissance, European sumptuary laws dictated what clothing colors and fabrics people of different social classes could wear. For example, only royalty and high nobility were permitted to wear purple, a notoriously expensive dye derived from murex sea snails, symbolizing their elevated status and wealth.",
-      "fact_de": "Während der Renaissance schrieben europäische Kleiderordnungen vor, welche Farben und Stoffe Menschen verschiedener sozialer Schichten tragen durften. Beispielsweise war nur dem Königshaus und dem Hochadel erlaubt, Purpur zu tragen, ein notorisch teures Färbemittel, das aus Purpurschnecken gewonnen wurde und ihren erhöhten Status und Reichtum symbolisierte.",
-      "fact_easy": "Früher gab es Gesetze für Kleidung. Nur reiche und wichtige Leute durften teure Farben wie Purpur tragen. Das zeigte, dass sie etwas Besonderes waren.",
+      "fact_en": "During the French Revolution, the sans-culottes, a radical group of working-class revolutionaries, famously wore long trousers instead of the knee-breeches (culottes) worn by the aristocracy. This simple sartorial choice became a powerful symbol of defiance against the monarchy and the old social order, visually separating the revolutionaries from the privileged classes.",
+      "fact_de": "Während der Französischen Revolution trugen die Sansculotten, eine radikale Gruppe von Revolutionären aus der Arbeiterklasse, Hosen statt der Kniebundhosen (Culottes), die vom Adel getragen wurden. Diese einfache modische Entscheidung wurde zu einem mächtigen Symbol des Widerstands gegen die Monarchie und die alte soziale Ordnung und trennte die Revolutionäre visuell von den privilegierten Klassen.",
+      "fact_easy": "Die Sansculotten trugen Hosen. Das war anders als die reichen Leute. Hosen wurden ein Zeichen gegen den König.",
       "category": "Fashion",
-      "source_title": "Sumptuary laws - Wikipedia",
-      "source_url": "https://en.wikipedia.org/wiki/Sumptuary_laws"
+      "source_title": "Sans-culottes - Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Sans-culottes"
     },
     {
-      "fact_en": "The iconic white wedding dress, popularized by Queen Victoria's marriage to Prince Albert in 1840, was not a longstanding tradition before her. Previously, brides wore their best dress, regardless of color, often opting for red, blue, or even black for practical reasons and religious symbolism.",
-      "fact_de": "Das ikonische weiße Brautkleid, das durch die Hochzeit von Königin Victoria mit Prinz Albert im Jahr 1840 populär wurde, war davor keine langjährige Tradition. Zuvor trugen Bräute ihr bestes Kleid, unabhängig von der Farbe, und wählten oft Rot, Blau oder sogar Schwarz aus praktischen Gründen und religiöser Symbolik.",
-      "fact_easy": "Vor 1840 trugen Bräute kein weißes Kleid. Königin Victoria heiratete in Weiß und machte das beliebt. Früher trugen Frauen oft rote oder blaue Kleider zur Hochzeit.",
-      "category": "Traditions",
-      "source_title": "When Did People Start Wearing White Wedding Dresses? - Brides",
-      "source_url": "https://www.brides.com/story/history-of-white-wedding-dresses"
+      "fact_en": "In ancient Rome, purple dye, particularly Tyrian purple, was so costly and labor-intensive to produce that it was often reserved for the emperor and high-ranking officials. Wearing purple symbolized immense wealth and imperial power, and sumptuary laws even restricted its use by ordinary citizens to maintain social hierarchy.",
+      "fact_de": "Im alten Rom war die Purpurfärbung, insbesondere der Purpur aus Tyros, so teuer und aufwendig in der Herstellung, dass sie oft dem Kaiser und hochrangigen Beamten vorbehalten war. Das Tragen von Purpur symbolisierte immensen Reichtum und kaiserliche Macht, und Kleiderordnungen schränkten seine Verwendung durch gewöhnliche Bürger sogar ein, um die soziale Hierarchie aufrechtzuerhalten.",
+      "fact_easy": "In Rom war die Farbe Lila sehr teuer. Nur der Kaiser durfte Lila tragen. Das zeigte, wer wichtig war.",
+      "category": "Fashion",
+      "source_title": "Tyrian purple - Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Tyrian_purple"
     }
   ],
   "frankfurt": {
@@ -316,80 +312,68 @@
       {
         "type": "Events",
         "emoji": "🎪",
-        "headline_en": "Top Sprinter Gina Lückenkemper Joins Eintracht Frankfurt Ahead of 2028 Olympics",
-        "headline_de": "Top-Sprinterin Lückenkemper wechselt zu Eintracht Frankfurt",
-        "headline_easy": "Die schnelle Läuferin Lückenkemper ist jetzt bei Eintracht Frankfurt.",
-        "summary_en": "German top sprinter Gina Lückenkemper is making a significant career move by joining Eintracht Frankfurt. This move is part of her preparation for the 2028 Olympic Games.",
-        "summary_de": "Die deutsche Top-Sprinterin Gina Lückenkemper wechselt zu Eintracht Frankfurt. Dieser Schritt ist Teil ihrer Vorbereitung auf die Olympischen Spiele 2028.",
-        "summary_easy": "Gina Lückenkemper ist eine sehr schnelle Läuferin. Sie wechselt zu Eintracht Frankfurt. Das ist gut für die Olympischen Spiele 2028.",
+        "headline_en": "Weltkulturen Museum Explores Foreign Perspectives on Germans",
+        "headline_de": "Weltkulturen Museum erforscht fremde Blicke auf Deutsche",
+        "headline_easy": "Das Weltkulturen Museum zeigt, wie Ausländer Deutsche sehen.",
+        "summary_en": "The Weltkulturen Museum in Frankfurt is hosting an installation by artist Jordan Rita Seruya Awori titled 'The Seruya Archive.' This exhibition offers a change in perspective by exploring how outsiders view Germans.",
+        "summary_de": "Das Weltkulturen Museum in Frankfurt präsentiert eine Installation von Künstlerin Jordan Rita Seruya Awori namens „The Seruya Archive“. Diese Ausstellung bietet einen Perspektivwechsel, indem sie untersucht, wie Außenstehende Deutsche wahrnehmen.",
+        "summary_easy": "Im Weltkulturen Museum gibt es eine neue Ausstellung. Die Künstlerin Jordan Rita Seruya Awori zeigt „The Seruya Archive“. Sie fragt, wie Ausländer Deutsche sehen. Das ist ein neuer Blickwinkel.",
         "links": [
           {
-            "title": "Top-Sprinterin Lückenkemper - Wechsel-Hammer um Gold-Gina: Die schnellste Frau Deutschlands wechselt zu Eintracht Frankfurt!",
-            "url": "https://www.bild.de/sport/fussball/gina-lueckenkemper-wechselt-zu-eintracht-frankfurt-6af6e0d75a72dceba1d61376"
-          },
-          {
-            "title": "Schon für den Dortmund-Kracher - Blessin verrät seinen Kühn-Plan",
-            "url": "https://www.bild.de/sport/fussball/schon-fuer-den-dortmund-kracher-blessin-verraet-seinen-kuehn-plan-6af65ef85a72dceba1d60d53"
+            "title": "Weltkulturen Museum Frankfurt zeigt die Deutschen als Forschungsgegenstand",
+            "url": "https://www.faz.net/aktuell/rhein-main/kultur/weltkulturen-museum-frankfurt-zeigt-die-deutschen-als-forschungsgegenstand-accg-201671164.html"
           }
         ]
       },
       {
         "type": "Crime",
         "emoji": "🚔",
-        "headline_en": "Nanoplastics in the Brain: Frankfurt Artists Explore Impact on Thinking",
-        "headline_de": "Nanoplastik im Gehirn: Frankfurter Künstler erforschen Auswirkungen auf das Denken",
-        "headline_easy": "Plastik im Gehirn: Was macht das mit uns?",
-        "summary_en": "Frankfurt-based artists Ruth Fühner and Oliver Augst have created a live audio play exploring the potential impact of nanoplastics in our brains. The work delves into how this plastic might alter our thinking and perceptions.",
-        "summary_de": "Frankfurter Künstler Ruth Fühner und Oliver Augst haben ein Live-Hörstück über Nanoplastik im Gehirn geschaffen. Es untersucht, wie Plastik unser Denken verändern könnte.",
-        "summary_easy": "Künstler in Frankfurt machen ein Hörstück. Es geht um Plastik in unserem Gehirn. Plastik kann vielleicht unser Denken verändern.",
+        "headline_en": "Hessischer Rundfunk Restructures for Stronger Regional Presence",
+        "headline_de": "Hessischer Rundfunk stellt sich neu auf: Stärker in Regionen, schlanker in der Zentrale",
+        "headline_easy": "Der Hessische Rundfunk wird regional stärker und zentral schlanker.",
+        "summary_en": "Hessischer Rundfunk (HR) is undergoing a restructuring to enhance its regional reporting. The broadcaster will strengthen its regional studios and create more points of contact, while streamlining operations at its central headquarters.",
+        "summary_de": "Der Hessische Rundfunk (HR) strukturiert sich neu, um seine regionale Berichterstattung zu verbessern. Der Sender wird seine Regionalstudios stärken und weitere Anlaufstellen schaffen, während die zentrale Verwaltung schlanker wird.",
+        "summary_easy": "Der Hessische Rundfunk (HR) ändert seine Struktur. Er will mehr über die Regionen berichten. Dafür werden die Regionalstudios stärker. Die Zentrale wird kleiner.",
         "links": [
           {
-            "title": "Welt voller Kunststoff: Das Plastik in unseren Hirnen: Was passiert, wenn das Plastik in unseren Gehirnen unser Denken verändert?",
-            "url": "https://www.faz.net/aktuell/rhein-main/kultur/beeinflusst-nanoplastik-im-koerper-unser-denken-frankfurter-kuenstler-suchen-antworten-201675612.html"
-          },
-          {
-            "title": "Top-Sprinterin Lückenkemper - Wechsel-Hammer um Gold-Gina: Die schnellste Frau Deutschlands wechselt zu Eintracht Frankfurt!",
-            "url": "https://www.bild.de/sport/fussball/gina-lueckenkemper-wechselt-zu-eintracht-frankfurt-6af6e0d75a72dceba1d61376"
+            "title": "HR stellt sich neu auf: Stärker in Regionen, schlanker in der Zentrale",
+            "url": "https://www.dwdl.de/nachrichten/108561/hr_stellt_sich_neu_auf_staerker_in_regionen_schlanker_in_der_zentrale/"
           }
         ]
       },
       {
         "type": "Sales & Offers",
         "emoji": "🛍️",
-        "headline_en": "Top Sprinter Gina Lückenkemper Joins Eintracht Frankfurt",
-        "headline_de": "Sprint-Ass Lückenkemper wechselt zu Eintracht Frankfurt",
-        "headline_easy": "Die schnelle Läuferin Lückenkemper ist jetzt bei Eintracht Frankfurt.",
-        "summary_en": "German track and field star Gina Lückenkemper, a highly successful athlete, will now compete for Eintracht Frankfurt. This significant transfer is part of her preparation for the 2028 Olympic Games.",
-        "summary_de": "Die erfolgreiche deutsche Leichtathletin Gina Lückenkemper wird künftig für Eintracht Frankfurt antreten. Dieser Wechsel ist Teil ihrer Vorbereitung auf die Olympischen Spiele 2028.",
-        "summary_easy": "Gina Lückenkemper ist eine gute Läuferin. Sie wechselt zu Eintracht Frankfurt. Das ist gut für die Olympischen Spiele 2028.",
+        "headline_en": "Hessischer Rundfunk Restructures for Stronger Regional Presence",
+        "headline_de": "Hessischer Rundfunk stellt sich neu auf: Stärker in Regionen, schlanker in der Zentrale",
+        "headline_easy": "Der Hessische Rundfunk wird regional stärker und zentral schlanker.",
+        "summary_en": "Hessischer Rundfunk (HR) is implementing a reorganization to boost its regional coverage. The plan involves strengthening regional studios and establishing additional contact points, with a simultaneous reduction in central office structures.",
+        "summary_de": "Der Hessische Rundfunk (HR) setzt eine Reorganisation zur Stärkung seiner regionalen Berichterstattung um. Geplant ist eine Stärkung der Regionalstudios und die Schaffung weiterer Anlaufstellen, bei gleichzeitiger Straffung der Strukturen in der Zentrale.",
+        "summary_easy": "Der Hessische Rundfunk (HR) ändert seine Struktur. Er will mehr über die Regionen berichten. Dafür werden die Regionalstudios stärker. Die Zentrale wird kleiner.",
         "links": [
           {
-            "title": "Top-Sprinterin Lückenkemper - Wechsel-Hammer um Gold-Gina: Die schnellste Frau Deutschlands wechselt zu Eintracht Frankfurt!",
-            "url": "https://www.bild.de/sport/fussball/gina-lueckenkemper-wechselt-zu-eintracht-frankfurt-6af6e0d75a72dceba1d61376"
-          },
-          {
-            "title": "Wechsel-Coup: Sprint-Ass Lückenkemper wechselt von Berlin nach Frankfurt",
-            "url": "https://www.tagesspiegel.de/berlin/dpa-wechsel-coup-sprint-ass-luckenkemper-wechselt-von-berlin-nach-frankfurt-16280728.html"
+            "title": "HR stellt sich neu auf: Stärker in Regionen, schlanker in der Zentrale",
+            "url": "https://www.dwdl.de/nachrichten/108561/hr_stellt_sich_neu_auf_staerker_in_regionen_schlanker_in_der_zentrale/"
           }
         ]
       },
       {
         "type": "Local News",
         "emoji": "📍",
-        "headline_en": "Sprint Champion Gina Lückenkemper Joins Eintracht Frankfurt",
-        "headline_de": "Sprint-Ass Lückenkemper wechselt zu Eintracht Frankfurt",
-        "headline_easy": "Die schnelle Läuferin Lückenkemper ist jetzt bei Eintracht Frankfurt.",
-        "summary_en": "Germany's fastest woman, Gina Lückenkemper, has made a major career move by signing with Eintracht Frankfurt. The 29-year-old sprinter aims for the 2028 Olympic Games with her new club.",
-        "summary_de": "Deutschlands schnellste Frau, Gina Lückenkemper, wechselt zu Eintracht Frankfurt. Die 29-jährige Sprinterin peilt die Olympischen Spiele 2028 mit ihrem neuen Verein an.",
-        "summary_easy": "Gina Lückenkemper ist die schnellste Frau in Deutschland. Sie ist jetzt bei Eintracht Frankfurt. Sie möchte 2028 bei den Olympischen Spielen laufen.",
+        "headline_en": "Top Sprinter Gina Lückenkemper Joins Eintracht Frankfurt",
+        "headline_de": "Top-Sprinterin Lückenkemper wechselt zu Eintracht Frankfurt",
+        "headline_easy": "Die schnelle Läuferin Gina Lückenkemper ist jetzt bei Eintracht Frankfurt.",
+        "summary_en": "Elite sprinter Gina Lückenkemper, Germany's fastest woman, is making a significant move by joining Eintracht Frankfurt. This transfer is seen as a major development for the club as Lückenkemper prepares for the 2028 Olympic Games.",
+        "summary_de": "Die Top-Sprinterin Gina Lückenkemper, die schnellste Frau Deutschlands, wechselt zu Eintracht Frankfurt. Dieser Wechsel ist eine bedeutende Nachricht für den Verein, da Lückenkemper sich auf die Olympischen Spiele 2028 vorbereitet.",
+        "summary_easy": "Die Sprinterin Gina Lückenkemper wechselt zu Eintracht Frankfurt. Sie ist die schnellste Frau in Deutschland. Sie freut sich auf die Zeit bei Eintracht. Sie will zu den Olympischen Spielen 2028.",
         "links": [
           {
-            "title": "Top-Sprinterin Lückenkemper - Wechsel-Hammer um Gold-Gina: Die schnellste Frau Deutschlands wechselt zu Eintracht Frankfurt!",
-            "url": "https://www.bild.de/sport/fussball/gina-lueckenkemper-wechselt-zu-eintracht-frankfurt-6af6e0d75a72dceba1d61376"
+            "title": "Gold-Gina wechselt zu Eintracht - Die Geheimnisse hinter dem Lückenkemper-Knaller",
+            "url": "https://www.bild.de/sport/fussball/eintracht-frankfurt-die-geheimnisse-hinter-dem-lueckenkemper-wechsel-6af7131684c7128d8f27e554"
           },
           {
-            "title": "Wechsel-Coup: Sprint-Ass Lückenkemper wechselt von Berlin nach Frankfurt",
-            "url": "https://www.tagesspiegel.de/berlin/dpa-wechsel-coup-sprint-ass-luckenkemper-wechselt-von-berlin-nach-frankfurt-16280728.html"
+            "title": "Top-Sprinterin Lückenkemper - Wechsel-Hammer um Gold-Gina",
+            "url": "https://www.bild.de/sport/fussball/gina-lueckenkemper-wechselt-zu-eintracht-frankfurt-6af6e0d75a72dceba1d61376"
           }
         ]
       }
