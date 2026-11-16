@@ -1,5 +1,5 @@
 {
-  "date": "Sunday, November 15 2026",
+  "date": "Monday, November 16 2026",
   "sections": [
     {
       "category": "Germany",
@@ -8,56 +8,80 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Zelenskyy suggests Ukraine security deal could go to referendum; Travelogue details extensive trips to Germany and Greenland; Arsenal defender scores brace.",
-          "headline_de": "Selenskyj: Sicherheitsabkommen für die Ukraine könnte per Referendum entschieden werden; Reisebericht beschreibt umfangreiche Reisen nach Deutschland und Grönland; Arsenal-Verteidiger erzielt zwei Tore.",
-          "headline_easy": "Ukraine: Selenskyj spricht über ein Referendum für ein Sicherheitsabkommen. Eine Person berichtet von Reisen nach Deutschland und Grönland. Ein Fußballspieler hat zwei Tore geschossen.",
-          "summary_en": "Ukrainian President Zelenskyy indicated that a security deal might be put to a referendum. Separately, a travelogue recounts multiple transatlantic flights for a family trip to Germany, including a detour through Greenland. In football news, an Arsenal defender scored twice for his national team.",
-          "summary_de": "Der ukrainische Präsident Selenskyj deutete an, dass ein Sicherheitsabkommen per Referendum entschieden werden könnte. Ein Reisebericht schildert zudem umfangreiche Reisen nach Deutschland und Grönland. Ein Fußballverteidiger von Arsenal erzielte zwei Tore für seine Nationalmannschaft.",
-          "summary_easy": "Der Präsident der Ukraine, Selenskyj, sagt, dass die Menschen über ein Sicherheitsabkommen abstimmen könnten. Eine Familie reiste oft nach Deutschland und nach Grönland. Ein Fußballspieler schoss zwei Tore für sein Land.",
+          "headline_en": "Germany Captain Kimmich Proves Fitness for Klopp's Decisive Dutch Test",
+          "headline_de": "Deutschlands Kapitän Kimmich beweist Fitness für Klopps entscheidendes Duell gegen die Niederlande",
+          "headline_easy": "Deutschlands Kapitän Kimmich ist bereit für ein wichtiges Spiel gegen die Niederlande.",
+          "summary_en": "Germany's national football team captain, Kimmich, has demonstrated his fitness ahead of a crucial match against the Netherlands, managed by Jürgen Klopp. This news is significant for the team's preparation and strategy.",
+          "summary_de": "Deutschlands Fußball-Nationalmannschaftskapitän Kimmich hat seine Fitness vor einem wichtigen Spiel gegen die Niederlande unter der Leitung von Jürgen Klopp unter Beweis gestellt. Diese Nachricht ist wichtig für die Vorbereitung und Strategie des Teams.",
+          "summary_easy": "Der deutsche Fußball-Kapitän Kimmich ist fit für ein wichtiges Spiel. Trainer Jürgen Klopp wird das Spiel gegen die Niederlande leiten.",
           "links": [
             {
-              "title": "Ukraine: Zelenskyy says security deal could go to referendum",
-              "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535"
-            },
-            {
-              "title": "Taking My Kids To Germany Turned Into Three Transatlantic Round Trips And A Detour Through Greenland",
-              "url": "https://liveandletsfly.com/summer-europe-trip-report-introduction/"
+              "title": "Germany captain Kimmich proves fitness for Klopp's decisive Dutch test",
+              "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:261115-930-998598/"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Turkey pressures critics using espionage accusations; Ukraine security deal may face referendum; Travel woes and football news also featured.",
-          "headline_de": "Türkei setzt Kritiker unter Druck durch Spionagevorwürfe; Sicherheitsabkommen der Ukraine könnte Referendum sehen; Reiseberichte und Fußball-Nachrichten ebenfalls enthalten.",
-          "headline_easy": "Die Türkei nutzt Spionagevorwürfe gegen Kritiker. Die Ukraine spricht über ein Referendum für ein Sicherheitsabkommen. Es gibt auch Berichte über Reisen und Fußball.",
-          "summary_en": "Turkey is reportedly using espionage accusations as a tactic to pressure government critics. Meanwhile, Ukrainian President Zelenskyy has stated that a security deal for Ukraine could be put to a referendum. The content also includes a personal travel narrative and football news.",
-          "summary_de": "Berichten zufolge nutzt die Türkei Spionagevorwürfe als Taktik, um Kritiker der Regierung unter Druck zu setzen. Unterdessen hat der ukrainische Präsident Selenskyj erklärt, dass ein Sicherheitsabkommen für die Ukraine per Referendum entschieden werden könnte. Die Inhalte umfassen auch eine persönliche Reiseerzählung und Fußballnachrichten.",
-          "summary_easy": "Die Türkei beschuldigt Leute der Spionage, um sie zu kontrollieren. Selenskyj sagt, die Ukraine könnte über ein Abkommen abstimmen. Es gibt auch Artikel über Reisen und Fußball.",
+          "headline_en": "The downfall of AI’s $5.7 trillion man",
+          "headline_de": "Der Untergang des 5,7-Billionen-Dollar-Mannes der KI",
+          "headline_easy": "Ein Mann, der viel mit künstlicher Intelligenz verdient hat, hat jetzt Probleme.",
+          "summary_en": "The article discusses the potential downfall of a prominent figure in the artificial intelligence industry, whose ventures are valued at an astonishing $5.7 trillion. This suggests a significant shift or challenge within the AI market.",
+          "summary_de": "Der Artikel thematisiert den möglichen Niedergang einer prominenten Persönlichkeit in der künstlichen Intelligenzbranche, deren Unternehmungen auf unglaubliche 5,7 Billionen Dollar geschätzt werden. Dies deutet auf eine bedeutende Veränderung oder Herausforderung im KI-Markt hin.",
+          "summary_easy": "Der Artikel spricht über eine wichtige Person in der Welt der künstlichen Intelligenz. Diese Person hat viel Geld verdient, aber jetzt gibt es Probleme. Der Wert der Firma ist sehr hoch.",
           "links": [
             {
-              "title": "Turkey uses espionage accusations to pressure government critics",
-              "url": "https://www.dw.com/en/turkey-uses-espionage-accusations-to-pressure-government-critics/a-79943768"
-            },
+              "title": "The downfall of AI’s $5.7 trillion man",
+              "url": "https://fortune.com/2026/11/14/jensen-huang-nvidia-ai-5-7-trillion-downfall/"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "What NFL game is on TV in your area today? Week 10 coverage map",
+          "headline_de": "Welches NFL-Spiel läuft heute im Fernsehen in Ihrer Nähe? Spielplan der 10. Woche",
+          "headline_easy": "Welches Football-Spiel kann man heute im Fernsehen sehen? Hier ist die Übersicht.",
+          "summary_en": "This article provides a coverage map for Week 10 of the NFL season, helping viewers find out which games are being broadcast in their specific area. It's a guide for football fans to tune into their local broadcasts.",
+          "summary_de": "Dieser Artikel bietet eine Übersichtskarte für die 10. Woche der NFL-Saison und hilft den Zuschauern zu erfahren, welche Spiele in ihrer spezifischen Region ausgestrahlt werden. Es ist ein Leitfaden für Football-Fans, um ihre lokalen Übertragungen einzuschalten.",
+          "summary_easy": "Dieser Artikel zeigt, welche Football-Spiele im Fernsehen laufen. Er ist für die 10. Woche der NFL-Saison. Fans können so sehen, welches Spiel in ihrer Nähe gezeigt wird.",
+          "links": [
             {
-              "title": "Espionage accusations: a pressure tactic for Turkish government critics",
-              "url": "https://www.dw.com/en/espionage-accusations-a-pressure-tactic-for-turkish-government-critics/a-79943768"
+              "title": "What NFL game is on TV in your area today? Week 10 coverage map",
+              "url": "https://www.usatoday.com/story/sports/nfl/2026/11/15/nfl-coverage-map-week-10-games-tv-today-2026/92760588007/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Turkey pressures critics via espionage accusations; Extensive travel narrative; Global Microsoft outage impacts services.",
-          "headline_de": "Türkei übt durch Spionagevorwürfe Druck auf Kritiker aus; Umfangreiche Reiseroute; Globale Microsoft-Störung beeinträchtigt Dienste.",
-          "headline_easy": "Die Türkei beschuldigt Kritiker der Spionage. Eine Person berichtet von einer langen Reise. Microsoft hatte eine weltweite Störung.",
-          "summary_en": "Turkey is reportedly using espionage accusations to pressure critics. A personal account details a lengthy family travel experience involving multiple flights. Additionally, a significant global outage affected Microsoft services.",
-          "summary_de": "Berichten zufolge nutzt die Türkei Spionagevorwürfe, um Kritiker unter Druck zu setzen. Ein persönlicher Bericht schildert eine langwierige Reiseerfahrung einer Familie mit mehreren Flügen. Darüber hinaus beeinträchtigte eine bedeutende weltweite Störung die Microsoft-Dienste.",
-          "summary_easy": "Die Türkei beschuldigt Leute der Spionage. Eine Person erzählt von einer langen Reise mit vielen Flügen. Microsoft-Dienste hatten eine weltweite Störung.",
+          "headline_en": "jobhunter-mcp added to PyPI",
+          "headline_de": "jobhunter-mcp zu PyPI hinzugefügt",
+          "headline_easy": "Ein neues Programm namens 'jobhunter-mcp' ist jetzt verfügbar.",
+          "summary_en": "The package 'jobhunter-mcp' has been added to the Python Package Index (PyPI). This indicates a new software tool or library is now available for Python developers to use.",
+          "summary_de": "Das Paket 'jobhunter-mcp' wurde zum Python Package Index (PyPI) hinzugefügt. Dies bedeutet, dass ein neues Software-Tool oder eine Bibliothek für Python-Entwickler verfügbar ist.",
+          "summary_easy": "Ein neues Computer-Programm, 'jobhunter-mcp', ist jetzt auf PyPI. Entwickler können es für ihre Arbeit mit Python benutzen.",
           "links": [
             {
-              "title": "Microsoft services fully restored after global outage",
-              "url": "https://www.rte.ie/news/2026/1114/1599205-microsoft-outage/"
+              "title": "jobhunter-mcp added to PyPI",
+              "url": "https://pypi.org/project/jobhunter-mcp/"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "Patriots vs. Lions: Best odds, bets, and parlays",
+          "headline_de": "Patriots gegen Lions: Beste Quoten, Wetten und Kombinationen",
+          "headline_easy": "Das Spiel Patriots gegen Lions: Die besten Wetten und Gewinnchancen.",
+          "summary_en": "This article provides insights into the odds, bets, and parlays for the upcoming American football game between the Patriots and the Lions. It is aimed at sports bettors looking for an edge.",
+          "summary_de": "Dieser Artikel bietet Einblicke in die Quoten, Wetten und Kombinationen für das bevorstehende American-Football-Spiel zwischen den Patriots und den Lions. Er richtet sich an Sportwetten-Anbieter, die einen Vorteil suchen.",
+          "summary_easy": "Der Artikel gibt Tipps für Wetten auf das Football-Spiel zwischen den Patriots und den Lions. Es geht um die besten Chancen zu gewinnen.",
+          "links": [
+            {
+              "title": "Patriots vs. Lions: Best odds, bets, and parlays",
+              "url": "https://www.prideofdetroit.com/detroit-lions-gambling-odds/180846/detroit-lions-new-england-patriots-best-player-prop-bets-nfl-week-10"
             }
           ]
         }
@@ -70,48 +94,80 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Greek PM targets strong economic growth; Ukraine security deal may face referendum; Extensive European travel experiences.",
-          "headline_de": "Griechischer Premierminister strebt starkes Wirtschaftswachstum an; Sicherheitsabkommen der Ukraine könnte Referendum sehen; Umfangreiche Reiseerlebnisse in Europa.",
-          "headline_easy": "Der griechische Regierungschef will starkes Wachstum. Die Ukraine könnte über ein Abkommen abstimmen. Jemand erzählt von Reisen in Europa.",
-          "summary_en": "The Prime Minister of Greece has outlined ambitious economic growth targets, aiming for double the eurozone average ahead of upcoming elections. In parallel, Ukrainian President Zelenskyy mentioned that a security deal could be put to a referendum. The news also includes personal accounts of extensive travel within Europe.",
-          "summary_de": "Der griechische Premierminister hat ehrgeizige Wachstumsziele für die Wirtschaft dargelegt und strebt das Doppelte des Eurozonen-Durchschnitts vor den bevorstehenden Wahlen an. Parallel dazu erwähnte der ukrainische Präsident Selenskyj, dass ein Sicherheitsabkommen per Referendum entschieden werden könnte. Die Nachrichten enthalten auch persönliche Berichte über umfangreiche Reisen innerhalb Europas.",
-          "summary_easy": "Der Chef von Griechenland will, dass die Wirtschaft stark wächst. Die Ukraine könnte über ein Sicherheitsabkommen abstimmen. Eine Person berichtet von vielen Reisen in Europa.",
+          "headline_en": "From Sabotaged Supermarkets To RAF Fairford: Iran's War On Europe Is No Longer Deniable",
+          "headline_de": "Von sabotierten Supermärkten bis RAF Fairford: Irans Krieg gegen Europa ist nicht mehr leugnbar",
+          "headline_easy": "Iran greift Europa an. Das ist jetzt klar.",
+          "summary_en": "The article claims that Iran's actions, ranging from sabotaging supermarkets to involvement with RAF Fairford, demonstrate a clear and undeniable war being waged against Europe. It highlights escalating tensions and a direct conflict.",
+          "summary_de": "Der Artikel behauptet, dass Irans Handlungen, die von der Sabotage von Supermärkten bis zur Beteiligung an RAF Fairford reichen, einen klaren und unbestreitbaren Krieg gegen Europa beweisen. Er hebt die eskalierenden Spannungen und einen direkten Konflikt hervor.",
+          "summary_easy": "Iran macht Dinge, die Europa schaden. Dazu gehören sabotierte Supermärkte. Es ist jetzt offensichtlich, dass Iran einen Krieg gegen Europa führt.",
           "links": [
             {
-              "title": "Greek PM tells Wall Street Journal that Greece aims for growth twice the eurozone average ahead of 2027 elections",
-              "url": "https://en.protothema.gr/2026/11/14/greek-pm-tells-wall-street-journal-that-greece-aims-for-growth-twice-the-eurozone-average-ahead-of-2027-elections/"
+              "title": "From Sabotaged Supermarkets To RAF Fairford: Iran's War On Europe Is No Longer Deniable",
+              "url": "https://biztoc.com/x/11033a7f30acda1a"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Why are flight tickets expensive? High airfares may become new normal, Asia Pacific airline body chief explains",
+          "headline_de": "Warum sind Flugtickets teuer? Hohe Flugpreise könnten zur neuen Normalität werden, erklärt der Chef des asiatisch-pazifischen Flugverbandes",
+          "headline_easy": "Flugtickets sind teuer. Das könnte so bleiben, sagt ein Experte.",
+          "summary_en": "The chief of an Asia Pacific airline body explains that high airfares might become the new normal. This indicates a potential long-term trend of increased costs for air travel, impacting travelers and the industry.",
+          "summary_de": "Der Leiter eines asiatisch-pazifischen Flugverbandes erklärt, dass hohe Flugpreise zur neuen Normalität werden könnten. Dies deutet auf einen potenziellen langfristigen Trend steigender Kosten für Flugreisen hin, der Reisende und die Branche beeinflusst.",
+          "summary_easy": "Ein Chef von Fluggesellschaften aus Asien und dem Pazifik erklärt, dass Flugtickets wahrscheinlich teuer bleiben. Das ist schlecht für Reisende. Es könnte die neue Normalität werden.",
+          "links": [
+            {
+              "title": "Why are flight tickets expensive? High airfares may become new normal, Asia Pacific airline body chief explains",
+              "url": "https://www.livemint.com/industry/why-are-flight-tickets-expensive-high-airfares-may-become-new-normal-asia-pacific-airline-body-chief-explains-11794739966071.html"
             }
           ]
         },
         {
           "type": "War",
           "emoji": "⚔️",
-          "headline_en": "Ukraine aid impacting US military; Greece targets strong economic growth; Zelenskyy suggests security deal referendum.",
-          "headline_de": "Ukraine-Hilfe beeinträchtigt US-Militär; Griechenland strebt starkes Wirtschaftswachstum an; Selenskyj schlägt Referendum für Sicherheitsabkommen vor.",
-          "headline_easy": "Hilfe für die Ukraine schadet dem US-Militär. Griechenland will starkes Wirtschaftswachstum. Selenskyj denkt über ein Referendum nach.",
-          "summary_en": "US military aid to Ukraine is reportedly having a negative impact on the US armed forces. Greece, meanwhile, is setting ambitious economic growth targets. Ukrainian President Zelenskyy has also suggested that a security deal for Ukraine could be put to a referendum.",
-          "summary_de": "Die US-Militärhilfe für die Ukraine wirkt sich Berichten zufolge negativ auf die US-Streitkräfte aus. Griechenland setzt unterdessen ehrgeizige Wachstumsziele. Der ukrainische Präsident Selenskyj hat außerdem vorgeschlagen, ein Sicherheitsabkommen für die Ukraine per Referendum entscheiden zu lassen.",
-          "summary_easy": "Die Hilfe für die Ukraine ist schlecht für das US-Militär. Griechenland will, dass seine Wirtschaft stark wächst. Selenskyj sagt, die Ukraine könnte über ein Abkommen abstimmen.",
+          "headline_en": "Andhra's space ambitions take off with ₹25,000 crore hub near Sriharikota",
+          "headline_de": "Andhras Weltraumambitionen starten mit einem 25.000 Crore teuren Zentrum in der Nähe von Sriharikota",
+          "headline_easy": "Indien baut ein großes Zentrum für Weltraumprojekte.",
+          "summary_en": "The Indian state of Andhra Pradesh is launching significant space ambitions with the development of a ₹25,000 crore hub near Sriharikota. This initiative signals a major investment in space technology and exploration.",
+          "summary_de": "Der indische Bundesstaat Andhra Pradesh startet bedeutende Weltraumambitionen mit der Entwicklung eines 25.000 Crore teuren Zentrums in der Nähe von Sriharikota. Diese Initiative signalisiert eine große Investition in Weltraumtechnologie und -exploration.",
+          "summary_easy": "Der indische Bundesstaat Andhra Pradesh hat große Pläne für den Weltraum. Sie bauen ein neues Zentrum in der Nähe von Sriharikota. Es kostet viel Geld und soll die Raumfahrt fördern.",
           "links": [
             {
-              "title": "Ukraine aid hurts US military – Pentagon",
-              "url": "https://rt-english.com/news/648834-ukraine-aid-hurts-us-military/"
+              "title": "Andhra's space ambitions take off with ₹25,000 crore hub near Sriharikota",
+              "url": "https://www.business-standard.com/industry/news/andhra-s-space-ambitions-take-off-with-25-000-crore-hub-near-sriharikota-126111500499_1.html"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Microsoft services restored after global outage; Personal travelogue of journeys to Germany; Global tech disruptions.",
-          "headline_de": "Microsoft-Dienste nach globalem Ausfall wiederhergestellt; Persönlicher Reisebericht über Reisen nach Deutschland; Globale Tech-Störungen.",
-          "headline_easy": "Microsoft-Dienste funktionieren wieder nach einer weltweiten Störung. Eine Person berichtet von Reisen nach Deutschland. Es gab Probleme mit Technik.",
-          "summary_en": "Microsoft services have been fully restored following a significant global outage that disrupted businesses and governments. A personal travelogue details extensive journeys, including trips to Germany. The broader theme includes disruptions in technology services.",
-          "summary_de": "Die Microsoft-Dienste wurden nach einem bedeutenden weltweiten Ausfall, der Unternehmen und Regierungen beeinträchtigte, wieder vollständighergestellt. Ein persönlicher Reisebericht schildert umfangreiche Reisen, einschließlich Fahrten nach Deutschland. Das allgemeinere Thema umfasst Störungen bei Technologie-Diensten.",
-          "summary_easy": "Microsoft hat seine Dienste wieder repariert. Zuvor gab es weltweit Probleme. Eine Person erzählt von Reisen nach Deutschland. Technik hatte Probleme.",
+          "headline_en": "Japan's Economy Faces Major Tests as GDP, Trade and Inflation Data Loom",
+          "headline_de": "Japans Wirtschaft steht vor großen Tests, da BIP-, Handels- und Inflationsdaten bevorstehen",
+          "headline_easy": "Japans Wirtschaft hat wichtige Daten bald. Das könnte schwierig werden.",
+          "summary_en": "Japan's economy is poised to face significant challenges as key data on GDP, trade, and inflation are set to be released. These reports will provide crucial insights into the current state and future outlook of the Japanese economy.",
+          "summary_de": "Japans Wirtschaft steht vor erheblichen Herausforderungen, da wichtige Daten zu BIP, Handel und Inflation veröffentlicht werden sollen. Diese Berichte werden entscheidende Einblicke in den aktuellen Zustand und die Zukunftsaussichten der japanischen Wirtschaft geben.",
+          "summary_easy": "Die Wirtschaft von Japan steht vor wichtigen Prüfungen. Bald kommen neue Daten zu Wirtschaftswachstum, Handel und Preisen. Das zeigt, wie es der Wirtschaft geht.",
           "links": [
             {
-              "title": "Microsoft restores service to Outlook and Teams after historic outage crippled businesses, governments",
-              "url": "https://nypost.com/2026/11/14/business/microsoft-restores-service-to-outlook-and-teams-after-historic-outage-crippled-businesses-governments/"
+              "title": "Japan's Economy Faces Major Tests as GDP, Trade and Inflation Data Loom",
+              "url": "https://newsonjapan.com/article/151378.php"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "Pau Cubarsi talks World Cup heroics, Golden Boy and Premier League – “Would like to play UCL at Anfield”",
+          "headline_de": "Pau Cubarsi spricht über WM-Heldentaten, Golden Boy und die Premier League – „Möchte die Champions League an der Anfield Road spielen“",
+          "headline_easy": "Ein Fußballspieler namens Pau Cubarsi spricht über seine Ziele. Er möchte Champions League spielen.",
+          "summary_en": "Young footballer Pau Cubarsi discusses his aspirations, including his desire to play in the Champions League at Anfield and his thoughts on the Premier League. He also touches upon his past achievements and the Golden Boy award.",
+          "summary_de": "Der junge Fußballer Pau Cubarsi spricht über seine Ambitionen, einschließlich seines Wunsches, in der Champions League an der Anfield Road zu spielen, und seine Gedanken zur Premier League. Er berührt auch seine vergangenen Erfolge und die Auszeichnung als Golden Boy.",
+          "summary_easy": "Der junge Fußballer Pau Cubarsi spricht über seine Träume. Er möchte gerne in der Champions League spielen, besonders in Anfield. Er redet auch über seine Erfolge.",
+          "links": [
+            {
+              "title": "Pau Cubarsi talks World Cup heroics, Golden Boy and Premier League – “Would like to play UCL at Anfield”",
+              "url": "https://barcauniversal.com/pau-cubarsi-talks-world-cup-heroics-golden-boy-and-premier-league-would-like-to-play-ucl-at-anfield/"
             }
           ]
         }
@@ -124,48 +180,80 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Russia reports casualties amid Ukraine claims of US floating NATO membership; Greece targets strong economic growth; Zelenskyy suggests security deal referendum.",
-          "headline_de": "Russland meldet Opfer, während die Ukraine behauptet, die USA hätten NATO-Mitgliedschaft ins Spiel gebracht; Griechenland strebt starkes Wirtschaftswachstum an; Selenskyj schlägt Referendum für Sicherheitsabkommen vor.",
-          "headline_easy": "Russland meldet Tote. Die Ukraine sagt, die USA hätten über NATO gesprochen. Griechenland will starkes Wirtschaftswachstum. Selenskyj denkt über ein Referendum nach.",
-          "summary_en": "Russia has reported casualties amid claims from Ukraine that the US had floated the idea of NATO membership. Greece's Prime Minister has set ambitious economic growth targets. Separately, Ukrainian President Zelenskyy indicated that a security deal might be put to a referendum.",
-          "summary_de": "Russland hat Opfer gemeldet, während die Ukraine behauptet, die USA hätten die Idee der NATO-Mitgliedschaft ins Spiel gebracht. Der griechische Premierminister hat ehrgeizige Wachstumsziele für die Wirtschaft festgelegt. Separat hat der ukrainische Präsident Selenskyj angedeutet, dass ein Sicherheitsabkommen per Referendum entschieden werden könnte.",
-          "summary_easy": "In Russland gab es Tote. Die Ukraine sagt, die USA sprachen über die NATO. Der Chef von Griechenland will gutes Wirtschaftswachstum. Selenskyj sagt, die Ukraine könnte über ein Abkommen abstimmen.",
+          "headline_en": "Nigerian owner of collapsed NYC building named on worst landlords list",
+          "headline_de": "Nigerianischer Besitzer des eingestürzten Gebäudes in New York auf der Liste der schlimmsten Vermieter",
+          "headline_easy": "Ein Vermieter in New York, der aus Nigeria kommt, hat ein Gebäude, das zusammengefallen ist. Er steht auf einer schlechten Liste.",
+          "summary_en": "A Nigerian owner of a building that recently collapsed in New York City has been identified and placed on a list of the city's worst landlords. This highlights issues of property maintenance and tenant safety.",
+          "summary_de": "Ein nigerianischer Besitzer eines kürzlich eingestürzten Gebäudes in New York City wurde identifiziert und auf eine Liste der schlimmsten Vermieter der Stadt gesetzt. Dies unterstreicht Probleme bei der Instandhaltung von Immobilien und der Sicherheit von Mietern.",
+          "summary_easy": "Ein Haus in New York ist eingestürzt. Der Besitzer kommt aus Nigeria. Er wird als einer der schlechtesten Vermieter der Stadt genannt. Das ist ein ernstes Problem.",
           "links": [
             {
-              "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
-              "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option"
+              "title": "Nigerian owner of collapsed NYC building named on worst landlords list",
+              "url": "https://punchng.com/nigerian-owner-of-collapsed-nyc-building-named-on-worst-landlords-list/"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "The EU’s poorest state is done taking orders. Can it make Brussels listen?",
+          "headline_de": "Der ärmste Staat der EU hat es satt, Befehle entgegenzunehmen. Kann er Brüssel zum Zuhören bringen?",
+          "headline_easy": "Ein armes Land in der EU will keine Befehle mehr hören. Es will, dass die EU zuhört.",
+          "summary_en": "The poorest state within the European Union has expressed its unwillingness to continue taking orders and is seeking to have its voice heard in Brussels. This indicates a potential internal political struggle or demand for greater autonomy within the EU.",
+          "summary_de": "Der ärmste Staat innerhalb der Europäischen Union hat seine Unwilligkeit geäußert, weiterhin Befehle entgegenzunehmen, und strebt danach, seine Stimme in Brüssel Gehör zu verschaffen. Dies deutet auf einen möglichen internen politischen Kampf oder die Forderung nach mehr Autonomie innerhalb der EU hin.",
+          "summary_easy": "Ein Land in der EU, das sehr arm ist, ist unzufrieden. Es will nicht mehr tun, was andere sagen. Es möchte, dass die EU seine Meinung hört.",
+          "links": [
+            {
+              "title": "The EU’s poorest state is done taking orders. Can it make Brussels listen?",
+              "url": "https://rt-english.com/news/648768-eus-poorest-state-is-done/"
             }
           ]
         },
         {
           "type": "War",
           "emoji": "⚔️",
-          "headline_en": "Portugal vs Denmark UEFA Nations League match broadcast details; Russia reports casualties amid Ukraine claims of US floating NATO membership; Greece targets strong economic growth.",
-          "headline_de": "Übertragungsdetails für das Spiel Portugal gegen Dänemark in der UEFA Nations League; Russland meldet Opfer, während die Ukraine behauptet, die USA hätten NATO-Mitgliedschaft ins Spiel gebracht; Griechenland strebt starkes Wirtschaftswachstum an.",
-          "headline_easy": "Details zur Übertragung des Spiels Portugal gegen Dänemark. Russland meldet Tote. Die Ukraine sagt, die USA sprachen über NATO. Griechenland will Wirtschaftswachstum.",
-          "summary_en": "Details for watching the Portugal vs. Denmark UEFA Nations League match in the USA are available. Russia has reported casualties following Ukraine's claim that the US had floated the possibility of NATO membership. Greece, meanwhile, is pursuing strong economic growth targets.",
-          "summary_de": "Details zur Übertragung des Spiels Portugal gegen Dänemark in der UEFA Nations League in den USA sind verfügbar. Russland hat Opfer gemeldet, nachdem die Ukraine behauptet hatte, die USA hätten die Möglichkeit einer NATO-Mitgliedschaft ins Spiel gebracht. Griechenland verfolgt unterdessen ehrgeizige Wachstumsziele für seine Wirtschaft.",
-          "summary_easy": "Man kann das Spiel Portugal gegen Dänemark im Fernsehen sehen. In Russland gab es Tote. Die Ukraine sagt, die USA sprachen über die NATO. Griechenland will, dass seine Wirtschaft gut läuft.",
+          "headline_en": "Mexican President Vows to Assist Migrant Caravans As Another One Is Expected to Form",
+          "headline_de": "Mexikos Präsident verspricht Hilfe für Migrantenkarawanen, während eine weitere erwartet wird",
+          "headline_easy": "Mexikos Präsident will Menschen helfen, die wandern wollen. Eine neue Gruppe von Wanderern wird erwartet.",
+          "summary_en": "The President of Mexico has pledged to provide assistance to migrant caravans, coinciding with the expectation of new ones forming. This statement addresses ongoing migration issues and Mexico's role in managing them.",
+          "summary_de": "Der Präsident Mexikos hat versprochen, Migrantenkarawanen zu unterstützen, während gleichzeitig erwartet wird, dass sich neue bilden. Diese Aussage befasst sich mit den anhaltenden Migrationsproblemen und der Rolle Mexikos bei deren Bewältigung.",
+          "summary_easy": "Der Präsident von Mexiko hat gesagt, dass er Menschen helfen wird, die als Gruppe reisen. Es wird erwartet, dass bald eine neue Gruppe kommt. Mexiko will helfen.",
           "links": [
             {
-              "title": "How to watch Portugal vs Denmark match in the USA: Live stream and TV for 2026-27 UEFA Nations League",
-              "url": "https://worldsoccertalk.com/watch-on-us-tv/how-to-watch-portugal-vs-denmark-match-in-the-usa-live-stream-and-tv-for-2026-27-uefa-nations-league/"
+              "title": "Mexican President Vows to Assist Migrant Caravans As Another One Is Expected to Form",
+              "url": "https://freerepublic.com/focus/f-bloggers/4403101/posts"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Microsoft services restored after global outage; Chinese censorship concerns over cocktail book; Kraken's Anthropic IPO offer details.",
-          "headline_de": "Microsoft-Dienste nach globalem Ausfall wiederhergestellt; Chinesische Zensur-Bedenken bezüglich Cocktailbuch; Details zum IPO-Angebot von Kraken für Anthropic.",
-          "headline_easy": "Microsoft-Dienste funktionieren wieder. Es gibt Sorgen wegen chinesischer Zensur bei einem Buch. Informationen zum IPO von Kraken.",
-          "summary_en": "Microsoft's services have been fully restored following a widespread global outage. Concerns have been raised about Chinese censorship affecting an American cocktail book. Additionally, details about Kraken's IPO offer for Anthropic have been released.",
-          "summary_de": "Die Microsoft-Dienste wurden nach einem weit verbreiteten globalen Ausfall vollständig wiederhergestellt. Es wurden Bedenken hinsichtlich der chinesischen Zensur geäußert, die ein amerikanisches Cocktailbuch betrifft. Darüber hinaus wurden Details zum IPO-Angebot von Kraken für Anthropic veröffentlicht.",
-          "summary_easy": "Microsoft hat seine Dienste wieder repariert. Es gibt Sorgen wegen Zensur in China bei einem Buch. Es gibt neue Informationen über das IPO von Kraken.",
+          "headline_en": "USFDA closes Dr Reddy's Hyderabad facility inspection with VAI status",
+          "headline_de": "USFDA schließt Inspektion der Dr. Reddy's-Anlage in Hyderabad mit VAI-Status ab",
+          "headline_easy": "Die US-Gesundheitsbehörde hat eine Fabrik in Indien inspiziert. Die Fabrik hat keine großen Probleme.",
+          "summary_en": "The U.S. Food and Drug Administration (USFDA) has concluded its inspection of Dr. Reddy's facility in Hyderabad, reporting a Voluntary Action Indicated (VAI) status. This signifies that while some observations were made, there were no serious issues requiring immediate regulatory action.",
+          "summary_de": "Die US-amerikanische Food and Drug Administration (USFDA) hat ihre Inspektion der Anlage von Dr. Reddy's in Hyderabad abgeschlossen und einen Voluntary Action Indicated (VAI)-Status gemeldet. Dies bedeutet, dass trotz einiger Beobachtungen keine schwerwiegenden Probleme vorlagen, die sofortige regulatorische Maßnahmen erfordern würden.",
+          "summary_easy": "Die US-Gesundheitsbehörde (USFDA) hat eine Fabrik der Firma Dr. Reddy's in Indien besucht. Die Fabrik hat den Status 'VAI'. Das bedeutet, es gab keine großen Probleme bei der Inspektion.",
           "links": [
             {
-              "title": "What Is Kraken’s Anthropic IPO Offer? ANTx Requests Open With a 5% Spread",
-              "url": "https://bitcoinfoundation.org/news/companies/what-is-krakens-anthropic-ipo-offer-antx-requests-open-with-a-5-spread/"
+              "title": "USFDA closes Dr Reddy's Hyderabad facility inspection with VAI status",
+              "url": "https://www.business-standard.com/industry/news/usfda-closes-dr-reddy-s-hyderabad-facility-inspection-with-vai-status-126111500317_1.html"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "Israeli AI breakthrough could predict Alzheimer's years before symptoms appear",
+          "headline_de": "Durchbruch der israelischen KI könnte Alzheimer Jahre vor Auftreten der Symptome vorhersagen",
+          "headline_easy": "Eine neue Technologie aus Israel kann vielleicht Alzheimer erkennen, bevor man krank wird.",
+          "summary_en": "An artificial intelligence breakthrough from Israel has shown the potential to predict Alzheimer's disease years before symptoms manifest. This advancement could revolutionize early diagnosis and treatment strategies for the neurodegenerative condition.",
+          "summary_de": "Ein Durchbruch der künstlichen Intelligenz aus Israel hat das Potenzial gezeigt, Alzheimer-Krankheit Jahre vor dem Auftreten von Symptomen vorherzusagen. Dieser Fortschritt könnte die Früherkennung und Behandlungsstrategien für die neurodegenerative Erkrankung revolutionieren.",
+          "summary_easy": "Forscher in Israel haben eine neue Technik mit künstlicher Intelligenz (KI) entwickelt. Sie kann vielleicht Alzheimer vorhersagen, lange bevor die Krankheit merkt. Das ist eine wichtige Entdeckung.",
+          "links": [
+            {
+              "title": "Israeli AI breakthrough could predict Alzheimer's years before symptoms appear",
+              "url": "https://www.israelnationalnews.com/news/436231"
             }
           ]
         }
@@ -178,48 +266,32 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Xi, Trump, and Putin to hold trilateral summit at APEC; China expanding military presence in Laos and Cambodia; Unprecedented joint meeting planned.",
-          "headline_de": "Xi, Trump und Putin werden auf dem APEC-Treffen ein trilaterales Gipfeltreffen abhalten; China erweitert seine Militärpräsenz in Laos und Kambodscha; Beispielloses gemeinsames Treffen geplant.",
-          "headline_easy": "Xi, Trump und Putin treffen sich bei APEC. China baut Militär in Laos und Kambodscha aus. Ein besonderes Treffen ist geplant.",
-          "summary_en": "Leaders Xi, Trump, and Putin are scheduled to hold a historic trilateral summit during the APEC meeting. Concerns are rising about China potentially expanding its military presence in Laos and Cambodia. An unprecedented joint meeting involving these leaders has been announced by the White House.",
-          "summary_de": "Die Staatschefs Xi, Trump und Putin werden während des APEC-Treffens ein historisches trilaterales Gipfeltreffen abhalten. Es wachsen Bedenken, dass China seine Militärpräsenz in Laos und Kambodscha ausweiten könnte. Ein beispielloses gemeinsames Treffen dieser Staatschefs wurde vom Weißen Haus angekündigt.",
-          "summary_easy": "Xi, Trump und Putin treffen sich bei einem wichtigen Treffen. China baut vielleicht mehr Militär in Laos und Kambodscha. Ein Treffen von ihnen wird es zum ersten Mal geben.",
+          "headline_en": "Suspected Chinese spy who had affair with ex-Nvidia boss left her company last year",
+          "headline_de": "Verdächtige chinesische Spionin, die eine Affäre mit dem ehemaligen Nvidia-Chef hatte, verließ letztes Jahr ihr Unternehmen",
+          "headline_easy": "Eine Frau, die eine Affäre mit dem Chef von Nvidia hatte und verdächtigt wird, eine Spionin zu sein, hat ihre Arbeit bei der Firma beendet.",
+          "summary_en": "A woman, suspected of being a Chinese spy and who had an affair with a former Nvidia executive, reportedly left her company last year. This news adds a layer of intrigue to ongoing espionage concerns involving tech companies.",
+          "summary_de": "Eine Frau, die als chinesische Spionin verdächtigt wird und eine Affäre mit einem ehemaligen Nvidia-Führungskräft hatte, hat Berichten zufolge letztes Jahr ihr Unternehmen verlassen. Diese Nachricht fügt den anhaltenden Spionagebedenken im Zusammenhang mit Technologieunternehmen eine Ebene der Intrige hinzu.",
+          "summary_easy": "Eine Frau arbeitete bei einer Firma und hatte eine Affäre mit dem Chef. Sie soll eine Spionin für China sein. Sie hat die Firma letztes Jahr verlassen. Das ist eine spannende Geschichte.",
           "links": [
             {
-              "title": "Xi, Trump and Putin to hold historic trilateral summit at APEC meet",
-              "url": "https://www.business-standard.com/world-news/xi-trump-and-putin-to-hold-historic-trilateral-summit-at-apec-meet-126111400913_1.html"
-            }
-          ]
-        },
-        {
-          "type": "Business",
-          "emoji": "💼",
-          "headline_en": "Xi, Trump, and Putin to hold trilateral summit at APEC; China expanding military presence in Laos and Cambodia; Unprecedented joint meeting planned.",
-          "headline_de": "Xi, Trump und Putin werden auf dem APEC-Treffen ein trilaterales Gipfeltreffen abhalten; China erweitert seine Militärpräsenz in Laos und Kambodscha; Beispielloses gemeinsames Treffen geplant.",
-          "headline_easy": "Xi, Trump und Putin treffen sich bei APEC. China baut Militär in Laos und Kambodscha aus. Ein besonderes Treffen ist geplant.",
-          "summary_en": "A significant trilateral summit involving Xi, Trump, and Putin is scheduled to take place at the APEC meeting. Simultaneously, there are reports and questions about China's expanding military presence in Laos and Cambodia. The White House has confirmed plans for an unprecedented joint meeting of these leaders.",
-          "summary_de": "Ein bedeutendes trilaterales Gipfeltreffen mit Xi, Trump und Putin ist für das APEC-Treffen angesetzt. Gleichzeitig gibt es Berichte und Fragen zur wachsenden Militärpräsenz Chinas in Laos und Kambodscha. Das Weiße Haus hat Pläne für ein beispielloses gemeinsames Treffen dieser Staatschefs bestätigt.",
-          "summary_easy": "Xi, Trump und Putin treffen sich bei einem wichtigen Treffen. Es gibt Fragen, ob China mehr Militär in Laos und Kambodscha baut. Ein Treffen von ihnen wird es zum ersten Mal geben.",
-          "links": [
-            {
-              "title": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, White House says",
-              "url": "https://biztoc.com/x/baea273f958711dc"
+              "title": "Suspected Chinese spy who had affair with ex-Nvidia boss left her company last year",
+              "url": "https://www.dailymail.com/news/article-16294045/Chinese-spy-affair-Nvidia-left-company.html"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Microsoft services restored after global outage; REI Holiday Sale deals; Chinese censorship battle over cocktail book.",
-          "headline_de": "Microsoft-Dienste nach globalem Ausfall wiederhergestellt; Angebote für den REI-Weihnachtsverkauf; Zensurkampf Chinas wegen Cocktailbuch.",
-          "headline_easy": "Microsoft-Dienste funktionieren wieder. Es gibt Angebote für den REI-Verkauf. Sorgen wegen Zensur in China bei einem Buch.",
-          "summary_en": "Microsoft's global services have been fully restored after a significant outage. The article also mentions deals available during the REI Holiday Sale. Furthermore, it touches upon a censorship battle concerning an American cocktail book in China.",
-          "summary_de": "Die globalen Dienste von Microsoft wurden nach einer bedeutenden Störung vollständig wiederhergestellt. Der Artikel erwähnt auch Angebote, die während des REI-Weihnachtsverkaufs erhältlich sind. Darüber hinaus thematisiert er einen Zensurkampf bezüglich eines amerikanischen Cocktailbuchs in China.",
-          "summary_easy": "Microsoft hat seine Dienste wieder repariert. Es gibt Angebote im REI-Verkauf. Es gibt Sorgen wegen Zensur in China bei einem Buch.",
+          "headline_en": "WPI inflation, crude oil prices and FII activity to steer stock markets this week",
+          "headline_de": "WPI-Inflation, Rohölpreise und FII-Aktivitäten werden die Aktienmärkte diese Woche steuern",
+          "headline_easy": "Preise, Öl und das Verhalten von ausländischen Investoren beeinflussen diese Woche die Börse.",
+          "summary_en": "Key factors like Wholesale Price Index (WPI) inflation, crude oil prices, and Foreign Institutional Investor (FII) activity are expected to significantly influence the stock markets this week. These elements will guide market movements and investor sentiment.",
+          "summary_de": "Schlüsselfaktoren wie die Großhandelspreisindex-Inflation (WPI), die Rohölpreise und die Aktivität ausländischer institutioneller Anleger (FII) werden diese Woche voraussichtlich die Aktienmärkte erheblich beeinflussen. Diese Elemente werden die Marktbewegungen und die Anlegerstimmung bestimmen.",
+          "summary_easy": "Diese Woche werden Preise, Öl und das Verhalten von ausländischen Investoren die Börse beeinflussen. Diese Dinge sind wichtig für die Aktienmärkte. Sie zeigen, wie sich die Kurse entwickeln werden.",
           "links": [
             {
-              "title": "The 21 Best REI Holiday Sale Outdoor Deals (2026)",
-              "url": "https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/"
+              "title": "WPI inflation, crude oil prices and FII activity to steer stock markets this week",
+              "url": "https://www.thehindubusinessline.com/markets/wpi-inflation-crude-oil-prices-and-fii-activity-to-steer-stock-markets-this-week/article71704397.ece"
             }
           ]
         }
@@ -232,48 +304,64 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "New software package 'naiwasay' added to PyPI; Portugal vs Denmark match broadcast details; AI revolutionizes perfume industry.",
-          "headline_de": "Neues Softwarepaket 'naiwasay' zu PyPI hinzugefügt; Übertragungsdetails für das Spiel Portugal gegen Dänemark; KI revolutioniert die Parfümindustrie.",
-          "headline_easy": "Neue Software 'naiwasay' ist verfügbar. Man kann das Spiel Portugal gegen Dänemark sehen. KI hilft bei Parfüm.",
-          "summary_en": "A new software package named 'naiwasay' has been added to the Python Package Index (PyPI). Information is available on how to watch the Portugal vs. Denmark UEFA Nations League match in the USA. Additionally, Artificial Intelligence is significantly impacting the perfume industry by addressing sensory challenges.",
-          "summary_de": "Ein neues Softwarepaket namens 'naiwasay' wurde dem Python Package Index (PyPI) hinzugefügt. Informationen zur Übertragung des Spiels Portugal gegen Dänemark in der UEFA Nations League in den USA sind verfügbar. Darüber hinaus hat Künstliche Intelligenz die Parfümindustrie durch die Bewältigung sensorischer Herausforderungen maßgeblich beeinflusst.",
-          "summary_easy": "Es gibt neue Software namens 'naiwasay'. Man kann das Spiel Portugal gegen Dänemark sehen. KI hilft der Parfümindustrie.",
+          "headline_en": "Enem on the pitch! 13 Brazilian gems old enough to sit the exam",
+          "headline_de": "Enem auf dem Spielfeld! 13 brasilianische Juwelen alt genug, um die Prüfung abzulegen",
+          "headline_easy": "Fußballer in Brasilien sind jung. Einige sind alt genug für eine wichtige Prüfung.",
+          "summary_en": "This article highlights 13 young Brazilian football talents who are of age to take the 'Enem' exam, Brazil's national high school exam. It connects their sporting prowess with their educational milestones.",
+          "summary_de": "Dieser Artikel beleuchtet 13 junge brasilianische Fußballtalente, die alt genug sind, um die „Enem“-Prüfung, Brasiliens landesweite Abiturprüfung, abzulegen. Er verbindet ihre sportlichen Fähigkeiten mit ihren schulischen Meilensteinen.",
+          "summary_easy": "In Brasilien gibt es 13 junge Fußballer. Sie sind gut im Fußball und alt genug für eine wichtige Prüfung. Das zeigt, dass sie auch zur Schule gehen.",
           "links": [
             {
-              "title": "naiwasay added to PyPI",
-              "url": "https://pypi.org/project/naiwasay/"
+              "title": "Enem on the pitch! 13 Brazilian gems old enough to sit the exam",
+              "url": "https://onefootball.com/en/news/enem-on-the-pitch-13-brazilian-gems-old-enough-to-sit-the-exam-43780202"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Cleared for Takeoff: FAA Chief Says U.S. Air Travel Back to Normal Sunday",
+          "headline_de": "Freigabe zum Start: FAA-Chef sagt, der US-Flugverkehr sei am Sonntag wieder normal",
+          "headline_easy": "Der Flugverkehr in den USA ist wieder normal. Das hat der Chef der Flugbehörde gesagt.",
+          "summary_en": "The head of the FAA announced that U.S. air travel is expected to return to normal on Sunday. This indicates that disruptions have been resolved, and flights are operating as usual.",
+          "summary_de": "Der Leiter der FAA kündigte an, dass der Flugverkehr in den USA am Sonntag wieder normal laufen wird. Dies deutet darauf hin, dass Störungen behoben wurden und die Flüge wie gewohnt verkehren.",
+          "summary_easy": "Der Chef der Flugbehörde in den USA hat gesagt, dass die Flüge wieder normal sind. Ab Sonntag können die Menschen wieder normal fliegen. Probleme sind gelöst.",
+          "links": [
+            {
+              "title": "Cleared for Takeoff: FAA Chief Says U.S. Air Travel Back to Normal Sunday",
+              "url": "https://www.breitbart.com/politics/2026/11/15/cleared-for-takeoff-faa-chief-says-u-s-air-travel-back-to-normal-sunday/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Coinbase Custody moves to federal trust bank; Personal relationship issue discussed; Batman collectibles available.",
-          "headline_de": "Coinbase Custody wechselt zu einer föderalen Treuhandbank; Persönliches Beziehungsproblem diskutiert; Batman-Sammlerstücke verfügbar.",
-          "headline_easy": "Coinbase Custody hat eine neue Bank. Jemand hat ein Problem in seiner Beziehung. Es gibt Batman-Figuren zu kaufen.",
-          "summary_en": "Coinbase Custody is transitioning to a federal trust bank, requiring significant capital reserves. A personal advice column addresses a relationship issue involving concerns about a partner's physical characteristics. Furthermore, collectible Batman figures are now in stock.",
-          "summary_de": "Coinbase Custody wechselt zu einer föderalen Treuhandbank, was erhebliche Kapitalreserven erfordert. Eine persönliche Ratgeberspalte behandelt ein Beziehungsproblem, das Bedenken hinsichtlich der körperlichen Merkmale eines Partners beinhaltet. Darüber hinaus sind sammelbare Batman-Figuren nun auf Lager.",
-          "summary_easy": "Coinbase Custody hat eine neue Bank. Eine Person schreibt über ein Problem mit ihrem Mann. Es gibt Batman-Spielzeug zu kaufen.",
+          "headline_en": "Some in NY fret about being hit by the AI bus. Others are trying to board it.",
+          "headline_de": "Manche in New York fürchten, vom KI-Bus überfahren zu werden. Andere versuchen, einzusteigen.",
+          "headline_easy": "In New York haben manche Angst vor künstlicher Intelligenz. Andere nutzen sie für sich.",
+          "summary_en": "In New York, there's a divided sentiment regarding artificial intelligence. Some individuals express anxiety about the potential negative impacts of AI, while others are actively embracing and utilizing it for their benefit.",
+          "summary_de": "In New York gibt es eine gespaltene Haltung gegenüber künstlicher Intelligenz. Einige Einzelpersonen äußern Angst vor den potenziellen negativen Auswirkungen von KI, während andere sie aktiv nutzen und zu ihrem Vorteil einsetzen.",
+          "summary_easy": "In New York sind die Leute geteilter Meinung über künstliche Intelligenz (KI). Manche haben Angst vor KI. Andere nutzen sie, um erfolgreich zu sein. Sie wollen die neuen Chancen nutzen.",
           "links": [
             {
-              "title": "Coinbase Custody Moves to a Federal Trust Bank That Must Keep $60 Million in Capital",
-              "url": "https://www.dcforecasts.com/cryptocurrency-exchange-news/coinbase-custody-national-trust-company-occ-approval/"
+              "title": "Some in NY fret about being hit by the AI bus. Others are trying to board it.",
+              "url": "https://gothamist.com/news/some-in-ny-fret-about-being-hit-by-the-ai-bus-others-are-trying-to-board-it"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "New software packages 'uccharan' and 'naiwasay' added to PyPI; Portugal vs Denmark match broadcast details; AI aids cosmetic giants.",
-          "headline_de": "Neue Softwarepakete 'uccharan' und 'naiwasay' zu PyPI hinzugefügt; Übertragungsdetails für das Spiel Portugal gegen Dänemark; KI hilft Kosmetikgiganten.",
-          "headline_easy": "Neue Software 'uccharan' und 'naiwasay' sind verfügbar. Man kann das Spiel Portugal gegen Dänemark sehen. KI hilft bei Kosmetik.",
-          "summary_en": "Two new software packages, 'uccharan' and 'naiwasay', have been added to PyPI. Information on watching the Portugal vs. Denmark UEFA Nations League match in the USA is provided. Additionally, Artificial Intelligence is assisting major cosmetic companies in overcoming industry-specific challenges.",
-          "summary_de": "Zwei neue Softwarepakete, 'uccharan' und 'naiwasay', wurden zu PyPI hinzugefügt. Informationen zur Übertragung des Spiels Portugal gegen Dänemark in der UEFA Nations League in den USA werden bereitgestellt. Darüber hinaus unterstützt Künstliche Intelligenz große Kosmetikunternehmen bei der Bewältigung branchenspezifischer Herausforderungen.",
-          "summary_easy": "Es gibt neue Software namens 'uccharan' und 'naiwasay'. Man kann das Spiel Portugal gegen Dänemark sehen. KI hilft Kosmetikfirmen.",
+          "headline_en": "I helped grow a steel company from $750 million to $12 billion. CEOs should use AI before they grade employees on it",
+          "headline_de": "Ich habe geholfen, ein Stahlunternehmen von 750 Millionen auf 12 Milliarden Dollar wachsen zu lassen. CEOs sollten KI nutzen, bevor sie Mitarbeiter darauf bewerten",
+          "headline_easy": "Eine Person hat einer Firma geholfen, sehr groß zu werden. Sie sagt, Chefs sollen KI benutzen, bevor sie Mitarbeiter danach beurteilen.",
+          "summary_en": "An individual who helped scale a steel company from $750 million to $12 billion advises CEOs to adopt and understand AI before using it to evaluate their employees. This suggests a need for leaders to be informed about AI's capabilities and implications.",
+          "summary_de": "Eine Person, die geholfen hat, ein Stahlunternehmen von 750 Millionen auf 12 Milliarden Dollar zu skalieren, rät CEOs, KI zu übernehmen und zu verstehen, bevor sie sie zur Bewertung ihrer Mitarbeiter einsetzen. Dies deutet auf die Notwendigkeit hin, dass Führungskräfte über die Fähigkeiten und Auswirkungen von KI informiert sind.",
+          "summary_easy": "Eine Person hat einer Stahlfirma geholfen, sehr groß zu werden. Sie sagt, dass Chefs künstliche Intelligenz (KI) verstehen und nutzen sollten. Sie sollten KI nicht benutzen, um Mitarbeiter zu bewerten, bevor sie sie selbst verstehen.",
           "links": [
             {
-              "title": "uccharan added to PyPI",
-              "url": "https://pypi.org/project/uccharan/"
+              "title": "I helped grow a steel company from $750 million to $12 billion. CEOs should use AI before they grade employees on it",
+              "url": "https://fortune.com/2026/11/15/ceos-ai-performance-reviews-compensation-executives-geoff-woods/"
             }
           ]
         }
@@ -282,29 +370,29 @@
   ],
   "bundestag": {
     "wahlperiode": 21,
-    "sitzung": 108,
-    "url": "https://dserver.bundestag.de/btp/21/21108.pdf",
-    "summary_en": "The 108th session of the 21st German Bundestag took place on November 12, 2026. The session began with procedural matters, including the subsequent referral of a motion to committee and the election of Mareike Hermeier to the board of the \"Fonds zur Finanzierung der kerntechnischen Entsorgung\" and Jan Metzler to the administrative board of the Federal Agency for Real Estate Tasks. The main agenda item was the second and third reading of the \"Startchancen- und Qualitätsentwicklungsgesetz – SCQEG\" (Start-up Chances and Quality Development Act), aiming to improve children's early educational opportunities and the quality of childcare. Following this, the Bundestag debated two motions from the AfD. The first, \"Stopp der Deindustrialisierung – Beendigung des European Green Deal und des EU-Zentralismus\" (Stop Deindustrialization - End the European Green Deal and EU Centralism), proposed halting the European Green Deal and EU centralism. Speakers from the AfD, including Micha Fehre and Tobias Teich, argued against the Green Deal's perceived negative impact on German industry. The CDU/CSU, represented by Tilman Kuban and Michael Hose, while also expressing concerns about economic competitiveness, offered a more nuanced critique. The SPD and BÜNDNIS 90/DIE GRÜNEN, through speakers like Dr. Lina Seitzl, Dagmar Schmidt, and Dr. Anja Reinalter, defended the Green Deal's objectives and the importance of climate protection. The second AfD motion, \"Insolvenzwelle stoppen – Deutsche Wirtschaft stärken\" (Stop the Insolvency Wave - Strengthen the German Economy), also focused on economic challenges. The session then moved to the second and third readings of a bill for more justice through strengthening the customs administration and combating financial crime, discussed alongside proposals from BÜNDNIS 90/DIE GRÜNEN and Die Linke concerning combating financial crime and customs reform. Finally, the Bundestag addressed amendments to the Renewable Energy Sources Act (EEG) and related regulations to implement EU directives in the electricity sector, with contributions from the CDU/CSU, AfD, and SPD.",
-    "summary_de": "Die 108. Sitzung des Deutschen Bundestages der 21. Wahlperiode fand am 12. November 2026 statt. Die Sitzung begann mit Verfahrensfragen, einschließlich nachträglicher Ausschussüberweisungen und der Wahl von Mareike Hermeier in das Kuratorium der Stiftung „Fonds zur Finanzierung der kerntechnischen Entsorgung“ sowie Jan Metzler in den Verwaltungsrat der Bundesanstalt für Immobilienaufgaben. Hauptberatungspunkt war die zweite und dritte Beratung des „Startchancen- und Qualitätsentwicklungsgesetzes – SCQEG“, das die Startchancen von Kindern und die Qualität der Kindertagesbetreuung verbessern soll. Anschließend debattierte der Bundestag zwei Anträge der AfD. Der erste, „Stopp der Deindustrialisierung – Beendigung des European Green Deal und des EU-Zentralismus“, forderte die Beendigung des European Green Deal und des EU-Zentralismus. AfD-Abgeordnete wie Micha Fehre und Tobias Teich argumentierten gegen die wahrgenommenen negativen Auswirkungen des Green Deal auf die deutsche Industrie. Die CDU/CSU, vertreten durch Tilman Kuban und Michael Hose, äußerte zwar ebenfalls Bedenken hinsichtlich der wirtschaftlichen Wettbewerbsfähigkeit, bot jedoch eine differenziertere Kritik. Die SPD und BÜNDNIS 90/DIE GRÜNEN, durch Redner wie Dr. Lina Seitzl, Dagmar Schmidt und Dr. Anja Reinalter, verteidigten die Ziele des Green Deal und die Bedeutung des Klimaschutzes. Der zweite AfD-Antrag, „Insolvenzwelle stoppen – Deutsche Wirtschaft stärken“, befasste sich ebenfalls mit wirtschaftlichen Herausforderungen. Die Sitzung fuhr fort mit der zweiten und dritten Beratung eines Gesetzentwurfs für mehr Gerechtigkeit durch Stärkung der Zollverwaltung und Bekämpfung der Finanzkriminalität, parallel zu Anträgen von BÜNDNIS 90/DIE GRÜNEN und Die Linke zur Bekämpfung der Finanzkriminalität und Zollreform. Abschließend behandelte der Bundestag Änderungen des Erneuerbare-Energien-Gesetzes (EEG) und weiterer Vorschriften zur Umsetzung unionsrechtlicher Vorgaben im Stromsektor, mit Beiträgen von CDU/CSU, AfD und SPD.",
-    "summary_easy": "Am 12. November 2026 war der Bundestag in Sitzung 108. Zuerst gab es Wahlen für wichtige Gremien. Dann wurde über ein neues Gesetz für Kinder gesprochen. Dieses Gesetz soll Kitas besser machen. Danach sprach die AfD über den \"Green Deal\" von Europa. Sie sagte, das schadet Deutschland. Andere Parteien verteidigten den \"Green Deal\". Sie sagten, Klimaschutz ist wichtig. Es gab auch eine Debatte über die Wirtschaft. Viele Firmen haben Probleme. Der Bundestag sprach auch über den Zoll. Es ging darum, Kriminalität und Geldwäsche zu stoppen. Zum Schluss ging es um erneuerbare Energien. Das sind Strom und Wärme aus Sonne und Wind.",
+    "sitzung": 109,
+    "url": "https://dserver.bundestag.de/btp/21/21109.pdf",
+    "summary_en": "On Friday, November 13, 2026, the German Bundestag held its 109th session of the 21st legislative period. The session focused on several key legislative items. Agenda Item 26 involved the second and third readings of the government's draft law to reform intelligence service law. Speakers included Alexander Throm (CDU/CSU), Dr. Christian Wirth (AfD), Sonja Eichwede (SPD), Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN), Clara Bünger (Die Linke), Federal Minister BMI Alexander Dobrindt, Jochen Haug (AfD), Sebastian Fiedler (SPD), Dr. Irene Mihalic (BÜNDNIS 90/DIE GRÜNEN), Catarina dos Santos-Wintz (CDU/CSU), Dr. Bernd Baumann (AfD), Dirk Wiese (SPD), Ina Latendorf (Die Linke). Several roll-call votes and their results were recorded. Agenda Item 27 debated a motion from Die Linke for a nationwide rent cap, with contributions from Caren Lay (Die Linke), Janine Wissler (Die Linke), Dr. Jan-Marco Luczak (CDU/CSU), Federal Minister Nina Warken, Katalin Gennburg (Die Linke), Dr. Anna Rathert (AfD), Dr. Alexander Wolf (AfD), Dr. Ralf Stegner (SPD), Daniel Baldy (SPD), Rainer Galla (AfD), Hakan Demir (SPD), Hanna Steinmüller (BÜNDNIS 90/DIE GRÜNEN), Christian Moser (CDU/CSU), Marc Henrichmann (CDU/CSU), Ates Gürpinar (Die Linke), Cansin Köktürk (Die Linke), and Luigi Pantisano (Die Linke). Agenda Item 15 addressed the second reading and final vote on the government's draft law ratifying the partnership agreement between the EU and Mercosur. Speakers included Peter Beyer (CDU/CSU), Torben Braga (AfD), Sebastian Roloff (SPD), Dr. Anton Hofreiter (BÜNDNIS 90/DIE GRÜNEN), Charlotte Antonia Neuhäuser (Die Linke), Tilman Kuban (CDU/CSU), Markus Töns (SPD), Hans Koller (CDU/CSU), and Michael Kießling (CDU/CSU). Agenda Item 29 featured a motion by Rebecca Lenhard and Dr. Konstantin von Notz concerning a joint statement from BÜNDNIS 90/DIE GRÜNEN. Agenda Item 30 involved a resolution recommendation and report from the Foreign Affairs Committee on the continuation of German armed forces' participation in the NATO maritime security operation SEA GUARDIAN, with speeches by Jürgen Hardt (CDU/CSU), Kurt Kleinschmidt (AfD), Aydan Özoğuz (SPD), Luise Amtsberg (BÜNDNIS 90/DIE GRÜNEN), Lea Reisner (Die Linke), Thomas Silberhorn (CDU/CSU), Dr. Alexander Wolf (AfD), Falko Droßmann (SPD), and a roll-call vote recorded.",
+    "summary_de": "Am Freitag, den 13. November 2026, fand im Deutschen Bundestag die 109. Sitzung der 21. Wahlperiode statt. Die Sitzung konzentrierte sich auf mehrere wichtige Gesetzgebungsinitiativen. Tagesordnungspunkt 26 umfasste die zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Reform des Nachrichtendienstrechts. Redner waren unter anderem Alexander Throm (CDU/CSU), Dr. Christian Wirth (AfD), Sonja Eichwede (SPD), Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN), Clara Bünger (Die Linke), Bundesminister des Innern Alexander Dobrindt, Jochen Haug (AfD), Sebastian Fiedler (SPD), Dr. Irene Mihalic (BÜNDNIS 90/DIE GRÜNEN), Catarina dos Santos-Wintz (CDU/CSU), Dr. Bernd Baumann (AfD), Dirk Wiese (SPD) und Ina Latendorf (Die Linke). Mehrere namentliche Abstimmungen und deren Ergebnisse wurden protokolliert. Tagesordnungspunkt 27 debattierte einen Antrag der Fraktion Die Linke zur Einführung eines bundesweiten Mietendeckels, mit Beiträgen von Caren Lay (Die Linke), Janine Wissler (Die Linke), Dr. Jan-Marco Luczak (CDU/CSU), Bundesministerin Nina Warken, Katalin Gennburg (Die Linke), Dr. Anna Rathert (AfD), Dr. Alexander Wolf (AfD), Dr. Ralf Stegner (SPD), Daniel Baldy (SPD), Rainer Galla (AfD), Hakan Demir (SPD), Hanna Steinmüller (BÜNDNIS 90/DIE GRÜNEN), Christian Moser (CDU/CSU), Marc Henrichmann (CDU/CSU), Ates Gürpinar (Die Linke), Cansin Köktürk (Die Linke) und Luigi Pantisano (Die Linke). Tagesordnungspunkt 15 befasste sich mit der zweiten Beratung und Schlussabstimmung des Gesetzesentwurfs der Bundesregierung zur Ratifizierung des Partnerschaftsabkommens zwischen der EU und Mercosur. Redner waren Peter Beyer (CDU/CSU), Torben Braga (AfD), Sebastian Roloff (SPD), Dr. Anton Hofreiter (BÜNDNIS 90/DIE GRÜNEN), Charlotte Antonia Neuhäuser (Die Linke), Tilman Kuban (CDU/CSU), Markus Töns (SPD), Hans Koller (CDU/CSU) und Michael Kießling (CDU/CSU). Tagesordnungspunkt 29 enthielt einen Antrag von Rebecca Lenhard und Dr. Konstantin von Notz bezüglich einer gemeinsamen Erklärung der Grünen-Fraktion. Tagesordnungspunkt 30 beinhaltete die Beschlussempfehlung und den Bericht des Auswärtigen Ausschusses zur Fortsetzung der Beteiligung deutscher Streitkräfte an der NATO-Operation SEA GUARDIAN, mit Reden von Jürgen Hardt (CDU/CSU), Kurt Kleinschmidt (AfD), Aydan Özoğuz (SPD), Luise Amtsberg (BÜNDNIS 90/DIE GRÜNEN), Lea Reisner (Die Linke), Thomas Silberhorn (CDU/CSU), Dr. Alexander Wolf (AfD), Falko Droßmann (SPD), sowie einer namentlichen Abstimmung.",
+    "summary_easy": "Am 13. November 2026 fand im Bundestag eine wichtige Sitzung statt. Es ging um neue Gesetze. Ein Gesetz soll die Arbeit der Geheimdienste ändern. Viele Politiker haben darüber gesprochen. Auch Bundesminister Alexander Dobrindt sprach mit. Die Politiker waren nicht alle einer Meinung. Es gab Abstimmungen. Ein anderes Thema war ein \"Mietendeckel\". Das bedeutet, Mieten sollen nicht mehr so stark steigen. Die Partei \"Die Linke\" will das. Andere Parteien waren dagegen. Es ging auch um ein Abkommen mit südamerikanischen Ländern. Dieses Abkommen wurde besprochen. Außerdem wurde über einen Einsatz der Bundeswehr im Mittelmeer abgestimmt. Deutsche Soldaten helfen dort bei der Sicherheit. Viele Politiker diskutierten das Thema.",
     "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact_en": "During the French Revolution, the sans-culottes, a radical group of working-class revolutionaries, famously wore long trousers instead of the knee-breeches (culottes) worn by the aristocracy. This simple sartorial choice became a powerful symbol of defiance against the monarchy and the old social order, visually separating the revolutionaries from the privileged classes.",
-      "fact_de": "Während der Französischen Revolution trugen die Sansculotten, eine radikale Gruppe von Revolutionären aus der Arbeiterklasse, Hosen statt der Kniebundhosen (Culottes), die vom Adel getragen wurden. Diese einfache modische Entscheidung wurde zu einem mächtigen Symbol des Widerstands gegen die Monarchie und die alte soziale Ordnung und trennte die Revolutionäre visuell von den privilegierten Klassen.",
-      "fact_easy": "Die Sansculotten trugen Hosen. Das war anders als die reichen Leute. Hosen wurden ein Zeichen gegen den König.",
-      "category": "Fashion",
-      "source_title": "Sans-culottes - Wikipedia",
-      "source_url": "https://en.wikipedia.org/wiki/Sans-culottes"
+      "fact_en": "During the French Revolution, the sans-culottes, a radical political group, became symbolically associated with wearing long trousers instead of the knee-breeches (culottes) favored by the aristocracy. This fashion choice was a direct political statement against the monarchy and the old regime, signifying a rejection of class distinctions.",
+      "fact_de": "Während der Französischen Revolution wurden die Sansculotten, eine radikale politische Gruppe, symbolisch mit dem Tragen langer Hosen anstelle der Kniebundhosen (Culottes) assoziiert, die vom Adel bevorzugt wurden. Diese Modeentscheidung war eine direkte politische Aussage gegen die Monarchie und das alte Regime und bedeutete eine Ablehnung von Klassengegensätzen.",
+      "fact_easy": "Die Sansculotten trugen Hosen statt kurzer Hosen. Das war eine politische Aussage gegen den König. Sie wollten zeigen, dass sie nicht wie der Adel sein wollten.",
+      "category": "Politics",
+      "source_title": "Sans-culottes",
+      "source_url": "https://www.britannica.com/event/French-Revolution/The-rise-of-the-sans-culottes"
     },
     {
-      "fact_en": "In ancient Rome, purple dye, particularly Tyrian purple, was so costly and labor-intensive to produce that it was often reserved for the emperor and high-ranking officials. Wearing purple symbolized immense wealth and imperial power, and sumptuary laws even restricted its use by ordinary citizens to maintain social hierarchy.",
-      "fact_de": "Im alten Rom war die Purpurfärbung, insbesondere der Purpur aus Tyros, so teuer und aufwendig in der Herstellung, dass sie oft dem Kaiser und hochrangigen Beamten vorbehalten war. Das Tragen von Purpur symbolisierte immensen Reichtum und kaiserliche Macht, und Kleiderordnungen schränkten seine Verwendung durch gewöhnliche Bürger sogar ein, um die soziale Hierarchie aufrechtzuerhalten.",
-      "fact_easy": "In Rom war die Farbe Lila sehr teuer. Nur der Kaiser durfte Lila tragen. Das zeigte, wer wichtig war.",
+      "fact_en": "The traditional Japanese garment, the kimono, was once a common everyday wear for all classes. However, over time, and with the increasing influence of Western fashion, it became more reserved for special occasions and formal events, gradually transforming its role in Japanese society.",
+      "fact_de": "Das traditionelle japanische Kleidungsstück, der Kimono, war einst Alltagskleidung für alle Gesellschaftsschichten. Mit der Zeit und dem wachsenden Einfluss westlicher Mode wurde er jedoch mehr für besondere Anlässe und formelle Veranstaltungen reserviert, wodurch seine Rolle in der japanischen Gesellschaft allmählich verändert wurde.",
+      "fact_easy": "Der Kimono war früher normale Kleidung in Japan. Heute trägt man ihn nur noch zu besonderen Festen. Westliche Mode hat das verändert.",
       "category": "Fashion",
-      "source_title": "Tyrian purple - Wikipedia",
-      "source_url": "https://en.wikipedia.org/wiki/Tyrian_purple"
+      "source_title": "Kimono",
+      "source_url": "https://www.vam.ac.uk/articles/the-kimono-in-post-war-japan"
     }
   ],
   "frankfurt": {
@@ -312,68 +400,80 @@
       {
         "type": "Events",
         "emoji": "🎪",
-        "headline_en": "Weltkulturen Museum Explores Foreign Perspectives on Germans",
-        "headline_de": "Weltkulturen Museum erforscht fremde Blicke auf Deutsche",
-        "headline_easy": "Das Weltkulturen Museum zeigt, wie Ausländer Deutsche sehen.",
-        "summary_en": "The Weltkulturen Museum in Frankfurt is hosting an installation by artist Jordan Rita Seruya Awori titled 'The Seruya Archive.' This exhibition offers a change in perspective by exploring how outsiders view Germans.",
-        "summary_de": "Das Weltkulturen Museum in Frankfurt präsentiert eine Installation von Künstlerin Jordan Rita Seruya Awori namens „The Seruya Archive“. Diese Ausstellung bietet einen Perspektivwechsel, indem sie untersucht, wie Außenstehende Deutsche wahrnehmen.",
-        "summary_easy": "Im Weltkulturen Museum gibt es eine neue Ausstellung. Die Künstlerin Jordan Rita Seruya Awori zeigt „The Seruya Archive“. Sie fragt, wie Ausländer Deutsche sehen. Das ist ein neuer Blickwinkel.",
+        "headline_en": "German Theater Award 'Der Faust' Presented in Wiesbaden, Featuring 'Metropolis'",
+        "headline_de": "Deutscher Theaterpreis 'Der Faust' in Wiesbaden verliehen, mit 'Metropolis'",
+        "headline_easy": "Der Theaterpreis 'Der Faust' war in Wiesbaden. Ein Stück namens 'Metropolis' war dabei.",
+        "summary_en": "The German theater award 'Der Faust' was presented at the Staatstheater Wiesbaden. The event featured Sebastian Nübling's 'Metropolis Wiesbaden,' which was described as a city rally surrounding the award winners.",
+        "summary_de": "Der deutsche Theaterpreis 'Der Faust' wurde am Staatstheater Wiesbaden verliehen. Das Ereignis beinhaltete Sebastian Nüblings 'Metropolis Wiesbaden', das als Stadtrallye um die Preisträger beschrieben wurde.",
+        "summary_easy": "Der Theaterpreis 'Der Faust' wurde in Wiesbaden vergeben. Es gab eine besondere Veranstaltung mit 'Metropolis Wiesbaden'.",
         "links": [
           {
-            "title": "Weltkulturen Museum Frankfurt zeigt die Deutschen als Forschungsgegenstand",
-            "url": "https://www.faz.net/aktuell/rhein-main/kultur/weltkulturen-museum-frankfurt-zeigt-die-deutschen-als-forschungsgegenstand-accg-201671164.html"
+            "title": "Deutscher Theaterpreis: Brigitte Fassbaender hört noch lange nicht auf: Lauter Gewinner: Mit Sebastian Nüblings „Metropolis Wiesbaden“ als Stadtrallye um die Preisträger ist am Staatstheater Wiesbaden der deutsche Theaterpreis „Der Faust“ verliehen worden.",
+            "url": "https://www.faz.net/aktuell/rhein-main/kultur/theaterpreis-der-faust-in-wiesbaden-nur-gewinner-accg-201684170.html"
+          },
+          {
+            "title": "Rhein-Main-Liveblog: Frankfurt: Polizei nimmt Raser nach Verfolgungsfahrt fest: Steigende Grippe- und Corona-Infektionen in Hessen +++ Kassel: Feuerwehr löscht brennende Wohnung +++ Autofahrer flüchtet vor Polizei +++ Liveblog zu Rhein-Main und Hessen",
+            "url": "https://www.faz.net/aktuell/rhein-main/polizei-nimmt-raser-nach-verfolgungsfahrt-in-frankfurt-fest-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
           }
         ]
       },
       {
         "type": "Crime",
         "emoji": "🚔",
-        "headline_en": "Hessischer Rundfunk Restructures for Stronger Regional Presence",
-        "headline_de": "Hessischer Rundfunk stellt sich neu auf: Stärker in Regionen, schlanker in der Zentrale",
-        "headline_easy": "Der Hessische Rundfunk wird regional stärker und zentral schlanker.",
-        "summary_en": "Hessischer Rundfunk (HR) is undergoing a restructuring to enhance its regional reporting. The broadcaster will strengthen its regional studios and create more points of contact, while streamlining operations at its central headquarters.",
-        "summary_de": "Der Hessische Rundfunk (HR) strukturiert sich neu, um seine regionale Berichterstattung zu verbessern. Der Sender wird seine Regionalstudios stärken und weitere Anlaufstellen schaffen, während die zentrale Verwaltung schlanker wird.",
-        "summary_easy": "Der Hessische Rundfunk (HR) ändert seine Struktur. Er will mehr über die Regionen berichten. Dafür werden die Regionalstudios stärker. Die Zentrale wird kleiner.",
+        "headline_en": "Police Apprehend Speeding Driver After Pursuit in Frankfurt; Rising Illnesses Reported",
+        "headline_de": "Polizei nimmt Raser nach Verfolgungsfahrt in Frankfurt fest; steigende Krankheitsfälle gemeldet",
+        "headline_easy": "Die Polizei hat einen schnellen Fahrer nach einer Verfolgungsjagd gefasst. Es gibt mehr Grippe- und Corona-Fälle.",
+        "summary_en": "Frankfurt police apprehended a speeding driver following a pursuit. Meanwhile, Hessen is experiencing a rise in flu and coronavirus infections. Other news includes a fire in Kassel.",
+        "summary_de": "Die Frankfurter Polizei hat einen Raser nach einer Verfolgungsfahrt festgenommen. Gleichzeitig verzeichnet Hessen steigende Grippe- und Corona-Infektionen. Weitere Meldungen beinhalten einen Brand in Kassel.",
+        "summary_easy": "Ein schneller Autofahrer wurde in Frankfurt von der Polizei gestoppt. In Hessen gibt es mehr Kranke wegen Grippe und Corona. Auch ein Feuer in Kassel wird gemeldet.",
         "links": [
           {
-            "title": "HR stellt sich neu auf: Stärker in Regionen, schlanker in der Zentrale",
-            "url": "https://www.dwdl.de/nachrichten/108561/hr_stellt_sich_neu_auf_staerker_in_regionen_schlanker_in_der_zentrale/"
+            "title": "Rhein-Main-Liveblog: Frankfurt: Polizei nimmt Raser nach Verfolgungsfahrt fest: Steigende Grippe- und Corona-Infektionen in Hessen +++ Kassel: Feuerwehr löscht brennende Wohnung +++ Autofahrer flüchtet vor Polizei +++ Liveblog zu Rhein-Main und Hessen",
+            "url": "https://www.faz.net/aktuell/rhein-main/polizei-nimmt-raser-nach-verfolgungsfahrt-in-frankfurt-fest-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
+          },
+          {
+            "title": "Deutscher Theaterpreis: Brigitte Fassbaender hört noch lange nicht auf: Lauter Gewinner: Mit Sebastian Nüblings „Metropolis Wiesbaden“ als Stadtrallye um die Preisträger ist am Staatstheater Wiesbaden der deutsche Theaterpreis „Der Faust“ verliehen worden.",
+            "url": "https://www.faz.net/aktuell/rhein-main/kultur/theaterpreis-der-faust-in-wiesbaden-nur-gewinner-accg-201684170.html"
           }
         ]
       },
       {
         "type": "Sales & Offers",
         "emoji": "🛍️",
-        "headline_en": "Hessischer Rundfunk Restructures for Stronger Regional Presence",
-        "headline_de": "Hessischer Rundfunk stellt sich neu auf: Stärker in Regionen, schlanker in der Zentrale",
-        "headline_easy": "Der Hessische Rundfunk wird regional stärker und zentral schlanker.",
-        "summary_en": "Hessischer Rundfunk (HR) is implementing a reorganization to boost its regional coverage. The plan involves strengthening regional studios and establishing additional contact points, with a simultaneous reduction in central office structures.",
-        "summary_de": "Der Hessische Rundfunk (HR) setzt eine Reorganisation zur Stärkung seiner regionalen Berichterstattung um. Geplant ist eine Stärkung der Regionalstudios und die Schaffung weiterer Anlaufstellen, bei gleichzeitiger Straffung der Strukturen in der Zentrale.",
-        "summary_easy": "Der Hessische Rundfunk (HR) ändert seine Struktur. Er will mehr über die Regionen berichten. Dafür werden die Regionalstudios stärker. Die Zentrale wird kleiner.",
+        "headline_en": "Review of Weekly Highlights and Top Articles",
+        "headline_de": "Rückblick auf wöchentliche Highlights und Top-Artikel",
+        "headline_easy": "Zusammenfassung von wichtigen Artikeln aus der letzten Woche.",
+        "summary_en": "This week's highlights feature a review of the most noteworthy articles compiled from daily selections. Readers are encouraged to revisit these articles from the past week.",
+        "summary_de": "Die Hinweise der Woche bieten einen Überblick über die lesenswertesten Beiträge, die im Laufe der vergangenen Woche gesammelt wurden. Leser werden ermutigt, diese Artikel nochmals zu lesen.",
+        "summary_easy": "Diese Woche gibt es eine Zusammenfassung von guten Artikeln. Man kann die Artikel von letzter Woche noch einmal lesen.",
         "links": [
           {
-            "title": "HR stellt sich neu auf: Stärker in Regionen, schlanker in der Zentrale",
-            "url": "https://www.dwdl.de/nachrichten/108561/hr_stellt_sich_neu_auf_staerker_in_regionen_schlanker_in_der_zentrale/"
+            "title": "Hinweise der Woche: Am Wochenende präsentieren wir Ihnen einen Überblick über die lesenswertesten Beiträge, die wir im Laufe der vergangenen Woche in unseren Hinweisen des Tages für Sie gesammelt haben. Nehmen Sie sich ruhig auch die Zeit, unsere werktägliche Auswahl der Hinweis…",
+            "url": "https://www.nachdenkseiten.de/?p=158923"
+          },
+          {
+            "title": "Deutscher Theaterpreis: Brigitte Fassbaender hört noch lange nicht auf: Lauter Gewinner: Mit Sebastian Nüblings „Metropolis Wiesbaden“ als Stadtrallye um die Preisträger ist am Staatstheater Wiesbaden der deutsche Theaterpreis „Der Faust“ verliehen worden.",
+            "url": "https://www.faz.net/aktuell/rhein-main/kultur/theaterpreis-der-faust-in-wiesbaden-nur-gewinner-accg-201684170.html"
           }
         ]
       },
       {
         "type": "Local News",
         "emoji": "📍",
-        "headline_en": "Top Sprinter Gina Lückenkemper Joins Eintracht Frankfurt",
-        "headline_de": "Top-Sprinterin Lückenkemper wechselt zu Eintracht Frankfurt",
-        "headline_easy": "Die schnelle Läuferin Gina Lückenkemper ist jetzt bei Eintracht Frankfurt.",
-        "summary_en": "Elite sprinter Gina Lückenkemper, Germany's fastest woman, is making a significant move by joining Eintracht Frankfurt. This transfer is seen as a major development for the club as Lückenkemper prepares for the 2028 Olympic Games.",
-        "summary_de": "Die Top-Sprinterin Gina Lückenkemper, die schnellste Frau Deutschlands, wechselt zu Eintracht Frankfurt. Dieser Wechsel ist eine bedeutende Nachricht für den Verein, da Lückenkemper sich auf die Olympischen Spiele 2028 vorbereitet.",
-        "summary_easy": "Die Sprinterin Gina Lückenkemper wechselt zu Eintracht Frankfurt. Sie ist die schnellste Frau in Deutschland. Sie freut sich auf die Zeit bei Eintracht. Sie will zu den Olympischen Spielen 2028.",
+        "headline_en": "Frankfurt Police Chase Driver; Regional Health and Theater Awards Reported",
+        "headline_de": "Frankfurter Polizei verfolgt Raser; regionale Gesundheitsnachrichten und Theaterpreisverleihung",
+        "headline_easy": "Polizei in Frankfurt jagt einen Fahrer. Es gibt Nachrichten über Gesundheit und Theater in der Region.",
+        "summary_en": "Frankfurt police successfully apprehended a speeding driver after a pursuit. The news also covers rising flu and coronavirus cases in Hessen and the presentation of the German theater award 'Der Faust' in nearby Wiesbaden.",
+        "summary_de": "Die Frankfurter Polizei hat nach einer Verfolgungsfahrt einen Raser festgenommen. Die Nachrichten berichten außerdem über steigende Grippe- und Corona-Fälle in Hessen sowie die Verleihung des deutschen Theaterpreises 'Der Faust' im nahegelegenen Wiesbaden.",
+        "summary_easy": "In Frankfurt hat die Polizei einen schnellen Fahrer gestoppt. Es gibt auch Neuigkeiten über mehr Kranke in Hessen. Der Theaterpreis 'Der Faust' wurde in Wiesbaden verliehen.",
         "links": [
           {
-            "title": "Gold-Gina wechselt zu Eintracht - Die Geheimnisse hinter dem Lückenkemper-Knaller",
-            "url": "https://www.bild.de/sport/fussball/eintracht-frankfurt-die-geheimnisse-hinter-dem-lueckenkemper-wechsel-6af7131684c7128d8f27e554"
+            "title": "Rhein-Main-Liveblog: Frankfurt: Polizei nimmt Raser nach Verfolgungsfahrt fest: Steigende Grippe- und Corona-Infektionen in Hessen +++ Kassel: Feuerwehr löscht brennende Wohnung +++ Autofahrer flüchtet vor Polizei +++ Liveblog zu Rhein-Main und Hessen",
+            "url": "https://www.faz.net/aktuell/rhein-main/polizei-nimmt-raser-nach-verfolgungsfahrt-in-frankfurt-fest-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
           },
           {
-            "title": "Top-Sprinterin Lückenkemper - Wechsel-Hammer um Gold-Gina",
-            "url": "https://www.bild.de/sport/fussball/gina-lueckenkemper-wechselt-zu-eintracht-frankfurt-6af6e0d75a72dceba1d61376"
+            "title": "Deutscher Theaterpreis: Brigitte Fassbaender hört noch lange nicht auf: Lauter Gewinner: Mit Sebastian Nüblings „Metropolis Wiesbaden“ als Stadtrallye um die Preisträger ist am Staatstheater Wiesbaden der deutsche Theaterpreis „Der Faust“ verliehen worden.",
+            "url": "https://www.faz.net/aktuell/rhein-main/kultur/theaterpreis-der-faust-in-wiesbaden-nur-gewinner-accg-201684170.html"
           }
         ]
       }
