@@ -1,0 +1,419 @@
+{
+  "date": "Tuesday, November 17 2026",
+  "sections": [
+    {
+      "category": "Germany",
+      "emoji": "🇩🇪",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "AI Search Visibility and African Cinema Trends",
+          "headline_de": "KI-Suchsichtbarkeit und afrikanische Kinotrends",
+          "headline_easy": "KI hilft beim Suchen. Afrikanische Filme sind wichtig.",
+          "summary_en": "This section explores the concept of 'citation core' and its importance for AI search visibility, alongside a call for African filmmakers to develop original styles rather than mimicking Western cinema.",
+          "summary_de": "Dieser Abschnitt untersucht das Konzept des 'Citation Core' und seine Bedeutung für die KI-Suchsichtbarkeit. Er behandelt auch den Aufruf an afrikanische Filmemacher, originelle Stile zu entwickeln, anstatt westliches Kino nachzuahmen.",
+          "summary_easy": "Es gibt eine neue Art zu suchen mit KI. Afrikanische Filme sollen eigene Ideen haben.",
+          "links": [
+            {
+              "title": "What is citation core? A guide to AI search visibility",
+              "url": "https://www.semrush.com/blog/citation-core/"
+            },
+            {
+              "title": "Stop copying Western cinema, AMAA jury president tells African filmmakers",
+              "url": "https://punchng.com/stop-copying-western-cinema-amaa-jury-president-tells-african-filmmakers/"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "AI Search and Corporate Strategies Amidst Industry Shifts",
+          "headline_de": "KI-Suche und Unternehmensstrategien inmitten von Branchenverschiebungen",
+          "headline_easy": "KI hilft beim Suchen. Firmen ändern ihre Pläne.",
+          "summary_en": "This group covers the intricacies of AI search visibility through 'citation core' and discusses a major automotive company's plans for electric vehicle production, including job creation and cuts.",
+          "summary_de": "Diese Gruppe behandelt die Feinheiten der KI-Suchsichtbarkeit durch 'Citation Core' und bespricht die Pläne eines großen Automobilunternehmens für die Produktion von Elektrofahrzeugen, einschließlich der Schaffung und des Abbaus von Arbeitsplätzen.",
+          "summary_easy": "KI verbessert die Suche im Internet. Eine Autofirma baut mehr Elektroautos und ändert Arbeitsplätze.",
+          "links": [
+            {
+              "title": "Renault to add 1,650 roles for EV production, cut white-collar jobs, sources say",
+              "url": "https://economictimes.indiatimes.com/news/international/business/renault-to-add-1650-roles-for-ev-production-cut-white-collar-jobs-sources-say/articleshow/135889297.cms"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "NFL Highlights and a Call for Originality in Cinema",
+          "headline_de": "NFL-Highlights und ein Aufruf zur Originalität im Kino",
+          "headline_easy": "Fußball-Spiele sind toll. Filme sollen neu sein.",
+          "summary_en": "This section includes American football highlights and a discussion on how African filmmakers should avoid imitating Western cinema, focusing instead on unique storytelling.",
+          "summary_de": "Dieser Abschnitt enthält Highlights aus dem amerikanischen Football und eine Diskussion darüber, wie afrikanische Filmemacher westliches Kino nicht nachahmen sollten, sondern sich auf einzigartige Erzählungen konzentrieren sollten.",
+          "summary_easy": "Hier gibt es tolle Videos von American Football. Afrikanische Filmemacher sollen keine Filme kopieren.",
+          "links": [
+            {
+              "title": "Sacks, picks and 'a bag of tricks' - NFL best plays",
+              "url": "https://www.bbc.co.uk/sport/american-football/videos/cqglr9x7n4k0o"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Cybersecurity Threats and AI's Financial Implications",
+          "headline_de": "Cybersicherheitsbedrohungen und finanzielle Auswirkungen von KI",
+          "headline_easy": "Computer sind nicht sicher. KI kann Geld beeinflussen.",
+          "summary_en": "This news round-up highlights critical cybersecurity vulnerabilities in refrigeration controllers and discusses the potential financial stability implications of artificial intelligence.",
+          "summary_de": "Diese Nachrichtenzusammenfassung hebt kritische Cybersicherheitslücken in Kühlsystemsteuerungen hervor und diskutiert die potenziellen Auswirkungen von künstlicher Intelligenz auf die Finanzstabilität.",
+          "summary_easy": "Manche Computer für Kühlschränke sind gefährlich. KI könnte für Geld wichtig sein.",
+          "links": [
+            {
+              "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
+              "url": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html"
+            },
+            {
+              "title": "Barr, Some Potential Financial Stability Implications of Artificial Intelligence",
+              "url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Europe",
+      "emoji": "🇪🇺",
+      "topics": [
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "International Talks on Ukraine and Cybersecurity Risks",
+          "headline_de": "Internationale Gespräche zur Ukraine und Cybersicherheitsrisiken",
+          "headline_easy": "Europa will über die Ukraine reden. Computer sind gefährlich.",
+          "summary_en": "The EU is ready to host multilateral talks on Ukraine, while cybersecurity threats involving unpatched controller flaws pose significant risks.",
+          "summary_de": "Die EU ist bereit, multilaterale Gespräche über die Ukraine auszurichten, während Cybersicherheitsbedrohungen durch ungepatchte Controller-Schwachstellen erhebliche Risiken darstellen.",
+          "summary_easy": "Die EU möchte über die Ukraine sprechen. Manche Computer sind unsicher und könnten gehackt werden.",
+          "links": [
+            {
+              "title": "EU ready to host multilateral talks on Ukraine in Europe, Commission says",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/eu-ready-to-host-multilateral-talks-on-ukraine-in-europe-commission-says/articleshow/135887994.cms"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "EV Production Growth and Cultural Preservation",
+          "headline_de": "Wachstum der E-Auto-Produktion und Kulturerhalt",
+          "headline_easy": "Elektroautos werden mehr. Kultur ist wichtig.",
+          "summary_en": "Renault is expanding EV production, while a separate article discusses the return of exiled Nobel Laureate Miguel Ángel Asturias' ashes to Guatemala.",
+          "summary_de": "Renault baut die Produktion von Elektroautos aus, während ein separater Artikel die Rückkehr der Asche des im Exil lebenden Nobelpreisträgers Miguel Ángel Asturias nach Guatemala behandelt.",
+          "summary_easy": "Renault baut mehr Elektroautos. Die Asche eines berühmten Autors ist zurück in seinem Heimatland.",
+          "links": [
+            {
+              "title": "Ashes of exiled Nobel Laureate Miguel Ángel Asturias returned to Guatemala",
+              "url": "https://www.bbc.co.uk/news/articles/cvde1klewg88o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "US",
+      "emoji": "🇺🇸",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "EU Sanctions, Online Gaming, and Disney History",
+          "headline_de": "EU-Sanktionen, Online-Glücksspiel und Disney-Geschichte",
+          "headline_easy": "Europa hat Strafen. Spiele sind online. Ein alter Park hat eine Geschichte.",
+          "summary_en": "This section covers an individual placed on an EU sanctions list for alleged propaganda, a guide for UK players on 'Gransino,' and a historical look at a Magic Kingdom attraction.",
+          "summary_de": "Dieser Abschnitt behandelt eine Person, die wegen angeblicher Propaganda auf eine EU-Sanktionsliste gesetzt wurde, einen Leitfaden für britische Spieler zu 'Gransino' und einen historischen Rückblick auf eine Attraktion im Magic Kingdom.",
+          "summary_easy": "Eine Person ist auf einer Liste von Europa wegen falscher Nachrichten. Es gibt Infos über ein Spiel. Ein alter Spaß im Disney-Park wird erklärt.",
+          "links": [
+            {
+              "title": "Chay Bowes put on EU sanctions list for allegedly spreading Russian ‘propaganda’",
+              "url": "https://www.irishtimes.com/ireland/2026/11/16/chay-bowes-put-on-eu-sanctions-list-for-spreading-russian-propaganda/"
+            },
+            {
+              "title": "What should UK players know about Gransino?",
+              "url": "https://learningjquery.com/2026/11/what-should-uk-players-know-about-gransino"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "International Influence and Rare Earth Mining Lawsuits",
+          "headline_de": "Internationaler Einfluss und Klagen wegen Seltenerdminen",
+          "headline_easy": "China beeinflusst etwas. Es gibt Klagen über Minen.",
+          "summary_en": "This section features news on educational resilience, a foundation with Chinese government ties funding lawsuits against a rare earth mine, and an individual placed on EU sanctions for alleged propaganda.",
+          "summary_de": "Dieser Abschnitt enthält Nachrichten über Bildungswiderstandsfähigkeit, eine Stiftung mit Verbindungen zur chinesischen Regierung, die Klagen gegen eine Seltenerdmine finanziert, und eine Person, die wegen angeblicher Propaganda mit EU-Sanktionen belegt wurde.",
+          "summary_easy": "Bildung ist wichtig für junge Leute. Eine Organisation aus China hilft bei Klagen gegen eine Mine. Eine Person wurde wegen falscher Nachrichten bestraft.",
+          "links": [
+            {
+              "title": "Where Education Meets Resilience",
+              "url": "https://ssir.org/articles/entry/yidan-prize_young_people_resilience"
+            },
+            {
+              "title": "Foundation with Chinese-government ties funds groups suing to halt Trump-backed rare earth mine",
+              "url": "https://freerepublic.com/focus/f-bloggers/4403191/posts"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Nvidia Earnings and Global Tech Investments",
+          "headline_de": "Nvidia-Ergebnisse und globale Technologieinvestitionen",
+          "headline_easy": "Eine Firma macht Geld. IBM investiert viel in Indien.",
+          "summary_en": "This section focuses on Nvidia's financial report following a leadership change and IBM's significant investments in India's technology sector, particularly in quantum computing.",
+          "summary_de": "Dieser Abschnitt konzentriert sich auf den Finanzbericht von Nvidia nach einem Führungswechsel und die bedeutenden Investitionen von IBM in den indischen Technologiesektor, insbesondere in die Quantencomputertechnologie.",
+          "summary_easy": "Die Firma Nvidia hat neue Zahlen. IBM gibt viel Geld für Technik in Indien aus.",
+          "links": [
+            {
+              "title": "Nvidia's Colette Kress confronts key questions in first earnings report since Jensen Huang’s exit",
+              "url": "https://www.cnbc.com/2026/11/16/nvidia-earnings-jensen-huang-resignation.html"
+            },
+            {
+              "title": "IBM investing $3 bn annually in India, plans $10 bn global quantum push: CEO",
+              "url": "https://www.thehindubusinessline.com/info-tech/ibm-investing-3-bn-annually-in-india-plans-10-bn-global-quantum-push-ceo/article71707223.ece"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Asia",
+      "emoji": "🌏",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Diplomatic Engagements and Cultural Performances in Asia",
+          "headline_de": "Diplomatische Engagements und kulturelle Darbietungen in Asien",
+          "headline_easy": "Menschen treffen sich. Es gibt Musik und Tanz.",
+          "summary_en": "Prime Minister Modi's visit to Manila includes engaging with the Indian diaspora and attending a local Ramayana performance, while international diplomacy also features discussions between leaders.",
+          "summary_de": "Der Besuch von Premierminister Modi in Manila beinhaltet Treffen mit der indischen Diaspora und den Besuch einer lokalen Ramayana-Aufführung, während die internationale Diplomatie auch Gespräche zwischen den Staats- und Regierungschefs beinhaltet.",
+          "summary_easy": "Der Premierminister von Indien ist in Manila. Er spricht mit Indern und sieht eine Aufführung. Auch andere wichtige Leute treffen sich.",
+          "links": [
+            {
+              "title": "PM Modi kicks off Manila visit by interacting with Indian diaspora, attends local Ramayana staging",
+              "url": "https://economictimes.indiatimes.com/news/india/pm-modi-kicks-off-manila-visit-by-interacting-with-indian-diaspora-attends-local-ramayana-staging/articleshow/135889449.cms"
+            },
+            {
+              "title": "Modi meeting, rare Putin-Xi talks: What’s on Trump’s Asia agenda amid poll setback & Nvidia row",
+              "url": "https://timesofindia.indiatimes.com/world/us/modi-meeting-rare-putin-xi-talks-whats-on-trumps-asia-agenda-amid-poll-setback-nvidia-row/articleshow/135888739.cms"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Canadian Exports and Tech Sector Investments",
+          "headline_de": "Kanadische Exporte und Investitionen im Technologiesektor",
+          "headline_easy": "Kanada verkauft mehr. IBM investiert in Indien.",
+          "summary_en": "Canada sees a significant increase in exports to China, while IBM announces substantial investments in India's tech sector, particularly in quantum computing.",
+          "summary_de": "Kanada verzeichnet einen erheblichen Anstieg der Exporte nach China, während IBM erhebliche Investitionen in den indischen Technologiesektor, insbesondere in die Quantencomputertechnologie, ankündigt.",
+          "summary_easy": "Kanada verkauft mehr Waren an China. IBM gibt viel Geld für Technik in Indien aus.",
+          "links": [
+            {
+              "title": "Canada's exports to China up almost 40 per cent since last year",
+              "url": "https://toronto.citynews.ca/2026/11/16/canadas-exports-to-china-up-almost-40-per-cent-since-last-year/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "World",
+      "emoji": "🌍",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Systems Change, Global Diplomacy, and Sports News",
+          "headline_de": "Systemwandel, globale Diplomatie und Sportnachrichten",
+          "headline_easy": "Menschen wollen Dinge ändern. Länder reden. Sport ist wichtig.",
+          "summary_en": "This group covers topics ranging from 'fractal agency' in systems change to diplomatic discussions involving global leaders and sports updates.",
+          "summary_de": "Diese Gruppe behandelt Themen, die von 'fraktaler Handlungsfähigkeit' im Systemwandel bis hin zu diplomatischen Diskussionen mit globalen Führern und Sport-Updates reichen.",
+          "summary_easy": "Es geht darum, wie man Systeme besser macht. Wichtige Politiker sprechen miteinander. Es gibt neue Nachrichten vom Sport.",
+          "links": [
+            {
+              "title": "Scaling Change Through Fractal Agency",
+              "url": "https://ssir.org/articles/entry/systems-change-fractal-agency"
+            },
+            {
+              "title": "China says Xi, Trump, Putin to discuss 'world peace'",
+              "url": "https://www.dw.com/en/china-says-xi-trump-putin-to-discuss-world-peace/a-79959570"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Global Economic Outlook and Systems Change",
+          "headline_de": "Globale Wirtschaftsaussichten und Systemwandel",
+          "headline_easy": "Wirtschaft weltweit ändert sich. Systeme werden besser.",
+          "summary_en": "This section includes an outlook on global oil markets and discussions on 'fractal agency' for achieving systemic change.",
+          "summary_de": "Dieser Abschnitt enthält eine Einschätzung der globalen Ölmärkte und Diskussionen über 'fraktale Handlungsfähigkeit' zur Erzielung von Systemwandel.",
+          "summary_easy": "Es gibt neue Infos über Öl. Es geht darum, wie man Dinge besser macht.",
+          "links": [
+            {
+              "title": "EIA Now Sees Global Oil Glut in Q4",
+              "url": "https://www.rigzone.com/news/eia_now_sees_global_oil_glut_in_q4-16-nov-2026-185089-article/"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Global Oil Glut and Political Freedom",
+          "headline_de": "Globale Ölflut und politische Freiheit",
+          "headline_easy": "Es gibt zu viel Öl. Menschen wollen Freiheit.",
+          "summary_en": "The EIA predicts a global oil glut in the fourth quarter, while another article discusses the struggle for freedom against authoritarian rule.",
+          "summary_de": "Die EIA prognostiziert eine globale Ölflut im vierten Quartal, während ein anderer Artikel den Kampf um Freiheit gegen autoritäre Herrschaft thematisiert.",
+          "summary_easy": "Es gibt bald mehr Öl als gebraucht wird. Ein Artikel spricht über Freiheit gegen Diktatur.",
+          "links": [
+            {
+              "title": "Cuba’s rulers can shout at diplomats. They cannot silence the cry for freedom",
+              "url": "https://www.foxnews.com/opinion/cubas-rulers-shout-down-diplomats-cannot-silence-cry-freedom"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "Well-Being, Education, and Global Media",
+          "headline_de": "Wohlbefinden, Bildung und globale Medien",
+          "headline_easy": "Gut gehen ist wichtig. Bildung ist wichtig. Magazine sind für alle.",
+          "summary_en": "This section explores concepts of well-being, new educational initiatives in China, and general interest content from global publications.",
+          "summary_de": "Dieser Abschnitt untersucht Konzepte des Wohlbefindens, neue Bildungsinitiativen in China und allgemeine Interesseninhalte aus globalen Publikationen.",
+          "summary_easy": "Es geht darum, wie man sich gut fühlt. Es gibt neue Ideen für Schulen in China. Ein Magazin ist neu erschienen.",
+          "links": [
+            {
+              "title": "Well-Being as Relationship",
+              "url": "https://ssir.org/articles/entry/andean-indigenous-knowledge-well-being"
+            },
+            {
+              "title": "Redefining Education as a Way of Life",
+              "url": "https://ssir.org/articles/entry/china-new-education-initiative"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "bundestag": {
+    "wahlperiode": 21,
+    "sitzung": 109,
+    "url": "https://dserver.bundestag.de/btp/21/21109.pdf",
+    "summary_en": "On Friday, November 13, 2026, the German Bundestag held its 109th session of the 21st legislative period. The session began with the second and third readings of the \"Law to Reform Intelligence Service Law,\" introduced by the federal government. Speakers included Alexander Throm (CDU/CSU), Dr. Christian Wirth (AfD), Sonja Eichwede (SPD), Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN), and Clara Bünger (Die Linke), alongside Federal Minister BMI Alexander Dobrindt. The debate focused on the reform of intelligence service law, with various parties presenting their positions. Following this, the Bundestag addressed an urgent motion by the Left Party, titled \"Nationwide Rent Cap Now,\" with contributions from Caren Lay (Die Linke), Janine Wissler (Die Linke), and others, including Nina Warken, Federal Minister for Special Tasks. The session also included the second reading and final vote on the \"Partnership Agreement between the European Union and Mercosur,\" with contributions from Peter Beyer (CDU/CSU), Torben Braga (AfD), and Sebastian Roloff (SPD). Additionally, the Bundestag debated the continuation of German armed forces' participation in the NATO-led maritime security operation SEA GUARDIAN, with speakers like Jürgen Hardt (CDU/CSU) and Kurt Kleinschmidt (AfD). Finally, agenda item 4, concerning an application by MPs Rebecca Lenhard and Dr. Konstantin von Notz, was also listed.",
+    "summary_de": "Am Freitag, den 13. November 2026, fand die 109. Sitzung der 21. Wahlperiode des Deutschen Bundestages statt. Zu Beginn der Sitzung standen die zweite und dritte Beratung des von der Bundesregierung eingebrachten \"Gesetzes zur Reform des Nachrichtendienstrechts\" auf der Tagesordnung. Es sprachen Alexander Throm (CDU/CSU), Dr. Christian Wirth (AfD), Sonja Eichwede (SPD), Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN) und Clara Bünger (Die Linke) sowie Bundesminister BMI Alexander Dobrindt. Die Debatte konzentrierte sich auf die Reform des Nachrichtendienstrechts, wobei verschiedene Fraktionen ihre Standpunkte darlegten. Anschließend befasste sich der Bundestag mit einem Dringlichkeitsantrag der Linksfraktion \"Bundesweiter Mietendeckel jetzt\", zu dem Caren Lay (Die Linke), Janine Wissler (Die Linke) und weitere sprachen, darunter Nina Warken, Bundesministerin für besondere Aufgaben. Des Weiteren wurde die zweite Beratung und Schlussabstimmung des \"Partnerschaftsabkommens zwischen der Europäischen Union und Mercosur\" durchgeführt, mit Beiträgen von Peter Beyer (CDU/CSU), Torben Braga (AfD) und Sebastian Roloff (SPD). Zudem wurde die Fortsetzung der Beteiligung bewaffneter Streitkräfte an der NATO-geführten maritimen Sicherheitsoperation SEA GUARDIAN debattiert, unter anderem durch Jürgen Hardt (CDU/CSU) und Kurt Kleinschmidt (AfD). Abschließend war Tagesordnungspunkt 4, betreffend einen Antrag der Abgeordneten Rebecca Lenhard und Dr. Konstantin von Notz, aufgeführt.",
+    "summary_easy": "Am Freitag, dem 13. November 2026, war der Bundestag zu einer Sitzung versammelt. Zuerst sprachen Politiker über ein neues Gesetz. Dieses Gesetz soll die Regeln für Geheimdienste ändern. Viele Politiker von verschiedenen Parteien sagten etwas dazu. Dann gab es eine Debatte über Mietpreise. Die Linkspartei forderte einen \"Mietendeckel\" für ganz Deutschland. Danach ging es um ein Abkommen mit Südamerika. Viele Länder wollen Handel miteinander treiben. Zum Schluss diskutierten die Abgeordneten über einen Einsatz deutscher Soldaten im Mittelmeer. Dieser Einsatz hilft bei der Sicherheit auf See.",
+    "ukrainian_men": "Kein Thema in dieser Sitzung."
+  },
+  "facts": [
+    {
+      "fact_en": "During the Renaissance, sumptuary laws dictated what people could wear based on their social class. These laws aimed to maintain social hierarchy, with elaborate fabrics, specific colors, and types of embellishments being reserved for the nobility, while commoners had to adhere to simpler attire.",
+      "fact_de": "Während der Renaissance schrieben Kleiderordnungen vor, was Menschen aufgrund ihrer sozialen Klasse tragen durften. Diese Gesetze zielten darauf ab, die soziale Hierarchie aufrechtzuerhalten, wobei aufwendige Stoffe, bestimmte Farben und Verzierungsarten dem Adel vorbehalten waren, während Bürger sich an einfachere Kleidung halten mussten.",
+      "fact_easy": "Im Mittelalter gab es Gesetze für Kleidung. Diese Gesetze sagten, wer was tragen durfte. Nur reiche Leute durften teure Kleider tragen.",
+      "category": "Fashion",
+      "source_title": "Sumptuary Laws",
+      "source_url": "https://www.britannica.com/topic/sumptuary-law"
+    },
+    {
+      "fact_en": "The tradition of putting up Christmas trees originated in Germany, likely in the 16th century, and was brought to the United States by German immigrants. Initially, trees were decorated with candles, fruits, and nuts before commercial ornaments became popular.",
+      "fact_de": "Der Brauch des Aufstellens von Weihnachtsbäumen stammt aus Deutschland, wahrscheinlich aus dem 16. Jahrhundert, und wurde von deutschen Einwanderern in die Vereinigten Staaten gebracht. Ursprünglich wurden Bäume mit Kerzen, Früchten und Nüssen geschmückt, bevor kommerzielle Ornamente populär wurden.",
+      "fact_easy": "Weihnachtsbäume kommen ursprünglich aus Deutschland. Deutsche Leute brachten die Bäume nach Amerika. Zuerst dekorierten sie die Bäume mit Kerzen und Obst.",
+      "category": "Traditions",
+      "source_title": "Christmas tree",
+      "source_url": "https://www.britannica.com/topic/Christmas-tree"
+    }
+  ],
+  "frankfurt": {
+    "topics": [
+      {
+        "type": "Events",
+        "emoji": "🎪",
+        "headline_en": "Unicredit gets green light to acquire Commerzbank; Traffic expected on German Autobahns this weekend.",
+        "headline_de": "Unicredit darf Commerzbank übernehmen; Stauprognose für Autobahnen am Wochenende.",
+        "headline_easy": "Unicredit kann Commerzbank kaufen. Am Wochenende gibt es vielleicht Stau auf der Autobahn.",
+        "summary_en": "Unicredit has received approval to take over Commerzbank, a significant step for the merger. Meanwhile, the ADAC predicts a generally quiet weekend on German highways, with potential bottlenecks due to construction sites and winter sports traffic.",
+        "summary_de": "Unicredit hat die Genehmigung erhalten, die Commerzbank zu übernehmen, ein wichtiger Schritt für die Fusion. Unterdessen prognostiziert der ADAC ein generell ruhiges Wochenende auf deutschen Autobahnen, mit möglichen Engpässen durch Baustellen und Wintersportverkehr.",
+        "summary_easy": "Unicredit bekommt die Erlaubnis. Sie können Commerzbank übernehmen. Das ist gut für die zwei Banken. Am Wochenende kann es Stau auf der Straße geben. Wegen Baustellen.",
+        "links": [
+          {
+            "title": "Unicredit darf Commerzbank übernehmen: Was Kunden jetzt wissen müssen",
+            "url": "https://www.chip.de/news/business/unicredit-darf-commerzbank-uebernehmen-was-kunden-jetzt-wissen-muessen_111143e0-38cd-4282-b3d1-d064cd0479f1.html"
+          },
+          {
+            "title": "ADAC-Stauprognose: Hier drohen am Wochenende Staus",
+            "url": "https://www.teltarif.de/adac-stauprognose-autobahn-verkehr-stau/news/106839.html"
+          }
+        ]
+      },
+      {
+        "type": "Crime",
+        "emoji": "🚔",
+        "headline_en": "Police seek witnesses after firework thrown into Frankfurt bar; Investigations continue into fatal attacks in Gosen and Erkner.",
+        "headline_de": "Polizei sucht Zeugen nach Böllereinsatz in Frankfurter Bar; Ermittlungen zu Gewalttaten in Gosen und Erkner laufen.",
+        "headline_easy": "Polizei sucht Leute, die etwas gesehen haben. Jemand hat eine Böller in eine Bar geworfen. Die Polizei ermittelt auch wegen schlimmer Taten in Gosen und Erkner.",
+        "summary_en": "In Frankfurt, police are searching for witnesses after an individual threw a firework into a gay Schlager bar, causing minor injuries. Meanwhile, investigations are ongoing into the fatal attacks on a student and an educator in Gosen and a woman in Erkner, with the suspects remaining silent.",
+        "summary_de": "In Frankfurt sucht die Polizei nach Zeugen, nachdem eine Person einen Feuerwerkskörper in eine queere Schlagerkneipe geworfen hat, was zu leichten Verletzungen führte. Unterdessen laufen die Ermittlungen zu den tödlichen Angriffen auf eine Schülerin und einen Erzieher in Gosen sowie auf eine Frau in Erkner, wobei die Verdächtigen schweigen.",
+        "summary_easy": "In Frankfurt wirft ein Mann einen Böller in eine Bar. Zwei Leute sind leicht verletzt. Die Polizei sucht Zeugen. Auch in Gosen und Erkner gab es schlimme Taten. Die Täter sagen nichts.",
+        "links": [
+          {
+            "title": "Polizei sucht Zeugen: Unbekannter wirft Böller in Frankfurter Schwulenbar",
+            "url": "https://www.n-tv.de/panorama/Unbekannter-wirft-Boeller-in-Frankfurter-Schwulenbar-id31535828.html"
+          },
+          {
+            "title": "Gewalttaten in Gosen und Erkner: Beide Verdächtige schweigen weiter",
+            "url": "https://www.tagesspiegel.de/potsdam/brandenburg/gewalttaten-in-gosen-und-erkner-beide-verdachtige-schweigen-weiter-16288373.html"
+          }
+        ]
+      },
+      {
+        "type": "Sales & Offers",
+        "emoji": "🛍️",
+        "headline_en": "Reality star Gina-Lisa Lohfink discusses struggles with cosmetic surgeries; German Theatre Award 'Der Faust' presented in Wiesbaden.",
+        "headline_de": "Reality-Star Gina-Lisa Lohfink spricht über Folgen von Schönheits-OPs; Deutscher Theaterpreis 'Der Faust' in Wiesbaden verliehen.",
+        "headline_easy": "Eine bekannte Frau aus dem Fernsehen spricht über ihre Operationen. Der Theaterpreis 'Der Faust' wurde in Wiesbaden vergeben.",
+        "summary_en": "Reality TV personality Gina-Lisa Lohfink opens up about the difficulties she has faced due to her cosmetic surgeries, sharing details about her career and personal life. In other news, the prestigious German Theatre Award 'Der Faust' was presented in Wiesbaden, celebrating achievements in the theater scene.",
+        "summary_de": "Reality-TV-Persönlichkeit Gina-Lisa Lohfink spricht offen über die Schwierigkeiten, die sie aufgrund ihrer Schönheitsoperationen erlebt hat, und teilt Details über ihre Karriere und ihr Privatleben. In anderen Nachrichten wurde der renommierte Deutsche Theaterpreis 'Der Faust' in Wiesbaden verliehen, der Erfolge in der Theaterszene würdigt.",
+        "summary_easy": "Gina-Lisa Lohfink ist ein Star im Fernsehen. Sie spricht über ihre Schönheitsoperationen. Das war nicht immer gut. Der Theaterpreis 'Der Faust' wurde in Wiesbaden verliehen. Viele Gewinner gab es.",
+        "links": [
+          {
+            "title": "Reality-Star im Steckbrief - So sehr leidet Gina-Lisa unter ihren Beauty-OPs",
+            "url": "https://www.bild.de/unterhaltung/stars-und-leute/gina-lisa-lohfink-im-steckbrief-bereut-sie-ihre-schoenheits-ops-6565e2583056e8028f8c35ae"
+          },
+          {
+            "title": "Deutscher Theaterpreis: Brigitte Fassbaender hört noch lange nicht auf",
+            "url": "https://www.faz.net/aktuell/rhein-main/kultur/theaterpreis-der-faust-in-wiesbaden-nur-gewinner-accg-201684170.html"
+          }
+        ]
+      },
+      {
+        "type": "Local News",
+        "emoji": "📍",
+        "headline_en": "Firework incident at Frankfurt bar; Reality star discusses surgeries; Theatre award ceremony in Wiesbaden.",
+        "headline_de": "Böller-Vorfall in Frankfurter Bar; Reality-Star spricht über OPs; Theaterpreis-Verleihung in Wiesbaden.",
+        "headline_easy": "Ein Böller flog in eine Bar in Frankfurt. Ein Star aus dem Fernsehen redet über OPs. In Wiesbaden gab es einen Preis für Theater.",
+        "summary_en": "An incident in Frankfurt saw a firework thrown into a gay Schlager bar, resulting in minor injuries and a police search for the perpetrator. In separate news, reality TV personality Gina-Lisa Lohfink shares her experiences with cosmetic surgeries, and the German Theatre Award 'Der Faust' was celebrated in Wiesbaden.",
+        "summary_de": "Bei einem Vorfall in Frankfurt wurde ein Feuerwerkskörper in eine queere Schlagerkneipe geworfen, was zu leichten Verletzungen führte und die Polizei zur Fahndung nach dem Täter veranlasste. In separaten Nachrichten teilt Reality-TV-Persönlichkeit Gina-Lisa Lohfink ihre Erfahrungen mit Schönheitsoperationen, und der Deutsche Theaterpreis 'Der Faust' wurde in Wiesbaden gefeiert.",
+        "summary_easy": "In Frankfurt hat jemand eine Böller in eine Bar geworfen. Zwei Menschen wurden leicht verletzt. Die Polizei sucht die Person. Eine bekannte Frau spricht über ihre Operationen. Der Theaterpreis 'Der Faust' war in Wiesbaden.",
+        "links": [
+          {
+            "title": "Polizei sucht Zeugen: Unbekannter wirft Böller in Frankfurter Schwulenbar",
+            "url": "https://www.n-tv.de/panorama/Unbekannter-wirft-Boeller-in-Frankfurter-Schwulenbar-id31535828.html"
+          },
+          {
+            "title": "Reality-Star im Steckbrief - So sehr leidet Gina-Lisa unter ihren Beauty-OPs",
+            "url": "https://www.bild.de/unterhaltung/stars-und-leute/gina-lisa-lohfink-im-steckbrief-bereut-sie-ihre-schoenheits-ops-6565e2583056e8028f8c35ae"
+          }
+        ]
+      }
+    ]
+  },
+  "dresden": []
+}
