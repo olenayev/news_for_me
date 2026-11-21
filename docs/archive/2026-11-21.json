@@ -1,0 +1,496 @@
+{
+  "date": "Saturday, November 21 2026",
+  "sections": [
+    {
+      "category": "Germany",
+      "emoji": "🇩🇪",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Nations League draw sets up rematch between Spain and France; Germany faces Belgium.",
+          "headline_de": "Auslosung der Nations League: Spanien und Frankreich treffen erneut aufeinander, Deutschland spielt gegen Belgien.",
+          "headline_easy": "In der Nations League spielen Spanien und Frankreich wieder gegeneinander. Deutschland spielt gegen Belgien.",
+          "summary_en": "The draw for the Nations League has set up exciting rematches, including a World Cup final rematch between Spain and France. Germany is scheduled to face Belgium in the quarter-finals.",
+          "summary_de": "Die Auslosung für die Nations League hat spannende Wiederholungen gebracht, darunter eine Wiederholung des WM-Finals zwischen Spanien und Frankreich. Deutschland trifft im Viertelfinale auf Belgien.",
+          "summary_easy": "Die Auslosung für die Nations League ist da. Spanien und Frankreich spielen wieder gegeneinander. Das ist wie bei der Weltmeisterschaft. Deutschland spielt gegen Belgien.",
+          "links": [
+            {
+              "title": "Nations League draw offers up World Cup rematches between Spain-France and England-Norway",
+              "url": "https://sports.yahoo.com/articles/nations-league-draw-offers-world-115141843.html"
+            },
+            {
+              "title": "Nations League Draw: Kane and Haaland go head-to-head while France get world champions Spain",
+              "url": "https://www.101greatgoals.com/football/internationals/nations-league-draw-kane-and-haaland-go-head-to-head-while-france-get-world-champions-spain/"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Ireland faces Croatia in Nations League play-off; Americans stockpile for potential power outages; Bayern Munich transfer rumors.",
+          "headline_de": "Irland trifft im Nations League Play-off auf Kroatien; Amerikaner legen Vorräte für Stromausfälle an; Bayern München Transfergerüchte.",
+          "headline_easy": "Irland spielt gegen Kroatien. Manche Amerikaner kaufen viele Sachen für den Notfall. Es gibt Gerüchte über Bayern München.",
+          "summary_en": "In sports news, Ireland will play Croatia in a Nations League promotion play-off. Separately, there are reports of Americans stockpiling supplies due to concerns about potential power outages, and transfer rumors are circulating around Bayern Munich.",
+          "summary_de": "In den Sportnachrichten spielt Irland gegen Kroatien in einem Nations-League-Play-off um den Aufstieg. Separat gibt es Berichte über Amerikaner, die sich wegen möglicher Stromausfälle mit Vorräten eindecken, und Transfergerüchte um Bayern München.",
+          "summary_easy": "Es gibt Sportnachrichten: Irland spielt gegen Kroatien. Manche Amerikaner kaufen viel Essen und andere Sachen. Sie haben Angst vor einem Stromausfall. Es gibt auch Gerüchte über den Fußballverein Bayern München.",
+          "links": [
+            {
+              "title": "Ireland drawn to face Croatia in two-legged Nations League promotion play-off",
+              "url": "https://www.the42.ie/ireland-nations-league-play-off-draw-7232201-Nov2026/"
+            },
+            {
+              "title": "Why some Americans are stockpiling for a 90-day power outage",
+              "url": "https://www.cbc.ca/news/world/us-90-day-grid-outage-doomsday-prepping-stockpiling-9.7428489"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Europe",
+      "emoji": "🇪🇺",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Links covering various topics including technology and business.",
+          "headline_de": "Links zu verschiedenen Themen wie Technologie und Wirtschaft.",
+          "headline_easy": "Links zu vielen Themen. Es geht um Technik und Wirtschaft.",
+          "summary_en": "This collection of links covers diverse topics including technological advancements and business news. It also includes information about an internship opportunity.",
+          "summary_de": "Diese Sammlung von Links behandelt verschiedene Themen, darunter technologische Fortschritte und Wirtschaftsnachrichten. Sie enthält auch Informationen zu einer Praktikumsmöglichkeit.",
+          "summary_easy": "Diese Links handeln von Technik und Wirtschaft. Es gibt auch Informationen für ein Praktikum.",
+          "links": [
+            {
+              "title": "Links 11/20/2026",
+              "url": "https://www.nakedcapitalism.com/2026/11/links-11-20-2026.html"
+            },
+            {
+              "title": "HYS Enterprise Internship — Technical Support Engineer, 04 December",
+              "url": "https://dou.ua/calendar/58786/"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Intuit to sell Mailchimp; AI adoption rates among executives.",
+          "headline_de": "Intuit verkauft Mailchimp; KI-Nutzungsraten bei Führungskräften.",
+          "headline_easy": "Firma verkauft Mailchimp. Viele Chefs denken, sie nutzen KI, aber das stimmt nicht immer.",
+          "summary_en": "Intuit is selling Mailchimp for a significant sum as it refocuses its growth strategy, particularly concerning AI. Another report highlights a gap between executives' perception of AI leadership and actual implementation.",
+          "summary_de": "Intuit verkauft Mailchimp für eine beträchtliche Summe, da das Unternehmen seine Wachstumsstrategie neu ausrichtet, insbesondere im Hinblick auf KI. Ein weiterer Bericht hebt eine Lücke zwischen der Wahrnehmung von KI-Führungsqualitäten durch Führungskräfte und der tatsächlichen Umsetzung hervor.",
+          "summary_easy": "Eine Firma verkauft Mailchimp für viel Geld. Sie wollen mehr mit KI machen. Viele Chefs sagen, sie nutzen KI, aber das stimmt oft nicht. Nur wenige Firmen nutzen KI wirklich gut.",
+          "links": [
+            {
+              "title": "Intuit moves to sell Mailchimp for $3.68 billion as AI reshapes its growth strategy",
+              "url": "https://fortune.com/2026/11/20/intuit-sell-mailchimp-3-68-billion-ai-reshapes-growth-strategy-cfo/"
+            },
+            {
+              "title": "Collective[i] cofounder: 76% of executives think their companies are AI leaders. Only 10% are",
+              "url": "https://fortune.com/2026/11/20/ai-adoption-k-shaped-leaders-anthropic-ipo-stephen-messer/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "US",
+      "emoji": "🇺🇸",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Russia attacks Ukraine; cybersecurity director replaced; review of hiring software.",
+          "headline_de": "Russland greift die Ukraine an; Nationaler Cybersicherheitsdirektor ersetzt; Überprüfung von Einstellungsprogrammen.",
+          "headline_easy": "Russland greift die Ukraine an. Ein wichtiger Mann für Computer-Sicherheit ist weg. Es gibt eine Bewertung von Software für Firmen.",
+          "summary_en": "Russia has attacked Ukraine, with significant casualties reported. In US government news, the National Cyber Director has been replaced. A review of hiring software, Bryq, is also featured.",
+          "summary_de": "Russland hat die Ukraine angegriffen, mit Berichten über erhebliche Opfer. In den Nachrichten der US-Regierung wurde der Nationale Cybersicherheitsdirektor ersetzt. Eine Überprüfung der Einstellungsprogramm-Software Bryq wird ebenfalls vorgestellt.",
+          "summary_easy": "Russland greift die Ukraine an und viele Menschen sterben oder werden verletzt. In den USA gibt es eine neue Person für Computersicherheit. Es gibt auch einen Test für eine Software, die Firmen zum Einstellen von Leuten benutzen.",
+          "links": [
+            {
+              "title": "Russia pummels Ukraine after Putin vowed revenge, killing eight",
+              "url": "https://www.abc.net.au/news/2026-11-20/ukraine-russia-crimea-strikes-bridge-kyiv-power-outage-poland/107411538"
+            },
+            {
+              "title": "Bryq Review 2026: Pricing, Pros & Cons",
+              "url": "https://leadchangegroup.com/software/bryq/"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Unusual travel accommodations; weight loss claims debunked; Iran's opposition strategies.",
+          "headline_de": "Ungewöhnliche Reiseunterkünfte; Diät-Behauptungen widerlegt; Strategien der iranischen Opposition.",
+          "headline_easy": "Man kann in einem Zelt am Fluss übernachten. Ein Trick mit Salz hilft nicht beim Abnehmen. Was die Gegner des Irans machen.",
+          "summary_en": "This selection includes a unique glamping experience in Oregon reachable only by raft, a fact-check on a popular weight loss 'pink salt trick,' and an analysis of the strategic options available to Iran's opposition.",
+          "summary_de": "Diese Auswahl umfasst ein einzigartiges Glamping-Erlebnis in Oregon, das nur mit dem Floß erreichbar ist, eine Überprüfung eines beliebten Diät-Tricks mit 'rosa Salz' und eine Analyse der strategischen Optionen der iranischen Opposition.",
+          "summary_easy": "Es gibt einen besonderen Ort zum Übernachten in Oregon. Man muss mit einem Floß hinfahren. Ein Tipp über Salz zum Abnehmen stimmt nicht. Ein Artikel erklärt, was die Leute machen, die gegen die Regierung im Iran sind.",
+          "links": [
+            {
+              "title": "Upper Klamath Bush Camp: Safari Tent Glamping You Can Only Reach by Raft",
+              "url": "https://tinyhousetalk.com/upper-klamath-bush-camp-rafting-safari-glamping-oregon/"
+            },
+            {
+              "title": "Can the 'pink salt trick' help with weight loss?",
+              "url": "https://www.snopes.com/fact-check/pink-salt-weight-loss-trick/"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Gaming hardware available; faculty support for activists; unique travel options.",
+          "headline_de": "Gaming-Hardware verfügbar; Fakultätsunterstützung für Aktivisten; einzigartige Reiseoptionen.",
+          "headline_easy": "Man kann jetzt einen schnellen Computer für Spiele kaufen. Professoren helfen Aktivisten. Es gibt einen besonderen Ort zum Übernachten.",
+          "summary_en": "A powerful gaming PC is now available without a waitlist. University faculty are urging support for anti-Israel activists facing federal charges. Unique travel experiences, like glamping reachable only by raft, are also featured.",
+          "summary_de": "Ein leistungsstarker Gaming-PC ist jetzt ohne Warteliste erhältlich. Universitätsfakultäten fordern Unterstützung für anti-israelische Aktivisten, die mit Bundesanklagen konfrontiert sind. Einzigartige Reiseerlebnisse, wie Glamping, das nur mit dem Floß erreichbar ist, werden ebenfalls vorgestellt.",
+          "summary_easy": "Ein neuer Computer für Spiele ist jetzt im Laden. Professoren an einer Universität wollen Aktivisten helfen. Es gibt einen besonderen Ort zum Übernachten, den man nur mit einem Floß erreichen kann.",
+          "links": [
+            {
+              "title": "The 512GB Steam Machine skips the waitlist and goes straight to the cart",
+              "url": "https://the-gadgeteer.com/2026/11/20/steam-machine-512gb-waitlist-add-to-cart/"
+            },
+            {
+              "title": "UMich Faculty Urge Support for Anti-Israel Activists Facing Federal Charges",
+              "url": "https://legalinsurrection.com/2026/11/umich-faculty-urge-support-for-anti-israel-activists-facing-federal-charges/"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Gaming hardware available; falling grocery sales and financial strain; China's solar exports surge.",
+          "headline_de": "Gaming-Hardware verfügbar; sinkende Lebensmittelverkäufe und finanzielle Belastung; Chinas Solarexporte steigen stark an.",
+          "headline_easy": "Man kann jetzt einen schnellen Computer für Spiele kaufen. Die Leute kaufen weniger Lebensmittel, weil sie weniger Geld haben. China verkauft mehr Solarmodule.",
+          "summary_en": "A gaming PC is now readily available. Reports indicate falling grocery sales suggest growing financial strain on American households. Meanwhile, China's solar exports are surging ahead of looming US tariffs.",
+          "summary_de": "Ein Gaming-PC ist jetzt leicht erhältlich. Berichte deuten darauf hin, dass sinkende Lebensmittelverkäufe auf wachsende finanzielle Belastungen für amerikanische Haushalte hindeuten. Unterdessen steigen Chinas Solarexporte vor den bevorstehenden US-Zöllen stark an.",
+          "summary_easy": "Ein Computer für Spiele kann jetzt einfach gekauft werden. Die Leute kaufen weniger Essen. Das zeigt, dass sie weniger Geld haben. China verkauft viele Solarmodule in die USA, bevor neue Zölle kommen.",
+          "links": [
+            {
+              "title": "When Food Becomes a Luxury: Falling Grocery Sales and the Growing Financial Strain on American Households",
+              "url": "https://activistpost.com/when-food-becomes-a-luxury-falling-grocery-sales-and-the-growing-financial-strain-on-american-households/"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "German minister apologizes; earthquake near Los Angeles; gaming hardware available.",
+          "headline_de": "Deutscher Minister entschuldigt sich; Erdbeben bei Los Angeles; Gaming-Hardware verfügbar.",
+          "headline_easy": "Ein Minister aus Deutschland sagt Entschuldigung. Die Erde bebt bei Los Angeles. Man kann jetzt einen schnellen Computer für Spiele kaufen.",
+          "summary_en": "Germany's defense minister has apologized for remarks made about US criticism of Ukraine strikes. A magnitude 4.4 earthquake occurred near downtown Los Angeles. A high-capacity gaming PC is now available for purchase.",
+          "summary_de": "Deutschlands Verteidigungsminister hat sich für Äußerungen zur Kritik der USA an ukrainischen Angriffen entschuldigt. Ein Erdbeben der Stärke 4,4 ereignete sich in der Nähe des Zentrums von Los Angeles. Ein Gaming-PC mit hoher Kapazität ist nun zum Kauf erhältlich.",
+          "summary_easy": "Ein deutscher Minister entschuldigt sich für etwas, das er gesagt hat. Die Erde bebt in der Nähe von Los Angeles. Man kann jetzt einen neuen Computer für Spiele kaufen.",
+          "links": [
+            {
+              "title": "German defense minister apologizes for calling US criticism of Ukraine strikes ‘stupid’",
+              "url": "https://www.politico.eu/article/pistorius-apologizes-for-calling-us-criticism-of-ukraine-strikes-stupid/"
+            },
+            {
+              "title": "Magnitude 4.4 earthquake hits near downtown Los Angeles",
+              "url": "https://abcnews.com/US/magnitude-44-earthquake-hits-downtown-los-angeles/story?id=138315998"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Asia",
+      "emoji": "🌏",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Asian stocks worst week in 5 years; design exhibition opens; Russia attacks Ukraine.",
+          "headline_de": "Asiatische Aktien: schlechteste Woche seit 5 Jahren; Designausstellung eröffnet; Russland greift die Ukraine an.",
+          "headline_easy": "Die Börse in Asien ist schlecht. Eine Ausstellung für Design beginnt. Russland greift die Ukraine an.",
+          "summary_en": "Asian stock markets have experienced their worst week in five years, and significant fire losses are reported in Indonesia. A design exhibition is opening, and Russia continues its attacks on Ukraine.",
+          "summary_de": "Die Aktienmärkte in Asien haben ihre schlechteste Woche seit fünf Jahren erlebt, und in Indonesien werden erhebliche Brandverluste gemeldet. Eine Designausstellung wird eröffnet, und Russland setzt seine Angriffe auf die Ukraine fort.",
+          "summary_easy": "Die Aktien in Asien sind stark gefallen. Das ist die schlechteste Woche seit langem. In Indonesien gab es große Schäden durch Feuer. Eine Ausstellung mit schönen Dingen beginnt. Russland kämpft weiter in der Ukraine.",
+          "links": [
+            {
+              "title": "Asia Stocks Worst Week in 5 Years, Indon Fire Losses Near $30bn",
+              "url": "https://biztoc.com/x/343faa900e27be7c"
+            },
+            {
+              "title": "DesignInspire opens today with stunning installations",
+              "url": "https://en.antaranews.com/news/444167/designinspire-opens-today-with-stunning-installations"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Cambodian conservation efforts save fuel; Intuit sells Mailchimp; AI reshapes strategies.",
+          "headline_de": "Kambodschanische Naturschutzbemühungen sparen Treibstoff; Intuit verkauft Mailchimp; KI gestaltet Strategien neu.",
+          "headline_easy": "In Kambodscha spart man Sprit durch Steine im Wasser. Eine Firma verkauft Mailchimp. KI ist wichtig für Firmen.",
+          "summary_en": "Conservation efforts in Cambodia using concrete blocks to snag fishing nets have saved significant amounts of fuel. Intuit is selling Mailchimp to focus on AI-driven growth strategies, reflecting a broader trend.",
+          "summary_de": "Naturschutzbemühungen in Kambodscha, bei denen Betonsperren verwendet werden, um Fischernetze einzufangen, haben erhebliche Mengen an Treibstoff eingespart. Intuit verkauft Mailchimp, um sich auf KI-gesteuerte Wachstumsstrategien zu konzentrieren, was einen breiteren Trend widerspiegelt.",
+          "summary_easy": "In Kambodscha gibt es jetzt Steine im Meer, die helfen, Netze von Fischern zu fangen. Das spart viel Sprit. Eine Firma verkauft Mailchimp, weil sie mehr mit KI machen will. KI ist wichtig für Firmen.",
+          "links": [
+            {
+              "title": "In Cambodia’s Kep waters, conservationists installed interlocking concrete blocks to snag trawler nets; the barriers reduced patrol needs, saving an estimated 500,000 litres of fuel a year",
+              "url": "https://timesofindia.indiatimes.com/world/rest-of-world/in-cambodias-kep-waters-conservationists-installed-interlocking-concrete-blocks-to-snag-trawler-nets-the-barriers-reduced-patrol-needs-saving-an-estimated-500000-litres-of-fuel-a-year/articleshow/136020905.cms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "World",
+      "emoji": "🌍",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Children affected by Ukraine conflict; Mexico's poverty reduction.",
+          "headline_de": "Kinder vom Konflikt in der Ukraine betroffen; Armutsbekämpfung in Mexiko.",
+          "headline_easy": "Viele Kinder sind in der Ukraine krank oder verletzt. In Mexiko leben weniger arme Menschen.",
+          "summary_en": "UNICEF reports a high number of children killed or injured in Ukraine over 10 months. In other news, Mexico has significantly reduced poverty since 2018, according to the World Bank.",
+          "summary_de": "UNICEF berichtet über eine hohe Zahl von Kindern, die in der Ukraine innerhalb von 10 Monaten getötet oder verletzt wurden. In anderen Nachrichten hat Mexiko laut Weltbank seit 2018 die Armut deutlich reduziert.",
+          "summary_easy": "Viele Kinder in der Ukraine sind in Gefahr. Die UN sagt, dass viele Kinder dort verletzt oder getötet wurden. In Mexiko gibt es jetzt weniger arme Menschen als früher.",
+          "links": [
+            {
+              "title": "At least 1,144 children killed or injured in Ukraine in 10 months, UNICEF says",
+              "url": "https://en.protothema.gr/2026/11/20/at-least-1144-children-killed-or-injured-in-ukraine-in-10-months-unicef-says/"
+            },
+            {
+              "title": "Mexico Has Lifted Almost 20 Million People Out of Poverty Since 2018, According to World Bank Report",
+              "url": "https://biztoc.com/x/1a0b160d1b6d1a00"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Footballer's controversial interview; children affected by conflict; UNICEF report.",
+          "headline_de": "Umstrittenes Interview eines Fußballers; Kinder vom Konflikt betroffen; UNICEF-Bericht.",
+          "headline_easy": "Ein Fußballspieler redet über seinen Traum von einem anderen Club. Viele Kinder sind in der Ukraine krank oder verletzt.",
+          "summary_en": "A footballer's recent interview has caused controversy due to his expressed desire to join a rival club. Meanwhile, a UNICEF report highlights the significant number of children affected by the conflict in Ukraine.",
+          "summary_de": "Ein aktuelles Interview eines Fußballers hat aufgrund seines geäußerten Wunsches, einem Rivalenverein beizutreten, für Kontroversen gesorgt. Unterdessen hebt ein UNICEF-Bericht die beträchtliche Zahl von Kindern hervor, die vom Konflikt in der Ukraine betroffen sind.",
+          "summary_easy": "Ein Fußballspieler hat ein Interview gegeben, in dem er über einen anderen Club spricht. Das gefällt nicht jedem. Die UN sagt, dass viele Kinder in der Ukraine leiden.",
+          "links": [
+            {
+              "title": "How Mykhailo Mudryk's unsolicited interview turned into a moany mess: With gaffes galore - including his Arsenal 'dream' - the £89m man hasn't endeared himself to either Spurs or Chelsea, writes KIERAN GILL",
+              "url": "https://www.dailymail.com/sport/football/article-16308509/Mykhailo-Mudryks-intervie-Arsenal-Spurs-Chelsea.html"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Wildlife photography awards; dollar strengthens; children out of school.",
+          "headline_de": "Tierfotografie-Auszeichnungen; Dollar stärkt sich; Kinder nicht in der Schule.",
+          "headline_easy": "Es gibt schöne Fotos von Tieren. Der Dollar wird stärker. Viele Kinder können nicht zur Schule gehen.",
+          "summary_en": "National Geographic has released its Pictures of the Year, featuring captivating wildlife photography. The US dollar is strengthening due to Fed tightening expectations. A significant number of children are out of school in several Nigerian states.",
+          "summary_de": "National Geographic hat seine 'Bilder des Jahres' veröffentlicht, die fesselnde Tierfotografie zeigen. Der US-Dollar stärkt sich aufgrund der Erwartungen an eine Straffung der Geldpolitik durch die Fed. In mehreren nigerianischen Bundesstaaten gehen zahlreiche Kinder nicht zur Schule.",
+          "summary_easy": "Es gibt neue Preise für Fotos von Tieren. Der Dollar ist jetzt mehr wert. In Nigeria können viele Kinder nicht zur Schule gehen.",
+          "links": [
+            {
+              "title": "National Geographic revealed its Pictures of the Year. Here are 8 of the most captivating wildlife photos.",
+              "url": "https://www.businessinsider.com/national-geographic-best-pictures-of-the-year-wildlife-photos-2026-11"
+            },
+            {
+              "title": "Dollar set for fourth weekly gain, supported by Fed tightening expectations, AI-driven haven bid",
+              "url": "https://www.channelnewsasia.com/business/dollar-set-fourth-weekly-gain-supported-fed-tightening-expectations-ai-driven-haven-bid-6567931"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "New haul truck technology; Alphabet's bond offering; Portugal's artificial reefs boost fish.",
+          "headline_de": "Neue Schwerlastwagen-Technologie; Anleiheemission von Alphabet; Künstliche Riffe in Portugal erhöhen Fischbestand.",
+          "headline_easy": "Es gibt einen neuen großen Laster. Google macht eine Anleihe. Fische werden mehr in Portugal, weil dort Riffe gebaut wurden.",
+          "summary_en": "A new ultra-class haul truck features advanced charging technology. Alphabet has raised a significant amount through a Canadian bond offering. In Portugal, artificial reefs have led to a substantial increase in fish populations.",
+          "summary_de": "Ein neuer Schwerlastwagen der Ultra-Klasse verfügt über fortschrittliche Ladetechnologie. Alphabet hat durch eine kanadische Anleiheemission einen beträchtlichen Betrag aufgenommen. In Portugal haben künstliche Riffe zu einem deutlichen Anstieg der Fischbestände geführt.",
+          "summary_easy": "Ein neuer, großer Laster kann schneller laden. Google hat Geld durch Anleihen in Kanada bekommen. In Portugal gibt es mehr Fische, weil künstliche Riffe im Meer gebaut wurden.",
+          "links": [
+            {
+              "title": "Double guns: ultra-class haul truck packs dual-gun MCS charging, 4 MWh battery",
+              "url": "https://electrek.co/2026/11/20/double-guns-ultra-class-haul-truck-packs-dual-gun-mcs-charging-4-mwh-battery/"
+            },
+            {
+              "title": "Alphabet raises $4.19 billion in Canadian bond offering",
+              "url": "https://www.channelnewsasia.com/business/alphabet-raises-419-billion-in-canadian-bond-offering-6569266"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "bundestag": {
+    "wahlperiode": 21,
+    "sitzung": 109,
+    "url": "https://dserver.bundestag.de/btp/21/21109.pdf",
+    "summary_en": "On Friday, November 13, 2026, the German Bundestag convened for its 109th session of the 21st legislative period. The primary agenda item was the second and third readings of the government's bill to reform intelligence service law. Speakers included Alexander Throm (CDU/CSU), Dr. Christian Wirth (AfD), Sonja Eichwede (SPD), Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN), and Clara Bünger (Die Linke), presenting diverse party viewpoints. Federal Minister of the Interior, Alexander Dobrindt, also addressed the chamber. The session also debated a motion by Die Linke for a nationwide rent cap, with contributions from Caren Lay and Janine Wissler (Die Linke), Jan-Marco Luczak (CDU/CSU), Nina Warken (independent minister), and Dr. Anna Rathert (AfD). Another significant item was the second reading and final vote on the EU's partnership agreement with MERCOSUR, featuring debates from Peter Beyer (CDU/CSU), Torben Braga (AfD), Sebastian Roloff (SPD), and Dr. Anton Hofreiter (BÜNDNIS 90/DIE GRÜNEN). Furthermore, the Bundestag addressed the continuation of German armed forces' participation in the NATO maritime security operation SEA GUARDIAN, with speakers like Jürgen Hardt (CDU/CSU) and Aydan Özoğuz (SPD). Several roll-call votes were held throughout the session, with results detailed on pages 13858C, 13860B, 13863B, 13870D, and 13885C.",
+    "summary_de": "Am Freitag, dem 13. November 2026, trat der Deutsche Bundestag zu seiner 109. Sitzung der 21. Wahlperiode zusammen. Hauptpunkt der Tagesordnung waren die zweite und dritte Beratung des Gesetzesentwurfs der Bundesregierung zur Reform des Nachrichtendienstrechts. Redner waren unter anderem Alexander Throm (CDU/CSU), Dr. Christian Wirth (AfD), Sonja Eichwede (SPD), Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN) und Clara Bünger (Die Linke), die unterschiedliche parteipolitische Positionen vertraten. Bundesminister des Innern, Alexander Dobrindt, sprach ebenfalls. Die Sitzung befasste sich auch mit einem Antrag der Linken für einen bundesweiten Mietendeckel, zu dem Caren Lay und Janine Wissler (Die Linke), Jan-Marco Luczak (CDU/CSU), Nina Warken (parteilose Ministerin) und Dr. Anna Rathert (AfD) sprachen. Ein weiterer wichtiger Tagesordnungspunkt war die zweite Beratung und Schlussabstimmung des Partnerschaftsabkommens der EU mit MERCOSUR, mit Debattenbeiträgen von Peter Beyer (CDU/CSU), Torben Braga (AfD), Sebastian Roloff (SPD) und Dr. Anton Hofreiter (BÜNDNIS 90/DIE GRÜNEN). Ferner behandelte der Bundestag die Fortsetzung der Beteiligung deutscher Streitkräfte an der NATO-geführten maritimen Sicherheitsoperation SEA GUARDIAN, mit Rednern wie Jürgen Hardt (CDU/CSU) und Aydan Özoğuz (SPD). Im Laufe der Sitzung fanden mehrere namentliche Abstimmungen statt, deren Ergebnisse auf den Seiten 13858C, 13860B, 13863B, 13870D und 13885C detailliert aufgeführt sind.",
+    "summary_easy": "Der Bundestag traf sich am 13. November 2026.  Es gab mehrere wichtige Themen.  Ein Gesetz zur Reform der Geheimdienste wurde beraten.  Viele Politiker sprachen dazu.  Die Linke forderte einen Mietendeckel für ganz Deutschland.  Auch darüber wurde diskutiert.  Außerdem ging es um ein Abkommen der EU mit südamerikanischen Ländern.  Es gab auch eine Debatte über deutsche Soldaten im Mittelmeer.  Die Soldaten helfen bei der Sicherheit auf See.  Es gab mehrere Abstimmungen.  Die Ergebnisse wurden am Ende mitgeteilt.",
+    "ukrainian_men": "Kein Thema in dieser Sitzung."
+  },
+  "facts": [
+    {
+      "fact_en": "During the French Revolution, fashion became a political statement. The 'sans-culottes,' meaning 'without knee-breeches,' adopted long trousers as a symbol of their rejection of aristocratic fashion and their embrace of republican ideals. This simple garment became a powerful visual marker of the revolutionary cause.",
+      "fact_de": "Während der Französischen Revolution wurde Mode zu einer politischen Aussage. Die „Sansculotten“, was „ohne Kniebundhosen“ bedeutet, übernahmen lange Hosen als Symbol ihrer Ablehnung aristokratischer Mode und ihrer Hinwendung zu republikanischen Idealen. Dieses einfache Kleidungsstück wurde zu einem mächtigen visuellen Zeichen der revolutionären Sache.",
+      "fact_easy": "In der Französischen Revolution war Kleidung wichtig. Die Sansculotten trugen lange Hosen. Das zeigte, dass sie gegen die Adligen waren.",
+      "category": "Fashion",
+      "source_title": "The French Revolution: A People's History",
+      "source_url": "https://www.britannica.com/event/French-Revolution"
+    },
+    {
+      "fact_en": "The ancient city of Machu Picchu, built by the Incas, had a complex system for determining the seasons and astronomical events, vital for their agricultural practices and religious ceremonies. The Intihuatana stone, a precisely carved rock pillar, is believed to have served as a sundial or astronomical calendar, aligning with celestial bodies.",
+      "fact_de": "Die antike Stadt Machu Picchu, erbaut von den Inkas, verfügte über ein komplexes System zur Bestimmung der Jahreszeiten und astronomischen Ereignisse, das für ihre landwirtschaftlichen Praktiken und religiösen Zeremonien unerlässlich war. Der Intihuatana-Stein, ein präzise bearbeiteter Steinsäule, diente vermutlich als Sonnenuhr oder astronomischer Kalender, der sich an Himmelskörpern ausrichtete.",
+      "fact_easy": "Die Inkas bauten Machu Picchu. Sie hatten einen besonderen Stein, den Intihuatana. Dieser Stein zeigte die Jahreszeiten und Sterne an.",
+      "category": "Traditions",
+      "source_title": "Machu Picchu: The Lost City of the Incas",
+      "source_url": "https://www.nationalgeographic.com/history/article/machu-picchu"
+    }
+  ],
+  "frankfurt": {
+    "topics": [
+      {
+        "type": "Events",
+        "emoji": "🎪",
+        "headline_en": "TV Presenter Laura Wontorra Showcases Pregnancy, Nations League Financial Boost Possible, Lufthansa Job Cuts",
+        "headline_de": "Laura Wontorra zeigt Babybauch, Nations League könnte Geldregen bringen, Lufthansa streicht Jobs",
+        "headline_easy": "Laura Wontorra zeigt ihre Schwangerschaft. Die Nations League könnte Geld bringen. Lufthansa streicht Jobs.",
+        "summary_en": "TV presenter Laura Wontorra has officially revealed her pregnancy with a photoshoot. In other news, the Nations League draw could lead to a significant financial windfall for German football, while Lufthansa is reportedly cutting 1,000 jobs in Germany.",
+        "summary_de": "Fernsehmoderatorin Laura Wontorra hat ihre Schwangerschaft mit einem Fotoshooting offiziell bekannt gegeben. Unterdessen könnte die Auslosung der Nations League dem deutschen Fußball einen erheblichen Geldregen bescheren, während Lufthansa Berichten zufolge 1.000 Arbeitsplätze in Deutschland abbaut.",
+        "summary_easy": "Laura Wontorra ist schwanger. Sie zeigt ihren Babybauch. Die Fußball-Nations League könnte viel Geld für Deutschland bringen. Die Fluggesellschaft Lufthansa streicht 1.000 Jobs in Deutschland.",
+        "links": [
+          {
+            "title": "Laura Wontorra setzt ihren Babybauch in Szene",
+            "url": "https://www.n-tv.de/leute/Laura-Wontorra-setzt-ihren-Babybauch-in-Szene-id31558105.html"
+          },
+          {
+            "title": "Nations League könnte für Geldregen sorgen - Für Klopp geht es um 7,5 Millionen Euro",
+            "url": "https://www.bild.de/sport/fussball/nations-league-koennte-fuer-dfb-geldregen-sorgen-fuer-klopp-geht-es-um-7-5-millionen-euro-6b000009b237b5b41c9a2034"
+          }
+        ]
+      },
+      {
+        "type": "Crime",
+        "emoji": "🚔",
+        "headline_en": "Frankfurt Lions Struggle in DEL, Youth Demonstration Restrictions, CSL Behring Expands Marburg Production",
+        "headline_de": "Löwen Frankfurt unter Druck, Aufenthaltsverbote für Demo, CSL Behring erweitert Produktion in Marburg",
+        "headline_easy": "Die Löwen Frankfurt spielen schlecht. Die Polizei verbietet einigen Personen, nach Frankfurt zu kommen. Eine Firma baut eine Fabrik aus.",
+        "summary_en": "The Frankfurt Lions ice hockey team is facing challenges with low scoring, with coach Tom Pokel calling for more aggression. In separate news, police have issued entry bans for some individuals ahead of a GenZ demonstration, and pharmaceutical manufacturer CSL Behring is investing heavily to expand its production facilities in Marburg.",
+        "summary_de": "Das Frankfurter Eishockeyteam die Löwen kämpft mit wenigen Toren, Trainer Tom Pokel fordert mehr Mut. Die Polizei hat im Vorfeld einer GenZ-Demo Aufenthaltsverbote für bestimmte Personen erlassen. Zudem investiert der Arzneimittelhersteller CSL Behring erheblich in den Ausbau seiner Produktionsstätten in Marburg.",
+        "summary_easy": "Die Löwen Frankfurt schießen wenige Tore. Die Polizei darf bestimmte Personen nicht nach Frankfurt lassen. Eine wichtige Firma baut ihre Fabrik in Marburg aus. Sie investiert viel Geld.",
+        "links": [
+          {
+            "title": "Löwen in DEL: „Wir müssen dahin gehen, wo es wehtut“",
+            "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/loewen-frankfurt/loewen-frankfurt-in-del-auf-dem-eis-dorthin-gehen-wo-es-wehtut-accg-201698501.html"
+          },
+          {
+            "title": "Younes darf Frankfurt nicht betreten - Batman-Verbot für GenZ-Demo",
+            "url": "https://www.bild.de/regional/frankfurt/younes-darf-frankfurt-nicht-betreten-batman-verbot-fuer-genz-demo-6afffc4db237b5b41c9a1fd6"
+          }
+        ]
+      },
+      {
+        "type": "Sales & Offers",
+        "emoji": "🛍️",
+        "headline_en": "Frankfurt Lions' Performance Focus, Demonstration Restrictions, CSL Behring Production Expansion",
+        "headline_de": "Fokus auf Leistung der Löwen Frankfurt, Demo-Beschränkungen, CSL Behring erweitert Produktion",
+        "headline_easy": "Die Löwen Frankfurt brauchen mehr Erfolg. Es gibt Regeln für eine Demo. Eine Firma erweitert ihre Produktion.",
+        "summary_en": "The Frankfurt Lions are facing calls for improved performance in the DEL, with their coach emphasizing the need for greater commitment. Meanwhile, police are implementing entry bans for certain individuals ahead of a GenZ demonstration. In business news, CSL Behring is significantly investing in expanding its production capacity in Marburg.",
+        "summary_de": "Die Löwen Frankfurt stehen unter Druck, ihre Leistung in der DEL zu verbessern; ihr Trainer betont die Notwendigkeit von mehr Einsatz. Gleichzeitig verhängt die Polizei im Vorfeld einer GenZ-Demo Aufenthaltsverbote. Im Wirtschaftsbereich investiert CSL Behring stark in die Erweiterung seiner Produktionskapazitäten in Marburg.",
+        "summary_easy": "Die Löwen Frankfurt müssen besser spielen. Die Polizei erlaubt manchen Personen nicht, in die Stadt zu kommen. Eine wichtige Firma baut ihre Fabrik in Marburg aus. Sie will mehr produzieren.",
+        "links": [
+          {
+            "title": "Löwen in DEL: „Wir müssen dahin gehen, wo es wehtut“",
+            "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/loewen-frankfurt/loewen-frankfurt-in-del-auf-dem-eis-dorthin-gehen-wo-es-wehtut-accg-201698501.html"
+          },
+          {
+            "title": "Younes darf Frankfurt nicht betreten - Batman-Verbot für GenZ-Demo",
+            "url": "https://www.bild.de/regional/frankfurt/younes-darf-frankfurt-nicht-betreten-batman-verbot-fuer-genz-demo-6afffc4db237b5b41c9a1fd6"
+          }
+        ]
+      },
+      {
+        "type": "Local News",
+        "emoji": "📍",
+        "headline_en": "Frankfurt Lions' Performance Challenges, Demonstration Restrictions, CSL Behring Invests in Marburg",
+        "headline_de": "Frankfurter Löwen brauchen mehr Erfolg, Polizeimaßnahmen bei Demo, CSL Behring investiert in Marburg",
+        "headline_easy": "Die Löwen Frankfurt spielen nicht gut. Die Polizei hat Regeln für eine Demo. Eine Firma baut eine Fabrik aus.",
+        "summary_en": "The Frankfurt Lions ice hockey team is struggling offensively, prompting calls from their coach for increased intensity and sacrifice. Separately, police are enforcing entry bans for individuals deemed potential troublemakers ahead of a GenZ demonstration in Frankfurt. In regional business news, pharmaceutical company CSL Behring is making a significant investment to expand its production capabilities in Marburg.",
+        "summary_de": "Die Frankfurter Löwen haben Schwierigkeiten in der DEL und erzielen wenig Tore. Trainer Tom Pokel fordert mehr Einsatz. Die Polizei hat vor einer GenZ-Demo Aufenthaltsverbote für bestimmte Personen verhängt. Der Arzneimittelhersteller CSL Behring investiert Millionen in den Ausbau seiner Produktion in Marburg.",
+        "summary_easy": "Die Eishockey-Mannschaft Löwen Frankfurt schießt zu wenige Tore. Der Trainer will, dass die Spieler mehr kämpfen. Die Polizei verbietet einigen Leuten, nach Frankfurt zu kommen. Die Firma CSL Behring baut ihre Fabrik in Marburg größer. Sie gibt dafür viel Geld aus.",
+        "links": [
+          {
+            "title": "Löwen in DEL: „Wir müssen dahin gehen, wo es wehtut“",
+            "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/loewen-frankfurt/loewen-frankfurt-in-del-auf-dem-eis-dorthin-gehen-wo-es-wehtut-accg-201698501.html"
+          },
+          {
+            "title": "Younes darf Frankfurt nicht betreten - Batman-Verbot für GenZ-Demo",
+            "url": "https://www.bild.de/regional/frankfurt/younes-darf-frankfurt-nicht-betreten-batman-verbot-fuer-genz-demo-6afffc4db237b5b41c9a1fd6"
+          }
+        ]
+      }
+    ]
+  },
+  "dresden": [
+    {
+      "price": "350 €",
+      "address": "Cottaer Straße 12, 01159 Dresden",
+      "district": "Cotta",
+      "size": "35 m²",
+      "rooms": "1",
+      "title": "Helle 1-Zimmer-Wohnung mit Balkon in Dresden Cotta",
+      "url": "https://www.immowelt.de/expose/2AK4N4I",
+      "source": "Immowelt.de"
+    },
+    {
+      "price": "375 €",
+      "address": "Gartenstraße 5, 01099 Dresden",
+      "district": "Innere Neustadt",
+      "size": "40 m²",
+      "rooms": "1.5",
+      "title": "Gemütliche 1,5-Zimmer-Wohnung in zentraler Lage",
+      "url": "https://www.immonet.de/angebot/37865977?pid=p_immo_de_search_result_item&immo_type=1&page=1&cityid=5345&rentmax=450&rentmin=0&roomsmax=3&roomsmin=1&sizefrom=25&sizeto=60",
+      "source": "Immonet.de"
+    },
+    {
+      "price": "400 €",
+      "address": "Bismarckstraße 15, 01217 Dresden",
+      "district": "Südvorstadt",
+      "size": "45 m²",
+      "rooms": "2",
+      "title": "Frei ab 01.08. Schöne 2-Zimmer-Wohnung in der Südvorstadt",
+      "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/moebl-2-zi-whg-suedvorstadt-dresden-38qm-400kalt/2797935130-302-4930",
+      "source": "Kleinanzeigen.de"
+    },
+    {
+      "price": "410 €",
+      "address": "Hans-Grundig-Straße 8, 01309 Dresden",
+      "district": "Striesen",
+      "size": "50 m²",
+      "rooms": "2",
+      "title": "Helle 2-Zimmer-Wohnung in Striesen mit Balkon",
+      "url": "https://www.immobilienscout24.de/expose/143403800",
+      "source": "Immoscout24.de"
+    },
+    {
+      "price": "420 €",
+      "address": "Augustusweg 25, 01187 Dresden",
+      "district": "Löbtau",
+      "size": "52 m²",
+      "rooms": "2",
+      "title": "2-Zimmer-Wohnung in ruhiger Lage von Dresden Löbtau",
+      "url": "https://www.vonovia.de/wohnung-suchen/wohnungsdetails?objid=7282752221",
+      "source": "Vonovia.de"
+    },
+    {
+      "price": "440 €",
+      "address": "Wachsmuthstraße 10, 01217 Dresden",
+      "district": "Südvorstadt",
+      "size": "48 m²",
+      "rooms": "2",
+      "title": "Attraktive 2-Zimmer-Wohnung Nähe TU Dresden",
+      "url": "https://www.wg-gesucht.de/wohnung-in-dresden-suedvorstadt.3784679.html",
+      "source": "WG-Gesucht.de"
+    }
+  ]
+}
