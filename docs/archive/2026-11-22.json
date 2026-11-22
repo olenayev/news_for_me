@@ -1,0 +1,464 @@
+{
+  "date": "Sunday, November 22 2026",
+  "sections": [
+    {
+      "category": "Germany",
+      "emoji": "🇩🇪",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Students Worldwide Skip Class for Class Struggle",
+          "headline_de": "Studenten weltweit schwänzen die Schule für den Klassenkampf",
+          "headline_easy": "Studenten gehen nicht zur Schule.",
+          "summary_en": "Students around the world are participating in protests by skipping classes. This movement reflects a growing engagement with societal issues and a desire for change.",
+          "summary_de": "Studenten auf der ganzen Welt nehmen an Protesten teil, indem sie den Unterricht schwänzen. Diese Bewegung spiegelt ein wachsendes Engagement für gesellschaftliche Probleme und den Wunsch nach Veränderung wider.",
+          "summary_easy": "Viele Studenten kämpfen für ihre Rechte. Sie gehen nicht zur Schule. Sie wollen, dass sich Dinge ändern.",
+          "links": [
+            {
+              "title": "Students Around the World Are Skipping Class to Enter Class Struggle",
+              "url": "https://www.nakedcapitalism.com/2026/11/students-around-the-world-are-skipping-class-to-enter-class-struggle.html"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "António Costa Revives EU Digital Tax Proposal Amid Budget Talks",
+          "headline_de": "António Costa belebt EU-Digitalsteuer-Vorschlag inmitten von Haushaltsgesprächen wieder",
+          "headline_easy": "Portugal will eine neue Steuer.",
+          "summary_en": "António Costa has revived the EU's digital tax proposal in an effort to reach an agreement on the budget. This initiative aims to generate revenue and address tax challenges posed by the digital economy.",
+          "summary_de": "António Costa hat den Vorschlag für eine EU-Digitalsteuer wiederbelebt, um eine Einigung über den Haushalt zu erzielen. Diese Initiative zielt darauf ab, Einnahmen zu generieren und die steuerlichen Herausforderungen der digitalen Wirtschaft anzugehen.",
+          "summary_easy": "Portugal will eine Steuer für digitale Firmen. Es geht um Geld für Europa. Politiker reden darüber.",
+          "links": [
+            {
+              "title": "António Costa revives EU digital tax proposal in bid to reach agreement on budget",
+              "url": "https://www.irishtimes.com/ireland/2026/11/21/antonio-costa-revives-eu-digital-tax-proposal-in-bid-to-reach-agreement-on-budget/"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Russian Missiles Land in Poland Amid European Military Drills",
+          "headline_de": "Russische Raketen landen in Polen inmitten europäischer Militärübungen",
+          "headline_easy": "Raketen fliegen nach Polen.",
+          "summary_en": "Russian missiles have reportedly landed in Poland during ongoing European military drills. This incident has raised concerns amidst the current geopolitical climate.",
+          "summary_de": "Berichten zufolge sind russische Raketen während laufender europäischer Militärübungen in Polen eingeschlagen. Dieser Vorfall hat im aktuellen geopolitischen Klima Besorgnis erregt.",
+          "summary_easy": "Raketen sind in Polen gelandet. Das ist gefährlich. Es gab dort Militärübungen.",
+          "links": [
+            {
+              "title": "'Grave Violation': Russian Missiles Land in Poland Amid European Military Drills",
+              "url": "https://www.breitbart.com/europe/2026/11/21/russian-missiles-land-in-poland-amid-european-military-drills/"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Peak AI? Anthropic's Wall Street Disappointment Signals Caution",
+          "headline_de": "KI-Gipfel? Enttäuschung von Anthropic an der Wall Street signalisiert Vorsicht",
+          "headline_easy": "Firmen mit KI sind nicht immer erfolgreich.",
+          "summary_en": "Anthropic's subdued reception on Wall Street suggests that the hype around AI may be reaching a plateau. Investors are becoming more cautious about the profitability and scalability of AI companies.",
+          "summary_de": "Die verhaltene Aufnahme von Anthropic an der Wall Street deutet darauf hin, dass der Hype um KI einen Höhepunkt erreicht haben könnte. Investoren sind vorsichtiger hinsichtlich der Rentabilität und Skalierbarkeit von KI-Unternehmen.",
+          "summary_easy": "Eine Firma namens Anthropic ist nicht so erfolgreich wie erwartet. Investoren sind vorsichtig bei KI-Firmen. Es ist vielleicht nicht mehr alles Gold, was glänzt.",
+          "links": [
+            {
+              "title": "Peak AI? Anthropic’s failure to ignite Wall Street should sound alarm here",
+              "url": "https://www.irishtimes.com/business/2026/11/21/peak-ai-anthropics-failure-to-ignite-wall-street-should-sound-alarm-here/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Europe",
+      "emoji": "🇪🇺",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "DIY Repair Cafés Offer Sustainable Solutions",
+          "headline_de": "DIY-Reparatur-Cafés bieten nachhaltige Lösungen",
+          "headline_easy": "Man kann Dinge reparieren.",
+          "summary_en": "DIY Repair Cafés are gaining popularity across Europe, promoting a culture of repair and sustainability. These community initiatives combat planned obsolescence and reduce waste by fixing gadgets and furniture.",
+          "summary_de": "DIY-Reparatur-Cafés werden in ganz Europa immer beliebter und fördern eine Kultur der Reparatur und Nachhaltigkeit. Diese Gemeinschaftsinitiativen bekämpfen geplante Obsoleszenz und reduzieren Abfall, indem sie Geräte und Möbel reparieren.",
+          "summary_easy": "Leute treffen sich in Cafés. Dort helfen sie sich, Dinge zu reparieren. Das ist gut für die Umwelt.",
+          "links": [
+            {
+              "title": "The Cozy Radicalism of DIY Repair Cafés",
+              "url": "https://www.motherjones.com/environment/2026/11/diy-repair-cafes-gadgets-furniture-how-to-throwaway-culture-planned-obselescence/"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Russian Dissident Advises Europe on Dealing with Putin",
+          "headline_de": "Russischer Dissident rät Europa im Umgang mit Putin",
+          "headline_easy": "Ein Russe gibt Europa Rat.",
+          "summary_en": "A Russian dissident has offered advice to Europe on how to effectively confront Putin. The counsel emphasizes a firm stance and proactive measures in diplomatic and political engagements.",
+          "summary_de": "Ein russischer Dissident hat Europa Ratschläge gegeben, wie man Putin wirksam entgegentreten kann. Der Rat betont eine feste Haltung und proaktive Maßnahmen in diplomatischen und politischen Beziehungen.",
+          "summary_easy": "Ein Russe sagt, wie Europa mit Putin umgehen soll. Man muss stark sein. Man darf nicht nachgeben.",
+          "links": [
+            {
+              "title": "‘You have to slap back’: A Russian dissident’s advice for Europe on dealing with Putin",
+              "url": "https://www.irishtimes.com/world/uk/2026/11/21/you-have-to-slap-back-a-russian-dissidents-advice-for-europe-on-dealing-with-putin/"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Galenica Stock Potentially Undervalued Amid Poland Expansion",
+          "headline_de": "Galenica-Aktie potenziell unterbewertet angesichts der Polen-Expansion",
+          "headline_easy": "Eine Firma kann billiger sein.",
+          "summary_en": "Galenica's stock may be significantly undervalued, with analysis suggesting a potential 48% upside due to its expansion into Poland. This presents a potential investment opportunity.",
+          "summary_de": "Die Aktie von Galenica könnte erheblich unterbewertet sein, wobei Analysen ein potenzielles Aufwärtspotenzial von 48 % aufgrund der Expansion nach Polen nahelegen. Dies stellt eine potenzielle Investitionsmöglichkeit dar.",
+          "summary_easy": "Eine Aktie namens Galenica könnte mehr wert sein. Die Firma wächst in Polen. Das ist gut für die Investoren.",
+          "links": [
+            {
+              "title": "Galenica (SWX:GALE) Stock May Be 48% Undervalued On Its Poland Expansion",
+              "url": "https://biztoc.com/x/c38fecec18b5759e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "US",
+      "emoji": "🇺🇸",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Chicago Artist Transforms Bottle Caps into Self-Portrait",
+          "headline_de": "Chicagoer Künstlerin verwandelt Kronkorken in Selbstporträt",
+          "headline_easy": "Eine Künstlerin macht Kunst aus Müll.",
+          "summary_en": "Chicago artist Mary Ellen Croteau has created an impressive 8x7-foot self-portrait using over 7,000 collected bottle caps. This artwork highlights creativity and resourcefulness in art.",
+          "summary_de": "Die Chicagoer Künstlerin Mary Ellen Croteau hat ein beeindruckendes 8x7-Fuß-Selbstporträt aus über 7.000 gesammelten Kronkorken geschaffen. Dieses Kunstwerk hebt Kreativität und Einfallsreichtum in der Kunst hervor.",
+          "summary_easy": "Eine Künstlerin aus Chicago hat ein Bild von sich gemacht. Sie hat viele Kronkorken benutzt. Das Bild ist sehr groß.",
+          "links": [
+            {
+              "title": "Chicago artist Mary Ellen Croteau collected more than 7,000 bottle caps over two years; she turned them into an 8-by-7-foot self-portrait",
+              "url": "https://timesofindia.indiatimes.com/world/us/chicago-artist-mary-ellen-croteau-collected-more-than-7000-bottle-caps-over-two-years-she-turned-them-into-an-8-by-7-foot-self-portrait/articleshow/136049568.cms"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Mexico Hunts Down FBI's Most-Wanted Drug Lord",
+          "headline_de": "Mexiko jagt meistgesuchten Drogenboss des FBI",
+          "headline_easy": "Mexiko fängt einen Verbrecher.",
+          "summary_en": "Mexico has successfully apprehended an FBI's most-wanted drug lord following a high-intensity operation involving helicopters and explosions. This action marks a significant victory in the fight against international drug trafficking.",
+          "summary_de": "Mexiko hat einen meistgesuchten Drogenboss des FBI nach einer intensiven Operation mit Hubschraubern und Explosionen erfolgreich festgenommen. Diese Aktion stellt einen bedeutenden Sieg im Kampf gegen den internationalen Drogenhandel dar.",
+          "summary_easy": "Mexiko hat einen großen Verbrecher gefangen. Es gab Helikopter und Explosionen. Das ist gut gegen Drogen.",
+          "links": [
+            {
+              "title": "Bullets rain from helicopter, explosions on ground: How Mexico hunted down FBI's most-wanted drug lord; watch",
+              "url": "https://timesofindia.indiatimes.com/world/rest-of-world/bullets-rain-from-helicopter-explosions-on-ground-how-mexico-hunted-down-fbis-most-wanted-drug-lord-watch/articleshow/136052912.cms"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "SK Hynix Shares Dip Amid AI Chip Selloff",
+          "headline_de": "SK Hynix-Aktien fallen inmitten des Verkaufs von KI-Chips",
+          "headline_easy": "Aktien von SK Hynix fallen.",
+          "summary_en": "SK Hynix's stock price has declined significantly, falling below 1.12 million won, amid a broader selloff in AI chip stocks. This trend reflects investor concerns about the current market for artificial intelligence hardware.",
+          "summary_de": "Der Aktienkurs von SK Hynix ist erheblich gefallen, unter 1,12 Millionen Won, inmitten eines breiteren Ausverkaufs von KI-Chip-Aktien. Dieser Trend spiegelt die Bedenken der Anleger hinsichtlich des aktuellen Marktes für künstliche Intelligenz-Hardware wider.",
+          "summary_easy": "Die Aktien von SK Hynix sind gefallen. Viele Aktien für KI-Chips sind gerade nicht gefragt. Investoren sind besorgt.",
+          "links": [
+            {
+              "title": "Is It a Good Time to Buy SK Hynix Stock? Shares Sink Below 1.12 Million Won as AI Chip Rout Slams Seoul",
+              "url": "https://www.ibtimes.com.au/sk-hynix-shares-ai-stock-selloff-1879072"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Asia",
+      "emoji": "🌏",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "New US AI Chip Rules May Impact Southeast Asia's Data Centers",
+          "headline_de": "Neue US-KI-Chip-Regeln könnten Rechenzentren in Südostasien beeinträchtigen",
+          "headline_easy": "Neue Regeln für KI-Chips.",
+          "summary_en": "New US regulations on AI chips are poised to affect data centers in Southeast Asia. These rules could disrupt the region's technological development and data infrastructure.",
+          "summary_de": "Neue US-Vorschriften für KI-Chips werden voraussichtlich Auswirkungen auf Rechenzentren in Südostasien haben. Diese Regeln könnten die technologische Entwicklung und die Dateninfrastruktur der Region stören.",
+          "summary_easy": "Amerika hat neue Regeln für Computerchips gemacht. Das ist schlecht für Firmen in Asien. Ihre Computer könnten langsamer werden.",
+          "links": [
+            {
+              "title": "New US AI chip rules against China threaten Southeast Asia’s data centers",
+              "url": "https://cryptobriefing.com/us-ai-chip-rules-southeast-asia-data-centers/"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Hong Kong Launches Tencent-Backed Bitcoin ETF with Low Entry Point",
+          "headline_de": "Hongkong startet von Tencent unterstützten Bitcoin-ETF mit niedrigem Einstiegspunkt",
+          "headline_easy": "Es gibt einen neuen Bitcoin-Fonds.",
+          "summary_en": "Hong Kong has introduced its sixth Bitcoin ETF, this one backed by a Tencent-affiliated manager. With a low entry point of $100, it aims to make cryptocurrency investment more accessible.",
+          "summary_de": "Hongkong hat seinen sechsten Bitcoin-ETF eingeführt, der von einem mit Tencent verbundenen Manager unterstützt wird. Mit einem niedrigen Einstiegspunkt von 100 US-Dollar zielt er darauf ab, Investitionen in Kryptowährungen zugänglicher zu machen.",
+          "summary_easy": "In Hongkong gibt es einen neuen Fonds für Bitcoin. Man kann schon mit wenig Geld einsteigen. Das macht Krypto für mehr Leute interessant.",
+          "links": [
+            {
+              "title": "Hong Kong Bitcoin ETF No. 6 Comes From a Tencent-Backed Manager, With a $100 Entry",
+              "url": "https://www.dcforecasts.com/bitcoin-news/hong-kong-bitcoin-etf-gaoteng-tencent-hillhouse/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "World",
+      "emoji": "🌍",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "British Sci-Fi Show with Dinosaurs Streams Free",
+          "headline_de": "Britische Sci-Fi-Serie mit Dinosauriern streamt kostenlos",
+          "headline_easy": "Eine Serie mit Dinosauriern ist gratis.",
+          "summary_en": "A British science fiction series featuring dinosaurs terrorizing the modern world is now available for free streaming. The show offers an exciting blend of prehistoric creatures and contemporary settings.",
+          "summary_de": "Eine britische Science-Fiction-Serie, in der Dinosaurier die moderne Welt terrorisieren, ist jetzt kostenlos online verfügbar. Die Show bietet eine aufregende Mischung aus prähistorischen Kreaturen und zeitgenössischen Schauplätzen.",
+          "summary_easy": "Es gibt eine Serie aus England. Darin greifen Dinosaurier Menschen an. Man kann sie jetzt gratis sehen.",
+          "links": [
+            {
+              "title": "This British Sci-Fi Show With Dinosaurs Terrorizing The Modern World Is Streaming For Free",
+              "url": "https://www.bgr.com/2323603/british-sci-fi-show-dinosaurs-modern-world-streaming-free-primeval/"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Barcelona Faces Renewed Probe Over Referee Payments",
+          "headline_de": "Barcelona steht wegen Schiedsrichterzahlungen erneut vor einer Untersuchung",
+          "headline_easy": "FC Barcelona muss sich erklären.",
+          "summary_en": "Joan Laporta, president of FC Barcelona, is renewing calls for an investigation into payments made by the club to a former refereeing chief. This ongoing scandal continues to cast a shadow over the club's operations.",
+          "summary_de": "Joan Laporta, Präsident des FC Barcelona, erneuerte seine Forderungen nach einer Untersuchung der Zahlungen des Vereins an einen ehemaligen Schiedsrichterobmann. Dieser anhaltende Skandal wirft weiterhin einen Schatten auf den Betrieb des Vereins.",
+          "summary_easy": "Der Chef vom FC Barcelona will mehr wissen. Es gab Zahlungen an einen Schiedsrichter. Das ist ein Problem für den Verein.",
+          "links": [
+            {
+              "title": "Pérez renews call for probe into Barcelona’s payments to ex-refereeing chief",
+              "url": "https://punchng.com/perez-renews-call-for-probe-into-barcelonas-payments-to-ex-refereeing-chief/"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Nigeria Backs Infantino for FIFA Re-election",
+          "headline_de": "Nigeria unterstützt Infantino bei Wiederwahl zur FIFA",
+          "headline_easy": "Nigeria unterstützt den FIFA-Chef.",
+          "summary_en": "Nigeria has announced its support for Gianni Infantino's bid for re-election as FIFA president. This endorsement from a major African football nation could influence the outcome of the FIFA presidential race.",
+          "summary_de": "Nigeria hat seine Unterstützung für Gianni Infantinos Kandidatur zur Wiederwahl als FIFA-Präsident angekündigt. Diese Unterstützung eines großen afrikanischen Fußballlandes könnte den Ausgang des FIFA-Präsidentschaftsrennens beeinflussen.",
+          "summary_easy": "Nigeria stimmt für den Chef der FIFA. Das ist Gianni Infantino. Er will nochmal Präsident werden.",
+          "links": [
+            {
+              "title": "Nigeria backs Infantino’s FIFA re-election bid",
+              "url": "https://punchng.com/nigeria-backs-infantinos-fifa-re-election-bid/"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "UK Black Friday Deals: Sony, Nintendo, and More",
+          "headline_de": "UK Black Friday Angebote: Sony, Nintendo und mehr",
+          "headline_easy": "Günstige Angebote in England.",
+          "summary_en": "Ahead of Black Friday, consumers in the UK can look forward to numerous deals on popular items, including Sony headphones, Nintendo Switch 2, Kindles, and more. This sale event promises significant discounts across various electronics and gadgets.",
+          "summary_de": "Im Vorfeld des Black Friday können sich Verbraucher in Großbritannien auf zahlreiche Angebote für beliebte Artikel freuen, darunter Sony-Kopfhörer, Nintendo Switch 2, Kindles und mehr. Dieses Verkaufsereignis verspricht erhebliche Rabatte auf verschiedene Elektronikgeräte und Gadgets.",
+          "summary_easy": "In England gibt es viele Angebote für Black Friday. Man kann Produkte von Sony und Nintendo billiger kaufen. Es gibt auch Bücher und Staubsauger im Angebot.",
+          "links": [
+            {
+              "title": "90+ best Black Friday deals in the UK — Sony headphones, Switch 2, Kindles, Shark vacuums, Lego, Samsung, and more",
+              "url": "https://www.techradar.com/live/news/black-friday-deals-uk-2026-november-21"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "bundestag": {
+    "wahlperiode": 21,
+    "sitzung": 109,
+    "url": "https://dserver.bundestag.de/btp/21/21109.pdf",
+    "summary_en": "On Friday, November 13, 2026, the German Bundestag convened for its 109th session of the 21st legislative period. The primary agenda item was the second and third reading of the government's draft law to reform intelligence service law. Several MPs debated this crucial legislation. Alexander Throm (CDU/CSU) and Dr. Christian Wirth (AfD) spoke early in the discussion, followed by Sonja Eichwede (SPD) and Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN). Clara Bünger (Die Linke) also contributed to the debate. Bundesminister BMI Alexander Dobrindt addressed the assembly regarding the bill. The session also included a debate on a Left Party motion for a nationwide rent cap, with contributions from Caren Lay (Die Linke), Janine Wissler (Die Linke), and Nina Warken, Federal Minister for Special Tasks. Additionally, the Bundestag discussed the continuation of Germany's participation in the NATO-led maritime security operation SEA GUARDIAN, with statements from Jürgen Hardt (CDU/CSU), Kurt Kleinschmidt (AfD), and Aydan Özoğuz (SPD). A second reading and final vote took place on a partnership agreement between the EU and Mercosur countries. The session also saw motions and debates on other agenda items, including one related to parliamentary procedure. Several roll-call votes and their results were recorded throughout the session.",
+    "summary_de": "Am Freitag, den 13. November 2026, trat der Deutsche Bundestag zur 109. Sitzung der 21. Wahlperiode zusammen. Der Hauptpunkt der Tagesordnung war die zweite und dritte Beratung des Gesetzentwurfs der Bundesregierung zur Reform des Nachrichtendienstrechts. Mehrere Abgeordnete debattierten dieses wichtige Gesetz. Alexander Throm (CDU/CSU) und Dr. Christian Wirth (AfD) sprachen früh in der Debatte, gefolgt von Sonja Eichwede (SPD) und Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN). Clara Bünger (Die Linke) beteiligte sich ebenfalls an der Aussprache. Bundesminister BMI Alexander Dobrindt sprach zur Parlamentschaft. Die Sitzung beinhaltete auch eine Debatte über einen Antrag der Linken für einen bundesweiten Mietendeckel, mit Beiträgen von Caren Lay (Die Linke), Janine Wissler (Die Linke) und Nina Warken, Bundesministerin für besondere Aufgaben. Des Weiteren wurde die Fortsetzung der Beteiligung deutscher Streitkräfte an der NATO-geführten maritimen Sicherheitsoperation SEA GUARDIAN diskutiert, mit Erklärungen von Jürgen Hardt (CDU/CSU), Kurt Kleinschmidt (AfD) und Aydan Özoğuz (SPD). Eine zweite Beratung und Schlussabstimmung fand zu einem Partnerschaftsabkommen zwischen der EU und den Mercosur-Staaten statt. Im Verlauf der Sitzung wurden auch Anträge und Debatten zu weiteren Tagesordnungspunkten geführt, darunter einer zur Geschäftsordnung. Mehrere namentliche Abstimmungen und deren Ergebnisse wurden protokolliert.",
+    "summary_easy": "Am Freitag, dem 13. November 2026, gab es eine Sitzung im Bundestag. Die Abgeordneten sprachen über viele wichtige Themen. Ein Hauptthema war ein neues Gesetz für Geheimdienste. Viele Politiker sagten ihre Meinung dazu. Alexander Throm und Christian Wirth sprachen zuerst. Dann sprachen Sonja Eichwede und Konstantin von Notz. Auch Clara Bünger und Alexander Dobrindt sprachen. Die Politiker diskutierten auch über Mietpreise. Die Partei Die Linke will eine Mietpreisbremse. Caren Lay und Janine Wissler von dieser Partei sprachen. Nina Warken, eine Ministerin, sprach auch. Die Bundeswehr hilft auch auf dem Meer bei einer NATO-Mission. Jürgen Hardt, Kurt Kleinschmidt und Aydan Özoğuz sprachen darüber. Es gab auch ein Abkommen mit Südamerika. Die Abgeordneten stimmten über viele Dinge ab.",
+    "ukrainian_men": "Kein Thema in dieser Sitzung."
+  },
+  "facts": [
+    {
+      "fact_en": "During the Renaissance, sumptuary laws in Italy dictated what colors and fabrics people of different social classes could wear. For example, only nobility could wear expensive purple dyes derived from murex shells, while commoners were restricted to earthier, less vibrant colors.",
+      "fact_de": "Während der Renaissance schrieben in Italien Kleiderordnungen vor, welche Farben und Stoffe Menschen verschiedener sozialer Schichten tragen durften. Zum Beispiel durften nur Adlige teure lila Farbstoffe aus Purpurschnecken tragen, während einfache Leute auf erdige, weniger leuchtende Farben beschränkt waren.",
+      "fact_easy": "In der Renaissance gab es in Italien Regeln. Diese Regeln sagten, welche Kleidung Leute tragen durften. Nur reiche Leute durften teure Farben tragen. Einfache Leute mussten einfache Farben tragen.",
+      "category": "Fashion",
+      "source_title": "Sumptuary laws - Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Sumptuary_law"
+    },
+    {
+      "fact_en": "The tradition of giving gifts on New Year's Day has roots in ancient Roman practices. The Romans exchanged gifts, known as 'strenae', which were often fig branches or honey cakes, to wish each other good fortune and a sweet new year.",
+      "fact_de": "Die Tradition, am Neujahrstag Geschenke zu machen, hat Wurzeln in alten römischen Bräuchen. Die Römer tauschten Geschenke aus, bekannt als 'strenae', oft Feigenzweige oder Honigkuchen, um sich gegenseitig Glück und ein süßes neues Jahr zu wünschen.",
+      "fact_easy": "Leute schenken sich am Neujahrstag Geschenke. Das kommt von den alten Römern. Die Römer gaben auch Geschenke. Sie nannten sie 'strenae'. Sie wünschten sich Glück für das neue Jahr.",
+      "category": "Traditions",
+      "source_title": "New Year's Day - Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/New_Year%27s_Day#Traditions"
+    }
+  ],
+  "frankfurt": {
+    "topics": [
+      {
+        "type": "Events",
+        "emoji": "🎪",
+        "headline_en": "Uniklinik Frankfurt to Save Millions Through Cost-Cutting Measures",
+        "headline_de": "Uniklinik Frankfurt spart Millionen durch Sparmaßnahmen",
+        "headline_easy": "Uniklinik Frankfurt will Geld sparen.",
+        "summary_en": "The supervisory board of Uniklinik Frankfurt has approved a comprehensive economic restructuring plan aiming to save 65 million Euros. As part of these measures, several hospital wards will be relocated from the Schiffer campus to the main Uniklinik site.",
+        "summary_de": "Der Aufsichtsrat der Uniklinik Frankfurt hat einer umfassenden wirtschaftlichen Sanierung zugestimmt, die 65 Millionen Euro einsparen soll. Im Rahmen dieser Maßnahmen werden mehrere Stationen vom Schiffer-Campus in die Uniklinik umziehen müssen.",
+        "summary_easy": "Die Uniklinik Frankfurt muss 65 Millionen Euro sparen. Einige Stationen ziehen um. Das ist gut für das Geld der Klinik.",
+        "links": [
+          {
+            "title": "Uniklinik Frankfurt muss 65 Millionen Euro einsparen: So soll es gehen",
+            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/uniklinik-frankfurt-muss-65-millionen-euro-einsparen-so-soll-es-gehen-accg-201702296.html"
+          },
+          {
+            "title": "Wieder Weihnachtsmarkt-Zoff - Lumumba-Streit jetzt auch um Ersatznamen",
+            "url": "https://www.bild.de/news/inland/lumumba-streit-geht-in-die-naechste-runde-problem-auf-weihnachtsmaerkten-6b0160d339a3e8110f0e50cb"
+          }
+        ]
+      },
+      {
+        "type": "Crime",
+        "emoji": "🚔",
+        "headline_en": "Hessian Minister-President Calls for Stricter Immigration and Deportation Policies Post-Frankfurt Riots",
+        "headline_de": "Rhein fordert nach Frankfurter Krawallen strengere Einwanderungs- und Abschieberegeln",
+        "headline_easy": "Hessen will strengere Regeln für Einwanderung und Abschiebung.",
+        "summary_en": "Following the recent riots in Frankfurt, Hessian Minister-President Boris Rhein is calling for stricter naturalization rules and advocating for increased police controls. He emphasizes the need for integration alongside immigration.",
+        "summary_de": "Nach den jüngsten Krawallen in Frankfurt fordert Hessens Ministerpräsident Boris Rhein schärfere Einbürgerungsregeln und verteidigt verstärkte Polizeikontrollen. Er betont die Notwendigkeit von Integration bei gleichzeitiger Zuwanderung.",
+        "summary_easy": "Hessens Chef Boris Rhein spricht über die Ausschreitungen in Frankfurt. Er will, dass Einwanderung besser mit Integration verbunden ist. Er fordert auch mehr Polizei.",
+        "links": [
+          {
+            "title": "„Migration ohne Integration“ – Rhein fordert Abschiebungen nach den Frankfurter Krawallen",
+            "url": "https://www.welt.de/politik/deutschland/article6b015fed39a3e8110f0e50aa/hessen-migration-ohne-integration-rhein-fordert-abschiebungen-nach-den-frankfurter-krawallen.html"
+          },
+          {
+            "title": "Machtkampf in der SPD: Ein Offenbacher als Hoffnungsträger der Genossen",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/aufstand-in-der-spd-was-koennte-felix-schwenke-besser-machen-accg-201694554.html"
+          }
+        ]
+      },
+      {
+        "type": "Sales & Offers",
+        "emoji": "🛍️",
+        "headline_en": "SPD Faces Internal Strife Over Potential Leadership Candidate Felix Schwenke",
+        "headline_de": "Machtkampf in der SPD um Offenbacher Oberbürgermeister",
+        "headline_easy": "Die SPD hat Streit um einen neuen Chef.",
+        "summary_en": "A significant faction within the Hessian SPD is pushing for Offenbach's Mayor Felix Schwenke to lead the party into the state elections. This move, however, risks causing significant internal division.",
+        "summary_de": "Eine große Gruppe hessischer Sozialdemokraten möchte eine personelle Veränderung und favorisiert den Offenbacher Oberbürgermeister Felix Schwenke als Spitzenkandidaten für die Landtagswahl. Dieser Vorstoß birgt jedoch das Risiko einer Zerreißprobe innerhalb der Partei.",
+        "summary_easy": "Viele Leute in der SPD wollen Felix Schwenke als neuen Chef. Er ist Oberbürgermeister in Offenbach. Das könnte aber Streit in der Partei machen.",
+        "links": [
+          {
+            "title": "Machtkampf in der SPD: Ein Offenbacher als Hoffnungsträger der Genossen",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/aufstand-in-der-spd-was-koennte-felix-schwenke-besser-machen-accg-201694554.html"
+          },
+          {
+            "title": "„Migration ohne Integration“ – Rhein fordert Abschiebungen nach den Frankfurter Krawallen",
+            "url": "https://www.welt.de/politik/deutschland/article6b015fed39a3e8110f0e50aa/hessen-migration-ohne-integration-rhein-fordert-abschiebungen-nach-den-frankfurter-krawallen.html"
+          }
+        ]
+      },
+      {
+        "type": "Local News",
+        "emoji": "📍",
+        "headline_en": "Frankfurt Riots Spark Debate on Immigration and Integration; SPD Faces Leadership Challenge",
+        "headline_de": "Nach Krawallen in Frankfurt: Debatte um Integration und SPD-Führungskrise",
+        "headline_easy": "Frankfurt: Debatte über Integration und Krise in der SPD.",
+        "summary_en": "Following recent unrest in Frankfurt, Hessian Minister-President Boris Rhein is advocating for stricter immigration policies and increased police presence. Meanwhile, the SPD is experiencing internal conflict over a potential leadership challenge, with a faction backing Offenbach Mayor Felix Schwenke.",
+        "summary_de": "Im Nachgang der jüngsten Ausschreitungen in Frankfurt spricht sich Hessens Ministerpräsident Boris Rhein für eine strengere Migrationspolitik und mehr Polizeikontrollen aus. Parallel dazu gibt es in der SPD eine parteiinterne Auseinandersetzung um eine mögliche neue Führung, wobei der Offenbacher Oberbürgermeister Felix Schwenke von einer Gruppe unterstützt wird.",
+        "summary_easy": "Nach Unruhen in Frankfurt fordert Boris Rhein strengere Regeln für Zuwanderer. In der SPD gibt es Streit um einen neuen Chef. Viele wollen Felix Schwenke, den Chef von Offenbach.",
+        "links": [
+          {
+            "title": "„Migration ohne Integration“ – Rhein fordert Abschiebungen nach den Frankfurter Krawallen",
+            "url": "https://www.welt.de/politik/deutschland/article6b015fed39a3e8110f0e50aa/hessen-migration-ohne-integration-rhein-fordert-abschiebungen-nach-den-frankfurter-krawallen.html"
+          },
+          {
+            "title": "Machtkampf in der SPD: Ein Offenbacher als Hoffnungsträger der Genossen",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/aufstand-in-der-spd-was-koennte-felix-schwenke-besser-machen-accg-201694554.html"
+          }
+        ]
+      }
+    ]
+  },
+  "dresden": [
+    {
+      "price": "320 €",
+      "address": "Pillnitzer Str. 1, 01097 Dresden",
+      "district": "Neustadt",
+      "size": "30 m²",
+      "rooms": "1",
+      "title": "Charmante 1-Zimmer-Wohnung in zentraler Lage",
+      "url": "https://www.immobilienscout24.de/expose/145288758",
+      "source": "Immoscout24.de"
+    },
+    {
+      "price": "350 €",
+      "address": "Schandauer Str. 38, 01277 Dresden",
+      "district": "Seidnitz",
+      "size": "45 m²",
+      "rooms": "2",
+      "title": "Helle 2-Zimmer-Wohnung mit Balkon",
+      "url": "https://www.immowelt.de/expose/2AGM45S",
+      "source": "Immowelt.de"
+    },
+    {
+      "price": "380 €",
+      "address": "Fetscherstraße 45, 01307 Dresden",
+      "district": "Johannstadt",
+      "size": "35 m²",
+      "rooms": "1.5",
+      "title": "Stilvolle 1.5-Zimmer-Wohnung in ruhiger Lage",
+      "url": "https://www.vonovia.de/wohnen/wohnung-finden/dresden/wohnung-fetscherstrasse-45-1307-dresden-VD308000000001242337",
+      "source": "Vonovia.de"
+    },
+    {
+      "price": "400 €",
+      "address": "Garnisonstraße 21, 01099 Dresden",
+      "district": "Neustadt",
+      "size": "40 m²",
+      "rooms": "1.5",
+      "title": "Gemütliche 1.5-Zimmer-Wohnung in lebendigem Viertel",
+      "url": "https://www.wg-gesucht.de/6188846",
+      "source": "WG-Gesucht.de"
+    },
+    {
+      "price": "420 €",
+      "address": "Bannewitzer Str. 8, 01159 Dresden",
+      "district": "Naußlitz",
+      "size": "50 m²",
+      "rooms": "2",
+      "title": "Geräumige 2-Zimmer-Wohnung mit guter Anbindung",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-in-dresden-nau__litz-kaltmiete-420-euro-/2741798878-209-7603",
+      "source": "Kleinanzeigen.de"
+    },
+    {
+      "price": "440 €",
+      "address": "Tolkewitzer Str. 65, 01277 Dresden",
+      "district": "Seidnitz",
+      "size": "48 m²",
+      "rooms": "2",
+      "title": "Sonnige 2-Zimmer-Wohnung mit Balkon in ruhiger Lage",
+      "url": "https://www.wohnungsboerse.net/wohnung-dresden-seidnitz/2-zimmer-48m2-kaltmiete-440eur/17208990",
+      "source": "Wohnungsboerse.net"
+    }
+  ]
+}

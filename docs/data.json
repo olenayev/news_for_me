@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, November 21 2026",
+  "date": "Sunday, November 22 2026",
   "sections": [
     {
       "category": "Germany",
@@ -8,40 +8,64 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Nations League draw sets up rematch between Spain and France; Germany faces Belgium.",
-          "headline_de": "Auslosung der Nations League: Spanien und Frankreich treffen erneut aufeinander, Deutschland spielt gegen Belgien.",
-          "headline_easy": "In der Nations League spielen Spanien und Frankreich wieder gegeneinander. Deutschland spielt gegen Belgien.",
-          "summary_en": "The draw for the Nations League has set up exciting rematches, including a World Cup final rematch between Spain and France. Germany is scheduled to face Belgium in the quarter-finals.",
-          "summary_de": "Die Auslosung für die Nations League hat spannende Wiederholungen gebracht, darunter eine Wiederholung des WM-Finals zwischen Spanien und Frankreich. Deutschland trifft im Viertelfinale auf Belgien.",
-          "summary_easy": "Die Auslosung für die Nations League ist da. Spanien und Frankreich spielen wieder gegeneinander. Das ist wie bei der Weltmeisterschaft. Deutschland spielt gegen Belgien.",
+          "headline_en": "Students Worldwide Skip Class for Class Struggle",
+          "headline_de": "Studenten weltweit schwänzen die Schule für den Klassenkampf",
+          "headline_easy": "Studenten gehen nicht zur Schule.",
+          "summary_en": "Students around the world are participating in protests by skipping classes. This movement reflects a growing engagement with societal issues and a desire for change.",
+          "summary_de": "Studenten auf der ganzen Welt nehmen an Protesten teil, indem sie den Unterricht schwänzen. Diese Bewegung spiegelt ein wachsendes Engagement für gesellschaftliche Probleme und den Wunsch nach Veränderung wider.",
+          "summary_easy": "Viele Studenten kämpfen für ihre Rechte. Sie gehen nicht zur Schule. Sie wollen, dass sich Dinge ändern.",
           "links": [
             {
-              "title": "Nations League draw offers up World Cup rematches between Spain-France and England-Norway",
-              "url": "https://sports.yahoo.com/articles/nations-league-draw-offers-world-115141843.html"
-            },
+              "title": "Students Around the World Are Skipping Class to Enter Class Struggle",
+              "url": "https://www.nakedcapitalism.com/2026/11/students-around-the-world-are-skipping-class-to-enter-class-struggle.html"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "António Costa Revives EU Digital Tax Proposal Amid Budget Talks",
+          "headline_de": "António Costa belebt EU-Digitalsteuer-Vorschlag inmitten von Haushaltsgesprächen wieder",
+          "headline_easy": "Portugal will eine neue Steuer.",
+          "summary_en": "António Costa has revived the EU's digital tax proposal in an effort to reach an agreement on the budget. This initiative aims to generate revenue and address tax challenges posed by the digital economy.",
+          "summary_de": "António Costa hat den Vorschlag für eine EU-Digitalsteuer wiederbelebt, um eine Einigung über den Haushalt zu erzielen. Diese Initiative zielt darauf ab, Einnahmen zu generieren und die steuerlichen Herausforderungen der digitalen Wirtschaft anzugehen.",
+          "summary_easy": "Portugal will eine Steuer für digitale Firmen. Es geht um Geld für Europa. Politiker reden darüber.",
+          "links": [
             {
-              "title": "Nations League Draw: Kane and Haaland go head-to-head while France get world champions Spain",
-              "url": "https://www.101greatgoals.com/football/internationals/nations-league-draw-kane-and-haaland-go-head-to-head-while-france-get-world-champions-spain/"
+              "title": "António Costa revives EU digital tax proposal in bid to reach agreement on budget",
+              "url": "https://www.irishtimes.com/ireland/2026/11/21/antonio-costa-revives-eu-digital-tax-proposal-in-bid-to-reach-agreement-on-budget/"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Russian Missiles Land in Poland Amid European Military Drills",
+          "headline_de": "Russische Raketen landen in Polen inmitten europäischer Militärübungen",
+          "headline_easy": "Raketen fliegen nach Polen.",
+          "summary_en": "Russian missiles have reportedly landed in Poland during ongoing European military drills. This incident has raised concerns amidst the current geopolitical climate.",
+          "summary_de": "Berichten zufolge sind russische Raketen während laufender europäischer Militärübungen in Polen eingeschlagen. Dieser Vorfall hat im aktuellen geopolitischen Klima Besorgnis erregt.",
+          "summary_easy": "Raketen sind in Polen gelandet. Das ist gefährlich. Es gab dort Militärübungen.",
+          "links": [
+            {
+              "title": "'Grave Violation': Russian Missiles Land in Poland Amid European Military Drills",
+              "url": "https://www.breitbart.com/europe/2026/11/21/russian-missiles-land-in-poland-amid-european-military-drills/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Ireland faces Croatia in Nations League play-off; Americans stockpile for potential power outages; Bayern Munich transfer rumors.",
-          "headline_de": "Irland trifft im Nations League Play-off auf Kroatien; Amerikaner legen Vorräte für Stromausfälle an; Bayern München Transfergerüchte.",
-          "headline_easy": "Irland spielt gegen Kroatien. Manche Amerikaner kaufen viele Sachen für den Notfall. Es gibt Gerüchte über Bayern München.",
-          "summary_en": "In sports news, Ireland will play Croatia in a Nations League promotion play-off. Separately, there are reports of Americans stockpiling supplies due to concerns about potential power outages, and transfer rumors are circulating around Bayern Munich.",
-          "summary_de": "In den Sportnachrichten spielt Irland gegen Kroatien in einem Nations-League-Play-off um den Aufstieg. Separat gibt es Berichte über Amerikaner, die sich wegen möglicher Stromausfälle mit Vorräten eindecken, und Transfergerüchte um Bayern München.",
-          "summary_easy": "Es gibt Sportnachrichten: Irland spielt gegen Kroatien. Manche Amerikaner kaufen viel Essen und andere Sachen. Sie haben Angst vor einem Stromausfall. Es gibt auch Gerüchte über den Fußballverein Bayern München.",
+          "headline_en": "Peak AI? Anthropic's Wall Street Disappointment Signals Caution",
+          "headline_de": "KI-Gipfel? Enttäuschung von Anthropic an der Wall Street signalisiert Vorsicht",
+          "headline_easy": "Firmen mit KI sind nicht immer erfolgreich.",
+          "summary_en": "Anthropic's subdued reception on Wall Street suggests that the hype around AI may be reaching a plateau. Investors are becoming more cautious about the profitability and scalability of AI companies.",
+          "summary_de": "Die verhaltene Aufnahme von Anthropic an der Wall Street deutet darauf hin, dass der Hype um KI einen Höhepunkt erreicht haben könnte. Investoren sind vorsichtiger hinsichtlich der Rentabilität und Skalierbarkeit von KI-Unternehmen.",
+          "summary_easy": "Eine Firma namens Anthropic ist nicht so erfolgreich wie erwartet. Investoren sind vorsichtig bei KI-Firmen. Es ist vielleicht nicht mehr alles Gold, was glänzt.",
           "links": [
             {
-              "title": "Ireland drawn to face Croatia in two-legged Nations League promotion play-off",
-              "url": "https://www.the42.ie/ireland-nations-league-play-off-draw-7232201-Nov2026/"
-            },
-            {
-              "title": "Why some Americans are stockpiling for a 90-day power outage",
-              "url": "https://www.cbc.ca/news/world/us-90-day-grid-outage-doomsday-prepping-stockpiling-9.7428489"
+              "title": "Peak AI? Anthropic’s failure to ignite Wall Street should sound alarm here",
+              "url": "https://www.irishtimes.com/business/2026/11/21/peak-ai-anthropics-failure-to-ignite-wall-street-should-sound-alarm-here/"
             }
           ]
         }
@@ -54,40 +78,48 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Links covering various topics including technology and business.",
-          "headline_de": "Links zu verschiedenen Themen wie Technologie und Wirtschaft.",
-          "headline_easy": "Links zu vielen Themen. Es geht um Technik und Wirtschaft.",
-          "summary_en": "This collection of links covers diverse topics including technological advancements and business news. It also includes information about an internship opportunity.",
-          "summary_de": "Diese Sammlung von Links behandelt verschiedene Themen, darunter technologische Fortschritte und Wirtschaftsnachrichten. Sie enthält auch Informationen zu einer Praktikumsmöglichkeit.",
-          "summary_easy": "Diese Links handeln von Technik und Wirtschaft. Es gibt auch Informationen für ein Praktikum.",
+          "headline_en": "DIY Repair Cafés Offer Sustainable Solutions",
+          "headline_de": "DIY-Reparatur-Cafés bieten nachhaltige Lösungen",
+          "headline_easy": "Man kann Dinge reparieren.",
+          "summary_en": "DIY Repair Cafés are gaining popularity across Europe, promoting a culture of repair and sustainability. These community initiatives combat planned obsolescence and reduce waste by fixing gadgets and furniture.",
+          "summary_de": "DIY-Reparatur-Cafés werden in ganz Europa immer beliebter und fördern eine Kultur der Reparatur und Nachhaltigkeit. Diese Gemeinschaftsinitiativen bekämpfen geplante Obsoleszenz und reduzieren Abfall, indem sie Geräte und Möbel reparieren.",
+          "summary_easy": "Leute treffen sich in Cafés. Dort helfen sie sich, Dinge zu reparieren. Das ist gut für die Umwelt.",
           "links": [
             {
-              "title": "Links 11/20/2026",
-              "url": "https://www.nakedcapitalism.com/2026/11/links-11-20-2026.html"
-            },
+              "title": "The Cozy Radicalism of DIY Repair Cafés",
+              "url": "https://www.motherjones.com/environment/2026/11/diy-repair-cafes-gadgets-furniture-how-to-throwaway-culture-planned-obselescence/"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Russian Dissident Advises Europe on Dealing with Putin",
+          "headline_de": "Russischer Dissident rät Europa im Umgang mit Putin",
+          "headline_easy": "Ein Russe gibt Europa Rat.",
+          "summary_en": "A Russian dissident has offered advice to Europe on how to effectively confront Putin. The counsel emphasizes a firm stance and proactive measures in diplomatic and political engagements.",
+          "summary_de": "Ein russischer Dissident hat Europa Ratschläge gegeben, wie man Putin wirksam entgegentreten kann. Der Rat betont eine feste Haltung und proaktive Maßnahmen in diplomatischen und politischen Beziehungen.",
+          "summary_easy": "Ein Russe sagt, wie Europa mit Putin umgehen soll. Man muss stark sein. Man darf nicht nachgeben.",
+          "links": [
             {
-              "title": "HYS Enterprise Internship — Technical Support Engineer, 04 December",
-              "url": "https://dou.ua/calendar/58786/"
+              "title": "‘You have to slap back’: A Russian dissident’s advice for Europe on dealing with Putin",
+              "url": "https://www.irishtimes.com/world/uk/2026/11/21/you-have-to-slap-back-a-russian-dissidents-advice-for-europe-on-dealing-with-putin/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Intuit to sell Mailchimp; AI adoption rates among executives.",
-          "headline_de": "Intuit verkauft Mailchimp; KI-Nutzungsraten bei Führungskräften.",
-          "headline_easy": "Firma verkauft Mailchimp. Viele Chefs denken, sie nutzen KI, aber das stimmt nicht immer.",
-          "summary_en": "Intuit is selling Mailchimp for a significant sum as it refocuses its growth strategy, particularly concerning AI. Another report highlights a gap between executives' perception of AI leadership and actual implementation.",
-          "summary_de": "Intuit verkauft Mailchimp für eine beträchtliche Summe, da das Unternehmen seine Wachstumsstrategie neu ausrichtet, insbesondere im Hinblick auf KI. Ein weiterer Bericht hebt eine Lücke zwischen der Wahrnehmung von KI-Führungsqualitäten durch Führungskräfte und der tatsächlichen Umsetzung hervor.",
-          "summary_easy": "Eine Firma verkauft Mailchimp für viel Geld. Sie wollen mehr mit KI machen. Viele Chefs sagen, sie nutzen KI, aber das stimmt oft nicht. Nur wenige Firmen nutzen KI wirklich gut.",
+          "headline_en": "Galenica Stock Potentially Undervalued Amid Poland Expansion",
+          "headline_de": "Galenica-Aktie potenziell unterbewertet angesichts der Polen-Expansion",
+          "headline_easy": "Eine Firma kann billiger sein.",
+          "summary_en": "Galenica's stock may be significantly undervalued, with analysis suggesting a potential 48% upside due to its expansion into Poland. This presents a potential investment opportunity.",
+          "summary_de": "Die Aktie von Galenica könnte erheblich unterbewertet sein, wobei Analysen ein potenzielles Aufwärtspotenzial von 48 % aufgrund der Expansion nach Polen nahelegen. Dies stellt eine potenzielle Investitionsmöglichkeit dar.",
+          "summary_easy": "Eine Aktie namens Galenica könnte mehr wert sein. Die Firma wächst in Polen. Das ist gut für die Investoren.",
           "links": [
             {
-              "title": "Intuit moves to sell Mailchimp for $3.68 billion as AI reshapes its growth strategy",
-              "url": "https://fortune.com/2026/11/20/intuit-sell-mailchimp-3-68-billion-ai-reshapes-growth-strategy-cfo/"
-            },
-            {
-              "title": "Collective[i] cofounder: 76% of executives think their companies are AI leaders. Only 10% are",
-              "url": "https://fortune.com/2026/11/20/ai-adoption-k-shaped-leaders-anthropic-ipo-stephen-messer/"
+              "title": "Galenica (SWX:GALE) Stock May Be 48% Undervalued On Its Poland Expansion",
+              "url": "https://biztoc.com/x/c38fecec18b5759e"
             }
           ]
         }
@@ -100,96 +132,48 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Russia attacks Ukraine; cybersecurity director replaced; review of hiring software.",
-          "headline_de": "Russland greift die Ukraine an; Nationaler Cybersicherheitsdirektor ersetzt; Überprüfung von Einstellungsprogrammen.",
-          "headline_easy": "Russland greift die Ukraine an. Ein wichtiger Mann für Computer-Sicherheit ist weg. Es gibt eine Bewertung von Software für Firmen.",
-          "summary_en": "Russia has attacked Ukraine, with significant casualties reported. In US government news, the National Cyber Director has been replaced. A review of hiring software, Bryq, is also featured.",
-          "summary_de": "Russland hat die Ukraine angegriffen, mit Berichten über erhebliche Opfer. In den Nachrichten der US-Regierung wurde der Nationale Cybersicherheitsdirektor ersetzt. Eine Überprüfung der Einstellungsprogramm-Software Bryq wird ebenfalls vorgestellt.",
-          "summary_easy": "Russland greift die Ukraine an und viele Menschen sterben oder werden verletzt. In den USA gibt es eine neue Person für Computersicherheit. Es gibt auch einen Test für eine Software, die Firmen zum Einstellen von Leuten benutzen.",
+          "headline_en": "Chicago Artist Transforms Bottle Caps into Self-Portrait",
+          "headline_de": "Chicagoer Künstlerin verwandelt Kronkorken in Selbstporträt",
+          "headline_easy": "Eine Künstlerin macht Kunst aus Müll.",
+          "summary_en": "Chicago artist Mary Ellen Croteau has created an impressive 8x7-foot self-portrait using over 7,000 collected bottle caps. This artwork highlights creativity and resourcefulness in art.",
+          "summary_de": "Die Chicagoer Künstlerin Mary Ellen Croteau hat ein beeindruckendes 8x7-Fuß-Selbstporträt aus über 7.000 gesammelten Kronkorken geschaffen. Dieses Kunstwerk hebt Kreativität und Einfallsreichtum in der Kunst hervor.",
+          "summary_easy": "Eine Künstlerin aus Chicago hat ein Bild von sich gemacht. Sie hat viele Kronkorken benutzt. Das Bild ist sehr groß.",
           "links": [
             {
-              "title": "Russia pummels Ukraine after Putin vowed revenge, killing eight",
-              "url": "https://www.abc.net.au/news/2026-11-20/ukraine-russia-crimea-strikes-bridge-kyiv-power-outage-poland/107411538"
-            },
-            {
-              "title": "Bryq Review 2026: Pricing, Pros & Cons",
-              "url": "https://leadchangegroup.com/software/bryq/"
+              "title": "Chicago artist Mary Ellen Croteau collected more than 7,000 bottle caps over two years; she turned them into an 8-by-7-foot self-portrait",
+              "url": "https://timesofindia.indiatimes.com/world/us/chicago-artist-mary-ellen-croteau-collected-more-than-7000-bottle-caps-over-two-years-she-turned-them-into-an-8-by-7-foot-self-portrait/articleshow/136049568.cms"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Unusual travel accommodations; weight loss claims debunked; Iran's opposition strategies.",
-          "headline_de": "Ungewöhnliche Reiseunterkünfte; Diät-Behauptungen widerlegt; Strategien der iranischen Opposition.",
-          "headline_easy": "Man kann in einem Zelt am Fluss übernachten. Ein Trick mit Salz hilft nicht beim Abnehmen. Was die Gegner des Irans machen.",
-          "summary_en": "This selection includes a unique glamping experience in Oregon reachable only by raft, a fact-check on a popular weight loss 'pink salt trick,' and an analysis of the strategic options available to Iran's opposition.",
-          "summary_de": "Diese Auswahl umfasst ein einzigartiges Glamping-Erlebnis in Oregon, das nur mit dem Floß erreichbar ist, eine Überprüfung eines beliebten Diät-Tricks mit 'rosa Salz' und eine Analyse der strategischen Optionen der iranischen Opposition.",
-          "summary_easy": "Es gibt einen besonderen Ort zum Übernachten in Oregon. Man muss mit einem Floß hinfahren. Ein Tipp über Salz zum Abnehmen stimmt nicht. Ein Artikel erklärt, was die Leute machen, die gegen die Regierung im Iran sind.",
+          "headline_en": "Mexico Hunts Down FBI's Most-Wanted Drug Lord",
+          "headline_de": "Mexiko jagt meistgesuchten Drogenboss des FBI",
+          "headline_easy": "Mexiko fängt einen Verbrecher.",
+          "summary_en": "Mexico has successfully apprehended an FBI's most-wanted drug lord following a high-intensity operation involving helicopters and explosions. This action marks a significant victory in the fight against international drug trafficking.",
+          "summary_de": "Mexiko hat einen meistgesuchten Drogenboss des FBI nach einer intensiven Operation mit Hubschraubern und Explosionen erfolgreich festgenommen. Diese Aktion stellt einen bedeutenden Sieg im Kampf gegen den internationalen Drogenhandel dar.",
+          "summary_easy": "Mexiko hat einen großen Verbrecher gefangen. Es gab Helikopter und Explosionen. Das ist gut gegen Drogen.",
           "links": [
             {
-              "title": "Upper Klamath Bush Camp: Safari Tent Glamping You Can Only Reach by Raft",
-              "url": "https://tinyhousetalk.com/upper-klamath-bush-camp-rafting-safari-glamping-oregon/"
-            },
-            {
-              "title": "Can the 'pink salt trick' help with weight loss?",
-              "url": "https://www.snopes.com/fact-check/pink-salt-weight-loss-trick/"
-            }
-          ]
-        },
-        {
-          "type": "War",
-          "emoji": "⚔️",
-          "headline_en": "Gaming hardware available; faculty support for activists; unique travel options.",
-          "headline_de": "Gaming-Hardware verfügbar; Fakultätsunterstützung für Aktivisten; einzigartige Reiseoptionen.",
-          "headline_easy": "Man kann jetzt einen schnellen Computer für Spiele kaufen. Professoren helfen Aktivisten. Es gibt einen besonderen Ort zum Übernachten.",
-          "summary_en": "A powerful gaming PC is now available without a waitlist. University faculty are urging support for anti-Israel activists facing federal charges. Unique travel experiences, like glamping reachable only by raft, are also featured.",
-          "summary_de": "Ein leistungsstarker Gaming-PC ist jetzt ohne Warteliste erhältlich. Universitätsfakultäten fordern Unterstützung für anti-israelische Aktivisten, die mit Bundesanklagen konfrontiert sind. Einzigartige Reiseerlebnisse, wie Glamping, das nur mit dem Floß erreichbar ist, werden ebenfalls vorgestellt.",
-          "summary_easy": "Ein neuer Computer für Spiele ist jetzt im Laden. Professoren an einer Universität wollen Aktivisten helfen. Es gibt einen besonderen Ort zum Übernachten, den man nur mit einem Floß erreichen kann.",
-          "links": [
-            {
-              "title": "The 512GB Steam Machine skips the waitlist and goes straight to the cart",
-              "url": "https://the-gadgeteer.com/2026/11/20/steam-machine-512gb-waitlist-add-to-cart/"
-            },
-            {
-              "title": "UMich Faculty Urge Support for Anti-Israel Activists Facing Federal Charges",
-              "url": "https://legalinsurrection.com/2026/11/umich-faculty-urge-support-for-anti-israel-activists-facing-federal-charges/"
+              "title": "Bullets rain from helicopter, explosions on ground: How Mexico hunted down FBI's most-wanted drug lord; watch",
+              "url": "https://timesofindia.indiatimes.com/world/rest-of-world/bullets-rain-from-helicopter-explosions-on-ground-how-mexico-hunted-down-fbis-most-wanted-drug-lord-watch/articleshow/136052912.cms"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Gaming hardware available; falling grocery sales and financial strain; China's solar exports surge.",
-          "headline_de": "Gaming-Hardware verfügbar; sinkende Lebensmittelverkäufe und finanzielle Belastung; Chinas Solarexporte steigen stark an.",
-          "headline_easy": "Man kann jetzt einen schnellen Computer für Spiele kaufen. Die Leute kaufen weniger Lebensmittel, weil sie weniger Geld haben. China verkauft mehr Solarmodule.",
-          "summary_en": "A gaming PC is now readily available. Reports indicate falling grocery sales suggest growing financial strain on American households. Meanwhile, China's solar exports are surging ahead of looming US tariffs.",
-          "summary_de": "Ein Gaming-PC ist jetzt leicht erhältlich. Berichte deuten darauf hin, dass sinkende Lebensmittelverkäufe auf wachsende finanzielle Belastungen für amerikanische Haushalte hindeuten. Unterdessen steigen Chinas Solarexporte vor den bevorstehenden US-Zöllen stark an.",
-          "summary_easy": "Ein Computer für Spiele kann jetzt einfach gekauft werden. Die Leute kaufen weniger Essen. Das zeigt, dass sie weniger Geld haben. China verkauft viele Solarmodule in die USA, bevor neue Zölle kommen.",
+          "headline_en": "SK Hynix Shares Dip Amid AI Chip Selloff",
+          "headline_de": "SK Hynix-Aktien fallen inmitten des Verkaufs von KI-Chips",
+          "headline_easy": "Aktien von SK Hynix fallen.",
+          "summary_en": "SK Hynix's stock price has declined significantly, falling below 1.12 million won, amid a broader selloff in AI chip stocks. This trend reflects investor concerns about the current market for artificial intelligence hardware.",
+          "summary_de": "Der Aktienkurs von SK Hynix ist erheblich gefallen, unter 1,12 Millionen Won, inmitten eines breiteren Ausverkaufs von KI-Chip-Aktien. Dieser Trend spiegelt die Bedenken der Anleger hinsichtlich des aktuellen Marktes für künstliche Intelligenz-Hardware wider.",
+          "summary_easy": "Die Aktien von SK Hynix sind gefallen. Viele Aktien für KI-Chips sind gerade nicht gefragt. Investoren sind besorgt.",
           "links": [
             {
-              "title": "When Food Becomes a Luxury: Falling Grocery Sales and the Growing Financial Strain on American Households",
-              "url": "https://activistpost.com/when-food-becomes-a-luxury-falling-grocery-sales-and-the-growing-financial-strain-on-american-households/"
-            }
-          ]
-        },
-        {
-          "type": "Technology",
-          "emoji": "💻",
-          "headline_en": "German minister apologizes; earthquake near Los Angeles; gaming hardware available.",
-          "headline_de": "Deutscher Minister entschuldigt sich; Erdbeben bei Los Angeles; Gaming-Hardware verfügbar.",
-          "headline_easy": "Ein Minister aus Deutschland sagt Entschuldigung. Die Erde bebt bei Los Angeles. Man kann jetzt einen schnellen Computer für Spiele kaufen.",
-          "summary_en": "Germany's defense minister has apologized for remarks made about US criticism of Ukraine strikes. A magnitude 4.4 earthquake occurred near downtown Los Angeles. A high-capacity gaming PC is now available for purchase.",
-          "summary_de": "Deutschlands Verteidigungsminister hat sich für Äußerungen zur Kritik der USA an ukrainischen Angriffen entschuldigt. Ein Erdbeben der Stärke 4,4 ereignete sich in der Nähe des Zentrums von Los Angeles. Ein Gaming-PC mit hoher Kapazität ist nun zum Kauf erhältlich.",
-          "summary_easy": "Ein deutscher Minister entschuldigt sich für etwas, das er gesagt hat. Die Erde bebt in der Nähe von Los Angeles. Man kann jetzt einen neuen Computer für Spiele kaufen.",
-          "links": [
-            {
-              "title": "German defense minister apologizes for calling US criticism of Ukraine strikes ‘stupid’",
-              "url": "https://www.politico.eu/article/pistorius-apologizes-for-calling-us-criticism-of-ukraine-strikes-stupid/"
-            },
-            {
-              "title": "Magnitude 4.4 earthquake hits near downtown Los Angeles",
-              "url": "https://abcnews.com/US/magnitude-44-earthquake-hits-downtown-los-angeles/story?id=138315998"
+              "title": "Is It a Good Time to Buy SK Hynix Stock? Shares Sink Below 1.12 Million Won as AI Chip Rout Slams Seoul",
+              "url": "https://www.ibtimes.com.au/sk-hynix-shares-ai-stock-selloff-1879072"
             }
           ]
         }
@@ -202,36 +186,32 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Asian stocks worst week in 5 years; design exhibition opens; Russia attacks Ukraine.",
-          "headline_de": "Asiatische Aktien: schlechteste Woche seit 5 Jahren; Designausstellung eröffnet; Russland greift die Ukraine an.",
-          "headline_easy": "Die Börse in Asien ist schlecht. Eine Ausstellung für Design beginnt. Russland greift die Ukraine an.",
-          "summary_en": "Asian stock markets have experienced their worst week in five years, and significant fire losses are reported in Indonesia. A design exhibition is opening, and Russia continues its attacks on Ukraine.",
-          "summary_de": "Die Aktienmärkte in Asien haben ihre schlechteste Woche seit fünf Jahren erlebt, und in Indonesien werden erhebliche Brandverluste gemeldet. Eine Designausstellung wird eröffnet, und Russland setzt seine Angriffe auf die Ukraine fort.",
-          "summary_easy": "Die Aktien in Asien sind stark gefallen. Das ist die schlechteste Woche seit langem. In Indonesien gab es große Schäden durch Feuer. Eine Ausstellung mit schönen Dingen beginnt. Russland kämpft weiter in der Ukraine.",
+          "headline_en": "New US AI Chip Rules May Impact Southeast Asia's Data Centers",
+          "headline_de": "Neue US-KI-Chip-Regeln könnten Rechenzentren in Südostasien beeinträchtigen",
+          "headline_easy": "Neue Regeln für KI-Chips.",
+          "summary_en": "New US regulations on AI chips are poised to affect data centers in Southeast Asia. These rules could disrupt the region's technological development and data infrastructure.",
+          "summary_de": "Neue US-Vorschriften für KI-Chips werden voraussichtlich Auswirkungen auf Rechenzentren in Südostasien haben. Diese Regeln könnten die technologische Entwicklung und die Dateninfrastruktur der Region stören.",
+          "summary_easy": "Amerika hat neue Regeln für Computerchips gemacht. Das ist schlecht für Firmen in Asien. Ihre Computer könnten langsamer werden.",
           "links": [
             {
-              "title": "Asia Stocks Worst Week in 5 Years, Indon Fire Losses Near $30bn",
-              "url": "https://biztoc.com/x/343faa900e27be7c"
-            },
-            {
-              "title": "DesignInspire opens today with stunning installations",
-              "url": "https://en.antaranews.com/news/444167/designinspire-opens-today-with-stunning-installations"
+              "title": "New US AI chip rules against China threaten Southeast Asia’s data centers",
+              "url": "https://cryptobriefing.com/us-ai-chip-rules-southeast-asia-data-centers/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Cambodian conservation efforts save fuel; Intuit sells Mailchimp; AI reshapes strategies.",
-          "headline_de": "Kambodschanische Naturschutzbemühungen sparen Treibstoff; Intuit verkauft Mailchimp; KI gestaltet Strategien neu.",
-          "headline_easy": "In Kambodscha spart man Sprit durch Steine im Wasser. Eine Firma verkauft Mailchimp. KI ist wichtig für Firmen.",
-          "summary_en": "Conservation efforts in Cambodia using concrete blocks to snag fishing nets have saved significant amounts of fuel. Intuit is selling Mailchimp to focus on AI-driven growth strategies, reflecting a broader trend.",
-          "summary_de": "Naturschutzbemühungen in Kambodscha, bei denen Betonsperren verwendet werden, um Fischernetze einzufangen, haben erhebliche Mengen an Treibstoff eingespart. Intuit verkauft Mailchimp, um sich auf KI-gesteuerte Wachstumsstrategien zu konzentrieren, was einen breiteren Trend widerspiegelt.",
-          "summary_easy": "In Kambodscha gibt es jetzt Steine im Meer, die helfen, Netze von Fischern zu fangen. Das spart viel Sprit. Eine Firma verkauft Mailchimp, weil sie mehr mit KI machen will. KI ist wichtig für Firmen.",
+          "headline_en": "Hong Kong Launches Tencent-Backed Bitcoin ETF with Low Entry Point",
+          "headline_de": "Hongkong startet von Tencent unterstützten Bitcoin-ETF mit niedrigem Einstiegspunkt",
+          "headline_easy": "Es gibt einen neuen Bitcoin-Fonds.",
+          "summary_en": "Hong Kong has introduced its sixth Bitcoin ETF, this one backed by a Tencent-affiliated manager. With a low entry point of $100, it aims to make cryptocurrency investment more accessible.",
+          "summary_de": "Hongkong hat seinen sechsten Bitcoin-ETF eingeführt, der von einem mit Tencent verbundenen Manager unterstützt wird. Mit einem niedrigen Einstiegspunkt von 100 US-Dollar zielt er darauf ab, Investitionen in Kryptowährungen zugänglicher zu machen.",
+          "summary_easy": "In Hongkong gibt es einen neuen Fonds für Bitcoin. Man kann schon mit wenig Geld einsteigen. Das macht Krypto für mehr Leute interessant.",
           "links": [
             {
-              "title": "In Cambodia’s Kep waters, conservationists installed interlocking concrete blocks to snag trawler nets; the barriers reduced patrol needs, saving an estimated 500,000 litres of fuel a year",
-              "url": "https://timesofindia.indiatimes.com/world/rest-of-world/in-cambodias-kep-waters-conservationists-installed-interlocking-concrete-blocks-to-snag-trawler-nets-the-barriers-reduced-patrol-needs-saving-an-estimated-500000-litres-of-fuel-a-year/articleshow/136020905.cms"
+              "title": "Hong Kong Bitcoin ETF No. 6 Comes From a Tencent-Backed Manager, With a $100 Entry",
+              "url": "https://www.dcforecasts.com/bitcoin-news/hong-kong-bitcoin-etf-gaoteng-tencent-hillhouse/"
             }
           ]
         }
@@ -244,76 +224,64 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Children affected by Ukraine conflict; Mexico's poverty reduction.",
-          "headline_de": "Kinder vom Konflikt in der Ukraine betroffen; Armutsbekämpfung in Mexiko.",
-          "headline_easy": "Viele Kinder sind in der Ukraine krank oder verletzt. In Mexiko leben weniger arme Menschen.",
-          "summary_en": "UNICEF reports a high number of children killed or injured in Ukraine over 10 months. In other news, Mexico has significantly reduced poverty since 2018, according to the World Bank.",
-          "summary_de": "UNICEF berichtet über eine hohe Zahl von Kindern, die in der Ukraine innerhalb von 10 Monaten getötet oder verletzt wurden. In anderen Nachrichten hat Mexiko laut Weltbank seit 2018 die Armut deutlich reduziert.",
-          "summary_easy": "Viele Kinder in der Ukraine sind in Gefahr. Die UN sagt, dass viele Kinder dort verletzt oder getötet wurden. In Mexiko gibt es jetzt weniger arme Menschen als früher.",
+          "headline_en": "British Sci-Fi Show with Dinosaurs Streams Free",
+          "headline_de": "Britische Sci-Fi-Serie mit Dinosauriern streamt kostenlos",
+          "headline_easy": "Eine Serie mit Dinosauriern ist gratis.",
+          "summary_en": "A British science fiction series featuring dinosaurs terrorizing the modern world is now available for free streaming. The show offers an exciting blend of prehistoric creatures and contemporary settings.",
+          "summary_de": "Eine britische Science-Fiction-Serie, in der Dinosaurier die moderne Welt terrorisieren, ist jetzt kostenlos online verfügbar. Die Show bietet eine aufregende Mischung aus prähistorischen Kreaturen und zeitgenössischen Schauplätzen.",
+          "summary_easy": "Es gibt eine Serie aus England. Darin greifen Dinosaurier Menschen an. Man kann sie jetzt gratis sehen.",
           "links": [
             {
-              "title": "At least 1,144 children killed or injured in Ukraine in 10 months, UNICEF says",
-              "url": "https://en.protothema.gr/2026/11/20/at-least-1144-children-killed-or-injured-in-ukraine-in-10-months-unicef-says/"
-            },
-            {
-              "title": "Mexico Has Lifted Almost 20 Million People Out of Poverty Since 2018, According to World Bank Report",
-              "url": "https://biztoc.com/x/1a0b160d1b6d1a00"
+              "title": "This British Sci-Fi Show With Dinosaurs Terrorizing The Modern World Is Streaming For Free",
+              "url": "https://www.bgr.com/2323603/british-sci-fi-show-dinosaurs-modern-world-streaming-free-primeval/"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Footballer's controversial interview; children affected by conflict; UNICEF report.",
-          "headline_de": "Umstrittenes Interview eines Fußballers; Kinder vom Konflikt betroffen; UNICEF-Bericht.",
-          "headline_easy": "Ein Fußballspieler redet über seinen Traum von einem anderen Club. Viele Kinder sind in der Ukraine krank oder verletzt.",
-          "summary_en": "A footballer's recent interview has caused controversy due to his expressed desire to join a rival club. Meanwhile, a UNICEF report highlights the significant number of children affected by the conflict in Ukraine.",
-          "summary_de": "Ein aktuelles Interview eines Fußballers hat aufgrund seines geäußerten Wunsches, einem Rivalenverein beizutreten, für Kontroversen gesorgt. Unterdessen hebt ein UNICEF-Bericht die beträchtliche Zahl von Kindern hervor, die vom Konflikt in der Ukraine betroffen sind.",
-          "summary_easy": "Ein Fußballspieler hat ein Interview gegeben, in dem er über einen anderen Club spricht. Das gefällt nicht jedem. Die UN sagt, dass viele Kinder in der Ukraine leiden.",
+          "headline_en": "Barcelona Faces Renewed Probe Over Referee Payments",
+          "headline_de": "Barcelona steht wegen Schiedsrichterzahlungen erneut vor einer Untersuchung",
+          "headline_easy": "FC Barcelona muss sich erklären.",
+          "summary_en": "Joan Laporta, president of FC Barcelona, is renewing calls for an investigation into payments made by the club to a former refereeing chief. This ongoing scandal continues to cast a shadow over the club's operations.",
+          "summary_de": "Joan Laporta, Präsident des FC Barcelona, erneuerte seine Forderungen nach einer Untersuchung der Zahlungen des Vereins an einen ehemaligen Schiedsrichterobmann. Dieser anhaltende Skandal wirft weiterhin einen Schatten auf den Betrieb des Vereins.",
+          "summary_easy": "Der Chef vom FC Barcelona will mehr wissen. Es gab Zahlungen an einen Schiedsrichter. Das ist ein Problem für den Verein.",
           "links": [
             {
-              "title": "How Mykhailo Mudryk's unsolicited interview turned into a moany mess: With gaffes galore - including his Arsenal 'dream' - the £89m man hasn't endeared himself to either Spurs or Chelsea, writes KIERAN GILL",
-              "url": "https://www.dailymail.com/sport/football/article-16308509/Mykhailo-Mudryks-intervie-Arsenal-Spurs-Chelsea.html"
+              "title": "Pérez renews call for probe into Barcelona’s payments to ex-refereeing chief",
+              "url": "https://punchng.com/perez-renews-call-for-probe-into-barcelonas-payments-to-ex-refereeing-chief/"
             }
           ]
         },
         {
           "type": "War",
           "emoji": "⚔️",
-          "headline_en": "Wildlife photography awards; dollar strengthens; children out of school.",
-          "headline_de": "Tierfotografie-Auszeichnungen; Dollar stärkt sich; Kinder nicht in der Schule.",
-          "headline_easy": "Es gibt schöne Fotos von Tieren. Der Dollar wird stärker. Viele Kinder können nicht zur Schule gehen.",
-          "summary_en": "National Geographic has released its Pictures of the Year, featuring captivating wildlife photography. The US dollar is strengthening due to Fed tightening expectations. A significant number of children are out of school in several Nigerian states.",
-          "summary_de": "National Geographic hat seine 'Bilder des Jahres' veröffentlicht, die fesselnde Tierfotografie zeigen. Der US-Dollar stärkt sich aufgrund der Erwartungen an eine Straffung der Geldpolitik durch die Fed. In mehreren nigerianischen Bundesstaaten gehen zahlreiche Kinder nicht zur Schule.",
-          "summary_easy": "Es gibt neue Preise für Fotos von Tieren. Der Dollar ist jetzt mehr wert. In Nigeria können viele Kinder nicht zur Schule gehen.",
+          "headline_en": "Nigeria Backs Infantino for FIFA Re-election",
+          "headline_de": "Nigeria unterstützt Infantino bei Wiederwahl zur FIFA",
+          "headline_easy": "Nigeria unterstützt den FIFA-Chef.",
+          "summary_en": "Nigeria has announced its support for Gianni Infantino's bid for re-election as FIFA president. This endorsement from a major African football nation could influence the outcome of the FIFA presidential race.",
+          "summary_de": "Nigeria hat seine Unterstützung für Gianni Infantinos Kandidatur zur Wiederwahl als FIFA-Präsident angekündigt. Diese Unterstützung eines großen afrikanischen Fußballlandes könnte den Ausgang des FIFA-Präsidentschaftsrennens beeinflussen.",
+          "summary_easy": "Nigeria stimmt für den Chef der FIFA. Das ist Gianni Infantino. Er will nochmal Präsident werden.",
           "links": [
             {
-              "title": "National Geographic revealed its Pictures of the Year. Here are 8 of the most captivating wildlife photos.",
-              "url": "https://www.businessinsider.com/national-geographic-best-pictures-of-the-year-wildlife-photos-2026-11"
-            },
-            {
-              "title": "Dollar set for fourth weekly gain, supported by Fed tightening expectations, AI-driven haven bid",
-              "url": "https://www.channelnewsasia.com/business/dollar-set-fourth-weekly-gain-supported-fed-tightening-expectations-ai-driven-haven-bid-6567931"
+              "title": "Nigeria backs Infantino’s FIFA re-election bid",
+              "url": "https://punchng.com/nigeria-backs-infantinos-fifa-re-election-bid/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "New haul truck technology; Alphabet's bond offering; Portugal's artificial reefs boost fish.",
-          "headline_de": "Neue Schwerlastwagen-Technologie; Anleiheemission von Alphabet; Künstliche Riffe in Portugal erhöhen Fischbestand.",
-          "headline_easy": "Es gibt einen neuen großen Laster. Google macht eine Anleihe. Fische werden mehr in Portugal, weil dort Riffe gebaut wurden.",
-          "summary_en": "A new ultra-class haul truck features advanced charging technology. Alphabet has raised a significant amount through a Canadian bond offering. In Portugal, artificial reefs have led to a substantial increase in fish populations.",
-          "summary_de": "Ein neuer Schwerlastwagen der Ultra-Klasse verfügt über fortschrittliche Ladetechnologie. Alphabet hat durch eine kanadische Anleiheemission einen beträchtlichen Betrag aufgenommen. In Portugal haben künstliche Riffe zu einem deutlichen Anstieg der Fischbestände geführt.",
-          "summary_easy": "Ein neuer, großer Laster kann schneller laden. Google hat Geld durch Anleihen in Kanada bekommen. In Portugal gibt es mehr Fische, weil künstliche Riffe im Meer gebaut wurden.",
+          "headline_en": "UK Black Friday Deals: Sony, Nintendo, and More",
+          "headline_de": "UK Black Friday Angebote: Sony, Nintendo und mehr",
+          "headline_easy": "Günstige Angebote in England.",
+          "summary_en": "Ahead of Black Friday, consumers in the UK can look forward to numerous deals on popular items, including Sony headphones, Nintendo Switch 2, Kindles, and more. This sale event promises significant discounts across various electronics and gadgets.",
+          "summary_de": "Im Vorfeld des Black Friday können sich Verbraucher in Großbritannien auf zahlreiche Angebote für beliebte Artikel freuen, darunter Sony-Kopfhörer, Nintendo Switch 2, Kindles und mehr. Dieses Verkaufsereignis verspricht erhebliche Rabatte auf verschiedene Elektronikgeräte und Gadgets.",
+          "summary_easy": "In England gibt es viele Angebote für Black Friday. Man kann Produkte von Sony und Nintendo billiger kaufen. Es gibt auch Bücher und Staubsauger im Angebot.",
           "links": [
             {
-              "title": "Double guns: ultra-class haul truck packs dual-gun MCS charging, 4 MWh battery",
-              "url": "https://electrek.co/2026/11/20/double-guns-ultra-class-haul-truck-packs-dual-gun-mcs-charging-4-mwh-battery/"
-            },
-            {
-              "title": "Alphabet raises $4.19 billion in Canadian bond offering",
-              "url": "https://www.channelnewsasia.com/business/alphabet-raises-419-billion-in-canadian-bond-offering-6569266"
+              "title": "90+ best Black Friday deals in the UK — Sony headphones, Switch 2, Kindles, Shark vacuums, Lego, Samsung, and more",
+              "url": "https://www.techradar.com/live/news/black-friday-deals-uk-2026-november-21"
             }
           ]
         }
@@ -324,27 +292,27 @@
     "wahlperiode": 21,
     "sitzung": 109,
     "url": "https://dserver.bundestag.de/btp/21/21109.pdf",
-    "summary_en": "On Friday, November 13, 2026, the German Bundestag convened for its 109th session of the 21st legislative period. The primary agenda item was the second and third readings of the government's bill to reform intelligence service law. Speakers included Alexander Throm (CDU/CSU), Dr. Christian Wirth (AfD), Sonja Eichwede (SPD), Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN), and Clara Bünger (Die Linke), presenting diverse party viewpoints. Federal Minister of the Interior, Alexander Dobrindt, also addressed the chamber. The session also debated a motion by Die Linke for a nationwide rent cap, with contributions from Caren Lay and Janine Wissler (Die Linke), Jan-Marco Luczak (CDU/CSU), Nina Warken (independent minister), and Dr. Anna Rathert (AfD). Another significant item was the second reading and final vote on the EU's partnership agreement with MERCOSUR, featuring debates from Peter Beyer (CDU/CSU), Torben Braga (AfD), Sebastian Roloff (SPD), and Dr. Anton Hofreiter (BÜNDNIS 90/DIE GRÜNEN). Furthermore, the Bundestag addressed the continuation of German armed forces' participation in the NATO maritime security operation SEA GUARDIAN, with speakers like Jürgen Hardt (CDU/CSU) and Aydan Özoğuz (SPD). Several roll-call votes were held throughout the session, with results detailed on pages 13858C, 13860B, 13863B, 13870D, and 13885C.",
-    "summary_de": "Am Freitag, dem 13. November 2026, trat der Deutsche Bundestag zu seiner 109. Sitzung der 21. Wahlperiode zusammen. Hauptpunkt der Tagesordnung waren die zweite und dritte Beratung des Gesetzesentwurfs der Bundesregierung zur Reform des Nachrichtendienstrechts. Redner waren unter anderem Alexander Throm (CDU/CSU), Dr. Christian Wirth (AfD), Sonja Eichwede (SPD), Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN) und Clara Bünger (Die Linke), die unterschiedliche parteipolitische Positionen vertraten. Bundesminister des Innern, Alexander Dobrindt, sprach ebenfalls. Die Sitzung befasste sich auch mit einem Antrag der Linken für einen bundesweiten Mietendeckel, zu dem Caren Lay und Janine Wissler (Die Linke), Jan-Marco Luczak (CDU/CSU), Nina Warken (parteilose Ministerin) und Dr. Anna Rathert (AfD) sprachen. Ein weiterer wichtiger Tagesordnungspunkt war die zweite Beratung und Schlussabstimmung des Partnerschaftsabkommens der EU mit MERCOSUR, mit Debattenbeiträgen von Peter Beyer (CDU/CSU), Torben Braga (AfD), Sebastian Roloff (SPD) und Dr. Anton Hofreiter (BÜNDNIS 90/DIE GRÜNEN). Ferner behandelte der Bundestag die Fortsetzung der Beteiligung deutscher Streitkräfte an der NATO-geführten maritimen Sicherheitsoperation SEA GUARDIAN, mit Rednern wie Jürgen Hardt (CDU/CSU) und Aydan Özoğuz (SPD). Im Laufe der Sitzung fanden mehrere namentliche Abstimmungen statt, deren Ergebnisse auf den Seiten 13858C, 13860B, 13863B, 13870D und 13885C detailliert aufgeführt sind.",
-    "summary_easy": "Der Bundestag traf sich am 13. November 2026.  Es gab mehrere wichtige Themen.  Ein Gesetz zur Reform der Geheimdienste wurde beraten.  Viele Politiker sprachen dazu.  Die Linke forderte einen Mietendeckel für ganz Deutschland.  Auch darüber wurde diskutiert.  Außerdem ging es um ein Abkommen der EU mit südamerikanischen Ländern.  Es gab auch eine Debatte über deutsche Soldaten im Mittelmeer.  Die Soldaten helfen bei der Sicherheit auf See.  Es gab mehrere Abstimmungen.  Die Ergebnisse wurden am Ende mitgeteilt.",
+    "summary_en": "On Friday, November 13, 2026, the German Bundestag convened for its 109th session of the 21st legislative period. The primary agenda item was the second and third reading of the government's draft law to reform intelligence service law. Several MPs debated this crucial legislation. Alexander Throm (CDU/CSU) and Dr. Christian Wirth (AfD) spoke early in the discussion, followed by Sonja Eichwede (SPD) and Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN). Clara Bünger (Die Linke) also contributed to the debate. Bundesminister BMI Alexander Dobrindt addressed the assembly regarding the bill. The session also included a debate on a Left Party motion for a nationwide rent cap, with contributions from Caren Lay (Die Linke), Janine Wissler (Die Linke), and Nina Warken, Federal Minister for Special Tasks. Additionally, the Bundestag discussed the continuation of Germany's participation in the NATO-led maritime security operation SEA GUARDIAN, with statements from Jürgen Hardt (CDU/CSU), Kurt Kleinschmidt (AfD), and Aydan Özoğuz (SPD). A second reading and final vote took place on a partnership agreement between the EU and Mercosur countries. The session also saw motions and debates on other agenda items, including one related to parliamentary procedure. Several roll-call votes and their results were recorded throughout the session.",
+    "summary_de": "Am Freitag, den 13. November 2026, trat der Deutsche Bundestag zur 109. Sitzung der 21. Wahlperiode zusammen. Der Hauptpunkt der Tagesordnung war die zweite und dritte Beratung des Gesetzentwurfs der Bundesregierung zur Reform des Nachrichtendienstrechts. Mehrere Abgeordnete debattierten dieses wichtige Gesetz. Alexander Throm (CDU/CSU) und Dr. Christian Wirth (AfD) sprachen früh in der Debatte, gefolgt von Sonja Eichwede (SPD) und Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN). Clara Bünger (Die Linke) beteiligte sich ebenfalls an der Aussprache. Bundesminister BMI Alexander Dobrindt sprach zur Parlamentschaft. Die Sitzung beinhaltete auch eine Debatte über einen Antrag der Linken für einen bundesweiten Mietendeckel, mit Beiträgen von Caren Lay (Die Linke), Janine Wissler (Die Linke) und Nina Warken, Bundesministerin für besondere Aufgaben. Des Weiteren wurde die Fortsetzung der Beteiligung deutscher Streitkräfte an der NATO-geführten maritimen Sicherheitsoperation SEA GUARDIAN diskutiert, mit Erklärungen von Jürgen Hardt (CDU/CSU), Kurt Kleinschmidt (AfD) und Aydan Özoğuz (SPD). Eine zweite Beratung und Schlussabstimmung fand zu einem Partnerschaftsabkommen zwischen der EU und den Mercosur-Staaten statt. Im Verlauf der Sitzung wurden auch Anträge und Debatten zu weiteren Tagesordnungspunkten geführt, darunter einer zur Geschäftsordnung. Mehrere namentliche Abstimmungen und deren Ergebnisse wurden protokolliert.",
+    "summary_easy": "Am Freitag, dem 13. November 2026, gab es eine Sitzung im Bundestag. Die Abgeordneten sprachen über viele wichtige Themen. Ein Hauptthema war ein neues Gesetz für Geheimdienste. Viele Politiker sagten ihre Meinung dazu. Alexander Throm und Christian Wirth sprachen zuerst. Dann sprachen Sonja Eichwede und Konstantin von Notz. Auch Clara Bünger und Alexander Dobrindt sprachen. Die Politiker diskutierten auch über Mietpreise. Die Partei Die Linke will eine Mietpreisbremse. Caren Lay und Janine Wissler von dieser Partei sprachen. Nina Warken, eine Ministerin, sprach auch. Die Bundeswehr hilft auch auf dem Meer bei einer NATO-Mission. Jürgen Hardt, Kurt Kleinschmidt und Aydan Özoğuz sprachen darüber. Es gab auch ein Abkommen mit Südamerika. Die Abgeordneten stimmten über viele Dinge ab.",
     "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact_en": "During the French Revolution, fashion became a political statement. The 'sans-culottes,' meaning 'without knee-breeches,' adopted long trousers as a symbol of their rejection of aristocratic fashion and their embrace of republican ideals. This simple garment became a powerful visual marker of the revolutionary cause.",
-      "fact_de": "Während der Französischen Revolution wurde Mode zu einer politischen Aussage. Die „Sansculotten“, was „ohne Kniebundhosen“ bedeutet, übernahmen lange Hosen als Symbol ihrer Ablehnung aristokratischer Mode und ihrer Hinwendung zu republikanischen Idealen. Dieses einfache Kleidungsstück wurde zu einem mächtigen visuellen Zeichen der revolutionären Sache.",
-      "fact_easy": "In der Französischen Revolution war Kleidung wichtig. Die Sansculotten trugen lange Hosen. Das zeigte, dass sie gegen die Adligen waren.",
+      "fact_en": "During the Renaissance, sumptuary laws in Italy dictated what colors and fabrics people of different social classes could wear. For example, only nobility could wear expensive purple dyes derived from murex shells, while commoners were restricted to earthier, less vibrant colors.",
+      "fact_de": "Während der Renaissance schrieben in Italien Kleiderordnungen vor, welche Farben und Stoffe Menschen verschiedener sozialer Schichten tragen durften. Zum Beispiel durften nur Adlige teure lila Farbstoffe aus Purpurschnecken tragen, während einfache Leute auf erdige, weniger leuchtende Farben beschränkt waren.",
+      "fact_easy": "In der Renaissance gab es in Italien Regeln. Diese Regeln sagten, welche Kleidung Leute tragen durften. Nur reiche Leute durften teure Farben tragen. Einfache Leute mussten einfache Farben tragen.",
       "category": "Fashion",
-      "source_title": "The French Revolution: A People's History",
-      "source_url": "https://www.britannica.com/event/French-Revolution"
+      "source_title": "Sumptuary laws - Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Sumptuary_law"
     },
     {
-      "fact_en": "The ancient city of Machu Picchu, built by the Incas, had a complex system for determining the seasons and astronomical events, vital for their agricultural practices and religious ceremonies. The Intihuatana stone, a precisely carved rock pillar, is believed to have served as a sundial or astronomical calendar, aligning with celestial bodies.",
-      "fact_de": "Die antike Stadt Machu Picchu, erbaut von den Inkas, verfügte über ein komplexes System zur Bestimmung der Jahreszeiten und astronomischen Ereignisse, das für ihre landwirtschaftlichen Praktiken und religiösen Zeremonien unerlässlich war. Der Intihuatana-Stein, ein präzise bearbeiteter Steinsäule, diente vermutlich als Sonnenuhr oder astronomischer Kalender, der sich an Himmelskörpern ausrichtete.",
-      "fact_easy": "Die Inkas bauten Machu Picchu. Sie hatten einen besonderen Stein, den Intihuatana. Dieser Stein zeigte die Jahreszeiten und Sterne an.",
+      "fact_en": "The tradition of giving gifts on New Year's Day has roots in ancient Roman practices. The Romans exchanged gifts, known as 'strenae', which were often fig branches or honey cakes, to wish each other good fortune and a sweet new year.",
+      "fact_de": "Die Tradition, am Neujahrstag Geschenke zu machen, hat Wurzeln in alten römischen Bräuchen. Die Römer tauschten Geschenke aus, bekannt als 'strenae', oft Feigenzweige oder Honigkuchen, um sich gegenseitig Glück und ein süßes neues Jahr zu wünschen.",
+      "fact_easy": "Leute schenken sich am Neujahrstag Geschenke. Das kommt von den alten Römern. Die Römer gaben auch Geschenke. Sie nannten sie 'strenae'. Sie wünschten sich Glück für das neue Jahr.",
       "category": "Traditions",
-      "source_title": "Machu Picchu: The Lost City of the Incas",
-      "source_url": "https://www.nationalgeographic.com/history/article/machu-picchu"
+      "source_title": "New Year's Day - Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/New_Year%27s_Day#Traditions"
     }
   ],
   "frankfurt": {
@@ -352,80 +320,80 @@
       {
         "type": "Events",
         "emoji": "🎪",
-        "headline_en": "TV Presenter Laura Wontorra Showcases Pregnancy, Nations League Financial Boost Possible, Lufthansa Job Cuts",
-        "headline_de": "Laura Wontorra zeigt Babybauch, Nations League könnte Geldregen bringen, Lufthansa streicht Jobs",
-        "headline_easy": "Laura Wontorra zeigt ihre Schwangerschaft. Die Nations League könnte Geld bringen. Lufthansa streicht Jobs.",
-        "summary_en": "TV presenter Laura Wontorra has officially revealed her pregnancy with a photoshoot. In other news, the Nations League draw could lead to a significant financial windfall for German football, while Lufthansa is reportedly cutting 1,000 jobs in Germany.",
-        "summary_de": "Fernsehmoderatorin Laura Wontorra hat ihre Schwangerschaft mit einem Fotoshooting offiziell bekannt gegeben. Unterdessen könnte die Auslosung der Nations League dem deutschen Fußball einen erheblichen Geldregen bescheren, während Lufthansa Berichten zufolge 1.000 Arbeitsplätze in Deutschland abbaut.",
-        "summary_easy": "Laura Wontorra ist schwanger. Sie zeigt ihren Babybauch. Die Fußball-Nations League könnte viel Geld für Deutschland bringen. Die Fluggesellschaft Lufthansa streicht 1.000 Jobs in Deutschland.",
+        "headline_en": "Uniklinik Frankfurt to Save Millions Through Cost-Cutting Measures",
+        "headline_de": "Uniklinik Frankfurt spart Millionen durch Sparmaßnahmen",
+        "headline_easy": "Uniklinik Frankfurt will Geld sparen.",
+        "summary_en": "The supervisory board of Uniklinik Frankfurt has approved a comprehensive economic restructuring plan aiming to save 65 million Euros. As part of these measures, several hospital wards will be relocated from the Schiffer campus to the main Uniklinik site.",
+        "summary_de": "Der Aufsichtsrat der Uniklinik Frankfurt hat einer umfassenden wirtschaftlichen Sanierung zugestimmt, die 65 Millionen Euro einsparen soll. Im Rahmen dieser Maßnahmen werden mehrere Stationen vom Schiffer-Campus in die Uniklinik umziehen müssen.",
+        "summary_easy": "Die Uniklinik Frankfurt muss 65 Millionen Euro sparen. Einige Stationen ziehen um. Das ist gut für das Geld der Klinik.",
         "links": [
           {
-            "title": "Laura Wontorra setzt ihren Babybauch in Szene",
-            "url": "https://www.n-tv.de/leute/Laura-Wontorra-setzt-ihren-Babybauch-in-Szene-id31558105.html"
+            "title": "Uniklinik Frankfurt muss 65 Millionen Euro einsparen: So soll es gehen",
+            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/uniklinik-frankfurt-muss-65-millionen-euro-einsparen-so-soll-es-gehen-accg-201702296.html"
           },
           {
-            "title": "Nations League könnte für Geldregen sorgen - Für Klopp geht es um 7,5 Millionen Euro",
-            "url": "https://www.bild.de/sport/fussball/nations-league-koennte-fuer-dfb-geldregen-sorgen-fuer-klopp-geht-es-um-7-5-millionen-euro-6b000009b237b5b41c9a2034"
+            "title": "Wieder Weihnachtsmarkt-Zoff - Lumumba-Streit jetzt auch um Ersatznamen",
+            "url": "https://www.bild.de/news/inland/lumumba-streit-geht-in-die-naechste-runde-problem-auf-weihnachtsmaerkten-6b0160d339a3e8110f0e50cb"
           }
         ]
       },
       {
         "type": "Crime",
         "emoji": "🚔",
-        "headline_en": "Frankfurt Lions Struggle in DEL, Youth Demonstration Restrictions, CSL Behring Expands Marburg Production",
-        "headline_de": "Löwen Frankfurt unter Druck, Aufenthaltsverbote für Demo, CSL Behring erweitert Produktion in Marburg",
-        "headline_easy": "Die Löwen Frankfurt spielen schlecht. Die Polizei verbietet einigen Personen, nach Frankfurt zu kommen. Eine Firma baut eine Fabrik aus.",
-        "summary_en": "The Frankfurt Lions ice hockey team is facing challenges with low scoring, with coach Tom Pokel calling for more aggression. In separate news, police have issued entry bans for some individuals ahead of a GenZ demonstration, and pharmaceutical manufacturer CSL Behring is investing heavily to expand its production facilities in Marburg.",
-        "summary_de": "Das Frankfurter Eishockeyteam die Löwen kämpft mit wenigen Toren, Trainer Tom Pokel fordert mehr Mut. Die Polizei hat im Vorfeld einer GenZ-Demo Aufenthaltsverbote für bestimmte Personen erlassen. Zudem investiert der Arzneimittelhersteller CSL Behring erheblich in den Ausbau seiner Produktionsstätten in Marburg.",
-        "summary_easy": "Die Löwen Frankfurt schießen wenige Tore. Die Polizei darf bestimmte Personen nicht nach Frankfurt lassen. Eine wichtige Firma baut ihre Fabrik in Marburg aus. Sie investiert viel Geld.",
+        "headline_en": "Hessian Minister-President Calls for Stricter Immigration and Deportation Policies Post-Frankfurt Riots",
+        "headline_de": "Rhein fordert nach Frankfurter Krawallen strengere Einwanderungs- und Abschieberegeln",
+        "headline_easy": "Hessen will strengere Regeln für Einwanderung und Abschiebung.",
+        "summary_en": "Following the recent riots in Frankfurt, Hessian Minister-President Boris Rhein is calling for stricter naturalization rules and advocating for increased police controls. He emphasizes the need for integration alongside immigration.",
+        "summary_de": "Nach den jüngsten Krawallen in Frankfurt fordert Hessens Ministerpräsident Boris Rhein schärfere Einbürgerungsregeln und verteidigt verstärkte Polizeikontrollen. Er betont die Notwendigkeit von Integration bei gleichzeitiger Zuwanderung.",
+        "summary_easy": "Hessens Chef Boris Rhein spricht über die Ausschreitungen in Frankfurt. Er will, dass Einwanderung besser mit Integration verbunden ist. Er fordert auch mehr Polizei.",
         "links": [
           {
-            "title": "Löwen in DEL: „Wir müssen dahin gehen, wo es wehtut“",
-            "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/loewen-frankfurt/loewen-frankfurt-in-del-auf-dem-eis-dorthin-gehen-wo-es-wehtut-accg-201698501.html"
+            "title": "„Migration ohne Integration“ – Rhein fordert Abschiebungen nach den Frankfurter Krawallen",
+            "url": "https://www.welt.de/politik/deutschland/article6b015fed39a3e8110f0e50aa/hessen-migration-ohne-integration-rhein-fordert-abschiebungen-nach-den-frankfurter-krawallen.html"
           },
           {
-            "title": "Younes darf Frankfurt nicht betreten - Batman-Verbot für GenZ-Demo",
-            "url": "https://www.bild.de/regional/frankfurt/younes-darf-frankfurt-nicht-betreten-batman-verbot-fuer-genz-demo-6afffc4db237b5b41c9a1fd6"
+            "title": "Machtkampf in der SPD: Ein Offenbacher als Hoffnungsträger der Genossen",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/aufstand-in-der-spd-was-koennte-felix-schwenke-besser-machen-accg-201694554.html"
           }
         ]
       },
       {
         "type": "Sales & Offers",
         "emoji": "🛍️",
-        "headline_en": "Frankfurt Lions' Performance Focus, Demonstration Restrictions, CSL Behring Production Expansion",
-        "headline_de": "Fokus auf Leistung der Löwen Frankfurt, Demo-Beschränkungen, CSL Behring erweitert Produktion",
-        "headline_easy": "Die Löwen Frankfurt brauchen mehr Erfolg. Es gibt Regeln für eine Demo. Eine Firma erweitert ihre Produktion.",
-        "summary_en": "The Frankfurt Lions are facing calls for improved performance in the DEL, with their coach emphasizing the need for greater commitment. Meanwhile, police are implementing entry bans for certain individuals ahead of a GenZ demonstration. In business news, CSL Behring is significantly investing in expanding its production capacity in Marburg.",
-        "summary_de": "Die Löwen Frankfurt stehen unter Druck, ihre Leistung in der DEL zu verbessern; ihr Trainer betont die Notwendigkeit von mehr Einsatz. Gleichzeitig verhängt die Polizei im Vorfeld einer GenZ-Demo Aufenthaltsverbote. Im Wirtschaftsbereich investiert CSL Behring stark in die Erweiterung seiner Produktionskapazitäten in Marburg.",
-        "summary_easy": "Die Löwen Frankfurt müssen besser spielen. Die Polizei erlaubt manchen Personen nicht, in die Stadt zu kommen. Eine wichtige Firma baut ihre Fabrik in Marburg aus. Sie will mehr produzieren.",
+        "headline_en": "SPD Faces Internal Strife Over Potential Leadership Candidate Felix Schwenke",
+        "headline_de": "Machtkampf in der SPD um Offenbacher Oberbürgermeister",
+        "headline_easy": "Die SPD hat Streit um einen neuen Chef.",
+        "summary_en": "A significant faction within the Hessian SPD is pushing for Offenbach's Mayor Felix Schwenke to lead the party into the state elections. This move, however, risks causing significant internal division.",
+        "summary_de": "Eine große Gruppe hessischer Sozialdemokraten möchte eine personelle Veränderung und favorisiert den Offenbacher Oberbürgermeister Felix Schwenke als Spitzenkandidaten für die Landtagswahl. Dieser Vorstoß birgt jedoch das Risiko einer Zerreißprobe innerhalb der Partei.",
+        "summary_easy": "Viele Leute in der SPD wollen Felix Schwenke als neuen Chef. Er ist Oberbürgermeister in Offenbach. Das könnte aber Streit in der Partei machen.",
         "links": [
           {
-            "title": "Löwen in DEL: „Wir müssen dahin gehen, wo es wehtut“",
-            "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/loewen-frankfurt/loewen-frankfurt-in-del-auf-dem-eis-dorthin-gehen-wo-es-wehtut-accg-201698501.html"
+            "title": "Machtkampf in der SPD: Ein Offenbacher als Hoffnungsträger der Genossen",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/aufstand-in-der-spd-was-koennte-felix-schwenke-besser-machen-accg-201694554.html"
           },
           {
-            "title": "Younes darf Frankfurt nicht betreten - Batman-Verbot für GenZ-Demo",
-            "url": "https://www.bild.de/regional/frankfurt/younes-darf-frankfurt-nicht-betreten-batman-verbot-fuer-genz-demo-6afffc4db237b5b41c9a1fd6"
+            "title": "„Migration ohne Integration“ – Rhein fordert Abschiebungen nach den Frankfurter Krawallen",
+            "url": "https://www.welt.de/politik/deutschland/article6b015fed39a3e8110f0e50aa/hessen-migration-ohne-integration-rhein-fordert-abschiebungen-nach-den-frankfurter-krawallen.html"
           }
         ]
       },
       {
         "type": "Local News",
         "emoji": "📍",
-        "headline_en": "Frankfurt Lions' Performance Challenges, Demonstration Restrictions, CSL Behring Invests in Marburg",
-        "headline_de": "Frankfurter Löwen brauchen mehr Erfolg, Polizeimaßnahmen bei Demo, CSL Behring investiert in Marburg",
-        "headline_easy": "Die Löwen Frankfurt spielen nicht gut. Die Polizei hat Regeln für eine Demo. Eine Firma baut eine Fabrik aus.",
-        "summary_en": "The Frankfurt Lions ice hockey team is struggling offensively, prompting calls from their coach for increased intensity and sacrifice. Separately, police are enforcing entry bans for individuals deemed potential troublemakers ahead of a GenZ demonstration in Frankfurt. In regional business news, pharmaceutical company CSL Behring is making a significant investment to expand its production capabilities in Marburg.",
-        "summary_de": "Die Frankfurter Löwen haben Schwierigkeiten in der DEL und erzielen wenig Tore. Trainer Tom Pokel fordert mehr Einsatz. Die Polizei hat vor einer GenZ-Demo Aufenthaltsverbote für bestimmte Personen verhängt. Der Arzneimittelhersteller CSL Behring investiert Millionen in den Ausbau seiner Produktion in Marburg.",
-        "summary_easy": "Die Eishockey-Mannschaft Löwen Frankfurt schießt zu wenige Tore. Der Trainer will, dass die Spieler mehr kämpfen. Die Polizei verbietet einigen Leuten, nach Frankfurt zu kommen. Die Firma CSL Behring baut ihre Fabrik in Marburg größer. Sie gibt dafür viel Geld aus.",
+        "headline_en": "Frankfurt Riots Spark Debate on Immigration and Integration; SPD Faces Leadership Challenge",
+        "headline_de": "Nach Krawallen in Frankfurt: Debatte um Integration und SPD-Führungskrise",
+        "headline_easy": "Frankfurt: Debatte über Integration und Krise in der SPD.",
+        "summary_en": "Following recent unrest in Frankfurt, Hessian Minister-President Boris Rhein is advocating for stricter immigration policies and increased police presence. Meanwhile, the SPD is experiencing internal conflict over a potential leadership challenge, with a faction backing Offenbach Mayor Felix Schwenke.",
+        "summary_de": "Im Nachgang der jüngsten Ausschreitungen in Frankfurt spricht sich Hessens Ministerpräsident Boris Rhein für eine strengere Migrationspolitik und mehr Polizeikontrollen aus. Parallel dazu gibt es in der SPD eine parteiinterne Auseinandersetzung um eine mögliche neue Führung, wobei der Offenbacher Oberbürgermeister Felix Schwenke von einer Gruppe unterstützt wird.",
+        "summary_easy": "Nach Unruhen in Frankfurt fordert Boris Rhein strengere Regeln für Zuwanderer. In der SPD gibt es Streit um einen neuen Chef. Viele wollen Felix Schwenke, den Chef von Offenbach.",
         "links": [
           {
-            "title": "Löwen in DEL: „Wir müssen dahin gehen, wo es wehtut“",
-            "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/loewen-frankfurt/loewen-frankfurt-in-del-auf-dem-eis-dorthin-gehen-wo-es-wehtut-accg-201698501.html"
+            "title": "„Migration ohne Integration“ – Rhein fordert Abschiebungen nach den Frankfurter Krawallen",
+            "url": "https://www.welt.de/politik/deutschland/article6b015fed39a3e8110f0e50aa/hessen-migration-ohne-integration-rhein-fordert-abschiebungen-nach-den-frankfurter-krawallen.html"
           },
           {
-            "title": "Younes darf Frankfurt nicht betreten - Batman-Verbot für GenZ-Demo",
-            "url": "https://www.bild.de/regional/frankfurt/younes-darf-frankfurt-nicht-betreten-batman-verbot-fuer-genz-demo-6afffc4db237b5b41c9a1fd6"
+            "title": "Machtkampf in der SPD: Ein Offenbacher als Hoffnungsträger der Genossen",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/aufstand-in-der-spd-was-koennte-felix-schwenke-besser-machen-accg-201694554.html"
           }
         ]
       }
@@ -433,64 +401,64 @@
   },
   "dresden": [
     {
-      "price": "350 €",
-      "address": "Cottaer Straße 12, 01159 Dresden",
-      "district": "Cotta",
-      "size": "35 m²",
+      "price": "320 €",
+      "address": "Pillnitzer Str. 1, 01097 Dresden",
+      "district": "Neustadt",
+      "size": "30 m²",
       "rooms": "1",
-      "title": "Helle 1-Zimmer-Wohnung mit Balkon in Dresden Cotta",
-      "url": "https://www.immowelt.de/expose/2AK4N4I",
-      "source": "Immowelt.de"
-    },
-    {
-      "price": "375 €",
-      "address": "Gartenstraße 5, 01099 Dresden",
-      "district": "Innere Neustadt",
-      "size": "40 m²",
-      "rooms": "1.5",
-      "title": "Gemütliche 1,5-Zimmer-Wohnung in zentraler Lage",
-      "url": "https://www.immonet.de/angebot/37865977?pid=p_immo_de_search_result_item&immo_type=1&page=1&cityid=5345&rentmax=450&rentmin=0&roomsmax=3&roomsmin=1&sizefrom=25&sizeto=60",
-      "source": "Immonet.de"
-    },
-    {
-      "price": "400 €",
-      "address": "Bismarckstraße 15, 01217 Dresden",
-      "district": "Südvorstadt",
-      "size": "45 m²",
-      "rooms": "2",
-      "title": "Frei ab 01.08. Schöne 2-Zimmer-Wohnung in der Südvorstadt",
-      "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/moebl-2-zi-whg-suedvorstadt-dresden-38qm-400kalt/2797935130-302-4930",
-      "source": "Kleinanzeigen.de"
-    },
-    {
-      "price": "410 €",
-      "address": "Hans-Grundig-Straße 8, 01309 Dresden",
-      "district": "Striesen",
-      "size": "50 m²",
-      "rooms": "2",
-      "title": "Helle 2-Zimmer-Wohnung in Striesen mit Balkon",
-      "url": "https://www.immobilienscout24.de/expose/143403800",
+      "title": "Charmante 1-Zimmer-Wohnung in zentraler Lage",
+      "url": "https://www.immobilienscout24.de/expose/145288758",
       "source": "Immoscout24.de"
     },
     {
-      "price": "420 €",
-      "address": "Augustusweg 25, 01187 Dresden",
-      "district": "Löbtau",
-      "size": "52 m²",
+      "price": "350 €",
+      "address": "Schandauer Str. 38, 01277 Dresden",
+      "district": "Seidnitz",
+      "size": "45 m²",
       "rooms": "2",
-      "title": "2-Zimmer-Wohnung in ruhiger Lage von Dresden Löbtau",
-      "url": "https://www.vonovia.de/wohnung-suchen/wohnungsdetails?objid=7282752221",
+      "title": "Helle 2-Zimmer-Wohnung mit Balkon",
+      "url": "https://www.immowelt.de/expose/2AGM45S",
+      "source": "Immowelt.de"
+    },
+    {
+      "price": "380 €",
+      "address": "Fetscherstraße 45, 01307 Dresden",
+      "district": "Johannstadt",
+      "size": "35 m²",
+      "rooms": "1.5",
+      "title": "Stilvolle 1.5-Zimmer-Wohnung in ruhiger Lage",
+      "url": "https://www.vonovia.de/wohnen/wohnung-finden/dresden/wohnung-fetscherstrasse-45-1307-dresden-VD308000000001242337",
       "source": "Vonovia.de"
     },
     {
+      "price": "400 €",
+      "address": "Garnisonstraße 21, 01099 Dresden",
+      "district": "Neustadt",
+      "size": "40 m²",
+      "rooms": "1.5",
+      "title": "Gemütliche 1.5-Zimmer-Wohnung in lebendigem Viertel",
+      "url": "https://www.wg-gesucht.de/6188846",
+      "source": "WG-Gesucht.de"
+    },
+    {
+      "price": "420 €",
+      "address": "Bannewitzer Str. 8, 01159 Dresden",
+      "district": "Naußlitz",
+      "size": "50 m²",
+      "rooms": "2",
+      "title": "Geräumige 2-Zimmer-Wohnung mit guter Anbindung",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-in-dresden-nau__litz-kaltmiete-420-euro-/2741798878-209-7603",
+      "source": "Kleinanzeigen.de"
+    },
+    {
       "price": "440 €",
-      "address": "Wachsmuthstraße 10, 01217 Dresden",
-      "district": "Südvorstadt",
+      "address": "Tolkewitzer Str. 65, 01277 Dresden",
+      "district": "Seidnitz",
       "size": "48 m²",
       "rooms": "2",
-      "title": "Attraktive 2-Zimmer-Wohnung Nähe TU Dresden",
-      "url": "https://www.wg-gesucht.de/wohnung-in-dresden-suedvorstadt.3784679.html",
-      "source": "WG-Gesucht.de"
+      "title": "Sonnige 2-Zimmer-Wohnung mit Balkon in ruhiger Lage",
+      "url": "https://www.wohnungsboerse.net/wohnung-dresden-seidnitz/2-zimmer-48m2-kaltmiete-440eur/17208990",
+      "source": "Wohnungsboerse.net"
     }
   ]
 }
