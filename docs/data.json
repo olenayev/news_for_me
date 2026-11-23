@@ -1,5 +1,5 @@
 {
-  "date": "Sunday, November 22 2026",
+  "date": "Monday, November 23 2026",
   "sections": [
     {
       "category": "Germany",
@@ -8,64 +8,56 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Students Worldwide Skip Class for Class Struggle",
-          "headline_de": "Studenten weltweit schwänzen die Schule für den Klassenkampf",
-          "headline_easy": "Studenten gehen nicht zur Schule.",
-          "summary_en": "Students around the world are participating in protests by skipping classes. This movement reflects a growing engagement with societal issues and a desire for change.",
-          "summary_de": "Studenten auf der ganzen Welt nehmen an Protesten teil, indem sie den Unterricht schwänzen. Diese Bewegung spiegelt ein wachsendes Engagement für gesellschaftliche Probleme und den Wunsch nach Veränderung wider.",
-          "summary_easy": "Viele Studenten kämpfen für ihre Rechte. Sie gehen nicht zur Schule. Sie wollen, dass sich Dinge ändern.",
+          "headline_en": "White Flight Hits Germany, Weakening Calls for Diversity",
+          "headline_de": "Weiße Flucht trifft Deutschland, schwächt Rufe nach Vielfalt",
+          "headline_easy": "Mehr weiße Leute verlassen Deutschland. Das macht es schwerer, über Vielfalt zu sprechen.",
+          "summary_en": "The phenomenon of 'White Flight' is impacting Germany, characterized by a departure of white residents. Experts suggest this trend is undermining the national discourse and public desire for diversity.",
+          "summary_de": "Das Phänomen der 'weißen Flucht' beeinflusst Deutschland, gekennzeichnet durch die Abwanderung weißer Bewohner. Experten deuten an, dass dieser Trend den nationalen Diskurs und den öffentlichen Wunsch nach Vielfalt untergräbt.",
+          "summary_easy": "Weiße Menschen ziehen weg aus Deutschland. Das ist ein Problem für die Vielfalt.",
           "links": [
             {
-              "title": "Students Around the World Are Skipping Class to Enter Class Struggle",
-              "url": "https://www.nakedcapitalism.com/2026/11/students-around-the-world-are-skipping-class-to-enter-class-struggle.html"
+              "title": "White Flight Hits Germany, Destroying The 'Desire For Diversity' Myth",
+              "url": "https://biztoc.com/x/cd06ae517ac3c47b"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "António Costa Revives EU Digital Tax Proposal Amid Budget Talks",
-          "headline_de": "António Costa belebt EU-Digitalsteuer-Vorschlag inmitten von Haushaltsgesprächen wieder",
-          "headline_easy": "Portugal will eine neue Steuer.",
-          "summary_en": "António Costa has revived the EU's digital tax proposal in an effort to reach an agreement on the budget. This initiative aims to generate revenue and address tax challenges posed by the digital economy.",
-          "summary_de": "António Costa hat den Vorschlag für eine EU-Digitalsteuer wiederbelebt, um eine Einigung über den Haushalt zu erzielen. Diese Initiative zielt darauf ab, Einnahmen zu generieren und die steuerlichen Herausforderungen der digitalen Wirtschaft anzugehen.",
-          "summary_easy": "Portugal will eine Steuer für digitale Firmen. Es geht um Geld für Europa. Politiker reden darüber.",
+          "headline_en": "Buccaneers vs. Lions NFL Predictions and Picks",
+          "headline_de": "Buccaneers gegen Lions NFL Vorhersagen und Tipps",
+          "headline_easy": "NFL-Spiel: Buccaneers gegen Lions. Wetten und Tipps.",
+          "summary_en": "NFL Week 11 predictions and picks for the game between the Tampa Bay Buccaneers and the Detroit Lions. Expert analysis suggests Jahmyr Gibbs may challenge Tampa Bay's defense.",
+          "summary_de": "NFL-Woche 11 Vorhersagen und Tipps für das Spiel zwischen den Tampa Bay Buccaneers und den Detroit Lions. Expertenanalyse deutet darauf hin, dass Jahmyr Gibbs die Verteidigung von Tampa Bay herausfordern könnte.",
+          "summary_easy": "Die Buccaneers spielen gegen die Lions. Es gibt Tipps für das Spiel. Ein Spieler namens Gibbs könnte gut spielen.",
           "links": [
             {
-              "title": "António Costa revives EU digital tax proposal in bid to reach agreement on budget",
-              "url": "https://www.irishtimes.com/ireland/2026/11/21/antonio-costa-revives-eu-digital-tax-proposal-in-bid-to-reach-agreement-on-budget/"
-            }
-          ]
-        },
-        {
-          "type": "War",
-          "emoji": "⚔️",
-          "headline_en": "Russian Missiles Land in Poland Amid European Military Drills",
-          "headline_de": "Russische Raketen landen in Polen inmitten europäischer Militärübungen",
-          "headline_easy": "Raketen fliegen nach Polen.",
-          "summary_en": "Russian missiles have reportedly landed in Poland during ongoing European military drills. This incident has raised concerns amidst the current geopolitical climate.",
-          "summary_de": "Berichten zufolge sind russische Raketen während laufender europäischer Militärübungen in Polen eingeschlagen. Dieser Vorfall hat im aktuellen geopolitischen Klima Besorgnis erregt.",
-          "summary_easy": "Raketen sind in Polen gelandet. Das ist gefährlich. Es gab dort Militärübungen.",
-          "links": [
+              "title": "Buccaneers vs. Lions prediction, picks: Tampa Bay’s ruthless defense will yield to Jahmyr Gibbs",
+              "url": "https://nypost.com/2026/11/22/betting/buccaneers-vs-lions-prediction-picks-nfl-week-11-odds-props-best-bets/"
+            },
             {
-              "title": "'Grave Violation': Russian Missiles Land in Poland Amid European Military Drills",
-              "url": "https://www.breitbart.com/europe/2026/11/21/russian-missiles-land-in-poland-amid-european-military-drills/"
+              "title": "NFL predictions: Scores and picks for Week 11 between the Buccaneers and Lions",
+              "url": "https://www.bucsnation.com/tampa-bay-buccaneers-odds/69851/buccaneers-lions-predictions-nfl-week-11-picks"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Peak AI? Anthropic's Wall Street Disappointment Signals Caution",
-          "headline_de": "KI-Gipfel? Enttäuschung von Anthropic an der Wall Street signalisiert Vorsicht",
-          "headline_easy": "Firmen mit KI sind nicht immer erfolgreich.",
-          "summary_en": "Anthropic's subdued reception on Wall Street suggests that the hype around AI may be reaching a plateau. Investors are becoming more cautious about the profitability and scalability of AI companies.",
-          "summary_de": "Die verhaltene Aufnahme von Anthropic an der Wall Street deutet darauf hin, dass der Hype um KI einen Höhepunkt erreicht haben könnte. Investoren sind vorsichtiger hinsichtlich der Rentabilität und Skalierbarkeit von KI-Unternehmen.",
-          "summary_easy": "Eine Firma namens Anthropic ist nicht so erfolgreich wie erwartet. Investoren sind vorsichtig bei KI-Firmen. Es ist vielleicht nicht mehr alles Gold, was glänzt.",
+          "headline_en": "Irish Companies Impacted by Global Investment Trends and Food Waste Initiatives",
+          "headline_de": "Irische Unternehmen betroffen von globalen Investitionstrends und Initiativen zur Lebensmittelverschwendung",
+          "headline_easy": "Irische Firmen und Investitionen. Weniger Lebensmittel wegwerfen.",
+          "summary_en": "Global investment strategies are complex, with advice suggesting they are not straightforward. Meanwhile, Irish charities are highlighting the significant issue of food waste, indicating that efforts to combat it are still in early stages.",
+          "summary_de": "Globale Anlagestrategien sind komplex und Investitionen sind nicht einfach. Gleichzeitig heben irische Wohltätigkeitsorganisationen das bedeutende Problem der Lebensmittelverschwendung hervor und deuten an, dass die Bemühungen zur Bekämpfung noch in den Anfängen stecken.",
+          "summary_easy": "Investieren in andere Länder ist schwierig. Es gibt auch Probleme mit weggeworfenem Essen in Irland. Man muss mehr tun, um Essen zu retten.",
           "links": [
             {
-              "title": "Peak AI? Anthropic’s failure to ignite Wall Street should sound alarm here",
-              "url": "https://www.irishtimes.com/business/2026/11/21/peak-ai-anthropics-failure-to-ignite-wall-street-should-sound-alarm-here/"
+              "title": "Ireland 'scratching the surface' on food waste - charity",
+              "url": "https://www.rte.ie/news/2026/1122/1600038-food-waste-ireland/"
+            },
+            {
+              "title": "Global investing isn’t a piece of cake",
+              "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/global-investing-isnt-a-piece-of-cake/article71724594.ece"
             }
           ]
         }
@@ -78,48 +70,40 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "DIY Repair Cafés Offer Sustainable Solutions",
-          "headline_de": "DIY-Reparatur-Cafés bieten nachhaltige Lösungen",
-          "headline_easy": "Man kann Dinge reparieren.",
-          "summary_en": "DIY Repair Cafés are gaining popularity across Europe, promoting a culture of repair and sustainability. These community initiatives combat planned obsolescence and reduce waste by fixing gadgets and furniture.",
-          "summary_de": "DIY-Reparatur-Cafés werden in ganz Europa immer beliebter und fördern eine Kultur der Reparatur und Nachhaltigkeit. Diese Gemeinschaftsinitiativen bekämpfen geplante Obsoleszenz und reduzieren Abfall, indem sie Geräte und Möbel reparieren.",
-          "summary_easy": "Leute treffen sich in Cafés. Dort helfen sie sich, Dinge zu reparieren. Das ist gut für die Umwelt.",
+          "headline_en": "EU-Russia Relations and Climate Summit Outcome",
+          "headline_de": "EU-Russland-Beziehungen und Ergebnis des Klimagipfels",
+          "headline_easy": "EU und Russland reden. Klimakonferenz endet ohne Ergebnis.",
+          "summary_en": "A European Parliament Member suggests direct negotiations between the EU and Russia are necessary, referring to Russia as a 'party of peace'. Separately, the UN climate summit concluded without a deal due to disagreements over fossil fuels.",
+          "summary_de": "Ein Mitglied des Europäischen Parlaments schlägt vor, dass direkte Verhandlungen zwischen der EU und Russland notwendig sind und bezeichnet Russland als 'Friedenspartei'. Separat endete der UN-Klimagipfel ohne eine Einigung aufgrund von Meinungsverschiedenheiten über fossile Brennstoffe.",
+          "summary_easy": "Ein Politiker sagt, die EU soll mit Russland reden. Er nennt Russland 'friedlich'. Die Klimakonferenz ist gescheitert, weil sich die Länder nicht einig waren.",
           "links": [
             {
-              "title": "The Cozy Radicalism of DIY Repair Cafés",
-              "url": "https://www.motherjones.com/environment/2026/11/diy-repair-cafes-gadgets-furniture-how-to-throwaway-culture-planned-obselescence/"
-            }
-          ]
-        },
-        {
-          "type": "War",
-          "emoji": "⚔️",
-          "headline_en": "Russian Dissident Advises Europe on Dealing with Putin",
-          "headline_de": "Russischer Dissident rät Europa im Umgang mit Putin",
-          "headline_easy": "Ein Russe gibt Europa Rat.",
-          "summary_en": "A Russian dissident has offered advice to Europe on how to effectively confront Putin. The counsel emphasizes a firm stance and proactive measures in diplomatic and political engagements.",
-          "summary_de": "Ein russischer Dissident hat Europa Ratschläge gegeben, wie man Putin wirksam entgegentreten kann. Der Rat betont eine feste Haltung und proaktive Maßnahmen in diplomatischen und politischen Beziehungen.",
-          "summary_easy": "Ein Russe sagt, wie Europa mit Putin umgehen soll. Man muss stark sein. Man darf nicht nachgeben.",
-          "links": [
+              "title": "The EU must negotiate with Russia directly – ‘party of peace’ MEP",
+              "url": "https://rt-english.com/news/649212-fidias-mep-eu-russia/"
+            },
             {
-              "title": "‘You have to slap back’: A Russian dissident’s advice for Europe on dealing with Putin",
-              "url": "https://www.irishtimes.com/world/uk/2026/11/21/you-have-to-slap-back-a-russian-dissidents-advice-for-europe-on-dealing-with-putin/"
+              "title": "U.N. climate summit ends without deal after contentious fossil fuel debate",
+              "url": "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Galenica Stock Potentially Undervalued Amid Poland Expansion",
-          "headline_de": "Galenica-Aktie potenziell unterbewertet angesichts der Polen-Expansion",
-          "headline_easy": "Eine Firma kann billiger sein.",
-          "summary_en": "Galenica's stock may be significantly undervalued, with analysis suggesting a potential 48% upside due to its expansion into Poland. This presents a potential investment opportunity.",
-          "summary_de": "Die Aktie von Galenica könnte erheblich unterbewertet sein, wobei Analysen ein potenzielles Aufwärtspotenzial von 48 % aufgrund der Expansion nach Polen nahelegen. Dies stellt eine potenzielle Investitionsmöglichkeit dar.",
-          "summary_easy": "Eine Aktie namens Galenica könnte mehr wert sein. Die Firma wächst in Polen. Das ist gut für die Investoren.",
+          "headline_en": "Fund Probe in London and Company Financial Reports",
+          "headline_de": "Fondermittlung in London und Unternehmensfinanzberichte",
+          "headline_easy": "Geld-Untersuchung in London. Firmen-Zahlen.",
+          "summary_en": "An investigation is tracing significant funds through a London firm. In other financial news, Cosmos Health reported record revenue for the first nine months of the year, with improvements in gross margin and a reduction in total debt.",
+          "summary_de": "Eine Untersuchung verfolgt bedeutende Gelder durch eine Londoner Firma. In anderen Finanznachrichten meldete Cosmos Health Rekordumsätze für die ersten neun Monate des Jahres, mit Verbesserungen bei der Bruttogewinnmarge und einer Reduzierung der Gesamtverschuldung.",
+          "summary_easy": "Man untersucht, woher viel Geld kommt. Eine Firma in London ist beteiligt. Eine andere Firma namens Cosmos Health hat mehr Geld verdient und weniger Schulden.",
           "links": [
             {
-              "title": "Galenica (SWX:GALE) Stock May Be 48% Undervalued On Its Poland Expansion",
-              "url": "https://biztoc.com/x/c38fecec18b5759e"
+              "title": "Fund probe traces 21 bln liras through London firm",
+              "url": "https://www.hurriyetdailynews.com/fund-probe-traces-21-bln-liras-through-london-firm-229702"
+            },
+            {
+              "title": "Cosmos Health Reports Record Nine-Month Revenue of $53.6 Million, Up 18%; Q3 Gross Margin Up 465 Basis Points Sequentially; Total Debt Down 34% and Stockholders' Equity Up 21% Since Year-End",
+              "url": "https://www.newswire.com/news/see-2472979"
             }
           ]
         }
@@ -132,48 +116,72 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Chicago Artist Transforms Bottle Caps into Self-Portrait",
-          "headline_de": "Chicagoer Künstlerin verwandelt Kronkorken in Selbstporträt",
-          "headline_easy": "Eine Künstlerin macht Kunst aus Müll.",
-          "summary_en": "Chicago artist Mary Ellen Croteau has created an impressive 8x7-foot self-portrait using over 7,000 collected bottle caps. This artwork highlights creativity and resourcefulness in art.",
-          "summary_de": "Die Chicagoer Künstlerin Mary Ellen Croteau hat ein beeindruckendes 8x7-Fuß-Selbstporträt aus über 7.000 gesammelten Kronkorken geschaffen. Dieses Kunstwerk hebt Kreativität und Einfallsreichtum in der Kunst hervor.",
-          "summary_easy": "Eine Künstlerin aus Chicago hat ein Bild von sich gemacht. Sie hat viele Kronkorken benutzt. Das Bild ist sehr groß.",
+          "headline_en": "Immigrant and Palestinian Oppression Parallels, US Trade Policy and Climate Summit",
+          "headline_de": "Parallelen zwischen Unterdrückung von Einwanderern und Palästinensern, US-Handelspolitik und Klimagipfel",
+          "headline_easy": "Gleiches Unrecht für Einwanderer und Palästinenser. Handelspolitik. Klimakonferenz.",
+          "summary_en": "The article draws parallels between the systems of oppression faced by immigrants in the US and Palestinians. Meanwhile, Democrats plan to seek the reversal of Trump-era tariffs, and the UN climate summit ended without a fossil fuel deal.",
+          "summary_de": "Der Artikel zieht Parallelen zwischen den Unterdrückungssystemen, denen Einwanderer in den USA und Palästinenser ausgesetzt sind. Unterdessen planen die Demokraten, die Rücknahme der Zölle aus der Trump-Ära anzustreben, und der UN-Klimagipfel endete ohne eine Einigung über fossile Brennstoffe.",
+          "summary_easy": "Einwanderer in den USA und Palästinenser erleben ähnliche Probleme. Die USA wollen alte Zölle abschaffen. Die Klimakonferenz war nicht erfolgreich.",
           "links": [
             {
-              "title": "Chicago artist Mary Ellen Croteau collected more than 7,000 bottle caps over two years; she turned them into an 8-by-7-foot self-portrait",
-              "url": "https://timesofindia.indiatimes.com/world/us/chicago-artist-mary-ellen-croteau-collected-more-than-7000-bottle-caps-over-two-years-she-turned-them-into-an-8-by-7-foot-self-portrait/articleshow/136049568.cms"
+              "title": "Immigrants in US and Palestinians Face Mirroring Systems of Oppression",
+              "url": "https://truthout.org/articles/immigrants-in-us-and-palestinians-face-mirroring-systems-of-oppression/"
+            },
+            {
+              "title": "Democrats to seek reversal of Trump's tariffs",
+              "url": "https://biztoc.com/x/1dc211d9c4533428"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Mexico Hunts Down FBI's Most-Wanted Drug Lord",
-          "headline_de": "Mexiko jagt meistgesuchten Drogenboss des FBI",
-          "headline_easy": "Mexiko fängt einen Verbrecher.",
-          "summary_en": "Mexico has successfully apprehended an FBI's most-wanted drug lord following a high-intensity operation involving helicopters and explosions. This action marks a significant victory in the fight against international drug trafficking.",
-          "summary_de": "Mexiko hat einen meistgesuchten Drogenboss des FBI nach einer intensiven Operation mit Hubschraubern und Explosionen erfolgreich festgenommen. Diese Aktion stellt einen bedeutenden Sieg im Kampf gegen den internationalen Drogenhandel dar.",
-          "summary_easy": "Mexiko hat einen großen Verbrecher gefangen. Es gab Helikopter und Explosionen. Das ist gut gegen Drogen.",
+          "headline_en": "Organ Harvesting Allegations in China and Climate Summit Outcome",
+          "headline_de": "Vorwürfe der Organentnahme in China und Ergebnis des Klimagipfels",
+          "headline_easy": "Organhandel in China. Klimakonferenz ohne Erfolg.",
+          "summary_en": "Experts claim that doctors involved in organ harvesting are still operating in China, despite a supposed ban, with allegations of victims being killed for their organs. The UN climate summit also concluded without a deal regarding fossil fuels.",
+          "summary_de": "Experten behaupten, dass Ärzte, die an der Organentnahme beteiligt sind, trotz eines angeblichen Verbots weiterhin in China tätig sind, wobei Opfer angeblich für ihre Organe getötet werden. Der UN-Klimagipfel endete ebenfalls ohne eine Einigung über fossile Brennstoffe.",
+          "summary_easy": "Es gibt Berichte über schlimme Dinge in China: Menschen werden für Organe getötet. Auch die Klimakonferenz war erfolglos.",
           "links": [
             {
-              "title": "Bullets rain from helicopter, explosions on ground: How Mexico hunted down FBI's most-wanted drug lord; watch",
-              "url": "https://timesofindia.indiatimes.com/world/rest-of-world/bullets-rain-from-helicopter-explosions-on-ground-how-mexico-hunted-down-fbis-most-wanted-drug-lord-watch/articleshow/136052912.cms"
+              "title": "'Slaughtered like pigs' for their body parts… while still alive: Organ harvesting doctors are still operating in China despite 'ban', experts claim",
+              "url": "https://www.dailymail.com/news/article-16299699/Slaughtered-like-pigs-body-parts-alive-Organ-harvesting-doctors-operating-China-despite-ban-experts-claim.html"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "SK Hynix Shares Dip Amid AI Chip Selloff",
-          "headline_de": "SK Hynix-Aktien fallen inmitten des Verkaufs von KI-Chips",
-          "headline_easy": "Aktien von SK Hynix fallen.",
-          "summary_en": "SK Hynix's stock price has declined significantly, falling below 1.12 million won, amid a broader selloff in AI chip stocks. This trend reflects investor concerns about the current market for artificial intelligence hardware.",
-          "summary_de": "Der Aktienkurs von SK Hynix ist erheblich gefallen, unter 1,12 Millionen Won, inmitten eines breiteren Ausverkaufs von KI-Chip-Aktien. Dieser Trend spiegelt die Bedenken der Anleger hinsichtlich des aktuellen Marktes für künstliche Intelligenz-Hardware wider.",
-          "summary_easy": "Die Aktien von SK Hynix sind gefallen. Viele Aktien für KI-Chips sind gerade nicht gefragt. Investoren sind besorgt.",
+          "headline_en": "AI's Climate Impact and Global Fraud Case",
+          "headline_de": "Klimaauswirkungen von KI und globaler Betrugsfall",
+          "headline_easy": "KI ist schlecht für das Klima. Betrug in Singapur.",
+          "summary_en": "A report suggests that Artificial Intelligence is becoming detrimental to the climate. In international finance news, a Chinese national has been charged in Singapore for fraud, linked to specific companies.",
+          "summary_de": "Ein Bericht deutet darauf hin, dass Künstliche Intelligenz schädlich für das Klima wird. In internationalen Finanznachrichten wurde ein chinesischer Staatsbürger in Singapur wegen Betrugs im Zusammenhang mit bestimmten Unternehmen angeklagt.",
+          "summary_easy": "Künstliche Intelligenz macht Probleme für die Umwelt. Ein Mann aus China wird wegen Betrugs in Singapur beschuldigt.",
           "links": [
             {
-              "title": "Is It a Good Time to Buy SK Hynix Stock? Shares Sink Below 1.12 Million Won as AI Chip Rout Slams Seoul",
-              "url": "https://www.ibtimes.com.au/sk-hynix-shares-ai-stock-selloff-1879072"
+              "title": "AI is becoming a disaster for the climate",
+              "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the"
+            },
+            {
+              "title": "Chinese national Li Ming charged in fraud case in Singapore linked to Megaspeed and Alice Huang: Report",
+              "url": "https://m.economictimes.com/news/international/world-news/chinese-national-li-ming-charged-in-fraud-case-in-singapore-linked-to-megaspeed-and-alice-huang-report/articleshow/136072599.cms"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "Taiwanese Road Technology and Organ Harvesting Allegations in China",
+          "headline_de": "Taiwanesische Straßentechnologie und Vorwürfe der Organentnahme in China",
+          "headline_easy": "Neue Straßen in Taiwan. Organhandel in China.",
+          "summary_en": "Taiwan developed test roads using recycled tires in asphalt, finding they performed better than conventional mixes. Meanwhile, allegations persist regarding ongoing organ harvesting operations in China despite a supposed ban.",
+          "summary_de": "Taiwan entwickelte Teststraßen, die recycelte Reifen in Asphalt verwendeten und feststellten, dass diese besser abschnitten als herkömmliche Mischungen. Unterdessen bestehen weiterhin Vorwürfe bezüglich laufender Organentnahmeoperationen in China trotz eines angeblichen Verbots.",
+          "summary_easy": "In Taiwan wurden Straßen mit alten Reifen gebaut. Sie sind besser als normale Straßen. In China gibt es Berichte über Organhandel.",
+          "links": [
+            {
+              "title": "In 2000, Taiwan built test roads using ground-up waste tires in asphalt; a four-year study found the pavement performed better than conventional mixes",
+              "url": "https://m.economictimes.com/news/international/us/in-2000-taiwan-built-test-roads-using-ground-up-waste-tires-in-asphalt-a-four-year-study-found-the-pavement-performed-better-than-conventional-mixes/articleshow/136010501.cms"
             }
           ]
         }
@@ -186,32 +194,36 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "New US AI Chip Rules May Impact Southeast Asia's Data Centers",
-          "headline_de": "Neue US-KI-Chip-Regeln könnten Rechenzentren in Südostasien beeinträchtigen",
-          "headline_easy": "Neue Regeln für KI-Chips.",
-          "summary_en": "New US regulations on AI chips are poised to affect data centers in Southeast Asia. These rules could disrupt the region's technological development and data infrastructure.",
-          "summary_de": "Neue US-Vorschriften für KI-Chips werden voraussichtlich Auswirkungen auf Rechenzentren in Südostasien haben. Diese Regeln könnten die technologische Entwicklung und die Dateninfrastruktur der Region stören.",
-          "summary_easy": "Amerika hat neue Regeln für Computerchips gemacht. Das ist schlecht für Firmen in Asien. Ihre Computer könnten langsamer werden.",
+          "headline_en": "K-Pop Underage Performers and Kimchi's Global History",
+          "headline_de": "K-Pop-Minderjährige Darsteller und die globale Geschichte von Kimchi",
+          "headline_easy": "Junge Stars im K-Pop. Geschichte von Kimchi.",
+          "summary_en": "South Korea faces criticism for its handling of underage performers in the K-pop industry, with calls for better protection. Additionally, the global history of Kimchi is explored, tracing its roots from the Columbian Exchange to the Korean diaspora.",
+          "summary_de": "Südkorea steht in der Kritik für den Umgang mit minderjährigen Darstellern in der K-Pop-Industrie, mit Forderungen nach besserem Schutz. Darüber hinaus wird die globale Geschichte von Kimchi erforscht, die seine Wurzeln vom Kolumbianischen Austausch bis zur koreanischen Diaspora zurückverfolgt.",
+          "summary_easy": "Junge Leute im K-Pop brauchen mehr Schutz. Ein Artikel erzählt, woher Kimchi kommt und wie es in der Welt bekannt wurde.",
           "links": [
             {
-              "title": "New US AI chip rules against China threaten Southeast Asia’s data centers",
-              "url": "https://cryptobriefing.com/us-ai-chip-rules-southeast-asia-data-centers/"
+              "title": "K-pop has an underage performer problem: South Korea needs to protect them better",
+              "url": "https://www.livemint.com/opinion/online-views/kpop-has-an-underage-performer-problem-south-korea-needs-to-protect-them-better-11795084033681.html"
+            },
+            {
+              "title": "Global History Behind Kimchi: From the Columbian Exchange to the Korean Diaspora",
+              "url": "https://blogs.loc.gov/international-collections/2026/11/global-history-behind-kimchi-from-the-columbian-exchange-to-the-korean-diaspora/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Hong Kong Launches Tencent-Backed Bitcoin ETF with Low Entry Point",
-          "headline_de": "Hongkong startet von Tencent unterstützten Bitcoin-ETF mit niedrigem Einstiegspunkt",
-          "headline_easy": "Es gibt einen neuen Bitcoin-Fonds.",
-          "summary_en": "Hong Kong has introduced its sixth Bitcoin ETF, this one backed by a Tencent-affiliated manager. With a low entry point of $100, it aims to make cryptocurrency investment more accessible.",
-          "summary_de": "Hongkong hat seinen sechsten Bitcoin-ETF eingeführt, der von einem mit Tencent verbundenen Manager unterstützt wird. Mit einem niedrigen Einstiegspunkt von 100 US-Dollar zielt er darauf ab, Investitionen in Kryptowährungen zugänglicher zu machen.",
-          "summary_easy": "In Hongkong gibt es einen neuen Fonds für Bitcoin. Man kann schon mit wenig Geld einsteigen. Das macht Krypto für mehr Leute interessant.",
+          "headline_en": "Singapore Fraud Case and Global Investment Links",
+          "headline_de": "Betrugsfall in Singapur und globale Investitionsverbindungen",
+          "headline_easy": "Betrug in Singapur. Geld aus aller Welt.",
+          "summary_en": "A Chinese national has been charged with fraud in Singapore, with connections to specific companies. This case highlights international financial dealings and potential illicit activities.",
+          "summary_de": "Ein chinesischer Staatsbürger wurde in Singapur wegen Betrugs angeklagt, mit Verbindungen zu bestimmten Unternehmen. Dieser Fall unterstreicht internationale Finanzgeschäfte und potenzielle illegale Aktivitäten.",
+          "summary_easy": "Ein Mann aus China hat in Singapur betrogen. Das zeigt, wie Geld international fließt.",
           "links": [
             {
-              "title": "Hong Kong Bitcoin ETF No. 6 Comes From a Tencent-Backed Manager, With a $100 Entry",
-              "url": "https://www.dcforecasts.com/bitcoin-news/hong-kong-bitcoin-etf-gaoteng-tencent-hillhouse/"
+              "title": "Chinese national Li Ming charged in fraud case in Singapore linked to Megaspeed and Alice Huang: Report",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/chinese-national-li-ming-charged-in-fraud-case-in-singapore-linked-to-megaspeed-and-alice-huang-report/articleshow/136072599.cms"
             }
           ]
         }
@@ -224,64 +236,56 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "British Sci-Fi Show with Dinosaurs Streams Free",
-          "headline_de": "Britische Sci-Fi-Serie mit Dinosauriern streamt kostenlos",
-          "headline_easy": "Eine Serie mit Dinosauriern ist gratis.",
-          "summary_en": "A British science fiction series featuring dinosaurs terrorizing the modern world is now available for free streaming. The show offers an exciting blend of prehistoric creatures and contemporary settings.",
-          "summary_de": "Eine britische Science-Fiction-Serie, in der Dinosaurier die moderne Welt terrorisieren, ist jetzt kostenlos online verfügbar. Die Show bietet eine aufregende Mischung aus prähistorischen Kreaturen und zeitgenössischen Schauplätzen.",
-          "summary_easy": "Es gibt eine Serie aus England. Darin greifen Dinosaurier Menschen an. Man kann sie jetzt gratis sehen.",
+          "headline_en": "Global Climate Summit Fails on Fossil Fuels; Iran Talks Strategy",
+          "headline_de": "Globaler Klimagipfel scheitert an fossilen Brennstoffen; Strategie für Iran-Gespräche",
+          "headline_easy": "Klimagipfel gescheitert. Verhandlungen mit Iran.",
+          "summary_en": "The UN climate summit collapsed without an agreement due to contentious debates over fossil fuels. Separately, an opinion piece advises against allowing Iran to use talks to its advantage, likening it to a \"scorpion's sting.\"",
+          "summary_de": "Der UN-Klimagipfel brach aufgrund von strittigen Debatten über fossile Brennstoffe ohne eine Einigung zusammen. Separat rät ein Meinungsbeitrag davon ab, Iran die Nutzung von Gesprächen zu seinem Vorteil zu gestatten, und vergleicht dies mit einem \"Skorpionsstich\".",
+          "summary_easy": "Die Klimakonferenz war kein Erfolg. Die Länder konnten sich nicht auf fossile Brennstoffe einigen. Ein Artikel warnt davor, mit Iran zu verhandeln.",
           "links": [
             {
-              "title": "This British Sci-Fi Show With Dinosaurs Terrorizing The Modern World Is Streaming For Free",
-              "url": "https://www.bgr.com/2323603/british-sci-fi-show-dinosaurs-modern-world-streaming-free-primeval/"
-            }
-          ]
-        },
-        {
-          "type": "Business",
-          "emoji": "💼",
-          "headline_en": "Barcelona Faces Renewed Probe Over Referee Payments",
-          "headline_de": "Barcelona steht wegen Schiedsrichterzahlungen erneut vor einer Untersuchung",
-          "headline_easy": "FC Barcelona muss sich erklären.",
-          "summary_en": "Joan Laporta, president of FC Barcelona, is renewing calls for an investigation into payments made by the club to a former refereeing chief. This ongoing scandal continues to cast a shadow over the club's operations.",
-          "summary_de": "Joan Laporta, Präsident des FC Barcelona, erneuerte seine Forderungen nach einer Untersuchung der Zahlungen des Vereins an einen ehemaligen Schiedsrichterobmann. Dieser anhaltende Skandal wirft weiterhin einen Schatten auf den Betrieb des Vereins.",
-          "summary_easy": "Der Chef vom FC Barcelona will mehr wissen. Es gab Zahlungen an einen Schiedsrichter. Das ist ein Problem für den Verein.",
-          "links": [
+              "title": "Global climate summit collapses as countries fail to agree on moving away from fossil fuels | CNN",
+              "url": "https://www.cnn.com/2026/11/22/climate/cop31-summit-collapses-in-fossil-fuel-failure"
+            },
             {
-              "title": "Pérez renews call for probe into Barcelona’s payments to ex-refereeing chief",
-              "url": "https://punchng.com/perez-renews-call-for-probe-into-barcelonas-payments-to-ex-refereeing-chief/"
-            }
-          ]
-        },
-        {
-          "type": "War",
-          "emoji": "⚔️",
-          "headline_en": "Nigeria Backs Infantino for FIFA Re-election",
-          "headline_de": "Nigeria unterstützt Infantino bei Wiederwahl zur FIFA",
-          "headline_easy": "Nigeria unterstützt den FIFA-Chef.",
-          "summary_en": "Nigeria has announced its support for Gianni Infantino's bid for re-election as FIFA president. This endorsement from a major African football nation could influence the outcome of the FIFA presidential race.",
-          "summary_de": "Nigeria hat seine Unterstützung für Gianni Infantinos Kandidatur zur Wiederwahl als FIFA-Präsident angekündigt. Diese Unterstützung eines großen afrikanischen Fußballlandes könnte den Ausgang des FIFA-Präsidentschaftsrennens beeinflussen.",
-          "summary_easy": "Nigeria stimmt für den Chef der FIFA. Das ist Gianni Infantino. Er will nochmal Präsident werden.",
-          "links": [
-            {
-              "title": "Nigeria backs Infantino’s FIFA re-election bid",
-              "url": "https://punchng.com/nigeria-backs-infantinos-fifa-re-election-bid/"
+              "title": "Don’t let Iran use talks to deliver the proverbial scorpion’s sting",
+              "url": "https://nypost.com/2026/11/22/opinion/dont-let-iran-use-talks-to-deliver-the-proverbial-scorpions-sting/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "UK Black Friday Deals: Sony, Nintendo, and More",
-          "headline_de": "UK Black Friday Angebote: Sony, Nintendo und mehr",
-          "headline_easy": "Günstige Angebote in England.",
-          "summary_en": "Ahead of Black Friday, consumers in the UK can look forward to numerous deals on popular items, including Sony headphones, Nintendo Switch 2, Kindles, and more. This sale event promises significant discounts across various electronics and gadgets.",
-          "summary_de": "Im Vorfeld des Black Friday können sich Verbraucher in Großbritannien auf zahlreiche Angebote für beliebte Artikel freuen, darunter Sony-Kopfhörer, Nintendo Switch 2, Kindles und mehr. Dieses Verkaufsereignis verspricht erhebliche Rabatte auf verschiedene Elektronikgeräte und Gadgets.",
-          "summary_easy": "In England gibt es viele Angebote für Black Friday. Man kann Produkte von Sony und Nintendo billiger kaufen. Es gibt auch Bücher und Staubsauger im Angebot.",
+          "headline_en": "Anthropic CEO's Net Worth and High-Earning Google Employee's Lifestyle",
+          "headline_de": "Nettovermögen des Anthropic-CEO und Lebensstil eines hochverdienenden Google-Mitarbeiters",
+          "headline_easy": "Reichtum eines Chefs. Ein Google-Mitarbeiter lebt sparsam.",
+          "summary_en": "The net worth of Anthropic's CEO, Dario Amodei, is highlighted, noting its volatility with market changes. Additionally, a Google employee earning a substantial salary lives on a significantly lower income, resembling minimum wage spending.",
+          "summary_de": "Das Nettovermögen des Anthropic-CEO Dario Amodei wird hervorgehoben, wobei dessen Volatilität mit Marktveränderungen festgestellt wird. Außerdem lebt ein Google-Mitarbeiter mit einem beträchtlichen Gehalt von einem deutlich geringeren Einkommen, das dem Lebensstil auf Mindestlohnbasis ähnelt.",
+          "summary_easy": "Der Chef einer Firma namens Anthropic ist sehr reich. Aber sein Geld kann sich schnell ändern. Ein anderer Mann bei Google verdient viel Geld, gibt aber sehr wenig aus.",
           "links": [
             {
-              "title": "90+ best Black Friday deals in the UK — Sony headphones, Switch 2, Kindles, Shark vacuums, Lego, Samsung, and more",
-              "url": "https://www.techradar.com/live/news/black-friday-deals-uk-2026-november-21"
+              "title": "Dario Amodei Net Worth: Anthropic IPO Makes CEO a Multibillionaire, but His Fortune Swings With Every Trade",
+              "url": "https://www.ibtimes.com.au/anthropic-ipo-dario-amodei-billionaire-fortune-1879171"
+            },
+            {
+              "title": "26-year-old Google worker earns $323,000 a year—but lives on less than minimum wage",
+              "url": "https://www.cnbc.com/make-it/2026/11/22/google-worker-earns-323000-a-yearbut-he-lives-on-minimum-wage.html"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "Indian Politics, Socialist Agendas, and Tech Sector Wealth",
+          "headline_de": "Indische Politik, sozialistische Agenden und Wohlstand im Technologiesektor",
+          "headline_easy": "Politik in Indien. Ideen für die Gesellschaft. Geld in der Technik.",
+          "summary_en": "A political commentator suggests 'BJP agents' within a party are working towards a merger, sidelining a key leader. Other reports touch on 'socialist agendas' and the significant wealth generated in the technology sector, exemplified by a tech CEO's substantial net worth.",
+          "summary_de": "Ein politischer Kommentator deutet an, dass 'BJP-Agenten' innerhalb einer Partei auf eine Fusion hinarbeiten und einen wichtigen Führer beiseiteschieben. Andere Berichte berühren 'sozialistische Agenden' und den erheblichen Wohlstand, der im Technologiesektor generiert wird, was sich im beträchtlichen Nettovermögen eines Tech-CEOs zeigt.",
+          "summary_easy": "Es gibt politische Neuigkeiten aus Indien. Auch geht es um Ideen, wie eine Gesellschaft funktionieren soll. Und wie reich manche Leute in der Technik sind.",
+          "links": [
+            {
+              "title": "'BJP agents' in JD(U) working towards merger, keeping Nitish Kumar away from public functions: Prashant Kishor",
+              "url": "https://m.economictimes.com/news/politics-and-nation/bjp-agents-in-jdu-working-towards-merger-keeping-nitish-kumar-away-from-public-functions-prashant-kishor/articleshow/136076237.cms"
             }
           ]
         }
@@ -292,27 +296,27 @@
     "wahlperiode": 21,
     "sitzung": 109,
     "url": "https://dserver.bundestag.de/btp/21/21109.pdf",
-    "summary_en": "On Friday, November 13, 2026, the German Bundestag convened for its 109th session of the 21st legislative period. The primary agenda item was the second and third reading of the government's draft law to reform intelligence service law. Several MPs debated this crucial legislation. Alexander Throm (CDU/CSU) and Dr. Christian Wirth (AfD) spoke early in the discussion, followed by Sonja Eichwede (SPD) and Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN). Clara Bünger (Die Linke) also contributed to the debate. Bundesminister BMI Alexander Dobrindt addressed the assembly regarding the bill. The session also included a debate on a Left Party motion for a nationwide rent cap, with contributions from Caren Lay (Die Linke), Janine Wissler (Die Linke), and Nina Warken, Federal Minister for Special Tasks. Additionally, the Bundestag discussed the continuation of Germany's participation in the NATO-led maritime security operation SEA GUARDIAN, with statements from Jürgen Hardt (CDU/CSU), Kurt Kleinschmidt (AfD), and Aydan Özoğuz (SPD). A second reading and final vote took place on a partnership agreement between the EU and Mercosur countries. The session also saw motions and debates on other agenda items, including one related to parliamentary procedure. Several roll-call votes and their results were recorded throughout the session.",
-    "summary_de": "Am Freitag, den 13. November 2026, trat der Deutsche Bundestag zur 109. Sitzung der 21. Wahlperiode zusammen. Der Hauptpunkt der Tagesordnung war die zweite und dritte Beratung des Gesetzentwurfs der Bundesregierung zur Reform des Nachrichtendienstrechts. Mehrere Abgeordnete debattierten dieses wichtige Gesetz. Alexander Throm (CDU/CSU) und Dr. Christian Wirth (AfD) sprachen früh in der Debatte, gefolgt von Sonja Eichwede (SPD) und Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN). Clara Bünger (Die Linke) beteiligte sich ebenfalls an der Aussprache. Bundesminister BMI Alexander Dobrindt sprach zur Parlamentschaft. Die Sitzung beinhaltete auch eine Debatte über einen Antrag der Linken für einen bundesweiten Mietendeckel, mit Beiträgen von Caren Lay (Die Linke), Janine Wissler (Die Linke) und Nina Warken, Bundesministerin für besondere Aufgaben. Des Weiteren wurde die Fortsetzung der Beteiligung deutscher Streitkräfte an der NATO-geführten maritimen Sicherheitsoperation SEA GUARDIAN diskutiert, mit Erklärungen von Jürgen Hardt (CDU/CSU), Kurt Kleinschmidt (AfD) und Aydan Özoğuz (SPD). Eine zweite Beratung und Schlussabstimmung fand zu einem Partnerschaftsabkommen zwischen der EU und den Mercosur-Staaten statt. Im Verlauf der Sitzung wurden auch Anträge und Debatten zu weiteren Tagesordnungspunkten geführt, darunter einer zur Geschäftsordnung. Mehrere namentliche Abstimmungen und deren Ergebnisse wurden protokolliert.",
-    "summary_easy": "Am Freitag, dem 13. November 2026, gab es eine Sitzung im Bundestag. Die Abgeordneten sprachen über viele wichtige Themen. Ein Hauptthema war ein neues Gesetz für Geheimdienste. Viele Politiker sagten ihre Meinung dazu. Alexander Throm und Christian Wirth sprachen zuerst. Dann sprachen Sonja Eichwede und Konstantin von Notz. Auch Clara Bünger und Alexander Dobrindt sprachen. Die Politiker diskutierten auch über Mietpreise. Die Partei Die Linke will eine Mietpreisbremse. Caren Lay und Janine Wissler von dieser Partei sprachen. Nina Warken, eine Ministerin, sprach auch. Die Bundeswehr hilft auch auf dem Meer bei einer NATO-Mission. Jürgen Hardt, Kurt Kleinschmidt und Aydan Özoğuz sprachen darüber. Es gab auch ein Abkommen mit Südamerika. Die Abgeordneten stimmten über viele Dinge ab.",
+    "summary_en": "On Friday, November 13, 2026, the German Bundestag convened for its 109th session of the 21st legislative period. The session primarily focused on the second and third readings of the \"Act to Reform Intelligence Service Law\" introduced by the federal government. Key speakers included Alexander Throm (CDU/CSU), Dr. Christian Wirth (AfD), Sonja Eichwede (SPD), Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN), and Clara Bünger (Die Linke), who presented various party stances on the reform. Federal Minister of the Interior BMI, Alexander Dobrindt, also addressed the chamber regarding the bill. The AfD, represented by Jochen Haug and Dr. Bernd Baumann, voiced opposition, while the SPD, through Sebastian Fiedler and Dirk Wiese, and BÜNDNIS 90/DIE GRÜNEN, with Dr. Irene Mihalic, engaged in debate. The agenda also included a proposal by Die Linke for a nationwide rent cap, with speeches from Caren Lay, Janine Wissler, and Katalin Gennburg, countered by CDU/CSU's Dr. Jan-Marco Luczak and Nina Warken, and AfD's Dr. Anna Rathert. Furthermore, the Bundestag debated the continuation of German armed forces' participation in the NATO-led maritime security operation SEA GUARDIAN, with contributions from Jürgen Hardt (CDU/CSU), Kurt Kleinschmidt (AfD), Aydan Özoğuz (SPD), and Luise Amtsberg (BÜNDNIS 90/DIE GRÜNEN). The session also included the second reading and final vote on the EU partnership agreement with Mercosur, featuring speakers like Peter Beyer (CDU/CSU) and Dr. Anton Hofreiter (BÜNDNIS 90/DIE GRÜNEN). Multiple roll-call votes and their results were recorded throughout the proceedings.",
+    "summary_de": "Am Freitag, dem 13. November 2026, trat der Deutsche Bundestag zur 109. Sitzung der 21. Wahlperiode zusammen. Die Sitzung konzentrierte sich hauptsächlich auf die zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Reform des Nachrichtendienstegesetzes. Bedeutende Redner waren Alexander Throm (CDU/CSU), Dr. Christian Wirth (AfD), Sonja Eichwede (SPD), Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN) und Clara Bünger (Die Linke), die verschiedene Parteipositionen zur Reform darlegten. Bundesminister des Innern BMI, Alexander Dobrindt, sprach ebenfalls zu dem Gesetzentwurf. Die AfD, vertreten durch Jochen Haug und Dr. Bernd Baumann, äußerte sich ablehnend, während die SPD mit Sebastian Fiedler und Dirk Wiese sowie BÜNDNIS 90/DIE GRÜNEN mit Dr. Irene Mihalic in die Debatte eintraten. Die Tagesordnung umfasste auch einen Antrag der Linken auf einen bundesweiten Mietendeckel, zu dem Caren Lay, Janine Wissler und Katalin Gennburg sprachen, dem jedoch Dr. Jan-Marco Luczak und Nina Warken (CDU/CSU) sowie Dr. Anna Rathert (AfD) widersprachen. Des Weiteren wurde die Fortsetzung der Beteiligung deutscher Streitkräfte an der NATO-geführten maritimen Sicherheitsoperation SEA GUARDIAN debattiert, mit Beiträgen von Jürgen Hardt (CDU/CSU), Kurt Kleinschmidt (AfD), Aydan Özoğuz (SPD) und Luise Amtsberg (BÜNDNIS 90/DIE GRÜNEN). Die Sitzung beinhaltete auch die zweite Beratung und Schlussabstimmung des Partnerschaftsabkommens der EU mit Mercosur, an der Redner wie Peter Beyer (CDU/CSU) und Dr. Anton Hofreiter (BÜNDNIS 90/DIE GRÜNEN) teilnahmen. Mehrere namentliche Abstimmungen und deren Ergebnisse wurden im Laufe der Verhandlungen protokolliert.",
+    "summary_easy": "Der Bundestag traf sich am 13. November 2026. Die Abgeordneten sprachen über ein neues Gesetz für den Nachrichtendienst. Dieses Gesetz soll die Arbeit der Geheimdienste reformieren. Es gab viele Reden dazu. Die CDU/CSU, SPD und Grüne diskutierten das Gesetz. Die AfD war dagegen. Ein anderes wichtiges Thema war ein Mietendeckel für ganz Deutschland. Die Linke forderte ihn. Die anderen Parteien waren nicht dafür. Es ging auch um deutsche Soldaten im Mittelmeer. Sie helfen bei einer NATO-Mission. Die Abgeordneten stimmten über diese Einsätze ab. Außerdem wurde ein Abkommen mit südamerikanischen Ländern besprochen.",
     "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact_en": "During the Renaissance, sumptuary laws in Italy dictated what colors and fabrics people of different social classes could wear. For example, only nobility could wear expensive purple dyes derived from murex shells, while commoners were restricted to earthier, less vibrant colors.",
-      "fact_de": "Während der Renaissance schrieben in Italien Kleiderordnungen vor, welche Farben und Stoffe Menschen verschiedener sozialer Schichten tragen durften. Zum Beispiel durften nur Adlige teure lila Farbstoffe aus Purpurschnecken tragen, während einfache Leute auf erdige, weniger leuchtende Farben beschränkt waren.",
-      "fact_easy": "In der Renaissance gab es in Italien Regeln. Diese Regeln sagten, welche Kleidung Leute tragen durften. Nur reiche Leute durften teure Farben tragen. Einfache Leute mussten einfache Farben tragen.",
+      "fact_en": "During the French Revolution, women adopted the 'tricoteuse' look, featuring simple, dark dresses and often wearing red caps. This fashion choice was not merely aesthetic but served as a symbol of solidarity with the working-class sans-culottes who were prominent during the revolutionary period.",
+      "fact_de": "Während der Französischen Revolution nahmen Frauen den 'Tricoteuse'-Look an, der einfache, dunkle Kleider und oft rote Mützen beinhaltete. Diese Modeentscheidung war nicht nur ästhetisch, sondern diente auch als Symbol der Solidarität mit den Sansculottes der Arbeiterklasse, die während der Revolutionszeit prominent waren.",
+      "fact_easy": "Während der Französischen Revolution trugen Frauen einfache Kleider. Sie trugen rote Mützen. Das war ein Zeichen für die Arbeiter.",
       "category": "Fashion",
-      "source_title": "Sumptuary laws - Wikipedia",
-      "source_url": "https://en.wikipedia.org/wiki/Sumptuary_law"
+      "source_title": "Tricoteuses: The Women Who Knit While Paris Burned",
+      "source_url": "https://www.english-heritage.org.uk/visit/places/holloway-prison/history-and-stories/tricoteuses/"
     },
     {
-      "fact_en": "The tradition of giving gifts on New Year's Day has roots in ancient Roman practices. The Romans exchanged gifts, known as 'strenae', which were often fig branches or honey cakes, to wish each other good fortune and a sweet new year.",
-      "fact_de": "Die Tradition, am Neujahrstag Geschenke zu machen, hat Wurzeln in alten römischen Bräuchen. Die Römer tauschten Geschenke aus, bekannt als 'strenae', oft Feigenzweige oder Honigkuchen, um sich gegenseitig Glück und ein süßes neues Jahr zu wünschen.",
-      "fact_easy": "Leute schenken sich am Neujahrstag Geschenke. Das kommt von den alten Römern. Die Römer gaben auch Geschenke. Sie nannten sie 'strenae'. Sie wünschten sich Glück für das neue Jahr.",
+      "fact_en": "The ancient Roman festival of Lupercalia, celebrated in February, involved men running through the streets wearing only loincloths and striking women with strips of hide from sacrificed goats. This was believed to promote fertility and ease childbirth.",
+      "fact_de": "Das alte römische Fest Lupercalia, das im Februar gefeiert wurde, beinhaltete Männer, die nur mit Lendenschurzen durch die Straßen rannten und Frauen mit Streifen von geopferten Ziegenhäuten schlugen. Dies sollte Fruchtbarkeit fördern und die Geburt erleichtern.",
+      "fact_easy": "Im alten Rom gab es ein Fest namens Lupercalia. Männer liefen mit wenig Kleidung herum. Sie schlugen Frauen mit Lederstreifen. Das sollte helfen, Kinder zu bekommen.",
       "category": "Traditions",
-      "source_title": "New Year's Day - Wikipedia",
-      "source_url": "https://en.wikipedia.org/wiki/New_Year%27s_Day#Traditions"
+      "source_title": "Lupercalia",
+      "source_url": "https://www.britannica.com/topic/Lupercalia"
     }
   ],
   "frankfurt": {
@@ -320,145 +324,84 @@
       {
         "type": "Events",
         "emoji": "🎪",
-        "headline_en": "Uniklinik Frankfurt to Save Millions Through Cost-Cutting Measures",
-        "headline_de": "Uniklinik Frankfurt spart Millionen durch Sparmaßnahmen",
-        "headline_easy": "Uniklinik Frankfurt will Geld sparen.",
-        "summary_en": "The supervisory board of Uniklinik Frankfurt has approved a comprehensive economic restructuring plan aiming to save 65 million Euros. As part of these measures, several hospital wards will be relocated from the Schiffer campus to the main Uniklinik site.",
-        "summary_de": "Der Aufsichtsrat der Uniklinik Frankfurt hat einer umfassenden wirtschaftlichen Sanierung zugestimmt, die 65 Millionen Euro einsparen soll. Im Rahmen dieser Maßnahmen werden mehrere Stationen vom Schiffer-Campus in die Uniklinik umziehen müssen.",
-        "summary_easy": "Die Uniklinik Frankfurt muss 65 Millionen Euro sparen. Einige Stationen ziehen um. Das ist gut für das Geld der Klinik.",
+        "headline_en": "Hoffenheim Criticizes Referee After Frankfurt Loss; 'Tatort' Episode Features Teheran Attacker; Police Chief Discusses Youth Protests",
+        "headline_de": "Hoffenheim kritisiert Schiedsrichter nach Frankfurt-Niederlage; „Tatort“-Folge thematisiert Attentäter aus Teheran; Polizeichef spricht über Jugendproteste",
+        "headline_easy": "Hoffenheim ist sauer wegen des Schiedsrichters. Ein neuer „Tatort“ handelt von einem Attentäter. Die Polizei spricht über eine Demo.",
+        "summary_en": "Following their 0:1 defeat to Eintracht Frankfurt, Hoffenheim's sports director heavily criticized the refereeing. A new 'Tatort' episode from Frankfurt investigates an unsolved political assassination from 1999 with ties to Teheran. The police leader for Frankfurt's youth protests explains the coordination of a large police presence and the reasons for the largely peaceful outcome.",
+        "summary_de": "Nach der 0:1-Niederlage gegen Eintracht Frankfurt hat der Sport-Geschäftsführer von Hoffenheim das Schiedsrichtergespann scharf kritisiert. Eine neue „Tatort“-Folge aus Frankfurt thematisiert ein politisches Attentat aus dem Jahr 1999, das scheinbar unaufgeklärt blieb. Der Einsatzleiter der Frankfurter Jugendproteste erläutert die Koordination eines großen Polizeiaufgebots und die Gründe für den weitgehend friedlichen Verlauf.",
+        "summary_easy": "Hoffenheim hat gegen Frankfurt verloren und ist mit dem Schiedsrichter unzufrieden. In einem neuen „Tatort“ geht es um einen alten Fall. Die Polizei erklärt, warum eine Demo friedlich war.",
         "links": [
           {
-            "title": "Uniklinik Frankfurt muss 65 Millionen Euro einsparen: So soll es gehen",
-            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/uniklinik-frankfurt-muss-65-millionen-euro-einsparen-so-soll-es-gehen-accg-201702296.html"
+            "title": "Hoffenheim-Ärger nach Frankfurt-Pleite - Schicker attackiert Schiri-Gespann: Witz-Elfmeter",
+            "url": "https://www.bild.de/sport/fussball/tsg-hoffenheim-schicker-attackiert-schiris-nach-eintracht-elfer-6b02f06825b618a0b5d5bec8"
           },
           {
-            "title": "Wieder Weihnachtsmarkt-Zoff - Lumumba-Streit jetzt auch um Ersatznamen",
-            "url": "https://www.bild.de/news/inland/lumumba-streit-geht-in-die-naechste-runde-problem-auf-weihnachtsmaerkten-6b0160d339a3e8110f0e50cb"
+            "title": "„Tatort“ aus Frankfurt: Der Attentäter kommt aus Teheran",
+            "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/fernsehfilm/iranisches-politattentat-im-tatort-4-finger-201701029.html"
           }
         ]
       },
       {
         "type": "Crime",
         "emoji": "🚔",
-        "headline_en": "Hessian Minister-President Calls for Stricter Immigration and Deportation Policies Post-Frankfurt Riots",
-        "headline_de": "Rhein fordert nach Frankfurter Krawallen strengere Einwanderungs- und Abschieberegeln",
-        "headline_easy": "Hessen will strengere Regeln für Einwanderung und Abschiebung.",
-        "summary_en": "Following the recent riots in Frankfurt, Hessian Minister-President Boris Rhein is calling for stricter naturalization rules and advocating for increased police controls. He emphasizes the need for integration alongside immigration.",
-        "summary_de": "Nach den jüngsten Krawallen in Frankfurt fordert Hessens Ministerpräsident Boris Rhein schärfere Einbürgerungsregeln und verteidigt verstärkte Polizeikontrollen. Er betont die Notwendigkeit von Integration bei gleichzeitiger Zuwanderung.",
-        "summary_easy": "Hessens Chef Boris Rhein spricht über die Ausschreitungen in Frankfurt. Er will, dass Einwanderung besser mit Integration verbunden ist. Er fordert auch mehr Polizei.",
+        "headline_en": "Frankfurt Police Report Positive Outcome for Protest Day; Ten Arrests Made During Friday Demonstrations; Regional Liveblog Covers Incidents",
+        "headline_de": "Polizei zieht positive Bilanz nach Protesttag in Frankfurt; Zehn Festnahmen bei Demo-Freitag in Frankfurt; Rhein-Main-Liveblog berichtet über Vorfälle",
+        "headline_easy": "Die Polizei war mit den Demos zufrieden. Es gab zehn Festnahmen. Ein Liveblog berichtet über Neuigkeiten.",
+        "summary_en": "Frankfurt police have reported a positive assessment of the recent protest day, with ten arrests made during Friday's demonstrations. While the protests were largely peaceful, some arrests were linked to earlier Halloween disturbances. A regional liveblog also provided updates on various incidents across the Rhein-Main area, including a man losing consciousness after being kicked in Wiesbaden.",
+        "summary_de": "Die Frankfurter Polizei zieht eine positive Bilanz nach dem jüngsten Protesttag. Am Demo-Freitag gab es zehn Festnahmen, einige davon im Zusammenhang mit Ausschreitungen an Halloween. Ein Liveblog aus der Region berichtete zudem über verschiedene Vorfälle, darunter einen Mann, der in Wiesbaden nach Tritten bewusstlos wurde.",
+        "summary_easy": "Die Polizei in Frankfurt sagt, die Demo war gut. Zehn Leute wurden festgenommen. In Wiesbaden wurde ein Mann verletzt.",
         "links": [
           {
-            "title": "„Migration ohne Integration“ – Rhein fordert Abschiebungen nach den Frankfurter Krawallen",
-            "url": "https://www.welt.de/politik/deutschland/article6b015fed39a3e8110f0e50aa/hessen-migration-ohne-integration-rhein-fordert-abschiebungen-nach-den-frankfurter-krawallen.html"
+            "title": "Rhein-Main-Liveblog: Wiesbaden: Mann verliert nach Tritten gegen Kopf Bewusstsein",
+            "url": "https://www.faz.net/aktuell/rhein-main/wiesbaden-junger-mann-nach-tritten-gegen-kopf-bewusstlos-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
           },
           {
-            "title": "Machtkampf in der SPD: Ein Offenbacher als Hoffnungsträger der Genossen",
-            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/aufstand-in-der-spd-was-koennte-felix-schwenke-besser-machen-accg-201694554.html"
+            "title": "Jugendproteste: Zehn Festnahmen am Demo-Freitag in Frankfurt",
+            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/gen-z-proteste-zehn-festnahmen-am-demo-freitag-in-frankfurt-accg-201706132.html"
           }
         ]
       },
       {
         "type": "Sales & Offers",
         "emoji": "🛍️",
-        "headline_en": "SPD Faces Internal Strife Over Potential Leadership Candidate Felix Schwenke",
-        "headline_de": "Machtkampf in der SPD um Offenbacher Oberbürgermeister",
-        "headline_easy": "Die SPD hat Streit um einen neuen Chef.",
-        "summary_en": "A significant faction within the Hessian SPD is pushing for Offenbach's Mayor Felix Schwenke to lead the party into the state elections. This move, however, risks causing significant internal division.",
-        "summary_de": "Eine große Gruppe hessischer Sozialdemokraten möchte eine personelle Veränderung und favorisiert den Offenbacher Oberbürgermeister Felix Schwenke als Spitzenkandidaten für die Landtagswahl. Dieser Vorstoß birgt jedoch das Risiko einer Zerreißprobe innerhalb der Partei.",
-        "summary_easy": "Viele Leute in der SPD wollen Felix Schwenke als neuen Chef. Er ist Oberbürgermeister in Offenbach. Das könnte aber Streit in der Partei machen.",
+        "headline_en": "Regional Liveblog Covers Incidents; Ten Arrests Made During Frankfurt Protests; Building in Frankfurt Recommended",
+        "headline_de": "Rhein-Main-Liveblog berichtet über Vorfälle; Zehn Festnahmen bei Demo-Freitag in Frankfurt; Bauen wie in Frankfurt empfohlen",
+        "headline_easy": "Neuigkeiten aus der Region. In Frankfurt gab es Festnahmen. Bauen in Frankfurt ist gut.",
+        "summary_en": "A regional liveblog provided updates on various incidents across the Rhein-Main area, including a man losing consciousness after being kicked in Wiesbaden and police reporting a positive assessment of a protest day in Frankfurt. Ten arrests were made during the Friday demonstrations, some linked to earlier disturbances. The article also recommends 'building like in Frankfurt' as a positive action to emulate.",
+        "summary_de": "Ein Liveblog aus der Region berichtete über Vorfälle, darunter ein bewusstloser Mann in Wiesbaden und eine positive Polizeibilanz bei Protesten in Frankfurt. Zehn Festnahmen gab es am Demo-Freitag, teils im Zusammenhang mit früheren Ausschreitungen. Als eine von drei Empfehlungen wird zudem das Bauen in Frankfurt genannt.",
+        "summary_easy": "Ein Liveblog gibt es für die Region. In Frankfurt gab es zehn Festnahmen. Man soll wie in Frankfurt bauen.",
         "links": [
           {
-            "title": "Machtkampf in der SPD: Ein Offenbacher als Hoffnungsträger der Genossen",
-            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/aufstand-in-der-spd-was-koennte-felix-schwenke-besser-machen-accg-201694554.html"
+            "title": "Rhein-Main-Liveblog: Wiesbaden: Mann verliert nach Tritten gegen Kopf Bewusstsein",
+            "url": "https://www.faz.net/aktuell/rhein-main/wiesbaden-junger-mann-nach-tritten-gegen-kopf-bewusstlos-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
           },
           {
-            "title": "„Migration ohne Integration“ – Rhein fordert Abschiebungen nach den Frankfurter Krawallen",
-            "url": "https://www.welt.de/politik/deutschland/article6b015fed39a3e8110f0e50aa/hessen-migration-ohne-integration-rhein-fordert-abschiebungen-nach-den-frankfurter-krawallen.html"
+            "title": "Jugendproteste: Zehn Festnahmen am Demo-Freitag in Frankfurt",
+            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/gen-z-proteste-zehn-festnahmen-am-demo-freitag-in-frankfurt-accg-201706132.html"
           }
         ]
       },
       {
         "type": "Local News",
         "emoji": "📍",
-        "headline_en": "Frankfurt Riots Spark Debate on Immigration and Integration; SPD Faces Leadership Challenge",
-        "headline_de": "Nach Krawallen in Frankfurt: Debatte um Integration und SPD-Führungskrise",
-        "headline_easy": "Frankfurt: Debatte über Integration und Krise in der SPD.",
-        "summary_en": "Following recent unrest in Frankfurt, Hessian Minister-President Boris Rhein is advocating for stricter immigration policies and increased police presence. Meanwhile, the SPD is experiencing internal conflict over a potential leadership challenge, with a faction backing Offenbach Mayor Felix Schwenke.",
-        "summary_de": "Im Nachgang der jüngsten Ausschreitungen in Frankfurt spricht sich Hessens Ministerpräsident Boris Rhein für eine strengere Migrationspolitik und mehr Polizeikontrollen aus. Parallel dazu gibt es in der SPD eine parteiinterne Auseinandersetzung um eine mögliche neue Führung, wobei der Offenbacher Oberbürgermeister Felix Schwenke von einer Gruppe unterstützt wird.",
-        "summary_easy": "Nach Unruhen in Frankfurt fordert Boris Rhein strengere Regeln für Zuwanderer. In der SPD gibt es Streit um einen neuen Chef. Viele wollen Felix Schwenke, den Chef von Offenbach.",
+        "headline_en": "Regional Liveblog Covers Incidents; Ten Arrests Made During Frankfurt Protests; Building in Frankfurt Recommended",
+        "headline_de": "Rhein-Main-Liveblog berichtet über Vorfälle; Zehn Festnahmen bei Demo-Freitag in Frankfurt; Bauen wie in Frankfurt empfohlen",
+        "headline_easy": "Neuigkeiten aus der Region. In Frankfurt gab es Festnahmen. Bauen in Frankfurt ist gut.",
+        "summary_en": "A regional liveblog provided updates on various incidents across the Rhein-Main area, including a man losing consciousness after being kicked in Wiesbaden and police reporting a positive assessment of a protest day in Frankfurt. Ten arrests were made during the Friday demonstrations, some linked to earlier disturbances. The article also recommends 'building like in Frankfurt' as a positive action to emulate.",
+        "summary_de": "Ein Liveblog aus der Region berichtete über Vorfälle, darunter ein bewusstloser Mann in Wiesbaden und eine positive Polizeibilanz bei Protesten in Frankfurt. Zehn Festnahmen gab es am Demo-Freitag, teils im Zusammenhang mit früheren Ausschreitungen. Als eine von drei Empfehlungen wird zudem das Bauen in Frankfurt genannt.",
+        "summary_easy": "Ein Liveblog gibt es für die Region. In Frankfurt gab es zehn Festnahmen. Man soll wie in Frankfurt bauen.",
         "links": [
           {
-            "title": "„Migration ohne Integration“ – Rhein fordert Abschiebungen nach den Frankfurter Krawallen",
-            "url": "https://www.welt.de/politik/deutschland/article6b015fed39a3e8110f0e50aa/hessen-migration-ohne-integration-rhein-fordert-abschiebungen-nach-den-frankfurter-krawallen.html"
+            "title": "Rhein-Main-Liveblog: Wiesbaden: Mann verliert nach Tritten gegen Kopf Bewusstsein",
+            "url": "https://www.faz.net/aktuell/rhein-main/wiesbaden-junger-mann-nach-tritten-gegen-kopf-bewusstlos-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
           },
           {
-            "title": "Machtkampf in der SPD: Ein Offenbacher als Hoffnungsträger der Genossen",
-            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/aufstand-in-der-spd-was-koennte-felix-schwenke-besser-machen-accg-201694554.html"
+            "title": "Jugendproteste: Zehn Festnahmen am Demo-Freitag in Frankfurt",
+            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/gen-z-proteste-zehn-festnahmen-am-demo-freitag-in-frankfurt-accg-201706132.html"
           }
         ]
       }
     ]
   },
-  "dresden": [
-    {
-      "price": "320 €",
-      "address": "Pillnitzer Str. 1, 01097 Dresden",
-      "district": "Neustadt",
-      "size": "30 m²",
-      "rooms": "1",
-      "title": "Charmante 1-Zimmer-Wohnung in zentraler Lage",
-      "url": "https://www.immobilienscout24.de/expose/145288758",
-      "source": "Immoscout24.de"
-    },
-    {
-      "price": "350 €",
-      "address": "Schandauer Str. 38, 01277 Dresden",
-      "district": "Seidnitz",
-      "size": "45 m²",
-      "rooms": "2",
-      "title": "Helle 2-Zimmer-Wohnung mit Balkon",
-      "url": "https://www.immowelt.de/expose/2AGM45S",
-      "source": "Immowelt.de"
-    },
-    {
-      "price": "380 €",
-      "address": "Fetscherstraße 45, 01307 Dresden",
-      "district": "Johannstadt",
-      "size": "35 m²",
-      "rooms": "1.5",
-      "title": "Stilvolle 1.5-Zimmer-Wohnung in ruhiger Lage",
-      "url": "https://www.vonovia.de/wohnen/wohnung-finden/dresden/wohnung-fetscherstrasse-45-1307-dresden-VD308000000001242337",
-      "source": "Vonovia.de"
-    },
-    {
-      "price": "400 €",
-      "address": "Garnisonstraße 21, 01099 Dresden",
-      "district": "Neustadt",
-      "size": "40 m²",
-      "rooms": "1.5",
-      "title": "Gemütliche 1.5-Zimmer-Wohnung in lebendigem Viertel",
-      "url": "https://www.wg-gesucht.de/6188846",
-      "source": "WG-Gesucht.de"
-    },
-    {
-      "price": "420 €",
-      "address": "Bannewitzer Str. 8, 01159 Dresden",
-      "district": "Naußlitz",
-      "size": "50 m²",
-      "rooms": "2",
-      "title": "Geräumige 2-Zimmer-Wohnung mit guter Anbindung",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-in-dresden-nau__litz-kaltmiete-420-euro-/2741798878-209-7603",
-      "source": "Kleinanzeigen.de"
-    },
-    {
-      "price": "440 €",
-      "address": "Tolkewitzer Str. 65, 01277 Dresden",
-      "district": "Seidnitz",
-      "size": "48 m²",
-      "rooms": "2",
-      "title": "Sonnige 2-Zimmer-Wohnung mit Balkon in ruhiger Lage",
-      "url": "https://www.wohnungsboerse.net/wohnung-dresden-seidnitz/2-zimmer-48m2-kaltmiete-440eur/17208990",
-      "source": "Wohnungsboerse.net"
-    }
-  ]
+  "dresden": []
 }
