@@ -1,5 +1,5 @@
 {
-  "date": "Monday, November 23 2026",
+  "date": "Tuesday, November 24 2026",
   "sections": [
     {
       "category": "Germany",
@@ -8,56 +8,40 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "White Flight Hits Germany, Weakening Calls for Diversity",
-          "headline_de": "Weiße Flucht trifft Deutschland, schwächt Rufe nach Vielfalt",
-          "headline_easy": "Mehr weiße Leute verlassen Deutschland. Das macht es schwerer, über Vielfalt zu sprechen.",
-          "summary_en": "The phenomenon of 'White Flight' is impacting Germany, characterized by a departure of white residents. Experts suggest this trend is undermining the national discourse and public desire for diversity.",
-          "summary_de": "Das Phänomen der 'weißen Flucht' beeinflusst Deutschland, gekennzeichnet durch die Abwanderung weißer Bewohner. Experten deuten an, dass dieser Trend den nationalen Diskurs und den öffentlichen Wunsch nach Vielfalt untergräbt.",
-          "summary_easy": "Weiße Menschen ziehen weg aus Deutschland. Das ist ein Problem für die Vielfalt.",
+          "headline_en": "EU Faces New Gas Price Shock Amidst Gen Z Mobilization",
+          "headline_de": "EU erlebt neuen Gaspreisschock inmitten der Mobilisierung von Gen Z",
+          "headline_easy": "Neue hohe Gaspreise in der EU. Junge Leute protestieren in Frankreich und Deutschland.",
+          "summary_en": "The European Union is experiencing a new shock due to rising gas prices. Concurrently, a generational shift is evident with Gen Z mobilization in France and Germany, raising questions about the state of democracy.",
+          "summary_de": "Die Europäische Union erlebt einen neuen Schock durch steigende Gaspreise. Gleichzeitig zeigt sich ein generationeller Wandel durch die Mobilisierung von Gen Z in Frankreich und Deutschland, was Fragen über den Zustand der Demokratie aufwirft.",
+          "summary_easy": "Die Preise für Gas steigen in der EU wieder stark. Junge Leute organisieren sich in Frankreich und Deutschland. Sie fragen sich, ob die Demokratie gut funktioniert.",
           "links": [
             {
-              "title": "White Flight Hits Germany, Destroying The 'Desire For Diversity' Myth",
-              "url": "https://biztoc.com/x/cd06ae517ac3c47b"
-            }
-          ]
-        },
-        {
-          "type": "Business",
-          "emoji": "💼",
-          "headline_en": "Buccaneers vs. Lions NFL Predictions and Picks",
-          "headline_de": "Buccaneers gegen Lions NFL Vorhersagen und Tipps",
-          "headline_easy": "NFL-Spiel: Buccaneers gegen Lions. Wetten und Tipps.",
-          "summary_en": "NFL Week 11 predictions and picks for the game between the Tampa Bay Buccaneers and the Detroit Lions. Expert analysis suggests Jahmyr Gibbs may challenge Tampa Bay's defense.",
-          "summary_de": "NFL-Woche 11 Vorhersagen und Tipps für das Spiel zwischen den Tampa Bay Buccaneers und den Detroit Lions. Expertenanalyse deutet darauf hin, dass Jahmyr Gibbs die Verteidigung von Tampa Bay herausfordern könnte.",
-          "summary_easy": "Die Buccaneers spielen gegen die Lions. Es gibt Tipps für das Spiel. Ein Spieler namens Gibbs könnte gut spielen.",
-          "links": [
-            {
-              "title": "Buccaneers vs. Lions prediction, picks: Tampa Bay’s ruthless defense will yield to Jahmyr Gibbs",
-              "url": "https://nypost.com/2026/11/22/betting/buccaneers-vs-lions-prediction-picks-nfl-week-11-odds-props-best-bets/"
+              "title": "EU hit by new gas price shock",
+              "url": "https://rt-english.com/news/649257-eu-hit-new-gas-shock/"
             },
             {
-              "title": "NFL predictions: Scores and picks for Week 11 between the Buccaneers and Lions",
-              "url": "https://www.bucsnation.com/tampa-bay-buccaneers-odds/69851/buccaneers-lions-predictions-nfl-week-11-picks"
+              "title": "Is Democracy Failing or Is It Failing a Generation? Unpacking Gen Z Mobilization in France and Germany",
+              "url": "https://www.fairobserver.com/region/europe/is-democracy-failing-or-is-it-failing-a-generation-unpacking-gen-z-mobilization-in-france-and-germany/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Irish Companies Impacted by Global Investment Trends and Food Waste Initiatives",
-          "headline_de": "Irische Unternehmen betroffen von globalen Investitionstrends und Initiativen zur Lebensmittelverschwendung",
-          "headline_easy": "Irische Firmen und Investitionen. Weniger Lebensmittel wegwerfen.",
-          "summary_en": "Global investment strategies are complex, with advice suggesting they are not straightforward. Meanwhile, Irish charities are highlighting the significant issue of food waste, indicating that efforts to combat it are still in early stages.",
-          "summary_de": "Globale Anlagestrategien sind komplex und Investitionen sind nicht einfach. Gleichzeitig heben irische Wohltätigkeitsorganisationen das bedeutende Problem der Lebensmittelverschwendung hervor und deuten an, dass die Bemühungen zur Bekämpfung noch in den Anfängen stecken.",
-          "summary_easy": "Investieren in andere Länder ist schwierig. Es gibt auch Probleme mit weggeworfenem Essen in Irland. Man muss mehr tun, um Essen zu retten.",
+          "headline_en": "Stocks Rebound After AI Selloff; Dollar Stabilizes",
+          "headline_de": "Aktien erholen sich nach KI-Ausverkauf; Dollar stabilisiert sich",
+          "headline_easy": "Aktienmärkte erholen sich. Der Dollar ist stabil.",
+          "summary_en": "Stock markets are showing signs of a rebound following a recent sell-off driven by AI-related concerns. The US dollar has stabilized as traders take a breather from market volatility.",
+          "summary_de": "Die Aktienmärkte zeigen Anzeichen einer Erholung nach einem jüngsten Ausverkauf, der durch KI-bezogene Bedenken ausgelöst wurde. Der US-Dollar hat sich stabilisiert, da sich die Händler von der Marktvolatilität erholen.",
+          "summary_easy": "Die Aktienkurse steigen wieder. Vorher gab es einen Ausverkauf wegen KI. Der Dollar ist jetzt stabil.",
           "links": [
             {
-              "title": "Ireland 'scratching the surface' on food waste - charity",
-              "url": "https://www.rte.ie/news/2026/1122/1600038-food-waste-ireland/"
+              "title": "Stocks set for rebound after AI-driven selloff",
+              "url": "https://www.nbcnews.com/business/markets/stocks-rebound-ai-tech-selloff-nvidia-rcna610833"
             },
             {
-              "title": "Global investing isn’t a piece of cake",
-              "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/global-investing-isnt-a-piece-of-cake/article71724594.ece"
+              "title": "Dollar steadies as traders take breather from AI wobbles",
+              "url": "https://www.channelnewsasia.com/business/dollar-steadies-traders-take-breather-ai-wobbles-6573501"
             }
           ]
         }
@@ -70,40 +54,40 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "EU-Russia Relations and Climate Summit Outcome",
-          "headline_de": "EU-Russland-Beziehungen und Ergebnis des Klimagipfels",
-          "headline_easy": "EU und Russland reden. Klimakonferenz endet ohne Ergebnis.",
-          "summary_en": "A European Parliament Member suggests direct negotiations between the EU and Russia are necessary, referring to Russia as a 'party of peace'. Separately, the UN climate summit concluded without a deal due to disagreements over fossil fuels.",
-          "summary_de": "Ein Mitglied des Europäischen Parlaments schlägt vor, dass direkte Verhandlungen zwischen der EU und Russland notwendig sind und bezeichnet Russland als 'Friedenspartei'. Separat endete der UN-Klimagipfel ohne eine Einigung aufgrund von Meinungsverschiedenheiten über fossile Brennstoffe.",
-          "summary_easy": "Ein Politiker sagt, die EU soll mit Russland reden. Er nennt Russland 'friedlich'. Die Klimakonferenz ist gescheitert, weil sich die Länder nicht einig waren.",
+          "headline_en": "Emacs News and Economic Trends Emerge in Europe",
+          "headline_de": "Emacs-Neuigkeiten und Wirtschaftstrends in Europa",
+          "headline_easy": "Neuigkeiten zu Emacs. Steuereinnahmen steigen in einem Land. Ein Fußballspieler ist kollabiert.",
+          "summary_en": "Recent news includes updates on Emacs, a doubling of total tax revenue in a European state since 2015, and an unusual incident involving an Argentinian football star collapsing after a match.",
+          "summary_de": "Aktuelle Nachrichten umfassen Updates zu Emacs, eine Verdoppelung der gesamten Steuereinnahmen in einem europäischen Staat seit 2015 und einen ungewöhnlichen Vorfall, bei dem ein argentinischer Fußballstar nach einem Spiel zusammenbrach.",
+          "summary_easy": "Es gibt neue Nachrichten über Emacs. Ein Land hat doppelt so viel Steuern eingenommen seit 2015. Ein Fußballstar ist nach einem Spiel zusammengebrochen.",
           "links": [
             {
-              "title": "The EU must negotiate with Russia directly – ‘party of peace’ MEP",
-              "url": "https://rt-english.com/news/649212-fidias-mep-eu-russia/"
+              "title": "2026-11-23 Emacs news",
+              "url": "https://sachachua.com/blog/2026/11/2026-11-23-emacs-news/"
             },
             {
-              "title": "U.N. climate summit ends without deal after contentious fossil fuel debate",
-              "url": "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/"
+              "title": "State’s total tax revenue has doubled since 2015, mostly due to income and corporation tax",
+              "url": "https://www.irishtimes.com/business/2026/11/23/states-total-tax-revenue-has-doubled-since-2015-mostly-due-to-income-and-corporation-tax/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Fund Probe in London and Company Financial Reports",
-          "headline_de": "Fondermittlung in London und Unternehmensfinanzberichte",
-          "headline_easy": "Geld-Untersuchung in London. Firmen-Zahlen.",
-          "summary_en": "An investigation is tracing significant funds through a London firm. In other financial news, Cosmos Health reported record revenue for the first nine months of the year, with improvements in gross margin and a reduction in total debt.",
-          "summary_de": "Eine Untersuchung verfolgt bedeutende Gelder durch eine Londoner Firma. In anderen Finanznachrichten meldete Cosmos Health Rekordumsätze für die ersten neun Monate des Jahres, mit Verbesserungen bei der Bruttogewinnmarge und einer Reduzierung der Gesamtverschuldung.",
-          "summary_easy": "Man untersucht, woher viel Geld kommt. Eine Firma in London ist beteiligt. Eine andere Firma namens Cosmos Health hat mehr Geld verdient und weniger Schulden.",
+          "headline_en": "US Stocks Set to Rebound as European Markets Track Global Trends",
+          "headline_de": "US-Aktien werden sich erholen, während europäische Märkte globale Trends verfolgen",
+          "headline_easy": "US-Aktienmärkte erholen sich. Ein neues Frachtschiff fährt mit Wind.",
+          "summary_en": "US stock futures are climbing as the technology sector recovers from a recent sell-off. In Europe, a new concept of a wind-powered cargo ship is being explored, signaling potential shifts in maritime logistics.",
+          "summary_de": "Die US-Aktien-Futures steigen, da sich der Technologiesektor von einem jüngsten Ausverkauf erholt. In Europa wird ein neues Konzept eines windbetriebenen Frachtschiffs erforscht, das auf potenzielle Veränderungen in der maritimen Logistik hindeutet.",
+          "summary_easy": "US-Aktien werden besser. Es gibt eine Idee für ein neues Schiff, das mit Wind fährt. Das könnte für den Transport wichtig sein.",
           "links": [
             {
-              "title": "Fund probe traces 21 bln liras through London firm",
-              "url": "https://www.hurriyetdailynews.com/fund-probe-traces-21-bln-liras-through-london-firm-229702"
+              "title": "U.S. futures climb as technology recovers from brutal sell-off last week",
+              "url": "https://www.cbc.ca/news/business/stock-market-latest-9.7432277"
             },
             {
-              "title": "Cosmos Health Reports Record Nine-Month Revenue of $53.6 Million, Up 18%; Q3 Gross Margin Up 465 Basis Points Sequentially; Total Debt Down 34% and Stockholders' Equity Up 21% Since Year-End",
-              "url": "https://www.newswire.com/news/see-2472979"
+              "title": "A New Age of Sail",
+              "url": "https://www.theatlantic.com/magazine/2027/01/neoliner-origin-wind-powered-cargo-ship/689402/?utm_source=feed"
             }
           ]
         }
@@ -116,72 +100,52 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Immigrant and Palestinian Oppression Parallels, US Trade Policy and Climate Summit",
-          "headline_de": "Parallelen zwischen Unterdrückung von Einwanderern und Palästinensern, US-Handelspolitik und Klimagipfel",
-          "headline_easy": "Gleiches Unrecht für Einwanderer und Palästinenser. Handelspolitik. Klimakonferenz.",
-          "summary_en": "The article draws parallels between the systems of oppression faced by immigrants in the US and Palestinians. Meanwhile, Democrats plan to seek the reversal of Trump-era tariffs, and the UN climate summit ended without a fossil fuel deal.",
-          "summary_de": "Der Artikel zieht Parallelen zwischen den Unterdrückungssystemen, denen Einwanderer in den USA und Palästinenser ausgesetzt sind. Unterdessen planen die Demokraten, die Rücknahme der Zölle aus der Trump-Ära anzustreben, und der UN-Klimagipfel endete ohne eine Einigung über fossile Brennstoffe.",
-          "summary_easy": "Einwanderer in den USA und Palästinenser erleben ähnliche Probleme. Die USA wollen alte Zölle abschaffen. Die Klimakonferenz war nicht erfolgreich.",
+          "headline_en": "Healthcare Disparities and Tech Leadership in the US",
+          "headline_de": "Gesundheitswesen-Ungleichheiten und Tech-Führung in den USA",
+          "headline_easy": "Schwarze Mütter haben Probleme mit der Gesundheit. Jensen Huang ist wieder Chef bei Nvidia.",
+          "summary_en": "Black mothers in the US report unmet needs during pregnancy and postpartum. In the tech world, Jensen Huang has returned as CEO of Nvidia, a significant development in the industry.",
+          "summary_de": "Schwarze Mütter in den USA berichten von unerfüllten Bedürfnissen während Schwangerschaft und nach der Geburt. In der Tech-Welt ist Jensen Huang als CEO von Nvidia zurückgekehrt, eine bedeutende Entwicklung in der Branche.",
+          "summary_easy": "Schwarze Mütter in den USA bekommen nicht immer die Hilfe, die sie brauchen. Jensen Huang ist wieder der Chef von Nvidia. Das ist wichtig für die Technik-Welt.",
           "links": [
             {
-              "title": "Immigrants in US and Palestinians Face Mirroring Systems of Oppression",
-              "url": "https://truthout.org/articles/immigrants-in-us-and-palestinians-face-mirroring-systems-of-oppression/"
+              "title": "Black mothers say pregnancy, postpartum needs often unmet",
+              "url": "https://roanoke.com/news/nation-world/business/health-care/article_b7e9fa2e-716b-5e57-93c8-2834a01ad5c2.html"
             },
             {
-              "title": "Democrats to seek reversal of Trump's tariffs",
-              "url": "https://biztoc.com/x/1dc211d9c4533428"
+              "title": "Jensen Huang Is Back as Nvidia CEO",
+              "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Organ Harvesting Allegations in China and Climate Summit Outcome",
-          "headline_de": "Vorwürfe der Organentnahme in China und Ergebnis des Klimagipfels",
-          "headline_easy": "Organhandel in China. Klimakonferenz ohne Erfolg.",
-          "summary_en": "Experts claim that doctors involved in organ harvesting are still operating in China, despite a supposed ban, with allegations of victims being killed for their organs. The UN climate summit also concluded without a deal regarding fossil fuels.",
-          "summary_de": "Experten behaupten, dass Ärzte, die an der Organentnahme beteiligt sind, trotz eines angeblichen Verbots weiterhin in China tätig sind, wobei Opfer angeblich für ihre Organe getötet werden. Der UN-Klimagipfel endete ebenfalls ohne eine Einigung über fossile Brennstoffe.",
-          "summary_easy": "Es gibt Berichte über schlimme Dinge in China: Menschen werden für Organe getötet. Auch die Klimakonferenz war erfolglos.",
+          "headline_en": "US Business and Political Developments: CIA Inquiry and Tech Leadership",
+          "headline_de": "US-Wirtschafts- und politische Entwicklungen: CIA-Untersuchung und Tech-Führung",
+          "headline_easy": "Es gibt eine Untersuchung zur CIA. Schwarze Mütter brauchen mehr Hilfe. Jensen Huang ist wieder Chef bei Nvidia.",
+          "summary_en": "A political inquiry into alleged CIA spying on Tulsi Gabbard's team is ongoing. Meanwhile, Black mothers highlight unmet healthcare needs, and Jensen Huang has been reinstated as Nvidia's CEO.",
+          "summary_de": "Eine politische Untersuchung zu angeblichen Spionageaktivitäten der CIA gegen Tulsi Gabbards Team ist im Gange. Unterdessen heben schwarze Mütter unerfüllte Gesundheitsbedürfnisse hervor, und Jensen Huang wurde als CEO von Nvidia wiedereingesetzt.",
+          "summary_easy": "Man untersucht, ob die CIA die Leute von Tulsi Gabbard heimlich beobachtet hat. Schwarze Mütter brauchen mehr Hilfe. Jensen Huang ist wieder der Chef von Nvidia.",
           "links": [
             {
-              "title": "'Slaughtered like pigs' for their body parts… while still alive: Organ harvesting doctors are still operating in China despite 'ban', experts claim",
-              "url": "https://www.dailymail.com/news/article-16299699/Slaughtered-like-pigs-body-parts-alive-Organ-harvesting-doctors-operating-China-despite-ban-experts-claim.html"
+              "title": "SWAMP WATCH: Did the CIA Spy on Tulsi Gabbard’s Team Over the J6 Pipe Bomb Investigation? We Demanded the Whistleblower Complaint.",
+              "url": "https://www.thegatewaypundit.com/2026/11/swamp-watch-did-cia-spy-tulsi-gabbards-team/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "AI's Climate Impact and Global Fraud Case",
-          "headline_de": "Klimaauswirkungen von KI und globaler Betrugsfall",
-          "headline_easy": "KI ist schlecht für das Klima. Betrug in Singapur.",
-          "summary_en": "A report suggests that Artificial Intelligence is becoming detrimental to the climate. In international finance news, a Chinese national has been charged in Singapore for fraud, linked to specific companies.",
-          "summary_de": "Ein Bericht deutet darauf hin, dass Künstliche Intelligenz schädlich für das Klima wird. In internationalen Finanznachrichten wurde ein chinesischer Staatsbürger in Singapur wegen Betrugs im Zusammenhang mit bestimmten Unternehmen angeklagt.",
-          "summary_easy": "Künstliche Intelligenz macht Probleme für die Umwelt. Ein Mann aus China wird wegen Betrugs in Singapur beschuldigt.",
+          "headline_en": "Nvidia CEO Reinstated Amidst Market Recovery",
+          "headline_de": "Nvidia-CEO wieder eingesetzt inmitten der Markterholung",
+          "headline_easy": "Jensen Huang ist wieder Chef bei Nvidia. Die Aktienmärkte erholen sich.",
+          "summary_en": "Jensen Huang has been reinstated as the CEO of Nvidia, a significant move in the technology sector. This comes as US stock markets show signs of a rebound after a period of volatility.",
+          "summary_de": "Jensen Huang wurde als CEO von Nvidia wieder eingesetzt, eine bedeutende Veränderung im Technologiesektor. Dies geschieht, während die US-Aktienmärkte nach einer Phase der Volatilität Anzeichen einer Erholung zeigen.",
+          "summary_easy": "Jensen Huang ist wieder der Chef von Nvidia. Das ist eine wichtige Nachricht für die Technik-Firma. Die Aktienmärkte in den USA werden wieder besser.",
           "links": [
             {
-              "title": "AI is becoming a disaster for the climate",
-              "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the"
-            },
-            {
-              "title": "Chinese national Li Ming charged in fraud case in Singapore linked to Megaspeed and Alice Huang: Report",
-              "url": "https://m.economictimes.com/news/international/world-news/chinese-national-li-ming-charged-in-fraud-case-in-singapore-linked-to-megaspeed-and-alice-huang-report/articleshow/136072599.cms"
-            }
-          ]
-        },
-        {
-          "type": "Technology",
-          "emoji": "💻",
-          "headline_en": "Taiwanese Road Technology and Organ Harvesting Allegations in China",
-          "headline_de": "Taiwanesische Straßentechnologie und Vorwürfe der Organentnahme in China",
-          "headline_easy": "Neue Straßen in Taiwan. Organhandel in China.",
-          "summary_en": "Taiwan developed test roads using recycled tires in asphalt, finding they performed better than conventional mixes. Meanwhile, allegations persist regarding ongoing organ harvesting operations in China despite a supposed ban.",
-          "summary_de": "Taiwan entwickelte Teststraßen, die recycelte Reifen in Asphalt verwendeten und feststellten, dass diese besser abschnitten als herkömmliche Mischungen. Unterdessen bestehen weiterhin Vorwürfe bezüglich laufender Organentnahmeoperationen in China trotz eines angeblichen Verbots.",
-          "summary_easy": "In Taiwan wurden Straßen mit alten Reifen gebaut. Sie sind besser als normale Straßen. In China gibt es Berichte über Organhandel.",
-          "links": [
-            {
-              "title": "In 2000, Taiwan built test roads using ground-up waste tires in asphalt; a four-year study found the pavement performed better than conventional mixes",
-              "url": "https://m.economictimes.com/news/international/us/in-2000-taiwan-built-test-roads-using-ground-up-waste-tires-in-asphalt-a-four-year-study-found-the-pavement-performed-better-than-conventional-mixes/articleshow/136010501.cms"
+              "title": "Nvidia board Reinstates Jensen Huang as CEO",
+              "url": "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo"
             }
           ]
         }
@@ -194,36 +158,40 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "K-Pop Underage Performers and Kimchi's Global History",
-          "headline_de": "K-Pop-Minderjährige Darsteller und die globale Geschichte von Kimchi",
-          "headline_easy": "Junge Stars im K-Pop. Geschichte von Kimchi.",
-          "summary_en": "South Korea faces criticism for its handling of underage performers in the K-pop industry, with calls for better protection. Additionally, the global history of Kimchi is explored, tracing its roots from the Columbian Exchange to the Korean diaspora.",
-          "summary_de": "Südkorea steht in der Kritik für den Umgang mit minderjährigen Darstellern in der K-Pop-Industrie, mit Forderungen nach besserem Schutz. Darüber hinaus wird die globale Geschichte von Kimchi erforscht, die seine Wurzeln vom Kolumbianischen Austausch bis zur koreanischen Diaspora zurückverfolgt.",
-          "summary_easy": "Junge Leute im K-Pop brauchen mehr Schutz. Ein Artikel erzählt, woher Kimchi kommt und wie es in der Welt bekannt wurde.",
+          "headline_en": "Asian Sports and Technology Developments",
+          "headline_de": "Asiatische Sport- und Technologieentwicklungen",
+          "headline_easy": "Es gibt eine Preisverleihung für Badminton. Eine Firma hat neue Probleme wegen US-Regeln. Es gibt Neuigkeiten zu Emacs.",
+          "summary_en": "Asia sees sports news with nominees for Badminton Player of the Year. Technology firms face challenges due to new US curbs in Southeast Asia. Updates on Emacs are also available.",
+          "summary_de": "Asien verzeichnet Sportnachrichten mit Nominierten für die Badmintonspielerin des Jahres. Technologieunternehmen stehen aufgrund neuer US-Beschränkungen in Südostasien vor Herausforderungen. Updates zu Emacs sind ebenfalls verfügbar.",
+          "summary_easy": "Es gibt Preise für Badmintonspielerinnen. Eine Technik-Firma hat Probleme wegen Regeln aus den USA. Es gibt auch neue Nachrichten über Emacs.",
           "links": [
             {
-              "title": "K-pop has an underage performer problem: South Korea needs to protect them better",
-              "url": "https://www.livemint.com/opinion/online-views/kpop-has-an-underage-performer-problem-south-korea-needs-to-protect-them-better-11795084033681.html"
+              "title": "TOISA 2026: Meet the nominees for Badminton Player of the Year (Female)",
+              "url": "https://timesofindia.indiatimes.com/sports/badminton/toisa-2026-meet-the-nominees-for-badminton-player-of-the-year-female/articleshow/136105419.cms"
             },
             {
-              "title": "Global History Behind Kimchi: From the Columbian Exchange to the Korean Diaspora",
-              "url": "https://blogs.loc.gov/international-collections/2026/11/global-history-behind-kimchi-from-the-columbian-exchange-to-the-korean-diaspora/"
+              "title": "Nebius Rallies 30% Despite New U.S. Curbs Threatening Neocloud Business in Southeast Asia; IREN Jumps 24%, CoreWeave Climbs 7%",
+              "url": "https://biztoc.com/x/46ad85d9308e2703"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Singapore Fraud Case and Global Investment Links",
-          "headline_de": "Betrugsfall in Singapur und globale Investitionsverbindungen",
-          "headline_easy": "Betrug in Singapur. Geld aus aller Welt.",
-          "summary_en": "A Chinese national has been charged with fraud in Singapore, with connections to specific companies. This case highlights international financial dealings and potential illicit activities.",
-          "summary_de": "Ein chinesischer Staatsbürger wurde in Singapur wegen Betrugs angeklagt, mit Verbindungen zu bestimmten Unternehmen. Dieser Fall unterstreicht internationale Finanzgeschäfte und potenzielle illegale Aktivitäten.",
-          "summary_easy": "Ein Mann aus China hat in Singapur betrogen. Das zeigt, wie Geld international fließt.",
+          "headline_en": "Asian Markets Track US Rebound; Local Brokerage Recommendations",
+          "headline_de": "Asiatische Märkte verfolgen US-Erholung; Empfehlungen lokaler Makler",
+          "headline_easy": "US-Aktienmärkte erholen sich. Ein Makler empfiehlt eine Aktie. Aktien erholen sich nach KI-Ausverkauf.",
+          "summary_en": "Asian stock markets are reflecting the rebound seen in US markets, particularly after an AI-driven sell-off. Local brokerage firms are providing recommendations, such as a 'Buy' rating for Chalet Hotels.",
+          "summary_de": "Die asiatischen Aktienmärkte spiegeln die Erholung der US-Märkte wider, insbesondere nach einem KI-gesteuerten Ausverkauf. Lokale Maklerfirmen geben Empfehlungen ab, wie z.B. eine 'Kaufen'-Bewertung für Chalet Hotels.",
+          "summary_easy": "Die Aktienmärkte in Asien folgen dem Aufschwung in den USA. Ein Makler sagt, man soll Chalet Hotels kaufen. Aktien werden wieder besser nach einem Ausverkauf wegen KI.",
           "links": [
             {
-              "title": "Chinese national Li Ming charged in fraud case in Singapore linked to Megaspeed and Alice Huang: Report",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/chinese-national-li-ming-charged-in-fraud-case-in-singapore-linked-to-megaspeed-and-alice-huang-report/articleshow/136072599.cms"
+              "title": "US stocks set to rebound after bruising sell-off",
+              "url": "https://www.cnn.com/2026/11/23/markets/us-stocks-rebound-intl"
+            },
+            {
+              "title": "Broker’s Call: Chalet Hotels (Buy)",
+              "url": "https://www.thehindubusinessline.com/markets/brokers-call-chalet-hotels-buy/article71734112.ece"
             }
           ]
         }
@@ -236,56 +204,96 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Global Climate Summit Fails on Fossil Fuels; Iran Talks Strategy",
-          "headline_de": "Globaler Klimagipfel scheitert an fossilen Brennstoffen; Strategie für Iran-Gespräche",
-          "headline_easy": "Klimagipfel gescheitert. Verhandlungen mit Iran.",
-          "summary_en": "The UN climate summit collapsed without an agreement due to contentious debates over fossil fuels. Separately, an opinion piece advises against allowing Iran to use talks to its advantage, likening it to a \"scorpion's sting.\"",
-          "summary_de": "Der UN-Klimagipfel brach aufgrund von strittigen Debatten über fossile Brennstoffe ohne eine Einigung zusammen. Separat rät ein Meinungsbeitrag davon ab, Iran die Nutzung von Gesprächen zu seinem Vorteil zu gestatten, und vergleicht dies mit einem \"Skorpionsstich\".",
-          "summary_easy": "Die Klimakonferenz war kein Erfolg. Die Länder konnten sich nicht auf fossile Brennstoffe einigen. Ein Artikel warnt davor, mit Iran zu verhandeln.",
+          "headline_en": "Nvidia CEO Reinstated Amidst Global Business Developments",
+          "headline_de": "Nvidia-CEO wieder eingesetzt inmitten globaler Geschäftsentwicklungen",
+          "headline_easy": "Jensen Huang ist wieder Chef bei Nvidia. Es gibt auch ein Buch für reiche Leute.",
+          "summary_en": "Jensen Huang has been reinstated as CEO of Nvidia, a significant development in the global tech industry. Other business news includes curated books and experiences for wealthy individuals.",
+          "summary_de": "Jensen Huang wurde als CEO von Nvidia wieder eingesetzt, eine bedeutende Entwicklung in der globalen Tech-Industrie. Weitere Geschäftsnachrichten umfassen kuratierte Bücher und Erlebnisse für wohlhabende Personen.",
+          "summary_easy": "Jensen Huang ist wieder der Chef von Nvidia. Das ist eine wichtige Nachricht für die Technik-Welt. Es gibt auch Bücher für reiche Leute.",
           "links": [
             {
-              "title": "Global climate summit collapses as countries fail to agree on moving away from fossil fuels | CNN",
-              "url": "https://www.cnn.com/2026/11/22/climate/cop31-summit-collapses-in-fossil-fuel-failure"
+              "title": "Nvidia Reinstates Jensen Huang As CEO",
+              "url": "https://dailycaller.com/2026/11/23/nvidia-reinstates-jensen-huang-ceo-china/"
             },
             {
-              "title": "Don’t let Iran use talks to deliver the proverbial scorpion’s sting",
-              "url": "https://nypost.com/2026/11/22/opinion/dont-let-iran-use-talks-to-deliver-the-proverbial-scorpions-sting/"
+              "title": "Nvidia reinstates Jensen Huang as CEO and president",
+              "url": "https://finance.yahoo.com/markets/stocks/live/nvidia-live-updates-jensen-huang-reinstated-as-ceo-142447561.html"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Global Business and Technology Leaders: Nvidia CEO and Wealth Management",
+          "headline_de": "Globale Wirtschafts- und Technologieführer: Nvidia-CEO und Vermögensverwaltung",
+          "headline_easy": "Jensen Huang ist wieder Chef bei Nvidia. Es gibt ein Buch für reiche Leute.",
+          "summary_en": "Jensen Huang has been reinstated as CEO of Nvidia, a major event in the tech world. Business news also highlights wealth management trends, with JPMorgan offering top books and experiences for affluent clients.",
+          "summary_de": "Jensen Huang wurde als CEO von Nvidia wieder eingesetzt, ein wichtiges Ereignis in der Technologiewelt. Geschäftsnachrichten beleuchten auch Trends im Vermögensmanagement, wobei JPMorgan Top-Bücher und Erlebnisse für wohlhabende Kunden anbietet.",
+          "summary_easy": "Jensen Huang ist wieder der Chef von Nvidia. Das ist eine wichtige Nachricht. JPMorgan hat Bücher und Erlebnisse für reiche Kunden.",
+          "links": [
+            {
+              "title": "Nvidia Board Reinstates Jensen Huang as CEO",
+              "url": "https://www.hollywoodreporter.com/business/digital/nvidia-board-reinstates-jensen-huang-ceo-1236761072/"
+            },
+            {
+              "title": "JPMorgan's top books and experiences for the wealthy this holiday season",
+              "url": "https://www.cnbc.com/2026/11/23/jpmorgans-top-books-experiences-for-the-wealthy-this-holiday-season.html"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Global Updates: Business Tools, Health Crisis, and Tech Leadership",
+          "headline_de": "Globale Updates: Geschäftstools, Gesundheitskrise und Tech-Führung",
+          "headline_easy": "Man kann Geschäftswerkzeuge besser machen. Die WHO bittet um Frieden im Kongo. Jensen Huang ist zurück.",
+          "summary_en": "Global news includes advice on improving business tools, a plea for peace in an Ebola-hit area of DR Congo by the WHO chief, and the return of Jensen Huang to Nvidia's leadership.",
+          "summary_de": "Globale Nachrichten umfassen Ratschläge zur Verbesserung von Geschäftstools, einen Aufruf des WHO-Chefs zu Frieden in einem von Ebola betroffenen Gebiet der DR Kongo und die Rückkehr von Jensen Huang in die Führung von Nvidia.",
+          "summary_easy": "Man kann Werkzeuge für Geschäfte besser machen. Die WHO bittet um Frieden im Kongo, weil es dort Ebola gibt. Jensen Huang ist wieder der Chef von Nvidia.",
+          "links": [
+            {
+              "title": "Trimming Tool Sprawl in a Growing Online Business",
+              "url": "https://socialmediaexplorer.com/social-media-marketing/trimming-tool-sprawl-growing-online-business/"
+            },
+            {
+              "title": "WHO chief pleads for peace in Ebola-hit DR Congo area",
+              "url": "https://sylhetmirror.com/2026/11/23/who-chief-pleads-for-peace-in-ebola-hit-dr-congo-area/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Anthropic CEO's Net Worth and High-Earning Google Employee's Lifestyle",
-          "headline_de": "Nettovermögen des Anthropic-CEO und Lebensstil eines hochverdienenden Google-Mitarbeiters",
-          "headline_easy": "Reichtum eines Chefs. Ein Google-Mitarbeiter lebt sparsam.",
-          "summary_en": "The net worth of Anthropic's CEO, Dario Amodei, is highlighted, noting its volatility with market changes. Additionally, a Google employee earning a substantial salary lives on a significantly lower income, resembling minimum wage spending.",
-          "summary_de": "Das Nettovermögen des Anthropic-CEO Dario Amodei wird hervorgehoben, wobei dessen Volatilität mit Marktveränderungen festgestellt wird. Außerdem lebt ein Google-Mitarbeiter mit einem beträchtlichen Gehalt von einem deutlich geringeren Einkommen, das dem Lebensstil auf Mindestlohnbasis ähnelt.",
-          "summary_easy": "Der Chef einer Firma namens Anthropic ist sehr reich. Aber sein Geld kann sich schnell ändern. Ein anderer Mann bei Google verdient viel Geld, gibt aber sehr wenig aus.",
+          "headline_en": "Global Markets Stabilize as Nvidia CEO Returns",
+          "headline_de": "Globale Märkte stabilisieren sich mit Rückkehr des Nvidia-CEOs",
+          "headline_easy": "Jensen Huang ist wieder Chef bei Nvidia. Die Aktienmärkte sind stabil.",
+          "summary_en": "Global stock markets are seeing stability as Jensen Huang is reinstated as CEO of Nvidia. This leadership change is a key development in the international business landscape.",
+          "summary_de": "Die globalen Aktienmärkte erleben eine Stabilisierung, da Jensen Huang als CEO von Nvidia wieder eingesetzt wird. Dieser Führungswechsel ist eine Schlüsselentwicklung in der internationalen Geschäftslandschaft.",
+          "summary_easy": "Die Aktienmärkte weltweit sind stabil. Jensen Huang ist wieder der Chef von Nvidia. Das ist wichtig für die Wirtschaft.",
           "links": [
             {
-              "title": "Dario Amodei Net Worth: Anthropic IPO Makes CEO a Multibillionaire, but His Fortune Swings With Every Trade",
-              "url": "https://www.ibtimes.com.au/anthropic-ipo-dario-amodei-billionaire-fortune-1879171"
-            },
-            {
-              "title": "26-year-old Google worker earns $323,000 a year—but lives on less than minimum wage",
-              "url": "https://www.cnbc.com/make-it/2026/11/22/google-worker-earns-323000-a-yearbut-he-lives-on-minimum-wage.html"
+              "title": "Huang Is Back",
+              "url": "https://reason.com/2026/11/23/huang-is-back/"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "Indian Politics, Socialist Agendas, and Tech Sector Wealth",
-          "headline_de": "Indische Politik, sozialistische Agenden und Wohlstand im Technologiesektor",
-          "headline_easy": "Politik in Indien. Ideen für die Gesellschaft. Geld in der Technik.",
-          "summary_en": "A political commentator suggests 'BJP agents' within a party are working towards a merger, sidelining a key leader. Other reports touch on 'socialist agendas' and the significant wealth generated in the technology sector, exemplified by a tech CEO's substantial net worth.",
-          "summary_de": "Ein politischer Kommentator deutet an, dass 'BJP-Agenten' innerhalb einer Partei auf eine Fusion hinarbeiten und einen wichtigen Führer beiseiteschieben. Andere Berichte berühren 'sozialistische Agenden' und den erheblichen Wohlstand, der im Technologiesektor generiert wird, was sich im beträchtlichen Nettovermögen eines Tech-CEOs zeigt.",
-          "summary_easy": "Es gibt politische Neuigkeiten aus Indien. Auch geht es um Ideen, wie eine Gesellschaft funktionieren soll. Und wie reich manche Leute in der Technik sind.",
+          "headline_en": "Global Technology and Market Trends: Food Markets, Mental Health, and Business Tools",
+          "headline_de": "Globale Technologie- und Markttrends: Lebensmittelmärkte, psychische Gesundheit und Geschäftstools",
+          "headline_easy": "Es gibt neue Märkte für Essen in Asien. Ein Boxer spricht über seine Krankheit. Man kann Werkzeuge für Geschäfte besser machen.",
+          "summary_en": "Global technology and market news includes opportunities in food and drink markets in the Philippines and Vietnam. A boxer reveals his schizophrenia diagnosis, and there's advice on optimizing business tools.",
+          "summary_de": "Globale Technologie- und Marktnachrichten umfassen Chancen auf Lebensmittelmärkten auf den Philippinen und in Vietnam. Ein Boxer enthüllt seine Schizophrenie-Diagnose, und es gibt Ratschläge zur Optimierung von Geschäftstools.",
+          "summary_easy": "Es gibt neue Märkte für Essen auf den Philippinen und in Vietnam. Ein Boxer hat gesagt, dass er Schizophrenie hat. Man kann Werkzeuge für Geschäfte besser nutzen.",
           "links": [
             {
-              "title": "'BJP agents' in JD(U) working towards merger, keeping Nitish Kumar away from public functions: Prashant Kishor",
-              "url": "https://m.economictimes.com/news/politics-and-nation/bjp-agents-in-jdu-working-towards-merger-keeping-nitish-kumar-away-from-public-functions-prashant-kishor/articleshow/136076237.cms"
+              "title": "Market opens up for food and drink in Philippines and Vietnam",
+              "url": "https://www.gov.uk/government/news/market-opens-up-for-food-and-drink-in-philippines-and-vietnam"
+            },
+            {
+              "title": "Tyson Fury Reveals Schizophrenia Diagnosis in Netflix Documentary: ‘I Thought I’d End Up in a Padded Room’",
+              "url": "https://variety.com/2026/tv/global/tyson-fury-schizophrenia-diagnosis-netflix-documentary-1236955855/"
             }
           ]
         }
@@ -296,27 +304,27 @@
     "wahlperiode": 21,
     "sitzung": 109,
     "url": "https://dserver.bundestag.de/btp/21/21109.pdf",
-    "summary_en": "On Friday, November 13, 2026, the German Bundestag convened for its 109th session of the 21st legislative period. The session primarily focused on the second and third readings of the \"Act to Reform Intelligence Service Law\" introduced by the federal government. Key speakers included Alexander Throm (CDU/CSU), Dr. Christian Wirth (AfD), Sonja Eichwede (SPD), Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN), and Clara Bünger (Die Linke), who presented various party stances on the reform. Federal Minister of the Interior BMI, Alexander Dobrindt, also addressed the chamber regarding the bill. The AfD, represented by Jochen Haug and Dr. Bernd Baumann, voiced opposition, while the SPD, through Sebastian Fiedler and Dirk Wiese, and BÜNDNIS 90/DIE GRÜNEN, with Dr. Irene Mihalic, engaged in debate. The agenda also included a proposal by Die Linke for a nationwide rent cap, with speeches from Caren Lay, Janine Wissler, and Katalin Gennburg, countered by CDU/CSU's Dr. Jan-Marco Luczak and Nina Warken, and AfD's Dr. Anna Rathert. Furthermore, the Bundestag debated the continuation of German armed forces' participation in the NATO-led maritime security operation SEA GUARDIAN, with contributions from Jürgen Hardt (CDU/CSU), Kurt Kleinschmidt (AfD), Aydan Özoğuz (SPD), and Luise Amtsberg (BÜNDNIS 90/DIE GRÜNEN). The session also included the second reading and final vote on the EU partnership agreement with Mercosur, featuring speakers like Peter Beyer (CDU/CSU) and Dr. Anton Hofreiter (BÜNDNIS 90/DIE GRÜNEN). Multiple roll-call votes and their results were recorded throughout the proceedings.",
-    "summary_de": "Am Freitag, dem 13. November 2026, trat der Deutsche Bundestag zur 109. Sitzung der 21. Wahlperiode zusammen. Die Sitzung konzentrierte sich hauptsächlich auf die zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Reform des Nachrichtendienstegesetzes. Bedeutende Redner waren Alexander Throm (CDU/CSU), Dr. Christian Wirth (AfD), Sonja Eichwede (SPD), Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN) und Clara Bünger (Die Linke), die verschiedene Parteipositionen zur Reform darlegten. Bundesminister des Innern BMI, Alexander Dobrindt, sprach ebenfalls zu dem Gesetzentwurf. Die AfD, vertreten durch Jochen Haug und Dr. Bernd Baumann, äußerte sich ablehnend, während die SPD mit Sebastian Fiedler und Dirk Wiese sowie BÜNDNIS 90/DIE GRÜNEN mit Dr. Irene Mihalic in die Debatte eintraten. Die Tagesordnung umfasste auch einen Antrag der Linken auf einen bundesweiten Mietendeckel, zu dem Caren Lay, Janine Wissler und Katalin Gennburg sprachen, dem jedoch Dr. Jan-Marco Luczak und Nina Warken (CDU/CSU) sowie Dr. Anna Rathert (AfD) widersprachen. Des Weiteren wurde die Fortsetzung der Beteiligung deutscher Streitkräfte an der NATO-geführten maritimen Sicherheitsoperation SEA GUARDIAN debattiert, mit Beiträgen von Jürgen Hardt (CDU/CSU), Kurt Kleinschmidt (AfD), Aydan Özoğuz (SPD) und Luise Amtsberg (BÜNDNIS 90/DIE GRÜNEN). Die Sitzung beinhaltete auch die zweite Beratung und Schlussabstimmung des Partnerschaftsabkommens der EU mit Mercosur, an der Redner wie Peter Beyer (CDU/CSU) und Dr. Anton Hofreiter (BÜNDNIS 90/DIE GRÜNEN) teilnahmen. Mehrere namentliche Abstimmungen und deren Ergebnisse wurden im Laufe der Verhandlungen protokolliert.",
-    "summary_easy": "Der Bundestag traf sich am 13. November 2026. Die Abgeordneten sprachen über ein neues Gesetz für den Nachrichtendienst. Dieses Gesetz soll die Arbeit der Geheimdienste reformieren. Es gab viele Reden dazu. Die CDU/CSU, SPD und Grüne diskutierten das Gesetz. Die AfD war dagegen. Ein anderes wichtiges Thema war ein Mietendeckel für ganz Deutschland. Die Linke forderte ihn. Die anderen Parteien waren nicht dafür. Es ging auch um deutsche Soldaten im Mittelmeer. Sie helfen bei einer NATO-Mission. Die Abgeordneten stimmten über diese Einsätze ab. Außerdem wurde ein Abkommen mit südamerikanischen Ländern besprochen.",
+    "summary_en": "On Friday, November 13, 2026, the German Bundestag convened for its 109th session of the 21st legislative period. The session primarily focused on two key agenda items. First, the Bundestag held the second and third readings of the government's draft law to reform intelligence service law, with speeches from Alexander Throm (CDU/CSU), Dr. Christian Wirth (AfD), Sonja Eichwede (SPD), Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN), Clara Bünger (Die Linke), Federal Minister of the Interior Alexander Dobrindt, Jochen Haug (AfD), Sebastian Fiedler (SPD), Dr. Irene Mihalic (BÜNDNIS 90/DIE GRÜNEN), Catarina dos Santos-Wintz (CDU/CSU), Dr. Bernd Baumann (AfD), Dirk Wiese (SPD), and Ina Latendorf (Die Linke). Several roll-call votes were held related to this item. Second, the Bundestag debated a motion by Die Linke MPs, including Caren Lay and Janine Wissler, for a nationwide rent cap, with contributions from Caren Lay (Die Linke), Janine Wissler (Die Linke), Dr. Jan-Marco Luczak (CDU/CSU), Nina Warken (Bundesministerin für besondere Aufgaben), Katalin Gennburg (Die Linke), Dr. Anna Rathert (AfD), Cansin Köktürk (Die Linke), Dr. Alexander Wolf (AfD), Dr. Ralf Stegner (SPD), Rainer Galla (AfD), Hanna Steinmüller (BÜNDNIS 90/DIE GRÜNEN), Christian Moser (CDU/CSU), and Luigi Pantisano (Die Linke). Other agenda items included the second reading and final vote on the EU partnership agreement with MERCOSUR, discussed by Peter Beyer (CDU/CSU), Torben Braga (AfD), Sebastian Roloff (SPD), and Dr. Anton Hofreiter (BÜNDNIS 90/DIE GRÜNEN). Additionally, the parliament addressed the continuation of German armed forces' participation in the NATO maritime operation SEA GUARDIAN, with speakers like Jürgen Hardt (CDU/CSU) and Aydan Özoğuz (SPD). Finally, a proposal regarding a parliamentary initiative from Rebecca Lenhard and Dr. Konstantin von Notz concerning the parliamentary group BÜNDNIS 90/DIE GRÜNEN was mentioned.",
+    "summary_de": "Am Freitag, den 13. November 2026, trat der Deutsche Bundestag zu seiner 109. Sitzung der 21. Wahlperiode zusammen. Die Sitzung konzentrierte sich hauptsächlich auf zwei Kernpunkte der Tagesordnung. Erstens fand die zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Reform des Nachrichtendienstrechts statt, mit Reden von Alexander Throm (CDU/CSU), Dr. Christian Wirth (AfD), Sonja Eichwede (SPD), Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN), Clara Bünger (Die Linke), Bundesminister des Innern Alexander Dobrindt, Jochen Haug (AfD), Sebastian Fiedler (SPD), Dr. Irene Mihalic (BÜNDNIS 90/DIE GRÜNEN), Catarina dos Santos-Wintz (CDU/CSU), Dr. Bernd Baumann (AfD), Dirk Wiese (SPD) und Ina Latendorf (Die Linke). Mehrere namentliche Abstimmungen wurden zu diesem Tagesordnungspunkt durchgeführt. Zweitens erörterte der Bundestag einen Antrag der Fraktion Die Linke, darunter Caren Lay und Janine Wissler, zur Einführung eines bundesweiten Mietendeckels, mit Beiträgen von Caren Lay (Die Linke), Janine Wissler (Die Linke), Dr. Jan-Marco Luczak (CDU/CSU), Bundesministerin für besondere Aufgaben Nina Warken, Katalin Gennburg (Die Linke), Dr. Anna Rathert (AfD), Cansin Köktürk (Die Linke), Dr. Alexander Wolf (AfD), Dr. Ralf Stegner (SPD), Rainer Galla (AfD), Hanna Steinmüller (BÜNDNIS 90/DIE GRÜNEN), Christian Moser (CDU/CSU) und Luigi Pantisano (Die Linke). Weitere Tagesordnungspunkte umfassten die zweite Beratung und Schlussabstimmung über das Partnerschaftsabkommen der EU mit MERCOSUR, diskutiert von Peter Beyer (CDU/CSU), Torben Braga (AfD), Sebastian Roloff (SPD) und Dr. Anton Hofreiter (BÜNDNIS 90/DIE GRÜNEN). Darüber hinaus befasste sich das Parlament mit der Fortsetzung der Beteiligung deutscher Streitkräfte an der NATO-geführten maritimen Operation SEA GUARDIAN, mit Rednern wie Jürgen Hardt (CDU/CSU) und Aydan Özoğuz (SPD). Schließlich wurde ein Antrag der Abgeordneten Rebecca Lenhard und Dr. Konstantin von Notz betreffend die Fraktion BÜNDNIS 90/DIE GRÜNEN erwähnt.",
+    "summary_easy": "Der Bundestag traf sich am 13. November 2026. Es gab viele wichtige Themen. Zuerst sprachen sie über neue Regeln für Geheimdienste. Viele Politiker aus verschiedenen Parteien sagten ihre Meinung. CDU/CSU und SPD sprachen dafür. AfD war dagegen. Grüne und Linke hatten auch Bedenken. Es gab auch Abstimmungen. Dann diskutierten sie über Mietpreise. Die Linke möchte die Mieten deckeln. SPD und Grüne unterstützten die Idee. CDU/CSU und AfD waren dagegen. Auch ein Abkommen mit Südamerika wurde besprochen. Deutschland wird weiterhin bei einer NATO-Mission im Mittelmeer helfen. Viele Politiker sprachen über diese Themen.",
     "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact_en": "During the French Revolution, women adopted the 'tricoteuse' look, featuring simple, dark dresses and often wearing red caps. This fashion choice was not merely aesthetic but served as a symbol of solidarity with the working-class sans-culottes who were prominent during the revolutionary period.",
-      "fact_de": "Während der Französischen Revolution nahmen Frauen den 'Tricoteuse'-Look an, der einfache, dunkle Kleider und oft rote Mützen beinhaltete. Diese Modeentscheidung war nicht nur ästhetisch, sondern diente auch als Symbol der Solidarität mit den Sansculottes der Arbeiterklasse, die während der Revolutionszeit prominent waren.",
-      "fact_easy": "Während der Französischen Revolution trugen Frauen einfache Kleider. Sie trugen rote Mützen. Das war ein Zeichen für die Arbeiter.",
+      "fact_en": "In ancient Rome, the color purple was so expensive and difficult to produce, primarily from sea snails, that it became exclusively associated with emperors and senators. Wearing purple was a symbol of immense wealth and power, and sumptuary laws even dictated who could and couldn't wear it.",
+      "fact_de": "Im antiken Rom war die Farbe Purpur so teuer und schwierig herzustellen, hauptsächlich aus Meeresschnecken, dass sie ausschließlich Kaisern und Senatoren zugeordnet wurde. Das Tragen von Purpur war ein Symbol für immensen Reichtum und Macht, und Kleiderordnungen schrieben sogar vor, wer sie tragen durfte und wer nicht.",
+      "fact_easy": "In Rom war Purpur sehr teuer. Nur Kaiser und Senatoren durften Purpur tragen. Es zeigte, dass sie reich und mächtig waren.",
       "category": "Fashion",
-      "source_title": "Tricoteuses: The Women Who Knit While Paris Burned",
-      "source_url": "https://www.english-heritage.org.uk/visit/places/holloway-prison/history-and-stories/tricoteuses/"
+      "source_title": "Tyrian purple - Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Tyrian_purple"
     },
     {
-      "fact_en": "The ancient Roman festival of Lupercalia, celebrated in February, involved men running through the streets wearing only loincloths and striking women with strips of hide from sacrificed goats. This was believed to promote fertility and ease childbirth.",
-      "fact_de": "Das alte römische Fest Lupercalia, das im Februar gefeiert wurde, beinhaltete Männer, die nur mit Lendenschurzen durch die Straßen rannten und Frauen mit Streifen von geopferten Ziegenhäuten schlugen. Dies sollte Fruchtbarkeit fördern und die Geburt erleichtern.",
-      "fact_easy": "Im alten Rom gab es ein Fest namens Lupercalia. Männer liefen mit wenig Kleidung herum. Sie schlugen Frauen mit Lederstreifen. Das sollte helfen, Kinder zu bekommen.",
-      "category": "Traditions",
-      "source_title": "Lupercalia",
-      "source_url": "https://www.britannica.com/topic/Lupercalia"
+      "fact_en": "The tradition of ringing bells in churches is rooted in an ancient belief that they could ward off evil spirits and even protect against storms. This practice was particularly prominent in medieval Europe, where church bells were rung regularly to signal prayer times and to alert communities to danger.",
+      "fact_de": "Die Tradition, in Kirchen Glocken zu läuten, hat ihre Wurzeln in einem alten Glauben, dass sie böse Geister vertreiben und sogar vor Stürmen schützen könnten. Diese Praxis war im mittelalterlichen Europa besonders verbreitet, wo regelmäßig Kirchenglocken geläutet wurden, um Gebetszeiten anzuzeigen und die Gemeinden vor Gefahren zu warnen.",
+      "fact_easy": "Menschen glaubten früher, dass Kirchenglocken böse Geister vertreiben. Sie sollten auch vor Stürmen schützen. Im Mittelalter läuteten sie oft.",
+      "category": "Religion",
+      "source_title": "History of the Church Bell - St. Mark's Episcopal Church",
+      "source_url": "https://stmarks.com/news/history-of-the-church-bell"
     }
   ],
   "frankfurt": {
@@ -324,80 +332,68 @@
       {
         "type": "Events",
         "emoji": "🎪",
-        "headline_en": "Hoffenheim Criticizes Referee After Frankfurt Loss; 'Tatort' Episode Features Teheran Attacker; Police Chief Discusses Youth Protests",
-        "headline_de": "Hoffenheim kritisiert Schiedsrichter nach Frankfurt-Niederlage; „Tatort“-Folge thematisiert Attentäter aus Teheran; Polizeichef spricht über Jugendproteste",
-        "headline_easy": "Hoffenheim ist sauer wegen des Schiedsrichters. Ein neuer „Tatort“ handelt von einem Attentäter. Die Polizei spricht über eine Demo.",
-        "summary_en": "Following their 0:1 defeat to Eintracht Frankfurt, Hoffenheim's sports director heavily criticized the refereeing. A new 'Tatort' episode from Frankfurt investigates an unsolved political assassination from 1999 with ties to Teheran. The police leader for Frankfurt's youth protests explains the coordination of a large police presence and the reasons for the largely peaceful outcome.",
-        "summary_de": "Nach der 0:1-Niederlage gegen Eintracht Frankfurt hat der Sport-Geschäftsführer von Hoffenheim das Schiedsrichtergespann scharf kritisiert. Eine neue „Tatort“-Folge aus Frankfurt thematisiert ein politisches Attentat aus dem Jahr 1999, das scheinbar unaufgeklärt blieb. Der Einsatzleiter der Frankfurter Jugendproteste erläutert die Koordination eines großen Polizeiaufgebots und die Gründe für den weitgehend friedlichen Verlauf.",
-        "summary_easy": "Hoffenheim hat gegen Frankfurt verloren und ist mit dem Schiedsrichter unzufrieden. In einem neuen „Tatort“ geht es um einen alten Fall. Die Polizei erklärt, warum eine Demo friedlich war.",
+        "headline_en": "New Senckenberg Museum Director Outlines Vision Amidst Major Renovations",
+        "headline_de": "Neue Senckenberg-Chefin Saskia Benthack plant für traditionsreiches Museum inmitten von Umbauten",
+        "headline_easy": "Neue Chefin im Senckenbergmuseum: Was sind ihre Pläne?",
+        "summary_en": "Saskia Benthack has taken over as the new director of the Senckenberg Museum in Frankfurt, which is facing significant renovations. The article explores her plans for the historic institution.",
+        "summary_de": "Saskia Benthack ist die neue Leiterin des Senckenbergmuseums in Frankfurt, das vor großen Umbauten steht. Ihre Pläne für das traditionsreiche Haus werden beleuchtet.",
+        "summary_easy": "Saskia Benthack ist die neue Chefin im Senckenbergmuseum in Frankfurt. Das Museum wird gerade umgebaut. Sie hat Pläne für das Museum.",
         "links": [
           {
-            "title": "Hoffenheim-Ärger nach Frankfurt-Pleite - Schicker attackiert Schiri-Gespann: Witz-Elfmeter",
-            "url": "https://www.bild.de/sport/fussball/tsg-hoffenheim-schicker-attackiert-schiris-nach-eintracht-elfer-6b02f06825b618a0b5d5bec8"
+            "title": "Neue Senckenberg-Chefin: Eine Frau für die großen Zusammenhänge",
+            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/senckenbergmuseum-frankfurt-was-plant-die-neue-leiterin-saskia-benthack-201708011.html"
           },
           {
-            "title": "„Tatort“ aus Frankfurt: Der Attentäter kommt aus Teheran",
-            "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/fernsehfilm/iranisches-politattentat-im-tatort-4-finger-201701029.html"
+            "title": "Dichtung heute: Je radikaler hineingehört, desto klarer gesagt",
+            "url": "https://www.faz.net/aktuell/feuilleton/buecher/autoren/der-dichte-joachim-sartorius-ueber-lyrik-heute-201603977.html"
           }
         ]
       },
       {
         "type": "Crime",
         "emoji": "🚔",
-        "headline_en": "Frankfurt Police Report Positive Outcome for Protest Day; Ten Arrests Made During Friday Demonstrations; Regional Liveblog Covers Incidents",
-        "headline_de": "Polizei zieht positive Bilanz nach Protesttag in Frankfurt; Zehn Festnahmen bei Demo-Freitag in Frankfurt; Rhein-Main-Liveblog berichtet über Vorfälle",
-        "headline_easy": "Die Polizei war mit den Demos zufrieden. Es gab zehn Festnahmen. Ein Liveblog berichtet über Neuigkeiten.",
-        "summary_en": "Frankfurt police have reported a positive assessment of the recent protest day, with ten arrests made during Friday's demonstrations. While the protests were largely peaceful, some arrests were linked to earlier Halloween disturbances. A regional liveblog also provided updates on various incidents across the Rhein-Main area, including a man losing consciousness after being kicked in Wiesbaden.",
-        "summary_de": "Die Frankfurter Polizei zieht eine positive Bilanz nach dem jüngsten Protesttag. Am Demo-Freitag gab es zehn Festnahmen, einige davon im Zusammenhang mit Ausschreitungen an Halloween. Ein Liveblog aus der Region berichtete zudem über verschiedene Vorfälle, darunter einen Mann, der in Wiesbaden nach Tritten bewusstlos wurde.",
-        "summary_easy": "Die Polizei in Frankfurt sagt, die Demo war gut. Zehn Leute wurden festgenommen. In Wiesbaden wurde ein Mann verletzt.",
+        "headline_en": "Two-Michelin-Star Chef Opens Traditional Inn 'Rauschhaus' in Frankfurt",
+        "headline_de": "Zwei-Sterne-Koch Jochim Busch eröffnet das Wirtshaus 'Rauschhaus' in Frankfurt",
+        "headline_easy": "Bekannter Koch macht jetzt ein einfaches Restaurant in Frankfurt",
+        "summary_en": "Acclaimed two-Michelin-star chef Jochim Busch has opened a new establishment in Frankfurt called 'Rauschhaus'. The inn offers a distinct culinary experience, focusing on hearty dishes like Maultaschen instead of gourmet options.",
+        "summary_de": "Der Zwei-Sterne-Koch Jochim Busch hat in Frankfurt das Wirtshaus 'Rauschhaus' eröffnet. Das Lokal bietet eine besondere Genussklasse mit Gerichten wie Maultaschen, statt aufwendiger Gourmetmenüs.",
+        "summary_easy": "Ein Koch mit zwei Michelin-Sternen hat ein neues Restaurant in Frankfurt eröffnet. Es heißt 'Rauschhaus'. Dort gibt es einfache, gute Gerichte wie Maultaschen.",
         "links": [
           {
-            "title": "Rhein-Main-Liveblog: Wiesbaden: Mann verliert nach Tritten gegen Kopf Bewusstsein",
-            "url": "https://www.faz.net/aktuell/rhein-main/wiesbaden-junger-mann-nach-tritten-gegen-kopf-bewusstlos-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
-          },
-          {
-            "title": "Jugendproteste: Zehn Festnahmen am Demo-Freitag in Frankfurt",
-            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/gen-z-proteste-zehn-festnahmen-am-demo-freitag-in-frankfurt-accg-201706132.html"
+            "title": "Gaststätte Rauschhaus: Maultasche statt Jakobsmuschel",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/gaststaette-rauschhaus-in-frankfurt-mit-einer-ganz-eigenen-genussklasse-accg-201688203.html"
           }
         ]
       },
       {
         "type": "Sales & Offers",
         "emoji": "🛍️",
-        "headline_en": "Regional Liveblog Covers Incidents; Ten Arrests Made During Frankfurt Protests; Building in Frankfurt Recommended",
-        "headline_de": "Rhein-Main-Liveblog berichtet über Vorfälle; Zehn Festnahmen bei Demo-Freitag in Frankfurt; Bauen wie in Frankfurt empfohlen",
-        "headline_easy": "Neuigkeiten aus der Region. In Frankfurt gab es Festnahmen. Bauen in Frankfurt ist gut.",
-        "summary_en": "A regional liveblog provided updates on various incidents across the Rhein-Main area, including a man losing consciousness after being kicked in Wiesbaden and police reporting a positive assessment of a protest day in Frankfurt. Ten arrests were made during the Friday demonstrations, some linked to earlier disturbances. The article also recommends 'building like in Frankfurt' as a positive action to emulate.",
-        "summary_de": "Ein Liveblog aus der Region berichtete über Vorfälle, darunter ein bewusstloser Mann in Wiesbaden und eine positive Polizeibilanz bei Protesten in Frankfurt. Zehn Festnahmen gab es am Demo-Freitag, teils im Zusammenhang mit früheren Ausschreitungen. Als eine von drei Empfehlungen wird zudem das Bauen in Frankfurt genannt.",
-        "summary_easy": "Ein Liveblog gibt es für die Region. In Frankfurt gab es zehn Festnahmen. Man soll wie in Frankfurt bauen.",
+        "headline_en": "Two-Michelin-Star Chef Opens Traditional Inn 'Rauschhaus' in Frankfurt",
+        "headline_de": "Zwei-Sterne-Koch Jochim Busch eröffnet das Wirtshaus 'Rauschhaus' in Frankfurt",
+        "headline_easy": "Bekannter Koch macht jetzt ein einfaches Restaurant in Frankfurt",
+        "summary_en": "Acclaimed two-Michelin-star chef Jochim Busch has opened a new establishment in Frankfurt called 'Rauschhaus'. The inn offers a distinct culinary experience, focusing on hearty dishes like Maultaschen instead of gourmet options.",
+        "summary_de": "Der Zwei-Sterne-Koch Jochim Busch hat in Frankfurt das Wirtshaus 'Rauschhaus' eröffnet. Das Lokal bietet eine besondere Genussklasse mit Gerichten wie Maultaschen, statt aufwendiger Gourmetmenüs.",
+        "summary_easy": "Ein Koch mit zwei Michelin-Sternen hat ein neues Restaurant in Frankfurt eröffnet. Es heißt 'Rauschhaus'. Dort gibt es einfache, gute Gerichte wie Maultaschen.",
         "links": [
           {
-            "title": "Rhein-Main-Liveblog: Wiesbaden: Mann verliert nach Tritten gegen Kopf Bewusstsein",
-            "url": "https://www.faz.net/aktuell/rhein-main/wiesbaden-junger-mann-nach-tritten-gegen-kopf-bewusstlos-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
-          },
-          {
-            "title": "Jugendproteste: Zehn Festnahmen am Demo-Freitag in Frankfurt",
-            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/gen-z-proteste-zehn-festnahmen-am-demo-freitag-in-frankfurt-accg-201706132.html"
+            "title": "Gaststätte Rauschhaus: Maultasche statt Jakobsmuschel",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/gaststaette-rauschhaus-in-frankfurt-mit-einer-ganz-eigenen-genussklasse-accg-201688203.html"
           }
         ]
       },
       {
         "type": "Local News",
         "emoji": "📍",
-        "headline_en": "Regional Liveblog Covers Incidents; Ten Arrests Made During Frankfurt Protests; Building in Frankfurt Recommended",
-        "headline_de": "Rhein-Main-Liveblog berichtet über Vorfälle; Zehn Festnahmen bei Demo-Freitag in Frankfurt; Bauen wie in Frankfurt empfohlen",
-        "headline_easy": "Neuigkeiten aus der Region. In Frankfurt gab es Festnahmen. Bauen in Frankfurt ist gut.",
-        "summary_en": "A regional liveblog provided updates on various incidents across the Rhein-Main area, including a man losing consciousness after being kicked in Wiesbaden and police reporting a positive assessment of a protest day in Frankfurt. Ten arrests were made during the Friday demonstrations, some linked to earlier disturbances. The article also recommends 'building like in Frankfurt' as a positive action to emulate.",
-        "summary_de": "Ein Liveblog aus der Region berichtete über Vorfälle, darunter ein bewusstloser Mann in Wiesbaden und eine positive Polizeibilanz bei Protesten in Frankfurt. Zehn Festnahmen gab es am Demo-Freitag, teils im Zusammenhang mit früheren Ausschreitungen. Als eine von drei Empfehlungen wird zudem das Bauen in Frankfurt genannt.",
-        "summary_easy": "Ein Liveblog gibt es für die Region. In Frankfurt gab es zehn Festnahmen. Man soll wie in Frankfurt bauen.",
+        "headline_en": "Two-Michelin-Star Chef Opens Traditional Inn 'Rauschhaus' in Frankfurt",
+        "headline_de": "Zwei-Sterne-Koch Jochim Busch eröffnet das Wirtshaus 'Rauschhaus' in Frankfurt",
+        "headline_easy": "Bekannter Koch macht jetzt ein einfaches Restaurant in Frankfurt",
+        "summary_en": "Acclaimed two-Michelin-star chef Jochim Busch has opened a new establishment in Frankfurt called 'Rauschhaus'. The inn offers a distinct culinary experience, focusing on hearty dishes like Maultaschen instead of gourmet options.",
+        "summary_de": "Der Zwei-Sterne-Koch Jochim Busch hat in Frankfurt das Wirtshaus 'Rauschhaus' eröffnet. Das Lokal bietet eine besondere Genussklasse mit Gerichten wie Maultaschen, statt aufwendiger Gourmetmenüs.",
+        "summary_easy": "Ein Koch mit zwei Michelin-Sternen hat ein neues Restaurant in Frankfurt eröffnet. Es heißt 'Rauschhaus'. Dort gibt es einfache, gute Gerichte wie Maultaschen.",
         "links": [
           {
-            "title": "Rhein-Main-Liveblog: Wiesbaden: Mann verliert nach Tritten gegen Kopf Bewusstsein",
-            "url": "https://www.faz.net/aktuell/rhein-main/wiesbaden-junger-mann-nach-tritten-gegen-kopf-bewusstlos-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
-          },
-          {
-            "title": "Jugendproteste: Zehn Festnahmen am Demo-Freitag in Frankfurt",
-            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/gen-z-proteste-zehn-festnahmen-am-demo-freitag-in-frankfurt-accg-201706132.html"
+            "title": "Gaststätte Rauschhaus: Maultasche statt Jakobsmuschel",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/gaststaette-rauschhaus-in-frankfurt-mit-einer-ganz-eigenen-genussklasse-accg-201688203.html"
           }
         ]
       }

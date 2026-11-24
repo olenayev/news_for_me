@@ -1,0 +1,403 @@
+{
+  "date": "Tuesday, November 24 2026",
+  "sections": [
+    {
+      "category": "Germany",
+      "emoji": "🇩🇪",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "EU Faces New Gas Price Shock Amidst Gen Z Mobilization",
+          "headline_de": "EU erlebt neuen Gaspreisschock inmitten der Mobilisierung von Gen Z",
+          "headline_easy": "Neue hohe Gaspreise in der EU. Junge Leute protestieren in Frankreich und Deutschland.",
+          "summary_en": "The European Union is experiencing a new shock due to rising gas prices. Concurrently, a generational shift is evident with Gen Z mobilization in France and Germany, raising questions about the state of democracy.",
+          "summary_de": "Die Europäische Union erlebt einen neuen Schock durch steigende Gaspreise. Gleichzeitig zeigt sich ein generationeller Wandel durch die Mobilisierung von Gen Z in Frankreich und Deutschland, was Fragen über den Zustand der Demokratie aufwirft.",
+          "summary_easy": "Die Preise für Gas steigen in der EU wieder stark. Junge Leute organisieren sich in Frankreich und Deutschland. Sie fragen sich, ob die Demokratie gut funktioniert.",
+          "links": [
+            {
+              "title": "EU hit by new gas price shock",
+              "url": "https://rt-english.com/news/649257-eu-hit-new-gas-shock/"
+            },
+            {
+              "title": "Is Democracy Failing or Is It Failing a Generation? Unpacking Gen Z Mobilization in France and Germany",
+              "url": "https://www.fairobserver.com/region/europe/is-democracy-failing-or-is-it-failing-a-generation-unpacking-gen-z-mobilization-in-france-and-germany/"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Stocks Rebound After AI Selloff; Dollar Stabilizes",
+          "headline_de": "Aktien erholen sich nach KI-Ausverkauf; Dollar stabilisiert sich",
+          "headline_easy": "Aktienmärkte erholen sich. Der Dollar ist stabil.",
+          "summary_en": "Stock markets are showing signs of a rebound following a recent sell-off driven by AI-related concerns. The US dollar has stabilized as traders take a breather from market volatility.",
+          "summary_de": "Die Aktienmärkte zeigen Anzeichen einer Erholung nach einem jüngsten Ausverkauf, der durch KI-bezogene Bedenken ausgelöst wurde. Der US-Dollar hat sich stabilisiert, da sich die Händler von der Marktvolatilität erholen.",
+          "summary_easy": "Die Aktienkurse steigen wieder. Vorher gab es einen Ausverkauf wegen KI. Der Dollar ist jetzt stabil.",
+          "links": [
+            {
+              "title": "Stocks set for rebound after AI-driven selloff",
+              "url": "https://www.nbcnews.com/business/markets/stocks-rebound-ai-tech-selloff-nvidia-rcna610833"
+            },
+            {
+              "title": "Dollar steadies as traders take breather from AI wobbles",
+              "url": "https://www.channelnewsasia.com/business/dollar-steadies-traders-take-breather-ai-wobbles-6573501"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Europe",
+      "emoji": "🇪🇺",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Emacs News and Economic Trends Emerge in Europe",
+          "headline_de": "Emacs-Neuigkeiten und Wirtschaftstrends in Europa",
+          "headline_easy": "Neuigkeiten zu Emacs. Steuereinnahmen steigen in einem Land. Ein Fußballspieler ist kollabiert.",
+          "summary_en": "Recent news includes updates on Emacs, a doubling of total tax revenue in a European state since 2015, and an unusual incident involving an Argentinian football star collapsing after a match.",
+          "summary_de": "Aktuelle Nachrichten umfassen Updates zu Emacs, eine Verdoppelung der gesamten Steuereinnahmen in einem europäischen Staat seit 2015 und einen ungewöhnlichen Vorfall, bei dem ein argentinischer Fußballstar nach einem Spiel zusammenbrach.",
+          "summary_easy": "Es gibt neue Nachrichten über Emacs. Ein Land hat doppelt so viel Steuern eingenommen seit 2015. Ein Fußballstar ist nach einem Spiel zusammengebrochen.",
+          "links": [
+            {
+              "title": "2026-11-23 Emacs news",
+              "url": "https://sachachua.com/blog/2026/11/2026-11-23-emacs-news/"
+            },
+            {
+              "title": "State’s total tax revenue has doubled since 2015, mostly due to income and corporation tax",
+              "url": "https://www.irishtimes.com/business/2026/11/23/states-total-tax-revenue-has-doubled-since-2015-mostly-due-to-income-and-corporation-tax/"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "US Stocks Set to Rebound as European Markets Track Global Trends",
+          "headline_de": "US-Aktien werden sich erholen, während europäische Märkte globale Trends verfolgen",
+          "headline_easy": "US-Aktienmärkte erholen sich. Ein neues Frachtschiff fährt mit Wind.",
+          "summary_en": "US stock futures are climbing as the technology sector recovers from a recent sell-off. In Europe, a new concept of a wind-powered cargo ship is being explored, signaling potential shifts in maritime logistics.",
+          "summary_de": "Die US-Aktien-Futures steigen, da sich der Technologiesektor von einem jüngsten Ausverkauf erholt. In Europa wird ein neues Konzept eines windbetriebenen Frachtschiffs erforscht, das auf potenzielle Veränderungen in der maritimen Logistik hindeutet.",
+          "summary_easy": "US-Aktien werden besser. Es gibt eine Idee für ein neues Schiff, das mit Wind fährt. Das könnte für den Transport wichtig sein.",
+          "links": [
+            {
+              "title": "U.S. futures climb as technology recovers from brutal sell-off last week",
+              "url": "https://www.cbc.ca/news/business/stock-market-latest-9.7432277"
+            },
+            {
+              "title": "A New Age of Sail",
+              "url": "https://www.theatlantic.com/magazine/2027/01/neoliner-origin-wind-powered-cargo-ship/689402/?utm_source=feed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "US",
+      "emoji": "🇺🇸",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Healthcare Disparities and Tech Leadership in the US",
+          "headline_de": "Gesundheitswesen-Ungleichheiten und Tech-Führung in den USA",
+          "headline_easy": "Schwarze Mütter haben Probleme mit der Gesundheit. Jensen Huang ist wieder Chef bei Nvidia.",
+          "summary_en": "Black mothers in the US report unmet needs during pregnancy and postpartum. In the tech world, Jensen Huang has returned as CEO of Nvidia, a significant development in the industry.",
+          "summary_de": "Schwarze Mütter in den USA berichten von unerfüllten Bedürfnissen während Schwangerschaft und nach der Geburt. In der Tech-Welt ist Jensen Huang als CEO von Nvidia zurückgekehrt, eine bedeutende Entwicklung in der Branche.",
+          "summary_easy": "Schwarze Mütter in den USA bekommen nicht immer die Hilfe, die sie brauchen. Jensen Huang ist wieder der Chef von Nvidia. Das ist wichtig für die Technik-Welt.",
+          "links": [
+            {
+              "title": "Black mothers say pregnancy, postpartum needs often unmet",
+              "url": "https://roanoke.com/news/nation-world/business/health-care/article_b7e9fa2e-716b-5e57-93c8-2834a01ad5c2.html"
+            },
+            {
+              "title": "Jensen Huang Is Back as Nvidia CEO",
+              "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "US Business and Political Developments: CIA Inquiry and Tech Leadership",
+          "headline_de": "US-Wirtschafts- und politische Entwicklungen: CIA-Untersuchung und Tech-Führung",
+          "headline_easy": "Es gibt eine Untersuchung zur CIA. Schwarze Mütter brauchen mehr Hilfe. Jensen Huang ist wieder Chef bei Nvidia.",
+          "summary_en": "A political inquiry into alleged CIA spying on Tulsi Gabbard's team is ongoing. Meanwhile, Black mothers highlight unmet healthcare needs, and Jensen Huang has been reinstated as Nvidia's CEO.",
+          "summary_de": "Eine politische Untersuchung zu angeblichen Spionageaktivitäten der CIA gegen Tulsi Gabbards Team ist im Gange. Unterdessen heben schwarze Mütter unerfüllte Gesundheitsbedürfnisse hervor, und Jensen Huang wurde als CEO von Nvidia wiedereingesetzt.",
+          "summary_easy": "Man untersucht, ob die CIA die Leute von Tulsi Gabbard heimlich beobachtet hat. Schwarze Mütter brauchen mehr Hilfe. Jensen Huang ist wieder der Chef von Nvidia.",
+          "links": [
+            {
+              "title": "SWAMP WATCH: Did the CIA Spy on Tulsi Gabbard’s Team Over the J6 Pipe Bomb Investigation? We Demanded the Whistleblower Complaint.",
+              "url": "https://www.thegatewaypundit.com/2026/11/swamp-watch-did-cia-spy-tulsi-gabbards-team/"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Nvidia CEO Reinstated Amidst Market Recovery",
+          "headline_de": "Nvidia-CEO wieder eingesetzt inmitten der Markterholung",
+          "headline_easy": "Jensen Huang ist wieder Chef bei Nvidia. Die Aktienmärkte erholen sich.",
+          "summary_en": "Jensen Huang has been reinstated as the CEO of Nvidia, a significant move in the technology sector. This comes as US stock markets show signs of a rebound after a period of volatility.",
+          "summary_de": "Jensen Huang wurde als CEO von Nvidia wieder eingesetzt, eine bedeutende Veränderung im Technologiesektor. Dies geschieht, während die US-Aktienmärkte nach einer Phase der Volatilität Anzeichen einer Erholung zeigen.",
+          "summary_easy": "Jensen Huang ist wieder der Chef von Nvidia. Das ist eine wichtige Nachricht für die Technik-Firma. Die Aktienmärkte in den USA werden wieder besser.",
+          "links": [
+            {
+              "title": "Nvidia board Reinstates Jensen Huang as CEO",
+              "url": "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Asia",
+      "emoji": "🌏",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Asian Sports and Technology Developments",
+          "headline_de": "Asiatische Sport- und Technologieentwicklungen",
+          "headline_easy": "Es gibt eine Preisverleihung für Badminton. Eine Firma hat neue Probleme wegen US-Regeln. Es gibt Neuigkeiten zu Emacs.",
+          "summary_en": "Asia sees sports news with nominees for Badminton Player of the Year. Technology firms face challenges due to new US curbs in Southeast Asia. Updates on Emacs are also available.",
+          "summary_de": "Asien verzeichnet Sportnachrichten mit Nominierten für die Badmintonspielerin des Jahres. Technologieunternehmen stehen aufgrund neuer US-Beschränkungen in Südostasien vor Herausforderungen. Updates zu Emacs sind ebenfalls verfügbar.",
+          "summary_easy": "Es gibt Preise für Badmintonspielerinnen. Eine Technik-Firma hat Probleme wegen Regeln aus den USA. Es gibt auch neue Nachrichten über Emacs.",
+          "links": [
+            {
+              "title": "TOISA 2026: Meet the nominees for Badminton Player of the Year (Female)",
+              "url": "https://timesofindia.indiatimes.com/sports/badminton/toisa-2026-meet-the-nominees-for-badminton-player-of-the-year-female/articleshow/136105419.cms"
+            },
+            {
+              "title": "Nebius Rallies 30% Despite New U.S. Curbs Threatening Neocloud Business in Southeast Asia; IREN Jumps 24%, CoreWeave Climbs 7%",
+              "url": "https://biztoc.com/x/46ad85d9308e2703"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Asian Markets Track US Rebound; Local Brokerage Recommendations",
+          "headline_de": "Asiatische Märkte verfolgen US-Erholung; Empfehlungen lokaler Makler",
+          "headline_easy": "US-Aktienmärkte erholen sich. Ein Makler empfiehlt eine Aktie. Aktien erholen sich nach KI-Ausverkauf.",
+          "summary_en": "Asian stock markets are reflecting the rebound seen in US markets, particularly after an AI-driven sell-off. Local brokerage firms are providing recommendations, such as a 'Buy' rating for Chalet Hotels.",
+          "summary_de": "Die asiatischen Aktienmärkte spiegeln die Erholung der US-Märkte wider, insbesondere nach einem KI-gesteuerten Ausverkauf. Lokale Maklerfirmen geben Empfehlungen ab, wie z.B. eine 'Kaufen'-Bewertung für Chalet Hotels.",
+          "summary_easy": "Die Aktienmärkte in Asien folgen dem Aufschwung in den USA. Ein Makler sagt, man soll Chalet Hotels kaufen. Aktien werden wieder besser nach einem Ausverkauf wegen KI.",
+          "links": [
+            {
+              "title": "US stocks set to rebound after bruising sell-off",
+              "url": "https://www.cnn.com/2026/11/23/markets/us-stocks-rebound-intl"
+            },
+            {
+              "title": "Broker’s Call: Chalet Hotels (Buy)",
+              "url": "https://www.thehindubusinessline.com/markets/brokers-call-chalet-hotels-buy/article71734112.ece"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "World",
+      "emoji": "🌍",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Nvidia CEO Reinstated Amidst Global Business Developments",
+          "headline_de": "Nvidia-CEO wieder eingesetzt inmitten globaler Geschäftsentwicklungen",
+          "headline_easy": "Jensen Huang ist wieder Chef bei Nvidia. Es gibt auch ein Buch für reiche Leute.",
+          "summary_en": "Jensen Huang has been reinstated as CEO of Nvidia, a significant development in the global tech industry. Other business news includes curated books and experiences for wealthy individuals.",
+          "summary_de": "Jensen Huang wurde als CEO von Nvidia wieder eingesetzt, eine bedeutende Entwicklung in der globalen Tech-Industrie. Weitere Geschäftsnachrichten umfassen kuratierte Bücher und Erlebnisse für wohlhabende Personen.",
+          "summary_easy": "Jensen Huang ist wieder der Chef von Nvidia. Das ist eine wichtige Nachricht für die Technik-Welt. Es gibt auch Bücher für reiche Leute.",
+          "links": [
+            {
+              "title": "Nvidia Reinstates Jensen Huang As CEO",
+              "url": "https://dailycaller.com/2026/11/23/nvidia-reinstates-jensen-huang-ceo-china/"
+            },
+            {
+              "title": "Nvidia reinstates Jensen Huang as CEO and president",
+              "url": "https://finance.yahoo.com/markets/stocks/live/nvidia-live-updates-jensen-huang-reinstated-as-ceo-142447561.html"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Global Business and Technology Leaders: Nvidia CEO and Wealth Management",
+          "headline_de": "Globale Wirtschafts- und Technologieführer: Nvidia-CEO und Vermögensverwaltung",
+          "headline_easy": "Jensen Huang ist wieder Chef bei Nvidia. Es gibt ein Buch für reiche Leute.",
+          "summary_en": "Jensen Huang has been reinstated as CEO of Nvidia, a major event in the tech world. Business news also highlights wealth management trends, with JPMorgan offering top books and experiences for affluent clients.",
+          "summary_de": "Jensen Huang wurde als CEO von Nvidia wieder eingesetzt, ein wichtiges Ereignis in der Technologiewelt. Geschäftsnachrichten beleuchten auch Trends im Vermögensmanagement, wobei JPMorgan Top-Bücher und Erlebnisse für wohlhabende Kunden anbietet.",
+          "summary_easy": "Jensen Huang ist wieder der Chef von Nvidia. Das ist eine wichtige Nachricht. JPMorgan hat Bücher und Erlebnisse für reiche Kunden.",
+          "links": [
+            {
+              "title": "Nvidia Board Reinstates Jensen Huang as CEO",
+              "url": "https://www.hollywoodreporter.com/business/digital/nvidia-board-reinstates-jensen-huang-ceo-1236761072/"
+            },
+            {
+              "title": "JPMorgan's top books and experiences for the wealthy this holiday season",
+              "url": "https://www.cnbc.com/2026/11/23/jpmorgans-top-books-experiences-for-the-wealthy-this-holiday-season.html"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Global Updates: Business Tools, Health Crisis, and Tech Leadership",
+          "headline_de": "Globale Updates: Geschäftstools, Gesundheitskrise und Tech-Führung",
+          "headline_easy": "Man kann Geschäftswerkzeuge besser machen. Die WHO bittet um Frieden im Kongo. Jensen Huang ist zurück.",
+          "summary_en": "Global news includes advice on improving business tools, a plea for peace in an Ebola-hit area of DR Congo by the WHO chief, and the return of Jensen Huang to Nvidia's leadership.",
+          "summary_de": "Globale Nachrichten umfassen Ratschläge zur Verbesserung von Geschäftstools, einen Aufruf des WHO-Chefs zu Frieden in einem von Ebola betroffenen Gebiet der DR Kongo und die Rückkehr von Jensen Huang in die Führung von Nvidia.",
+          "summary_easy": "Man kann Werkzeuge für Geschäfte besser machen. Die WHO bittet um Frieden im Kongo, weil es dort Ebola gibt. Jensen Huang ist wieder der Chef von Nvidia.",
+          "links": [
+            {
+              "title": "Trimming Tool Sprawl in a Growing Online Business",
+              "url": "https://socialmediaexplorer.com/social-media-marketing/trimming-tool-sprawl-growing-online-business/"
+            },
+            {
+              "title": "WHO chief pleads for peace in Ebola-hit DR Congo area",
+              "url": "https://sylhetmirror.com/2026/11/23/who-chief-pleads-for-peace-in-ebola-hit-dr-congo-area/"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Global Markets Stabilize as Nvidia CEO Returns",
+          "headline_de": "Globale Märkte stabilisieren sich mit Rückkehr des Nvidia-CEOs",
+          "headline_easy": "Jensen Huang ist wieder Chef bei Nvidia. Die Aktienmärkte sind stabil.",
+          "summary_en": "Global stock markets are seeing stability as Jensen Huang is reinstated as CEO of Nvidia. This leadership change is a key development in the international business landscape.",
+          "summary_de": "Die globalen Aktienmärkte erleben eine Stabilisierung, da Jensen Huang als CEO von Nvidia wieder eingesetzt wird. Dieser Führungswechsel ist eine Schlüsselentwicklung in der internationalen Geschäftslandschaft.",
+          "summary_easy": "Die Aktienmärkte weltweit sind stabil. Jensen Huang ist wieder der Chef von Nvidia. Das ist wichtig für die Wirtschaft.",
+          "links": [
+            {
+              "title": "Huang Is Back",
+              "url": "https://reason.com/2026/11/23/huang-is-back/"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "Global Technology and Market Trends: Food Markets, Mental Health, and Business Tools",
+          "headline_de": "Globale Technologie- und Markttrends: Lebensmittelmärkte, psychische Gesundheit und Geschäftstools",
+          "headline_easy": "Es gibt neue Märkte für Essen in Asien. Ein Boxer spricht über seine Krankheit. Man kann Werkzeuge für Geschäfte besser machen.",
+          "summary_en": "Global technology and market news includes opportunities in food and drink markets in the Philippines and Vietnam. A boxer reveals his schizophrenia diagnosis, and there's advice on optimizing business tools.",
+          "summary_de": "Globale Technologie- und Marktnachrichten umfassen Chancen auf Lebensmittelmärkten auf den Philippinen und in Vietnam. Ein Boxer enthüllt seine Schizophrenie-Diagnose, und es gibt Ratschläge zur Optimierung von Geschäftstools.",
+          "summary_easy": "Es gibt neue Märkte für Essen auf den Philippinen und in Vietnam. Ein Boxer hat gesagt, dass er Schizophrenie hat. Man kann Werkzeuge für Geschäfte besser nutzen.",
+          "links": [
+            {
+              "title": "Market opens up for food and drink in Philippines and Vietnam",
+              "url": "https://www.gov.uk/government/news/market-opens-up-for-food-and-drink-in-philippines-and-vietnam"
+            },
+            {
+              "title": "Tyson Fury Reveals Schizophrenia Diagnosis in Netflix Documentary: ‘I Thought I’d End Up in a Padded Room’",
+              "url": "https://variety.com/2026/tv/global/tyson-fury-schizophrenia-diagnosis-netflix-documentary-1236955855/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "bundestag": {
+    "wahlperiode": 21,
+    "sitzung": 109,
+    "url": "https://dserver.bundestag.de/btp/21/21109.pdf",
+    "summary_en": "On Friday, November 13, 2026, the German Bundestag convened for its 109th session of the 21st legislative period. The session primarily focused on two key agenda items. First, the Bundestag held the second and third readings of the government's draft law to reform intelligence service law, with speeches from Alexander Throm (CDU/CSU), Dr. Christian Wirth (AfD), Sonja Eichwede (SPD), Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN), Clara Bünger (Die Linke), Federal Minister of the Interior Alexander Dobrindt, Jochen Haug (AfD), Sebastian Fiedler (SPD), Dr. Irene Mihalic (BÜNDNIS 90/DIE GRÜNEN), Catarina dos Santos-Wintz (CDU/CSU), Dr. Bernd Baumann (AfD), Dirk Wiese (SPD), and Ina Latendorf (Die Linke). Several roll-call votes were held related to this item. Second, the Bundestag debated a motion by Die Linke MPs, including Caren Lay and Janine Wissler, for a nationwide rent cap, with contributions from Caren Lay (Die Linke), Janine Wissler (Die Linke), Dr. Jan-Marco Luczak (CDU/CSU), Nina Warken (Bundesministerin für besondere Aufgaben), Katalin Gennburg (Die Linke), Dr. Anna Rathert (AfD), Cansin Köktürk (Die Linke), Dr. Alexander Wolf (AfD), Dr. Ralf Stegner (SPD), Rainer Galla (AfD), Hanna Steinmüller (BÜNDNIS 90/DIE GRÜNEN), Christian Moser (CDU/CSU), and Luigi Pantisano (Die Linke). Other agenda items included the second reading and final vote on the EU partnership agreement with MERCOSUR, discussed by Peter Beyer (CDU/CSU), Torben Braga (AfD), Sebastian Roloff (SPD), and Dr. Anton Hofreiter (BÜNDNIS 90/DIE GRÜNEN). Additionally, the parliament addressed the continuation of German armed forces' participation in the NATO maritime operation SEA GUARDIAN, with speakers like Jürgen Hardt (CDU/CSU) and Aydan Özoğuz (SPD). Finally, a proposal regarding a parliamentary initiative from Rebecca Lenhard and Dr. Konstantin von Notz concerning the parliamentary group BÜNDNIS 90/DIE GRÜNEN was mentioned.",
+    "summary_de": "Am Freitag, den 13. November 2026, trat der Deutsche Bundestag zu seiner 109. Sitzung der 21. Wahlperiode zusammen. Die Sitzung konzentrierte sich hauptsächlich auf zwei Kernpunkte der Tagesordnung. Erstens fand die zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Reform des Nachrichtendienstrechts statt, mit Reden von Alexander Throm (CDU/CSU), Dr. Christian Wirth (AfD), Sonja Eichwede (SPD), Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN), Clara Bünger (Die Linke), Bundesminister des Innern Alexander Dobrindt, Jochen Haug (AfD), Sebastian Fiedler (SPD), Dr. Irene Mihalic (BÜNDNIS 90/DIE GRÜNEN), Catarina dos Santos-Wintz (CDU/CSU), Dr. Bernd Baumann (AfD), Dirk Wiese (SPD) und Ina Latendorf (Die Linke). Mehrere namentliche Abstimmungen wurden zu diesem Tagesordnungspunkt durchgeführt. Zweitens erörterte der Bundestag einen Antrag der Fraktion Die Linke, darunter Caren Lay und Janine Wissler, zur Einführung eines bundesweiten Mietendeckels, mit Beiträgen von Caren Lay (Die Linke), Janine Wissler (Die Linke), Dr. Jan-Marco Luczak (CDU/CSU), Bundesministerin für besondere Aufgaben Nina Warken, Katalin Gennburg (Die Linke), Dr. Anna Rathert (AfD), Cansin Köktürk (Die Linke), Dr. Alexander Wolf (AfD), Dr. Ralf Stegner (SPD), Rainer Galla (AfD), Hanna Steinmüller (BÜNDNIS 90/DIE GRÜNEN), Christian Moser (CDU/CSU) und Luigi Pantisano (Die Linke). Weitere Tagesordnungspunkte umfassten die zweite Beratung und Schlussabstimmung über das Partnerschaftsabkommen der EU mit MERCOSUR, diskutiert von Peter Beyer (CDU/CSU), Torben Braga (AfD), Sebastian Roloff (SPD) und Dr. Anton Hofreiter (BÜNDNIS 90/DIE GRÜNEN). Darüber hinaus befasste sich das Parlament mit der Fortsetzung der Beteiligung deutscher Streitkräfte an der NATO-geführten maritimen Operation SEA GUARDIAN, mit Rednern wie Jürgen Hardt (CDU/CSU) und Aydan Özoğuz (SPD). Schließlich wurde ein Antrag der Abgeordneten Rebecca Lenhard und Dr. Konstantin von Notz betreffend die Fraktion BÜNDNIS 90/DIE GRÜNEN erwähnt.",
+    "summary_easy": "Der Bundestag traf sich am 13. November 2026. Es gab viele wichtige Themen. Zuerst sprachen sie über neue Regeln für Geheimdienste. Viele Politiker aus verschiedenen Parteien sagten ihre Meinung. CDU/CSU und SPD sprachen dafür. AfD war dagegen. Grüne und Linke hatten auch Bedenken. Es gab auch Abstimmungen. Dann diskutierten sie über Mietpreise. Die Linke möchte die Mieten deckeln. SPD und Grüne unterstützten die Idee. CDU/CSU und AfD waren dagegen. Auch ein Abkommen mit Südamerika wurde besprochen. Deutschland wird weiterhin bei einer NATO-Mission im Mittelmeer helfen. Viele Politiker sprachen über diese Themen.",
+    "ukrainian_men": "Kein Thema in dieser Sitzung."
+  },
+  "facts": [
+    {
+      "fact_en": "In ancient Rome, the color purple was so expensive and difficult to produce, primarily from sea snails, that it became exclusively associated with emperors and senators. Wearing purple was a symbol of immense wealth and power, and sumptuary laws even dictated who could and couldn't wear it.",
+      "fact_de": "Im antiken Rom war die Farbe Purpur so teuer und schwierig herzustellen, hauptsächlich aus Meeresschnecken, dass sie ausschließlich Kaisern und Senatoren zugeordnet wurde. Das Tragen von Purpur war ein Symbol für immensen Reichtum und Macht, und Kleiderordnungen schrieben sogar vor, wer sie tragen durfte und wer nicht.",
+      "fact_easy": "In Rom war Purpur sehr teuer. Nur Kaiser und Senatoren durften Purpur tragen. Es zeigte, dass sie reich und mächtig waren.",
+      "category": "Fashion",
+      "source_title": "Tyrian purple - Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Tyrian_purple"
+    },
+    {
+      "fact_en": "The tradition of ringing bells in churches is rooted in an ancient belief that they could ward off evil spirits and even protect against storms. This practice was particularly prominent in medieval Europe, where church bells were rung regularly to signal prayer times and to alert communities to danger.",
+      "fact_de": "Die Tradition, in Kirchen Glocken zu läuten, hat ihre Wurzeln in einem alten Glauben, dass sie böse Geister vertreiben und sogar vor Stürmen schützen könnten. Diese Praxis war im mittelalterlichen Europa besonders verbreitet, wo regelmäßig Kirchenglocken geläutet wurden, um Gebetszeiten anzuzeigen und die Gemeinden vor Gefahren zu warnen.",
+      "fact_easy": "Menschen glaubten früher, dass Kirchenglocken böse Geister vertreiben. Sie sollten auch vor Stürmen schützen. Im Mittelalter läuteten sie oft.",
+      "category": "Religion",
+      "source_title": "History of the Church Bell - St. Mark's Episcopal Church",
+      "source_url": "https://stmarks.com/news/history-of-the-church-bell"
+    }
+  ],
+  "frankfurt": {
+    "topics": [
+      {
+        "type": "Events",
+        "emoji": "🎪",
+        "headline_en": "New Senckenberg Museum Director Outlines Vision Amidst Major Renovations",
+        "headline_de": "Neue Senckenberg-Chefin Saskia Benthack plant für traditionsreiches Museum inmitten von Umbauten",
+        "headline_easy": "Neue Chefin im Senckenbergmuseum: Was sind ihre Pläne?",
+        "summary_en": "Saskia Benthack has taken over as the new director of the Senckenberg Museum in Frankfurt, which is facing significant renovations. The article explores her plans for the historic institution.",
+        "summary_de": "Saskia Benthack ist die neue Leiterin des Senckenbergmuseums in Frankfurt, das vor großen Umbauten steht. Ihre Pläne für das traditionsreiche Haus werden beleuchtet.",
+        "summary_easy": "Saskia Benthack ist die neue Chefin im Senckenbergmuseum in Frankfurt. Das Museum wird gerade umgebaut. Sie hat Pläne für das Museum.",
+        "links": [
+          {
+            "title": "Neue Senckenberg-Chefin: Eine Frau für die großen Zusammenhänge",
+            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/senckenbergmuseum-frankfurt-was-plant-die-neue-leiterin-saskia-benthack-201708011.html"
+          },
+          {
+            "title": "Dichtung heute: Je radikaler hineingehört, desto klarer gesagt",
+            "url": "https://www.faz.net/aktuell/feuilleton/buecher/autoren/der-dichte-joachim-sartorius-ueber-lyrik-heute-201603977.html"
+          }
+        ]
+      },
+      {
+        "type": "Crime",
+        "emoji": "🚔",
+        "headline_en": "Two-Michelin-Star Chef Opens Traditional Inn 'Rauschhaus' in Frankfurt",
+        "headline_de": "Zwei-Sterne-Koch Jochim Busch eröffnet das Wirtshaus 'Rauschhaus' in Frankfurt",
+        "headline_easy": "Bekannter Koch macht jetzt ein einfaches Restaurant in Frankfurt",
+        "summary_en": "Acclaimed two-Michelin-star chef Jochim Busch has opened a new establishment in Frankfurt called 'Rauschhaus'. The inn offers a distinct culinary experience, focusing on hearty dishes like Maultaschen instead of gourmet options.",
+        "summary_de": "Der Zwei-Sterne-Koch Jochim Busch hat in Frankfurt das Wirtshaus 'Rauschhaus' eröffnet. Das Lokal bietet eine besondere Genussklasse mit Gerichten wie Maultaschen, statt aufwendiger Gourmetmenüs.",
+        "summary_easy": "Ein Koch mit zwei Michelin-Sternen hat ein neues Restaurant in Frankfurt eröffnet. Es heißt 'Rauschhaus'. Dort gibt es einfache, gute Gerichte wie Maultaschen.",
+        "links": [
+          {
+            "title": "Gaststätte Rauschhaus: Maultasche statt Jakobsmuschel",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/gaststaette-rauschhaus-in-frankfurt-mit-einer-ganz-eigenen-genussklasse-accg-201688203.html"
+          }
+        ]
+      },
+      {
+        "type": "Sales & Offers",
+        "emoji": "🛍️",
+        "headline_en": "Two-Michelin-Star Chef Opens Traditional Inn 'Rauschhaus' in Frankfurt",
+        "headline_de": "Zwei-Sterne-Koch Jochim Busch eröffnet das Wirtshaus 'Rauschhaus' in Frankfurt",
+        "headline_easy": "Bekannter Koch macht jetzt ein einfaches Restaurant in Frankfurt",
+        "summary_en": "Acclaimed two-Michelin-star chef Jochim Busch has opened a new establishment in Frankfurt called 'Rauschhaus'. The inn offers a distinct culinary experience, focusing on hearty dishes like Maultaschen instead of gourmet options.",
+        "summary_de": "Der Zwei-Sterne-Koch Jochim Busch hat in Frankfurt das Wirtshaus 'Rauschhaus' eröffnet. Das Lokal bietet eine besondere Genussklasse mit Gerichten wie Maultaschen, statt aufwendiger Gourmetmenüs.",
+        "summary_easy": "Ein Koch mit zwei Michelin-Sternen hat ein neues Restaurant in Frankfurt eröffnet. Es heißt 'Rauschhaus'. Dort gibt es einfache, gute Gerichte wie Maultaschen.",
+        "links": [
+          {
+            "title": "Gaststätte Rauschhaus: Maultasche statt Jakobsmuschel",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/gaststaette-rauschhaus-in-frankfurt-mit-einer-ganz-eigenen-genussklasse-accg-201688203.html"
+          }
+        ]
+      },
+      {
+        "type": "Local News",
+        "emoji": "📍",
+        "headline_en": "Two-Michelin-Star Chef Opens Traditional Inn 'Rauschhaus' in Frankfurt",
+        "headline_de": "Zwei-Sterne-Koch Jochim Busch eröffnet das Wirtshaus 'Rauschhaus' in Frankfurt",
+        "headline_easy": "Bekannter Koch macht jetzt ein einfaches Restaurant in Frankfurt",
+        "summary_en": "Acclaimed two-Michelin-star chef Jochim Busch has opened a new establishment in Frankfurt called 'Rauschhaus'. The inn offers a distinct culinary experience, focusing on hearty dishes like Maultaschen instead of gourmet options.",
+        "summary_de": "Der Zwei-Sterne-Koch Jochim Busch hat in Frankfurt das Wirtshaus 'Rauschhaus' eröffnet. Das Lokal bietet eine besondere Genussklasse mit Gerichten wie Maultaschen, statt aufwendiger Gourmetmenüs.",
+        "summary_easy": "Ein Koch mit zwei Michelin-Sternen hat ein neues Restaurant in Frankfurt eröffnet. Es heißt 'Rauschhaus'. Dort gibt es einfache, gute Gerichte wie Maultaschen.",
+        "links": [
+          {
+            "title": "Gaststätte Rauschhaus: Maultasche statt Jakobsmuschel",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/gaststaette-rauschhaus-in-frankfurt-mit-einer-ganz-eigenen-genussklasse-accg-201688203.html"
+          }
+        ]
+      }
+    ]
+  },
+  "dresden": []
+}
