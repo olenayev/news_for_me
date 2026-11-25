@@ -1,0 +1,415 @@
+{
+  "date": "Wednesday, November 25 2026",
+  "sections": [
+    {
+      "category": "Germany",
+      "emoji": "🇩🇪",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Modi and Merz Discuss India-Germany Ties and EU FTA",
+          "headline_de": "Modi und Merz besprechen indisch-deutsche Beziehungen und EU-FTA",
+          "headline_easy": "Indiens Präsident und der deutsche Kanzler sprechen über Handel.",
+          "summary_en": "Prime Minister Modi and German Chancellor Merz held a phone call to discuss bilateral ties between India and Germany. They also addressed the India-European Union Free Trade Agreement (FTA).",
+          "summary_de": "Premierminister Modi und Bundeskanzler Merz sprachen telefonisch über die bilateralen Beziehungen zwischen Indien und Deutschland. Auch das Freihandelsabkommen (FTA) zwischen Indien und der Europäischen Union wurde thematisiert.",
+          "summary_easy": "Der indische Präsident und der deutsche Kanzler haben telefoniert. Sie haben über die Beziehungen zwischen Indien und Deutschland gesprochen. Sie sprachen auch über ein Handelsabkommen mit Europa.",
+          "links": [
+            {
+              "title": "PM Modi, Merz review India-Germany ties, discuss India-EU FTA in phone call",
+              "url": "https://timesofindia.indiatimes.com/business/india-business/pm-modi-merz-review-india-germany-ties-discuss-india-eu-fta-in-phone-call/articleshow/136132628.cms"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Norway Bans Russian Speed Skaters",
+          "headline_de": "Norwegen schließt russische Eisschnellläufer aus",
+          "headline_easy": "Russische Sportler dürfen nicht nach Norwegen.",
+          "summary_en": "Norway has imposed a ban on Russian speed skaters, preventing them from participating. This decision comes amid broader international sanctions and concerns related to geopolitical tensions.",
+          "summary_de": "Norwegen hat ein Verbot für russische Eisschnellläufer verhängt und sie von der Teilnahme ausgeschlossen. Diese Entscheidung erfolgte inmitten breiterer internationaler Sanktionen und Bedenken im Zusammenhang mit geopolitischen Spannungen.",
+          "summary_easy": "Norwegen hat russische Eisschnellläufer ausgeschlossen. Sie dürfen nicht an Wettkämpfen teilnehmen. Das ist wegen der aktuellen politischen Situation.",
+          "links": [
+            {
+              "title": "Norway shuts out Russian speed skaters",
+              "url": "https://rt-english.com/russia/649299-norway-russian-speed-skaters-visa-ban/"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "France Risks Recession, New E-commerce Tools Released",
+          "headline_de": "Frankreich riskiert Rezession, neue E-Commerce-Tools veröffentlicht",
+          "headline_easy": "Frankreich könnte schlechte Wirtschaft haben. Neue Werkzeuge für Online-Shops sind da.",
+          "summary_en": "France is facing a significant risk of recession, according to recent economic analysis. Meanwhile, new e-commerce tools have been launched, offering updated features for online businesses.",
+          "summary_de": "Frankreich sieht sich laut jüngsten Wirtschaftsanalysen einem erheblichen Rezessionsrisiko gegenüber. Gleichzeitig wurden neue E-Commerce-Tools eingeführt, die aktualisierte Funktionen für Online-Unternehmen bieten.",
+          "summary_easy": "Frankreich hat Wirtschaftsprobleme. Es besteht die Gefahr, dass die Wirtschaft schrumpft. Neue Werkzeuge für Online-Geschäfte sind auch neu erschienen.",
+          "links": [
+            {
+              "title": "New Ecommerce Tools: November 24, 2026",
+              "url": "https://www.practicalecommerce.com/new-ecommerce-tools-november-24-2026"
+            },
+            {
+              "title": "Why France is at risk of recession — and what could keep it out of one",
+              "url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "iPhone Handoff Features and Carrier Availability",
+          "headline_de": "iPhone Handoff-Funktionen und Verfügbarkeit bei Mobilfunkanbietern",
+          "headline_easy": "Neue Funktionen für das iPhone.",
+          "summary_en": "Details regarding Apple's iPhone Handoff feature are available, including information on carrier compatibility and pricing. This feature allows seamless continuity between Apple devices.",
+          "summary_de": "Details zu Apples Handoff-Funktion für das iPhone sind verfügbar, einschließlich Informationen zur Kompatibilität mit Mobilfunkanbietern und zu den Preisen. Diese Funktion ermöglicht nahtlose Übergänge zwischen Apple-Geräten.",
+          "summary_easy": "Es gibt neue Informationen über das iPhone. Die \"Handoff\"-Funktion ist wichtig. Man kann sehen, welche Handynetze sie unterstützen und wie viel sie kosten.",
+          "links": [
+            {
+              "title": "iPhone Handoff: Here’s the latest on carrier availability and pricing",
+              "url": "https://9to5mac.com/2026/11/24/iphone-handoff-carriers-support-ios-27/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Europe",
+      "emoji": "🇪🇺",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "FCC Proposes Satellite Operator Restrictions, British Firms Warned of Russian Attacks",
+          "headline_de": "FCC schlägt Beschränkungen für Satellitenbetreiber vor, britische Firmen vor russischen Angriffen gewarnt",
+          "headline_easy": "Neue Regeln für Satelliten. Britische Firmen sind in Gefahr.",
+          "summary_en": "The FCC is proposing 'tit-for-tat' restrictions on foreign satellite operators. Separately, British defense companies supporting Ukraine have been warned by the defense ministry and MI5 about potential Russian hybrid attacks.",
+          "summary_de": "Die FCC schlägt 'gleiche mit gleichen' Beschränkungen für ausländische Satellitenbetreiber vor. Separat wurden britische Verteidigungsunternehmen, die die Ukraine unterstützen, vom Verteidigungsministerium und dem MI5 vor möglichen russischen Hybridangriffen gewarnt.",
+          "summary_easy": "Amerika hat neue Regeln für Satelliten. Britische Firmen, die der Ukraine helfen, sollen vorsichtig sein. Russland könnte sie angreifen.",
+          "links": [
+            {
+              "title": "FCC proposes 'tit-for-tat' restrictions on foreign satellite operators",
+              "url": "https://www.theregister.com/networks/2026/11/24/fcc-proposes-tit-for-tat-restrictions-on-foreign-satellite-operators/5311889"
+            },
+            {
+              "title": "British defense companies that support Ukraine could face Russian hybrid attacks, the defense ministry and MI5 warn",
+              "url": "https://www.businessinsider.com/british-defense-firms-supporting-ukraine-could-face-russian-attacks-warning-2026-11"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "India's Bullet Train Trials Begin; Nasdaq Futures Drop Amid AI Stock Cool-off",
+          "headline_de": "Indiens Hochgeschwindigkeitszug-Testfahrten beginnen; Nasdaq-Futures fallen inmitten abkühlender KI-Aktien",
+          "headline_easy": "Ein Zug in Indien startet bald. Aktienmärkte sind nervös.",
+          "summary_en": "Trials for India's first bullet train are set to commence on a significant stretch in May 2027. Meanwhile, Nasdaq futures experienced a decline as AI stocks cooled following a rally, influenced by Nvidia's performance.",
+          "summary_de": "Die Testfahrten für Indiens ersten Hochgeschwindigkeitszug sollen im Mai 2027 auf einem bedeutenden Abschnitt beginnen. Unterdessen verzeichneten die Nasdaq-Futures einen Rückgang, da die KI-Aktien nach einer Rallye abkühlten, beeinflusst durch die Leistung von Nvidia.",
+          "summary_easy": "Ein neuer Hochgeschwindigkeitszug in Indien wird bald getestet. Die Aktienkurse an der Börse fallen. Das liegt an Technologiefirmen.",
+          "links": [
+            {
+              "title": "India's first bullet train to begin trials on 50-km Surat-Bilimora stretch in May 2027 as electrification is completed and signalling work is expected to finish by January",
+              "url": "https://timesofindia.indiatimes.com/business/india-business/indias-first-bullet-train-to-begin-trials-on-50-km-surat-bilimora-stretch-in-may-2027-as-electrification-is-completed-and-signalling-work-is-expected-to-finish-by-january/articleshow/136122796.cms"
+            },
+            {
+              "title": "Nasdaq futures drop as AI stocks cool after Nvidia-fueled rally: US Stock Market Live Updates",
+              "url": "https://m.economictimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-anthropic-iphone-google-meta-tesla-earnings-treasury-yield-news-24-nov-2026/liveblog/136131363.cms"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "FCC Proposes Satellite Restrictions; China Report Released",
+          "headline_de": "FCC schlägt Satellitenbeschränkungen vor; China-Bericht veröffentlicht",
+          "headline_easy": "Neue Regeln für Satelliten. Ein Bericht über China ist da.",
+          "summary_en": "The FCC is moving to implement 'tit-for-tat' restrictions on foreign satellite operators. In related news, a 'China Report' for December 2026 has been made available.",
+          "summary_de": "Die FCC ist dabei, 'gleiche mit gleichen' Beschränkungen für ausländische Satellitenbetreiber einzuführen. In verwandten Nachrichten ist ein 'China-Bericht' für Dezember 2026 verfügbar geworden.",
+          "summary_easy": "Amerika macht neue Regeln für Satelliten. Ein Bericht über China für den nächsten Monat ist auch da.",
+          "links": [
+            {
+              "title": "China Report - December 2026",
+              "url": "https://post.rlsbb.cc/china-report-december-2026/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "US",
+      "emoji": "🇺🇸",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Nvidia CEO's China Visit Faces Hurdles; Trump-Putin Deal Discussed",
+          "headline_de": "Nvidia-CEO's China-Besuch stößt auf Hürden; Trump-Putin-Deal diskutiert",
+          "headline_easy": "Der Chef von Nvidia ist in China. Trump spricht über Frieden.",
+          "summary_en": "Nvidia CEO Jensen Huang's visit to China has been met with enthusiasm but also political challenges. Separately, an analysis suggests a potential deal between Trump and Putin to end the war in Ukraine.",
+          "summary_de": "Der Besuch von Nvidia-CEO Jensen Huang in China wurde mit Begeisterung, aber auch mit politischen Herausforderungen aufgenommen. Separat legt eine Analyse einen möglichen Deal zwischen Trump und Putin zur Beendigung des Krieges in der Ukraine nahe.",
+          "summary_easy": "Der Chef von Nvidia, Jensen Huang, ist in China. Es gibt aber auch Probleme. Ein Artikel spricht darüber, wie Trump den Krieg in der Ukraine beenden könnte.",
+          "links": [
+            {
+              "title": "Nvidia's Huang returns to cheers in China, but political hurdles mount on both sides",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/nvidias-huang-returns-to-cheers-in-china-but-political-hurdles-mount-on-both-sides/articleshow/136132570.cms"
+            },
+            {
+              "title": "Foreign Affairs Analysis: Time for a deal with Putin – What Trump should offer to end the war in Ukraine",
+              "url": "https://en.protothema.gr/2026/11/24/foreign-affairs-analysis-time-for-a-deal-with-putin-what-trump-should-offer-to-end-the-war-in-ukraine/"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Nvidia CEO's Return Sparks Debate; Germany 'Shocked' by Trump Intervention",
+          "headline_de": "Rückkehr des Nvidia-CEOs löst Debatte aus; Deutschland 'schockiert' über Trump-Intervention",
+          "headline_easy": "Der Chef von Nvidia ist zurück. Deutschland ist überrascht von Trump.",
+          "summary_en": "Jensen Huang's return to Nvidia is being analyzed for its winners and losers, amid broader discussions about his role. Germany's Wadephul expressed shock over Trump's intervention regarding Nvidia.",
+          "summary_de": "Die Rückkehr von Jensen Huang zu Nvidia wird im Hinblick auf Gewinner und Verlierer analysiert, inmitten breiterer Diskussionen über seine Rolle. Deutschlands Wadephul äußerte sich schockiert über Trumps Intervention bezüglich Nvidia.",
+          "summary_easy": "Jensen Huang ist wieder bei Nvidia. Das wird diskutiert. Ein deutscher Politiker war sehr überrascht, was Trump gemacht hat.",
+          "links": [
+            {
+              "title": "Jensen Huang’s Nvidia return: Who are the big winners and losers?",
+              "url": "https://www.aljazeera.com/features/2026/11/24/jensen-huangs-nvidia-return-whore-the-big-winners-and-losers"
+            },
+            {
+              "title": "Germany's Wadephul 'shocked' by Trump's Nvidia intervention",
+              "url": "https://www.dw.com/en/germanys-wadephul-shocked-by-trumps-nvidia-intervention/a-80033954"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Asia",
+      "emoji": "🌏",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "CertiK Trains Interpol on Crypto Tracing; China Report Issued",
+          "headline_de": "CertiK schult Interpol in Krypto-Rückverfolgung; China-Bericht veröffentlicht",
+          "headline_easy": "Firmen helfen der Polizei bei Kriminalität mit Geld. Ein Bericht über China ist da.",
+          "summary_en": "CertiK is providing training to Interpol investigators on how to trace and freeze stolen cryptocurrency. Additionally, a 'China Report' for December 2026 has been published.",
+          "summary_de": "CertiK schult Interpol-Ermittler darin, gestohlene Kryptowährungen zu verfolgen und einzufrieren. Zusätzlich wurde ein 'China-Bericht' für Dezember 2026 veröffentlicht.",
+          "summary_easy": "Eine Firma namens CertiK hilft der Polizei. Sie lernen, gestohlenes digitales Geld zu finden. Auch ein Bericht über China ist neu.",
+          "links": [
+            {
+              "title": "CertiK trains Interpol investigators on tracing stolen crypto",
+              "url": "https://cryptobriefing.com/certik-trains-interpol-crypto-tracing/"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Russian Warplanes Alarm US Partners in Asia; Indian Teenager Scores 204",
+          "headline_de": "Russische Kriegsflugzeuge alarmieren US-Partner in Asien; Indischer Teenager erzielt 204 Punkte",
+          "headline_easy": "Russische Flugzeuge sind in der Nähe. Ein junger Mann hat beim Sport gut abgeschnitten.",
+          "summary_en": "The presence of Russian warplanes has raised concerns among US partners in Asia. In a separate development, Indian teenager Sooryavanshi achieved a remarkable score of 204 runs in a cricket match.",
+          "summary_de": "Die Präsenz russischer Kriegsflugzeuge hat bei US-Partnern in Asien Besorgnis ausgelöst. In einer separaten Entwicklung erzielte die indische Teenagerin Sooryavanshi eine bemerkenswerte Punktzahl von 204 Runs in einem Cricketspiel.",
+          "summary_easy": "Russische Flugzeuge fliegen in Asien. Das macht die USA und ihre Partner nervös. Ein junger indischer Sportler hat in einem Spiel sehr viele Punkte gemacht.",
+          "links": [
+            {
+              "title": "Russian Warplanes Trigger Alarm Among U.S. Partners in Asia - WSJ",
+              "url": "https://slashdot.org/firehose.pl?op=view&id=186851391"
+            },
+            {
+              "title": "Records tumble as Indian teen Sooryavanshi smashes 53-ball 204 against UAE",
+              "url": "https://www.aljazeera.com/sports/2026/11/24/records-tumble-as-indian-teen-sooryavanshi-smashes-53-ball-204-against-uae"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Nvidia CEO's Return Analyzed; AI Startups Secure Funding",
+          "headline_de": "Rückkehr des Nvidia-CEOs analysiert; KI-Startups sichern Finanzierung",
+          "headline_easy": "Der Chef von Nvidia ist zurück. Eine neue Firma bekommt Geld.",
+          "summary_en": "The return of Jensen Huang to Nvidia is being examined for its market impact and key players. In other news, Zipher has secured $53 million to utilize AI agents for data workloads.",
+          "summary_de": "Die Rückkehr von Jensen Huang zu Nvidia wird auf ihre Marktauswirkungen und Hauptakteure untersucht. In anderen Nachrichten hat Zipher 53 Millionen Dollar gesichert, um KI-Agenten für Datenverarbeitungsaufgaben einzusetzen.",
+          "summary_easy": "Jensen Huang ist wieder bei Nvidia. Man schaut, wer davon profitiert. Eine neue Firma, Zipher, bekommt viel Geld. Sie nutzt künstliche Intelligenz für Daten.",
+          "links": [
+            {
+              "title": "Zipher lands $53M to put AI agents, not data engineers, in charge of data workloads",
+              "url": "https://siliconangle.com/2026/11/24/zipher-lands-53m-to-put-ai-agents-not-data-engineers-in-charge-of-data-workloads/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "World",
+      "emoji": "🌍",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Pope Francis' Spiritual Crisis; German Novel Published",
+          "headline_de": "Papst Franziskus' spirituelle Krise; deutscher Roman veröffentlicht",
+          "headline_easy": "Papst Franziskus hatte Probleme. Ein Buch ist in Deutschland neu.",
+          "summary_en": "Pope Francis' private diary reportedly details a profound spiritual crisis and encounters with the devil. Separately, a German novel by A. Dumas (père) has been published.",
+          "summary_de": "Papst Franziskus' privates Tagebuch beschreibt angeblich eine tiefgreifende spirituelle Krise und Begegnungen mit dem Teufel. Separat wurde ein deutscher Roman von A. Dumas (père) veröffentlicht.",
+          "summary_easy": "Der Papst hatte eine schwere Zeit. Das steht in seinem Tagebuch. Ein neues Buch ist auch in Deutschland erschienen.",
+          "links": [
+            {
+              "title": "Pope Francis' Private Diary Describes A Profound Spiritual Crisis, Encounters With The Devil",
+              "url": "https://www.huffpost.com/entry/vatican-pope-francis-diary_n_6b0593c5e4b0e97a940ab67a"
+            },
+            {
+              "title": "Dumas, A. (père): Die Heirathen des Vater Olifus [German] V1.0 24.11.2026 (Other Fiction, ePub)",
+              "url": "https://www.mobileread.com/forums/showthread.php?t=376458"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Pope Francis' Spiritual Crisis; Analysis of Nvidia CEO's Return",
+          "headline_de": "Papst Franziskus' spirituelle Krise; Analyse der Rückkehr des Nvidia-CEOs",
+          "headline_easy": "Der Papst hatte eine Krise. Ein Chef ist wieder da.",
+          "summary_en": "Pope Francis' private diary has revealed details of a significant spiritual crisis he experienced. In business news, an analysis discusses the implications of Jensen Huang's return to Nvidia.",
+          "summary_de": "Papst Franziskus' privates Tagebuch hat Details über eine bedeutende spirituelle Krise enthüllt, die er erlebte. In Wirtschaftsnachrichten diskutiert eine Analyse die Auswirkungen der Rückkehr von Jensen Huang zu Nvidia.",
+          "summary_easy": "Der Papst hatte eine schwierige Zeit, das steht in seinem Tagebuch. Eine Analyse spricht über die Rückkehr von Jensen Huang zu Nvidia und was das bedeutet.",
+          "links": [
+            {
+              "title": "Jensen Huang's Restoration Farce",
+              "url": "https://www.thenation.com/article/economy/jensen-huang-trump-administration-wall-street-ai/"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "Johannesburg Mayors Book Published; Pope's Spiritual Crisis Detailed",
+          "headline_de": "Buch über Johannesburger Bürgermeister veröffentlicht; Details zu Papst Franziskus' spiritueller Krise",
+          "headline_easy": "Ein Buch über Bürgermeister in Südafrika. Der Papst hatte eine Krise.",
+          "summary_en": "A new book reviews the history of Johannesburg's mayors over the last 140 years. Pope Francis' private diary has also revealed details of a significant spiritual crisis.",
+          "summary_de": "Ein neues Buch gibt einen Überblick über die Geschichte der Bürgermeister von Johannesburg in den letzten 140 Jahren. Auch Papst Franziskus' privates Tagebuch enthüllte Details über eine bedeutende spirituelle Krise.",
+          "summary_easy": "Ein neues Buch handelt von den Bürgermeistern von Johannesburg in Südafrika. Der Papst hatte auch eine schwere Zeit, das steht in seinem Tagebuch.",
+          "links": [
+            {
+              "title": "Johannesburg has had 101 mayors over the last 140 years: new book reviews the good times and the bad",
+              "url": "https://theconversation.com/johannesburg-has-had-101-mayors-over-the-last-140-years-new-book-reviews-the-good-times-and-the-bad-297313"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "bundestag": {
+    "wahlperiode": 21,
+    "sitzung": 110,
+    "url": "https://dserver.bundestag.de/btp/21/21110.pdf",
+    "summary_en": "The 110th session of the 21st legislative period of the German Bundestag convened on Tuesday, November 24, 2026. The session began with the welcome of the new Member of Parliament, Dr. Felix Winter. The agenda largely focused on the second reading of the draft budget for the fiscal year 2027 (Haushaltsgesetz 2027 – HG 2027), introduced by the Federal Government.  The Bundestag also discussed the Finance Plan of the Federal Government for 2026-2030, based on the recommendation of the Budget Committee.  Discussions covered several individual budget plans, including those for the Federal President and Chancellery (Einzelplan 01), the Bundestag itself (Einzelplan 02), the Bundesrat (Einzelplan 03), the Federal Ministry of Finance (Einzelplan 08), the Federal Court of Auditors (Einzelplan 20), the Federal Ministry for Digital and State Modernization (Einzelplan 24), the Federal Ministry for the Environment, Climate Protection, Nature Conservation and Nuclear Safety (Einzelplan 16), and the Federal Ministry of Health (Einzelplan 15). Several MPs from different parties, including AfD, SPD, BÜNDNIS 90/DIE GRÜNEN, CDU/CSU, and Die Linke, contributed to the debates, with specific points made regarding budget allocations and policy directions for each ministry. Ministers Lars Klingbeil (BMF) and Elisabeth Kaiser (State Minister BMF), along with Carsten Schneider (BMUKN) and Dr. Karsten Wildberger (BMDS), provided governmental perspectives. The session also included the second reading of a draft budget accompanying law for 2027 (Haushaltsbegleitgesetz 2027). Specific debates within the individual plans saw contributions from figures like Dr. Michael Espendiller (AfD) and Dr. Thorsten Rudolph (SPD) on the budget accompanying law, and Sergej Minich (AfD) and Ricarda Lang (BÜNDNIS 90/DIE GRÜNEN) on the digital ministry's budget.",
+    "summary_de": "Die 110. Sitzung der 21. Wahlperiode des Deutschen Bundestages fand am Dienstag, dem 24. November 2026, statt. Die Sitzung begann mit der Begrüßung des neuen Abgeordneten Dr. Felix Winter. Die Tagesordnung konzentrierte sich hauptsächlich auf die zweite Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2027 (Haushaltsgesetz 2027 – HG 2027). Der Bundestag beriet zudem die Beschlussempfehlung des Haushaltsausschusses zum Finanzplan des Bundes 2026 bis 2030. Die Debatten umfassten mehrere Einzelpläne, darunter den Einzelplan 01 (Bundespräsident und Bundespräsidialamt), Einzelplan 02 (Deutscher Bundestag), Einzelplan 03 (Bundesrat), Einzelplan 08 (Bundesministerium der Finanzen), Einzelplan 20 (Bundesrechnungshof), Einzelplan 24 (Bundesministerium für Digitales und Staatsmodernisierung), Einzelplan 16 (Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit) sowie Einzelplan 15 (Bundesministerium für Gesundheit). Abgeordnete verschiedener Fraktionen wie AfD, SPD, BÜNDNIS 90/DIE GRÜNEN, CDU/CSU und Die Linke trugen zu den Beratungen bei und äußerten sich zu Budgetzuteilungen und politischen Ausrichtungen der jeweiligen Ministerien. Bundesminister Lars Klingbeil (BMF) und Staatsministerin Elisabeth Kaiser (BMF), sowie Carsten Schneider (BMUKN) und Dr. Karsten Wildberger (BMDS) brachten die Perspektiven der Bundesregierung ein. Die Sitzung beinhaltete auch die zweite Beratung eines Entwurfs eines Haushaltsbegleitgesetzes 2027. Innerhalb der Einzelpläne fanden spezifische Debatten statt, unter anderem mit Dr. Michael Espendiller (AfD) und Dr. Thorsten Rudolph (SPD) zum Haushaltsbegleitgesetz, sowie mit Sergej Minich (AfD) und Ricarda Lang (BÜNDNIS 90/DIE GRÜNEN) zum Einzelplan des Bundesministeriums für Digitales.",
+    "summary_easy": "Am Dienstag, dem 24. November 2026, war der Deutsche Bundestag zu seiner 110. Sitzung zusammengekommen. Ein neuer Abgeordneter, Dr. Felix Winter, wurde begrüßt. Das wichtigste Thema war der Bundeshaushalt für das Jahr 2027. Der Bundestag sprach auch über die Pläne für die Staatsfinanzen bis zum Jahr 2030. Es gab Debatten über die Budgets vieler Ministerien. Dazu gehörten das Finanzministerium, das Ministerium für Digitales und das Umweltministerium. Abgeordnete verschiedener Parteien diskutierten über Geld und Pläne. Minister gaben dazu Auskunft. Es gab auch ein Gesetz, das den Haushalt unterstützt. Abgeordnete von AfD, SPD, Grünen, CDU/CSU und Linke sprachen zu den Themen.",
+    "ukrainian_men": "Kein Thema in dieser Sitzung."
+  },
+  "facts": [
+    {
+      "fact_en": "During the Renaissance, sumptuary laws dictated what fabrics, colors, and styles people of different social classes could wear. These laws were designed to maintain social hierarchy by preventing lower classes from dressing above their station, and violations could lead to fines or even confiscation of clothing.",
+      "fact_de": "Während der Renaissance schrieben Kleiderordnungen vor, welche Stoffe, Farben und Stile Menschen verschiedener sozialer Schichten tragen durften. Diese Gesetze sollten die soziale Hierarchie aufrechterhalten, indem sie niederen Schichten daran hinderten, sich besser als ihr Stand zu kleiden, und Verstöße konnten zu Geldstrafen oder sogar zur Beschlagnahmung von Kleidung führen.",
+      "fact_easy": "Im Mittelalter gab es Regeln für Kleidung. Nur bestimmte Leute durften bestimmte Farben oder Stoffe tragen. Diese Regeln zeigten, wer reich oder arm war.",
+      "category": "Fashion",
+      "source_title": "Sumptuary Laws - Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Sumptuary_law"
+    },
+    {
+      "fact_en": "The Olympic Games, originally held in ancient Greece, were deeply intertwined with religious festivals honoring Zeus. Athletes competed naked as a tribute to the gods and to demonstrate their physical perfection, and the games were seen as a way to foster unity among the Greek city-states.",
+      "fact_de": "Die Olympischen Spiele, die ursprünglich im antiken Griechenland stattfanden, waren eng mit religiösen Festen zu Ehren von Zeus verbunden. Athleten traten nackt an als Tribut an die Götter und um ihre körperliche Vollkommenheit zu zeigen, und die Spiele wurden als Mittel zur Förderung der Einheit zwischen den griechischen Stadtstaaten angesehen.",
+      "fact_easy": "Die alten Olympischen Spiele waren auch religiös. Sie waren für den Gott Zeus. Sportler kämpften nackt. Das sollte den Göttern gefallen.",
+      "category": "Traditions",
+      "source_title": "Ancient Olympic Games - History",
+      "source_url": "https://www.history.com/topics/ancient-greece/ancient-olympics"
+    }
+  ],
+  "frankfurt": {
+    "topics": [
+      {
+        "type": "Events",
+        "emoji": "🎪",
+        "headline_en": "EU Drug Production Rules and Eintracht Frankfurt Player's Absence",
+        "headline_de": "EU-Medikamentenregeln und Absage von Eintracht-Spielerin",
+        "headline_easy": "Neue Regeln für Medikamente in Europa und eine Fußballspielerin sagt ab.",
+        "summary_en": "The EU is implementing new regulations to encourage drug production within Europe, though experts suggest improving business conditions for pharmaceutical companies would be more effective. Separately, Eintracht Frankfurt striker Laura Freigang has canceled her international matches due to a cold.",
+        "summary_de": "Die EU führt neue Regeln ein, um die Medikamentenproduktion in Europa zu fördern, wobei Experten eine Verbesserung der Standortbedingungen als effektiver ansehen. Außerdem hat Eintracht-Frankfurt-Stürmerin Laura Freigang wegen einer Erkältung ihre Länderspiele abgesagt.",
+        "summary_easy": "Die EU will mehr Medikamente in Europa machen. Aber es ist besser, wenn Firmen hier gut arbeiten können. Eine Fußballspielerin von Eintracht Frankfurt ist krank und spielt nicht für Deutschland.",
+        "links": [
+          {
+            "title": "Wer Medikamente aus Europa will, muss die Standortbedingungen verbessern",
+            "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/wer-medikamente-aus-europa-will-muss-die-standortbedingungen-verbessern-201712702.html"
+          },
+          {
+            "title": "Laura Freigang von Eintracht Frankfurt sagt Länderspiele ab",
+            "url": "https://www.bild.de/sport/fussball/laura-freigang-von-eintracht-frankfurt-sagt-laenderspiele-ab-6b058a3fd4a4a3142c570fbc"
+          }
+        ]
+      },
+      {
+        "type": "Crime",
+        "emoji": "🚔",
+        "headline_en": "Youth Arrested for Businessman's Death in Frankfurt; University Hospital Faces Cuts",
+        "headline_de": "Jugendliche in Frankfurt wegen Tötung eines Geschäftsmannes festgenommen; Uniklinik Frankfurt steht vor Sparprogramm",
+        "headline_easy": "Junge Leute verhaften, weil sie einen Mann getötet haben sollen. Das Krankenhaus muss sparen.",
+        "summary_en": "Two teenagers have been arrested in Hessen in connection with the fatal assault of a 38-year-old businessman in Frankfurt in mid-October. Meanwhile, the University Hospital Frankfurt is facing significant cuts and fundamental changes due to necessary austerity measures.",
+        "summary_de": "In Hessen wurden zwei Jugendliche festgenommen, die beschuldigt werden, Mitte Oktober einen 38-jährigen Geschäftsmann in Frankfurt getötet zu haben. Gleichzeitig stehen dem Universitätsklinikum Frankfurt einschneidende Veränderungen und ein straffes Sparprogramm bevor.",
+        "summary_easy": "Zwei junge Leute sollen einen Mann in Frankfurt getötet haben. Sie wurden jetzt gefasst. Das große Krankenhaus in Frankfurt muss Geld sparen. Es wird dort viele Änderungen geben.",
+        "links": [
+          {
+            "title": "Festnahmen in Hessen: Zwei Jugendliche sollen Geschäftsmann in Frankfurt getötet haben",
+            "url": "https://www.tagesspiegel.de/gesellschaft/panorama/festnahmen-in-hessen-zwei-jugendliche-sollen-geschaftsmann-in-frankfurt-getotet-haben-16319525.html"
+          },
+          {
+            "title": "Uniklinik Frankfurt: Warum das Sparprogramm nötig ist",
+            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/uniklinik-frankfurt-warum-das-sparprogramm-noetig-ist-201709318.html"
+          }
+        ]
+      },
+      {
+        "type": "Sales & Offers",
+        "emoji": "🛍️",
+        "headline_en": "No specific sales or offers reported; Crime and City News Prevail",
+        "headline_de": "Keine spezifischen Angebote gemeldet; Kriminalität und Stadt-Nachrichten dominieren",
+        "headline_easy": "Keine Angebote. Es gibt Nachrichten über Verbrechen und die Stadt.",
+        "summary_en": "This section contains no specific sales or offers. The dominant news includes arrests related to a homicide in Frankfurt and the financial challenges facing the University Hospital Frankfurt, necessitating an austerity program.",
+        "summary_de": "In diesem Abschnitt gibt es keine spezifischen Angebote. Die dominierenden Nachrichten umfassen Festnahmen im Zusammenhang mit einem Tötungsdelikt in Frankfurt und die finanziellen Herausforderungen des Universitätsklinikums Frankfurt, die ein Sparprogramm erfordern.",
+        "summary_easy": "Es gibt keine Informationen über Angebote oder Verkäufe. Die wichtigen Nachrichten handeln von einem Mordfall in Frankfurt und von Geldproblemen im Krankenhaus. Das Krankenhaus muss sparen.",
+        "links": [
+          {
+            "title": "Festnahmen in Hessen: Zwei Jugendliche sollen Geschäftsmann in Frankfurt getötet haben",
+            "url": "https://www.tagesspiegel.de/gesellschaft/panorama/festnahmen-in-hessen-zwei-jugendliche-sollen-geschaftsmann-in-frankfurt-getotet-haben-16319525.html"
+          },
+          {
+            "title": "Uniklinik Frankfurt: Warum das Sparprogramm nötig ist",
+            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/uniklinik-frankfurt-warum-das-sparprogramm-noetig-ist-201709318.html"
+          }
+        ]
+      },
+      {
+        "type": "Local News",
+        "emoji": "📍",
+        "headline_en": "Homicide Investigation, Hospital Austerity, and Christmas Market Opening",
+        "headline_de": "Ermittlung wegen Tötungsdelikt, Sparprogramm im Krankenhaus und Weihnachtsmarkt-Eröffnung",
+        "headline_easy": "Mordfall, Krankenhaus spart, Weihnachtsmarkt ist offen.",
+        "summary_en": "Two teenagers have been arrested in Hessen on suspicion of killing a 38-year-old businessman in Frankfurt in mid-October. The University Hospital Frankfurt is preparing for significant cuts and changes as part of a necessary austerity program. Additionally, the Frankfurt Christmas market has officially opened.",
+        "summary_de": "Zwei Jugendliche wurden in Hessen festgenommen, die verdächtigt werden, Mitte Oktober einen 38-jährigen Geschäftsmann in Frankfurt getötet zu haben. Das Universitätsklinikum Frankfurt steht aufgrund eines notwendigen Sparprogramms vor einschneidenden Veränderungen. Zudem wurde der Frankfurter Weihnachtsmarkt eröffnet.",
+        "summary_easy": "Zwei junge Leute sollen einen Mann in Frankfurt getötet haben. Sie wurden verhaftet. Das Krankenhaus in Frankfurt muss Geld sparen und wird sich ändern. Der Weihnachtsmarkt in Frankfurt hat jetzt geöffnet.",
+        "links": [
+          {
+            "title": "Festnahmen in Hessen: Zwei Jugendliche sollen Geschäftsmann in Frankfurt getötet haben",
+            "url": "https://www.tagesspiegel.de/gesellschaft/panorama/festnahmen-in-hessen-zwei-jugendliche-sollen-geschaftsmann-in-frankfurt-getotet-haben-16319525.html"
+          },
+          {
+            "title": "Uniklinik Frankfurt: Warum das Sparprogramm nötig ist",
+            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/uniklinik-frankfurt-warum-das-sparprogramm-noetig-ist-201709318.html"
+          }
+        ]
+      }
+    ]
+  },
+  "dresden": []
+}
