@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, November 25 2026",
+  "date": "Thursday, November 26 2026",
   "sections": [
     {
       "category": "Germany",
@@ -8,68 +8,80 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Modi and Merz Discuss India-Germany Ties and EU FTA",
-          "headline_de": "Modi und Merz besprechen indisch-deutsche Beziehungen und EU-FTA",
-          "headline_easy": "Indiens Präsident und der deutsche Kanzler sprechen über Handel.",
-          "summary_en": "Prime Minister Modi and German Chancellor Merz held a phone call to discuss bilateral ties between India and Germany. They also addressed the India-European Union Free Trade Agreement (FTA).",
-          "summary_de": "Premierminister Modi und Bundeskanzler Merz sprachen telefonisch über die bilateralen Beziehungen zwischen Indien und Deutschland. Auch das Freihandelsabkommen (FTA) zwischen Indien und der Europäischen Union wurde thematisiert.",
-          "summary_easy": "Der indische Präsident und der deutsche Kanzler haben telefoniert. Sie haben über die Beziehungen zwischen Indien und Deutschland gesprochen. Sie sprachen auch über ein Handelsabkommen mit Europa.",
+          "headline_en": "Child Star Turned Oscar Nominee: A Mystery Guess",
+          "headline_de": "Kinderstar wird Oscar-Kandidat: Ein Rätsel zum Raten",
+          "headline_easy": "Ein bekannter Kinderstar ist jetzt fast 60. Er war in einer berühmten TV-Familie. Später bekam er eine Oscar-Nominierung. Wer ist das?",
+          "summary_en": "A former child star, now 57, who was part of a legendary TV family has earned an Oscar nomination decades later. Readers are invited to guess the identity of this accomplished individual.",
+          "summary_de": "Ein ehemaliger Kinderstar, jetzt 57 Jahre alt und Teil einer legendären TV-Familie, hat Jahrzehnte später eine Oscar-Nominierung erhalten. Leser sind eingeladen, die Identität dieser erfolgreichen Person zu erraten.",
+          "summary_easy": "Ein früher Kinderstar ist jetzt 57. Er war in einer berühmten Fernsehfamilie. Danach bekam er eine Oscar-Chance. Wer ist die Person?",
           "links": [
             {
-              "title": "PM Modi, Merz review India-Germany ties, discuss India-EU FTA in phone call",
-              "url": "https://timesofindia.indiatimes.com/business/india-business/pm-modi-merz-review-india-germany-ties-discuss-india-eu-fta-in-phone-call/articleshow/136132628.cms"
+              "title": "Former child star, 57, was part of a legendary TV family before earning an Oscar nomination decades later... can you guess who?",
+              "url": "https://www.dailymail.com/tvshowbiz/article-16319353/danielle-brisebois-child-star-oscar-nomination-guess-who.html"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Equinor Secures 18-Year Gas Supply Deal with Germany's VNG",
+          "headline_de": "Equinor sichert 18-Jahres-Gasliefervertrag mit deutscher VNG",
+          "headline_easy": "Die Firma Equinor hat einen Vertrag für 18 Jahre. Sie liefert Gas an die deutsche Firma VNG. Das ist eine wichtige Energie-Vereinbarung.",
+          "summary_en": "Equinor has been awarded an 18-year contract to supply natural gas to Germany's VNG. This significant agreement underscores ongoing energy partnerships.",
+          "summary_de": "Equinor hat einen 18-Jahres-Vertrag zur Lieferung von Erdgas an die deutsche VNG erhalten. Diese bedeutende Vereinbarung unterstreicht fortlaufende Energiepartnerschaften.",
+          "summary_easy": "Equinor hat einen Vertrag für 18 Jahre. Die Firma liefert Gas an VNG in Deutschland. Das ist eine wichtige Abmachung für Energie.",
+          "links": [
+            {
+              "title": "Equinor Bags 18-Year Deal to Supply Gas to Germany's VNG",
+              "url": "https://www.rigzone.com/news/equinor_bags_18year_deal_to_supply_gas_to_germanys_vng-25-nov-2026-185165-article/"
             }
           ]
         },
         {
           "type": "War",
           "emoji": "⚔️",
-          "headline_en": "Norway Bans Russian Speed Skaters",
-          "headline_de": "Norwegen schließt russische Eisschnellläufer aus",
-          "headline_easy": "Russische Sportler dürfen nicht nach Norwegen.",
-          "summary_en": "Norway has imposed a ban on Russian speed skaters, preventing them from participating. This decision comes amid broader international sanctions and concerns related to geopolitical tensions.",
-          "summary_de": "Norwegen hat ein Verbot für russische Eisschnellläufer verhängt und sie von der Teilnahme ausgeschlossen. Diese Entscheidung erfolgte inmitten breiterer internationaler Sanktionen und Bedenken im Zusammenhang mit geopolitischen Spannungen.",
-          "summary_easy": "Norwegen hat russische Eisschnellläufer ausgeschlossen. Sie dürfen nicht an Wettkämpfen teilnehmen. Das ist wegen der aktuellen politischen Situation.",
+          "headline_en": "Germany to Return Photo Archive of Family Persecuted by Nazis",
+          "headline_de": "Deutschland gibt Fotoarchiv einer von Nazis verfolgten Familie zurück",
+          "headline_easy": "Deutschland wird ein Fotoarchiv zurückgeben. Es zeigt eine Familie, die von den Nazis verfolgt wurde. Das ist ein wichtiges historisches Erbe.",
+          "summary_en": "Germany has agreed to return a photo archive that chronicles a family's persecution by the Nazis. This move acknowledges a painful historical period and facilitates remembrance.",
+          "summary_de": "Deutschland hat zugestimmt, ein Fotoarchiv zurückzugeben, das die Verfolgung einer Familie durch die Nazis dokumentiert. Dieser Schritt würdigt eine schmerzhafte historische Periode und fördert die Erinnerung.",
+          "summary_easy": "Deutschland gibt ein Fotoarchiv zurück. Es zeigt eine Familie, die unter den Nazis leiden musste. Das ist wichtig für die Erinnerung.",
           "links": [
             {
-              "title": "Norway shuts out Russian speed skaters",
-              "url": "https://rt-english.com/russia/649299-norway-russian-speed-skaters-visa-ban/"
+              "title": "Germany Agrees to Hand Over Photo Archive Chronicling a Family’s Persecution by Nazis",
+              "url": "https://petapixel.com/2026/11/25/germany-agrees-to-hand-over-photo-archive-chronicling-a-familys-persecution-by-nazis/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "France Risks Recession, New E-commerce Tools Released",
-          "headline_de": "Frankreich riskiert Rezession, neue E-Commerce-Tools veröffentlicht",
-          "headline_easy": "Frankreich könnte schlechte Wirtschaft haben. Neue Werkzeuge für Online-Shops sind da.",
-          "summary_en": "France is facing a significant risk of recession, according to recent economic analysis. Meanwhile, new e-commerce tools have been launched, offering updated features for online businesses.",
-          "summary_de": "Frankreich sieht sich laut jüngsten Wirtschaftsanalysen einem erheblichen Rezessionsrisiko gegenüber. Gleichzeitig wurden neue E-Commerce-Tools eingeführt, die aktualisierte Funktionen für Online-Unternehmen bieten.",
-          "summary_easy": "Frankreich hat Wirtschaftsprobleme. Es besteht die Gefahr, dass die Wirtschaft schrumpft. Neue Werkzeuge für Online-Geschäfte sind auch neu erschienen.",
+          "headline_en": "Haldyn Glass Shares Rise on Acquiring Heinz Glas's Stake",
+          "headline_de": "Haldyn Glass Aktien steigen nach Übernahme von Heinz Glas' Anteil",
+          "headline_easy": "Die Aktien von Haldyn Glass sind um 10% gestiegen. Das Unternehmen hat einen Anteil von Heinz Glas gekauft. Das ist gut für die Firma.",
+          "summary_en": "Haldyn Glass share price saw a 10% surge following its acquisition of Heinz Glas's stake in a joint venture. This strategic move has positively impacted the company's market valuation.",
+          "summary_de": "Der Aktienkurs von Haldyn Glass stieg um 10%, nachdem das Unternehmen den Anteil von Heinz Glas an einem Joint Venture erworben hatte. Dieser strategische Schritt wirkte sich positiv auf die Marktbewertung des Unternehmens aus.",
+          "summary_easy": "Die Aktien von Haldyn Glass wurden 10% mehr wert. Die Firma hat einen Teil von Heinz Glas gekauft. Das ist ein guter Schritt für die Firma.",
           "links": [
             {
-              "title": "New Ecommerce Tools: November 24, 2026",
-              "url": "https://www.practicalecommerce.com/new-ecommerce-tools-november-24-2026"
-            },
-            {
-              "title": "Why France is at risk of recession — and what could keep it out of one",
-              "url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html"
+              "title": "Haldyn Glass share price zooms 10% on acquiring Heinz Glas's stake in JV",
+              "url": "https://www.business-standard.com/markets/news/haldyn-glass-share-price-zooms-10-on-acquiring-heinz-glas-s-stake-in-jv-126112500483_1.html"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "iPhone Handoff Features and Carrier Availability",
-          "headline_de": "iPhone Handoff-Funktionen und Verfügbarkeit bei Mobilfunkanbietern",
-          "headline_easy": "Neue Funktionen für das iPhone.",
-          "summary_en": "Details regarding Apple's iPhone Handoff feature are available, including information on carrier compatibility and pricing. This feature allows seamless continuity between Apple devices.",
-          "summary_de": "Details zu Apples Handoff-Funktion für das iPhone sind verfügbar, einschließlich Informationen zur Kompatibilität mit Mobilfunkanbietern und zu den Preisen. Diese Funktion ermöglicht nahtlose Übergänge zwischen Apple-Geräten.",
-          "summary_easy": "Es gibt neue Informationen über das iPhone. Die \"Handoff\"-Funktion ist wichtig. Man kann sehen, welche Handynetze sie unterstützen und wie viel sie kosten.",
+          "headline_en": "BMW iX to be Discontinued in Australia After US Exit",
+          "headline_de": "BMW iX wird nach US-Ausstieg auch aus Australien eingestellt",
+          "headline_easy": "Der BMW iX wird nicht mehr in Australien verkauft. Zuvor wurde er schon aus den USA genommen. Das Auto wird also bald überall weg sein.",
+          "summary_en": "Following its discontinuation in the US market, the BMW iX is set to be removed from sale in Australia. This marks the end of the electric SUV's availability in these key regions.",
+          "summary_de": "Nach der Einstellung im US-Markt wird der BMW iX auch in Australien nicht mehr zum Verkauf angeboten. Dies bedeutet das Ende der Verfügbarkeit des Elektro-SUVs in diesen wichtigen Regionen.",
+          "summary_easy": "Der BMW iX wird nicht mehr in den USA verkauft. Jetzt wird er auch aus Australien genommen. Das Auto gibt es bald nicht mehr dort.",
           "links": [
             {
-              "title": "iPhone Handoff: Here’s the latest on carrier availability and pricing",
-              "url": "https://9to5mac.com/2026/11/24/iphone-handoff-carriers-support-ios-27/"
+              "title": "After The US, Australia Will Be The Next Market To Lose The BMW iX",
+              "url": "https://www.bmwblog.com/2026/11/25/bmw-australia-plans-retire-ix/"
             }
           ]
         }
@@ -82,56 +94,80 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "FCC Proposes Satellite Operator Restrictions, British Firms Warned of Russian Attacks",
-          "headline_de": "FCC schlägt Beschränkungen für Satellitenbetreiber vor, britische Firmen vor russischen Angriffen gewarnt",
-          "headline_easy": "Neue Regeln für Satelliten. Britische Firmen sind in Gefahr.",
-          "summary_en": "The FCC is proposing 'tit-for-tat' restrictions on foreign satellite operators. Separately, British defense companies supporting Ukraine have been warned by the defense ministry and MI5 about potential Russian hybrid attacks.",
-          "summary_de": "Die FCC schlägt 'gleiche mit gleichen' Beschränkungen für ausländische Satellitenbetreiber vor. Separat wurden britische Verteidigungsunternehmen, die die Ukraine unterstützen, vom Verteidigungsministerium und dem MI5 vor möglichen russischen Hybridangriffen gewarnt.",
-          "summary_easy": "Amerika hat neue Regeln für Satelliten. Britische Firmen, die der Ukraine helfen, sollen vorsichtig sein. Russland könnte sie angreifen.",
+          "headline_en": "NBA Invests $11 Billion in European Arenas and Entertainment Districts",
+          "headline_de": "NBA investiert 11 Milliarden US-Dollar in europäische Arenen und Unterhaltungsviertel",
+          "headline_easy": "Die NBA gibt 11 Milliarden Dollar aus. Sie will in Europa neue Sport-Stadien und Unterhaltungszentren bauen. Das ist eine große Investition.",
+          "summary_en": "The NBA has announced a massive $11 billion initiative aimed at developing new arenas and entertainment districts across Europe. This significant investment highlights the league's commitment to expanding its presence on the continent.",
+          "summary_de": "Die NBA hat eine groß angelegte Initiative im Wert von 11 Milliarden US-Dollar angekündigt, die auf die Entwicklung neuer Arenen und Unterhaltungsviertel in ganz Europa abzielt. Diese bedeutende Investition unterstreicht das Engagement der Liga, ihre Präsenz auf dem Kontinent auszubauen.",
+          "summary_easy": "Die NBA gibt 11 Milliarden Dollar aus. Sie will neue Arenen und Unterhaltungsorte in Europa bauen. Das ist eine wichtige Sache für Europa.",
           "links": [
             {
-              "title": "FCC proposes 'tit-for-tat' restrictions on foreign satellite operators",
-              "url": "https://www.theregister.com/networks/2026/11/24/fcc-proposes-tit-for-tat-restrictions-on-foreign-satellite-operators/5311889"
-            },
+              "title": "NBA announces roughly $11 billion initiative to develop arenas and entertainment districts in Europe",
+              "url": "https://sports.yahoo.com/nba/breaking-news/article/nba-announces-roughly-11-billion-initiative-to-develop-arenas-and-entertainment-districts-in-europe-131954664.html"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Venice Biennale Awards Recognize Nick Cave and Indian Pavilion; Paris Gallery Opening Announced",
+          "headline_de": "Venedig Biennale Preise für Nick Cave und indisches Pavillon; Eröffnung Galerie in Paris angekündigt",
+          "headline_easy": "Bei der Kunstausstellung in Venedig gab es Preise für Nick Cave und den indischen Pavillon. Eine neue Kunstgalerie wird in Paris eröffnen. Es gibt auch Neuigkeiten zu Plänen des Smithsonian.",
+          "summary_en": "The 2026 Venice Biennale Awards have honored Nick Cave and the Indian Pavilion. In related art world news, Marianne Boesky is set to open a new gallery in Paris, and updates were provided on leaked Smithsonian plans.",
+          "summary_de": "Die Preise der Venedig Biennale 2026 ehrten Nick Cave und den indischen Pavillon. In verwandten Kunstwelt-Nachrichten wird Marianne Boesky eine neue Galerie in Paris eröffnen, und es gab Aktualisierungen zu durchgesickerten Plänen des Smithsonian.",
+          "summary_easy": "Kunstpreise in Venedig gingen an Nick Cave und den indischen Pavillon. Eine neue Galerie öffnet in Paris. Es gibt auch neue Infos über das Smithsonian.",
+          "links": [
             {
-              "title": "British defense companies that support Ukraine could face Russian hybrid attacks, the defense ministry and MI5 warn",
-              "url": "https://www.businessinsider.com/british-defense-firms-supporting-ukraine-could-face-russian-attacks-warning-2026-11"
+              "title": "Nick Cave, Indian Pavilion Honored in 2026 Venice Biennale Awards, Smithsonian Secretary Responds to Leaked Plans, Marianne Boesky to Open Paris Gallery, and More: Morning Links for November 25, 2026",
+              "url": "https://www.artnews.com/art-news/news/nick-cave-indian-pavilion-honored-venice-biennale-awards-1234807652/"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "EU Budget Discussions Intensify Amidst Internal Showdown",
+          "headline_de": "EU-Haushaltsgespräche verschärfen sich inmitten interner Auseinandersetzung",
+          "headline_easy": "Die EU diskutiert über ihr nächstes großes Budget. Es gibt starke Meinungsverschiedenheiten zwischen den Ländern. Die Verhandlungen sind live zu verfolgen.",
+          "summary_en": "European Union member states are engaged in an intense showdown over the bloc's next major budget. Live updates are being provided on the ongoing negotiations and disagreements.",
+          "summary_de": "Die Mitgliedstaaten der Europäischen Union führen eine intensive Auseinandersetzung über den nächsten großen Haushalt des Blocks. Live-Updates werden zu den laufenden Verhandlungen und Meinungsverschiedenheiten bereitgestellt.",
+          "summary_easy": "Die Länder in der EU streiten über das neue Budget. Die Gespräche sind wichtig und man kann sie live sehen.",
+          "links": [
+            {
+              "title": "The EU’s showdown over next big budget — live updates",
+              "url": "https://www.politico.eu/article/the-eus-showdown-over-next-big-budget-live-updates/"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "India's Bullet Train Trials Begin; Nasdaq Futures Drop Amid AI Stock Cool-off",
-          "headline_de": "Indiens Hochgeschwindigkeitszug-Testfahrten beginnen; Nasdaq-Futures fallen inmitten abkühlender KI-Aktien",
-          "headline_easy": "Ein Zug in Indien startet bald. Aktienmärkte sind nervös.",
-          "summary_en": "Trials for India's first bullet train are set to commence on a significant stretch in May 2027. Meanwhile, Nasdaq futures experienced a decline as AI stocks cooled following a rally, influenced by Nvidia's performance.",
-          "summary_de": "Die Testfahrten für Indiens ersten Hochgeschwindigkeitszug sollen im Mai 2027 auf einem bedeutenden Abschnitt beginnen. Unterdessen verzeichneten die Nasdaq-Futures einen Rückgang, da die KI-Aktien nach einer Rallye abkühlten, beeinflusst durch die Leistung von Nvidia.",
-          "summary_easy": "Ein neuer Hochgeschwindigkeitszug in Indien wird bald getestet. Die Aktienkurse an der Börse fallen. Das liegt an Technologiefirmen.",
+          "headline_en": "Commentary: China and Russia Exploiting Trump's Weaknesses via Shenzhen",
+          "headline_de": "Kommentar: China und Russland nutzen Trumps Schwächen über Shenzhen aus",
+          "headline_easy": "China und Russland nutzen Schwächen von Donald Trump aus. Sie tun das über die Stadt Shenzhen. Das ist eine Warnung für die USA.",
+          "summary_en": "A commentary piece explores how China and Russia are allegedly exploiting Donald Trump's weaknesses, with Shenzhen highlighted as a key example. The analysis suggests this presents a 'wake-up call' for global politics.",
+          "summary_de": "Ein Kommentar untersucht, wie China und Russland angeblich die Schwächen von Donald Trump ausnutzen, wobei Shenzhen als Schlüsselbeispiel hervorgehoben wird. Die Analyse deutet darauf hin, dass dies ein 'Weckruf' für die globale Politik darstellt.",
+          "summary_easy": "Ein Artikel sagt, China und Russland nutzen Trumps Schwächen. Shenzhen ist ein Beispiel dafür. Das ist eine wichtige Nachricht.",
           "links": [
             {
-              "title": "India's first bullet train to begin trials on 50-km Surat-Bilimora stretch in May 2027 as electrification is completed and signalling work is expected to finish by January",
-              "url": "https://timesofindia.indiatimes.com/business/india-business/indias-first-bullet-train-to-begin-trials-on-50-km-surat-bilimora-stretch-in-may-2027-as-electrification-is-completed-and-signalling-work-is-expected-to-finish-by-january/articleshow/136122796.cms"
-            },
-            {
-              "title": "Nasdaq futures drop as AI stocks cool after Nvidia-fueled rally: US Stock Market Live Updates",
-              "url": "https://m.economictimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-anthropic-iphone-google-meta-tesla-earnings-treasury-yield-news-24-nov-2026/liveblog/136131363.cms"
+              "title": "When China and Russia jointly exploit Trump’s weaknesses: Shenzhen as a wake-up call",
+              "url": "https://www.iss.europa.eu/publications/commentary/when-china-and-russia-jointly-exploit-trumps-weaknesses-shenzhen-wake-call"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "FCC Proposes Satellite Restrictions; China Report Released",
-          "headline_de": "FCC schlägt Satellitenbeschränkungen vor; China-Bericht veröffentlicht",
-          "headline_easy": "Neue Regeln für Satelliten. Ein Bericht über China ist da.",
-          "summary_en": "The FCC is moving to implement 'tit-for-tat' restrictions on foreign satellite operators. In related news, a 'China Report' for December 2026 has been made available.",
-          "summary_de": "Die FCC ist dabei, 'gleiche mit gleichen' Beschränkungen für ausländische Satellitenbetreiber einzuführen. In verwandten Nachrichten ist ein 'China-Bericht' für Dezember 2026 verfügbar geworden.",
-          "summary_easy": "Amerika macht neue Regeln für Satelliten. Ein Bericht über China für den nächsten Monat ist auch da.",
+          "headline_en": "WordPress Tackles AI-Driven Vulnerabilities",
+          "headline_de": "WordPress bekämpft KI-gesteuerte Schwachstellen",
+          "headline_easy": "WordPress kämpft gegen Probleme, die durch künstliche Intelligenz (KI) entstehen. Ein Experte namens Rudy Faile erklärt, wie die Firma das macht. Das ist wichtig für die Sicherheit im Internet.",
+          "summary_en": "Rudy Faile discusses on a podcast how WordPress is actively combating exploding AI-driven vulnerabilities. The episode focuses on the platform's strategies to maintain security in the face of evolving technological threats.",
+          "summary_de": "Rudy Faile erörtert in einem Podcast, wie WordPress aktiv gegen explodierende KI-gesteuerte Schwachstellen vorgeht. Die Folge konzentriert sich auf die Strategien der Plattform zur Aufrechterhaltung der Sicherheit angesichts sich entwickelnder technologischer Bedrohungen.",
+          "summary_easy": "WordPress hat Probleme mit künstlicher Intelligenz (KI). Ein Experte, Rudy Faile, spricht darüber. Er erklärt, wie WordPress die Probleme löst. Das hilft, das Internet sicher zu machen.",
           "links": [
             {
-              "title": "China Report - December 2026",
-              "url": "https://post.rlsbb.cc/china-report-december-2026/"
+              "title": "#243 – Rudy Faile on How WordPress Is Fighting Exploding AI-Driven Vulnerabilities",
+              "url": "https://wptavern.com/podcast/243-rudy-faile-on-how-wordpress-is-fighting-exploding-ai-driven-vulnerabilities/"
             }
           ]
         }
@@ -144,40 +180,80 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Nvidia CEO's China Visit Faces Hurdles; Trump-Putin Deal Discussed",
-          "headline_de": "Nvidia-CEO's China-Besuch stößt auf Hürden; Trump-Putin-Deal diskutiert",
-          "headline_easy": "Der Chef von Nvidia ist in China. Trump spricht über Frieden.",
-          "summary_en": "Nvidia CEO Jensen Huang's visit to China has been met with enthusiasm but also political challenges. Separately, an analysis suggests a potential deal between Trump and Putin to end the war in Ukraine.",
-          "summary_de": "Der Besuch von Nvidia-CEO Jensen Huang in China wurde mit Begeisterung, aber auch mit politischen Herausforderungen aufgenommen. Separat legt eine Analyse einen möglichen Deal zwischen Trump und Putin zur Beendigung des Krieges in der Ukraine nahe.",
-          "summary_easy": "Der Chef von Nvidia, Jensen Huang, ist in China. Es gibt aber auch Probleme. Ein Artikel spricht darüber, wie Trump den Krieg in der Ukraine beenden könnte.",
+          "headline_en": "Salvadoran Man's Deportation Sparks Legal Battle, Moves to Spain",
+          "headline_de": "Abschiebung eines Salvadoraners löst Rechtsstreit aus, zieht nach Spanien",
+          "headline_easy": "Ein Mann aus El Salvador wurde abgeschoben. Das hat einen Rechtsstreit ausgelöst. Jetzt ist er nach Spanien gezogen. Seine Identität ist Kilmar Abrego Garcia.",
+          "summary_en": "Kilmar Abrego Garcia, a Salvadoran national whose deportation initiated a legal battle, has now relocated to Spain. The case highlights complex international migration and legal issues.",
+          "summary_de": "Kilmar Abrego Garcia, ein salvadorianischer Staatsbürger, dessen Abschiebung einen Rechtsstreit auslöste, ist nun nach Spanien gezogen. Der Fall beleuchtet komplexe internationale Migrations- und Rechtsfragen.",
+          "summary_easy": "Ein Mann namens Kilmar Abrego Garcia kommt aus El Salvador. Er sollte abgeschoben werden. Das führte zu einem Streit vor Gericht. Jetzt lebt er in Spanien.",
           "links": [
             {
-              "title": "Nvidia's Huang returns to cheers in China, but political hurdles mount on both sides",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/nvidias-huang-returns-to-cheers-in-china-but-political-hurdles-mount-on-both-sides/articleshow/136132570.cms"
-            },
+              "title": "Who is Kilmar Abrego Garcia? Salvadoran man whose deportation sparked legal battle moves to Spain",
+              "url": "https://timesofindia.indiatimes.com/world/us/who-is-kilmar-abrego-garcia-salvadoran-man-whose-deportation-sparked-legal-battle-moves-to-spain/articleshow/136162987.cms"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "US Proposes New Tariffs on EU, China, and Others",
+          "headline_de": "USA schlagen neue Zölle auf EU, China und andere vor",
+          "headline_easy": "Die USA wollen neue Zölle einführen. Sie gelten für Waren aus der EU und China. Auch andere Länder sind betroffen. Das könnte den Handel verändern.",
+          "summary_en": "The United States has announced proposals for new tariffs on goods from the EU, China, and twelve other nations. These proposed tariffs could significantly impact international trade relations and economic policies.",
+          "summary_de": "Die Vereinigten Staaten haben Vorschläge für neue Zölle auf Waren aus der EU, China und zwölf weiteren Ländern angekündigt. Diese vorgeschlagenen Zölle könnten die internationalen Handelsbeziehungen und Wirtschaftspolitiken erheblich beeinflussen.",
+          "summary_easy": "Die USA wollen neue Zölle. Diese Zölle sind für Produkte aus der EU und China. Auch andere Länder sind betroffen. Das ist wichtig für den Handel.",
+          "links": [
             {
-              "title": "Foreign Affairs Analysis: Time for a deal with Putin – What Trump should offer to end the war in Ukraine",
-              "url": "https://en.protothema.gr/2026/11/24/foreign-affairs-analysis-time-for-a-deal-with-putin-what-trump-should-offer-to-end-the-war-in-ukraine/"
+              "title": "US announces new tariff proposals on EU, China, and other trade partners",
+              "url": "https://www.bbc.co.uk/news/live/cqglr4708r85t"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Israeli Strike Kills Hamas Official, Wife, and Children",
+          "headline_de": "Israelischer Angriff tötet Hamas-Funktionär, seine Frau und Kinder",
+          "headline_easy": "Ein Angriff aus Israel hat eine Familie getötet. Der Mann war ein Hamas-Funktionär. Auch seine Frau und seine Kinder starben. Das ist ein trauriges Ereignis.",
+          "summary_en": "An Israeli strike has resulted in the deaths of a Hamas official, his wife, and their children. The incident represents a tragic escalation in the ongoing conflict.",
+          "summary_de": "Ein israelischer Angriff führte zum Tod eines Hamas-Funktionärs, seiner Frau und ihrer Kinder. Der Vorfall stellt eine tragische Eskalation des anhaltenden Konflikts dar.",
+          "summary_easy": "Bei einem Angriff von Israel sind Menschen gestorben. Ein Mann von der Hamas, seine Frau und Kinder. Das ist sehr traurig.",
+          "links": [
+            {
+              "title": "Israeli strike kills Hamas official, his wife and children",
+              "url": "https://www.channelnewsasia.com/world/israeli-strike-kills-hamas-official-his-wife-and-children-6581221"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Nvidia CEO's Return Sparks Debate; Germany 'Shocked' by Trump Intervention",
-          "headline_de": "Rückkehr des Nvidia-CEOs löst Debatte aus; Deutschland 'schockiert' über Trump-Intervention",
-          "headline_easy": "Der Chef von Nvidia ist zurück. Deutschland ist überrascht von Trump.",
-          "summary_en": "Jensen Huang's return to Nvidia is being analyzed for its winners and losers, amid broader discussions about his role. Germany's Wadephul expressed shock over Trump's intervention regarding Nvidia.",
-          "summary_de": "Die Rückkehr von Jensen Huang zu Nvidia wird im Hinblick auf Gewinner und Verlierer analysiert, inmitten breiterer Diskussionen über seine Rolle. Deutschlands Wadephul äußerte sich schockiert über Trumps Intervention bezüglich Nvidia.",
-          "summary_easy": "Jensen Huang ist wieder bei Nvidia. Das wird diskutiert. Ein deutscher Politiker war sehr überrascht, was Trump gemacht hat.",
+          "headline_en": "Opportunities for Congress to Help Americans Amidst Shifting Status Quo",
+          "headline_de": "Chancen für den Kongress, den Amerikanern zu helfen, inmitten des sich wandelnden Status quo",
+          "headline_easy": "Es gibt neue Möglichkeiten für den Kongress in den USA. Sie können den Menschen helfen. Es gibt Veränderungen im Land. Die Chancen sind 'selten'.",
+          "summary_en": "The article suggests that rare opportunities have emerged for the US Congress to genuinely assist Americans as the current status quo shows signs of fracturing. This presents a potential window for bipartisan action.",
+          "summary_de": "Der Artikel deutet darauf hin, dass sich seltene Gelegenheiten für den US-Kongress ergeben haben, den Amerikanern wirklich zu helfen, da der aktuelle Status quo Anzeichen von Rissen zeigt. Dies bietet ein potenzielles Fenster für parteiübergreifende Maßnahmen.",
+          "summary_easy": "Der Kongress in den USA hat neue Chancen. Er kann den Menschen helfen. Es gibt Veränderungen. Diese Chancen sind gut.",
           "links": [
             {
-              "title": "Jensen Huang’s Nvidia return: Who are the big winners and losers?",
-              "url": "https://www.aljazeera.com/features/2026/11/24/jensen-huangs-nvidia-return-whore-the-big-winners-and-losers"
-            },
+              "title": "Rare Opportunities Emerge For Congress To Actually Help Americans As Cracks Form In Status Quo",
+              "url": "https://dailycaller.com/2026/11/25/democrats-republicans-congress-bipartisan-issues/"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "UK Nuclear Test Veterans Secure 40-Year Inquiry into Cold War Tests",
+          "headline_de": "Britische Atomtest-Veteranen erreichen 40-jährige Untersuchung von Kaltem-Krieg-Tests",
+          "headline_easy": "Veteranen, die bei Atomtests in der Vergangenheit dabei waren, haben nach 40 Jahren Erfolg. Sie bekommen eine Untersuchung über diese Tests. Das ist ein wichtiger Sieg für sie.",
+          "summary_en": "UK nuclear test veterans have finally secured a 40-year battle for an inquiry into Cold War tests. This marks a significant achievement for those exposed to radiation during these historic events.",
+          "summary_de": "Britische Veteranen von Atomtests haben nach einem 40-jährigen Kampf endlich eine Untersuchung der Atomtests des Kalten Krieges erreicht. Dies stellt einen bedeutenden Erfolg für diejenigen dar, die während dieser historischen Ereignisse Strahlung ausgesetzt waren.",
+          "summary_easy": "Menschen aus Großbritannien waren bei Atomtests. Sie kämpften 40 Jahre für eine Untersuchung. Jetzt bekommen sie sie. Das ist ein Erfolg für sie.",
+          "links": [
             {
-              "title": "Germany's Wadephul 'shocked' by Trump's Nvidia intervention",
-              "url": "https://www.dw.com/en/germanys-wadephul-shocked-by-trumps-nvidia-intervention/a-80033954"
+              "title": "UK nuclear test veterans win 40-year battle for inquiry into Cold War tests",
+              "url": "https://abcnews.com/International/wireStory/uk-nuclear-test-veterans-win-40-year-battle-138436079"
             }
           ]
         }
@@ -190,52 +266,80 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "CertiK Trains Interpol on Crypto Tracing; China Report Issued",
-          "headline_de": "CertiK schult Interpol in Krypto-Rückverfolgung; China-Bericht veröffentlicht",
-          "headline_easy": "Firmen helfen der Polizei bei Kriminalität mit Geld. Ein Bericht über China ist da.",
-          "summary_en": "CertiK is providing training to Interpol investigators on how to trace and freeze stolen cryptocurrency. Additionally, a 'China Report' for December 2026 has been published.",
-          "summary_de": "CertiK schult Interpol-Ermittler darin, gestohlene Kryptowährungen zu verfolgen und einzufrieren. Zusätzlich wurde ein 'China-Bericht' für Dezember 2026 veröffentlicht.",
-          "summary_easy": "Eine Firma namens CertiK hilft der Polizei. Sie lernen, gestohlenes digitales Geld zu finden. Auch ein Bericht über China ist neu.",
+          "headline_en": "Deloitte India Targets MSMEs and Entrepreneurs with 'Project Bharat'",
+          "headline_de": "Deloitte Indien zielt mit 'Projekt Bharat' auf KMU und Unternehmer ab",
+          "headline_easy": "Die Firma Deloitte in Indien startet ein Projekt namens 'Bharat'. Es richtet sich an kleine und mittlere Unternehmen. Auch an Unternehmer in kleineren Städten. Es soll ihnen helfen.",
+          "summary_en": "Deloitte India has launched 'Project Bharat,' a new initiative aimed at supporting Micro, Small, and Medium Enterprises (MSMEs) and entrepreneurs in tier-2 cities. The project seeks to foster growth and innovation within these sectors.",
+          "summary_de": "Deloitte Indien hat 'Projekt Bharat' ins Leben gerufen, eine neue Initiative zur Unterstützung von Kleinst-, kleinen und mittleren Unternehmen (KMU) sowie von Unternehmern in zweitrangigen Städten. Das Projekt zielt darauf ab, Wachstum und Innovation in diesen Sektoren zu fördern.",
+          "summary_easy": "Deloitte Indien hat ein neues Projekt. Es heißt 'Projekt Bharat'. Es hilft kleinen Firmen und Unternehmern. Das ist gut für diese Firmen.",
           "links": [
             {
-              "title": "CertiK trains Interpol investigators on tracing stolen crypto",
-              "url": "https://cryptobriefing.com/certik-trains-interpol-crypto-tracing/"
+              "title": "Deloitte India targets MSMEs, entrepreneurs in tier-2 centres with ‘Project Bharat’",
+              "url": "https://www.thehindubusinessline.com/info-tech/deloitte-india-targets-msmes-entrepreneurs-in-tier-2-centres-with-project-bharat/article71742351.ece"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "US Proposes Tariffs on China, EU, and 12 Other Nations",
+          "headline_de": "USA schlagen Zölle auf China, EU und 12 weitere Nationen vor",
+          "headline_easy": "Die USA wollen Zölle auf Produkte aus China und der EU erheben. Auch 12 andere Länder sind betroffen. Die Zölle könnten bis zu 20% hoch sein. Das ist eine wichtige Änderung im Handel.",
+          "summary_en": "The United States is proposing new tariffs, potentially reaching up to 20%, on imports from China, the EU, and 12 other nations. This move signals a significant shift in global trade policy.",
+          "summary_de": "Die Vereinigten Staaten schlagen neue Zölle von bis zu 20 % auf Importe aus China, der EU und 12 weiteren Ländern vor. Dieser Schritt signalisiert eine signifikante Veränderung der globalen Handelspolitik.",
+          "summary_easy": "Die USA wollen Zölle. Diese Zölle sind bis zu 20%. Sie sind für Waren aus China und der EU. Andere Länder sind auch betroffen.",
+          "links": [
+            {
+              "title": "U.S. proposes new tariffs of up to 20% on China, the EU and 12 other nations",
+              "url": "https://finance.yahoo.com/markets/article/us-announces-new-tariffs-of-up-to-20-on-china-the-eu-and-12-other-nations-131802359.html"
             }
           ]
         },
         {
           "type": "War",
           "emoji": "⚔️",
-          "headline_en": "Russian Warplanes Alarm US Partners in Asia; Indian Teenager Scores 204",
-          "headline_de": "Russische Kriegsflugzeuge alarmieren US-Partner in Asien; Indischer Teenager erzielt 204 Punkte",
-          "headline_easy": "Russische Flugzeuge sind in der Nähe. Ein junger Mann hat beim Sport gut abgeschnitten.",
-          "summary_en": "The presence of Russian warplanes has raised concerns among US partners in Asia. In a separate development, Indian teenager Sooryavanshi achieved a remarkable score of 204 runs in a cricket match.",
-          "summary_de": "Die Präsenz russischer Kriegsflugzeuge hat bei US-Partnern in Asien Besorgnis ausgelöst. In einer separaten Entwicklung erzielte die indische Teenagerin Sooryavanshi eine bemerkenswerte Punktzahl von 204 Runs in einem Cricketspiel.",
-          "summary_easy": "Russische Flugzeuge fliegen in Asien. Das macht die USA und ihre Partner nervös. Ein junger indischer Sportler hat in einem Spiel sehr viele Punkte gemacht.",
+          "headline_en": "Opposition Raises Concerns Over Planned Parks Canada Cuts",
+          "headline_de": "Opposition äußert Bedenken wegen geplanter Kürzungen bei Parks Canada",
+          "headline_easy": "Abgeordnete der Opposition in Kanada haben Fragen. Sie wollen Antworten zu geplanten Kürzungen bei Parks Canada. Das ist ein wichtiges Thema für die Natur und Parks.",
+          "summary_en": "Opposition Members of Parliament in Canada are seeking answers regarding planned budget cuts for Parks Canada. They are raising concerns about the potential impact of these reductions.",
+          "summary_de": "Abgeordnete der Opposition in Kanada fordern Antworten bezüglich geplanter Budgetkürzungen für Parks Canada. Sie äußern Bedenken hinsichtlich der möglichen Auswirkungen dieser Kürzungen.",
+          "summary_easy": "In Kanada gibt es weniger Geld für Parks. Politiker von der Opposition sind nicht glücklich. Sie wollen wissen, warum das passiert.",
           "links": [
             {
-              "title": "Russian Warplanes Trigger Alarm Among U.S. Partners in Asia - WSJ",
-              "url": "https://slashdot.org/firehose.pl?op=view&id=186851391"
-            },
-            {
-              "title": "Records tumble as Indian teen Sooryavanshi smashes 53-ball 204 against UAE",
-              "url": "https://www.aljazeera.com/sports/2026/11/24/records-tumble-as-indian-teen-sooryavanshi-smashes-53-ball-204-against-uae"
+              "title": "Opposition MPs say they want answers on planned Parks Canada cuts",
+              "url": "https://www.cbc.ca/news/politics/parks-canada-cuts-opposition-9.7435217"
             }
           ]
         },
         {
           "type": "Stocks & Markets",
           "emoji": "📈",
-          "headline_en": "Nvidia CEO's Return Analyzed; AI Startups Secure Funding",
-          "headline_de": "Rückkehr des Nvidia-CEOs analysiert; KI-Startups sichern Finanzierung",
-          "headline_easy": "Der Chef von Nvidia ist zurück. Eine neue Firma bekommt Geld.",
-          "summary_en": "The return of Jensen Huang to Nvidia is being examined for its market impact and key players. In other news, Zipher has secured $53 million to utilize AI agents for data workloads.",
-          "summary_de": "Die Rückkehr von Jensen Huang zu Nvidia wird auf ihre Marktauswirkungen und Hauptakteure untersucht. In anderen Nachrichten hat Zipher 53 Millionen Dollar gesichert, um KI-Agenten für Datenverarbeitungsaufgaben einzusetzen.",
-          "summary_easy": "Jensen Huang ist wieder bei Nvidia. Man schaut, wer davon profitiert. Eine neue Firma, Zipher, bekommt viel Geld. Sie nutzt künstliche Intelligenz für Daten.",
+          "headline_en": "Congress Briefed on Jensen Huang's Alleged Ties to Chinese Intelligence",
+          "headline_de": "Kongress über Jensun Huangs angebliche Verbindungen zu chinesischer Geheimdienst informiert",
+          "headline_easy": "Der US-Kongress wurde informiert. Es geht um Verbindungen von Jensen Huang, dem Chef von Nvidia. Es gibt Gerüchte über eine Affäre und China. Das ist ein wichtiges Thema.",
+          "summary_en": "The US Congress has reportedly been briefed on alleged connections between Nvidia CEO Jensen Huang and Chinese intelligence, stemming from an alleged affair. This briefing raises concerns regarding potential national security implications.",
+          "summary_de": "Der US-Kongress wurde angeblich über mutmaßliche Verbindungen zwischen Nvidia-CEO Jensen Huang und dem chinesischen Geheimdienst informiert, die auf eine angebliche Affäre zurückgehen. Diese Anhörung wirft Bedenken hinsichtlich möglicher nationaler Sicherheitsimplikationen auf.",
+          "summary_easy": "Der US-Kongress hat Informationen bekommen. Es geht um Jensen Huang von Nvidia. Es gibt Gerüchte über ihn und China. Das ist wichtig für die Sicherheit.",
           "links": [
             {
-              "title": "Zipher lands $53M to put AI agents, not data engineers, in charge of data workloads",
-              "url": "https://siliconangle.com/2026/11/24/zipher-lands-53m-to-put-ai-agents-not-data-engineers-in-charge-of-data-workloads/"
+              "title": "Congress briefed on links between Jensen Huang’s affair partner and Chinese intelligence agency",
+              "url": "https://fortune.com/2026/11/25/congress-briefed-links-jensen-huang-nvidia-affair-china-intelligence/"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "Washington's Strategy Regarding Nvidia and Jensen Huang Discussed",
+          "headline_de": "Washingtons Strategie bezüglich Nvidia und Jensen Huang diskutiert",
+          "headline_easy": "Es gibt einen Artikel über die Strategie der USA. Es geht um die Firma Nvidia und ihren Chef Jensen Huang. Der Artikel heißt 'Washingtons Krieg'.",
+          "summary_en": "An article titled 'Washington's War Over Nvidia and Jensen Huang' discusses the strategic considerations and potential conflicts involving the influential tech company and its CEO. This highlights the geopolitical importance of semiconductor technology.",
+          "summary_de": "Ein Artikel mit dem Titel 'Washingtons Krieg um Nvidia und Jensen Huang' diskutiert die strategischen Überlegungen und potenziellen Konflikte, an denen das einflussreiche Technologieunternehmen und sein CEO beteiligt sind. Dies unterstreicht die geopolitische Bedeutung der Halbleitertechnologie.",
+          "summary_easy": "Ein Artikel spricht über die USA und die Firma Nvidia. Es geht um den Chef, Jensen Huang. Der Artikel heißt 'Washingtons Krieg'. Das zeigt, wie wichtig Technik ist.",
+          "links": [
+            {
+              "title": "Washington’s War Over Nvidia and Jensen Huang",
+              "url": "https://nymag.com/intelligencer/article/washingtons-war-over-nvidia-and-jensen-huang.html"
             }
           ]
         }
@@ -248,52 +352,80 @@
         {
           "type": "Culture",
           "emoji": "🎭",
-          "headline_en": "Pope Francis' Spiritual Crisis; German Novel Published",
-          "headline_de": "Papst Franziskus' spirituelle Krise; deutscher Roman veröffentlicht",
-          "headline_easy": "Papst Franziskus hatte Probleme. Ein Buch ist in Deutschland neu.",
-          "summary_en": "Pope Francis' private diary reportedly details a profound spiritual crisis and encounters with the devil. Separately, a German novel by A. Dumas (père) has been published.",
-          "summary_de": "Papst Franziskus' privates Tagebuch beschreibt angeblich eine tiefgreifende spirituelle Krise und Begegnungen mit dem Teufel. Separat wurde ein deutscher Roman von A. Dumas (père) veröffentlicht.",
-          "summary_easy": "Der Papst hatte eine schwere Zeit. Das steht in seinem Tagebuch. Ein neues Buch ist auch in Deutschland erschienen.",
+          "headline_en": "U2 to Perform at Thanksgiving Eve Halftime Show",
+          "headline_de": "U2 tritt bei der Halbzeitshow am Vorabend von Thanksgiving auf",
+          "headline_easy": "Die berühmte Band U2 wird bei einem Football-Spiel auftreten. Es ist die Halbzeitshow am Abend vor Thanksgiving. Das Spiel ist zwischen den Rams und den Packers.",
+          "summary_en": "The legendary band U2 is set to headline the halftime show for the Thanksgiving Eve game between the Rams and the Packers. This highly anticipated performance adds a musical element to the NFL festivities.",
+          "summary_de": "Die legendäre Band U2 wird die Halbzeitshow für das Spiel der Rams gegen die Packers am Vorabend von Thanksgiving gestalten. Dieser mit Spannung erwartete Auftritt fügt den NFL-Feierlichkeiten ein musikalisches Element hinzu.",
+          "summary_easy": "Die Band U2 spielt bei einem Football-Spiel. Das Spiel ist am Abend vor Thanksgiving. Es ist die Halbzeit-Show. Das wird toll sein.",
           "links": [
             {
-              "title": "Pope Francis' Private Diary Describes A Profound Spiritual Crisis, Encounters With The Devil",
-              "url": "https://www.huffpost.com/entry/vatican-pope-francis-diary_n_6b0593c5e4b0e97a940ab67a"
-            },
-            {
-              "title": "Dumas, A. (père): Die Heirathen des Vater Olifus [German] V1.0 24.11.2026 (Other Fiction, ePub)",
-              "url": "https://www.mobileread.com/forums/showthread.php?t=376458"
+              "title": "Rams vs. Packers Thanksgiving Eve halftime show to feature U2: How to watch",
+              "url": "https://www.usatoday.com/story/sports/nfl/2026/11/25/u2-rams-packers-thanksgiving-eve-halftime-show/92948308007/"
             }
           ]
         },
         {
           "type": "Business",
           "emoji": "💼",
-          "headline_en": "Pope Francis' Spiritual Crisis; Analysis of Nvidia CEO's Return",
-          "headline_de": "Papst Franziskus' spirituelle Krise; Analyse der Rückkehr des Nvidia-CEOs",
-          "headline_easy": "Der Papst hatte eine Krise. Ein Chef ist wieder da.",
-          "summary_en": "Pope Francis' private diary has revealed details of a significant spiritual crisis he experienced. In business news, an analysis discusses the implications of Jensen Huang's return to Nvidia.",
-          "summary_de": "Papst Franziskus' privates Tagebuch hat Details über eine bedeutende spirituelle Krise enthüllt, die er erlebte. In Wirtschaftsnachrichten diskutiert eine Analyse die Auswirkungen der Rückkehr von Jensen Huang zu Nvidia.",
-          "summary_easy": "Der Papst hatte eine schwierige Zeit, das steht in seinem Tagebuch. Eine Analyse spricht über die Rückkehr von Jensen Huang zu Nvidia und was das bedeutet.",
+          "headline_en": "Soviet Aircraft Carrier Transformed into Chinese Amusement Park, Now Finds New Home",
+          "headline_de": "Sowjetischer Flugzeugträger wurde zu chinesischem Vergnügungspark, findet nun ein neues Zuhause",
+          "headline_easy": "Ein altes sowjetisches Schiff war ein Vergnügungspark in China. Jetzt ist der Park zu. Das große Schiff wurde an einen neuen Ort gebracht. Es ist 43.000 Tonnen schwer.",
+          "summary_en": "A 43,000-ton Soviet aircraft carrier, previously repurposed as a Chinese amusement park, has been towed to a new location after the park's closure. The vessel's journey from military asset to tourist attraction and now to a new berth is a unique story.",
+          "summary_de": "Ein 43.000 Tonnen schwerer sowjetischer Flugzeugträger, der zuvor als chinesischer Vergnügungspark umfunktioniert worden war, wurde nach der Schließung des Parks an einen neuen Ort geschleppt. Die Reise des Schiffes von einem militärischen Vermögenswert zu einer Touristenattraktion und nun zu einem neuen Liegeplatz ist eine einzigartige Geschichte.",
+          "summary_easy": "Ein altes sowjetisches Schiff ist jetzt in China. Früher war es ein Vergnügungspark. Der Park ist jetzt zu. Das Schiff wurde zu einem neuen Ort gebracht.",
           "links": [
             {
-              "title": "Jensen Huang's Restoration Farce",
-              "url": "https://www.thenation.com/article/economy/jensen-huang-trump-administration-wall-street-ai/"
+              "title": "A 43,000-ton Soviet aircraft carrier became a Chinese amusement park; after the park closed, the Minsk was towed to a new home",
+              "url": "https://timesofindia.indiatimes.com/world/rest-of-world/a-43000-ton-soviet-aircraft-carrier-became-a-chinese-amusement-park-after-the-park-closed-the-minsk-was-towed-to-a-new-home/articleshow/136155792.cms"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Sterling Avoids Jail After Dangerous Driving",
+          "headline_de": "Sterling entgeht Haftstrafe nach gefährlicher Fahrweise",
+          "headline_easy": "Der Fußballspieler Sterling ist nicht ins Gefängnis gekommen. Er fuhr gefährlich mit einem Lamborghini auf der Autobahn. Das ist eine Nachricht aus dem Sport.",
+          "summary_en": "Footballer Sterling has avoided a jail sentence after being caught driving a Lamborghini dangerously on the motorway. The incident highlights legal consequences for reckless behavior on public roads.",
+          "summary_de": "Fußballer Sterling ist einer Gefängnisstrafe entgangen, nachdem er mit einem Lamborghini gefährlich auf der Autobahn gefahren war. Der Vorfall unterstreicht die rechtlichen Konsequenzen rücksichtslosen Verhaltens auf öffentlichen Straßen.",
+          "summary_easy": "Sterling ist ein Sportler. Er fuhr sehr schnell und gefährlich mit einem Auto. Er muss nicht ins Gefängnis. Das ist gut für ihn.",
+          "links": [
+            {
+              "title": "Sterling avoids jail after driving Lamborghini dangerously on motorway",
+              "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:261125-930-49745/"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Thousands of Black Friday Deals Available Now: 175 Best Offers Highlighted",
+          "headline_de": "Tausende Black Friday-Angebote jetzt verfügbar: 175 beste Angebote hervorgehoben",
+          "headline_easy": "Viele Angebote zum Black Friday sind jetzt verfügbar. Es gibt 175 der besten Deals. Das ist eine gute Zeit, um Dinge zu kaufen. Die Angebote sind online.",
+          "summary_en": "Thousands of Black Friday deals are currently live, with a curated list of the 175 best offers available. Consumers can take advantage of significant discounts across various product categories.",
+          "summary_de": "Tausende von Black Friday-Angeboten sind derzeit live, mit einer kuratierten Liste der 175 besten Angebote. Verbraucher können erhebliche Rabatte in verschiedenen Produktkategorien nutzen.",
+          "summary_easy": "Heute gibt es viele gute Angebote. Es ist der Black Friday. Man kann viele Dinge billiger kaufen. Es gibt 175 gute Deals.",
+          "links": [
+            {
+              "title": "Thousands of Black Friday deals are live right now. These are the 175 best",
+              "url": "https://www.techradar.com/seasonal-sales/black-friday-deals-25-november-2026"
             }
           ]
         },
         {
           "type": "Technology",
           "emoji": "💻",
-          "headline_en": "Johannesburg Mayors Book Published; Pope's Spiritual Crisis Detailed",
-          "headline_de": "Buch über Johannesburger Bürgermeister veröffentlicht; Details zu Papst Franziskus' spiritueller Krise",
-          "headline_easy": "Ein Buch über Bürgermeister in Südafrika. Der Papst hatte eine Krise.",
-          "summary_en": "A new book reviews the history of Johannesburg's mayors over the last 140 years. Pope Francis' private diary has also revealed details of a significant spiritual crisis.",
-          "summary_de": "Ein neues Buch gibt einen Überblick über die Geschichte der Bürgermeister von Johannesburg in den letzten 140 Jahren. Auch Papst Franziskus' privates Tagebuch enthüllte Details über eine bedeutende spirituelle Krise.",
-          "summary_easy": "Ein neues Buch handelt von den Bürgermeistern von Johannesburg in Südafrika. Der Papst hatte auch eine schwere Zeit, das steht in seinem Tagebuch.",
+          "headline_en": "'Blade Runner 2099' Review Suggests Franchise Better Suited for TV",
+          "headline_de": "Review von 'Blade Runner 2099' legt nahe, dass das Franchise besser für das Fernsehen geeignet ist",
+          "headline_easy": "Ein neuer Artikel bewertet 'Blade Runner 2099'. Die Serie passt vielleicht besser ins Fernsehen als ins Kino. Der Artikel gibt eine Meinung dazu ab.",
+          "summary_en": "A review of 'Blade Runner 2099' suggests that the franchise might be better suited for a television format rather than a film. The critique offers an opinion on the series' potential and platform.",
+          "summary_de": "Eine Rezension von 'Blade Runner 2099' legt nahe, dass das Franchise besser für ein Fernsehformat als für einen Film geeignet sein könnte. Die Kritik bietet eine Meinung zur potenziellen Eignung und Plattform der Serie.",
+          "summary_easy": "Es gibt eine neue Serie namens 'Blade Runner 2099'. Ein Artikel sagt, dass sie besser im Fernsehen ist. Nicht im Kino. Das ist die Meinung des Artikels.",
           "links": [
             {
-              "title": "Johannesburg has had 101 mayors over the last 140 years: new book reviews the good times and the bad",
-              "url": "https://theconversation.com/johannesburg-has-had-101-mayors-over-the-last-140-years-new-book-reviews-the-good-times-and-the-bad-297313"
+              "title": "Blade Runner 2099 Review: Maybe the Franchise Belongs More on TV",
+              "url": "https://bleedingcool.com/tv/blade-runner-2099-review-maybe-the-franchise-belongs-more-on-tv/"
             }
           ]
         }
@@ -302,29 +434,29 @@
   ],
   "bundestag": {
     "wahlperiode": 21,
-    "sitzung": 110,
-    "url": "https://dserver.bundestag.de/btp/21/21110.pdf",
-    "summary_en": "The 110th session of the 21st legislative period of the German Bundestag convened on Tuesday, November 24, 2026. The session began with the welcome of the new Member of Parliament, Dr. Felix Winter. The agenda largely focused on the second reading of the draft budget for the fiscal year 2027 (Haushaltsgesetz 2027 – HG 2027), introduced by the Federal Government.  The Bundestag also discussed the Finance Plan of the Federal Government for 2026-2030, based on the recommendation of the Budget Committee.  Discussions covered several individual budget plans, including those for the Federal President and Chancellery (Einzelplan 01), the Bundestag itself (Einzelplan 02), the Bundesrat (Einzelplan 03), the Federal Ministry of Finance (Einzelplan 08), the Federal Court of Auditors (Einzelplan 20), the Federal Ministry for Digital and State Modernization (Einzelplan 24), the Federal Ministry for the Environment, Climate Protection, Nature Conservation and Nuclear Safety (Einzelplan 16), and the Federal Ministry of Health (Einzelplan 15). Several MPs from different parties, including AfD, SPD, BÜNDNIS 90/DIE GRÜNEN, CDU/CSU, and Die Linke, contributed to the debates, with specific points made regarding budget allocations and policy directions for each ministry. Ministers Lars Klingbeil (BMF) and Elisabeth Kaiser (State Minister BMF), along with Carsten Schneider (BMUKN) and Dr. Karsten Wildberger (BMDS), provided governmental perspectives. The session also included the second reading of a draft budget accompanying law for 2027 (Haushaltsbegleitgesetz 2027). Specific debates within the individual plans saw contributions from figures like Dr. Michael Espendiller (AfD) and Dr. Thorsten Rudolph (SPD) on the budget accompanying law, and Sergej Minich (AfD) and Ricarda Lang (BÜNDNIS 90/DIE GRÜNEN) on the digital ministry's budget.",
-    "summary_de": "Die 110. Sitzung der 21. Wahlperiode des Deutschen Bundestages fand am Dienstag, dem 24. November 2026, statt. Die Sitzung begann mit der Begrüßung des neuen Abgeordneten Dr. Felix Winter. Die Tagesordnung konzentrierte sich hauptsächlich auf die zweite Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2027 (Haushaltsgesetz 2027 – HG 2027). Der Bundestag beriet zudem die Beschlussempfehlung des Haushaltsausschusses zum Finanzplan des Bundes 2026 bis 2030. Die Debatten umfassten mehrere Einzelpläne, darunter den Einzelplan 01 (Bundespräsident und Bundespräsidialamt), Einzelplan 02 (Deutscher Bundestag), Einzelplan 03 (Bundesrat), Einzelplan 08 (Bundesministerium der Finanzen), Einzelplan 20 (Bundesrechnungshof), Einzelplan 24 (Bundesministerium für Digitales und Staatsmodernisierung), Einzelplan 16 (Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit) sowie Einzelplan 15 (Bundesministerium für Gesundheit). Abgeordnete verschiedener Fraktionen wie AfD, SPD, BÜNDNIS 90/DIE GRÜNEN, CDU/CSU und Die Linke trugen zu den Beratungen bei und äußerten sich zu Budgetzuteilungen und politischen Ausrichtungen der jeweiligen Ministerien. Bundesminister Lars Klingbeil (BMF) und Staatsministerin Elisabeth Kaiser (BMF), sowie Carsten Schneider (BMUKN) und Dr. Karsten Wildberger (BMDS) brachten die Perspektiven der Bundesregierung ein. Die Sitzung beinhaltete auch die zweite Beratung eines Entwurfs eines Haushaltsbegleitgesetzes 2027. Innerhalb der Einzelpläne fanden spezifische Debatten statt, unter anderem mit Dr. Michael Espendiller (AfD) und Dr. Thorsten Rudolph (SPD) zum Haushaltsbegleitgesetz, sowie mit Sergej Minich (AfD) und Ricarda Lang (BÜNDNIS 90/DIE GRÜNEN) zum Einzelplan des Bundesministeriums für Digitales.",
-    "summary_easy": "Am Dienstag, dem 24. November 2026, war der Deutsche Bundestag zu seiner 110. Sitzung zusammengekommen. Ein neuer Abgeordneter, Dr. Felix Winter, wurde begrüßt. Das wichtigste Thema war der Bundeshaushalt für das Jahr 2027. Der Bundestag sprach auch über die Pläne für die Staatsfinanzen bis zum Jahr 2030. Es gab Debatten über die Budgets vieler Ministerien. Dazu gehörten das Finanzministerium, das Ministerium für Digitales und das Umweltministerium. Abgeordnete verschiedener Parteien diskutierten über Geld und Pläne. Minister gaben dazu Auskunft. Es gab auch ein Gesetz, das den Haushalt unterstützt. Abgeordnete von AfD, SPD, Grünen, CDU/CSU und Linke sprachen zu den Themen.",
+    "sitzung": 111,
+    "url": "https://dserver.bundestag.de/btp/21/21111.pdf",
+    "summary_en": "On Wednesday, November 25, 2026, the German Bundestag held its 111th session of the 21st legislative period. The session began with commemorative remarks for Orange Day. Following birthday wishes for Vice President Josephine Ortleb and MP Dr. Irene Mihalic, the agenda was expanded. The primary focus was the second reading of the draft budget law for 2027 (Haushaltsgesetz 2027). Several MPs debated the budget, including Dr. Wiebke Esdar (SPD), Andreas Audretsch (BÜNDNIS 90/DIE GRÜNEN), Sören Pellmann (Die Linke), Alexander Hoffmann (CDU/CSU), Martin Erwin Renner (AfD), Tim Klüssendorf (SPD), Dr. Anton Hofreiter (BÜNDNIS 90/DIE GRÜNEN), and Dr. Gregor Gysi (Die Linke). The session also included a discussion on the Federal Financial Plan 2026-2030, with contributions from Kerstin Radomski (CDU/CSU), Jörn König (AfD), Sonja Eichwede (SPD), Leon Eckert (BÜNDNIS 90/DIE GRÜNEN), Christian Görke (Die Linke), Dr. Wolfram Weimer (Staatsminister BK), Wolfgang Wiehle (AfD), Martin Rabanus (SPD), Awet Tesfaiesus (BÜNDNIS 90/DIE GRÜNEN), Tino Chrupalla (AfD), Stephan Mayer (CDU/CSU), Friedrich Merz (Bundeskanzler), Ronald Gläser (AfD), Britta Haßelmann (BÜNDNIS 90/DIE GRÜNEN), Dr. Matthias Miersch (SPD), Heidi Reichinnek (Die Linke), Frauke Heiligenstadt (SPD), Lars Schieske (AfD), Stefan Seidler (fraktionslos), Thorsten Frei (CDU/CSU), and Bettina Lugk (SPD). Debates continued on individual budget plans, including the Federal Ministry of Foreign Affairs (Einzelplan 05) and the Federal Ministry of Defence (Einzelplan 14), with numerous MPs from various parties participating. A nominal vote was held, with the results to be announced. Additionally, an objection to a disciplinary measure was raised.",
+    "summary_de": "Am Mittwoch, den 25. November 2026, fand die 111. Sitzung des Deutschen Bundestages der 21. Wahlperiode statt. Die Sitzung begann mit Gedenkworten anlässlich des Orange Day. Nach Glückwünschen zum Geburtstag der Vizepräsidentin Josephine Ortleb und der Abgeordneten Dr. Irene Mihalic wurde die Tagesordnung erweitert. Hauptpunkt war die zweite Beratung des Entwurfs eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2027 (Haushaltsgesetz 2027). Mehrere Abgeordnete diskutierten den Haushalt, darunter Dr. Wiebke Esdar (SPD), Andreas Audretsch (BÜNDNIS 90/DIE GRÜNEN), Sören Pellmann (Die Linke), Alexander Hoffmann (CDU/CSU), Martin Erwin Renner (AfD), Tim Klüssendorf (SPD), Dr. Anton Hofreiter (BÜNDNIS 90/DIE GRÜNEN) und Dr. Gregor Gysi (Die Linke). Die Sitzung umfasste auch die Beratung des Finanzplans des Bundes 2026 bis 2030 mit Beiträgen von Kerstin Radomski (CDU/CSU), Jörn König (AfD), Sonja Eichwede (SPD), Leon Eckert (BÜNDNIS 90/DIE GRÜNEN), Christian Görke (Die Linke), Dr. Wolfram Weimer (Staatsminister BK), Wolfgang Wiehle (AfD), Martin Rabanus (SPD), Awet Tesfaiesus (BÜNDNIS 90/DIE GRÜNEN), Tino Chrupalla (AfD), Stephan Mayer (CDU/CSU), Friedrich Merz (Bundeskanzler), Ronald Gläser (AfD), Britta Haßelmann (BÜNDNIS 90/DIE GRÜNEN), Dr. Matthias Miersch (SPD), Heidi Reichinnek (Die Linke), Frauke Heiligenstadt (SPD), Lars Schieske (AfD), Stefan Seidler (fraktionslos), Thorsten Frei (CDU/CSU) und Bettina Lugk (SPD). Die Debatten setzten sich mit Einzelplänen fort, darunter der Einzelplan 04 (Bundeskanzler und Bundeskanzleramt), Einzelplan 22 (Unabhängiger Kontrollrat), Einzelplan 05 (Auswärtiges Amt) und Einzelplan 14 (Bundesministerium der Verteidigung) sowie Einzelplan 23 (Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung), an denen zahlreiche Abgeordnete verschiedener Fraktionen beteiligt waren. Eine namentliche Abstimmung fand statt, deren Ergebnis noch verkündet wird. Zudem wurde Einspruch gegen eine Ordnungsmaßnahme erhoben.",
+    "summary_easy": "Der Bundestag hatte am 25. November 2026 eine Sitzung. Zuerst gab es eine Gedenkminute für den Orange Day. Dann wünschte man Geburtstag. Danach sprach man über den Bundeshaushalt für 2027. Viele Politiker redeten über das Geld. Sie diskutierten, wofür das Geld ausgegeben werden soll. Es ging um verschiedene Ministerien. Zum Beispiel das Außenministerium und das Verteidigungsministerium. Politiker von SPD, Grünen, Linken, CDU und AfD sprachen. Es gab eine Abstimmung. Das Ergebnis wird später bekannt gegeben. Ein Politiker legte Widerspruch ein.",
     "ukrainian_men": "Kein Thema in dieser Sitzung."
   },
   "facts": [
     {
-      "fact_en": "During the Renaissance, sumptuary laws dictated what fabrics, colors, and styles people of different social classes could wear. These laws were designed to maintain social hierarchy by preventing lower classes from dressing above their station, and violations could lead to fines or even confiscation of clothing.",
-      "fact_de": "Während der Renaissance schrieben Kleiderordnungen vor, welche Stoffe, Farben und Stile Menschen verschiedener sozialer Schichten tragen durften. Diese Gesetze sollten die soziale Hierarchie aufrechterhalten, indem sie niederen Schichten daran hinderten, sich besser als ihr Stand zu kleiden, und Verstöße konnten zu Geldstrafen oder sogar zur Beschlagnahmung von Kleidung führen.",
-      "fact_easy": "Im Mittelalter gab es Regeln für Kleidung. Nur bestimmte Leute durften bestimmte Farben oder Stoffe tragen. Diese Regeln zeigten, wer reich oder arm war.",
+      "fact_en": "During the Tang Dynasty in China (618-907 CE), women wore elaborate makeup featuring powdered white faces, rouged cheeks, and painted eyebrows, often in fashionable crescent moon shapes.  Sometimes, decorative patterns were applied to the forehead and cheeks, creating a truly artistic facial canvas.",
+      "fact_de": "Während der Tang-Dynastie in China (618-907 n. Chr.) trugen Frauen aufwendiges Make-up mit gepuderten weißen Gesichtern, Rouge auf den Wangen und gemalten Augenbrauen, oft in modischen Halbmondformen. Manchmal wurden dekorative Muster auf Stirn und Wangen aufgetragen, was eine wahrlich künstlerische Gesichtsleinwand schuf.",
+      "fact_easy": "In China trugen Frauen früher schönes Make-up. Sie malten ihre Gesichter weiß und die Wangen rot. Auch die Augenbrauen waren schön bemalt.",
       "category": "Fashion",
-      "source_title": "Sumptuary Laws - Wikipedia",
-      "source_url": "https://en.wikipedia.org/wiki/Sumptuary_law"
+      "source_title": "Tang Dynasty Makeup - China",
+      "source_url": "https://www.metmuseum.org/art/collection/search/37010"
     },
     {
-      "fact_en": "The Olympic Games, originally held in ancient Greece, were deeply intertwined with religious festivals honoring Zeus. Athletes competed naked as a tribute to the gods and to demonstrate their physical perfection, and the games were seen as a way to foster unity among the Greek city-states.",
-      "fact_de": "Die Olympischen Spiele, die ursprünglich im antiken Griechenland stattfanden, waren eng mit religiösen Festen zu Ehren von Zeus verbunden. Athleten traten nackt an als Tribut an die Götter und um ihre körperliche Vollkommenheit zu zeigen, und die Spiele wurden als Mittel zur Förderung der Einheit zwischen den griechischen Stadtstaaten angesehen.",
-      "fact_easy": "Die alten Olympischen Spiele waren auch religiös. Sie waren für den Gott Zeus. Sportler kämpften nackt. Das sollte den Göttern gefallen.",
-      "category": "Traditions",
-      "source_title": "Ancient Olympic Games - History",
-      "source_url": "https://www.history.com/topics/ancient-greece/ancient-olympics"
+      "fact_en": "In ancient Rome, purple dye, known as Tyrian purple, was incredibly expensive and reserved for royalty and high-ranking officials. Its production involved crushing thousands of sea snails, making it a symbol of power, wealth, and status.",
+      "fact_de": "Im alten Rom war lila Farbe, bekannt als Purpur, unglaublich teuer und für Könige und hochrangige Beamte reserviert. Ihre Herstellung erforderte das Zerquetschen Tausender Meeresschnecken, was sie zu einem Symbol für Macht, Reichtum und Status machte.",
+      "fact_easy": "Früher war lila Farbe sehr teuer in Rom. Nur reiche und wichtige Leute durften sie tragen. Man machte die Farbe aus vielen Schnecken.",
+      "category": "Fashion",
+      "source_title": "Tyrian purple - Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Tyrian_purple"
     }
   ],
   "frankfurt": {
@@ -332,80 +464,80 @@
       {
         "type": "Events",
         "emoji": "🎪",
-        "headline_en": "EU Drug Production Rules and Eintracht Frankfurt Player's Absence",
-        "headline_de": "EU-Medikamentenregeln und Absage von Eintracht-Spielerin",
-        "headline_easy": "Neue Regeln für Medikamente in Europa und eine Fußballspielerin sagt ab.",
-        "summary_en": "The EU is implementing new regulations to encourage drug production within Europe, though experts suggest improving business conditions for pharmaceutical companies would be more effective. Separately, Eintracht Frankfurt striker Laura Freigang has canceled her international matches due to a cold.",
-        "summary_de": "Die EU führt neue Regeln ein, um die Medikamentenproduktion in Europa zu fördern, wobei Experten eine Verbesserung der Standortbedingungen als effektiver ansehen. Außerdem hat Eintracht-Frankfurt-Stürmerin Laura Freigang wegen einer Erkältung ihre Länderspiele abgesagt.",
-        "summary_easy": "Die EU will mehr Medikamente in Europa machen. Aber es ist besser, wenn Firmen hier gut arbeiten können. Eine Fußballspielerin von Eintracht Frankfurt ist krank und spielt nicht für Deutschland.",
+        "headline_en": "Galicia's Unexpected Charm and Frankfurt's EuroGames Preparations",
+        "headline_de": "Galiciens unerwartierter Charme und Frankfurts EuroGames-Vorbereitungen",
+        "headline_easy": "Galizien ist schön und Frankfurt bereitet sich auf Spiele vor",
+        "summary_en": "An author discovers the unexpected beauty of Galicia, previously unappealing to her. Meanwhile, Frankfurt is gearing up to host the 2028 EuroGames, with organizers already planning for the safety of queer athletes.",
+        "summary_de": "Eine Autorin entdeckt die unerwartete Schönheit Galiciens, die sie zuvor nicht ansprach. Gleichzeitig bereitet sich Frankfurt auf die Austragung der EuroGames 2028 vor, und die Organisatoren planen bereits die Sicherheit queerer Athleten.",
+        "summary_easy": "Eine Frau mag Galizien jetzt. Es ist schön dort. Frankfurt hat bald die EuroGames. Das sind Spiele für queere Menschen. Die Organisatoren wollen, dass alle sicher sind.",
         "links": [
           {
-            "title": "Wer Medikamente aus Europa will, muss die Standortbedingungen verbessern",
-            "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/wer-medikamente-aus-europa-will-muss-die-standortbedingungen-verbessern-201712702.html"
+            "title": "Spanien, aber anders: Galicien reizte unsere Autorin kein bisschen – bis sie dort war",
+            "url": "https://www.brigitte.de/leben/reise/spanien--aber-anders--galicien-reizte-unsere-autorin-null---bis-sie-dort-war-14118576.html"
           },
           {
-            "title": "Laura Freigang von Eintracht Frankfurt sagt Länderspiele ab",
-            "url": "https://www.bild.de/sport/fussball/laura-freigang-von-eintracht-frankfurt-sagt-laenderspiele-ab-6b058a3fd4a4a3142c570fbc"
+            "title": "EuroGames: Wie können queere Sportler geschützt werden?",
+            "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/eurogames-2028-in-frankfurt-wie-koennen-queere-sportler-geschuetzt-werden-200944041.html"
           }
         ]
       },
       {
         "type": "Crime",
         "emoji": "🚔",
-        "headline_en": "Youth Arrested for Businessman's Death in Frankfurt; University Hospital Faces Cuts",
-        "headline_de": "Jugendliche in Frankfurt wegen Tötung eines Geschäftsmannes festgenommen; Uniklinik Frankfurt steht vor Sparprogramm",
-        "headline_easy": "Junge Leute verhaften, weil sie einen Mann getötet haben sollen. Das Krankenhaus muss sparen.",
-        "summary_en": "Two teenagers have been arrested in Hessen in connection with the fatal assault of a 38-year-old businessman in Frankfurt in mid-October. Meanwhile, the University Hospital Frankfurt is facing significant cuts and fundamental changes due to necessary austerity measures.",
-        "summary_de": "In Hessen wurden zwei Jugendliche festgenommen, die beschuldigt werden, Mitte Oktober einen 38-jährigen Geschäftsmann in Frankfurt getötet zu haben. Gleichzeitig stehen dem Universitätsklinikum Frankfurt einschneidende Veränderungen und ein straffes Sparprogramm bevor.",
-        "summary_easy": "Zwei junge Leute sollen einen Mann in Frankfurt getötet haben. Sie wurden jetzt gefasst. Das große Krankenhaus in Frankfurt muss Geld sparen. Es wird dort viele Änderungen geben.",
+        "headline_en": "Dresden-Frankfurt Dance Company Faces Funding Cuts; Debate on Women's Protection Laws Intensifies",
+        "headline_de": "Dresden-Frankfurt Dance Company kämpft mit Finanzierungskürzungen; Debatte über Gewaltschutzgesetze für Frauen intensiviert sich",
+        "headline_easy": "Tanzkompanie braucht Hilfe; Gesetze zum Schutz von Frauen haben Lücken",
+        "summary_en": "The Dresden Frankfurt Dance Company faces funding withdrawal from Dresden and Saxony, leaving Frankfurt to find a solution. Separately, the proposed Violence Protection Act for Hessen is criticized for its gaps in protecting women victims of domestic violence.",
+        "summary_de": "Die Dresden Frankfurt Dance Company sieht sich mit Finanzierungskürzungen durch Dresden und Sachsen konfrontiert, was Frankfurt vor eine Herausforderung stellt. Gleichzeitig wird das geplante Gewalthilfegesetz für Hessen wegen Lücken beim Schutz von Frauen kritisiert.",
+        "summary_easy": "Dresden gibt kein Geld mehr für die Tanzkompanie. Frankfurt muss jetzt helfen. Ein neues Gesetz soll Frauen schützen. Aber das Gesetz ist noch nicht gut genug. Es gibt Lücken.",
         "links": [
           {
-            "title": "Festnahmen in Hessen: Zwei Jugendliche sollen Geschäftsmann in Frankfurt getötet haben",
-            "url": "https://www.tagesspiegel.de/gesellschaft/panorama/festnahmen-in-hessen-zwei-jugendliche-sollen-geschaftsmann-in-frankfurt-getotet-haben-16319525.html"
+            "title": "Kompanie Ohne Dresden: Frankfurt steht mit der Dance Company jetzt allein da",
+            "url": "https://www.faz.net/aktuell/feuilleton/debatten/dresden-frankfurt-dance-company-sachsen-steigt-aus-der-finanzierung-aus-201715643.html"
           },
           {
-            "title": "Uniklinik Frankfurt: Warum das Sparprogramm nötig ist",
-            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/uniklinik-frankfurt-warum-das-sparprogramm-noetig-ist-201709318.html"
+            "title": "Gewalthilfegesetz: Kritik an Lücken beim Schutz für Frauen",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/gewalt-gegen-frauen-wie-wird-in-hessen-geholfen-accg-201712704.html"
           }
         ]
       },
       {
         "type": "Sales & Offers",
         "emoji": "🛍️",
-        "headline_en": "No specific sales or offers reported; Crime and City News Prevail",
-        "headline_de": "Keine spezifischen Angebote gemeldet; Kriminalität und Stadt-Nachrichten dominieren",
-        "headline_easy": "Keine Angebote. Es gibt Nachrichten über Verbrechen und die Stadt.",
-        "summary_en": "This section contains no specific sales or offers. The dominant news includes arrests related to a homicide in Frankfurt and the financial challenges facing the University Hospital Frankfurt, necessitating an austerity program.",
-        "summary_de": "In diesem Abschnitt gibt es keine spezifischen Angebote. Die dominierenden Nachrichten umfassen Festnahmen im Zusammenhang mit einem Tötungsdelikt in Frankfurt und die finanziellen Herausforderungen des Universitätsklinikums Frankfurt, die ein Sparprogramm erfordern.",
-        "summary_easy": "Es gibt keine Informationen über Angebote oder Verkäufe. Die wichtigen Nachrichten handeln von einem Mordfall in Frankfurt und von Geldproblemen im Krankenhaus. Das Krankenhaus muss sparen.",
+        "headline_en": "Financial Uncertainty for Dance Company; Women's Protection Law Under Scrutiny",
+        "headline_de": "Finanzielle Unsicherheit für Tanzkompanie; Schutzgesetz für Frauen unter Beobachtung",
+        "headline_easy": "Tanzkompanie braucht Geld; Neues Gesetz für Frauen ist nicht perfekt",
+        "summary_en": "The Dresden Frankfurt Dance Company faces a funding crisis as Dresden and Saxony withdraw their support, requiring Frankfurt to find a solution. Meanwhile, legislative proposals for enhanced protection of women victims of domestic violence in Hessen are being criticized for insufficient measures.",
+        "summary_de": "Die Dresden Frankfurt Dance Company steht vor einer Finanzierungskrise, da Dresden und Sachsen ihre Unterstützung zurückziehen, was Frankfurt zur Lösungsfindung zwingt. Unterdessen werden Gesetzesvorschläge zum verbesserten Schutz von Frauen vor häuslicher Gewalt in Hessen wegen unzureichender Maßnahmen kritisiert.",
+        "summary_easy": "Die Tanzkompanie hat Probleme mit Geld. Dresden und Sachsen helfen nicht mehr. Frankfurt muss eine Lösung finden. Ein neues Gesetz soll Frauen helfen. Aber das Gesetz ist noch nicht gut. Es gibt noch Lücken.",
         "links": [
           {
-            "title": "Festnahmen in Hessen: Zwei Jugendliche sollen Geschäftsmann in Frankfurt getötet haben",
-            "url": "https://www.tagesspiegel.de/gesellschaft/panorama/festnahmen-in-hessen-zwei-jugendliche-sollen-geschaftsmann-in-frankfurt-getotet-haben-16319525.html"
+            "title": "Kompanie Ohne Dresden: Frankfurt steht mit der Dance Company jetzt allein da",
+            "url": "https://www.faz.net/aktuell/feuilleton/debatten/dresden-frankfurt-dance-company-sachsen-steigt-aus-der-finanzierung-aus-201715643.html"
           },
           {
-            "title": "Uniklinik Frankfurt: Warum das Sparprogramm nötig ist",
-            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/uniklinik-frankfurt-warum-das-sparprogramm-noetig-ist-201709318.html"
+            "title": "Gewalthilfegesetz: Kritik an Lücken beim Schutz für Frauen",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/gewalt-gegen-frauen-wie-wird-in-hessen-geholfen-accg-201712704.html"
           }
         ]
       },
       {
         "type": "Local News",
         "emoji": "📍",
-        "headline_en": "Homicide Investigation, Hospital Austerity, and Christmas Market Opening",
-        "headline_de": "Ermittlung wegen Tötungsdelikt, Sparprogramm im Krankenhaus und Weihnachtsmarkt-Eröffnung",
-        "headline_easy": "Mordfall, Krankenhaus spart, Weihnachtsmarkt ist offen.",
-        "summary_en": "Two teenagers have been arrested in Hessen on suspicion of killing a 38-year-old businessman in Frankfurt in mid-October. The University Hospital Frankfurt is preparing for significant cuts and changes as part of a necessary austerity program. Additionally, the Frankfurt Christmas market has officially opened.",
-        "summary_de": "Zwei Jugendliche wurden in Hessen festgenommen, die verdächtigt werden, Mitte Oktober einen 38-jährigen Geschäftsmann in Frankfurt getötet zu haben. Das Universitätsklinikum Frankfurt steht aufgrund eines notwendigen Sparprogramms vor einschneidenden Veränderungen. Zudem wurde der Frankfurter Weihnachtsmarkt eröffnet.",
-        "summary_easy": "Zwei junge Leute sollen einen Mann in Frankfurt getötet haben. Sie wurden verhaftet. Das Krankenhaus in Frankfurt muss Geld sparen und wird sich ändern. Der Weihnachtsmarkt in Frankfurt hat jetzt geöffnet.",
+        "headline_en": "Dance Company's Future Uncertain; Critiques of Women's Protection Law",
+        "headline_de": "Zukunft der Tanzkompanie ungewiss; Kritik am Frauenschutzgesetz",
+        "headline_easy": "Tanzkompanie braucht Hilfe; Gesetz für Frauen ist nicht gut genug",
+        "summary_en": "The Dresden Frankfurt Dance Company is left solely to Frankfurt's support after Dresden and Saxony cut their funding. Concurrently, proposed legislation in Hessen aimed at protecting victims of domestic violence is facing criticism for its shortcomings.",
+        "summary_de": "Die Dresden Frankfurt Dance Company ist nach Finanzierungskürzungen durch Dresden und Sachsen auf die Unterstützung Frankfurts angewiesen. Parallel dazu wird ein Gesetzesentwurf in Hessen zum Schutz von Opfern häuslicher Gewalt wegen Mängeln kritisiert.",
+        "summary_easy": "Dresden und Sachsen zahlen nicht mehr für die Tanzkompanie. Frankfurt muss jetzt alleine helfen. Ein neues Gesetz soll Frauen besser schützen. Aber das Gesetz hat Fehler. Es braucht Verbesserungen.",
         "links": [
           {
-            "title": "Festnahmen in Hessen: Zwei Jugendliche sollen Geschäftsmann in Frankfurt getötet haben",
-            "url": "https://www.tagesspiegel.de/gesellschaft/panorama/festnahmen-in-hessen-zwei-jugendliche-sollen-geschaftsmann-in-frankfurt-getotet-haben-16319525.html"
+            "title": "Kompanie Ohne Dresden: Frankfurt steht mit der Dance Company jetzt allein da",
+            "url": "https://www.faz.net/aktuell/feuilleton/debatten/dresden-frankfurt-dance-company-sachsen-steigt-aus-der-finanzierung-aus-201715643.html"
           },
           {
-            "title": "Uniklinik Frankfurt: Warum das Sparprogramm nötig ist",
-            "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/uniklinik-frankfurt-warum-das-sparprogramm-noetig-ist-201709318.html"
+            "title": "Gewalthilfegesetz: Kritik an Lücken beim Schutz für Frauen",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/gewalt-gegen-frauen-wie-wird-in-hessen-geholfen-accg-201712704.html"
           }
         ]
       }
