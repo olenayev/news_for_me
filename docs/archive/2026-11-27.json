@@ -1,0 +1,503 @@
+{
+  "date": "Friday, November 27 2026",
+  "sections": [
+    {
+      "category": "Germany",
+      "emoji": "🇩🇪",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "German Athlete Banned from Women's World Cup Due to Doping",
+          "headline_de": "Deutsche Athletin wegen Doping von Frauen-WM ausgeschlossen",
+          "headline_easy": "Eine Sportlerin aus Deutschland darf nicht bei der WM spielen. Sie hat Doping genommen.",
+          "summary_en": "A German athlete, Freigang, will miss the Women's World Cup due to a doping ban. This news comes as other international headlines cover political shifts in Spain and Black Friday deals.",
+          "summary_de": "Die deutsche Sportlerin Freigang verpasst die Frauen-Weltmeisterschaft wegen einer Dopingsperre. Diese Nachricht kommt, während andere internationale Schlagzeilen politische Veränderungen in Spanien und Black Friday-Angebote behandeln.",
+          "summary_easy": "Freigang ist eine Sportlerin aus Deutschland. Sie darf nicht bei der WM mitmachen. Grund ist Doping.",
+          "links": [
+            {
+              "title": "Germany's Freigang to miss women's World Cup due do doping ban",
+              "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:261126-930-55043/"
+            },
+            {
+              "title": "adidas Collaboration Black Friday Deals: Up to 60% off + extra 15% off select styles + Free shipping",
+              "url": "https://www.dealnews.com/adidas-Collaboration-Black-Friday-Deals-Up-to-60-off-extra-15-off-select-styles-Free-shipping/22434004.html"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Europe's Economic Sovereignty Lacks Action, ECB Meeting Minutes Released",
+          "headline_de": "Europas Wirtschaftssouveränität fehlt es an Handeln, EZB-Protokoll veröffentlicht",
+          "headline_easy": "Europa spricht viel über seine Wirtschaft. Aber es passiert nicht viel. Die EZB hat ein Treffen gehabt.",
+          "summary_en": "A report indicates that Europe's economic sovereignty is more talk than action, while minutes from an ECB meeting on October 28-29, 2026, have been released. Another article discusses the concept of 'The Word Made Flesh'.",
+          "summary_de": "Ein Bericht deutet darauf hin, dass Europas Wirtschaftssouveränität eher Gerede als Tat ist, während die Protokolle einer EZB-Sitzung vom 28.-29. Oktober 2026 veröffentlicht wurden. Ein weiterer Artikel befasst sich mit dem Konzept von 'The Word Made Flesh'.",
+          "summary_easy": "Europa hat Probleme mit seiner Wirtschaft. Es gibt wenig Ergebnisse. Die Europäische Zentralbank hat darüber gesprochen.",
+          "links": [
+            {
+              "title": "Europe’s Economic Sovereignty Is All Talk and Little Action",
+              "url": "https://foreignpolicy.com/2026/11/26/eu-europe-economic-security-sovereignty-derisking-decoupling-dependence-united-states-china/"
+            },
+            {
+              "title": "Meeting of 28-29 October 2026",
+              "url": "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Europe",
+      "emoji": "🇪🇺",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Europe Works to Rebuild Vaccine Trust Amid Resurging Childhood Diseases",
+          "headline_de": "Europa arbeitet daran, das Vertrauen in Impfstoffe wieder aufzubauen, während Kinderkrankheiten wiederkehren",
+          "headline_easy": "Kinder werden wieder krank. Europa will, dass die Leute wieder Impfungen vertrauen.",
+          "summary_en": "Europe is focusing on rebuilding public trust in vaccines as childhood diseases make a comeback. This is reported alongside news of a Python package update and international reactions to US tariff plans.",
+          "summary_de": "Europa konzentriert sich auf den Wiederaufbau des öffentlichen Vertrauens in Impfstoffe, da Kinderkrankheiten wiederkehren. Dies wird neben Nachrichten über ein Python-Paket-Update und internationale Reaktionen auf US-Tarifpläne berichtet.",
+          "summary_easy": "Manche Kinderkrankheiten kommen zurück. Europa möchte, dass mehr Menschen Impfungen vertrauen. Es gab auch andere Nachrichten.",
+          "links": [
+            {
+              "title": "As childhood diseases return, Europe works to rebuild vaccine trust [Partner Content]",
+              "url": "https://biztoc.com/x/4d3de97a8de7847e"
+            },
+            {
+              "title": "wattnet-client added to PyPI",
+              "url": "https://pypi.org/project/wattnet-client/"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "International Trade Tensions Rise as China and Allies Respond to US Tariffs",
+          "headline_de": "Internationale Handelsspannungen nehmen zu, da China und Verbündete auf US-Zölle reagieren",
+          "headline_easy": "China und andere Länder mögen die neuen US-Zölle nicht. Sie sind dagegen.",
+          "summary_en": "China and other US trading partners are pushing back against new US tariff plans, indicating rising international trade tensions. Meanwhile, a Python package has been updated, and Europe is working to restore confidence in vaccines.",
+          "summary_de": "China und andere Handelspartner der USA wehren sich gegen neue US-Tarifpläne, was auf zunehmende internationale Handelsspannungen hindeutet. Inzwischen wurde ein Python-Paket aktualisiert, und Europa arbeitet daran, das Vertrauen in Impfstoffe wiederherzustellen.",
+          "summary_easy": "Die USA haben neue Zölle. China und andere Länder sind dagegen. Das macht Probleme im Handel.",
+          "links": [
+            {
+              "title": "China and other U.S. trading partners hit back at Trump's new tariff plans",
+              "url": "https://abcnews.com/Business/wireStory/china-us-trading-partners-hit-back-trumps-new-138464214"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Uncertainty and a Project Update Highlight European News",
+          "headline_de": "Unsicherheit und Projekt-Update kennzeichnen europäische Nachrichten",
+          "headline_easy": "Es gibt neue Nachrichten aus Europa. Ein Projekt wurde aktualisiert. Die Lage ist manchmal unsicher.",
+          "summary_en": "Current European news includes a project update for 'wattnet-client' and a piece on rebuilding vaccine trust amidst resurgent childhood diseases. There's also a mention of positive developments for Cherries fans.",
+          "summary_de": "Aktuelle europäische Nachrichten umfassen ein Projekt-Update für 'wattnet-client' und einen Artikel über den Wiederaufbau des Vertrauens in Impfstoffe inmitten wiederkehrender Kinderkrankheiten. Es gibt auch eine Erwähnung positiver Entwicklungen für Cherries-Fans.",
+          "summary_easy": "Es gibt neue Nachrichten aus Europa. Ein wichtiges Update ist da. Manche Menschen freuen sich über gute Neuigkeiten.",
+          "links": [
+            {
+              "title": "It is 'getting better and better' for Cherries fans",
+              "url": "https://www.bbc.com/news/articles/c8y5xpy54qv2o"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Global Stocks Rise as US Markets Close for Thanksgiving; Tariffs Draw Pushback",
+          "headline_de": "Globale Aktien steigen, während US-Märkte wegen Thanksgiving schließen; Zölle stoßen auf Widerstand",
+          "headline_easy": "Die Aktienmärkte weltweit steigen. Die USA haben Thanksgiving. Andere Länder kritisieren die US-Zölle.",
+          "summary_en": "Global stock markets are experiencing a rise, particularly tech shares, as US markets observe Thanksgiving. Meanwhile, China and US allies are pushing back against the latest round of White House tariffs. A report also discusses Europe's economic sovereignty.",
+          "summary_de": "Die globalen Aktienmärkte steigen, insbesondere Technologiewerte, während die US-Märkte Thanksgiving begehen. Unterdessen wehren sich China und US-Verbündete gegen die jüngste Runde von Weißhaus-Zöllen. Ein Bericht befasst sich auch mit der wirtschaftlichen Souveränität Europas.",
+          "summary_easy": "Die Börsen weltweit sind gut. Die USA feiern Thanksgiving. China und seine Freunde mögen die neuen Zölle nicht.",
+          "links": [
+            {
+              "title": "Global stocks rise and tech shares rebound as US closes for Thanksgiving",
+              "url": "https://abcnews.com/Business/wireStory/global-stocks-rise-tech-shares-rebound-us-closes-138462620"
+            },
+            {
+              "title": "China, U.S. allies push back on latest round of White House tariffs",
+              "url": "https://www.cbc.ca/news/world/us-excess-capacity-tariffs-reaction-9.7436782"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "US",
+      "emoji": "🇺🇸",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Logan Paul's WWE Return Date Set; China's AI Chip Market Growth and Tariffs Also in Focus",
+          "headline_de": "Logan Pauls WWE-Rückkehrdatum steht fest; Chinas KI-Chipmarkt-Wachstum und Zölle ebenfalls im Fokus",
+          "headline_easy": "Logan Paul kommt zurück zum WWE. Huawei macht bessere Chips für KI. Die USA haben neue Zölle.",
+          "summary_en": "The return date for Logan Paul's WWE comeback at Madison Square Garden has been announced. Meanwhile, Huawei is poised to grow China's AI chip market, and trade tensions are rising as China and other US partners react to new tariffs.",
+          "summary_de": "Das Rückkehrdatum für Logan Pauls WWE-Comeback im Madison Square Garden wurde bekannt gegeben. Unterdessen ist Huawei bereit, Chinas KI-Chipmarkt auszubauen, und die Handelsspannungen nehmen zu, da China und andere US-Partner auf neue Zölle reagieren.",
+          "summary_easy": "Logan Paul wird bald wieder beim WWE kämpfen. China entwickelt neue Chips. Es gibt auch Ärger wegen neuer US-Zölle.",
+          "links": [
+            {
+              "title": "When will Logan Paul return to WWE? Madison Square Garden finally sets date for his in-ring comeback",
+              "url": "https://timesofindia.indiatimes.com/sports/wwe/top-stories/when-will-logan-paul-return-to-wwe-madison-square-garden-finally-sets-date-for-his-in-ring-comeback/articleshow/136193374.cms"
+            },
+            {
+              "title": "Huawei Poised To Grow China’s AI Chip Market With A Next-Generation HBM Design With Double The Data Pin Density To Surpass Bandwidth Limitations",
+              "url": "https://wccftech.com/huawei-poised-to-grow-chinas-ai-chip-market-next-generation-hbm-design-double-data-pin-density/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Asia",
+      "emoji": "🌏",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Malware Alert for Food App; Semiconductor Exports Surge; China's Chip Market Focus",
+          "headline_de": "Malware-Warnung für Essens-App; Halbleiterexporte steigen; Fokus auf Chinas Chipmarkt",
+          "headline_easy": "Eine App für Essen ist unsicher. Die Exporte von Chips sind wichtig. China macht gute Chips.",
+          "summary_en": "Apple has flagged the Wukong food delivery app as malware due to its screenshot scanning capabilities. In economic news, semiconductor exports have surpassed oil and gas for the first time, and there's a focus on China's AI chip market amidst US policy changes.",
+          "summary_de": "Apple hat die Essensliefer-App Wukong wegen ihrer Screenshot-Scanfunktionen als Malware eingestuft. In Wirtschaftsnachrichten haben die Halbleiterexporte zum ersten Mal Öl und Gas übertroffen, und es gibt einen Fokus auf Chinas KI-Chipmarkt inmitten von US-Politikänderungen.",
+          "summary_easy": "Eine App für Essen warnt vor Problemen. Man kann sie nicht mehr sicher benutzen. Es gibt auch Nachrichten über Technik und Handel.",
+          "links": [
+            {
+              "title": "Apple flags Wukong food delivery app as malware for scanning screenshots",
+              "url": "https://cryptobriefing.com/apple-flags-wukong-app-malware-screenshots/"
+            },
+            {
+              "title": "US closed cloud loophole for China. Now Nvidia’s B300 GPUs are on sale. Who’s buying? What changes for global market?",
+              "url": "https://www.livemint.com/companies/us-closed-cloud-loophole-for-china-now-nvidia-s-b300-gpus-are-on-sale-who-s-buying-what-changes-for-global-market-11795691475319.html"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Semiconductor Exports Lead Asian Growth; China's Chip Market and US Trade Policies Under Scrutiny",
+          "headline_de": "Halbleiterexporte führen das asiatische Wachstum an; Chinas Chipmarkt und US-Handelspolitik unter Beobachtung",
+          "headline_easy": "Asien verkauft viele Chips. Das ist gut für das Geschäft. China und die USA haben Probleme wegen Zöllen.",
+          "summary_en": "Asia's economic landscape is being shaped by a surge in semiconductor exports, which have now surpassed oil and gas revenues. Concerns are also raised about China's AI chip market and the implications of US trade policies.",
+          "summary_de": "Asiens Wirtschaftslandschaft wird von einem Anstieg der Halbleiterexporte geprägt, die inzwischen die Einnahmen aus Öl und Gas übertroffen haben. Bedenken werden auch hinsichtlich des KI-Chipmarktes Chinas und der Auswirkungen der US-Handelspolitik geäußert.",
+          "summary_easy": "Asien verdient viel Geld mit Computer-Chips. Das ist wichtig für die Wirtschaft. Die USA und China haben Handelsprobleme.",
+          "links": [
+            {
+              "title": "Semiconductor exports overtake oil and gas for the first time, Deutsche Bank says",
+              "url": "https://cryptobriefing.com/semiconductor-exports-surpass-oil-deutsche-bank/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "World",
+      "emoji": "🌍",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Entertainment and Quirky News Round-Up: Lord of the Rings Characters, Turkey Encounters, and NFL Games",
+          "headline_de": "Unterhaltung und skurrile Nachrichten: Herr der Ringe-Charaktere, Truthahn-Begegnungen und NFL-Spiele",
+          "headline_easy": "Es gibt Listen über Filme. Ein Mann wurde von Truthähnen gejagt. Man kann NFL-Spiele sehen.",
+          "summary_en": "This week's eclectic world news includes a ranking of the smartest characters in The Lord of the Rings movies, a bizarre encounter with wild turkeys in Massachusetts, and information on how to watch the 2026 NFL Thanksgiving games.",
+          "summary_de": "Die vielseitigen Weltnachrichten dieser Woche umfassen eine Rangliste der intelligentesten Charaktere in den Herr der Ringe-Filmen, eine bizarre Begegnung mit wilden Truthähnen in Massachusetts und Informationen darüber, wie man die NFL-Thanksgiving-Spiele 2026 sehen kann.",
+          "summary_easy": "Es gibt eine Liste über die klügsten Figuren in Herr der Ringe. Ein Frau wurde von Truthähnen gejagt. Man kann die NFL sehen.",
+          "links": [
+            {
+              "title": "8 Smartest Characters In The Lord Of The Rings Movies, Ranked By Intelligence",
+              "url": "https://screenrant.com/lord-of-the-rings-hobbit-movies-smartest-characters-intelligence-ranked/"
+            },
+            {
+              "title": "How To Watch The 2026 NFL Thanksgiving Games",
+              "url": "https://www.tvline.com/2322703/how-watch-2026-nfl-thanksgiving-games/"
+            }
+          ]
+        },
+        {
+          "type": "Business",
+          "emoji": "💼",
+          "headline_en": "Global Markets Focus on NFL and Unusual Encounters Amidst Business Discussions",
+          "headline_de": "Globale Märkte konzentrieren sich auf NFL und ungewöhnliche Begegnungen inmitten von Geschäftsdiskussionen",
+          "headline_easy": "Es gibt Nachrichten über Sport und komische Dinge. Man kann auch über Geschäfte lesen.",
+          "summary_en": "World business news is varied, featuring discussions on capitalism, alongside lighter stories about NFL games and a peculiar incident involving wild turkeys. Analysis of movie characters also appears in the cultural sphere.",
+          "summary_de": "Die Weltwirtschaftsnachrichten sind vielfältig und beinhalten Diskussionen über den Kapitalismus sowie leichtere Geschichten über NFL-Spiele und einen seltsamen Vorfall mit wilden Truthähnen. Analysen von Filmcharakteren erscheinen auch im kulturellen Bereich.",
+          "summary_easy": "Es gibt viele Nachrichten. Manche sind über Sport. Manche sind über Tiere. Manche sind über Geld.",
+          "links": [
+            {
+              "title": "What Isn’t Capitalism?",
+              "url": "https://www.nybooks.com/articles/2026/12/17/what-isnt-capitalism-the-insatiable-machine-jackson/"
+            }
+          ]
+        },
+        {
+          "type": "War",
+          "emoji": "⚔️",
+          "headline_en": "Global News Mixes Pop Culture, Local Incidents, and Sports",
+          "headline_de": "Weltnachrichten mischen Popkultur, lokale Vorfälle und Sport",
+          "headline_easy": "Die Nachrichten sind gemischt. Es gibt Filme, Tiere und Sport. Es ist nicht viel über Krieg.",
+          "summary_en": "Global news covers a wide spectrum, from an analysis of Lord of the Rings characters to a local encounter with wild turkeys and upcoming NFL games. The 'War' category includes these diverse topics.",
+          "summary_de": "Die Weltnachrichten decken ein breites Spektrum ab, von der Analyse der Charaktere von Herr der Ringe bis zu einer lokalen Begegnung mit wilden Truthähnen und bevorstehenden NFL-Spielen. Die Kategorie 'Krieg' umfasst diese vielfältigen Themen.",
+          "summary_easy": "Die Welt hat viele verschiedene Nachrichten. Es gibt Filme, Tiere und Sport. Keine wichtigen Nachrichten über Krieg.",
+          "links": [
+            {
+              "title": "THE GREAT 2026 TURKEY REVOLT!… Massachusetts Woman Chased Down the Street by Wild Turkeys Until She’s Rescued by a Passing Driver (VIDEO)",
+              "url": "https://www.thegatewaypundit.com/2026/11/2026-turkey-revolt-massachusetts-woman-chased-down-street/"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Global Markets Rise; Motorsport History and Capitalism Discussion",
+          "headline_de": "Globale Märkte steigen; Motorsport-Geschichte und Kapitalismus-Diskussion",
+          "headline_easy": "Die Börsen steigen. Es gibt eine Geschichte über Motorsport. Man kann über Kapitalismus lesen.",
+          "summary_en": "Global stock markets are experiencing a rise, with a look back at motorsport history and a discussion on the nature of capitalism. This diverse set of headlines spans economic trends and philosophical considerations.",
+          "summary_de": "Die globalen Aktienmärkte verzeichnen einen Aufschwung, mit einem Rückblick auf die Motorsportgeschichte und einer Diskussion über die Natur des Kapitalismus. Diese vielfältige Auswahl an Schlagzeilen umfasst Wirtschaftstrends und philosophische Überlegungen.",
+          "summary_easy": "Die Börsen sind gut. Es gibt eine alte Geschichte über Rennen. Man kann über Geld und Wirtschaft nachdenken.",
+          "links": [
+            {
+              "title": "Today in Motorsport History, November 26: Louis Wagner Won America’s First Grand Prix at Savannah in 1908",
+              "url": "https://sports.yahoo.com/f1/articles/today-motorsport-history-november-26-133000964.html"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "Art and E-bike Sales Highlight Global Technology Trends",
+          "headline_de": "Kunst und E-Bike-Verkäufe beleuchten globale Technologietrends",
+          "headline_easy": "Es gibt neue Kunst zu sehen. Man kann E-Bikes kaufen. Das sind moderne Dinge.",
+          "summary_en": "Global technology news includes trends in e-bike sales and a showcase of modern art exhibitions featuring renowned artists. These developments are presented alongside entertainment news about movie characters.",
+          "summary_de": "Globale Technologienachrichten umfassen Trends im E-Bike-Verkauf und eine Ausstellung moderner Kunst mit renommierten Künstlern. Diese Entwicklungen werden neben Unterhaltungsnachrichten über Filmcharaktere präsentiert.",
+          "summary_easy": "Es gibt viele E-Bikes zu kaufen. Das sind moderne Fahrräder. Es gibt auch Kunst zu sehen.",
+          "links": [
+            {
+              "title": "These are the e-bike sales you should really care about this Black Friday",
+              "url": "https://electrek.co/2026/11/26/these-are-the-e-bike-sales-you-should-really-care-about-this-black-friday/"
+            },
+            {
+              "title": "Visions of Modernity brings Dalí, Picasso and Chagall together",
+              "url": "https://timesofindia.indiatimes.com/entertainment/events/delhi/visions-of-modernity-brings-dal-picasso-and-chagall-together-for-a-first-in-india/articleshow/136192064.cms"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "bundestag": {
+    "wahlperiode": 21,
+    "sitzung": 112,
+    "url": "https://dserver.bundestag.de/btp/21/21112.pdf",
+    "summary_en": "The 112th session of the German Bundestag on Thursday, November 26, 2026, commenced with the removal of an additional agenda item (3d). A key focus was the second reading of the federal budget bill for 2027 (HG 2027). Discussions also included the Bundesregierung's financial plan for 2026-2030 and the allocation of funds for individual budget plans, specifically Plan 06 (Federal Ministry of the Interior) and Plan 21 (Federal Commissioner for Data Protection and Freedom of Information).  Alexander Dobrindt, Federal Minister of the Interior, was mentioned in relation to budget discussions. Several parties, including BÜNDNIS 90/DIE GRÜNEN, SPD, Die Linke, CDU/CSU, and AfD, contributed to the debates on the budget and financial plan.  Specific opposition was voiced by AfD members like Martin Hess and Steffen Janich regarding various budget items and policy proposals. The session also included the first reading of several AfD-initiated bills, including one concerning the qualification of federal ministers and another to repeal the law on the legal status of parliamentary state secretaries. Other AfD proposals addressed ending membership in the World Tourism Organization, reforming quality checks in nursing care, and strengthening outpatient care.  A proposal to strengthen nature-based and complementary medicine also saw debate.  The election of Dr. Alexander Wolf and Dr. Michael Blos as personal representatives to the Parliamentary Assembly of the Council of Europe was also on the agenda.",
+    "summary_de": "Die 112. Sitzung des Deutschen Bundestages am Donnerstag, den 26. November 2026, begann mit der Absetzung eines Zusatzpunktes (3d). Ein zentraler Punkt war die zweite Beratung des Entwurfs eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2027 (HG 2027). Diskutiert wurde auch der Finanzplan des Bundes von 2026 bis 2030 und die Einzelpläne 06 (Bundesministerium des Innern) und 21 (Bundesbeauftragter für den Datenschutz und die Informationsfreiheit). Bundesminister Alexander Dobrindt wurde im Kontext der Haushaltsberatungen genannt. Verschiedene Fraktionen, darunter BÜNDNIS 90/DIE GRÜNEN, SPD, Die Linke, CDU/CSU und AfD, beteiligten sich an den Debatten über den Haushalt und den Finanzplan. Martin Hess und Steffen Janich (AfD) äußerten sich kritisch zu verschiedenen Haushaltsansätzen und Gesetzesvorschlägen. Des Weiteren standen mehrere Gesetzesentwürfe der AfD zur ersten Beratung an, unter anderem zur Sicherstellung der Qualifikation von Bundesministern und zur Aufhebung des Gesetzes über die Rechtsverhältnisse der Parlamentarischen Staatssekretäre. Weitere Anträge der AfD befassten sich mit der Beendigung der Mitgliedschaft in der Welttourismusorganisation, der Reform von Qualitätsprüfungen in der Pflege und der Stärkung der ambulanten Versorgung. Ein Antrag zur Stärkung naturheilkundlicher und komplementärer Verfahren wurde ebenfalls debattiert. Die Wahl von Dr. Alexander Wolf und Dr. Michael Blos zu persönlichen Stellvertretern in die Parlamentarische Versammlung des Europarates war ebenfalls Teil der Tagesordnung.",
+    "summary_easy": "Der Bundestag tagte am 26. November 2026. Ein Tagespunkt wurde gestrichen. Die Abgeordneten sprachen über den Bundeshaushalt für das Jahr 2027. Sie berieten auch über die Finanzen des Bundes bis zum Jahr 2030. Bundesminister Alexander Dobrindt war dabei. Verschiedene Parteien diskutierten den Haushalt. Die Partei AfD kritisierte einige Punkte. Es gab auch neue Gesetzesvorschläge von der AfD. Diese Vorschläge betrafen Minister und staatliche Sekretäre. Die AfD wollte auch die Welt-Tourismusorganisation verlassen. Sie forderte bessere Pflegeprüfungen und mehr Hilfe für Arztpraxen. Ein Antrag für alternative Medizin wurde auch besprochen. Neue Vertreter für das Europaparlament wurden gewählt.",
+    "ukrainian_men": "Kein Thema in dieser Sitzung."
+  },
+  "facts": [
+    {
+      "fact_en": "In ancient Rome, wearing a toga was a symbol of Roman citizenship and a mark of freeborn men. The intricate way a toga was draped, with its many folds and pleats, was not only a fashion statement but also a practical way to carry small items or even signal social status through the quality of the wool and its dye.",
+      "fact_de": "Im antiken Rom war das Tragen einer Toga ein Symbol der römischen Bürgerschaft und ein Zeichen freigeborener Männer. Die kunstvolle Art, wie eine Toga drapiert wurde, mit ihren vielen Falten und Plissees, war nicht nur ein modisches Statement, sondern auch eine praktische Methode, kleine Gegenstände zu transportieren oder sogar den sozialen Status durch die Qualität der Wolle und ihres Farbstoffs zu signalisieren.",
+      "fact_easy": "Die Toga war in Rom wichtig. Sie zeigte, dass man ein römischer Bürger war. Man konnte damit auch Dinge tragen.",
+      "category": "Fashion",
+      "source_title": "The Roman Toga: History, Significance, and Construction",
+      "source_url": "https://www.historytoday.com/archive/roman-toga-history-significance-and-construction"
+    },
+    {
+      "fact_en": "The iconic 'V' for Victory sign, popularized during World War II, has roots in a much older tradition. In ancient Greece, the gesture was used to symbolize peace and prosperity, and its meaning was generally positive, contrasting with its later wartime association.",
+      "fact_de": "Das ikonische 'V' für Victory-Zeichen, das während des Zweiten Weltkriegs populär wurde, hat seine Wurzeln in einer viel älteren Tradition. Im antiken Griechenland wurde diese Geste verwendet, um Frieden und Wohlstand zu symbolisieren, und ihre Bedeutung war im Allgemeinen positiv, im Gegensatz zu ihrer späteren Kriegsassoziation.",
+      "fact_easy": "Das 'V' für Sieg-Zeichen ist alt. In Griechenland bedeutete es Frieden. Später wurde es im Krieg benutzt.",
+      "category": "Traditions",
+      "source_title": "The Meaning of the V Sign",
+      "source_url": "https://www.iwm.org.uk/history/the-meaning-of-the-v-sign"
+    }
+  ],
+  "frankfurt": {
+    "topics": [
+      {
+        "type": "Events",
+        "emoji": "🎪",
+        "headline_en": "TV Personality Frauke Ludowig in Tears Due to US Flight Chaos",
+        "headline_de": "TV-Moderatorin Frauke Ludowig verpasst wichtigen Termin wegen Flugchaos in den USA",
+        "headline_easy": "Frauke Ludowig ist traurig, weil sie wegen Flügen in Amerika einen Termin verpasst.",
+        "summary_en": "TV presenter Frauke Ludowig shared an emotional outburst on social media from Las Vegas. She is stranded due to flight chaos in the USA and is visibly distressed about missing an important appointment in Germany.",
+        "summary_de": "TV-Moderatorin Frauke Ludowig teilte in den sozialen Medien einen emotionalen Ausbruch aus Las Vegas. Sie ist aufgrund von Flugchaos in den USA gestrandet und sichtlich verzweifelt, weil sie einen wichtigen Termin in Deutschland verpasst.",
+        "summary_easy": "Frauke Ludowig ist in Las Vegas gestrandet. Das Flug-Chaos dort macht sie sehr traurig. Sie kann wegen des Chaos nicht zu einem wichtigen Termin nach Deutschland kommen.",
+        "links": [
+          {
+            "title": "Sie verpasst Termin im Krankenhaus: Frauke Ludowig kommen wegen Flugchaos in den USA die Tränen",
+            "url": "https://www.focus.de/kultur/stars/sie-verpasst-termin-im-krankenhaus-frauke-ludowig-kommen-wegen-flugchaos-in-den-usa-die-traenen_864e0fb6-4857-4cfd-a609-ed4657428df5.html"
+          }
+        ]
+      },
+      {
+        "type": "Events",
+        "emoji": "🎪",
+        "headline_en": "National Player Laura Freigang Banned Until October 2027 for Missed Doping Tests",
+        "headline_de": "Nationalspielerin Laura Freigang wegen verpasster Dopingtests bis Oktober 2027 gesperrt",
+        "headline_easy": "Laura Freigang darf lange nicht Fußball spielen, weil sie Dopingtests verpasst hat.",
+        "summary_en": "National player Laura Freigang has been banned until October 2027 due to missed doping tests. She will not be eligible to play again until nearly a year from now and will miss the 2027 World Cup.",
+        "summary_de": "Aufgrund verpasster Dopingtests muss Nationalspielerin Laura Freigang eine Sperre absitzen. Die Spielerin ist erst in knapp einem Jahr wieder spielberechtigt und verpasst die WM 2027.",
+        "summary_easy": "Laura Freigang hat wichtige Doping-Tests verpasst. Deshalb darf sie jetzt bis Oktober 2027 kein Fußball spielen. Sie verpasst auch die Fußball-Weltmeisterschaft 2027.",
+        "links": [
+          {
+            "title": "Verpasste Dopingtests: Nationalspielerin Freigang bis Oktober 2027 gesperrt",
+            "url": "https://www.waz.de/sport/article413784390/wm-aus-fuer-laura-freigang-nationalspielerin-bis-oktober-2027-gesperrt.html"
+          },
+          {
+            "title": "Keine WM nach verpassten Dopingtests: Nationalspielerin Laura Freigang bis Oktober 2027 gesperrt",
+            "url": "https://www.tagesspiegel.de/sport/dpa-nationalspielerin-freigang-bis-oktober-2027-gesperrt-16329425.html"
+          }
+        ]
+      },
+      {
+        "type": "Crime",
+        "emoji": "🚔",
+        "headline_en": "Free RMV Travel on First Advent Weekend with BILD Newspaper",
+        "headline_de": "Kostenlos RMV fahren am ersten Adventswochenende mit der BILD-Zeitung",
+        "headline_easy": "Man kann am ersten Advents-Wochenende kostenlos Bus und Bahn fahren, wenn man die Zeitung BILD hat.",
+        "summary_en": "On the first advent weekend, November 28th and 29th, passengers can travel for free on Hessens buses and trains by using the printed Saturday edition of the BILD newspaper as their ticket.",
+        "summary_de": "Am ersten Adventswochenende, dem 28. und 29. November, können Fahrgäste in Hessens Bussen und Zügen kostenlos fahren, indem sie die gedruckte Samstagsausgabe der BILD-Zeitung als Fahrschein nutzen.",
+        "summary_easy": "Am Wochenende vom 28. und 29. November kann man in Hessen kostenlos mit Bus und Bahn fahren. Man braucht dazu nur die gedruckte Zeitung BILD von Samstag.",
+        "links": [
+          {
+            "title": "Erstes Advents-Wochenende - Mit BILD als Fahrschein kostenlos RMV fahren",
+            "url": "https://www.bild.de/regional/frankfurt/erstes-advents-wochenende-mit-bild-als-fahrschein-kostenlos-rmv-fahren-6af4414fc45061d752ba60d0"
+          }
+        ]
+      },
+      {
+        "type": "Crime",
+        "emoji": "🚔",
+        "headline_en": "Hesse's Retail Sector Hopes for Christmas Business Amidst Consumption Slump",
+        "headline_de": "Hessischer Handel hofft auf Weihnachtsgeschäft trotz Konsumflaute",
+        "headline_easy": "Der Handel in Hessen hofft auf gute Verkäufe zu Weihnachten, weil es gerade nicht gut läuft.",
+        "summary_en": "Facing a consumption slump and rising costs, the Hessian retail sector finds itself in a challenging situation. However, they hope for political support and remain optimistic about the upcoming Christmas business.",
+        "summary_de": "Angesichts einer Konsumflaute und steigender Kosten befindet sich der hessische Handel in einer herausfordernden Situation. Dennoch hofft er auf politische Unterstützung und blickt optimistisch auf das bevorstehende Weihnachtsgeschäft.",
+        "summary_easy": "Der Handel in Hessen hat gerade Probleme. Die Leute kaufen weniger und die Kosten sind hoch. Aber der Handel hofft auf Hilfe von der Politik. Sie hoffen auch, dass das Weihnachtsgeschäft gut wird.",
+        "links": [
+          {
+            "title": "Konsumflaute: Der hessische Handel hofft auf das Weihnachtsgeschäft",
+            "url": "https://www.faz.net/aktuell/rhein-main/wirtschaft/konsumflaute-hessischer-handel-hofft-auf-weihnachtsgeschaeft-accg-201716088.html"
+          }
+        ]
+      },
+      {
+        "type": "Crime",
+        "emoji": "🚔",
+        "headline_en": "Future of Offenbach Main Station Under Discussion",
+        "headline_de": "Zukunft des Offenbacher Hauptbahnhofs wird geplant",
+        "headline_easy": "Es gibt Pläne für den Hauptbahnhof in Offenbach, weil er gerade leer steht.",
+        "summary_en": "Only regional trains currently stop at Offenbach's main station, and the building itself is vacant. However, the city intends to revitalize the area and is planning a new beginning for the station.",
+        "summary_de": "Am Offenbacher Hauptbahnhof halten nur noch Regionalzüge und das Gebäude steht leer. Die Stadt und die Deutsche Bahn planen jedoch einen Neustart für den Bahnhof.",
+        "summary_easy": "In Offenbach hält der Hauptbahnhof nur noch Regionalzüge. Das Gebäude ist leer. Die Stadt und die Bahn wollen den Bahnhof neu machen. Sie haben Pläne für eine neue Nutzung.",
+        "links": [
+          {
+            "title": "Offenbach: Was wird aus dem Hauptbahnhof?",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/offenbacher-hauptbahnhof-stadt-und-deutsche-bahn-planen-neustart-201715557.html"
+          }
+        ]
+      },
+      {
+        "type": "Sales & Offers",
+        "emoji": "🛍️",
+        "headline_en": "Free RMV Travel on First Advent Weekend with BILD Newspaper",
+        "headline_de": "Kostenlos RMV fahren am ersten Adventswochenende mit der BILD-Zeitung",
+        "headline_easy": "Man kann am ersten Advents-Wochenende kostenlos Bus und Bahn fahren, wenn man die Zeitung BILD hat.",
+        "summary_en": "On the first advent weekend, November 28th and 29th, passengers can travel for free on Hessens buses and trains by using the printed Saturday edition of the BILD newspaper as their ticket.",
+        "summary_de": "Am ersten Adventswochenende, dem 28. und 29. November, können Fahrgäste in Hessens Bussen und Zügen kostenlos fahren, indem sie die gedruckte Samstagsausgabe der BILD-Zeitung als Fahrschein nutzen.",
+        "summary_easy": "Am Wochenende vom 28. und 29. November kann man in Hessen kostenlos mit Bus und Bahn fahren. Man braucht dazu nur die gedruckte Zeitung BILD von Samstag.",
+        "links": [
+          {
+            "title": "Erstes Advents-Wochenende - Mit BILD als Fahrschein kostenlos RMV fahren",
+            "url": "https://www.bild.de/regional/frankfurt/erstes-advents-wochenende-mit-bild-als-fahrschein-kostenlos-rmv-fahren-6af4414fc45061d752ba60d0"
+          }
+        ]
+      },
+      {
+        "type": "Sales & Offers",
+        "emoji": "🛍️",
+        "headline_en": "Hesse's Retail Sector Hopes for Christmas Business Amidst Consumption Slump",
+        "headline_de": "Hessischer Handel hofft auf Weihnachtsgeschäft trotz Konsumflaute",
+        "headline_easy": "Der Handel in Hessen hofft auf gute Verkäufe zu Weihnachten, weil es gerade nicht gut läuft.",
+        "summary_en": "Facing a consumption slump and rising costs, the Hessian retail sector finds itself in a challenging situation. However, they hope for political support and remain optimistic about the upcoming Christmas business.",
+        "summary_de": "Angesichts einer Konsumflaute und steigender Kosten befindet sich der hessische Handel in einer herausfordernden Situation. Dennoch hofft er auf politische Unterstützung und blickt optimistisch auf das bevorstehende Weihnachtsgeschäft.",
+        "summary_easy": "Der Handel in Hessen hat gerade Probleme. Die Leute kaufen weniger und die Kosten sind hoch. Aber der Handel hofft auf Hilfe von der Politik. Sie hoffen auch, dass das Weihnachtsgeschäft gut wird.",
+        "links": [
+          {
+            "title": "Konsumflaute: Der hessische Handel hofft auf das Weihnachtsgeschäft",
+            "url": "https://www.faz.net/aktuell/rhein-main/wirtschaft/konsumflaute-hessischer-handel-hofft-auf-weihnachtsgeschaeft-accg-201716088.html"
+          }
+        ]
+      },
+      {
+        "type": "Sales & Offers",
+        "emoji": "🛍️",
+        "headline_en": "Future of Offenbach Main Station Under Discussion",
+        "headline_de": "Zukunft des Offenbacher Hauptbahnhofs wird geplant",
+        "headline_easy": "Es gibt Pläne für den Hauptbahnhof in Offenbach, weil er gerade leer steht.",
+        "summary_en": "Only regional trains currently stop at Offenbach's main station, and the building itself is vacant. However, the city intends to revitalize the area and is planning a new beginning for the station.",
+        "summary_de": "Am Offenbacher Hauptbahnhof halten nur noch Regionalzüge und das Gebäude steht leer. Die Stadt und die Deutsche Bahn planen jedoch einen Neustart für den Bahnhof.",
+        "summary_easy": "In Offenbach hält der Hauptbahnhof nur noch Regionalzüge. Das Gebäude ist leer. Die Stadt und die Bahn wollen den Bahnhof neu machen. Sie haben Pläne für eine neue Nutzung.",
+        "links": [
+          {
+            "title": "Offenbach: Was wird aus dem Hauptbahnhof?",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/offenbacher-hauptbahnhof-stadt-und-deutsche-bahn-planen-neustart-201715557.html"
+          }
+        ]
+      },
+      {
+        "type": "Local News",
+        "emoji": "📍",
+        "headline_en": "Free RMV Travel on First Advent Weekend with BILD Newspaper",
+        "headline_de": "Kostenlos RMV fahren am ersten Adventswochenende mit der BILD-Zeitung",
+        "headline_easy": "Man kann am ersten Advents-Wochenende kostenlos Bus und Bahn fahren, wenn man die Zeitung BILD hat.",
+        "summary_en": "On the first advent weekend, November 28th and 29th, passengers can travel for free on Hessens buses and trains by using the printed Saturday edition of the BILD newspaper as their ticket.",
+        "summary_de": "Am ersten Adventswochenende, dem 28. und 29. November, können Fahrgäste in Hessens Bussen und Zügen kostenlos fahren, indem sie die gedruckte Samstagsausgabe der BILD-Zeitung als Fahrschein nutzen.",
+        "summary_easy": "Am Wochenende vom 28. und 29. November kann man in Hessen kostenlos mit Bus und Bahn fahren. Man braucht dazu nur die gedruckte Zeitung BILD von Samstag.",
+        "links": [
+          {
+            "title": "Erstes Advents-Wochenende - Mit BILD als Fahrschein kostenlos RMV fahren",
+            "url": "https://www.bild.de/regional/frankfurt/erstes-advents-wochenende-mit-bild-als-fahrschein-kostenlos-rmv-fahren-6af4414fc45061d752ba60d0"
+          }
+        ]
+      },
+      {
+        "type": "Local News",
+        "emoji": "📍",
+        "headline_en": "Hesse's Retail Sector Hopes for Christmas Business Amidst Consumption Slump",
+        "headline_de": "Hessischer Handel hofft auf Weihnachtsgeschäft trotz Konsumflaute",
+        "headline_easy": "Der Handel in Hessen hofft auf gute Verkäufe zu Weihnachten, weil es gerade nicht gut läuft.",
+        "summary_en": "Facing a consumption slump and rising costs, the Hessian retail sector finds itself in a challenging situation. However, they hope for political support and remain optimistic about the upcoming Christmas business.",
+        "summary_de": "Angesichts einer Konsumflaute und steigender Kosten befindet sich der hessische Handel in einer herausfordernden Situation. Dennoch hofft er auf politische Unterstützung und blickt optimistisch auf das bevorstehende Weihnachtsgeschäft.",
+        "summary_easy": "Der Handel in Hessen hat gerade Probleme. Die Leute kaufen weniger und die Kosten sind hoch. Aber der Handel hofft auf Hilfe von der Politik. Sie hoffen auch, dass das Weihnachtsgeschäft gut wird.",
+        "links": [
+          {
+            "title": "Konsumflaute: Der hessische Handel hofft auf das Weihnachtsgeschäft",
+            "url": "https://www.faz.net/aktuell/rhein-main/wirtschaft/konsumflaute-hessischer-handel-hofft-auf-weihnachtsgeschaeft-accg-201716088.html"
+          }
+        ]
+      },
+      {
+        "type": "Local News",
+        "emoji": "📍",
+        "headline_en": "Future of Offenbach Main Station Under Discussion",
+        "headline_de": "Zukunft des Offenbacher Hauptbahnhofs wird geplant",
+        "headline_easy": "Es gibt Pläne für den Hauptbahnhof in Offenbach, weil er gerade leer steht.",
+        "summary_en": "Only regional trains currently stop at Offenbach's main station, and the building itself is vacant. However, the city intends to revitalize the area and is planning a new beginning for the station.",
+        "summary_de": "Am Offenbacher Hauptbahnhof halten nur noch Regionalzüge und das Gebäude steht leer. Die Stadt und die Deutsche Bahn planen jedoch einen Neustart für den Bahnhof.",
+        "summary_easy": "In Offenbach hält der Hauptbahnhof nur noch Regionalzüge. Das Gebäude ist leer. Die Stadt und die Bahn wollen den Bahnhof neu machen. Sie haben Pläne für eine neue Nutzung.",
+        "links": [
+          {
+            "title": "Offenbach: Was wird aus dem Hauptbahnhof?",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/offenbacher-hauptbahnhof-stadt-und-deutsche-bahn-planen-neustart-201715557.html"
+          }
+        ]
+      }
+    ]
+  },
+  "dresden": []
+}
