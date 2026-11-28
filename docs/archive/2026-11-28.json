@@ -1,0 +1,311 @@
+{
+  "date": "Saturday, November 28 2026",
+  "sections": [
+    {
+      "category": "Germany",
+      "emoji": "🇩🇪",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "AfD Leader Alice Weidel Discusses Personal Life and Bisexuality; Figure Skater Ilia Malinin Sets Short Program Record; Boxer Kabayel Eyes Heavyweight Title Defense.",
+          "headline_de": "AfD-Chefin Alice Weidel spricht über ihr Privatleben und ihre Bisexualität; Eiskunstläufer Ilia Malinin bricht Kurzprogramm-Rekord; Boxer Kabayel peilt Schwergewichtstitelverteidigung an.",
+          "headline_easy": "Die Politikerin Alice Weidel spricht über ihr Leben. Ein Sportler macht einen neuen Rekord. Ein Boxer kämpft um einen Titel.",
+          "summary_en": "AfD leader Alice Weidel has opened up about her personal life, including her bisexuality. In sports, Ilia Malinin set a new world record in the short program at the NHK Trophy, and boxer Kabayel is set for his first WBC heavyweight title defense.",
+          "summary_de": "Die AfD-Vorsitzende Alice Weidel hat sich zu ihrem Privatleben, einschließlich ihrer Bisexualität, geäußert. Im Sport stellte Ilia Malinin beim NHK Trophy einen neuen Weltrekord im Kurzprogramm auf, und Boxer Kabayel steht vor seiner ersten WBC-Schwergewichtstitelverteidigung.",
+          "summary_easy": "Alice Weidel ist eine Politikerin. Sie spricht über ihr Leben. Ilia Malinin ist ein Sportler. Er hat einen neuen Rekord. Kabayel ist ein Boxer. Er kämpft um einen Titel.",
+          "links": [
+            {
+              "title": "AfD leader Alice Weidel opens up about her personal life and bisexuality",
+              "url": "https://en.protothema.gr/2026/11/27/afd-leader-alice-weidel-opens-up-about-her-personal-life-and-bisexuality/"
+            },
+            {
+              "title": "Ilia Malinin posts record short program score to lead NHK Trophy",
+              "url": "https://www.nbcsports.com/olympics/news/ilia-malinin-world-record-short-program-nhk-trophy-2026"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Feminist Perspectives on Weddings; Luxury Strategy for Macy's; Footballer Praise for Gadou and Veerman.",
+          "headline_de": "Feministische Perspektiven auf Hochzeiten; Luxusstrategie für Macy's; Fußballer loben Gadou und Veerman.",
+          "headline_easy": "Frauen denken über Hochzeiten nach. Eine Firma versucht, besser zu werden. Fußballer reden über Spieler.",
+          "summary_en": "The segment explores feminist views on marriage traditions. It also covers Macy's attempt to revitalize its brand through luxury offerings and discusses praise for footballers Joane Gadou and Joey Veerman.",
+          "summary_de": "Das Segment beleuchtet feministische Ansichten zu Hochzeitstraditionen. Es behandelt auch den Versuch von Macy's, seine Marke durch Luxusangebote wiederzubeleben, und diskutiert Lob für die Fußballer Joane Gadou und Joey Veerman.",
+          "summary_easy": "Manche Frauen denken über Hochzeiten nach. Die Firma Macy's will teurere Sachen verkaufen. Man spricht gut über zwei Fußballspieler.",
+          "links": [
+            {
+              "title": "Can You Be a Feminist and Still Have a Wedding?",
+              "url": "https://msmagazine.com/2026/11/27/feminist-wedding-book-excerpt-guide-to-marriage/"
+            },
+            {
+              "title": "Can luxury save Macy's?",
+              "url": "https://www.npr.org/2026/11/27/nx-s1-6026486/macys-tries-to-reinvent-with-luxury"
+            }
+          ]
+        },
+        {
+          "type": "Technology",
+          "emoji": "💻",
+          "headline_en": "Austria Reports Significant Crypto Trading Volume; Alice Weidel Discusses Personal Life; Ilia Malinin Achieves Skating Record.",
+          "headline_de": "Österreich meldet erhebliches Krypto-Handelsvolumen; Alice Weidel spricht über ihr Privatleben; Ilia Malinin erzielt Eiskunstlauf-Rekord.",
+          "headline_easy": "Österreich hat viel mit Kryptowährung gehandelt. Eine Politikerin spricht über sich. Ein Sportler hat einen neuen Rekord.",
+          "summary_en": "Austria's Financial Market Authority reported substantial crypto trading volume in the first half of the year. This is alongside news about AfD leader Alice Weidel's personal revelations and figure skater Ilia Malinin's record-breaking performance.",
+          "summary_de": "Die österreichische Finanzmarktaufsicht meldete im ersten Halbjahr ein erhebliches Krypto-Handelsvolumen. Dazu kommen Nachrichten über persönliche Enthüllungen der AfD-Vorsitzenden Alice Weidel und die Rekordleistung des Eiskunstläufers Ilia Malinin.",
+          "summary_easy": "In Österreich wird viel mit Kryptogeld gehandelt. Alice Weidel ist eine Politikerin. Sie sagt private Dinge. Ilia Malinin ist ein Sportler. Er macht einen neuen Rekord.",
+          "links": [
+            {
+              "title": "Austrian Financial Market Authority reports €20.4B in H1 crypto trading volume",
+              "url": "https://cryptobriefing.com/austria-fma-crypto-trading-volume-h1-2026/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Europe",
+      "emoji": "🇪🇺",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Ukrainian Athlete Hails EU Stance on Russian Athletes; Dual Reporting on Russia Sports Ban.",
+          "headline_de": "Ukrainischer Athlet lobt EU-Haltung zu russischen Athleten; Doppelte Berichterstattung über Russlands Sportverbot.",
+          "headline_easy": "Ein Sportler aus der Ukraine ist froh über die EU. Die EU spricht über russische Sportler.",
+          "summary_en": "Ukrainian athlete Heraskevych expressed approval of the EU's policy regarding Russian athletes. This sentiment is covered in multiple reports discussing the EU's pushback against Russia in sports.",
+          "summary_de": "Der ukrainische Athlet Heraskevych äußerte seine Zustimmung zur EU-Politik bezüglich russischer Athleten. Diese Haltung wird in mehreren Berichten über die Reaktion der EU auf Russland im Sport behandelt.",
+          "summary_easy": "Ein Sportler aus der Ukraine findet gut, was die EU macht. Die EU will nicht, dass russische Sportler bei vielen Wettkämpfen mitmachen.",
+          "links": [
+            {
+              "title": "Ukraine's Heraskevych hails EU pushback against Russian athletes",
+              "url": "https://www.dw.com/en/ukraines-heraskevych-hails-eu-pushback-against-russian-athletes/a-80074375"
+            },
+            {
+              "title": "Russia sports ban: Ukraine's Heraskevych hails EU pushback",
+              "url": "https://www.dw.com/en/russia-sports-ban-ukraines-heraskevych-hails-eu-pushback/a-80074375"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Italians Killed in Kuwait; France's Economy Slumps Amidst Crisis; UK Prepares for Potential Crises.",
+          "headline_de": "Italiener in Kuwait getötet; Frankreichs Wirtschaft stürzt erneut ab inmitten der Krise; Großbritannien bereitet sich auf mögliche Krisen vor.",
+          "headline_easy": "Italiener sterben im Ausland. Die Wirtschaft in Frankreich ist schlecht. Großbritannien macht sich bereit.",
+          "summary_en": "Reports cover the deaths of Italians in Kuwait and Iran's denial of responsibility. France's economy is experiencing a slump, with its finance minister warning of dire straits. Meanwhile, the UK is reportedly entering a state of preparation for potential crises.",
+          "summary_de": "Berichte thematisieren den Tod von Italienern in Kuwait und die Leugnung der Verantwortung durch den Iran. Frankreichs Wirtschaft erlebt einen Einbruch, wobei der Finanzminister vor einer Krise warnt. Unterdessen bereitet sich Großbritannien Berichten zufolge auf mögliche Krisen vor.",
+          "summary_easy": "In Kuwait sterben Menschen aus Italien. Der Iran sagt, er ist nicht schuld. Die Wirtschaft in Frankreich ist nicht gut. Großbritannien denkt über Probleme nach.",
+          "links": [
+            {
+              "title": "Italians killed in Kuwait: Why is Iran denying responsibility?",
+              "url": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility"
+            },
+            {
+              "title": "France's economy slumps yet again after finance minister admitted the country was 'going to the wall' amid economic crisis - as Burnham looks to pull UK back into EU",
+              "url": "https://www.dailymail.com/news/article-16326249/Frances-economy-slumps-finance-minister-admitted-country-going-wall-amid-economic-crisis-Burnham-looks-pull-UK-EU.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "US",
+      "emoji": "🇺🇸",
+      "topics": [
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Netflix Black Friday Deals Focus on Merch; AI Apocalypse Gift Guide; Italians Killed in Kuwait, Iran Denies Responsibility.",
+          "headline_de": "Netflix Black Friday Angebote konzentrieren sich auf Merchandise; Geschenkführer für die KI-Apokalypse; Italiener in Kuwait getötet, Iran weist Verantwortung zurück.",
+          "headline_easy": "Netflix hat keine Rabatte, aber Geschenke. Ein Buch über die Zukunft mit KI. Italiener sterben, Iran sagt, es war nicht er.",
+          "summary_en": "Netflix is offering merchandise deals for Black Friday, not subscription discounts. A humorous 'Gift Guide for the AI Apocalypse' is featured. Separately, news reports cover the deaths of Italians in Kuwait and Iran's denial of responsibility.",
+          "summary_de": "Netflix bietet am Black Friday Merchandise-Angebote an, keine Abonnementrabatte. Ein humorvoller 'Geschenkführer für die KI-Apokalypse' wird vorgestellt. Separat berichten Nachrichten über die Tötung von Italienern in Kuwait und die Leugnung der Verantwortung durch den Iran.",
+          "summary_easy": "Netflix verkauft keine Abos billiger, aber Sachen. Es gibt ein lustiges Buch mit Ideen für Geschenke, wenn Roboter die Welt übernehmen. In Kuwait sind Italiener gestorben. Iran sagt, es war nicht ihre Schuld.",
+          "links": [
+            {
+              "title": "Netflix Black Friday 2026 Deals: No Subscription Offers But Lots of Merch Deals",
+              "url": "https://www.whats-on-netflix.com/news/netflix-black-friday-2026-subscription-deals-prices/"
+            },
+            {
+              "title": "Gift Guide for the AI Apocalypse",
+              "url": "https://www.theatlantic.com/ideas/2026/11/gift-guide-ai-apocalypse/689561/?utm_source=feed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Asia",
+      "emoji": "🌏",
+      "topics": [
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Global Stocks Rally on Thanksgiving Holiday; US Stock Futures Rise; AI Shares Recover.",
+          "headline_de": "Globale Aktien steigen am Thanksgiving-Feiertag; US-Aktien-Futures steigen; KI-Aktien erholen sich.",
+          "headline_easy": "Aktien in vielen Ländern steigen. US-Aktien werden besser. Aktien für KI werden besser.",
+          "summary_en": "Global stock markets experienced a rally, with US stock futures showing an upward trend and AI shares recovering. This activity occurred following the Thanksgiving holiday.",
+          "summary_de": "Die globalen Aktienmärkte verzeichneten eine Rallye, wobei die US-Aktien-Futures einen Aufwärtstrend zeigten und KI-Aktien sich erholten. Diese Aktivität fand nach dem Thanksgiving-Feiertag statt.",
+          "summary_easy": "Aktien steigen in vielen Ländern. In den USA steigen die Aktien auch. Aktien von Firmen mit KI werden besser.",
+          "links": [
+            {
+              "title": "Links 11/27/2026",
+              "url": "https://www.nakedcapitalism.com/2026/11/links-11-27-2026.html"
+            },
+            {
+              "title": "US Stock Futures Rally as AI Shares Recover, Chip Export Restrictions Disrupt Financing and Oil Supply Risks Persist: Dow Jones, S&P, Nasdaq, Wall Street",
+              "url": "https://biztoc.com/x/63be2b042d01a539"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "World",
+      "emoji": "🌍",
+      "topics": [
+        {
+          "type": "Culture",
+          "emoji": "🎭",
+          "headline_en": "Curated Pictures of Unfortunate Events; England's Dominant Cricket Win in Brisbane; Fury Cleared for Joshua Fight.",
+          "headline_de": "Ausgewählte Bilder von unglücklichen Ereignissen; Englands dominanter Cricket-Sieg in Brisbane; Fury für Kampf gegen Joshua freigegeben.",
+          "headline_easy": "Bilder von schlimmen Dingen. England gewinnt Cricket. Ein Boxer darf kämpfen.",
+          "summary_en": "A collection of pictures depicts unfortunate events with unexpected humor. In cricket, England secured a decisive victory over Australia in Brisbane. Additionally, boxer Tyson Fury has been medically cleared to fight Anthony Joshua.",
+          "summary_de": "Eine Sammlung von Bildern stellt unglückliche Ereignisse mit unerwartetem Humor dar. Im Cricket sicherte sich England einen entscheidenden Sieg gegen Australien in Brisbane. Außerdem wurde Boxer Tyson Fury medizinisch für den Kampf gegen Anthony Joshua freigegeben.",
+          "summary_easy": "Es gibt Bilder von schlimmen Sachen, die lustig sind. England hat im Cricket gegen Australien gewonnen. Ein Boxer namens Fury darf gegen Joshua kämpfen.",
+          "links": [
+            {
+              "title": "27 Pictures Telling a Tale of Unfortunate Events and Unexpected Laughter",
+              "url": "https://cheezburger.com/47488261/27-pictures-telling-a-tale-of-unfortunate-events-and-unexpected-laughter"
+            },
+            {
+              "title": "England batter Australia in Brisbane: Jamie Overton's career-best haul delivers a shellacking of the highest order at the Gabba against abysmal Aussies",
+              "url": "https://www.dailymail.com/sport/cricket/article-16326721/England-batter-Australia-Brisbane-Jamie-Overtons-career-best-haul-delivers-shellacking-highest-order-Gabba-against-abysmal-Aussies.html"
+            }
+          ]
+        },
+        {
+          "type": "Stocks & Markets",
+          "emoji": "📈",
+          "headline_en": "Black Friday Tech Deals; Triumph Bonneville T40 Review; Trump's Influence on Global Elections.",
+          "headline_de": "Black Friday Tech-Angebote; Triumph Bonneville T40 Testbericht; Trumps Einfluss auf globale Wahlen.",
+          "headline_easy": "Gute Angebote für Technik. Ein Motorrad wird getestet. Trump beeinflusst Wahlen.",
+          "summary_en": "Extensive Black Friday deals on technology products from major brands are featured. A review of the Triumph Bonneville T40 motorcycle highlights its quiet brilliance. The article also examines how Donald Trump's actions influence elections worldwide.",
+          "summary_de": "Umfangreiche Black Friday-Angebote für Technologieprodukte großer Marken werden vorgestellt. Ein Testbericht über das Motorrad Triumph Bonneville T40 hebt seine leise Brillanz hervor. Der Artikel untersucht auch, wie Donald Trumps Handlungen Wahlen weltweit beeinflussen.",
+          "summary_easy": "Es gibt viele günstige Angebote für Technik. Ein Motorrad wird vorgestellt. Trump hilft bei Wahlen in anderen Ländern.",
+          "links": [
+            {
+              "title": "The 157 Best Black Friday Tech Deals From Apple, Asus, Lenovo, Samsung, and More",
+              "url": "https://uk.pcmag.com/black-friday/168646/the-157-best-black-friday-tech-deals-from-apple-asus-lenovo-samsung-and-more"
+            },
+            {
+              "title": "Triumph Bonneville T40 redefines small-bike legacy with quiet brilliance",
+              "url": "https://www.thehindubusinessline.com/specials/auto-focus/triumph-bonneville-t40-redefines-small-bike-legacy-with-quiet-brilliance/article71750194.ece"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "bundestag": {
+    "wahlperiode": 21,
+    "sitzung": 112,
+    "url": "https://dserver.bundestag.de/btp/21/21112.pdf",
+    "summary_en": "The 112th session of the 21st legislative period of the German Bundestag took place on Thursday, November 26, 2026. The session began with the removal of supplementary agenda item 3d. Subsequently, the election of Dr. Alexander Wolf and Dr. Michael Blos as personal representatives for the Parliamentary Assembly of the Council of Europe was conducted. The main focus of the session was the continuation of the second reading of the draft Federal Budget Act for 2027 (Haushaltsgesetz 2027 – HG 2027), presented by the federal government. This was followed by the discussion of the Budget Committee's recommendation regarding the Federal Financial Plan 2026 to 2030. Several MPs from different parties contributed to the budget debate, including Leon Eckert (BÜNDNIS 90/DIE GRÜNEN), Dr. Thorsten Rudolph (SPD), Dr. Dietmar Bartsch (Die Linke), Alexander Dobrindt (Federal Minister BMI), Marcel Emmerich (BÜNDNIS 90/DIE GRÜNEN), Martin Hess (AfD), Sebastian Fiedler (SPD), Lukas Benner (BÜNDNIS 90/DIE GRÜNEN), Clara Bünger (Die Linke), Dr. Günter Krings (CDU/CSU), Steffen Janich (AfD), Rasha Nasr (SPD), Schahina Gambir (BÜNDNIS 90/DIE GRÜNEN), and Sebastian Schmidt (CDU/CSU). Specific parts of the budget, namely Individual Plan 06 (Federal Ministry of the Interior) and Individual Plan 21 (Federal Commissioner for Data Protection and Freedom of Information), were discussed. Additional budget discussions included Individual Plan 07 (Federal Ministry of Justice and Consumer Protection) and Individual Plan 19 (Federal Constitutional Court). Supplementary agenda items included an AfD motion to strengthen natural and complementary medicine, and several AfD initiatives on tourism, quality checks in nursing care, outpatient care, transparency between the judiciary and executive, and qualifications of federal ministers, as well as the repeal of the law on parliamentary state secretaries.",
+    "summary_de": "Die 112. Sitzung der 21. Wahlperiode des Deutschen Bundestages fand am Donnerstag, den 26. November 2026, statt. Die Sitzung begann mit der Absetzung des Zusatzpunktes 3d. Anschließend wurde die Wahl der Abgeordneten Dr. Alexander Wolf und Dr. Michael Blos als persönliche Stellvertreter für die Parlamentarische Versammlung des Europarates durchgeführt. Der Hauptfokus der Sitzung lag auf der Fortsetzung der zweiten Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2027 (Haushaltsgesetz 2027 – HG 2027). Darauf folgte die Beratung der Beschlussempfehlung des Haushaltsausschusses zu der Unterrichtung durch die Bundesregierung: Finanzplan des Bundes 2026 bis 2030. Mehrere Abgeordnete verschiedener Fraktionen trugen zur Haushaltsdebatte bei, darunter Leon Eckert (BÜNDNIS 90/DIE GRÜNEN), Dr. Thorsten Rudolph (SPD), Dr. Dietmar Bartsch (Die Linke), Bundesminister Alexander Dobrindt (BMI), Marcel Emmerich (BÜNDNIS 90/DIE GRÜNEN), Martin Hess (AfD), Sebastian Fiedler (SPD), Lukas Benner (BÜNDNIS 90/DIE GRÜNEN), Clara Bünger (Die Linke), Dr. Günter Krings (CDU/CSU), Steffen Janich (AfD), Rasha Nasr (SPD), Schahina Gambir (BÜNDNIS 90/DIE GRÜNEN) und Sebastian Schmidt (CDU/CSU). Spezifische Teile des Haushalts, nämlich Einzelplan 06 (Bundesministerium des Innern) und Einzelplan 21 (Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit), wurden beraten. Weitere Haushaltsberatungen umfassten Einzelplan 07 (Bundesministerium der Justiz und für Verbraucherschutz) und Einzelplan 19 (Bundesverfassungsgericht). Zusatzpunkte umfassten einen Antrag der AfD zur Stärkung von Natur- und komplementärer Medizin sowie mehrere AfD-Initiativen zu Tourismus, Qualitätsprüfungen in der Pflege, ambulanter Versorgung, Transparenz zwischen Judikative und Exekutive und zur Qualifikation von Bundesministern, sowie zur Aufhebung des Gesetzes über die Rechtsverhältnisse der Parlamentarischen Staatssekretäre.",
+    "summary_easy": "Am 26. November 2026 gab es eine wichtige Sitzung im Bundestag. Zuerst wurde ein Tagespunkt gestrichen. Dann wurden zwei neue Vertreter für Europa gewählt. Der wichtigste Punkt war das Geld für das Jahr 2027. Abgeordnete sprachen über diesen \"Haushaltsplan\". Viele Politiker von verschiedenen Parteien sagten ihre Meinung. Sie diskutierten auch über Pläne für die nächsten Jahre. Einige Teile des \"Haushaltsplans\" wurden genau besprochen. Das waren Geld für das Innenministerium und für Datenschutz. Auch das Justizministerium und das \"Verfassungsgericht\" waren Themen. Es gab auch Anträge von der AfD-Partei. Diese Anträge handelten von \"Naturheilkunde\", \"Tourismus\" und \"Pflege\".",
+    "ukrainian_men": "Kein Thema in dieser Sitzung."
+  },
+  "facts": [
+    {
+      "fact_en": "In ancient Rome, purple dye was incredibly expensive and difficult to produce, primarily derived from the mucus of a specific sea snail (Murex brandaris). Because of its cost and vibrant hue, purple became a symbol of imperial power and wealth, worn by emperors and high-ranking officials, with sumptuary laws even restricting its use to royalty.",
+      "fact_de": "Im antiken Rom war lila Farbe unglaublich teuer und schwierig herzustellen, hauptsächlich gewonnen aus dem Schleim einer bestimmten Meeresschnecke (Murex brandaris). Aufgrund ihrer Kosten und leuchtenden Farbe wurde Lila zu einem Symbol kaiserlicher Macht und Reichtums, das von Kaisern und hochrangigen Beamten getragen wurde, wobei Kleiderordnungen sogar die Verwendung durch Könige einschränkten.",
+      "fact_easy": "In Rom war lila Farbe sehr teuer. Sie kam von Schnecken. Nur Kaiser und wichtige Leute durften lila tragen.",
+      "category": "Fashion",
+      "source_title": "Murex Shells and the Ancient World",
+      "source_url": "https://www.metmuseum.org/art/collection/search/437367"
+    },
+    {
+      "fact_en": "The tradition of blowing out birthday candles and making a wish originated from ancient Greece, where people believed that smoke carried prayers and wishes to the gods. The round shape of a birthday cake was also symbolic, representing the moon, and candles were lit to shine as brightly as the moon.",
+      "fact_de": "Die Tradition, Geburtstagskerzen auszupusten und sich etwas zu wünschen, stammt aus dem antiken Griechenland. Die Menschen glaubten, dass Rauch Gebete und Wünsche zu den Göttern trug. Die runde Form einer Geburtstagstorte war ebenfalls symbolisch, sie repräsentierte den Mond, und Kerzen wurden angezündet, um so hell wie der Mond zu leuchten.",
+      "fact_easy": "Man pustet Geburtstagskerzen aus und wünscht sich etwas. Das kommt aus dem alten Griechenland. Die Griechen glaubten, Rauch bringt Wünsche zu den Göttern.",
+      "category": "Traditions",
+      "source_title": "The Surprising History of Birthday Candles",
+      "source_url": "https://www.smithsonianmag.com/arts-culture/the-surprising-history-of-birthday-candles-68455555/"
+    }
+  ],
+  "frankfurt": {
+    "topics": [
+      {
+        "type": "Events",
+        "emoji": "🎪",
+        "headline_en": "Joachim-Edel-Pokal: Figure Skating Competition Honors Hessian Talent",
+        "headline_de": "Joachim-Edel-Pokal: Eiskunstlauf-Wettbewerb ehrt hessisches Talent",
+        "headline_easy": "Joachim-Edel-Pokal: Eiskunstlauf-Wettbewerb ehrt hessisches Talent",
+        "summary_en": "Over 200 figure skaters from across Germany will compete in the Joachim-Edel-Pokal this weekend. The event also serves as an homage to Joachim Edel, a celebrated Hessian athlete who passed away at the age of 27.",
+        "summary_de": "Mehr als 200 Eiskunstläufer aus ganz Deutschland treten am Wochenende beim Joachim-Edel-Pokal an. Der Wettbewerb ehrt gleichzeitig Joachim Edel, einen gefeierten hessischen Sportler, der im Alter von 27 Jahren verstarb.",
+        "summary_easy": "Mehr als 200 Eiskunstläufer sind bei einem Wettbewerb. Der Wettbewerb heißt Joachim-Edel-Pokal. Er ehrt einen guten Sportler aus Hessen. Der Sportler starb mit 27 Jahren.",
+        "links": [
+          {
+            "title": "Joachim-Edel-Pokal: Hommage an ein hessisches Sprungwunder",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/lcs-bad-nauheim-ehrt-eiskunstlauf-sprungwunder-joachim-edel-accg-201717118.html"
+          }
+        ]
+      },
+      {
+        "type": "Crime",
+        "emoji": "🚔",
+        "headline_en": "BILD Frankfurt Ticket: Saturday Paper Valid for RMV Travel on First Advent Weekend",
+        "headline_de": "BILD Frankfurt Ticket: Samstag-Zeitung gilt am ersten Adventswochenende als RMV-Fahrschein",
+        "headline_easy": "BILD Frankfurt Ticket: Samstag-Zeitung gilt am ersten Adventswochenende als RMV-Fahrschein",
+        "summary_en": "The Saturday edition of BILD Frankfurt serves as a valid ticket for travel on the RMV public transport network during the first Advent weekend, specifically November 28th and 29th.",
+        "summary_de": "Die gedruckte Samstagsausgabe der BILD Frankfurt gilt am ersten Adventswochenende, dem 28. und 29. November, als Fahrschein für den RMV-Verkehr in Hessen.",
+        "summary_easy": "Die Zeitung BILD Frankfurt von Samstag ist ein Ticket. Man kann damit am ersten Advents-Wochenende Bus und Bahn fahren. Das gilt in Hessen. Das ist am 28. und 29. November.",
+        "links": [
+          {
+            "title": "Gilt das erste Advents-Wochenende - BILD FRANKFURT von Samstag ist Ihr RMV-Fahrschein",
+            "url": "https://www.bild.de/regional/frankfurt/1-advents-wochenende-bild-frankfurt-von-samstag-ist-ihr-rmv-fahrschein-6b08430d78855274ac4ab7fd"
+          }
+        ]
+      },
+      {
+        "type": "Sales & Offers",
+        "emoji": "🛍️",
+        "headline_en": "BILD Frankfurt Saturday Paper Valid as RMV Ticket for First Advent Weekend",
+        "headline_de": "BILD Frankfurt Samstag-Zeitung als RMV-Ticket am ersten Adventswochenende gültig",
+        "headline_easy": "BILD Frankfurt Samstag-Zeitung als RMV-Ticket am ersten Adventswochenende gültig",
+        "summary_en": "For the first Advent weekend, the Saturday edition of BILD Frankfurt will function as a valid RMV travel ticket across Hesse's public transport system, valid on November 28th and 29th.",
+        "summary_de": "Am ersten Adventswochenende dient die gedruckte Samstagsausgabe der BILD Frankfurt als Fahrausweis für die Nutzung der öffentlichen Verkehrsmittel des RMV in ganz Hessen, gültig am 28. und 29. November.",
+        "summary_easy": "Man kann die Zeitung BILD Frankfurt vom Samstag kaufen. Sie ist ein Ticket. Dieses Ticket gilt für Busse und Bahnen. Das gilt am ersten Advents-Wochenende. Das ist am 28. und 29. November.",
+        "links": [
+          {
+            "title": "Gilt das erste Advents-Wochenende - BILD FRANKFURT von Samstag ist Ihr RMV-Fahrschein",
+            "url": "https://www.bild.de/regional/frankfurt/1-advents-wochenende-bild-frankfurt-von-samstag-ist-ihr-rmv-fahrschein-6b08430d78855274ac4ab7fd"
+          }
+        ]
+      },
+      {
+        "type": "Local News",
+        "emoji": "📍",
+        "headline_en": "Joachim-Edel-Pokal Figure Skating Competition Honors Hessian Athlete",
+        "headline_de": "Joachim-Edel-Pokal Eiskunstlauf-Wettbewerb ehrt hessischen Athleten",
+        "headline_easy": "Joachim-Edel-Pokal Eiskunstlauf-Wettbewerb ehrt hessischen Athleten",
+        "summary_en": "This weekend, over 200 figure skaters from across Germany will participate in the Joachim-Edel-Pokal. The LSC Bad Nauheim is hosting the event to honor Joachim Edel, a talented Hessian athlete who passed away at 27.",
+        "summary_de": "Am Wochenende treten über 200 Eiskunstläufer aus ganz Deutschland beim Joachim-Edel-Pokal an. Der LSC Bad Nauheim ehrt bei dieser Veranstaltung Joachim Edel, einen talentierten hessischen Sportler, der im Alter von 27 Jahren verstarb.",
+        "summary_easy": "Dieses Wochenende gibt es einen Eiskunstlauf-Wettbewerb. Er heißt Joachim-Edel-Pokal. Mehr als 200 Sportler machen mit. Der Wettbewerb ist für einen Sportler aus Hessen. Er hieß Joachim Edel und starb mit 27 Jahren.",
+        "links": [
+          {
+            "title": "Joachim-Edel-Pokal: Hommage an ein hessisches Sprungwunder",
+            "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/lcs-bad-nauheim-ehrt-eiskunstlauf-sprungwunder-joachim-edel-accg-201717118.html"
+          },
+          {
+            "title": "Gilt das erste Advents-Wochenende - BILD FRANKFURT von Samstag ist Ihr RMV-Fahrschein",
+            "url": "https://www.bild.de/regional/frankfurt/1-advents-wochenende-bild-frankfurt-von-samstag-ist-ihr-rmv-fahrschein-6b08430d78855274ac4ab7fd"
+          }
+        ]
+      }
+    ]
+  },
+  "dresden": []
+}
